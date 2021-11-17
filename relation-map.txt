@@ -1,0 +1,567 @@
+knownFor	<http://dbpedia.org/ontology/knownFor>	<http://dbpedia.org/property/knownFor>	
+designer	<http://dbpedia.org/ontology/designer>	<http://dbpedia.org/property/designer>	
+relatives	<http://dbpedia.org/property/relatives>	
+after	<http://dbpedia.org/property/after>	
+before	<http://dbpedia.org/property/before>	
+relative	<http://dbpedia.org/ontology/relative>	
+predecessor	<http://dbpedia.org/property/predecessor>	<http://dbpedia.org/ontology/predecessor>	
+successor	<http://dbpedia.org/property/successor>	<http://dbpedia.org/ontology/successor>	
+aka	<http://dbpedia.org/property/aka>	
+series	<http://dbpedia.org/ontology/series>	<http://dbpedia.org/property/series>	
+subsequentWork	<http://dbpedia.org/ontology/subsequentWork>	
+previousWork	<http://dbpedia.org/ontology/previousWork>	
+followedBy	<http://dbpedia.org/property/followedBy>	
+precededBy	<http://dbpedia.org/property/precededBy>	
+books	<http://dbpedia.org/property/books>	
+manager	<http://dbpedia.org/property/manager>	
+isPartOf	<http://dbpedia.org/ontology/isPartOf>	
+line	<http://dbpedia.org/property/line>	
+routeEnd	<http://dbpedia.org/ontology/routeEnd>	
+mascot	<http://dbpedia.org/property/mascot>	
+collegeteam	<http://dbpedia.org/property/collegeteam>	
+education	<http://dbpedia.org/property/education>	<http://dbpedia.org/ontology/education>	
+relatedMascots	<http://dbpedia.org/property/relatedMascots>	
+affiliation	<http://dbpedia.org/property/affiliation>	<http://dbpedia.org/ontology/affiliation>	
+marchingband	<http://dbpedia.org/property/marchingband>	
+school	<http://dbpedia.org/property/school>	
+university	<http://dbpedia.org/ontology/university>	<http://dbpedia.org/property/university>	
+nickname	<http://dbpedia.org/property/nickname>	
+coachingTeam	<http://dbpedia.org/property/coachingTeam>	
+college	<http://dbpedia.org/ontology/college>	<http://dbpedia.org/property/college>	
+affiliations	<http://dbpedia.org/property/affiliations>	
+stadium	<http://dbpedia.org/ontology/stadium>	<http://dbpedia.org/property/stadium>	
+owner	<http://dbpedia.org/ontology/owner>	<http://dbpedia.org/property/owner>	
+playerTeam	<http://dbpedia.org/property/playerTeam>	
+almaMater	<http://dbpedia.org/property/almaMater>	<http://dbpedia.org/ontology/almaMater>	
+operator	<http://dbpedia.org/ontology/operator>	<http://dbpedia.org/property/operator>	
+rdf-schema#seeAlso	<http://www.w3.org/2000/01/rdf-schema#seeAlso>	
+parent	<http://dbpedia.org/property/parent>	<http://dbpedia.org/ontology/parent>	
+basketballarena	<http://dbpedia.org/property/basketballarena>	
+softballstadium	<http://dbpedia.org/property/softballstadium>	
+baseballfield	<http://dbpedia.org/property/baseballfield>	
+arena	<http://dbpedia.org/property/arena>	
+tenant	<http://dbpedia.org/ontology/tenant>	
+mascotdisplay	<http://dbpedia.org/property/mascotdisplay>	
+tenants	<http://dbpedia.org/property/tenants>	
+location	<http://dbpedia.org/property/location>	<http://dbpedia.org/ontology/location>	
+licensee	<http://dbpedia.org/property/licensee>	
+type	<http://dbpedia.org/ontology/type>	<http://dbpedia.org/property/type>	
+nextevent	<http://dbpedia.org/property/nextevent>	
+followingEvent	<http://dbpedia.org/ontology/followingEvent>	
+winners	<http://dbpedia.org/property/winners>	
+league	<http://dbpedia.org/ontology/league>	<http://dbpedia.org/property/league>	
+competition	<http://dbpedia.org/property/competition>	
+stip	<http://dbpedia.org/property/stip>	
+previousEvent	<http://dbpedia.org/ontology/previousEvent>	
+author	<http://dbpedia.org/ontology/author>	<http://dbpedia.org/property/author>	
+editor	<http://dbpedia.org/ontology/editor>	<http://dbpedia.org/property/editor>	
+manufacturer	<http://dbpedia.org/property/manufacturer>	<http://dbpedia.org/ontology/manufacturer>	
+presenter	<http://dbpedia.org/property/presenter>	<http://dbpedia.org/ontology/presenter>	
+conviction	<http://dbpedia.org/property/conviction>	
+treatment	<http://dbpedia.org/ontology/treatment>	<http://dbpedia.org/property/treatment>	
+creators	<http://dbpedia.org/property/creators>	
+creator	<http://dbpedia.org/property/creator>	<http://dbpedia.org/ontology/creator>	
+publisher	<http://dbpedia.org/ontology/publisher>	<http://dbpedia.org/property/publisher>	
+writer	<http://dbpedia.org/ontology/writer>	<http://dbpedia.org/property/writer>	
+writers	<http://dbpedia.org/property/writers>	
+subdivision	<http://dbpedia.org/ontology/subdivision>	<http://dbpedia.org/property/subdivision>	
+localAuthority	<http://dbpedia.org/property/localAuthority>	
+city	<http://dbpedia.org/ontology/city>	<http://dbpedia.org/property/city>	
+subdivisionName	<http://dbpedia.org/property/subdivisionName>	
+state	<http://dbpedia.org/property/state>	<http://dbpedia.org/ontology/state>	
+counties	<http://dbpedia.org/property/counties>	
+routeJunction	<http://dbpedia.org/ontology/routeJunction>	
+county	<http://dbpedia.org/ontology/county>	<http://dbpedia.org/property/county>	
+address	<http://dbpedia.org/property/address>	
+states	<http://dbpedia.org/property/states>	
+routeStart	<http://dbpedia.org/ontology/routeStart>	
+parts	<http://dbpedia.org/property/parts>	
+subdivisionType	<http://dbpedia.org/property/subdivisionType>	
+territory	<http://dbpedia.org/property/territory>	<http://dbpedia.org/ontology/territory>	
+locatedInArea	<http://dbpedia.org/ontology/locatedInArea>	
+largestCity	<http://dbpedia.org/ontology/largestCity>	<http://dbpedia.org/property/largestCity>	
+birthPlace	<http://dbpedia.org/property/birthPlace>	<http://dbpedia.org/ontology/birthPlace>	
+restingPlace	<http://dbpedia.org/ontology/restingPlace>	
+unit	<http://dbpedia.org/property/unit>	
+country	<http://dbpedia.org/ontology/country>	<http://dbpedia.org/property/country>	
+seat	<http://dbpedia.org/property/seat>	
+controlledby	<http://dbpedia.org/property/controlledby>	
+next	<http://dbpedia.org/property/next>	
+prev	<http://dbpedia.org/property/prev>	
+nextSeason	<http://dbpedia.org/property/nextSeason>	
+prevSeason	<http://dbpedia.org/property/prevSeason>	
+sport	<http://dbpedia.org/property/sport>	
+title	<http://dbpedia.org/property/title>	
+team	<http://dbpedia.org/ontology/team>	<http://dbpedia.org/property/team>	
+division	<http://dbpedia.org/ontology/division>	<http://dbpedia.org/property/division>	
+finalsChamp	<http://dbpedia.org/property/finalsChamp>	
+debutleague	<http://dbpedia.org/property/debutleague>	
+holder	<http://dbpedia.org/property/holder>	
+pickedBy	<http://dbpedia.org/property/pickedBy>	
+debutteam	<http://dbpedia.org/property/debutteam>	
+susperps	<http://dbpedia.org/property/susperps>	
+combatant	<http://dbpedia.org/property/combatant>	
+place	<http://dbpedia.org/property/place>	<http://dbpedia.org/ontology/place>	
+workInstitution	<http://dbpedia.org/property/workInstitution>	
+institution	<http://dbpedia.org/ontology/institution>	
+academicDiscipline	<http://dbpedia.org/ontology/academicDiscipline>	
+fields	<http://dbpedia.org/property/fields>	
+species	<http://dbpedia.org/ontology/species>	
+director	<http://dbpedia.org/property/director>	<http://dbpedia.org/ontology/director>	
+candidate	<http://dbpedia.org/property/candidate>	
+region	<http://dbpedia.org/property/region>	<http://dbpedia.org/ontology/region>	<http://dbpedia.org/property/country/region>	
+representative	<http://dbpedia.org/property/representative>	
+cousins	<http://dbpedia.org/property/cousins>	
+televisionSeries	<http://dbpedia.org/ontology/televisionSeries>	
+genre	<http://dbpedia.org/ontology/genre>	<http://dbpedia.org/property/genre>	
+mpCategory	<http://dbpedia.org/property/mpCategory>	
+discoverySite	<http://dbpedia.org/property/discoverySite>	
+discoverer	<http://dbpedia.org/ontology/discoverer>	<http://dbpedia.org/property/discoverer>	
+caption	<http://dbpedia.org/property/caption>	
+veneratedIn	<http://dbpedia.org/property/veneratedIn>	<http://dbpedia.org/ontology/veneratedIn>	
+beatifiedPlace	<http://dbpedia.org/ontology/beatifiedPlace>	<http://dbpedia.org/property/beatifiedPlace>	
+religion	<http://dbpedia.org/property/religion>	<http://dbpedia.org/ontology/religion>	
+religiousAffiliation	<http://dbpedia.org/property/religiousAffiliation>	
+group	<http://dbpedia.org/property/group>	<http://dbpedia.org/property/org/group>	
+church	<http://dbpedia.org/property/church>	
+canonizedPlace	<http://dbpedia.org/ontology/canonizedPlace>	
+architect	<http://dbpedia.org/property/architect>	<http://dbpedia.org/ontology/architect>	
+continentalcup	<http://dbpedia.org/property/continentalcup>	
+event	<http://dbpedia.org/property/event>	
+champions	<http://dbpedia.org/property/champions>	
+constituencyDistrict	<http://dbpedia.org/ontology/constituencyDistrict>	
+termPeriod	<http://dbpedia.org/ontology/termPeriod>	
+language	<http://dbpedia.org/ontology/language>	<http://dbpedia.org/property/language>	
+sisterChannels	<http://dbpedia.org/property/sisterChannels>	
+headquarter	<http://dbpedia.org/ontology/headquarter>	
+regionalLanguages	<http://dbpedia.org/property/regionalLanguages>	
+nationalcompetition	<http://dbpedia.org/property/nationalcompetition>	
+winner	<http://dbpedia.org/property/winner>	
+strongestStormName	<http://dbpedia.org/property/strongestStormName>	
+firstTeam	<http://dbpedia.org/property/firstTeam>	
+poleTeam	<http://dbpedia.org/property/poleTeam>	
+poleDriver	<http://dbpedia.org/ontology/poleDriver>	
+mostTeam	<http://dbpedia.org/property/mostTeam>	
+mostDriver	<http://dbpedia.org/property/mostDriver>	
+firstDriver	<http://dbpedia.org/ontology/firstDriver>	
+field	<http://dbpedia.org/property/field>	
+discipline	<http://dbpedia.org/property/discipline>	
+jurisdiction	<http://dbpedia.org/ontology/jurisdiction>	
+subject	<http://purl.org/dc/elements/1.1/subject>	<http://dbpedia.org/property/subject>	
+coverArtist	<http://dbpedia.org/property/coverArtist>	<http://dbpedia.org/ontology/coverArtist>	
+altcaptain	<http://dbpedia.org/property/altcaptain>	
+introducedby	<http://dbpedia.org/property/introducedby>	
+committees	<http://dbpedia.org/property/committees>	
+shipBuilder	<http://dbpedia.org/property/shipBuilder>	
+builder	<http://dbpedia.org/ontology/builder>	
+currentowner	<http://dbpedia.org/property/currentowner>	
+class	<http://dbpedia.org/ontology/class>	<http://dbpedia.org/property/class>	
+monuments	<http://dbpedia.org/property/monuments>	
+philosophicalSchool	<http://dbpedia.org/ontology/philosophicalSchool>	
+academicAdvisor	<http://dbpedia.org/ontology/academicAdvisor>	
+owl#differentFrom	<http://www.w3.org/2002/07/owl#differentFrom>	
+influences	<http://dbpedia.org/property/influences>	
+occupation	<http://dbpedia.org/property/occupation>	<http://dbpedia.org/ontology/occupation>	
+academicAdvisors	<http://dbpedia.org/property/academicAdvisors>	
+profession	<http://dbpedia.org/property/profession>	<http://dbpedia.org/ontology/profession>	
+workInstitutions	<http://dbpedia.org/property/workInstitutions>	
+associatedMusicalArtist	<http://dbpedia.org/ontology/associatedMusicalArtist>	
+associatedActs	<http://dbpedia.org/property/associatedActs>	
+gender	<http://dbpedia.org/property/gender>	<http://dbpedia.org/ontology/gender>	
+finalsRunnerUp	<http://dbpedia.org/property/finalsRunnerUp>	
+conf1Champ	<http://dbpedia.org/property/conf1Champ>	
+conf2Champ	<http://dbpedia.org/property/conf2Champ>	
+debutTeam	<http://dbpedia.org/ontology/debutTeam>	
+finalteam	<http://dbpedia.org/property/finalteam>	
+networks	<http://dbpedia.org/property/networks>	
+connectivity	<http://dbpedia.org/property/connectivity>	
+organization	<http://dbpedia.org/property/organization>	
+openingTheme	<http://dbpedia.org/ontology/openingTheme>	
+license	<http://dbpedia.org/ontology/license>	
+breeder	<http://dbpedia.org/ontology/breeder>	<http://dbpedia.org/property/breeder>	
+damsire	<http://dbpedia.org/property/damsire>	<http://dbpedia.org/ontology/damsire>	
+satelliteOf	<http://dbpedia.org/property/satelliteOf>	
+composer	<http://dbpedia.org/property/composer>	<http://dbpedia.org/ontology/composer>	
+status	<http://dbpedia.org/property/status>	
+denomination	<http://dbpedia.org/ontology/denomination>	<http://dbpedia.org/property/denomination>	
+agency	<http://dbpedia.org/property/agency>	
+product	<http://dbpedia.org/ontology/product>	
+name	<http://dbpedia.org/property/name>	
+authorityName	<http://dbpedia.org/property/authorityName>	
+typeSpeciesAuthority	<http://dbpedia.org/property/typeSpeciesAuthority>	
+club	<http://dbpedia.org/property/club>	
+ruProvince	<http://dbpedia.org/property/ruProvince>	
+ruProclubs	<http://dbpedia.org/property/ruProclubs>	
+ruAmateurclubs	<http://dbpedia.org/property/ruAmateurclubs>	
+ruCurrentteam	<http://dbpedia.org/property/ruCurrentteam>	
+nrlAffiliation	<http://dbpedia.org/property/nrlAffiliation>	
+ruNationalteam	<http://dbpedia.org/property/ruNationalteam>	
+cup	<http://dbpedia.org/property/cup>	
+rlProclubs	<http://dbpedia.org/property/rlProclubs>	
+tournament	<http://dbpedia.org/property/tournament>	
+mostChamps	<http://dbpedia.org/property/mostChamps>	
+champion	<http://dbpedia.org/property/champion>	<http://dbpedia.org/ontology/champion>	
+super	<http://dbpedia.org/property/super>	
+home	<http://dbpedia.org/property/home>	
+teama	<http://dbpedia.org/property/teama>	
+rlNationalteam	<http://dbpedia.org/property/rlNationalteam>	
+away	<http://dbpedia.org/property/away>	
+formerTeam	<http://dbpedia.org/ontology/formerTeam>	
+governingBody	<http://dbpedia.org/property/governingBody>	
+teamb	<http://dbpedia.org/property/teamb>	
+coachteam	<http://dbpedia.org/property/coachteam>	
+sooteam	<http://dbpedia.org/property/sooteam>	
+activities	<http://dbpedia.org/property/activities>	
+deathCause	<http://dbpedia.org/property/deathCause>	
+nationality	<http://dbpedia.org/property/nationality>	<http://dbpedia.org/ontology/nationality>	
+placeOfBurial	<http://dbpedia.org/property/placeOfBurial>	
+nonFictionSubject	<http://dbpedia.org/ontology/nonFictionSubject>	
+owned	<http://dbpedia.org/property/owned>	
+areaServed	<http://dbpedia.org/property/areaServed>	
+wikiPageDisambiguates	<http://dbpedia.org/ontology/wikiPageDisambiguates>	
+locale	<http://dbpedia.org/property/locale>	
+locationCountry	<http://dbpedia.org/ontology/locationCountry>	<http://dbpedia.org/property/locationCountry>	
+hqCity	<http://dbpedia.org/property/hqCity>	
+topLevelDomain	<http://dbpedia.org/ontology/topLevelDomain>	
+cctld	<http://dbpedia.org/property/cctld>	
+broadcastNetwork	<http://dbpedia.org/ontology/broadcastNetwork>	
+owningCompany	<http://dbpedia.org/ontology/owningCompany>	
+formerBroadcastNetwork	<http://dbpedia.org/ontology/formerBroadcastNetwork>	
+formerAffiliations	<http://dbpedia.org/property/formerAffiliations>	
+sisterStation	<http://dbpedia.org/ontology/sisterStation>	
+company	<http://dbpedia.org/property/company>	<http://dbpedia.org/ontology/company>	
+industry	<http://dbpedia.org/ontology/industry>	<http://dbpedia.org/property/industry>	
+list1.	<http://dbpedia.org/property/list1.>	
+conf2RunnerUp	<http://dbpedia.org/property/conf2RunnerUp>	
+servingRailwayLine	<http://dbpedia.org/ontology/servingRailwayLine>	
+publicationType	<http://dbpedia.org/property/publicationType>	
+literaryGenre	<http://dbpedia.org/ontology/literaryGenre>	
+category	<http://dbpedia.org/property/category>	
+residence	<http://dbpedia.org/ontology/residence>	<http://dbpedia.org/property/residence>	
+currentLeague	<http://dbpedia.org/property/currentLeague>	
+formerLeagues	<http://dbpedia.org/property/formerLeagues>	
+finalleague	<http://dbpedia.org/property/finalleague>	
+hofers	<http://dbpedia.org/property/hofers>	
+related	<http://dbpedia.org/ontology/related>	
+awards	<http://dbpedia.org/property/awards>	
+award	<http://dbpedia.org/ontology/award>	
+notableWork	<http://dbpedia.org/ontology/notableWork>	
+activitySector	<http://dbpedia.org/property/activitySector>	
+keyPerson	<http://dbpedia.org/ontology/keyPerson>	
+people	<http://dbpedia.org/property/people>	
+channel	<http://dbpedia.org/ontology/channel>	<http://dbpedia.org/property/channel>	
+network	<http://dbpedia.org/ontology/network>	<http://dbpedia.org/property/network>	
+district	<http://dbpedia.org/ontology/district>	<http://dbpedia.org/property/district>	
+highSchool	<http://dbpedia.org/property/highSchool>	
+highschool	<http://dbpedia.org/property/highschool>	
+schoolBoard	<http://dbpedia.org/ontology/schoolBoard>	
+teaType	<http://dbpedia.org/property/teaType>	
+venue	<http://dbpedia.org/property/venue>	
+bodyStyle	<http://dbpedia.org/ontology/bodyStyle>	
+movement	<http://dbpedia.org/ontology/movement>	<http://dbpedia.org/property/movement>	
+eponym	<http://dbpedia.org/property/eponym>	
+orbitRegime	<http://dbpedia.org/property/orbitRegime>	
+deathPlace	<http://dbpedia.org/property/deathPlace>	<http://dbpedia.org/ontology/deathPlace>	
+management	<http://dbpedia.org/property/management>	
+headquarters	<http://dbpedia.org/property/headquarters>	
+nearestCity	<http://dbpedia.org/ontology/nearestCity>	
+partof	<http://dbpedia.org/property/partof>	
+town	<http://dbpedia.org/property/town>	
+nearestTown	<http://dbpedia.org/property/nearestTown>	
+municipality	<http://dbpedia.org/property/municipality>	
+doctoralStudents	<http://dbpedia.org/property/doctoralStudents>	
+doctoralStudent	<http://dbpedia.org/ontology/doctoralStudent>	
+stormtype	<http://dbpedia.org/property/stormtype>	
+areasAffected	<http://dbpedia.org/property/areasAffected>	
+origin	<http://dbpedia.org/property/origin>	<http://dbpedia.org/ontology/origin>	
+internet	<http://dbpedia.org/property/internet>	
+area	<http://dbpedia.org/property/area>	
+theme	<http://dbpedia.org/property/theme>	
+regionServed	<http://dbpedia.org/ontology/regionServed>	<http://dbpedia.org/property/regionServed>	
+basinCountries	<http://dbpedia.org/property/basinCountries>	
+destination	<http://dbpedia.org/ontology/destination>	
+destinations	<http://dbpedia.org/property/destinations>	
+languages	<http://dbpedia.org/property/languages>	
+hqLocationCountry	<http://dbpedia.org/property/hqLocationCountry>	
+populationPlace	<http://dbpedia.org/ontology/populationPlace>	
+distribution	<http://dbpedia.org/property/distribution>	
+ethnicGroup	<http://dbpedia.org/ontology/ethnicGroup>	
+council	<http://dbpedia.org/property/council>	
+differentialDiagnosis	<http://dbpedia.org/ontology/differentialDiagnosis>	
+diseases	<http://dbpedia.org/property/diseases>	
+differential	<http://dbpedia.org/property/differential>	
+disease	<http://dbpedia.org/ontology/disease>	
+conf	<http://dbpedia.org/property/conf>	
+coachTeam	<http://dbpedia.org/property/coachTeam>	
+currentConference	<http://dbpedia.org/property/currentConference>	
+conference	<http://dbpedia.org/property/conference>	
+currentTeam	<http://dbpedia.org/property/currentTeam>	
+mountainRange	<http://dbpedia.org/ontology/mountainRange>	
+belt	<http://dbpedia.org/property/volcanicArc/belt>	
+range	<http://dbpedia.org/property/range>	
+parentPeak	<http://dbpedia.org/property/parentPeak>	
+volcanicArc	<http://dbpedia.org/property/volcanicArc>	
+volcanicBelt	<http://dbpedia.org/property/volcanicBelt>	
+promotion	<http://dbpedia.org/property/promotion>	
+party	<http://dbpedia.org/ontology/party>	<http://dbpedia.org/property/party>	
+honorificSuffix	<http://dbpedia.org/property/honorificSuffix>	
+key	<http://dbpedia.org/property/key>	
+purpose	<http://dbpedia.org/property/purpose>	
+hubAirport	<http://dbpedia.org/ontology/hubAirport>	
+hubs	<http://dbpedia.org/property/hubs>	
+targetAirport	<http://dbpedia.org/ontology/targetAirport>	
+bases	<http://dbpedia.org/property/bases>	
+significantBuilding	<http://dbpedia.org/ontology/significantBuilding>	
+significantBuildings	<http://dbpedia.org/property/significantBuildings>	
+significantProject	<http://dbpedia.org/ontology/significantProject>	
+data	<http://dbpedia.org/property/data>	
+terminusB	<http://dbpedia.org/property/terminusB>	
+athletics	<http://dbpedia.org/ontology/athletics>	<http://dbpedia.org/property/athletics>	
+rivalries	<http://dbpedia.org/property/rivalries>	
+namedAfter	<http://dbpedia.org/property/namedAfter>	
+house	<http://dbpedia.org/property/house>	
+founder	<http://dbpedia.org/property/founder>	
+father	<http://dbpedia.org/property/father>	
+parentHouse	<http://dbpedia.org/property/parentHouse>	
+eventEnd	<http://dbpedia.org/property/eventEnd>	
+nobleFamily	<http://dbpedia.org/property/nobleFamily>	
+child	<http://dbpedia.org/ontology/child>	
+succession	<http://dbpedia.org/property/succession>	
+commander	<http://dbpedia.org/property/commander>	<http://dbpedia.org/ontology/commander>	
+leader	<http://dbpedia.org/property/leader>	
+ethnicity	<http://dbpedia.org/property/ethnicity>	
+constell	<http://dbpedia.org/property/constell>	
+architecturalStyle	<http://dbpedia.org/ontology/architecturalStyle>	
+architecture	<http://dbpedia.org/property/architecture>	
+style	<http://dbpedia.org/property/style>	
+majorFigures	<http://dbpedia.org/property/majorFigures>	
+otheroccupation	<http://dbpedia.org/property/otheroccupation>	
+relatedOccupation	<http://dbpedia.org/property/relatedOccupation>	
+derivative	<http://dbpedia.org/ontology/derivative>	
+developer	<http://dbpedia.org/ontology/developer>	<http://dbpedia.org/property/developer>	
+associatedBand	<http://dbpedia.org/ontology/associatedBand>	
+bandMember	<http://dbpedia.org/ontology/bandMember>	
+producer	<http://dbpedia.org/property/producer>	<http://dbpedia.org/ontology/producer>	
+artist	<http://dbpedia.org/ontology/artist>	<http://dbpedia.org/property/artist>	
+currentMembers	<http://dbpedia.org/property/currentMembers>	
+instrument	<http://dbpedia.org/ontology/instrument>	<http://dbpedia.org/property/instrument>	
+siteStadium	<http://dbpedia.org/property/siteStadium>	
+opponent	<http://dbpedia.org/property/opponent>	
+athleticsNickname	<http://dbpedia.org/property/athleticsNickname>	
+sportingAffiliations	<http://dbpedia.org/property/sportingAffiliations>	
+amatteam	<http://dbpedia.org/property/amatteam>	
+based	<http://dbpedia.org/property/based>	
+instruments	<http://dbpedia.org/property/instruments>	
+jewelry	<http://dbpedia.org/property/jewelry>	
+hybrid	<http://dbpedia.org/property/hybrid>	
+championships	<http://dbpedia.org/property/championships>	
+architectureType	<http://dbpedia.org/property/architectureType>	
+architecturalType	<http://dbpedia.org/property/architecturalType>	
+dedication	<http://dbpedia.org/property/dedication>	
+militaryBranch	<http://dbpedia.org/ontology/militaryBranch>	
+birthplace	<http://dbpedia.org/property/birthplace>	
+captain	<http://dbpedia.org/property/captain>	
+starring	<http://dbpedia.org/ontology/starring>	
+nextTour	<http://dbpedia.org/property/nextTour>	
+lastTour	<http://dbpedia.org/property/lastTour>	
+album	<http://dbpedia.org/property/album>	
+burial	<http://dbpedia.org/property/burial>	
+areasServed	<http://dbpedia.org/property/areasServed>	
+organisationalStatus	<http://dbpedia.org/property/organisationalStatus>	
+previousDenomination	<http://dbpedia.org/property/previousDenomination>	
+rite	<http://dbpedia.org/property/rite>	
+placeOfConsecration	<http://dbpedia.org/property/placeOfConsecration>	
+previousPost	<http://dbpedia.org/property/previousPost>	
+archbishop	<http://dbpedia.org/property/archbishop>	
+functionalStatus	<http://dbpedia.org/property/functionalStatus>	
+keypeople	<http://dbpedia.org/property/keypeople>	
+children	<http://dbpedia.org/property/children>	
+artery	<http://dbpedia.org/ontology/artery>	<http://dbpedia.org/property/artery>	
+supplies	<http://dbpedia.org/ontology/supplies>	<http://dbpedia.org/property/supplies>	
+system	<http://dbpedia.org/property/system>	
+route	<http://dbpedia.org/property/route>	
+mapName	<http://dbpedia.org/property/mapName>	
+mainOrgan	<http://dbpedia.org/property/mainOrgan>	<http://dbpedia.org/ontology/mainOrgan>	
+railwayRollingStock	<http://dbpedia.org/ontology/railwayRollingStock>	
+stock	<http://dbpedia.org/property/stock>	
+carries	<http://dbpedia.org/property/carries>	
+transitType	<http://dbpedia.org/property/transitType>	
+lines	<http://dbpedia.org/property/lines>	
+depot	<http://dbpedia.org/property/depot>	
+start	<http://dbpedia.org/property/start>	
+aircraftType	<http://dbpedia.org/property/aircraftType>	
+spectralType	<http://dbpedia.org/property/spectralType>	
+road	<http://dbpedia.org/property/road>	
+cities	<http://dbpedia.org/property/cities>	
+broadcastArea	<http://dbpedia.org/ontology/broadcastArea>	
+maint	<http://dbpedia.org/property/maint>	
+hostCity	<http://dbpedia.org/property/hostCity>	
+locationCity	<http://dbpedia.org/property/locationCity>	
+junction	<http://dbpedia.org/property/junction>	
+cityServed	<http://dbpedia.org/property/cityServed>	
+roads	<http://dbpedia.org/property/roads>	
+foundation	<http://dbpedia.org/property/foundation>	
+campus	<http://dbpedia.org/ontology/campus>	
+locationSpecial	<http://dbpedia.org/property/locationSpecial>	
+voice	<http://dbpedia.org/ontology/voice>	
+studio	<http://dbpedia.org/property/studio>	
+doctoralAdvisor	<http://dbpedia.org/ontology/doctoralAdvisor>	<http://dbpedia.org/property/doctoralAdvisor>	
+chairman	<http://dbpedia.org/ontology/chairman>	
+clubs	<http://dbpedia.org/property/clubs>	
+majorleague	<http://dbpedia.org/property/majorleague>	
+owners	<http://dbpedia.org/property/owners>	
+currentclub	<http://dbpedia.org/property/currentclub>	
+cricketFormat	<http://dbpedia.org/property/cricketFormat>	
+column	<http://dbpedia.org/property/column>	
+wickets	<http://dbpedia.org/property/wickets>	
+runs	<http://dbpedia.org/property/runs>	
+team1Captain	<http://dbpedia.org/property/team1Captain>	
+motm	<http://dbpedia.org/property/motm>	
+team1OdisMostWickets	<http://dbpedia.org/property/team1OdisMostWickets>	
+playerOfOdiSeries	<http://dbpedia.org/property/playerOfOdiSeries>	
+garrison	<http://dbpedia.org/ontology/garrison>	<http://dbpedia.org/property/garrison>	
+timezone	<http://dbpedia.org/property/timezone>	
+timeZone	<http://dbpedia.org/ontology/timeZone>	
+province	<http://dbpedia.org/ontology/province>	
+manuf	<http://dbpedia.org/property/manuf>	
+owl#sameAs	<http://www.w3.org/2002/07/owl#sameAs>	
+minorIngredient	<http://dbpedia.org/property/minorIngredient>	
+mainIngredient	<http://dbpedia.org/property/mainIngredient>	
+owningOrganisation	<http://dbpedia.org/ontology/owningOrganisation>	
+currentTour	<http://dbpedia.org/property/currentTour>	
+firstMajor	<http://dbpedia.org/property/firstMajor>	
+teleplay	<http://dbpedia.org/property/teleplay>	
+capital	<http://dbpedia.org/ontology/capital>	
+monarch	<http://dbpedia.org/ontology/monarch>	<http://dbpedia.org/property/monarch>	
+countryAdminDivisions	<http://dbpedia.org/property/countryAdminDivisions>	
+allegiance	<http://dbpedia.org/property/allegiance>	
+establishedEvent	<http://dbpedia.org/property/establishedEvent>	
+game	<http://dbpedia.org/property/game>	
+chassis	<http://dbpedia.org/property/chassis>	
+locationTown	<http://dbpedia.org/property/locationTown>	
+office	<http://dbpedia.org/property/office>	
+deanery	<http://dbpedia.org/property/deanery>	
+mainContractor	<http://dbpedia.org/property/mainContractor>	
+adminCenter	<http://dbpedia.org/property/adminCenter>	
+museum	<http://dbpedia.org/ontology/museum>	<http://dbpedia.org/property/museum>	
+postcodeDistrict	<http://dbpedia.org/property/postcodeDistrict>	
+postTown	<http://dbpedia.org/property/postTown>	
+administrativeCenter	<http://dbpedia.org/ontology/administrativeCenter>	
+streetAddress	<http://dbpedia.org/property/streetAddress>	
+currentTenants	<http://dbpedia.org/property/currentTenants>	
+leaderName	<http://dbpedia.org/property/leaderName>	
+unitaryEngland	<http://dbpedia.org/property/unitaryEngland>	
+department	<http://dbpedia.org/property/department>	
+leaderTitle	<http://dbpedia.org/property/leaderTitle>	
+imageCaption	<http://dbpedia.org/property/imageCaption>	
+registry	<http://dbpedia.org/property/registry>	
+sites	<http://dbpedia.org/property/sites>	
+schooltype	<http://dbpedia.org/property/schooltype>	
+grades	<http://dbpedia.org/property/grades>	<http://dbpedia.org/ontology/grades>	
+principal	<http://dbpedia.org/ontology/principal>	
+fundingtype	<http://dbpedia.org/property/fundingtype>	
+medication	<http://dbpedia.org/ontology/medication>	
+orbitReference	<http://dbpedia.org/property/orbitReference>	
+distributor	<http://dbpedia.org/ontology/distributor>	<http://dbpedia.org/property/distributor>	
+free	<http://dbpedia.org/property/free>	
+automobilePlatform	<http://dbpedia.org/ontology/automobilePlatform>	
+drivetrain	<http://dbpedia.org/property/drivetrain>	
+platform	<http://dbpedia.org/property/platform>	
+variantOf	<http://dbpedia.org/ontology/variantOf>	
+sire	<http://dbpedia.org/property/sire>	<http://dbpedia.org/ontology/sire>	
+grandsire	<http://dbpedia.org/ontology/grandsire>	<http://dbpedia.org/property/grandsire>	
+role	<http://dbpedia.org/property/role>	
+specialization	<http://dbpedia.org/property/specialization>	
+mouthMountain	<http://dbpedia.org/ontology/mouthMountain>	
+events	<http://dbpedia.org/property/events>	
+nameOfRace	<http://dbpedia.org/property/nameOfRace>	
+blank4InfoSec	<http://dbpedia.org/property/blank4InfoSec>	
+tvstations	<http://dbpedia.org/property/tvstations>	
+relegation	<http://dbpedia.org/property/relegation>	
+goalie	<http://dbpedia.org/property/goalie>	
+venues	<http://dbpedia.org/property/venues>	
+story	<http://dbpedia.org/property/story>	
+lastAppearance	<http://dbpedia.org/ontology/lastAppearance>	
+design	<http://dbpedia.org/property/design>	
+coach	<http://dbpedia.org/property/coach>	
+pastmajorleague	<http://dbpedia.org/property/pastmajorleague>	
+managers	<http://dbpedia.org/property/managers>	
+ideology	<http://dbpedia.org/property/ideology>	<http://dbpedia.org/ontology/ideology>	
+international	<http://dbpedia.org/property/international>	
+internationalAffiliation	<http://dbpedia.org/ontology/internationalAffiliation>	
+schoolTradition	<http://dbpedia.org/property/schoolTradition>	
+daughters	<http://dbpedia.org/property/daughters>	
+tv	<http://dbpedia.org/property/tv>	
+basedOn	<http://dbpedia.org/property/basedOn>	
+influenced	<http://dbpedia.org/ontology/influenced>	<http://dbpedia.org/property/influenced>	
+influencedBy	<http://dbpedia.org/ontology/influencedBy>	
+teamName	<http://dbpedia.org/property/teamName>	
+employer	<http://dbpedia.org/property/employer>	<http://dbpedia.org/ontology/employer>	
+designCompany	<http://dbpedia.org/ontology/designCompany>	
+constructor	<http://dbpedia.org/property/constructor>	
+engineName	<http://dbpedia.org/property/engineName>	
+powers	<http://dbpedia.org/property/powers>	
+era	<http://dbpedia.org/ontology/era>	<http://dbpedia.org/property/era>	
+assembly	<http://dbpedia.org/ontology/assembly>	<http://dbpedia.org/property/assembly>	
+premiereLocation	<http://dbpedia.org/property/premiereLocation>	
+otherTopics	<http://dbpedia.org/property/otherTopics>	
+musicSubgenre	<http://dbpedia.org/ontology/musicSubgenre>	
+stylisticOrigins	<http://dbpedia.org/property/stylisticOrigins>	
+stylisticOrigin	<http://dbpedia.org/ontology/stylisticOrigin>	
+subgenres	<http://dbpedia.org/property/subgenres>	
+restingplace	<http://dbpedia.org/property/restingplace>	
+last	<http://dbpedia.org/property/last>	
+period	<http://dbpedia.org/property/period>	
+coronation	<http://dbpedia.org/property/coronation>	
+family	<http://dbpedia.org/property/family>	
+preceded	<http://dbpedia.org/property/preceded>	
+relations	<http://dbpedia.org/property/relations>	
+burialPlace	<http://dbpedia.org/property/burialPlace>	
+spouse	<http://dbpedia.org/property/spouse>	
+firstMonarch	<http://dbpedia.org/property/firstMonarch>	
+founders	<http://dbpedia.org/property/founders>	
+mother	<http://dbpedia.org/property/mother>	
+battles	<http://dbpedia.org/property/battles>	
+titleLeader	<http://dbpedia.org/property/titleLeader>	
+reason	<http://dbpedia.org/property/reason>	
+topics	<http://dbpedia.org/property/topics>	
+services	<http://dbpedia.org/property/services>	
+voices	<http://dbpedia.org/property/voices>	
+perps	<http://dbpedia.org/property/perps>	
+victims	<http://dbpedia.org/property/victims>	
+perpetrators	<http://dbpedia.org/property/perpetrators>	
+lastevent	<http://dbpedia.org/property/lastevent>	
+previousWinner	<http://dbpedia.org/property/previousWinner>	
+pole	<http://dbpedia.org/property/pole>	
+fastTime	<http://dbpedia.org/property/fastTime>	
+announcers	<http://dbpedia.org/property/announcers>	
+thisWinner	<http://dbpedia.org/property/thisWinner>	
+nextWinner	<http://dbpedia.org/property/nextWinner>	
+manofmatch	<http://dbpedia.org/property/manofmatch>	
+homescore	<http://dbpedia.org/property/homescore>	
+rookie	<http://dbpedia.org/property/rookie>	
+nationalAffiliation	<http://dbpedia.org/ontology/nationalAffiliation>	
+plane1Operator	<http://dbpedia.org/property/plane1Operator>	
+brands	<http://dbpedia.org/property/brands>	
+base	<http://dbpedia.org/property/base>	
+topSeed	<http://dbpedia.org/property/topSeed>	
+season	<http://dbpedia.org/property/season>	
+constellation	<http://dbpedia.org/property/constellation>	
+surface	<http://dbpedia.org/property/surface>	
+congressionalDistrict	<http://dbpedia.org/ontology/congressionalDistrict>	
+governor	<http://dbpedia.org/property/governor>	
+succeeded	<http://dbpedia.org/property/succeeded>	
+lowerhouse	<http://dbpedia.org/property/lowerhouse>	
+nominee	<http://dbpedia.org/ontology/nominee>	<http://dbpedia.org/property/nominee>	
+site	<http://dbpedia.org/property/site>	
+playingTeam	<http://dbpedia.org/property/playingTeam>	
+headcoach	<http://dbpedia.org/property/headcoach>	
+scripture	<http://dbpedia.org/property/scripture>	
+scriptures	<http://dbpedia.org/property/scriptures>	
+religions	<http://dbpedia.org/property/religions>	
+label	<http://dbpedia.org/property/label>	
+namedFor	<http://dbpedia.org/property/namedFor>	
+namedafter	<http://dbpedia.org/property/namedafter>	
+etymology	<http://dbpedia.org/property/etymology>	
+shipNamesake	<http://dbpedia.org/property/shipNamesake>	
+namesake	<http://dbpedia.org/property/namesake>	
