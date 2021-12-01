@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/The_Weather_Channel	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/NBC
+NBCUniversal	owns	The_Weather_Channel
+NBCUniversal	owns	NBC
+
+

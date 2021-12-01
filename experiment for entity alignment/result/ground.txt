@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/A.C.D._Trissino-Valdagno	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Valdagno
+A.C.D._Trissino-Valdagno	isLocatedIn	Valdagno
+
+

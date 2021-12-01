@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Adrian_Smith_(architect)	http://dbpedia.org/ontology/significantBuilding	http://dbpedia.org/resource/Burj_Khalifa
+Adrian_Smith_(architect)	created	Burj_Khalifa
+
+

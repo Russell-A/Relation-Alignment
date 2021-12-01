@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/The_Blackstone_Group	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Stephen_A._Schwarzman
+Stephen_A._Schwarzman	created	The_Blackstone_Group
+
+

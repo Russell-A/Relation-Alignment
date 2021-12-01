@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Cremona	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Cremona
+Cremona	isLocatedIn	Province_of_Cremona
+
+

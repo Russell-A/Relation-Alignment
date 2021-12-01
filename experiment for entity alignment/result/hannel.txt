@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Wowowee	http://dbpedia.org/ontology/channel	http://dbpedia.org/resource/ABS-CBN
+ABS-CBN	created	Wowowee
+
+

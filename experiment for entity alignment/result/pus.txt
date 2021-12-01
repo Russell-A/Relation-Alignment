@@ -1,0 +1,15 @@
+http://dbpedia.org/resource/University_College_South_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kolding
+University_College_South_Denmark	isLocatedIn	Kolding
+
+
+http://dbpedia.org/resource/Sripatum_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Bangkok
+Sripatum_University	isLocatedIn	Chatuchak_District
+Chatuchak_District	isLocatedIn	Bangkok
+
+
+http://dbpedia.org/resource/University_College_Lillebaelt	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Vejle
+University_College_Lillebaelt	isLocatedIn	Jelling
+Jelling	isLocatedIn	Region_of_Southern_Denmark
+Region_of_Southern_Denmark	isLocatedIn	Vejle
+
+

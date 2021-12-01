@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Moldovans	http://dbpedia.org/ontology/populationPlace	http://dbpedia.org/resource/Portugal
+Moldovans	isLocatedIn	Portugal
+
+

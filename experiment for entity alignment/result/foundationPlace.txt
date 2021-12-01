@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Magic_Logix	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Texas
+Magic_Logix	isLocatedIn	Texas
+
+

@@ -1,0 +1,9 @@
+http://dbpedia.org/resource/Prithviraj_Sukumaran	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Mallika_Sukumaran
+Mallika_Sukumaran	hasChild	Prithviraj_Sukumaran
+
+
+http://dbpedia.org/resource/Daggubati_Venkatesh	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Daggubati_Suresh_Babu
+D._Ramanaidu	hasChild	Daggubati_Venkatesh
+D._Ramanaidu	hasChild	Daggubati_Suresh_Babu
+
+

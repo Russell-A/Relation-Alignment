@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/Lycoming_Creek	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Pennsylvania
+Lycoming_Creek	isLocatedIn	Pennsylvania
+
+
+http://dbpedia.org/resource/TV3_(Malaysia)	http://dbpedia.org/ontology/locationCountry	http://dbpedia.org/resource/Malaysia
+TV3_(Malaysia)	isLocatedIn	Malaysia
+
+

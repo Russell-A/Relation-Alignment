@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	Slovak_Extraliga
+
+

@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/Atlético_Tucumán	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Juan_Manuel_Azconzábal
+Juan_Manuel_Azconzábal	isAffiliatedTo	Atlético_Tucumán
+
+
+http://dbpedia.org/resource/Atlético_Tucumán	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Juan_Manuel_Azconzábal
+Juan_Manuel_Azconzábal	playsFor	Atlético_Tucumán
+
+

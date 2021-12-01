@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Aoös	isLocatedIn	Greece
+
+

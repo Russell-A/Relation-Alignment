@@ -1,0 +1,14 @@
+http://dbpedia.org/resource/Zelda_Williams	http://dbpedia.org/ontology/parent	http://dbpedia.org/resource/Marsha_Garces_Williams
+Marsha_Garces_Williams	hasChild	Zelda_Williams
+
+
+http://dbpedia.org/resource/Zelda_Williams	http://dbpedia.org/ontology/parent	http://dbpedia.org/resource/Marsha_Garces_Williams
+Robin_Williams	hasChild	Zelda_Williams
+Marsha_Garces_Williams	isMarriedTo	Robin_Williams
+
+
+http://dbpedia.org/resource/Zelda_Williams	http://dbpedia.org/ontology/parent	http://dbpedia.org/resource/Marsha_Garces_Williams
+Robin_Williams	hasChild	Zelda_Williams
+Robin_Williams	isMarriedTo	Marsha_Garces_Williams
+
+

@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Sydney,_Lady_Morgan	http://dbpedia.org/ontology/ethnicity	http://dbpedia.org/resource/Kingdom_of_Ireland
+Sydney,_Lady_Morgan	isCitizenOf	Kingdom_of_Ireland
+
+

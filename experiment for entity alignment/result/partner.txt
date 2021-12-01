@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/Vannozza_dei_Cattanei	http://dbpedia.org/ontology/partner	http://dbpedia.org/resource/Pope_Alexander_VI
+Vannozza_dei_Cattanei	hasChild	Cesare_Borgia
+Pope_Alexander_VI	hasChild	Cesare_Borgia
+
+

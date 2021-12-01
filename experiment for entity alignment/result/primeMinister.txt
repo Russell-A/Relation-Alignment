@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/Pier_Luigi_Bersani	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Massimo_D'Alema
+Pier_Luigi_Bersani	isAffiliatedTo	Democrats_of_the_Left
+Massimo_D'Alema	isLeaderOf	Democrats_of_the_Left
+
+

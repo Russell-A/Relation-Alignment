@@ -1,0 +1,14 @@
+http://dbpedia.org/resource/Ruth_Hanna_McCormick	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Bazy_Tankersley
+Ruth_Hanna_McCormick	hasChild	Bazy_Tankersley
+
+
+http://dbpedia.org/resource/Julia_Thorne	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Alexandra_Kerry
+Julia_Thorne	isMarriedTo	John_Kerry
+John_Kerry	hasChild	Alexandra_Kerry
+
+
+http://dbpedia.org/resource/Julia_Thorne	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Alexandra_Kerry
+John_Kerry	isMarriedTo	Julia_Thorne
+John_Kerry	hasChild	Alexandra_Kerry
+
+

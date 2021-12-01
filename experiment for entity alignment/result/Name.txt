@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/Dyberry_Township,_Wayne_County,_Pennsylvania	http://dbpedia.org/ontology/leaderName	http://dbpedia.org/resource/Michael_Peifer
+Michael_Peifer	isLeaderOf	Dyberry_Township,_Wayne_County,_Pennsylvania
+
+
+http://dbpedia.org/resource/Ilocos_Norte	http://dbpedia.org/ontology/leaderName	http://dbpedia.org/resource/Imee_Marcos
+Imee_Marcos	isPoliticianOf	Ilocos_Norte
+
+

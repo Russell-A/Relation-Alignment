@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Nahdlatul_Ulama	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Indonesia
+Nahdlatul_Ulama	isLocatedIn	Indonesia
+
+

@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	isLocatedIn	Cambodia
+
+

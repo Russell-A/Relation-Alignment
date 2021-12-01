@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/Dean_Računica	http://dbpedia.org/ontology/managerClub	http://dbpedia.org/resource/HNK_Hajduk_Split
+Dean_Računica	isAffiliatedTo	HNK_Hajduk_Split
+
+
+http://dbpedia.org/resource/Dean_Računica	http://dbpedia.org/ontology/managerClub	http://dbpedia.org/resource/HNK_Hajduk_Split
+Dean_Računica	playsFor	HNK_Hajduk_Split
+
+

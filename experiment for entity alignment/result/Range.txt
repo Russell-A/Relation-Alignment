@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Gravale	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Gravale	isLocatedIn	Wicklow_Mountains
+
+

@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/People's_Party_of_Galicia	http://dbpedia.org/ontology/nationalAffiliation	http://dbpedia.org/resource/People's_Party_(Spain)
+Manuel_Fraga_Iribarne	created	People's_Party_of_Galicia
+Manuel_Fraga_Iribarne	isAffiliatedTo	People's_Party_(Spain)
+
+
+http://dbpedia.org/resource/People's_Party_of_Galicia	http://dbpedia.org/ontology/nationalAffiliation	http://dbpedia.org/resource/People's_Party_(Spain)
+Mariano_Rajoy	isLeaderOf	People's_Party_of_Galicia
+Mariano_Rajoy	isAffiliatedTo	People's_Party_(Spain)
+
+

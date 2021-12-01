@@ -1,0 +1,26 @@
+http://dbpedia.org/resource/Albert_of_Saxony	http://dbpedia.org/ontology/predecessor	http://dbpedia.org/resource/John_of_Saxony
+John_of_Saxony	hasChild	Albert_of_Saxony
+
+
+http://dbpedia.org/resource/Friedrich_Franz,_Hereditary_Grand_Duke_of_Mecklenburg-Schwerin	http://dbpedia.org/ontology/predecessor	http://dbpedia.org/resource/Frederick_Francis_IV,_Grand_Duke_of_Mecklenburg-Schwerin
+Princess_Alexandra_of_Hanover_(1882–1963)	hasChild	Friedrich_Franz,_Hereditary_Grand_Duke_of_Mecklenburg-Schwerin
+Frederick_Francis_IV,_Grand_Duke_of_Mecklenburg-Schwerin	isMarriedTo	Princess_Alexandra_of_Hanover_(1882–1963)
+
+
+http://dbpedia.org/resource/Friedrich_Franz,_Hereditary_Grand_Duke_of_Mecklenburg-Schwerin	http://dbpedia.org/ontology/predecessor	http://dbpedia.org/resource/Frederick_Francis_IV,_Grand_Duke_of_Mecklenburg-Schwerin
+Princess_Alexandra_of_Hanover_(1882–1963)	hasChild	Friedrich_Franz,_Hereditary_Grand_Duke_of_Mecklenburg-Schwerin
+Princess_Alexandra_of_Hanover_(1882–1963)	isMarriedTo	Frederick_Francis_IV,_Grand_Duke_of_Mecklenburg-Schwerin
+
+
+http://dbpedia.org/resource/Prince_Philippe,_Count_of_Paris	http://dbpedia.org/ontology/predecessor	http://dbpedia.org/resource/Louis_Philippe_I
+Duchess_Helene_of_Mecklenburg-Schwerin	hasChild	Prince_Philippe,_Count_of_Paris
+Ferdinand_Philippe,_Duke_of_Orléans	isMarriedTo	Duchess_Helene_of_Mecklenburg-Schwerin
+Louis_Philippe_I	hasChild	Ferdinand_Philippe,_Duke_of_Orléans
+
+
+http://dbpedia.org/resource/Prince_Philippe,_Count_of_Paris	http://dbpedia.org/ontology/predecessor	http://dbpedia.org/resource/Louis_Philippe_I
+Duchess_Helene_of_Mecklenburg-Schwerin	hasChild	Prince_Philippe,_Count_of_Paris
+Duchess_Helene_of_Mecklenburg-Schwerin	isMarriedTo	Ferdinand_Philippe,_Duke_of_Orléans
+Louis_Philippe_I	hasChild	Ferdinand_Philippe,_Duke_of_Orléans
+
+

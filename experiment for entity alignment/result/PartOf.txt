@@ -1,0 +1,19 @@
+http://dbpedia.org/resource/Blandford,_Massachusetts	http://dbpedia.org/ontology/isPartOf	http://dbpedia.org/resource/Hampden_County,_Massachusetts
+Blandford,_Massachusetts	isLocatedIn	Hampden_County,_Massachusetts
+
+
+http://dbpedia.org/resource/Saminikro	http://dbpedia.org/ontology/isPartOf	http://dbpedia.org/resource/Vallée_du_Bandama_District
+Saminikro	isLocatedIn	Brobo
+Brobo	isLocatedIn	Vallée_du_Bandama_District
+
+
+http://dbpedia.org/resource/Kalmar	http://dbpedia.org/ontology/isPartOf	http://dbpedia.org/resource/Kalmar_County
+Kalmar_County	hasCapital	Kalmar
+
+
+http://dbpedia.org/resource/Saminikro	http://dbpedia.org/ontology/isPartOf	http://dbpedia.org/resource/Vallée_du_Bandama_District
+Saminikro	isLocatedIn	Brobo
+Brobo	isLocatedIn	Bouaké_Department
+Bouaké_Department	isLocatedIn	Vallée_du_Bandama_District
+
+

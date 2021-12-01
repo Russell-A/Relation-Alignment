@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Limpopo_River	http://dbpedia.org/ontology/mouthCountry	http://dbpedia.org/resource/Mozambique
+Limpopo_River	isLocatedIn	Mozambique
+
+

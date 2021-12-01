@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Rashidun_army	http://dbpedia.org/ontology/secondCommander	http://dbpedia.org/resource/'Amr_ibn_al-'As
+'Amr_ibn_al-'As	isLeaderOf	Rashidun_army
+
+
