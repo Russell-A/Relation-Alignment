@@ -1,4 +1,4 @@
-# Relatin-alignment
+# Relation-alignment
 
 This github repository aims to provide the dataset for relation-alignment and the project code for the paper 'Building Benchmark Datasets for Relation Alignment Between Knowledge Graphs'
 
