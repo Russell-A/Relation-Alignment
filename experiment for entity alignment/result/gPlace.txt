@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Abbas_ibn_Ali	http://dbpedia.org/ontology/restingPlace	http://dbpedia.org/resource/Karbala
+Abbas_ibn_Ali	diedIn	Karbala
+
+

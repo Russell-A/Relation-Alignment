@@ -1,0 +1,13 @@
+http://dbpedia.org/resource/Adnan_Gulshair_el_Shukrijumah	http://dbpedia.org/ontology/stateOfOrigin	http://dbpedia.org/resource/Saudi_Arabia
+Adnan_Gulshair_el_Shukrijumah	isCitizenOf	Saudi_Arabia
+
+
+http://dbpedia.org/resource/Adnan_Gulshair_el_Shukrijumah	http://dbpedia.org/ontology/stateOfOrigin	http://dbpedia.org/resource/Saudi_Arabia
+Adnan_Gulshair_el_Shukrijumah	wasBornIn	Saudi_Arabia
+
+
+http://dbpedia.org/resource/Asanterabi_Malima	http://dbpedia.org/ontology/stateOfOrigin	http://dbpedia.org/resource/Tanzania
+Asanterabi_Malima	wasBornIn	Dar_es_Salaam
+Dar_es_Salaam	isLocatedIn	Tanzania
+
+

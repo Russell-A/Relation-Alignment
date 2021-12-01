@@ -1,0 +1,12 @@
+http://dbpedia.org/resource/Operation_Colorado	http://dbpedia.org/ontology/place	http://dbpedia.org/resource/Quảng_Nam_Province
+Operation_Colorado	happenedIn	Quảng_Nam_Province
+
+
+http://dbpedia.org/resource/Battle_of_Gagra	http://dbpedia.org/ontology/place	http://dbpedia.org/resource/Abkhazia
+Battle_of_Gagra	isLocatedIn	Abkhazia
+
+
+http://dbpedia.org/resource/Androscoggin_River	http://dbpedia.org/ontology/sourcePlace	http://dbpedia.org/resource/Coös_County,_New_Hampshire
+Androscoggin_River	isLocatedIn	Coös_County,_New_Hampshire
+
+

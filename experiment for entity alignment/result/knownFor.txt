@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Lo_Hsing_Han	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Asia_World
+Lo_Hsing_Han	created	Asia_World
+
+

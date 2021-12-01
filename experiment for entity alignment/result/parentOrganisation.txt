@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/NBC	http://dbpedia.org/ontology/parentOrganisation	http://dbpedia.org/resource/Comcast
+Comcast	owns	NBC
+
+

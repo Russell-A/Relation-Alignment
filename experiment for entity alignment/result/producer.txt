@@ -1,0 +1,12 @@
+http://dbpedia.org/resource/Pusher_(film_series)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Nicolas_Winding_Refn
+Nicolas_Winding_Refn	directed	Pusher_(film_series)
+
+
+http://dbpedia.org/resource/The_Road_from_Elephant_Pass_(film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Chandran_Rutnam
+Chandran_Rutnam	edited	The_Road_from_Elephant_Pass_(film)
+
+
+http://dbpedia.org/resource/Melancholia_(2008_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Lav_Diaz
+Lav_Diaz	wroteMusicFor	Melancholia_(2008_film)
+
+

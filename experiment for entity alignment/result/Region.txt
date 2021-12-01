@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/North_Fork_American_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/El_Dorado_County,_California
+North_Fork_American_River	isLocatedIn	El_Dorado_County,_California
+
+

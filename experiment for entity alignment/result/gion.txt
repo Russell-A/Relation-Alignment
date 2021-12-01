@@ -1,0 +1,28 @@
+http://dbpedia.org/resource/Connecticut_River_Greenway_State_Park	http://dbpedia.org/ontology/region	http://dbpedia.org/resource/Hampshire_County,_Massachusetts
+Connecticut_River_Greenway_State_Park	isLocatedIn	Hampshire_County,_Massachusetts
+
+
+http://dbpedia.org/resource/Hostinné	http://dbpedia.org/ontology/region	http://dbpedia.org/resource/Hradec_Králové_Region
+Hostinné	isLocatedIn	Hradec_Králové
+Hradec_Králové_Region	hasCapital	Hradec_Králové
+
+
+http://dbpedia.org/resource/Hradec_Králové	http://dbpedia.org/ontology/region	http://dbpedia.org/resource/Hradec_Králové_Region
+Hradec_Králové_Region	isLocatedIn	Hradec_Králové
+
+
+http://dbpedia.org/resource/Todd_Staples	http://dbpedia.org/ontology/region	http://dbpedia.org/resource/Texas
+Todd_Staples	livesIn	Texas
+
+
+http://dbpedia.org/resource/Todd_Staples	http://dbpedia.org/ontology/region	http://dbpedia.org/resource/Texas
+Todd_Staples	livesIn	Palestine,_Texas
+Palestine,_Texas	isLocatedIn	Texas
+
+
+http://dbpedia.org/resource/Todd_Staples	http://dbpedia.org/ontology/region	http://dbpedia.org/resource/Texas
+Todd_Staples	livesIn	Palestine,_Texas
+Palestine,_Texas	isLocatedIn	Anderson_County,_Texas
+Anderson_County,_Texas	isLocatedIn	Texas
+
+

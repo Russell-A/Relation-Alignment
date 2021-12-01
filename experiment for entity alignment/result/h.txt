@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Fahd_Jassem_al-Freij	http://dbpedia.org/ontology/militaryBranch	http://dbpedia.org/resource/Syrian_Army
+Fahd_Jassem_al-Freij	isLeaderOf	Syrian_Army
+
+

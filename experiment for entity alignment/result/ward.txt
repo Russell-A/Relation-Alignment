@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Noman_Ijaz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/PTV_Awards
+Noman_Ijaz	hasWonPrize	PTV_Awards
+
+

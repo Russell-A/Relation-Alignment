@@ -1,0 +1,12 @@
+http://dbpedia.org/resource/Edward_O._Thorp	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Angus_Ellis_Taylor
+Edward_O._Thorp	hasAcademicAdvisor	Angus_Ellis_Taylor
+
+
+http://dbpedia.org/resource/Gustav_Heinrich_Johann_Apollon_Tammann	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Carl_Schmidt_(chemist)
+Gustav_Heinrich_Johann_Apollon_Tammann	hasAcademicAdvisor	Carl_Schmidt_(chemist)
+
+
+http://dbpedia.org/resource/George_Vernadsky	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Heinrich_Rickert
+Heinrich_Rickert	influences	George_Vernadsky
+
+

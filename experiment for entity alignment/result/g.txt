@@ -1,0 +1,16 @@
+http://dbpedia.org/resource/Satan_Returns	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/Kingdom_Yuen
+Kingdom_Yuen	actedIn	Satan_Returns
+
+
+http://dbpedia.org/resource/2046_(film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/William_Chang
+William_Chang	edited	2046_(film)
+
+
+http://dbpedia.org/resource/Roy_Lichtenstein	http://dbpedia.org/ontology/training	http://dbpedia.org/resource/Ohio_State_University
+Roy_Lichtenstein	graduatedFrom	Ohio_State_University
+
+
+http://dbpedia.org/resource/Giorgione	http://dbpedia.org/ontology/training	http://dbpedia.org/resource/Giovanni_Bellini
+Giovanni_Bellini	influences	Giorgione
+
+

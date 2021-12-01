@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Stephen_M._Ross	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Miami_Dolphins
+Stephen_M._Ross	owns	Miami_Dolphins
+
+

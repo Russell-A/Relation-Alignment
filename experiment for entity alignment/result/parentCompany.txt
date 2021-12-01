@@ -1,0 +1,9 @@
+http://dbpedia.org/resource/V_Air	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/TransAsia_Airways
+TransAsia_Airways	owns	V_Air
+
+
+http://dbpedia.org/resource/Universal_Television	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/Comcast
+NBCUniversal_Television_Group	owns	Universal_Television
+Comcast	owns	NBCUniversal_Television_Group
+
+

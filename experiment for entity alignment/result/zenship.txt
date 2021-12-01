@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/Messoud_Efendiev	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Azerbaijan_Soviet_Socialist_Republic
+Messoud_Efendiev	isCitizenOf	Azerbaijan_Soviet_Socialist_Republic
+
+
+http://dbpedia.org/resource/Michael_Shirima	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Tanzania
+Michael_Shirima	livesIn	Tanzania
+
+

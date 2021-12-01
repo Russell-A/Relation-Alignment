@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Paul_L._Smith	http://dbpedia.org/ontology/bodyDiscovered	http://dbpedia.org/resource/Ra'anana
+Paul_L._Smith	diedIn	Ra'anana
+
+

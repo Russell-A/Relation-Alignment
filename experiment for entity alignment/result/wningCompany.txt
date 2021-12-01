@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/RSI_La_1	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radiotelevisione_svizzera
+Radiotelevisione_svizzera	owns	RSI_La_1
+
+

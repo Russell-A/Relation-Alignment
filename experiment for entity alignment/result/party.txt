@@ -1,0 +1,9 @@
+http://dbpedia.org/resource/Namal_Rajapaksa	http://dbpedia.org/ontology/party	http://dbpedia.org/resource/Sri_Lanka_Freedom_Party
+Namal_Rajapaksa	isAffiliatedTo	Sri_Lanka_Freedom_Party
+
+
+http://dbpedia.org/resource/West_Nusa_Tenggara	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/Democratic_Party_(Indonesia)
+Muhammad_Zainul_Majdi	isLeaderOf	West_Nusa_Tenggara
+Muhammad_Zainul_Majdi	isAffiliatedTo	Democratic_Party_(Indonesia)
+
+

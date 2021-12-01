@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/Elias,_Duke_of_Parma	http://dbpedia.org/ontology/spouse	http://dbpedia.org/resource/Archduchess_Maria_Anna_of_Austria_(1882–1940)
+Archduchess_Maria_Anna_of_Austria_(1882–1940)	isMarriedTo	Elias,_Duke_of_Parma
+
+
+http://dbpedia.org/resource/Elias,_Duke_of_Parma	http://dbpedia.org/ontology/spouse	http://dbpedia.org/resource/Archduchess_Maria_Anna_of_Austria_(1882–1940)
+Elias,_Duke_of_Parma	isMarriedTo	Archduchess_Maria_Anna_of_Austria_(1882–1940)
+
+

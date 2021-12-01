@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/Lee_Sang-mook	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Seoul
+Lee_Sang-mook	wasBornIn	Seoul
+
+
+http://dbpedia.org/resource/Bill_Granger_(author)	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Chicago
+Bill_Granger_(author)	livesIn	Chicago
+
+

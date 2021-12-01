@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Westport,_Kansas_City,_Missouri	http://dbpedia.org/ontology/municipality	http://dbpedia.org/resource/Kansas_City,_Missouri
+Westport,_Kansas_City,_Missouri	isLocatedIn	Kansas_City,_Missouri
+
+

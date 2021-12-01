@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/AT&T_Midtown_Center	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+Skidmore,_Owings_&_Merrill	created	AT&T_Midtown_Center
+
+

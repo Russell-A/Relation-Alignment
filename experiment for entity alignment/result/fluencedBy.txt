@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Guy_de_Maupassant	http://dbpedia.org/ontology/influencedBy	http://dbpedia.org/resource/Arthur_Schopenhauer
+Arthur_Schopenhauer	influences	Guy_de_Maupassant
+
+

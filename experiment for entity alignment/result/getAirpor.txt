@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/ExpressJet	http://dbpedia.org/ontology/targetAirport	http://dbpedia.org/resource/Newark_Liberty_International_Airport
+ExpressJet	isLocatedIn	Newark_Liberty_International_Airport
+
+

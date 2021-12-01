@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+
+

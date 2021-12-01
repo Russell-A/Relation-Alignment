@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Young_Andersen	http://dbpedia.org/ontology/composer	http://dbpedia.org/resource/Jacob_Groth
+Jacob_Groth	created	Young_Andersen
+
+

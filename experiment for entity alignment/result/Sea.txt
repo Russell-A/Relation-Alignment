@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Putnam_County,_Georgia	http://dbpedia.org/ontology/countySeat	http://dbpedia.org/resource/Eatonton,_Georgia
+Putnam_County,_Georgia	isLocatedIn	Eatonton,_Georgia
+
+

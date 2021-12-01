@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/locationCity	http://dbpedia.org/resource/Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+
+

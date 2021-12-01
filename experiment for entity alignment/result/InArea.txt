@@ -1,0 +1,9 @@
+http://dbpedia.org/resource/Gravale	http://dbpedia.org/ontology/locatedInArea	http://dbpedia.org/resource/County_Wicklow
+Gravale	isLocatedIn	County_Wicklow
+
+
+http://dbpedia.org/resource/Gravale	http://dbpedia.org/ontology/locatedInArea	http://dbpedia.org/resource/County_Wicklow
+Gravale	isLocatedIn	Wicklow_Mountains
+Wicklow_Mountains	isLocatedIn	County_Wicklow
+
+

@@ -3,6 +3,7 @@
 This github repository aims to provide the dataset for relation-alignment and the project code for the paper 'Building Benchmark Datasets for Relation Alignment Between Knowledge Graphs'
 
 
+### Dataset for relation alignment
 
 The dataset for relation alignment is put in the folder 'Dataset Between DBpedia and Freebase'.
 

@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Makó	http://dbpedia.org/ontology/founder	http://dbpedia.org/resource/Andrew_III_of_Hungary
+Andrew_III_of_Hungary	created	Makó
+
+

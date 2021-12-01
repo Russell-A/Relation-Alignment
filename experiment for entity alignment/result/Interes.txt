@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Jean-Luc_Marion	http://dbpedia.org/ontology/mainInterest	http://dbpedia.org/resource/René_Descartes
+Jean-Luc_Marion	isInterestedIn	René_Descartes
+
+

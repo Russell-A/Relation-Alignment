@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/Abraham_Gotthelf_Kästner	http://dbpedia.org/ontology/doctoralStudent	http://dbpedia.org/resource/Johann_Christian_Polycarp_Erxleben
+Johann_Christian_Polycarp_Erxleben	hasAcademicAdvisor	Abraham_Gotthelf_Kästner
+
+
+http://dbpedia.org/resource/Bonnie_Berger	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Lior_Pachter
+Lior_Pachter	hasAcademicAdvisor	Bonnie_Berger
+
+

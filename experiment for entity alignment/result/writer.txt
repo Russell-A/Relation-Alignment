@@ -1,0 +1,16 @@
+http://dbpedia.org/resource/Iligos	http://dbpedia.org/ontology/writer	http://dbpedia.org/resource/Giannis_Dalianidis
+Giannis_Dalianidis	directed	Iligos
+
+
+http://dbpedia.org/resource/The_Road_from_Elephant_Pass_(film)	http://dbpedia.org/ontology/writer	http://dbpedia.org/resource/Chandran_Rutnam
+Chandran_Rutnam	edited	The_Road_from_Elephant_Pass_(film)
+
+
+http://dbpedia.org/resource/Iligos	http://dbpedia.org/ontology/writer	http://dbpedia.org/resource/Giannis_Dalianidis
+Giannis_Dalianidis	created	Iligos
+
+
+http://dbpedia.org/resource/Raja_Dangdut	http://dbpedia.org/ontology/writer	http://dbpedia.org/resource/Rhoma_Irama
+Rhoma_Irama	wroteMusicFor	Raja_Dangdut
+
+

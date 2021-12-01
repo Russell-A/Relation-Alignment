@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Michael_Hirst_(writer)	http://dbpedia.org/ontology/notableWork	http://dbpedia.org/resource/Vikings_(TV_series)
+Michael_Hirst_(writer)	created	Vikings_(TV_series)
+
+

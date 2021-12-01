@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/Amambay_Department	http://dbpedia.org/ontology/part	http://dbpedia.org/resource/Pedro_Juan_Caballero,_Paraguay
+Pedro_Juan_Caballero,_Paraguay	isLocatedIn	Amambay_Department
+
+
+http://dbpedia.org/resource/Lesser_Poland_Voivodeship	http://dbpedia.org/ontology/part	http://dbpedia.org/resource/Kraków
+Lesser_Poland_Voivodeship	hasCapital	Kraków
+
+

@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/Eros_(film)	http://dbpedia.org/ontology/cinematography	http://dbpedia.org/resource/Steven_Soderbergh
+Steven_Soderbergh	directed	Eros_(film)
+
+
+http://dbpedia.org/resource/Eros_(film)	http://dbpedia.org/ontology/cinematography	http://dbpedia.org/resource/Steven_Soderbergh
+Steven_Soderbergh	created	Eros_(film)
+
+

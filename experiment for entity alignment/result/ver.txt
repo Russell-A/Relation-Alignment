@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+

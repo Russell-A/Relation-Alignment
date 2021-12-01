@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+

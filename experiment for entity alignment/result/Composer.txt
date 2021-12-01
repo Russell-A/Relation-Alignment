@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Stella_(1955_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Manos_Hatzidakis
+Manos_Hatzidakis	wroteMusicFor	Stella_(1955_film)
+
+

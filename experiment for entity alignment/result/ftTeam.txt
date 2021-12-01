@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Maxime_Talbot	http://dbpedia.org/ontology/draftTeam	http://dbpedia.org/resource/Pittsburgh_Penguins
+Maxime_Talbot	isAffiliatedTo	Pittsburgh_Penguins
+
+

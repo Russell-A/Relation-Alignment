@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Pioneer_Hall_(Texas_Woman's_University)	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Texas_Woman's_University
+Texas_Woman's_University	owns	Pioneer_Hall_(Texas_Woman's_University)
+
+

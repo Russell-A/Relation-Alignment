@@ -1,0 +1,15 @@
+http://dbpedia.org/resource/Oskar_R._Lange	http://dbpedia.org/ontology/influenced	http://dbpedia.org/resource/Abba_P._Lerner
+Oskar_R._Lange	influences	Abba_P._Lerner
+
+
+http://dbpedia.org/resource/William_Faulkner	http://dbpedia.org/ontology/influenced	http://dbpedia.org/resource/Don_DeLillo
+William_Faulkner	influences	Malcolm_Lowry
+Malcolm_Lowry	influences	Don_DeLillo
+
+
+http://dbpedia.org/resource/George_Washington_Harris	http://dbpedia.org/ontology/influenced	http://dbpedia.org/resource/William_Faulkner
+George_Washington_Harris	influences	Mark_Twain
+Mark_Twain	influences	Sherwood_Anderson
+Sherwood_Anderson	influences	William_Faulkner
+
+
