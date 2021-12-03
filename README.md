@@ -14,3 +14,8 @@ The front and the backend of the human verification project is in the folder 'pr
 ### experiment for entity alignment
 
 The experiment for entity alignment is in the folder 'experiment for entity alignment'
+
+### Experiment for evaluating the generation of path-relation patterns
+
+The experiment for evaluating the generation of path-relation patterns is in folder 'FCGA'
+

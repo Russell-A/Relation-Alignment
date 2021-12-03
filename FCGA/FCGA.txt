@@ -1,0 +1,7 @@
+file ./datasets/school.category.txt time_for_DFS 257.58462595939636 time_for_FCGA 3.9153268337249756 raw_relation_structure 650 filesize 275266116 entities 622318 relations 1528368 timeration 65.78879283861335
+file ./datasets/characters.lived.here.txt time_for_DFS 0.14716506004333496 time_for_FCGA 0.0036187171936035156 raw_relation_structure 3 filesize 271237 entities 699 relations 1832 timeration 40.667742785610756
+file ./datasets/organism.classifications.txt time_for_DFS 37.50020980834961 time_for_FCGA 1.227663516998291 raw_relation_structure 342 filesize 75584017 entities 191934 relations 564750 timeration 30.546000014759592
+file ./datasets/collective.term.for.adherents.txt time_for_DFS 0.005273103713989258 time_for_FCGA 0.0006918907165527344 raw_relation_structure 1 filesize 47575 entities 189 relations 379 timeration 7.6212956581667815
+file ./datasets/tourist.attractions.txt time_for_DFS 40.730228424072266 time_for_FCGA 0.4887692928314209 raw_relation_structure 169 filesize 28182038 entities 70202 relations 183126 timeration 83.33221628577296
+file ./datasets/jurisdiction.government.txt time_for_DFS 17.219326734542847 time_for_FCGA 0.25787353515625 raw_relation_structure 38 filesize 16999108 entities 30729 relations 91496 timeration 66.77430750739644
+file ./datasets/division.capital.txt time_for_DFS 7.327667951583862 time_for_FCGA 0.0376429557800293 raw_relation_structure 2 filesize 4592823 entities 2287 relations 20806 timeration 194.66239565255944
