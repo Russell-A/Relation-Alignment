@@ -1,0 +1,158 @@
+http://dbpedia.org/resource/Cliveden_(Benjamin_Chew_House)	http://dbpedia.org/ontology/picture	http://dbpedia.org/resource/Philadelphia
+Cliveden_(Benjamin_Chew_House)	Philadelphia
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Germantown,_Philadelphia
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Germantown,_Philadelphia
+Stephen_Kinsey	livesIn	Germantown,_Philadelphia
+Stephen_Kinsey	livesIn	Germantown,_Philadelphia
+Stephen_Kinsey	wasBornIn	Philadelphia
+Stephen_Kinsey	wasBornIn	Philadelphia
+
+http://dbpedia.org/resource/Cliveden_(Benjamin_Chew_House)	http://dbpedia.org/ontology/picture	http://dbpedia.org/resource/Philadelphia
+Cliveden_(Benjamin_Chew_House)	Philadelphia
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+David_L._Cohen	livesIn	Pennsylvania
+David_L._Cohen	livesIn	Pennsylvania
+David_L._Cohen	livesIn	Philadelphia
+David_L._Cohen	livesIn	Philadelphia
+
+http://dbpedia.org/resource/Cliveden_(Benjamin_Chew_House)	http://dbpedia.org/ontology/picture	http://dbpedia.org/resource/Philadelphia
+Cliveden_(Benjamin_Chew_House)	Philadelphia
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+Spectrum_(arena)	isLocatedIn	Pennsylvania
+Spectrum_(arena)	isLocatedIn	Pennsylvania
+Spectrum_(arena)	isLocatedIn	Philadelphia
+Spectrum_(arena)	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/Cliveden_(Benjamin_Chew_House)	http://dbpedia.org/ontology/picture	http://dbpedia.org/resource/Philadelphia
+Cliveden_(Benjamin_Chew_House)	Philadelphia
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+WACP	isLocatedIn	Pennsylvania
+WACP	isLocatedIn	Pennsylvania
+WACP	isLocatedIn	Philadelphia
+WACP	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/Cliveden_(Benjamin_Chew_House)	http://dbpedia.org/ontology/picture	http://dbpedia.org/resource/Philadelphia
+Cliveden_(Benjamin_Chew_House)	Philadelphia
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+University_of_Pennsylvania_Law_School	isLocatedIn	Pennsylvania
+University_of_Pennsylvania_Law_School	isLocatedIn	Pennsylvania
+University_of_Pennsylvania_Law_School	isLocatedIn	Philadelphia
+University_of_Pennsylvania_Law_School	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/Cliveden_(Benjamin_Chew_House)	http://dbpedia.org/ontology/picture	http://dbpedia.org/resource/Philadelphia
+Cliveden_(Benjamin_Chew_House)	Philadelphia
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+Del_Vaughn	livesIn	Pennsylvania
+Del_Vaughn	livesIn	Pennsylvania
+Del_Vaughn	livesIn	Philadelphia
+Del_Vaughn	livesIn	Philadelphia
+
+http://dbpedia.org/resource/Cliveden_(Benjamin_Chew_House)	http://dbpedia.org/ontology/picture	http://dbpedia.org/resource/Philadelphia
+Cliveden_(Benjamin_Chew_House)	Philadelphia
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+Aaron_T._Beck	livesIn	Pennsylvania
+Aaron_T._Beck	livesIn	Pennsylvania
+Aaron_T._Beck	livesIn	Philadelphia
+Aaron_T._Beck	livesIn	Philadelphia
+
+http://dbpedia.org/resource/Cliveden_(Benjamin_Chew_House)	http://dbpedia.org/ontology/picture	http://dbpedia.org/resource/Philadelphia
+Cliveden_(Benjamin_Chew_House)	Philadelphia
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+Saint_Joseph's_University	isLocatedIn	Pennsylvania
+Saint_Joseph's_University	isLocatedIn	Pennsylvania
+Saint_Joseph's_University	isLocatedIn	Philadelphia
+Saint_Joseph's_University	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/Cliveden_(Benjamin_Chew_House)	http://dbpedia.org/ontology/picture	http://dbpedia.org/resource/Philadelphia
+Cliveden_(Benjamin_Chew_House)	Philadelphia
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+Philadelphia_Cricket_Club	isLocatedIn	Pennsylvania
+Philadelphia_Cricket_Club	isLocatedIn	Pennsylvania
+Philadelphia_Cricket_Club	isLocatedIn	Philadelphia
+Philadelphia_Cricket_Club	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/Cliveden_(Benjamin_Chew_House)	http://dbpedia.org/ontology/picture	http://dbpedia.org/resource/Philadelphia
+Cliveden_(Benjamin_Chew_House)	Philadelphia
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+University_of_Pennsylvania	isLocatedIn	Pennsylvania
+University_of_Pennsylvania	isLocatedIn	Pennsylvania
+University_of_Pennsylvania	isLocatedIn	Philadelphia
+University_of_Pennsylvania	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/Cliveden_(Benjamin_Chew_House)	http://dbpedia.org/ontology/picture	http://dbpedia.org/resource/Philadelphia
+Cliveden_(Benjamin_Chew_House)	Philadelphia
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+Wharton_School_of_the_University_of_Pennsylvania	isLocatedIn	Pennsylvania
+Wharton_School_of_the_University_of_Pennsylvania	isLocatedIn	Pennsylvania
+Wharton_School_of_the_University_of_Pennsylvania	isLocatedIn	Philadelphia
+Wharton_School_of_the_University_of_Pennsylvania	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/Cliveden_(Benjamin_Chew_House)	http://dbpedia.org/ontology/picture	http://dbpedia.org/resource/Philadelphia
+Cliveden_(Benjamin_Chew_House)	Philadelphia
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+Kermit_Roosevelt_III	livesIn	Pennsylvania
+Kermit_Roosevelt_III	livesIn	Pennsylvania
+Kermit_Roosevelt_III	livesIn	Philadelphia
+Kermit_Roosevelt_III	livesIn	Philadelphia
+
+http://dbpedia.org/resource/Cliveden_(Benjamin_Chew_House)	http://dbpedia.org/ontology/picture	http://dbpedia.org/resource/Philadelphia
+Cliveden_(Benjamin_Chew_House)	Philadelphia
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Pennsylvania
+Fern_Rock,_Philadelphia	isLocatedIn	Pennsylvania
+Fern_Rock,_Philadelphia	isLocatedIn	Pennsylvania
+Fern_Rock,_Philadelphia	isLocatedIn	Philadelphia
+Fern_Rock,_Philadelphia	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/Cliveden_(Benjamin_Chew_House)	http://dbpedia.org/ontology/picture	http://dbpedia.org/resource/Philadelphia
+Cliveden_(Benjamin_Chew_House)	Philadelphia
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Philadelphia
+Cliveden_(Benjamin_Chew_House)	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/The_Elms_(Newport,_Rhode_Island)	http://dbpedia.org/ontology/picture	http://dbpedia.org/resource/Newport,_Rhode_Island
+The_Elms_(Newport,_Rhode_Island)	Newport,_Rhode_Island
+The_Elms_(Newport,_Rhode_Island)	isLocatedIn	Newport,_Rhode_Island
+The_Elms_(Newport,_Rhode_Island)	isLocatedIn	Newport,_Rhode_Island
+
+http://dbpedia.org/resource/The_Elms_(Newport,_Rhode_Island)	http://dbpedia.org/ontology/picture	http://dbpedia.org/resource/Newport,_Rhode_Island
+The_Elms_(Newport,_Rhode_Island)	Newport,_Rhode_Island
+The_Elms_(Newport,_Rhode_Island)	isLocatedIn	Rhode_Island
+The_Elms_(Newport,_Rhode_Island)	isLocatedIn	Rhode_Island
+The_Elms_(Newport,_Rhode_Island)	isLocatedIn	Rhode_Island
+The_Elms_(Newport,_Rhode_Island)	isLocatedIn	Rhode_Island
+The_Elms_(Newport,_Rhode_Island)	isLocatedIn	Newport,_Rhode_Island
+The_Elms_(Newport,_Rhode_Island)	isLocatedIn	Newport,_Rhode_Island
+
+http://dbpedia.org/resource/The_Elms_(Newport,_Rhode_Island)	http://dbpedia.org/ontology/picture	http://dbpedia.org/resource/Newport,_Rhode_Island
+The_Elms_(Newport,_Rhode_Island)	Newport,_Rhode_Island
+The_Elms_(Newport,_Rhode_Island)	isLocatedIn	Rhode_Island
+The_Elms_(Newport,_Rhode_Island)	isLocatedIn	Rhode_Island
+Walter_Clarke_(governor)	isPoliticianOf	Rhode_Island
+Walter_Clarke_(governor)	isPoliticianOf	Rhode_Island
+Walter_Clarke_(governor)	wasBornIn	Newport,_Rhode_Island
+Walter_Clarke_(governor)	diedIn	Newport,_Rhode_Island
+Walter_Clarke_(governor)	wasBornIn	Newport,_Rhode_Island
+Walter_Clarke_(governor)	diedIn	Newport,_Rhode_Island
+
+http://dbpedia.org/resource/The_Elms_(Newport,_Rhode_Island)	http://dbpedia.org/ontology/picture	http://dbpedia.org/resource/Newport,_Rhode_Island
+The_Elms_(Newport,_Rhode_Island)	Newport,_Rhode_Island
+The_Elms_(Newport,_Rhode_Island)	isLocatedIn	Rhode_Island
+The_Elms_(Newport,_Rhode_Island)	isLocatedIn	Rhode_Island
+Newport_County,_Rhode_Island	isLocatedIn	Rhode_Island
+Newport_County,_Rhode_Island	isLocatedIn	Rhode_Island
+Newport,_Rhode_Island	isLocatedIn	Newport_County,_Rhode_Island
+Newport_County,_Rhode_Island	isLocatedIn	Newport,_Rhode_Island
+Newport,_Rhode_Island	isLocatedIn	Newport_County,_Rhode_Island
+Newport_County,_Rhode_Island	isLocatedIn	Newport,_Rhode_Island
+

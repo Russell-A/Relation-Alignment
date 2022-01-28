@@ -1,0 +1,16 @@
+http://dbpedia.org/resource/Federal_Air	http://dbpedia.org/ontology/alliance	http://dbpedia.org/resource/Solenta_Aviation
+Federal_Air	Solenta_Aviation
+Federal_Air	isLocatedIn	South_Africa
+Federal_Air	isLocatedIn	South_Africa
+Solenta_Aviation	isLocatedIn	South_Africa
+Solenta_Aviation	isLocatedIn	South_Africa
+
+http://dbpedia.org/resource/Federal_Air	http://dbpedia.org/ontology/alliance	http://dbpedia.org/resource/Solenta_Aviation
+Federal_Air	Solenta_Aviation
+Federal_Air	isLocatedIn	Gauteng
+Federal_Air	isLocatedIn	Gauteng
+Gauteng	isLocatedIn	South_Africa
+Gauteng	isLocatedIn	South_Africa
+Solenta_Aviation	isLocatedIn	South_Africa
+Solenta_Aviation	isLocatedIn	South_Africa
+

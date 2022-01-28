@@ -1,0 +1,102 @@
+http://dbpedia.org/resource/Moldovans	http://dbpedia.org/ontology/populationPlace	http://dbpedia.org/resource/Portugal
+Moldovans	Portugal
+Moldovans	isLocatedIn	Kazakhstan
+Moldovans	isLocatedIn	Kazakhstan
+Moses_Sakyi	isCitizenOf	Kazakhstan
+Moses_Sakyi	isCitizenOf	Kazakhstan
+Moses_Sakyi	isCitizenOf	Portugal
+Moses_Sakyi	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Moldovans	http://dbpedia.org/ontology/populationPlace	http://dbpedia.org/resource/Portugal
+Moldovans	Portugal
+Moldovans	isLocatedIn	Kazakhstan
+Moldovans	isLocatedIn	Kazakhstan
+Kazakhstan	participatedIn	Operation_Enduring_Freedom_–_Horn_of_Africa
+Kazakhstan	participatedIn	Operation_Enduring_Freedom_–_Horn_of_Africa
+Portugal	participatedIn	Operation_Enduring_Freedom_–_Horn_of_Africa
+Portugal	participatedIn	Operation_Enduring_Freedom_–_Horn_of_Africa
+
+http://dbpedia.org/resource/Moldovans	http://dbpedia.org/ontology/populationPlace	http://dbpedia.org/resource/Portugal
+Moldovans	Portugal
+Moldovans	isLocatedIn	Portugal
+Moldovans	isLocatedIn	Portugal
+
+http://dbpedia.org/resource/Moldovans	http://dbpedia.org/ontology/populationPlace	http://dbpedia.org/resource/Portugal
+Moldovans	Portugal
+Moldovans	isLocatedIn	Latvia
+Moldovans	isLocatedIn	Latvia
+Latvia	participatedIn	Taliban_insurgency
+Latvia	participatedIn	Taliban_insurgency
+Portugal	participatedIn	Taliban_insurgency
+Portugal	participatedIn	Taliban_insurgency
+
+http://dbpedia.org/resource/Moldovans	http://dbpedia.org/ontology/populationPlace	http://dbpedia.org/resource/Portugal
+Moldovans	Portugal
+Moldovans	isLocatedIn	Ukraine
+Moldovans	isLocatedIn	Ukraine
+Marco_Torsiglieri	isCitizenOf	Ukraine
+Marco_Torsiglieri	isCitizenOf	Ukraine
+Marco_Torsiglieri	isCitizenOf	Portugal
+Marco_Torsiglieri	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Moldovans	http://dbpedia.org/ontology/populationPlace	http://dbpedia.org/resource/Portugal
+Moldovans	Portugal
+Moldovans	isLocatedIn	Greece
+Moldovans	isLocatedIn	Greece
+Dimitris_Nalitzis	isCitizenOf	Greece
+Dimitris_Nalitzis	isCitizenOf	Greece
+Dimitris_Nalitzis	isCitizenOf	Portugal
+Dimitris_Nalitzis	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Moldovans	http://dbpedia.org/ontology/populationPlace	http://dbpedia.org/resource/Portugal
+Moldovans	Portugal
+Moldovans	isLocatedIn	Greece
+Moldovans	isLocatedIn	Greece
+Jorge_Filipe_Monteiro	isCitizenOf	Greece
+Jorge_Filipe_Monteiro	isCitizenOf	Greece
+Jorge_Filipe_Monteiro	isCitizenOf	Portugal
+Jorge_Filipe_Monteiro	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Moldovans	http://dbpedia.org/ontology/populationPlace	http://dbpedia.org/resource/Greece
+Moldovans	Greece
+Moldovans	isLocatedIn	Kazakhstan
+Moldovans	isLocatedIn	Kazakhstan
+Kazakhstan	participatedIn	Operation_Enduring_Freedom_–_Horn_of_Africa
+Kazakhstan	participatedIn	Operation_Enduring_Freedom_–_Horn_of_Africa
+Greece	participatedIn	Operation_Enduring_Freedom_–_Horn_of_Africa
+Greece	participatedIn	Operation_Enduring_Freedom_–_Horn_of_Africa
+
+http://dbpedia.org/resource/Moldovans	http://dbpedia.org/ontology/populationPlace	http://dbpedia.org/resource/Greece
+Moldovans	Greece
+Moldovans	isLocatedIn	Latvia
+Moldovans	isLocatedIn	Latvia
+Latvia	participatedIn	Taliban_insurgency
+Latvia	participatedIn	Taliban_insurgency
+Greece	participatedIn	Taliban_insurgency
+Greece	participatedIn	Taliban_insurgency
+
+http://dbpedia.org/resource/Moldovans	http://dbpedia.org/ontology/populationPlace	http://dbpedia.org/resource/Greece
+Moldovans	Greece
+Moldovans	isLocatedIn	Ukraine
+Moldovans	isLocatedIn	Ukraine
+Zvonimir_Vukić	isCitizenOf	Ukraine
+Zvonimir_Vukić	isCitizenOf	Ukraine
+Zvonimir_Vukić	isCitizenOf	Greece
+Zvonimir_Vukić	isCitizenOf	Greece
+
+http://dbpedia.org/resource/Moldovans	http://dbpedia.org/ontology/populationPlace	http://dbpedia.org/resource/Greece
+Moldovans	Greece
+Moldovans	isLocatedIn	Ukraine
+Moldovans	isLocatedIn	Ukraine
+Vasyl_Dzharty	isPoliticianOf	Ukraine
+Vasyl_Dzharty	isCitizenOf	Ukraine
+Vasyl_Dzharty	isPoliticianOf	Ukraine
+Vasyl_Dzharty	isCitizenOf	Ukraine
+Vasyl_Dzharty	isCitizenOf	Greece
+Vasyl_Dzharty	isCitizenOf	Greece
+
+http://dbpedia.org/resource/Moldovans	http://dbpedia.org/ontology/populationPlace	http://dbpedia.org/resource/Greece
+Moldovans	Greece
+Moldovans	isLocatedIn	Greece
+Moldovans	isLocatedIn	Greece
+

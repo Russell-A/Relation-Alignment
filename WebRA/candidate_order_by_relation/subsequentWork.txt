@@ -1,0 +1,28 @@
+http://dbpedia.org/resource/Home_Along_Da_Riles	http://dbpedia.org/ontology/subsequentWork	http://dbpedia.org/resource/Home_Along_Da_Riles
+Home_Along_Da_Riles	Home_Along_Da_Riles
+Johnny_Manahan	directed	Home_Along_Da_Riles
+Johnny_Manahan	directed	Home_Along_Da_Riles
+Johnny_Manahan	directed	Home_Along_Da_Riles
+Johnny_Manahan	directed	Home_Along_Da_Riles
+
+http://dbpedia.org/resource/Home_Along_Da_Riles	http://dbpedia.org/ontology/subsequentWork	http://dbpedia.org/resource/Home_Along_Da_Riles
+Home_Along_Da_Riles	Home_Along_Da_Riles
+Eddie_Gutierrez_(actor)	actedIn	Home_Along_Da_Riles
+Eddie_Gutierrez_(actor)	actedIn	Home_Along_Da_Riles
+Eddie_Gutierrez_(actor)	actedIn	Home_Along_Da_Riles
+Eddie_Gutierrez_(actor)	actedIn	Home_Along_Da_Riles
+
+http://dbpedia.org/resource/Home_Along_Da_Riles	http://dbpedia.org/ontology/subsequentWork	http://dbpedia.org/resource/Home_Along_Da_Riles
+Home_Along_Da_Riles	Home_Along_Da_Riles
+ABS-CBN	created	Home_Along_Da_Riles
+ABS-CBN	created	Home_Along_Da_Riles
+ABS-CBN	created	Home_Along_Da_Riles
+ABS-CBN	created	Home_Along_Da_Riles
+
+http://dbpedia.org/resource/Home_Along_Da_Riles	http://dbpedia.org/ontology/subsequentWork	http://dbpedia.org/resource/Home_Along_Da_Riles
+Home_Along_Da_Riles	Home_Along_Da_Riles
+Claudine_Barretto	actedIn	Home_Along_Da_Riles
+Claudine_Barretto	actedIn	Home_Along_Da_Riles
+Claudine_Barretto	actedIn	Home_Along_Da_Riles
+Claudine_Barretto	actedIn	Home_Along_Da_Riles
+

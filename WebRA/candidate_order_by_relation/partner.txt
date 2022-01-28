@@ -1,0 +1,28 @@
+http://dbpedia.org/resource/Ryan_Tubridy	http://dbpedia.org/ontology/partner	http://dbpedia.org/resource/Aoibhinn_Ní_Shúilleabháin
+Ryan_Tubridy	Aoibhinn_Ní_Shúilleabháin
+Ryan_Tubridy	graduatedFrom	University_College_Dublin
+Ryan_Tubridy	graduatedFrom	University_College_Dublin
+Aoibhinn_Ní_Shúilleabháin	graduatedFrom	University_College_Dublin
+Aoibhinn_Ní_Shúilleabháin	graduatedFrom	University_College_Dublin
+
+http://dbpedia.org/resource/Aoibhinn_Ní_Shúilleabháin	http://dbpedia.org/ontology/partner	http://dbpedia.org/resource/Ryan_Tubridy
+Aoibhinn_Ní_Shúilleabháin	Ryan_Tubridy
+Aoibhinn_Ní_Shúilleabháin	graduatedFrom	University_College_Dublin
+Aoibhinn_Ní_Shúilleabháin	graduatedFrom	University_College_Dublin
+Ryan_Tubridy	graduatedFrom	University_College_Dublin
+Ryan_Tubridy	graduatedFrom	University_College_Dublin
+
+http://dbpedia.org/resource/Vannozza_dei_Cattanei	http://dbpedia.org/ontology/partner	http://dbpedia.org/resource/Pope_Alexander_VI
+Vannozza_dei_Cattanei	Pope_Alexander_VI
+Vannozza_dei_Cattanei	hasChild	Cesare_Borgia
+Vannozza_dei_Cattanei	hasChild	Cesare_Borgia
+Pope_Alexander_VI	hasChild	Cesare_Borgia
+Pope_Alexander_VI	hasChild	Cesare_Borgia
+
+http://dbpedia.org/resource/Vannozza_dei_Cattanei	http://dbpedia.org/ontology/partner	http://dbpedia.org/resource/Pope_Alexander_VI
+Vannozza_dei_Cattanei	Pope_Alexander_VI
+Vannozza_dei_Cattanei	hasChild	Lucrezia_Borgia
+Vannozza_dei_Cattanei	hasChild	Lucrezia_Borgia
+Pope_Alexander_VI	hasChild	Lucrezia_Borgia
+Pope_Alexander_VI	hasChild	Lucrezia_Borgia
+

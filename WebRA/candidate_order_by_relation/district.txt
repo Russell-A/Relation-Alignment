@@ -1,0 +1,988 @@
+http://dbpedia.org/resource/Ústí_nad_Labem	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Ústí_nad_Labem_District
+Ústí_nad_Labem	Ústí_nad_Labem_District
+Ústí_nad_Labem	isLocatedIn	Ústí_nad_Labem_District
+Ústí_nad_Labem_District	isLocatedIn	Ústí_nad_Labem
+Ústí_nad_Labem_District	hasCapital	Ústí_nad_Labem
+Ústí_nad_Labem	isLocatedIn	Ústí_nad_Labem_District
+Ústí_nad_Labem_District	isLocatedIn	Ústí_nad_Labem
+Ústí_nad_Labem_District	hasCapital	Ústí_nad_Labem
+
+http://dbpedia.org/resource/Ústí_nad_Labem	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Ústí_nad_Labem_District
+Ústí_nad_Labem	Ústí_nad_Labem_District
+Emil_Rilke	wasBornIn	Ústí_nad_Labem
+Emil_Rilke	wasBornIn	Ústí_nad_Labem
+Emil_Rilke	wasBornIn	Ústí_nad_Labem
+Emil_Rilke	wasBornIn	Ústí_nad_Labem
+Ústí_nad_Labem	isLocatedIn	Ústí_nad_Labem_District
+Ústí_nad_Labem_District	isLocatedIn	Ústí_nad_Labem
+Ústí_nad_Labem_District	hasCapital	Ústí_nad_Labem
+Ústí_nad_Labem	isLocatedIn	Ústí_nad_Labem_District
+Ústí_nad_Labem_District	isLocatedIn	Ústí_nad_Labem
+Ústí_nad_Labem_District	hasCapital	Ústí_nad_Labem
+
+http://dbpedia.org/resource/Kroměříž	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Kroměříž_District
+Kroměříž	Kroměříž_District
+Kroměříž_District	isLocatedIn	Kroměříž
+Kroměříž	isLocatedIn	Kroměříž_District
+Kroměříž_District	hasCapital	Kroměříž
+Kroměříž_District	isLocatedIn	Kroměříž
+Kroměříž	isLocatedIn	Kroměříž_District
+Kroměříž_District	hasCapital	Kroměříž
+
+http://dbpedia.org/resource/Kroměříž	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Kroměříž_District
+Kroměříž	Kroměříž_District
+Pavel_Hapal	wasBornIn	Kroměříž
+Pavel_Hapal	wasBornIn	Kroměříž
+Pavel_Hapal	wasBornIn	Kroměříž
+Pavel_Hapal	wasBornIn	Kroměříž
+Kroměříž_District	isLocatedIn	Kroměříž
+Kroměříž	isLocatedIn	Kroměříž_District
+Kroměříž_District	hasCapital	Kroměříž
+Kroměříž_District	isLocatedIn	Kroměříž
+Kroměříž	isLocatedIn	Kroměříž_District
+Kroměříž_District	hasCapital	Kroměříž
+
+http://dbpedia.org/resource/Lancaster,_Lancashire	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/City_of_Lancaster
+Lancaster,_Lancashire	City_of_Lancaster
+Lancaster,_Lancashire	isLocatedIn	City_of_Lancaster
+City_of_Lancaster	isLocatedIn	Lancaster,_Lancashire
+Lancaster,_Lancashire	isLocatedIn	City_of_Lancaster
+City_of_Lancaster	isLocatedIn	Lancaster,_Lancashire
+
+http://dbpedia.org/resource/Lancaster,_Lancashire	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/City_of_Lancaster
+Lancaster,_Lancashire	City_of_Lancaster
+Joanna_David	wasBornIn	Lancaster,_Lancashire
+Joanna_David	wasBornIn	Lancaster,_Lancashire
+Joanna_David	wasBornIn	Lancaster,_Lancashire
+Joanna_David	wasBornIn	Lancaster,_Lancashire
+Lancaster,_Lancashire	isLocatedIn	City_of_Lancaster
+City_of_Lancaster	isLocatedIn	Lancaster,_Lancashire
+Lancaster,_Lancashire	isLocatedIn	City_of_Lancaster
+City_of_Lancaster	isLocatedIn	Lancaster,_Lancashire
+
+http://dbpedia.org/resource/Harvey,_Illinois	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Bremen_Township,_Cook_County,_Illinois
+Harvey,_Illinois	Bremen_Township,_Cook_County,_Illinois
+Harvey,_Illinois	isLocatedIn	Cook_County,_Illinois
+Harvey,_Illinois	isLocatedIn	Cook_County,_Illinois
+Robbins,_Illinois	isLocatedIn	Cook_County,_Illinois
+Robbins,_Illinois	isLocatedIn	Cook_County,_Illinois
+Robbins,_Illinois	isLocatedIn	Bremen_Township,_Cook_County,_Illinois
+Robbins,_Illinois	isLocatedIn	Bremen_Township,_Cook_County,_Illinois
+
+http://dbpedia.org/resource/Harvey,_Illinois	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Bremen_Township,_Cook_County,_Illinois
+Harvey,_Illinois	Bremen_Township,_Cook_County,_Illinois
+Harvey,_Illinois	isLocatedIn	Cook_County,_Illinois
+Harvey,_Illinois	isLocatedIn	Cook_County,_Illinois
+Markham,_Illinois	isLocatedIn	Cook_County,_Illinois
+Markham,_Illinois	isLocatedIn	Cook_County,_Illinois
+Markham,_Illinois	isLocatedIn	Bremen_Township,_Cook_County,_Illinois
+Markham,_Illinois	isLocatedIn	Bremen_Township,_Cook_County,_Illinois
+
+http://dbpedia.org/resource/Harvey,_Illinois	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Bremen_Township,_Cook_County,_Illinois
+Harvey,_Illinois	Bremen_Township,_Cook_County,_Illinois
+Harvey,_Illinois	isLocatedIn	Cook_County,_Illinois
+Harvey,_Illinois	isLocatedIn	Cook_County,_Illinois
+Bremen_Township,_Cook_County,_Illinois	isLocatedIn	Cook_County,_Illinois
+Bremen_Township,_Cook_County,_Illinois	isLocatedIn	Cook_County,_Illinois
+
+http://dbpedia.org/resource/Harvey,_Illinois	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Bremen_Township,_Cook_County,_Illinois
+Harvey,_Illinois	Bremen_Township,_Cook_County,_Illinois
+Harvey,_Illinois	isLocatedIn	Cook_County,_Illinois
+Harvey,_Illinois	isLocatedIn	Cook_County,_Illinois
+Tinley_Park,_Illinois	isLocatedIn	Cook_County,_Illinois
+Tinley_Park,_Illinois	isLocatedIn	Cook_County,_Illinois
+Tinley_Park,_Illinois	isLocatedIn	Bremen_Township,_Cook_County,_Illinois
+Tinley_Park,_Illinois	isLocatedIn	Bremen_Township,_Cook_County,_Illinois
+
+http://dbpedia.org/resource/Harvey,_Illinois	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Bremen_Township,_Cook_County,_Illinois
+Harvey,_Illinois	Bremen_Township,_Cook_County,_Illinois
+Harvey,_Illinois	isLocatedIn	Cook_County,_Illinois
+Harvey,_Illinois	isLocatedIn	Cook_County,_Illinois
+Orland_Park,_Illinois	isLocatedIn	Cook_County,_Illinois
+Orland_Park,_Illinois	isLocatedIn	Cook_County,_Illinois
+Orland_Park,_Illinois	isLocatedIn	Bremen_Township,_Cook_County,_Illinois
+Orland_Park,_Illinois	isLocatedIn	Bremen_Township,_Cook_County,_Illinois
+
+http://dbpedia.org/resource/Harvey,_Illinois	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Bremen_Township,_Cook_County,_Illinois
+Harvey,_Illinois	Bremen_Township,_Cook_County,_Illinois
+Harvey,_Illinois	isLocatedIn	Cook_County,_Illinois
+Harvey,_Illinois	isLocatedIn	Cook_County,_Illinois
+Crestwood,_Illinois	isLocatedIn	Cook_County,_Illinois
+Crestwood,_Illinois	isLocatedIn	Cook_County,_Illinois
+Crestwood,_Illinois	isLocatedIn	Bremen_Township,_Cook_County,_Illinois
+Crestwood,_Illinois	isLocatedIn	Bremen_Township,_Cook_County,_Illinois
+
+http://dbpedia.org/resource/Solothurn	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Solothurn
+Solothurn	Solothurn
+Solothurn	participatedIn	Swiss_peasant_war_of_1653
+Swiss_peasant_war_of_1653	happenedIn	Solothurn
+Solothurn	participatedIn	Swiss_peasant_war_of_1653
+Swiss_peasant_war_of_1653	happenedIn	Solothurn
+Solothurn	participatedIn	Swiss_peasant_war_of_1653
+Swiss_peasant_war_of_1653	happenedIn	Solothurn
+Solothurn	participatedIn	Swiss_peasant_war_of_1653
+Swiss_peasant_war_of_1653	happenedIn	Solothurn
+
+http://dbpedia.org/resource/Solothurn	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Solothurn
+Solothurn	Solothurn
+Silvan_Thüler	wasBornIn	Solothurn
+Silvan_Thüler	wasBornIn	Solothurn
+Silvan_Thüler	wasBornIn	Solothurn
+Silvan_Thüler	wasBornIn	Solothurn
+
+http://dbpedia.org/resource/Solothurn	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Solothurn
+Solothurn	Solothurn
+Aare	isLocatedIn	Solothurn
+Aare	isLocatedIn	Solothurn
+Aare	isLocatedIn	Solothurn
+Aare	isLocatedIn	Solothurn
+
+http://dbpedia.org/resource/Solothurn	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Solothurn
+Solothurn	Solothurn
+Victor_Sterki	wasBornIn	Solothurn
+Victor_Sterki	wasBornIn	Solothurn
+Victor_Sterki	wasBornIn	Solothurn
+Victor_Sterki	wasBornIn	Solothurn
+
+http://dbpedia.org/resource/Solothurn	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Solothurn
+Solothurn	Solothurn
+Synthes	isLocatedIn	Solothurn
+Synthes	isLocatedIn	Solothurn
+Synthes	isLocatedIn	Solothurn
+Synthes	isLocatedIn	Solothurn
+
+http://dbpedia.org/resource/Spišské_Podhradie	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Levoča_District
+Spišské_Podhradie	Levoča_District
+Spišské_Podhradie	isLocatedIn	Levoča_District
+Spišské_Podhradie	isLocatedIn	Levoča_District
+
+http://dbpedia.org/resource/Spišské_Podhradie	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Levoča_District
+Spišské_Podhradie	Levoča_District
+Spišské_Podhradie	isLocatedIn	Prešov_Region
+Spišské_Podhradie	isLocatedIn	Prešov_Region
+Spišské_Podhradie	isLocatedIn	Prešov_Region
+Spišské_Podhradie	isLocatedIn	Prešov_Region
+Spišské_Podhradie	isLocatedIn	Levoča_District
+Spišské_Podhradie	isLocatedIn	Levoča_District
+
+http://dbpedia.org/resource/Spišské_Podhradie	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Levoča_District
+Spišské_Podhradie	Levoča_District
+Spišské_Podhradie	isLocatedIn	Prešov_Region
+Spišské_Podhradie	isLocatedIn	Prešov_Region
+Levoča_District	isLocatedIn	Prešov_Region
+Levoča_District	isLocatedIn	Prešov_Region
+
+http://dbpedia.org/resource/Spišské_Podhradie	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Levoča_District
+Spišské_Podhradie	Levoča_District
+Spišské_Podhradie	isLocatedIn	Prešov_Region
+Spišské_Podhradie	isLocatedIn	Prešov_Region
+Levoča	isLocatedIn	Prešov_Region
+Levoča	isLocatedIn	Prešov_Region
+Levoča	isLocatedIn	Levoča_District
+Levoča_District	hasCapital	Levoča
+Levoča	isLocatedIn	Levoča_District
+Levoča_District	hasCapital	Levoča
+
+http://dbpedia.org/resource/Chrudim	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Chrudim_District
+Chrudim	Chrudim_District
+Chrudim_District	hasCapital	Chrudim
+Chrudim_District	isLocatedIn	Chrudim
+Chrudim	isLocatedIn	Chrudim_District
+Chrudim_District	hasCapital	Chrudim
+Chrudim_District	isLocatedIn	Chrudim
+Chrudim	isLocatedIn	Chrudim_District
+
+http://dbpedia.org/resource/Chrudim	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Chrudim_District
+Chrudim	Chrudim_District
+Milan_Jirásek	wasBornIn	Chrudim
+Milan_Jirásek	wasBornIn	Chrudim
+Milan_Jirásek	wasBornIn	Chrudim
+Milan_Jirásek	wasBornIn	Chrudim
+Chrudim_District	hasCapital	Chrudim
+Chrudim_District	isLocatedIn	Chrudim
+Chrudim	isLocatedIn	Chrudim_District
+Chrudim_District	hasCapital	Chrudim
+Chrudim_District	isLocatedIn	Chrudim
+Chrudim	isLocatedIn	Chrudim_District
+
+http://dbpedia.org/resource/Sečovce	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Trebišov_District
+Sečovce	Trebišov_District
+Emery_Roth	wasBornIn	Sečovce
+Emery_Roth	wasBornIn	Sečovce
+Emery_Roth	wasBornIn	Sečovce
+Emery_Roth	wasBornIn	Sečovce
+Sečovce	isLocatedIn	Trebišov_District
+Sečovce	isLocatedIn	Trebišov_District
+
+http://dbpedia.org/resource/Sečovce	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Trebišov_District
+Sečovce	Trebišov_District
+Sečovce	isLocatedIn	Trebišov_District
+Sečovce	isLocatedIn	Trebišov_District
+
+http://dbpedia.org/resource/Meilen	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Meilen_District
+Meilen	Meilen_District
+Meilen	isLocatedIn	Meilen_District
+Meilen_District	isLocatedIn	Meilen
+Meilen	isLocatedIn	Meilen_District
+Meilen_District	isLocatedIn	Meilen
+
+http://dbpedia.org/resource/Naperville,_Illinois	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Milton_Township,_DuPage_County,_Illinois
+Naperville,_Illinois	Milton_Township,_DuPage_County,_Illinois
+Naperville,_Illinois	isLocatedIn	DuPage_County,_Illinois
+Naperville,_Illinois	isLocatedIn	DuPage_County,_Illinois
+Wheaton,_Illinois	isLocatedIn	DuPage_County,_Illinois
+DuPage_County,_Illinois	isLocatedIn	Wheaton,_Illinois
+Wheaton,_Illinois	isLocatedIn	DuPage_County,_Illinois
+DuPage_County,_Illinois	isLocatedIn	Wheaton,_Illinois
+Wheaton,_Illinois	isLocatedIn	Milton_Township,_DuPage_County,_Illinois
+Wheaton,_Illinois	isLocatedIn	Milton_Township,_DuPage_County,_Illinois
+
+http://dbpedia.org/resource/Naperville,_Illinois	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Milton_Township,_DuPage_County,_Illinois
+Naperville,_Illinois	Milton_Township,_DuPage_County,_Illinois
+Naperville,_Illinois	isLocatedIn	DuPage_County,_Illinois
+Naperville,_Illinois	isLocatedIn	DuPage_County,_Illinois
+Lombard,_Illinois	isLocatedIn	DuPage_County,_Illinois
+Lombard,_Illinois	isLocatedIn	DuPage_County,_Illinois
+Lombard,_Illinois	isLocatedIn	Milton_Township,_DuPage_County,_Illinois
+Lombard,_Illinois	isLocatedIn	Milton_Township,_DuPage_County,_Illinois
+
+http://dbpedia.org/resource/Naperville,_Illinois	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Milton_Township,_DuPage_County,_Illinois
+Naperville,_Illinois	Milton_Township,_DuPage_County,_Illinois
+Naperville,_Illinois	isLocatedIn	DuPage_County,_Illinois
+Naperville,_Illinois	isLocatedIn	DuPage_County,_Illinois
+Milton_Township,_DuPage_County,_Illinois	isLocatedIn	DuPage_County,_Illinois
+Milton_Township,_DuPage_County,_Illinois	isLocatedIn	DuPage_County,_Illinois
+
+http://dbpedia.org/resource/Naperville,_Illinois	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Milton_Township,_DuPage_County,_Illinois
+Naperville,_Illinois	Milton_Township,_DuPage_County,_Illinois
+Naperville,_Illinois	isLocatedIn	Illinois
+Naperville,_Illinois	isLocatedIn	Illinois
+Wheaton,_Illinois	isLocatedIn	Illinois
+Wheaton,_Illinois	isLocatedIn	Illinois
+Wheaton,_Illinois	isLocatedIn	Milton_Township,_DuPage_County,_Illinois
+Wheaton,_Illinois	isLocatedIn	Milton_Township,_DuPage_County,_Illinois
+
+http://dbpedia.org/resource/Naperville,_Illinois	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Milton_Township,_DuPage_County,_Illinois
+Naperville,_Illinois	Milton_Township,_DuPage_County,_Illinois
+Naperville,_Illinois	isLocatedIn	Illinois
+Naperville,_Illinois	isLocatedIn	Illinois
+Carol_Stream,_Illinois	isLocatedIn	Illinois
+Carol_Stream,_Illinois	isLocatedIn	Illinois
+Carol_Stream,_Illinois	isLocatedIn	Milton_Township,_DuPage_County,_Illinois
+Carol_Stream,_Illinois	isLocatedIn	Milton_Township,_DuPage_County,_Illinois
+
+http://dbpedia.org/resource/Naperville,_Illinois	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Milton_Township,_DuPage_County,_Illinois
+Naperville,_Illinois	Milton_Township,_DuPage_County,_Illinois
+Naperville,_Illinois	isLocatedIn	Illinois
+Naperville,_Illinois	isLocatedIn	Illinois
+Glen_Ellyn,_Illinois	isLocatedIn	Illinois
+Glen_Ellyn,_Illinois	isLocatedIn	Illinois
+Glen_Ellyn,_Illinois	isLocatedIn	Milton_Township,_DuPage_County,_Illinois
+Glen_Ellyn,_Illinois	isLocatedIn	Milton_Township,_DuPage_County,_Illinois
+
+http://dbpedia.org/resource/Naperville,_Illinois	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Milton_Township,_DuPage_County,_Illinois
+Naperville,_Illinois	Milton_Township,_DuPage_County,_Illinois
+Naperville,_Illinois	isLocatedIn	Illinois
+Naperville,_Illinois	isLocatedIn	Illinois
+Lombard,_Illinois	isLocatedIn	Illinois
+Lombard,_Illinois	isLocatedIn	Illinois
+Lombard,_Illinois	isLocatedIn	Milton_Township,_DuPage_County,_Illinois
+Lombard,_Illinois	isLocatedIn	Milton_Township,_DuPage_County,_Illinois
+
+http://dbpedia.org/resource/Turčianske_Teplice	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Turčianske_Teplice_District
+Turčianske_Teplice	Turčianske_Teplice_District
+Turčianske_Teplice	isLocatedIn	Turčianske_Teplice_District
+Turčianske_Teplice_District	isLocatedIn	Turčianske_Teplice
+Turčianske_Teplice_District	hasCapital	Turčianske_Teplice
+Turčianske_Teplice	isLocatedIn	Turčianske_Teplice_District
+Turčianske_Teplice_District	isLocatedIn	Turčianske_Teplice
+Turčianske_Teplice_District	hasCapital	Turčianske_Teplice
+
+http://dbpedia.org/resource/Turčianske_Teplice	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Turčianske_Teplice_District
+Turčianske_Teplice	Turčianske_Teplice_District
+Abramová	isLocatedIn	Turčianske_Teplice
+Abramová	isLocatedIn	Turčianske_Teplice
+Abramová	isLocatedIn	Turčianske_Teplice_District
+Abramová	isLocatedIn	Turčianske_Teplice_District
+
+http://dbpedia.org/resource/Turčianske_Teplice	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Turčianske_Teplice_District
+Turčianske_Teplice	Turčianske_Teplice_District
+Abramová	isLocatedIn	Turčianske_Teplice
+Abramová	isLocatedIn	Turčianske_Teplice
+Abramová	isLocatedIn	Žilina_Region
+Abramová	isLocatedIn	Žilina_Region
+Turčianske_Teplice_District	isLocatedIn	Žilina_Region
+Turčianske_Teplice_District	isLocatedIn	Žilina_Region
+
+http://dbpedia.org/resource/Turčianske_Teplice	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Turčianske_Teplice_District
+Turčianske_Teplice	Turčianske_Teplice_District
+Abramová	isLocatedIn	Turčianske_Teplice
+Abramová	isLocatedIn	Turčianske_Teplice
+Abramová	isLocatedIn	Turčianske_Teplice
+Abramová	isLocatedIn	Turčianske_Teplice
+Turčianske_Teplice	isLocatedIn	Turčianske_Teplice_District
+Turčianske_Teplice_District	isLocatedIn	Turčianske_Teplice
+Turčianske_Teplice_District	hasCapital	Turčianske_Teplice
+Turčianske_Teplice	isLocatedIn	Turčianske_Teplice_District
+Turčianske_Teplice_District	isLocatedIn	Turčianske_Teplice
+Turčianske_Teplice_District	hasCapital	Turčianske_Teplice
+
+http://dbpedia.org/resource/Medzibrod	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Banská_Bystrica_District
+Medzibrod	Banská_Bystrica_District
+Medzibrod	isLocatedIn	Banská_Bystrica_Region
+Medzibrod	isLocatedIn	Banská_Bystrica_Region
+Banská_Bystrica_Region	hasCapital	Banská_Bystrica
+Banská_Bystrica	isLocatedIn	Banská_Bystrica_Region
+Banská_Bystrica_Region	hasCapital	Banská_Bystrica
+Banská_Bystrica	isLocatedIn	Banská_Bystrica_Region
+Banská_Bystrica_District	hasCapital	Banská_Bystrica
+Banská_Bystrica	isLocatedIn	Banská_Bystrica_District
+Banská_Bystrica_District	isLocatedIn	Banská_Bystrica
+Banská_Bystrica_District	hasCapital	Banská_Bystrica
+Banská_Bystrica	isLocatedIn	Banská_Bystrica_District
+Banská_Bystrica_District	isLocatedIn	Banská_Bystrica
+
+http://dbpedia.org/resource/Medzibrod	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Banská_Bystrica_District
+Medzibrod	Banská_Bystrica_District
+Medzibrod	isLocatedIn	Banská_Bystrica_Region
+Medzibrod	isLocatedIn	Banská_Bystrica_Region
+Harmanec	isLocatedIn	Banská_Bystrica_Region
+Harmanec	isLocatedIn	Banská_Bystrica_Region
+Harmanec	isLocatedIn	Banská_Bystrica_District
+Harmanec	isLocatedIn	Banská_Bystrica_District
+
+http://dbpedia.org/resource/Medzibrod	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Banská_Bystrica_District
+Medzibrod	Banská_Bystrica_District
+Medzibrod	isLocatedIn	Banská_Bystrica_Region
+Medzibrod	isLocatedIn	Banská_Bystrica_Region
+Moštenica	isLocatedIn	Banská_Bystrica_Region
+Moštenica	isLocatedIn	Banská_Bystrica_Region
+Moštenica	isLocatedIn	Banská_Bystrica_District
+Moštenica	isLocatedIn	Banská_Bystrica_District
+
+http://dbpedia.org/resource/Medzibrod	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Banská_Bystrica_District
+Medzibrod	Banská_Bystrica_District
+Medzibrod	isLocatedIn	Banská_Bystrica
+Medzibrod	isLocatedIn	Banská_Bystrica
+Banská_Bystrica_District	hasCapital	Banská_Bystrica
+Banská_Bystrica	isLocatedIn	Banská_Bystrica_District
+Banská_Bystrica_District	isLocatedIn	Banská_Bystrica
+Banská_Bystrica_District	hasCapital	Banská_Bystrica
+Banská_Bystrica	isLocatedIn	Banská_Bystrica_District
+Banská_Bystrica_District	isLocatedIn	Banská_Bystrica
+
+http://dbpedia.org/resource/Medzibrod	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Banská_Bystrica_District
+Medzibrod	Banská_Bystrica_District
+Medzibrod	isLocatedIn	Banská_Bystrica_District
+Medzibrod	isLocatedIn	Banská_Bystrica_District
+
+http://dbpedia.org/resource/Barrington_Hills,_Illinois	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Dundee_Township,_Kane_County,_Illinois
+Barrington_Hills,_Illinois	Dundee_Township,_Kane_County,_Illinois
+Barrington_Hills,_Illinois	isLocatedIn	Cook_County,_Illinois
+Barrington_Hills,_Illinois	isLocatedIn	Cook_County,_Illinois
+Elgin,_Illinois	isLocatedIn	Cook_County,_Illinois
+Elgin,_Illinois	isLocatedIn	Cook_County,_Illinois
+Elgin,_Illinois	isLocatedIn	Dundee_Township,_Kane_County,_Illinois
+Elgin,_Illinois	isLocatedIn	Dundee_Township,_Kane_County,_Illinois
+
+http://dbpedia.org/resource/Barrington_Hills,_Illinois	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Dundee_Township,_Kane_County,_Illinois
+Barrington_Hills,_Illinois	Dundee_Township,_Kane_County,_Illinois
+Barrington_Hills,_Illinois	isLocatedIn	Cook_County,_Illinois
+Barrington_Hills,_Illinois	isLocatedIn	Cook_County,_Illinois
+East_Dundee,_Illinois	isLocatedIn	Cook_County,_Illinois
+East_Dundee,_Illinois	isLocatedIn	Cook_County,_Illinois
+East_Dundee,_Illinois	isLocatedIn	Dundee_Township,_Kane_County,_Illinois
+East_Dundee,_Illinois	isLocatedIn	Dundee_Township,_Kane_County,_Illinois
+
+http://dbpedia.org/resource/Barrington_Hills,_Illinois	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Dundee_Township,_Kane_County,_Illinois
+Barrington_Hills,_Illinois	Dundee_Township,_Kane_County,_Illinois
+Barrington_Hills,_Illinois	isLocatedIn	Kane_County,_Illinois
+Barrington_Hills,_Illinois	isLocatedIn	Kane_County,_Illinois
+Elgin,_Illinois	isLocatedIn	Kane_County,_Illinois
+Elgin,_Illinois	isLocatedIn	Kane_County,_Illinois
+Elgin,_Illinois	isLocatedIn	Dundee_Township,_Kane_County,_Illinois
+Elgin,_Illinois	isLocatedIn	Dundee_Township,_Kane_County,_Illinois
+
+http://dbpedia.org/resource/Barrington_Hills,_Illinois	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Dundee_Township,_Kane_County,_Illinois
+Barrington_Hills,_Illinois	Dundee_Township,_Kane_County,_Illinois
+Barrington_Hills,_Illinois	isLocatedIn	Kane_County,_Illinois
+Barrington_Hills,_Illinois	isLocatedIn	Kane_County,_Illinois
+East_Dundee,_Illinois	isLocatedIn	Kane_County,_Illinois
+East_Dundee,_Illinois	isLocatedIn	Kane_County,_Illinois
+East_Dundee,_Illinois	isLocatedIn	Dundee_Township,_Kane_County,_Illinois
+East_Dundee,_Illinois	isLocatedIn	Dundee_Township,_Kane_County,_Illinois
+
+http://dbpedia.org/resource/Alewife_Brook_Reservation	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Somerville,_Massachusetts
+Alewife_Brook_Reservation	Somerville,_Massachusetts
+Alewife_Brook_Reservation	isLocatedIn	Arlington,_Massachusetts
+Alewife_Brook_Reservation	isLocatedIn	Arlington,_Massachusetts
+Arlington,_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+Arlington,_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+Somerville,_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+Somerville,_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+
+http://dbpedia.org/resource/Alewife_Brook_Reservation	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Somerville,_Massachusetts
+Alewife_Brook_Reservation	Somerville,_Massachusetts
+Alewife_Brook_Reservation	isLocatedIn	Arlington,_Massachusetts
+Alewife_Brook_Reservation	isLocatedIn	Arlington,_Massachusetts
+Mystic_Valley_Parkway	isLocatedIn	Arlington,_Massachusetts
+Mystic_Valley_Parkway	isLocatedIn	Arlington,_Massachusetts
+Mystic_Valley_Parkway	isLocatedIn	Somerville,_Massachusetts
+Mystic_Valley_Parkway	isLocatedIn	Somerville,_Massachusetts
+
+http://dbpedia.org/resource/Alewife_Brook_Reservation	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Somerville,_Massachusetts
+Alewife_Brook_Reservation	Somerville,_Massachusetts
+Alewife_Brook_Reservation	isLocatedIn	Middlesex_County,_Massachusetts
+Alewife_Brook_Reservation	isLocatedIn	Middlesex_County,_Massachusetts
+Somerville,_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+Somerville,_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+
+http://dbpedia.org/resource/Alewife_Brook_Reservation	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Somerville,_Massachusetts
+Alewife_Brook_Reservation	Somerville,_Massachusetts
+Alewife_Brook_Reservation	isLocatedIn	Cambridge,_Massachusetts
+Alewife_Brook_Reservation	isLocatedIn	Cambridge,_Massachusetts
+Middlesex_County,_Massachusetts	isLocatedIn	Cambridge,_Massachusetts
+Cambridge,_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+Middlesex_County,_Massachusetts	isLocatedIn	Cambridge,_Massachusetts
+Cambridge,_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+Somerville,_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+Somerville,_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+
+http://dbpedia.org/resource/Westport,_Kansas_City,_Missouri	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Jackson_County,_Missouri
+Westport,_Kansas_City,_Missouri	Jackson_County,_Missouri
+Westport,_Kansas_City,_Missouri	isLocatedIn	Jackson_County,_Missouri
+Westport,_Kansas_City,_Missouri	isLocatedIn	Jackson_County,_Missouri
+
+http://dbpedia.org/resource/Westport,_Kansas_City,_Missouri	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Jackson_County,_Missouri
+Westport,_Kansas_City,_Missouri	Jackson_County,_Missouri
+Battle_of_Westport	happenedIn	Westport,_Kansas_City,_Missouri
+Battle_of_Westport	happenedIn	Westport,_Kansas_City,_Missouri
+Battle_of_Westport	happenedIn	Jackson_County,_Missouri
+Battle_of_Westport	happenedIn	Jackson_County,_Missouri
+
+http://dbpedia.org/resource/Westport,_Kansas_City,_Missouri	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Jackson_County,_Missouri
+Westport,_Kansas_City,_Missouri	Jackson_County,_Missouri
+Battle_of_Westport	happenedIn	Westport,_Kansas_City,_Missouri
+Battle_of_Westport	happenedIn	Westport,_Kansas_City,_Missouri
+Battle_of_Westport	happenedIn	Westport,_Kansas_City,_Missouri
+Battle_of_Westport	happenedIn	Westport,_Kansas_City,_Missouri
+Westport,_Kansas_City,_Missouri	isLocatedIn	Jackson_County,_Missouri
+Westport,_Kansas_City,_Missouri	isLocatedIn	Jackson_County,_Missouri
+
+http://dbpedia.org/resource/Ruschein	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Surselva_District
+Ruschein	Surselva_District
+Ilanz/Glion	isLocatedIn	Ruschein
+Ruschein	isLocatedIn	Ilanz/Glion
+Ilanz/Glion	isLocatedIn	Ruschein
+Ruschein	isLocatedIn	Ilanz/Glion
+Ilanz/Glion	isLocatedIn	Ruschein
+Ruschein	isLocatedIn	Ilanz/Glion
+Ilanz/Glion	isLocatedIn	Ruschein
+Ruschein	isLocatedIn	Ilanz/Glion
+Ruschein	isLocatedIn	Surselva_District
+Ruschein	isLocatedIn	Surselva_District
+
+http://dbpedia.org/resource/Ruschein	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Surselva_District
+Ruschein	Surselva_District
+Ruschein	isLocatedIn	Surselva_District
+Ruschein	isLocatedIn	Surselva_District
+
+http://dbpedia.org/resource/Sierre	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Sierre_(district)
+Sierre	Sierre_(district)
+Sierre_(district)	isLocatedIn	Sierre
+Sierre	isLocatedIn	Sierre_(district)
+Sierre_(district)	isLocatedIn	Sierre
+Sierre	isLocatedIn	Sierre_(district)
+
+http://dbpedia.org/resource/Trutnov	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Trutnov_District
+Trutnov	Trutnov_District
+Trutnov_District	hasCapital	Trutnov
+Trutnov_District	isLocatedIn	Trutnov
+Trutnov	isLocatedIn	Trutnov_District
+Trutnov_District	hasCapital	Trutnov
+Trutnov_District	isLocatedIn	Trutnov
+Trutnov	isLocatedIn	Trutnov_District
+
+http://dbpedia.org/resource/Trutnov	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Trutnov_District
+Trutnov	Trutnov_District
+Trutnov	isLocatedIn	Hradec_Králové_Region
+Trutnov	isLocatedIn	Hradec_Králové_Region
+Trutnov	isLocatedIn	Hradec_Králové_Region
+Trutnov	isLocatedIn	Hradec_Králové_Region
+Trutnov_District	hasCapital	Trutnov
+Trutnov_District	isLocatedIn	Trutnov
+Trutnov	isLocatedIn	Trutnov_District
+Trutnov_District	hasCapital	Trutnov
+Trutnov_District	isLocatedIn	Trutnov
+Trutnov	isLocatedIn	Trutnov_District
+
+http://dbpedia.org/resource/River_Shannon	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/County_Cavan
+River_Shannon	County_Cavan
+River_Shannon	isLocatedIn	County_Longford
+River_Shannon	isLocatedIn	County_Longford
+River_Shannon	isLocatedIn	County_Longford
+River_Shannon	isLocatedIn	County_Longford
+River_Shannon	isLocatedIn	County_Cavan
+River_Shannon	isLocatedIn	County_Cavan
+
+http://dbpedia.org/resource/River_Shannon	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/County_Cavan
+River_Shannon	County_Cavan
+River_Shannon	isLocatedIn	County_Cavan
+River_Shannon	isLocatedIn	County_Cavan
+
+http://dbpedia.org/resource/River_Shannon	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/County_Cavan
+River_Shannon	County_Cavan
+River_Shannon	isLocatedIn	County_Tipperary
+River_Shannon	isLocatedIn	County_Tipperary
+River_Shannon	isLocatedIn	County_Tipperary
+River_Shannon	isLocatedIn	County_Tipperary
+River_Shannon	isLocatedIn	County_Cavan
+River_Shannon	isLocatedIn	County_Cavan
+
+http://dbpedia.org/resource/Tvrdošovce	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Nové_Zámky_District
+Tvrdošovce	Nové_Zámky_District
+Tvrdošovce	isLocatedIn	Nové_Zámky_District
+Tvrdošovce	isLocatedIn	Nové_Zámky_District
+
+http://dbpedia.org/resource/Tvrdošovce	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Nové_Zámky_District
+Tvrdošovce	Nové_Zámky_District
+Juraj_Szikora	wasBornIn	Tvrdošovce
+Juraj_Szikora	wasBornIn	Tvrdošovce
+Juraj_Szikora	wasBornIn	Tvrdošovce
+Juraj_Szikora	wasBornIn	Tvrdošovce
+Tvrdošovce	isLocatedIn	Nové_Zámky_District
+Tvrdošovce	isLocatedIn	Nové_Zámky_District
+
+http://dbpedia.org/resource/Šternberk	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Olomouc_District
+Šternberk	Olomouc_District
+Petr_Vrána	wasBornIn	Šternberk
+Petr_Vrána	wasBornIn	Šternberk
+Petr_Vrána	wasBornIn	Šternberk
+Petr_Vrána	wasBornIn	Šternberk
+Šternberk	isLocatedIn	Olomouc_District
+Šternberk	isLocatedIn	Olomouc_District
+
+http://dbpedia.org/resource/Šternberk	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Olomouc_District
+Šternberk	Olomouc_District
+Šternberk	isLocatedIn	Olomouc_District
+Šternberk	isLocatedIn	Olomouc_District
+
+http://dbpedia.org/resource/Kamenica_nad_Hronom	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Nové_Zámky_District
+Kamenica_nad_Hronom	Nové_Zámky_District
+Kamenica_nad_Hronom	isLocatedIn	Nové_Zámky_District
+Kamenica_nad_Hronom	isLocatedIn	Nové_Zámky_District
+
+http://dbpedia.org/resource/Levoča	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Levoča_District
+Levoča	Levoča_District
+Levoča	isLocatedIn	Levoča_District
+Levoča_District	hasCapital	Levoča
+Levoča	isLocatedIn	Levoča_District
+Levoča_District	hasCapital	Levoča
+
+http://dbpedia.org/resource/Levoča	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Levoča_District
+Levoča	Levoča_District
+Vladimír_Kukoľ	wasBornIn	Levoča
+Vladimír_Kukoľ	wasBornIn	Levoča
+Vladimír_Kukoľ	wasBornIn	Levoča
+Vladimír_Kukoľ	wasBornIn	Levoča
+Levoča	isLocatedIn	Levoča_District
+Levoča_District	hasCapital	Levoča
+Levoča	isLocatedIn	Levoča_District
+Levoča_District	hasCapital	Levoča
+
+http://dbpedia.org/resource/Levoča	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Levoča_District
+Levoča	Levoča_District
+Pavol_Jurčo	wasBornIn	Levoča
+Pavol_Jurčo	wasBornIn	Levoča
+Pavol_Jurčo	wasBornIn	Levoča
+Pavol_Jurčo	wasBornIn	Levoča
+Levoča	isLocatedIn	Levoča_District
+Levoča_District	hasCapital	Levoča
+Levoča	isLocatedIn	Levoča_District
+Levoča_District	hasCapital	Levoča
+
+http://dbpedia.org/resource/Levoča	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Levoča_District
+Levoča	Levoča_District
+Radoslav_Kunzo	wasBornIn	Levoča
+Radoslav_Kunzo	wasBornIn	Levoča
+Radoslav_Kunzo	wasBornIn	Levoča
+Radoslav_Kunzo	wasBornIn	Levoča
+Levoča	isLocatedIn	Levoča_District
+Levoča_District	hasCapital	Levoča
+Levoča	isLocatedIn	Levoča_District
+Levoča_District	hasCapital	Levoča
+
+http://dbpedia.org/resource/Levoča	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Levoča_District
+Levoča	Levoča_District
+Levoča	isLocatedIn	Prešov_Region
+Levoča	isLocatedIn	Prešov_Region
+Spišské_Podhradie	isLocatedIn	Prešov_Region
+Spišské_Podhradie	isLocatedIn	Prešov_Region
+Spišské_Podhradie	isLocatedIn	Levoča_District
+Spišské_Podhradie	isLocatedIn	Levoča_District
+
+http://dbpedia.org/resource/Levoča	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Levoča_District
+Levoča	Levoča_District
+Levoča	isLocatedIn	Prešov_Region
+Levoča	isLocatedIn	Prešov_Region
+Levoča_District	isLocatedIn	Prešov_Region
+Levoča_District	isLocatedIn	Prešov_Region
+
+http://dbpedia.org/resource/Levoča	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Levoča_District
+Levoča	Levoča_District
+Levoča	isLocatedIn	Prešov_Region
+Levoča	isLocatedIn	Prešov_Region
+Levoča	isLocatedIn	Prešov_Region
+Levoča	isLocatedIn	Prešov_Region
+Levoča	isLocatedIn	Levoča_District
+Levoča_District	hasCapital	Levoča
+Levoča	isLocatedIn	Levoča_District
+Levoča_District	hasCapital	Levoča
+
+http://dbpedia.org/resource/Hostinné	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Trutnov_District
+Hostinné	Trutnov_District
+Hostinné	isLocatedIn	Hradec_Králové_Region
+Hostinné	isLocatedIn	Hradec_Králové_Region
+Trutnov	isLocatedIn	Hradec_Králové_Region
+Trutnov	isLocatedIn	Hradec_Králové_Region
+Trutnov_District	hasCapital	Trutnov
+Trutnov_District	isLocatedIn	Trutnov
+Trutnov	isLocatedIn	Trutnov_District
+Trutnov_District	hasCapital	Trutnov
+Trutnov_District	isLocatedIn	Trutnov
+Trutnov	isLocatedIn	Trutnov_District
+
+http://dbpedia.org/resource/Hostinné	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Trutnov_District
+Hostinné	Trutnov_District
+Hostinné	isLocatedIn	Trutnov_District
+Hostinné	isLocatedIn	Trutnov_District
+
+http://dbpedia.org/resource/Lumnezia	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Surselva_District
+Lumnezia	Surselva_District
+Morissen	isLocatedIn	Lumnezia
+Lumnezia	isLocatedIn	Morissen
+Morissen	isLocatedIn	Lumnezia
+Lumnezia	isLocatedIn	Morissen
+Morissen	isLocatedIn	Surselva_District
+Morissen	isLocatedIn	Surselva_District
+
+http://dbpedia.org/resource/River_Suir	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/County_Tipperary
+River_Suir	County_Tipperary
+River_Suir	isLocatedIn	County_Tipperary
+River_Suir	isLocatedIn	County_Tipperary
+
+http://dbpedia.org/resource/River_Suir	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/County_Tipperary
+River_Suir	County_Tipperary
+River_Suir	isLocatedIn	County_Waterford
+River_Suir	isLocatedIn	County_Waterford
+County_Waterford	isLocatedIn	Munster
+Munster	isLocatedIn	County_Waterford
+County_Waterford	isLocatedIn	Munster
+Munster	isLocatedIn	County_Waterford
+Munster	isLocatedIn	County_Tipperary
+County_Tipperary	isLocatedIn	Munster
+Munster	isLocatedIn	County_Tipperary
+County_Tipperary	isLocatedIn	Munster
+
+http://dbpedia.org/resource/River_Suir	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/County_Tipperary
+River_Suir	County_Tipperary
+River_Suir	isLocatedIn	County_Kilkenny
+River_Suir	isLocatedIn	County_Kilkenny
+River_Suir	isLocatedIn	County_Kilkenny
+River_Suir	isLocatedIn	County_Kilkenny
+River_Suir	isLocatedIn	County_Tipperary
+River_Suir	isLocatedIn	County_Tipperary
+
+http://dbpedia.org/resource/River_Suir	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/County_Tipperary
+River_Suir	County_Tipperary
+Newcastle,_County_Tipperary	isLocatedIn	River_Suir
+Newcastle,_County_Tipperary	isLocatedIn	River_Suir
+Newcastle,_County_Tipperary	isLocatedIn	Clonmel
+Newcastle,_County_Tipperary	isLocatedIn	Clonmel
+County_Tipperary	hasCapital	Clonmel
+Clonmel	isLocatedIn	County_Tipperary
+County_Tipperary	isLocatedIn	Clonmel
+County_Tipperary	hasCapital	Clonmel
+Clonmel	isLocatedIn	County_Tipperary
+County_Tipperary	isLocatedIn	Clonmel
+
+http://dbpedia.org/resource/River_Suir	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/County_Tipperary
+River_Suir	County_Tipperary
+Newcastle,_County_Tipperary	isLocatedIn	River_Suir
+Newcastle,_County_Tipperary	isLocatedIn	River_Suir
+Newcastle,_County_Tipperary	isLocatedIn	County_Tipperary
+Newcastle,_County_Tipperary	isLocatedIn	County_Tipperary
+
+http://dbpedia.org/resource/River_Suir	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/County_Tipperary
+River_Suir	County_Tipperary
+Newcastle,_County_Tipperary	isLocatedIn	River_Suir
+Newcastle,_County_Tipperary	isLocatedIn	River_Suir
+Newcastle,_County_Tipperary	isLocatedIn	Munster
+Newcastle,_County_Tipperary	isLocatedIn	Munster
+Munster	isLocatedIn	County_Tipperary
+County_Tipperary	isLocatedIn	Munster
+Munster	isLocatedIn	County_Tipperary
+County_Tipperary	isLocatedIn	Munster
+
+http://dbpedia.org/resource/River_Suir	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/County_Tipperary
+River_Suir	County_Tipperary
+Newcastle,_County_Tipperary	isLocatedIn	River_Suir
+Newcastle,_County_Tipperary	isLocatedIn	River_Suir
+Newcastle,_County_Tipperary	isLocatedIn	River_Suir
+Newcastle,_County_Tipperary	isLocatedIn	River_Suir
+River_Suir	isLocatedIn	County_Tipperary
+River_Suir	isLocatedIn	County_Tipperary
+
+http://dbpedia.org/resource/Hajnáčka	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Rimavská_Sobota_District
+Hajnáčka	Rimavská_Sobota_District
+Hajnáčka	isLocatedIn	Rimavská_Sobota_District
+Hajnáčka	isLocatedIn	Rimavská_Sobota_District
+
+http://dbpedia.org/resource/Hajnáčka	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Rimavská_Sobota_District
+Hajnáčka	Rimavská_Sobota_District
+Hajnáčka	isLocatedIn	Banská_Bystrica_Region
+Hajnáčka	isLocatedIn	Banská_Bystrica_Region
+Hajnáčka	isLocatedIn	Banská_Bystrica_Region
+Hajnáčka	isLocatedIn	Banská_Bystrica_Region
+Hajnáčka	isLocatedIn	Rimavská_Sobota_District
+Hajnáčka	isLocatedIn	Rimavská_Sobota_District
+
+http://dbpedia.org/resource/Hajnáčka	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Rimavská_Sobota_District
+Hajnáčka	Rimavská_Sobota_District
+Hajnáčka	isLocatedIn	Banská_Bystrica_Region
+Hajnáčka	isLocatedIn	Banská_Bystrica_Region
+Drienčany	isLocatedIn	Banská_Bystrica_Region
+Drienčany	isLocatedIn	Banská_Bystrica_Region
+Drienčany	isLocatedIn	Rimavská_Sobota_District
+Drienčany	isLocatedIn	Rimavská_Sobota_District
+
+http://dbpedia.org/resource/Hajnáčka	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Rimavská_Sobota_District
+Hajnáčka	Rimavská_Sobota_District
+Hajnáčka	isLocatedIn	Rimavská_Sobota
+Hajnáčka	isLocatedIn	Rimavská_Sobota
+Rimavská_Sobota_District	hasCapital	Rimavská_Sobota
+Rimavská_Sobota	isLocatedIn	Rimavská_Sobota_District
+Rimavská_Sobota_District	hasCapital	Rimavská_Sobota
+Rimavská_Sobota	isLocatedIn	Rimavská_Sobota_District
+
+http://dbpedia.org/resource/Hajnáčka	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Rimavská_Sobota_District
+Hajnáčka	Rimavská_Sobota_District
+Hajnáčka	isLocatedIn	Rimavská_Sobota
+Hajnáčka	isLocatedIn	Rimavská_Sobota
+Belín	isLocatedIn	Rimavská_Sobota
+Belín	isLocatedIn	Rimavská_Sobota
+Belín	isLocatedIn	Rimavská_Sobota_District
+Belín	isLocatedIn	Rimavská_Sobota_District
+
+http://dbpedia.org/resource/Hajnáčka	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Rimavská_Sobota_District
+Hajnáčka	Rimavská_Sobota_District
+Gábor_Kemény_(politician,_1830–1888)	diedIn	Hajnáčka
+Gábor_Kemény_(politician,_1830–1888)	diedIn	Hajnáčka
+Gábor_Kemény_(politician,_1830–1888)	diedIn	Hajnáčka
+Gábor_Kemény_(politician,_1830–1888)	diedIn	Hajnáčka
+Hajnáčka	isLocatedIn	Rimavská_Sobota_District
+Hajnáčka	isLocatedIn	Rimavská_Sobota_District
+
+http://dbpedia.org/resource/Prachatice	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Prachatice_District
+Prachatice	Prachatice_District
+Prachatice_District	isLocatedIn	Prachatice
+Prachatice	isLocatedIn	Prachatice_District
+Prachatice_District	hasCapital	Prachatice
+Prachatice_District	isLocatedIn	Prachatice
+Prachatice	isLocatedIn	Prachatice_District
+Prachatice_District	hasCapital	Prachatice
+
+http://dbpedia.org/resource/Muralto	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Locarno_(district)
+Muralto	Locarno_(district)
+Richard_Willstätter	diedIn	Muralto
+Richard_Willstätter	diedIn	Muralto
+Richard_Willstätter	diedIn	Muralto
+Richard_Willstätter	diedIn	Muralto
+Muralto	isLocatedIn	Locarno_(district)
+Muralto	isLocatedIn	Locarno_(district)
+
+http://dbpedia.org/resource/Muralto	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Locarno_(district)
+Muralto	Locarno_(district)
+Paul_Klee	diedIn	Muralto
+Paul_Klee	diedIn	Muralto
+Paul_Klee	diedIn	Muralto
+Paul_Klee	diedIn	Muralto
+Muralto	isLocatedIn	Locarno_(district)
+Muralto	isLocatedIn	Locarno_(district)
+
+http://dbpedia.org/resource/Muralto	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Locarno_(district)
+Muralto	Locarno_(district)
+Muralto	isLocatedIn	Locarno_(district)
+Muralto	isLocatedIn	Locarno_(district)
+
+http://dbpedia.org/resource/Hnúšťa	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Rimavská_Sobota_District
+Hnúšťa	Rimavská_Sobota_District
+Hnúšťa	isLocatedIn	Banská_Bystrica_Region
+Hnúšťa	isLocatedIn	Banská_Bystrica_Region
+Hajnáčka	isLocatedIn	Banská_Bystrica_Region
+Hajnáčka	isLocatedIn	Banská_Bystrica_Region
+Hajnáčka	isLocatedIn	Rimavská_Sobota_District
+Hajnáčka	isLocatedIn	Rimavská_Sobota_District
+
+http://dbpedia.org/resource/Hnúšťa	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Rimavská_Sobota_District
+Hnúšťa	Rimavská_Sobota_District
+Hnúšťa	isLocatedIn	Banská_Bystrica_Region
+Hnúšťa	isLocatedIn	Banská_Bystrica_Region
+Drienčany	isLocatedIn	Banská_Bystrica_Region
+Drienčany	isLocatedIn	Banská_Bystrica_Region
+Drienčany	isLocatedIn	Rimavská_Sobota_District
+Drienčany	isLocatedIn	Rimavská_Sobota_District
+
+http://dbpedia.org/resource/Hnúšťa	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Rimavská_Sobota_District
+Hnúšťa	Rimavská_Sobota_District
+Hnúšťa	isLocatedIn	Rimavská_Sobota_District
+Hnúšťa	isLocatedIn	Rimavská_Sobota_District
+
+http://dbpedia.org/resource/Hnúšťa	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Rimavská_Sobota_District
+Hnúšťa	Rimavská_Sobota_District
+Hnúšťa	isLocatedIn	Rimavská_Sobota
+Hnúšťa	isLocatedIn	Rimavská_Sobota
+Rimavská_Sobota_District	hasCapital	Rimavská_Sobota
+Rimavská_Sobota	isLocatedIn	Rimavská_Sobota_District
+Rimavská_Sobota_District	hasCapital	Rimavská_Sobota
+Rimavská_Sobota	isLocatedIn	Rimavská_Sobota_District
+
+http://dbpedia.org/resource/Hnúšťa	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Rimavská_Sobota_District
+Hnúšťa	Rimavská_Sobota_District
+Hnúšťa	isLocatedIn	Rimavská_Sobota
+Hnúšťa	isLocatedIn	Rimavská_Sobota
+Belín	isLocatedIn	Rimavská_Sobota
+Belín	isLocatedIn	Rimavská_Sobota
+Belín	isLocatedIn	Rimavská_Sobota_District
+Belín	isLocatedIn	Rimavská_Sobota_District
+
+http://dbpedia.org/resource/Hnúšťa	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Rimavská_Sobota_District
+Hnúšťa	Rimavská_Sobota_District
+Vladimír_Hrivnák	wasBornIn	Hnúšťa
+Vladimír_Hrivnák	wasBornIn	Hnúšťa
+Vladimír_Hrivnák	wasBornIn	Hnúšťa
+Vladimír_Hrivnák	wasBornIn	Hnúšťa
+Hnúšťa	isLocatedIn	Rimavská_Sobota_District
+Hnúšťa	isLocatedIn	Rimavská_Sobota_District
+
+http://dbpedia.org/resource/Zemné	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Nové_Zámky_District
+Zemné	Nové_Zámky_District
+Ányos_Jedlik	wasBornIn	Zemné
+Ányos_Jedlik	wasBornIn	Zemné
+Ányos_Jedlik	wasBornIn	Zemné
+Ányos_Jedlik	wasBornIn	Zemné
+Zemné	isLocatedIn	Nové_Zámky_District
+Zemné	isLocatedIn	Nové_Zámky_District
+
+http://dbpedia.org/resource/Zemné	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Nové_Zámky_District
+Zemné	Nové_Zámky_District
+Zemné	isLocatedIn	Nové_Zámky_District
+Zemné	isLocatedIn	Nové_Zámky_District
+
+http://dbpedia.org/resource/Tivoli,_New_York	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Dutchess_County,_New_York
+Tivoli,_New_York	Dutchess_County,_New_York
+Hudson_River_Historic_District	isLocatedIn	Tivoli,_New_York
+Hudson_River_Historic_District	isLocatedIn	Tivoli,_New_York
+Hudson_River_Historic_District	isLocatedIn	Annandale-on-Hudson,_New_York
+Hudson_River_Historic_District	isLocatedIn	Annandale-on-Hudson,_New_York
+Annandale-on-Hudson,_New_York	isLocatedIn	Dutchess_County,_New_York
+Annandale-on-Hudson,_New_York	isLocatedIn	Dutchess_County,_New_York
+
+http://dbpedia.org/resource/Tivoli,_New_York	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Dutchess_County,_New_York
+Tivoli,_New_York	Dutchess_County,_New_York
+Hudson_River_Historic_District	isLocatedIn	Tivoli,_New_York
+Hudson_River_Historic_District	isLocatedIn	Tivoli,_New_York
+Hudson_River_Historic_District	isLocatedIn	Tivoli,_New_York
+Hudson_River_Historic_District	isLocatedIn	Tivoli,_New_York
+Tivoli,_New_York	isLocatedIn	Dutchess_County,_New_York
+Tivoli,_New_York	isLocatedIn	Dutchess_County,_New_York
+
+http://dbpedia.org/resource/Tivoli,_New_York	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Dutchess_County,_New_York
+Tivoli,_New_York	Dutchess_County,_New_York
+Hudson_River_Historic_District	isLocatedIn	Tivoli,_New_York
+Hudson_River_Historic_District	isLocatedIn	Tivoli,_New_York
+Hudson_River_Historic_District	isLocatedIn	Rhinecliff,_New_York
+Hudson_River_Historic_District	isLocatedIn	Rhinecliff,_New_York
+Rhinecliff,_New_York	isLocatedIn	Dutchess_County,_New_York
+Rhinecliff,_New_York	isLocatedIn	Dutchess_County,_New_York
+
+http://dbpedia.org/resource/Tivoli,_New_York	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Dutchess_County,_New_York
+Tivoli,_New_York	Dutchess_County,_New_York
+Hudson_River_Historic_District	isLocatedIn	Tivoli,_New_York
+Hudson_River_Historic_District	isLocatedIn	Tivoli,_New_York
+Hudson_River_Historic_District	isLocatedIn	Staatsburg,_New_York
+Hudson_River_Historic_District	isLocatedIn	Staatsburg,_New_York
+Staatsburg,_New_York	isLocatedIn	Dutchess_County,_New_York
+Staatsburg,_New_York	isLocatedIn	Dutchess_County,_New_York
+
+http://dbpedia.org/resource/Tivoli,_New_York	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Dutchess_County,_New_York
+Tivoli,_New_York	Dutchess_County,_New_York
+Tivoli,_New_York	isLocatedIn	Dutchess_County,_New_York
+Tivoli,_New_York	isLocatedIn	Dutchess_County,_New_York
+
+http://dbpedia.org/resource/Tivoli,_New_York	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Dutchess_County,_New_York
+Tivoli,_New_York	Dutchess_County,_New_York
+Edgewater_(Barrytown,_New_York)	isLocatedIn	Tivoli,_New_York
+Edgewater_(Barrytown,_New_York)	isLocatedIn	Tivoli,_New_York
+Edgewater_(Barrytown,_New_York)	isLocatedIn	Annandale-on-Hudson,_New_York
+Edgewater_(Barrytown,_New_York)	isLocatedIn	Annandale-on-Hudson,_New_York
+Annandale-on-Hudson,_New_York	isLocatedIn	Dutchess_County,_New_York
+Annandale-on-Hudson,_New_York	isLocatedIn	Dutchess_County,_New_York
+
+http://dbpedia.org/resource/Tivoli,_New_York	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Dutchess_County,_New_York
+Tivoli,_New_York	Dutchess_County,_New_York
+Edgewater_(Barrytown,_New_York)	isLocatedIn	Tivoli,_New_York
+Edgewater_(Barrytown,_New_York)	isLocatedIn	Tivoli,_New_York
+Edgewater_(Barrytown,_New_York)	isLocatedIn	Rhinecliff,_New_York
+Edgewater_(Barrytown,_New_York)	isLocatedIn	Rhinecliff,_New_York
+Rhinecliff,_New_York	isLocatedIn	Dutchess_County,_New_York
+Rhinecliff,_New_York	isLocatedIn	Dutchess_County,_New_York
+
+http://dbpedia.org/resource/Tivoli,_New_York	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Dutchess_County,_New_York
+Tivoli,_New_York	Dutchess_County,_New_York
+Edgewater_(Barrytown,_New_York)	isLocatedIn	Tivoli,_New_York
+Edgewater_(Barrytown,_New_York)	isLocatedIn	Tivoli,_New_York
+Edgewater_(Barrytown,_New_York)	isLocatedIn	Staatsburg,_New_York
+Edgewater_(Barrytown,_New_York)	isLocatedIn	Staatsburg,_New_York
+Staatsburg,_New_York	isLocatedIn	Dutchess_County,_New_York
+Staatsburg,_New_York	isLocatedIn	Dutchess_County,_New_York
+
+http://dbpedia.org/resource/Tivoli,_New_York	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Dutchess_County,_New_York
+Tivoli,_New_York	Dutchess_County,_New_York
+Edgewater_(Barrytown,_New_York)	isLocatedIn	Tivoli,_New_York
+Edgewater_(Barrytown,_New_York)	isLocatedIn	Tivoli,_New_York
+Edgewater_(Barrytown,_New_York)	isLocatedIn	Tivoli,_New_York
+Edgewater_(Barrytown,_New_York)	isLocatedIn	Tivoli,_New_York
+Tivoli,_New_York	isLocatedIn	Dutchess_County,_New_York
+Tivoli,_New_York	isLocatedIn	Dutchess_County,_New_York
+
+http://dbpedia.org/resource/Lavin	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Inn_District,_Switzerland
+Lavin	Inn_District,_Switzerland
+Lavin	isLocatedIn	Inn_District,_Switzerland
+Lavin	isLocatedIn	Inn_District,_Switzerland
+
+http://dbpedia.org/resource/Lavin	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Inn_District,_Switzerland
+Lavin	Inn_District,_Switzerland
+Oscar_Peer	wasBornIn	Lavin
+Oscar_Peer	wasBornIn	Lavin
+Oscar_Peer	wasBornIn	Lavin
+Oscar_Peer	wasBornIn	Lavin
+Lavin	isLocatedIn	Inn_District,_Switzerland
+Lavin	isLocatedIn	Inn_District,_Switzerland
+
+http://dbpedia.org/resource/Lavin	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Inn_District,_Switzerland
+Lavin	Inn_District,_Switzerland
+Lavin	isLocatedIn	Zernez
+Lavin	isLocatedIn	Zernez
+Lavin	isLocatedIn	Zernez
+Lavin	isLocatedIn	Zernez
+Lavin	isLocatedIn	Inn_District,_Switzerland
+Lavin	isLocatedIn	Inn_District,_Switzerland
+
+http://dbpedia.org/resource/Lavin	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Inn_District,_Switzerland
+Lavin	Inn_District,_Switzerland
+Lavin	isLocatedIn	Zernez
+Lavin	isLocatedIn	Zernez
+Zernez	isLocatedIn	Inn_District,_Switzerland
+Zernez	isLocatedIn	Inn_District,_Switzerland
+

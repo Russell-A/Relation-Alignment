@@ -1,0 +1,2347 @@
+http://dbpedia.org/resource/University_College_South_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kolding
+University_College_South_Denmark	Kolding
+University_College_South_Denmark	isLocatedIn	Sønderborg
+University_College_South_Denmark	isLocatedIn	Sønderborg
+University_College_South_Denmark	isLocatedIn	Sønderborg
+University_College_South_Denmark	isLocatedIn	Sønderborg
+University_College_South_Denmark	isLocatedIn	Kolding
+University_College_South_Denmark	isLocatedIn	Kolding
+
+http://dbpedia.org/resource/University_College_South_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kolding
+University_College_South_Denmark	Kolding
+University_College_South_Denmark	isLocatedIn	Sønderborg
+University_College_South_Denmark	isLocatedIn	Sønderborg
+University_of_Southern_Denmark	isLocatedIn	Sønderborg
+University_of_Southern_Denmark	isLocatedIn	Sønderborg
+University_of_Southern_Denmark	isLocatedIn	Kolding
+University_of_Southern_Denmark	isLocatedIn	Kolding
+
+http://dbpedia.org/resource/University_College_South_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kolding
+University_College_South_Denmark	Kolding
+University_College_South_Denmark	isLocatedIn	Kolding
+University_College_South_Denmark	isLocatedIn	Kolding
+
+http://dbpedia.org/resource/University_College_South_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kolding
+University_College_South_Denmark	Kolding
+University_College_South_Denmark	isLocatedIn	Aabenraa
+University_College_South_Denmark	isLocatedIn	Aabenraa
+University_College_South_Denmark	isLocatedIn	Aabenraa
+University_College_South_Denmark	isLocatedIn	Aabenraa
+University_College_South_Denmark	isLocatedIn	Kolding
+University_College_South_Denmark	isLocatedIn	Kolding
+
+http://dbpedia.org/resource/Sripatum_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Bangkok
+Sripatum_University	Bangkok
+Sripatum_University	isLocatedIn	Bangkok
+Sripatum_University	isLocatedIn	Bangkok
+
+http://dbpedia.org/resource/Sripatum_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Bangkok
+Sripatum_University	Bangkok
+Sripatum_University	isLocatedIn	Thailand
+Sripatum_University	isLocatedIn	Thailand
+Big_C	isLocatedIn	Thailand
+Big_C	isLocatedIn	Thailand
+Big_C	isLocatedIn	Bangkok
+Big_C	isLocatedIn	Bangkok
+
+http://dbpedia.org/resource/Sripatum_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Bangkok
+Sripatum_University	Bangkok
+Sripatum_University	isLocatedIn	Thailand
+Sripatum_University	isLocatedIn	Thailand
+NIST_International_School	isLocatedIn	Thailand
+NIST_International_School	isLocatedIn	Thailand
+NIST_International_School	isLocatedIn	Bangkok
+NIST_International_School	isLocatedIn	Bangkok
+
+http://dbpedia.org/resource/Sripatum_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Bangkok
+Sripatum_University	Bangkok
+Sripatum_University	isLocatedIn	Thailand
+Sripatum_University	isLocatedIn	Thailand
+Thai_AirAsia_X	isLocatedIn	Thailand
+Thai_AirAsia_X	isLocatedIn	Thailand
+Thai_AirAsia_X	isLocatedIn	Bangkok
+Thai_AirAsia_X	isLocatedIn	Bangkok
+
+http://dbpedia.org/resource/Sripatum_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Bangkok
+Sripatum_University	Bangkok
+Sripatum_University	isLocatedIn	Thailand
+Sripatum_University	isLocatedIn	Thailand
+Vajirunhis	isCitizenOf	Thailand
+Vajirunhis	isCitizenOf	Thailand
+Vajirunhis	diedIn	Bangkok
+Vajirunhis	diedIn	Bangkok
+
+http://dbpedia.org/resource/Sripatum_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Bangkok
+Sripatum_University	Bangkok
+Sripatum_University	isLocatedIn	Thailand
+Sripatum_University	isLocatedIn	Thailand
+Taweethapisek_School	isLocatedIn	Thailand
+Taweethapisek_School	isLocatedIn	Thailand
+Taweethapisek_School	isLocatedIn	Bangkok
+Taweethapisek_School	isLocatedIn	Bangkok
+
+http://dbpedia.org/resource/Sripatum_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Bangkok
+Sripatum_University	Bangkok
+Sripatum_University	isLocatedIn	Thailand
+Sripatum_University	isLocatedIn	Thailand
+Vajira_Hospital	isLocatedIn	Thailand
+Vajira_Hospital	isLocatedIn	Thailand
+Vajira_Hospital	isLocatedIn	Bangkok
+Vajira_Hospital	isLocatedIn	Bangkok
+
+http://dbpedia.org/resource/Sripatum_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Bangkok
+Sripatum_University	Bangkok
+Sripatum_University	isLocatedIn	Thailand
+Sripatum_University	isLocatedIn	Thailand
+Sirivannavari_Nariratana	isCitizenOf	Thailand
+Sirivannavari_Nariratana	isCitizenOf	Thailand
+Sirivannavari_Nariratana	wasBornIn	Bangkok
+Sirivannavari_Nariratana	wasBornIn	Bangkok
+
+http://dbpedia.org/resource/Sripatum_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Bangkok
+Sripatum_University	Bangkok
+Sripatum_University	isLocatedIn	Thailand
+Sripatum_University	isLocatedIn	Thailand
+Rajavinit_Mathayom_School	isLocatedIn	Thailand
+Rajavinit_Mathayom_School	isLocatedIn	Thailand
+Rajavinit_Mathayom_School	isLocatedIn	Bangkok
+Rajavinit_Mathayom_School	isLocatedIn	Bangkok
+
+http://dbpedia.org/resource/Sripatum_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Bangkok
+Sripatum_University	Bangkok
+Sripatum_University	isLocatedIn	Thailand
+Sripatum_University	isLocatedIn	Thailand
+Vichitra_Chiraprabha	isCitizenOf	Thailand
+Vichitra_Chiraprabha	isCitizenOf	Thailand
+Vichitra_Chiraprabha	diedIn	Bangkok
+Vichitra_Chiraprabha	diedIn	Bangkok
+
+http://dbpedia.org/resource/Sripatum_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Bangkok
+Sripatum_University	Bangkok
+Sripatum_University	isLocatedIn	Thailand
+Sripatum_University	isLocatedIn	Thailand
+Tammy_Duckworth	isCitizenOf	Thailand
+Tammy_Duckworth	isCitizenOf	Thailand
+Tammy_Duckworth	wasBornIn	Bangkok
+Tammy_Duckworth	wasBornIn	Bangkok
+
+http://dbpedia.org/resource/Sripatum_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Bangkok
+Sripatum_University	Bangkok
+Sripatum_University	isLocatedIn	Thailand
+Sripatum_University	isLocatedIn	Thailand
+Chaleo_Yoovidhya	isCitizenOf	Thailand
+Chaleo_Yoovidhya	isCitizenOf	Thailand
+Chaleo_Yoovidhya	diedIn	Bangkok
+Chaleo_Yoovidhya	diedIn	Bangkok
+
+http://dbpedia.org/resource/Sripatum_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Bangkok
+Sripatum_University	Bangkok
+Sripatum_University	isLocatedIn	Thailand
+Sripatum_University	isLocatedIn	Thailand
+Pote_Sarasin	isCitizenOf	Thailand
+Pote_Sarasin	isPoliticianOf	Thailand
+Pote_Sarasin	isCitizenOf	Thailand
+Pote_Sarasin	isPoliticianOf	Thailand
+Pote_Sarasin	wasBornIn	Bangkok
+Pote_Sarasin	diedIn	Bangkok
+Pote_Sarasin	wasBornIn	Bangkok
+Pote_Sarasin	diedIn	Bangkok
+
+http://dbpedia.org/resource/Sripatum_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Bangkok
+Sripatum_University	Bangkok
+Sripatum_University	isLocatedIn	Chatuchak_District
+Sripatum_University	isLocatedIn	Chatuchak_District
+SCB_Park_Plaza	isLocatedIn	Chatuchak_District
+SCB_Park_Plaza	isLocatedIn	Chatuchak_District
+SCB_Park_Plaza	isLocatedIn	Bangkok
+SCB_Park_Plaza	isLocatedIn	Bangkok
+
+http://dbpedia.org/resource/Sripatum_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Bangkok
+Sripatum_University	Bangkok
+Sripatum_University	isLocatedIn	Chatuchak_District
+Sripatum_University	isLocatedIn	Chatuchak_District
+Chatuchak_District	isLocatedIn	Bangkok
+Chatuchak_District	isLocatedIn	Bangkok
+
+http://dbpedia.org/resource/Sripatum_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Bangkok
+Sripatum_University	Bangkok
+Sripatum_University	isLocatedIn	Chatuchak_District
+Sripatum_University	isLocatedIn	Chatuchak_District
+Elephant_Building	isLocatedIn	Chatuchak_District
+Elephant_Building	isLocatedIn	Chatuchak_District
+Elephant_Building	isLocatedIn	Bangkok
+Elephant_Building	isLocatedIn	Bangkok
+
+http://dbpedia.org/resource/Sripatum_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Bangkok
+Sripatum_University	Bangkok
+Sripatum_University	isLocatedIn	Chatuchak_District
+Sripatum_University	isLocatedIn	Chatuchak_District
+Siam_Commercial_Bank	isLocatedIn	Chatuchak_District
+Siam_Commercial_Bank	isLocatedIn	Chatuchak_District
+Siam_Commercial_Bank	isLocatedIn	Bangkok
+Siam_Commercial_Bank	isLocatedIn	Bangkok
+
+http://dbpedia.org/resource/Sripatum_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Bangkok
+Sripatum_University	Bangkok
+Sripatum_University	isLocatedIn	Chatuchak_District
+Sripatum_University	isLocatedIn	Chatuchak_District
+Bangkok_Airways	isLocatedIn	Chatuchak_District
+Bangkok_Airways	isLocatedIn	Chatuchak_District
+Bangkok_Airways	isLocatedIn	Bangkok
+Bangkok_Airways	isLocatedIn	Bangkok
+
+http://dbpedia.org/resource/Sripatum_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Bangkok
+Sripatum_University	Bangkok
+Sripatum_University	isLocatedIn	Chatuchak_District
+Sripatum_University	isLocatedIn	Chatuchak_District
+Sripatum_University	isLocatedIn	Chatuchak_District
+Sripatum_University	isLocatedIn	Chatuchak_District
+Sripatum_University	isLocatedIn	Bangkok
+Sripatum_University	isLocatedIn	Bangkok
+
+http://dbpedia.org/resource/Sripatum_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Bangkok
+Sripatum_University	Bangkok
+Sripatum_University	isLocatedIn	Chatuchak_District
+Sripatum_University	isLocatedIn	Chatuchak_District
+Thai_Airways	isLocatedIn	Chatuchak_District
+Thai_Airways	isLocatedIn	Chatuchak_District
+Thai_Airways	isLocatedIn	Bangkok
+Thai_Airways	isLocatedIn	Bangkok
+
+http://dbpedia.org/resource/Sripatum_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Bangkok
+Sripatum_University	Bangkok
+Sanoh_Thienthong	graduatedFrom	Sripatum_University
+Sanoh_Thienthong	graduatedFrom	Sripatum_University
+Sanoh_Thienthong	graduatedFrom	Sripatum_University
+Sanoh_Thienthong	graduatedFrom	Sripatum_University
+Sripatum_University	isLocatedIn	Bangkok
+Sripatum_University	isLocatedIn	Bangkok
+
+http://dbpedia.org/resource/University_College_Zealand	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Slagelse
+University_College_Zealand	Slagelse
+University_College_Zealand	isLocatedIn	Kalundborg
+University_College_Zealand	isLocatedIn	Kalundborg
+University_College_Zealand	isLocatedIn	Kalundborg
+University_College_Zealand	isLocatedIn	Kalundborg
+University_College_Zealand	isLocatedIn	Slagelse
+University_College_Zealand	isLocatedIn	Slagelse
+
+http://dbpedia.org/resource/University_College_Zealand	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Slagelse
+University_College_Zealand	Slagelse
+University_College_Zealand	isLocatedIn	Vordingborg
+University_College_Zealand	isLocatedIn	Vordingborg
+University_College_Zealand	isLocatedIn	Vordingborg
+University_College_Zealand	isLocatedIn	Vordingborg
+University_College_Zealand	isLocatedIn	Slagelse
+University_College_Zealand	isLocatedIn	Slagelse
+
+http://dbpedia.org/resource/University_College_Zealand	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Slagelse
+University_College_Zealand	Slagelse
+University_College_Zealand	isLocatedIn	Slagelse
+University_College_Zealand	isLocatedIn	Slagelse
+
+http://dbpedia.org/resource/University_College_Zealand	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Slagelse
+University_College_Zealand	Slagelse
+University_College_Zealand	isLocatedIn	Roskilde
+University_College_Zealand	isLocatedIn	Roskilde
+University_College_Zealand	isLocatedIn	Roskilde
+University_College_Zealand	isLocatedIn	Roskilde
+University_College_Zealand	isLocatedIn	Slagelse
+University_College_Zealand	isLocatedIn	Slagelse
+
+http://dbpedia.org/resource/University_College_Zealand	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Slagelse
+University_College_Zealand	Slagelse
+University_College_Zealand	isLocatedIn	Næstved
+University_College_Zealand	isLocatedIn	Næstved
+University_College_Zealand	isLocatedIn	Næstved
+University_College_Zealand	isLocatedIn	Næstved
+University_College_Zealand	isLocatedIn	Slagelse
+University_College_Zealand	isLocatedIn	Slagelse
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+Susan_Lim_(parasitologist)	graduatedFrom	University_of_Malaya
+Susan_Lim_(parasitologist)	worksAt	University_of_Malaya
+Susan_Lim_(parasitologist)	graduatedFrom	University_of_Malaya
+Susan_Lim_(parasitologist)	worksAt	University_of_Malaya
+Susan_Lim_(parasitologist)	graduatedFrom	University_of_Malaya
+Susan_Lim_(parasitologist)	worksAt	University_of_Malaya
+Susan_Lim_(parasitologist)	graduatedFrom	University_of_Malaya
+Susan_Lim_(parasitologist)	worksAt	University_of_Malaya
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+Sivarasa_Rasiah	graduatedFrom	University_of_Malaya
+Sivarasa_Rasiah	graduatedFrom	University_of_Malaya
+Sivarasa_Rasiah	graduatedFrom	University_of_Malaya
+Sivarasa_Rasiah	graduatedFrom	University_of_Malaya
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+Sivarasa_Rasiah	graduatedFrom	University_of_Malaya
+Sivarasa_Rasiah	graduatedFrom	University_of_Malaya
+Sivarasa_Rasiah	wasBornIn	Selangor
+Sivarasa_Rasiah	wasBornIn	Selangor
+Kuala_Lumpur	isLocatedIn	Selangor
+Kuala_Lumpur	isLocatedIn	Selangor
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+Muhyiddin_Yassin	graduatedFrom	University_of_Malaya
+Muhyiddin_Yassin	graduatedFrom	University_of_Malaya
+Muhyiddin_Yassin	graduatedFrom	University_of_Malaya
+Muhyiddin_Yassin	graduatedFrom	University_of_Malaya
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+Muhyiddin_Yassin	graduatedFrom	University_of_Malaya
+Muhyiddin_Yassin	graduatedFrom	University_of_Malaya
+Muhyiddin_Yassin	isLeaderOf	Pakatan_Harapan
+Muhyiddin_Yassin	isLeaderOf	Pakatan_Harapan
+Pakatan_Harapan	isLocatedIn	Kuala_Lumpur
+Pakatan_Harapan	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+Steven_Sim	graduatedFrom	University_of_Malaya
+Steven_Sim	graduatedFrom	University_of_Malaya
+Steven_Sim	graduatedFrom	University_of_Malaya
+Steven_Sim	graduatedFrom	University_of_Malaya
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+Steven_Sim	graduatedFrom	University_of_Malaya
+Steven_Sim	graduatedFrom	University_of_Malaya
+Steven_Sim	isAffiliatedTo	Pakatan_Rakyat
+Steven_Sim	isAffiliatedTo	Pakatan_Rakyat
+Pakatan_Rakyat	isLocatedIn	Kuala_Lumpur
+Pakatan_Rakyat	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+Ong_Ka_Ting	graduatedFrom	University_of_Malaya
+Ong_Ka_Ting	graduatedFrom	University_of_Malaya
+Ong_Ka_Ting	graduatedFrom	University_of_Malaya
+Ong_Ka_Ting	graduatedFrom	University_of_Malaya
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+Abdul_Razak_Hussein	graduatedFrom	University_of_Malaya
+Abdul_Razak_Hussein	graduatedFrom	University_of_Malaya
+Abdul_Razak_Hussein	hasChild	Nazir_Razak
+Abdul_Razak_Hussein	hasChild	Nazir_Razak
+Nazir_Razak	wasBornIn	Kuala_Lumpur
+Nazir_Razak	wasBornIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+Abdul_Razak_Hussein	graduatedFrom	University_of_Malaya
+Abdul_Razak_Hussein	graduatedFrom	University_of_Malaya
+Abdul_Razak_Hussein	graduatedFrom	University_of_Malaya
+Abdul_Razak_Hussein	graduatedFrom	University_of_Malaya
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+Sukarti_Wakiman	graduatedFrom	University_of_Malaya
+Sukarti_Wakiman	graduatedFrom	University_of_Malaya
+Sukarti_Wakiman	graduatedFrom	University_of_Malaya
+Sukarti_Wakiman	graduatedFrom	University_of_Malaya
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+Shahrir_Abdul_Samad	graduatedFrom	University_of_Malaya
+Shahrir_Abdul_Samad	graduatedFrom	University_of_Malaya
+Shahrir_Abdul_Samad	graduatedFrom	University_of_Malaya
+Shahrir_Abdul_Samad	graduatedFrom	University_of_Malaya
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+Khir_Toyo	graduatedFrom	University_of_Malaya
+Khir_Toyo	graduatedFrom	University_of_Malaya
+Khir_Toyo	isPoliticianOf	Selangor
+Khir_Toyo	isPoliticianOf	Selangor
+Kuala_Lumpur	isLocatedIn	Selangor
+Kuala_Lumpur	isLocatedIn	Selangor
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+Khir_Toyo	graduatedFrom	University_of_Malaya
+Khir_Toyo	graduatedFrom	University_of_Malaya
+Khir_Toyo	graduatedFrom	University_of_Malaya
+Khir_Toyo	graduatedFrom	University_of_Malaya
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Malaysia
+University_of_Malaya	isLocatedIn	Malaysia
+Weeratunge_Edward_Perera	isCitizenOf	Malaysia
+Weeratunge_Edward_Perera	isCitizenOf	Malaysia
+Weeratunge_Edward_Perera	diedIn	Kuala_Lumpur
+Weeratunge_Edward_Perera	diedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Malaysia
+University_of_Malaya	isLocatedIn	Malaysia
+Azrinaz_Mazhar_Hakim	isCitizenOf	Malaysia
+Azrinaz_Mazhar_Hakim	isCitizenOf	Malaysia
+Azrinaz_Mazhar_Hakim	wasBornIn	Kuala_Lumpur
+Azrinaz_Mazhar_Hakim	wasBornIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Malaysia
+University_of_Malaya	isLocatedIn	Malaysia
+Salamfone	isLocatedIn	Malaysia
+Salamfone	isLocatedIn	Malaysia
+Salamfone	isLocatedIn	Kuala_Lumpur
+Salamfone	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Malaysia
+University_of_Malaya	isLocatedIn	Malaysia
+MASkargo	isLocatedIn	Malaysia
+MASkargo	isLocatedIn	Malaysia
+MASkargo	isLocatedIn	Kuala_Lumpur
+MASkargo	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Malaysia
+University_of_Malaya	isLocatedIn	Malaysia
+Ko_Chung_Sen	isCitizenOf	Malaysia
+Ko_Chung_Sen	isCitizenOf	Malaysia
+Ko_Chung_Sen	wasBornIn	Kuala_Lumpur
+Ko_Chung_Sen	wasBornIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+Chan_Kong_Choy	graduatedFrom	University_of_Malaya
+Chan_Kong_Choy	graduatedFrom	University_of_Malaya
+Chan_Kong_Choy	graduatedFrom	University_of_Malaya
+Chan_Kong_Choy	graduatedFrom	University_of_Malaya
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+Tan_Kee_Kwong	graduatedFrom	University_of_Malaya
+Tan_Kee_Kwong	graduatedFrom	University_of_Malaya
+Tan_Kee_Kwong	graduatedFrom	University_of_Malaya
+Tan_Kee_Kwong	graduatedFrom	University_of_Malaya
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+Tan_Kee_Kwong	graduatedFrom	University_of_Malaya
+Tan_Kee_Kwong	graduatedFrom	University_of_Malaya
+Tan_Kee_Kwong	isAffiliatedTo	Parti_Gerakan_Rakyat_Malaysia
+Tan_Kee_Kwong	isAffiliatedTo	Parti_Gerakan_Rakyat_Malaysia
+Parti_Gerakan_Rakyat_Malaysia	isLocatedIn	Kuala_Lumpur
+Parti_Gerakan_Rakyat_Malaysia	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+Loke_Siew_Fook	graduatedFrom	University_of_Malaya
+Loke_Siew_Fook	graduatedFrom	University_of_Malaya
+Loke_Siew_Fook	isAffiliatedTo	Pakatan_Rakyat
+Loke_Siew_Fook	isAffiliatedTo	Pakatan_Rakyat
+Pakatan_Rakyat	isLocatedIn	Kuala_Lumpur
+Pakatan_Rakyat	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+Loke_Siew_Fook	graduatedFrom	University_of_Malaya
+Loke_Siew_Fook	graduatedFrom	University_of_Malaya
+Loke_Siew_Fook	graduatedFrom	University_of_Malaya
+Loke_Siew_Fook	graduatedFrom	University_of_Malaya
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+Rayson_Huang	graduatedFrom	University_of_Malaya
+Rayson_Huang	graduatedFrom	University_of_Malaya
+Rayson_Huang	graduatedFrom	University_of_Malaya
+Rayson_Huang	graduatedFrom	University_of_Malaya
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/University_of_Malaya	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kuala_Lumpur
+University_of_Malaya	Kuala_Lumpur
+Douglas_Uggah_Embas	graduatedFrom	University_of_Malaya
+Douglas_Uggah_Embas	graduatedFrom	University_of_Malaya
+Douglas_Uggah_Embas	graduatedFrom	University_of_Malaya
+Douglas_Uggah_Embas	graduatedFrom	University_of_Malaya
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/Technological_Educational_Institute_of_Crete	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Heraklion
+Technological_Educational_Institute_of_Crete	Heraklion
+Technological_Educational_Institute_of_Crete	owns	TEI_Indoor_Sports_Hall
+Technological_Educational_Institute_of_Crete	owns	TEI_Indoor_Sports_Hall
+TEI_Indoor_Sports_Hall	isLocatedIn	Heraklion
+TEI_Indoor_Sports_Hall	isLocatedIn	Heraklion
+
+http://dbpedia.org/resource/Technological_Educational_Institute_of_Crete	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Heraklion
+Technological_Educational_Institute_of_Crete	Heraklion
+Technological_Educational_Institute_of_Crete	isLocatedIn	Crete
+Technological_Educational_Institute_of_Crete	isLocatedIn	Crete
+Heraklion_Indoor_Sports_Arena	isLocatedIn	Crete
+Heraklion_Indoor_Sports_Arena	isLocatedIn	Crete
+Heraklion_Indoor_Sports_Arena	isLocatedIn	Heraklion
+Heraklion_Indoor_Sports_Arena	isLocatedIn	Heraklion
+
+http://dbpedia.org/resource/Technological_Educational_Institute_of_Crete	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Heraklion
+Technological_Educational_Institute_of_Crete	Heraklion
+Technological_Educational_Institute_of_Crete	isLocatedIn	Crete
+Technological_Educational_Institute_of_Crete	isLocatedIn	Crete
+Siege_of_Candia	isLocatedIn	Crete
+Siege_of_Candia	happenedIn	Crete
+Siege_of_Candia	isLocatedIn	Crete
+Siege_of_Candia	happenedIn	Crete
+Siege_of_Candia	happenedIn	Heraklion
+Siege_of_Candia	isLocatedIn	Heraklion
+Siege_of_Candia	happenedIn	Heraklion
+Siege_of_Candia	isLocatedIn	Heraklion
+
+http://dbpedia.org/resource/University_of_Southern_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kolding
+University_of_Southern_Denmark	Kolding
+University_of_Southern_Denmark	isLocatedIn	Slagelse
+University_of_Southern_Denmark	isLocatedIn	Slagelse
+University_of_Southern_Denmark	isLocatedIn	Slagelse
+University_of_Southern_Denmark	isLocatedIn	Slagelse
+University_of_Southern_Denmark	isLocatedIn	Kolding
+University_of_Southern_Denmark	isLocatedIn	Kolding
+
+http://dbpedia.org/resource/University_of_Southern_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kolding
+University_of_Southern_Denmark	Kolding
+University_of_Southern_Denmark	isLocatedIn	Odense_Municipality
+University_of_Southern_Denmark	isLocatedIn	Odense_Municipality
+University_of_Southern_Denmark	isLocatedIn	Odense_Municipality
+University_of_Southern_Denmark	isLocatedIn	Odense_Municipality
+University_of_Southern_Denmark	isLocatedIn	Kolding
+University_of_Southern_Denmark	isLocatedIn	Kolding
+
+http://dbpedia.org/resource/University_of_Southern_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kolding
+University_of_Southern_Denmark	Kolding
+University_of_Southern_Denmark	isLocatedIn	Sønderborg
+University_of_Southern_Denmark	isLocatedIn	Sønderborg
+University_College_South_Denmark	isLocatedIn	Sønderborg
+University_College_South_Denmark	isLocatedIn	Sønderborg
+University_College_South_Denmark	isLocatedIn	Kolding
+University_College_South_Denmark	isLocatedIn	Kolding
+
+http://dbpedia.org/resource/University_of_Southern_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kolding
+University_of_Southern_Denmark	Kolding
+University_of_Southern_Denmark	isLocatedIn	Sønderborg
+University_of_Southern_Denmark	isLocatedIn	Sønderborg
+University_of_Southern_Denmark	isLocatedIn	Sønderborg
+University_of_Southern_Denmark	isLocatedIn	Sønderborg
+University_of_Southern_Denmark	isLocatedIn	Kolding
+University_of_Southern_Denmark	isLocatedIn	Kolding
+
+http://dbpedia.org/resource/University_of_Southern_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kolding
+University_of_Southern_Denmark	Kolding
+University_of_Southern_Denmark	isLocatedIn	Kolding
+University_of_Southern_Denmark	isLocatedIn	Kolding
+
+http://dbpedia.org/resource/University_of_Southern_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Kolding
+University_of_Southern_Denmark	Kolding
+Jacob_L._Mey	worksAt	University_of_Southern_Denmark
+Jacob_L._Mey	worksAt	University_of_Southern_Denmark
+Jacob_L._Mey	worksAt	University_of_Southern_Denmark
+Jacob_L._Mey	worksAt	University_of_Southern_Denmark
+University_of_Southern_Denmark	isLocatedIn	Kolding
+University_of_Southern_Denmark	isLocatedIn	Kolding
+
+http://dbpedia.org/resource/Northwestern_Oklahoma_State_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Alva,_Oklahoma
+Northwestern_Oklahoma_State_University	Alva,_Oklahoma
+Northwestern_Oklahoma_State_University	isLocatedIn	Alva,_Oklahoma
+Northwestern_Oklahoma_State_University	isLocatedIn	Alva,_Oklahoma
+
+http://dbpedia.org/resource/Northwestern_Oklahoma_State_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Alva,_Oklahoma
+Northwestern_Oklahoma_State_University	Alva,_Oklahoma
+A._DeWade_Langley	graduatedFrom	Northwestern_Oklahoma_State_University
+A._DeWade_Langley	graduatedFrom	Northwestern_Oklahoma_State_University
+A._DeWade_Langley	graduatedFrom	Northwestern_Oklahoma_State_University
+A._DeWade_Langley	graduatedFrom	Northwestern_Oklahoma_State_University
+Northwestern_Oklahoma_State_University	isLocatedIn	Alva,_Oklahoma
+Northwestern_Oklahoma_State_University	isLocatedIn	Alva,_Oklahoma
+
+http://dbpedia.org/resource/Northwestern_Oklahoma_State_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Alva,_Oklahoma
+Northwestern_Oklahoma_State_University	Alva,_Oklahoma
+Mike_Adenuga	graduatedFrom	Northwestern_Oklahoma_State_University
+Mike_Adenuga	graduatedFrom	Northwestern_Oklahoma_State_University
+Mike_Adenuga	graduatedFrom	Northwestern_Oklahoma_State_University
+Mike_Adenuga	graduatedFrom	Northwestern_Oklahoma_State_University
+Northwestern_Oklahoma_State_University	isLocatedIn	Alva,_Oklahoma
+Northwestern_Oklahoma_State_University	isLocatedIn	Alva,_Oklahoma
+
+http://dbpedia.org/resource/University_of_Southern_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Esbjerg
+University_of_Southern_Denmark	Esbjerg
+University_of_Southern_Denmark	isLocatedIn	Slagelse
+University_of_Southern_Denmark	isLocatedIn	Slagelse
+University_of_Southern_Denmark	isLocatedIn	Slagelse
+University_of_Southern_Denmark	isLocatedIn	Slagelse
+University_of_Southern_Denmark	isLocatedIn	Esbjerg
+University_of_Southern_Denmark	isLocatedIn	Esbjerg
+
+http://dbpedia.org/resource/University_of_Southern_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Esbjerg
+University_of_Southern_Denmark	Esbjerg
+University_of_Southern_Denmark	isLocatedIn	Esbjerg
+University_of_Southern_Denmark	isLocatedIn	Esbjerg
+
+http://dbpedia.org/resource/University_of_Southern_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Esbjerg
+University_of_Southern_Denmark	Esbjerg
+University_of_Southern_Denmark	isLocatedIn	Odense_Municipality
+University_of_Southern_Denmark	isLocatedIn	Odense_Municipality
+University_of_Southern_Denmark	isLocatedIn	Odense_Municipality
+University_of_Southern_Denmark	isLocatedIn	Odense_Municipality
+University_of_Southern_Denmark	isLocatedIn	Esbjerg
+University_of_Southern_Denmark	isLocatedIn	Esbjerg
+
+http://dbpedia.org/resource/University_of_Southern_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Esbjerg
+University_of_Southern_Denmark	Esbjerg
+University_of_Southern_Denmark	isLocatedIn	Sønderborg
+University_of_Southern_Denmark	isLocatedIn	Sønderborg
+University_College_South_Denmark	isLocatedIn	Sønderborg
+University_College_South_Denmark	isLocatedIn	Sønderborg
+University_College_South_Denmark	isLocatedIn	Esbjerg
+University_College_South_Denmark	isLocatedIn	Esbjerg
+
+http://dbpedia.org/resource/University_of_Southern_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Esbjerg
+University_of_Southern_Denmark	Esbjerg
+University_of_Southern_Denmark	isLocatedIn	Sønderborg
+University_of_Southern_Denmark	isLocatedIn	Sønderborg
+University_of_Southern_Denmark	isLocatedIn	Sønderborg
+University_of_Southern_Denmark	isLocatedIn	Sønderborg
+University_of_Southern_Denmark	isLocatedIn	Esbjerg
+University_of_Southern_Denmark	isLocatedIn	Esbjerg
+
+http://dbpedia.org/resource/University_of_Southern_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Esbjerg
+University_of_Southern_Denmark	Esbjerg
+University_of_Southern_Denmark	isLocatedIn	Kolding
+University_of_Southern_Denmark	isLocatedIn	Kolding
+University_College_South_Denmark	isLocatedIn	Kolding
+University_College_South_Denmark	isLocatedIn	Kolding
+University_College_South_Denmark	isLocatedIn	Esbjerg
+University_College_South_Denmark	isLocatedIn	Esbjerg
+
+http://dbpedia.org/resource/University_of_Southern_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Esbjerg
+University_of_Southern_Denmark	Esbjerg
+University_of_Southern_Denmark	isLocatedIn	Kolding
+University_of_Southern_Denmark	isLocatedIn	Kolding
+University_of_Southern_Denmark	isLocatedIn	Kolding
+University_of_Southern_Denmark	isLocatedIn	Kolding
+University_of_Southern_Denmark	isLocatedIn	Esbjerg
+University_of_Southern_Denmark	isLocatedIn	Esbjerg
+
+http://dbpedia.org/resource/University_of_Southern_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Esbjerg
+University_of_Southern_Denmark	Esbjerg
+Jacob_L._Mey	worksAt	University_of_Southern_Denmark
+Jacob_L._Mey	worksAt	University_of_Southern_Denmark
+Jacob_L._Mey	worksAt	University_of_Southern_Denmark
+Jacob_L._Mey	worksAt	University_of_Southern_Denmark
+University_of_Southern_Denmark	isLocatedIn	Esbjerg
+University_of_Southern_Denmark	isLocatedIn	Esbjerg
+
+http://dbpedia.org/resource/University_College_Lillebaelt	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Jelling
+University_College_Lillebaelt	Jelling
+University_College_Lillebaelt	isLocatedIn	Jelling
+University_College_Lillebaelt	isLocatedIn	Jelling
+
+http://dbpedia.org/resource/University_College_Lillebaelt	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Jelling
+University_College_Lillebaelt	Jelling
+University_College_Lillebaelt	isLocatedIn	Svendborg
+University_College_Lillebaelt	isLocatedIn	Svendborg
+University_College_Lillebaelt	isLocatedIn	Svendborg
+University_College_Lillebaelt	isLocatedIn	Svendborg
+University_College_Lillebaelt	isLocatedIn	Jelling
+University_College_Lillebaelt	isLocatedIn	Jelling
+
+http://dbpedia.org/resource/University_College_Lillebaelt	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Jelling
+University_College_Lillebaelt	Jelling
+University_College_Lillebaelt	isLocatedIn	Odense
+University_College_Lillebaelt	isLocatedIn	Odense
+University_College_Lillebaelt	isLocatedIn	Odense
+University_College_Lillebaelt	isLocatedIn	Odense
+University_College_Lillebaelt	isLocatedIn	Jelling
+University_College_Lillebaelt	isLocatedIn	Jelling
+
+http://dbpedia.org/resource/University_of_Novi_Sad	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/University_of_Novi_Sad
+University_of_Novi_Sad	University_of_Novi_Sad
+Dragan_Crnogorac_(politician)	graduatedFrom	University_of_Novi_Sad
+Dragan_Crnogorac_(politician)	graduatedFrom	University_of_Novi_Sad
+Dragan_Crnogorac_(politician)	graduatedFrom	University_of_Novi_Sad
+Dragan_Crnogorac_(politician)	graduatedFrom	University_of_Novi_Sad
+
+http://dbpedia.org/resource/University_of_Novi_Sad	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/University_of_Novi_Sad
+University_of_Novi_Sad	University_of_Novi_Sad
+Ratko_Butorović	graduatedFrom	University_of_Novi_Sad
+Ratko_Butorović	graduatedFrom	University_of_Novi_Sad
+Ratko_Butorović	graduatedFrom	University_of_Novi_Sad
+Ratko_Butorović	graduatedFrom	University_of_Novi_Sad
+
+http://dbpedia.org/resource/University_of_Novi_Sad	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/University_of_Novi_Sad
+University_of_Novi_Sad	University_of_Novi_Sad
+Ratko_Butorović	graduatedFrom	University_of_Novi_Sad
+Ratko_Butorović	graduatedFrom	University_of_Novi_Sad
+Ratko_Butorović	diedIn	Novi_Sad
+Ratko_Butorović	diedIn	Novi_Sad
+University_of_Novi_Sad	isLocatedIn	Novi_Sad
+University_of_Novi_Sad	isLocatedIn	Novi_Sad
+
+http://dbpedia.org/resource/University_of_Novi_Sad	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/University_of_Novi_Sad
+University_of_Novi_Sad	University_of_Novi_Sad
+University_of_Novi_Sad	isLocatedIn	Novi_Sad
+University_of_Novi_Sad	isLocatedIn	Novi_Sad
+University_of_Novi_Sad	isLocatedIn	Novi_Sad
+University_of_Novi_Sad	isLocatedIn	Novi_Sad
+
+http://dbpedia.org/resource/University_of_Novi_Sad	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/University_of_Novi_Sad
+University_of_Novi_Sad	University_of_Novi_Sad
+University_of_Novi_Sad	isLocatedIn	Novi_Sad
+University_of_Novi_Sad	isLocatedIn	Novi_Sad
+Ratko_Butorović	diedIn	Novi_Sad
+Ratko_Butorović	diedIn	Novi_Sad
+Ratko_Butorović	graduatedFrom	University_of_Novi_Sad
+Ratko_Butorović	graduatedFrom	University_of_Novi_Sad
+
+http://dbpedia.org/resource/University_College_Lillebaelt	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Svendborg
+University_College_Lillebaelt	Svendborg
+University_College_Lillebaelt	isLocatedIn	Jelling
+University_College_Lillebaelt	isLocatedIn	Jelling
+University_College_Lillebaelt	isLocatedIn	Jelling
+University_College_Lillebaelt	isLocatedIn	Jelling
+University_College_Lillebaelt	isLocatedIn	Svendborg
+University_College_Lillebaelt	isLocatedIn	Svendborg
+
+http://dbpedia.org/resource/University_College_Lillebaelt	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Svendborg
+University_College_Lillebaelt	Svendborg
+University_College_Lillebaelt	isLocatedIn	Svendborg
+University_College_Lillebaelt	isLocatedIn	Svendborg
+
+http://dbpedia.org/resource/University_College_Lillebaelt	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Svendborg
+University_College_Lillebaelt	Svendborg
+University_College_Lillebaelt	isLocatedIn	Odense
+University_College_Lillebaelt	isLocatedIn	Odense
+Odense	isLocatedIn	Funen
+Odense	isLocatedIn	Funen
+Svendborg	isLocatedIn	Funen
+Svendborg	isLocatedIn	Funen
+
+http://dbpedia.org/resource/University_College_Lillebaelt	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Svendborg
+University_College_Lillebaelt	Svendborg
+University_College_Lillebaelt	isLocatedIn	Odense
+University_College_Lillebaelt	isLocatedIn	Odense
+University_College_Lillebaelt	isLocatedIn	Odense
+University_College_Lillebaelt	isLocatedIn	Odense
+University_College_Lillebaelt	isLocatedIn	Svendborg
+University_College_Lillebaelt	isLocatedIn	Svendborg
+
+http://dbpedia.org/resource/University_College_South_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Esbjerg
+University_College_South_Denmark	Esbjerg
+University_College_South_Denmark	isLocatedIn	Sønderborg
+University_College_South_Denmark	isLocatedIn	Sønderborg
+University_College_South_Denmark	isLocatedIn	Sønderborg
+University_College_South_Denmark	isLocatedIn	Sønderborg
+University_College_South_Denmark	isLocatedIn	Esbjerg
+University_College_South_Denmark	isLocatedIn	Esbjerg
+
+http://dbpedia.org/resource/University_College_South_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Esbjerg
+University_College_South_Denmark	Esbjerg
+University_College_South_Denmark	isLocatedIn	Sønderborg
+University_College_South_Denmark	isLocatedIn	Sønderborg
+University_of_Southern_Denmark	isLocatedIn	Sønderborg
+University_of_Southern_Denmark	isLocatedIn	Sønderborg
+University_of_Southern_Denmark	isLocatedIn	Esbjerg
+University_of_Southern_Denmark	isLocatedIn	Esbjerg
+
+http://dbpedia.org/resource/University_College_South_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Esbjerg
+University_College_South_Denmark	Esbjerg
+University_College_South_Denmark	isLocatedIn	Esbjerg
+University_College_South_Denmark	isLocatedIn	Esbjerg
+
+http://dbpedia.org/resource/University_College_South_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Esbjerg
+University_College_South_Denmark	Esbjerg
+University_College_South_Denmark	isLocatedIn	Kolding
+University_College_South_Denmark	isLocatedIn	Kolding
+University_College_South_Denmark	isLocatedIn	Kolding
+University_College_South_Denmark	isLocatedIn	Kolding
+University_College_South_Denmark	isLocatedIn	Esbjerg
+University_College_South_Denmark	isLocatedIn	Esbjerg
+
+http://dbpedia.org/resource/University_College_South_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Esbjerg
+University_College_South_Denmark	Esbjerg
+University_College_South_Denmark	isLocatedIn	Kolding
+University_College_South_Denmark	isLocatedIn	Kolding
+University_of_Southern_Denmark	isLocatedIn	Kolding
+University_of_Southern_Denmark	isLocatedIn	Kolding
+University_of_Southern_Denmark	isLocatedIn	Esbjerg
+University_of_Southern_Denmark	isLocatedIn	Esbjerg
+
+http://dbpedia.org/resource/University_College_South_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Esbjerg
+University_College_South_Denmark	Esbjerg
+University_College_South_Denmark	isLocatedIn	Aabenraa
+University_College_South_Denmark	isLocatedIn	Aabenraa
+University_College_South_Denmark	isLocatedIn	Aabenraa
+University_College_South_Denmark	isLocatedIn	Aabenraa
+University_College_South_Denmark	isLocatedIn	Esbjerg
+University_College_South_Denmark	isLocatedIn	Esbjerg
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chen_Chien-jen	graduatedFrom	National_Taiwan_University
+Chen_Chien-jen	graduatedFrom	National_Taiwan_University
+Chen_Chien-jen	isLeaderOf	Taiwan
+Chen_Chien-jen	isCitizenOf	Taiwan
+Chen_Chien-jen	isLeaderOf	Taiwan
+Chen_Chien-jen	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Liao_Cheng-hao	graduatedFrom	National_Taiwan_University
+Liao_Cheng-hao	graduatedFrom	National_Taiwan_University
+Liao_Cheng-hao	isCitizenOf	Taiwan
+Liao_Cheng-hao	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+K._C._Hsiao	worksAt	National_Taiwan_University
+K._C._Hsiao	worksAt	National_Taiwan_University
+K._C._Hsiao	isCitizenOf	Taiwan
+K._C._Hsiao	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Shih_Su-mei	graduatedFrom	National_Taiwan_University
+Shih_Su-mei	graduatedFrom	National_Taiwan_University
+Shih_Su-mei	isCitizenOf	Taiwan
+Shih_Su-mei	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Schive_Chi	graduatedFrom	National_Taiwan_University
+Schive_Chi	graduatedFrom	National_Taiwan_University
+Schive_Chi	isCitizenOf	Taiwan
+Schive_Chi	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Tsai_Ing-wen	graduatedFrom	National_Taiwan_University
+Tsai_Ing-wen	graduatedFrom	National_Taiwan_University
+Tsai_Ing-wen	isLeaderOf	Taiwan
+Tsai_Ing-wen	isCitizenOf	Taiwan
+Tsai_Ing-wen	isLeaderOf	Taiwan
+Tsai_Ing-wen	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Hsu_Ching-chung	graduatedFrom	National_Taiwan_University
+Hsu_Ching-chung	graduatedFrom	National_Taiwan_University
+Hsu_Ching-chung	isCitizenOf	Taiwan
+Hsu_Ching-chung	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Huang_Pi-twan	graduatedFrom	National_Taiwan_University
+Huang_Pi-twan	graduatedFrom	National_Taiwan_University
+Huang_Pi-twan	isCitizenOf	Taiwan
+Huang_Pi-twan	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Hsueh_Hsiang-chuan	graduatedFrom	National_Taiwan_University
+Hsueh_Hsiang-chuan	graduatedFrom	National_Taiwan_University
+Hsueh_Hsiang-chuan	isCitizenOf	Taiwan
+Hsueh_Hsiang-chuan	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chang_Yi_Wang	worksAt	National_Taiwan_University
+Chang_Yi_Wang	worksAt	National_Taiwan_University
+Chang_Yi_Wang	isCitizenOf	Taiwan
+Chang_Yi_Wang	livesIn	Taiwan
+Chang_Yi_Wang	isCitizenOf	Taiwan
+Chang_Yi_Wang	livesIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chi-Huey_Wong	graduatedFrom	National_Taiwan_University
+Chi-Huey_Wong	graduatedFrom	National_Taiwan_University
+Chi-Huey_Wong	isCitizenOf	Taiwan
+Chi-Huey_Wong	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Paul_Chiu	graduatedFrom	National_Taiwan_University
+Paul_Chiu	graduatedFrom	National_Taiwan_University
+Paul_Chiu	isCitizenOf	Taiwan
+Paul_Chiu	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chiu_Tai-san	graduatedFrom	National_Taiwan_University
+Chiu_Tai-san	graduatedFrom	National_Taiwan_University
+Chiu_Tai-san	isCitizenOf	Taiwan
+Chiu_Tai-san	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chang_Po-ya	graduatedFrom	National_Taiwan_University
+Chang_Po-ya	graduatedFrom	National_Taiwan_University
+Chang_Po-ya	isCitizenOf	Taiwan
+Chang_Po-ya	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Sun_Te-hsiung	graduatedFrom	National_Taiwan_University
+Sun_Te-hsiung	graduatedFrom	National_Taiwan_University
+Sun_Te-hsiung	isCitizenOf	Taiwan
+Sun_Te-hsiung	wasBornIn	Taiwan
+Sun_Te-hsiung	isCitizenOf	Taiwan
+Sun_Te-hsiung	wasBornIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chern_Jenn-chuan	graduatedFrom	National_Taiwan_University
+Chern_Jenn-chuan	graduatedFrom	National_Taiwan_University
+Chern_Jenn-chuan	isCitizenOf	Taiwan
+Chern_Jenn-chuan	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Koo_Chen-fu	graduatedFrom	National_Taiwan_University
+Koo_Chen-fu	graduatedFrom	National_Taiwan_University
+Koo_Chen-fu	isCitizenOf	Taiwan
+Koo_Chen-fu	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chiou_I-jen	graduatedFrom	National_Taiwan_University
+Chiou_I-jen	graduatedFrom	National_Taiwan_University
+Chiou_I-jen	isCitizenOf	Taiwan
+Chiou_I-jen	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Fushih_Pan	graduatedFrom	National_Taiwan_University
+Fushih_Pan	graduatedFrom	National_Taiwan_University
+Fushih_Pan	isCitizenOf	Taiwan
+Fushih_Pan	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chai_Trong-rong	graduatedFrom	National_Taiwan_University
+Chai_Trong-rong	graduatedFrom	National_Taiwan_University
+Chai_Trong-rong	isCitizenOf	Taiwan
+Chai_Trong-rong	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Apollo_Chen	graduatedFrom	National_Taiwan_University
+Apollo_Chen	graduatedFrom	National_Taiwan_University
+Apollo_Chen	isCitizenOf	Taiwan
+Apollo_Chen	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Annette_Lu	graduatedFrom	National_Taiwan_University
+Annette_Lu	graduatedFrom	National_Taiwan_University
+Annette_Lu	isCitizenOf	Taiwan
+Annette_Lu	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Fan_Chiang_Tai-chi	graduatedFrom	National_Taiwan_University
+Fan_Chiang_Tai-chi	graduatedFrom	National_Taiwan_University
+Fan_Chiang_Tai-chi	wasBornIn	Taiwan
+Fan_Chiang_Tai-chi	isCitizenOf	Taiwan
+Fan_Chiang_Tai-chi	wasBornIn	Taiwan
+Fan_Chiang_Tai-chi	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Perng_Shaw-jiin	graduatedFrom	National_Taiwan_University
+Perng_Shaw-jiin	graduatedFrom	National_Taiwan_University
+Perng_Shaw-jiin	isCitizenOf	Taiwan
+Perng_Shaw-jiin	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Christina_Liu	graduatedFrom	National_Taiwan_University
+Christina_Liu	graduatedFrom	National_Taiwan_University
+Christina_Liu	isCitizenOf	Taiwan
+Christina_Liu	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chen-Yuan_Lee	graduatedFrom	National_Taiwan_University
+Chen-Yuan_Lee	graduatedFrom	National_Taiwan_University
+Chen-Yuan_Lee	isCitizenOf	Taiwan
+Chen-Yuan_Lee	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+William_Lai	graduatedFrom	National_Taiwan_University
+William_Lai	graduatedFrom	National_Taiwan_University
+William_Lai	isCitizenOf	Taiwan
+William_Lai	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chih-yu_Shih	graduatedFrom	National_Taiwan_University
+Chih-yu_Shih	graduatedFrom	National_Taiwan_University
+Chih-yu_Shih	isCitizenOf	Taiwan
+Chih-yu_Shih	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Shih_Yen-shiang	graduatedFrom	National_Taiwan_University
+Shih_Yen-shiang	graduatedFrom	National_Taiwan_University
+Shih_Yen-shiang	isCitizenOf	Taiwan
+Shih_Yen-shiang	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Lois_Mai_Chan	graduatedFrom	National_Taiwan_University
+Lois_Mai_Chan	graduatedFrom	National_Taiwan_University
+Lois_Mai_Chan	wasBornIn	Taiwan
+Lois_Mai_Chan	isCitizenOf	Taiwan
+Lois_Mai_Chan	wasBornIn	Taiwan
+Lois_Mai_Chan	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Wei_Kuo-yen	graduatedFrom	National_Taiwan_University
+Wei_Kuo-yen	graduatedFrom	National_Taiwan_University
+Wei_Kuo-yen	wasBornIn	Taiwan
+Wei_Kuo-yen	isCitizenOf	Taiwan
+Wei_Kuo-yen	wasBornIn	Taiwan
+Wei_Kuo-yen	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Sean_Chen_(politician)	graduatedFrom	National_Taiwan_University
+Sean_Chen_(politician)	graduatedFrom	National_Taiwan_University
+Sean_Chen_(politician)	isCitizenOf	Taiwan
+Sean_Chen_(politician)	wasBornIn	Taiwan
+Sean_Chen_(politician)	isCitizenOf	Taiwan
+Sean_Chen_(politician)	wasBornIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Cheng_Wen-tsan	graduatedFrom	National_Taiwan_University
+Cheng_Wen-tsan	graduatedFrom	National_Taiwan_University
+Cheng_Wen-tsan	isCitizenOf	Taiwan
+Cheng_Wen-tsan	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chen_Yuh-chang	graduatedFrom	National_Taiwan_University
+Chen_Yuh-chang	graduatedFrom	National_Taiwan_University
+Chen_Yuh-chang	wasBornIn	Taiwan
+Chen_Yuh-chang	isCitizenOf	Taiwan
+Chen_Yuh-chang	wasBornIn	Taiwan
+Chen_Yuh-chang	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chang_San-cheng	graduatedFrom	National_Taiwan_University
+Chang_San-cheng	graduatedFrom	National_Taiwan_University
+Chang_San-cheng	wasBornIn	Taiwan
+Chang_San-cheng	isCitizenOf	Taiwan
+Chang_San-cheng	wasBornIn	Taiwan
+Chang_San-cheng	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Lee_Ying-yuan	graduatedFrom	National_Taiwan_University
+Lee_Ying-yuan	graduatedFrom	National_Taiwan_University
+Lee_Ying-yuan	isCitizenOf	Taiwan
+Lee_Ying-yuan	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Hau_Lung-pin	graduatedFrom	National_Taiwan_University
+Hau_Lung-pin	graduatedFrom	National_Taiwan_University
+Hau_Lung-pin	isCitizenOf	Taiwan
+Hau_Lung-pin	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Frank_Hsieh	graduatedFrom	National_Taiwan_University
+Frank_Hsieh	graduatedFrom	National_Taiwan_University
+Frank_Hsieh	isCitizenOf	Taiwan
+Frank_Hsieh	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Wu_Ying-yih	graduatedFrom	National_Taiwan_University
+Wu_Ying-yih	graduatedFrom	National_Taiwan_University
+Wu_Ying-yih	isCitizenOf	Taiwan
+Wu_Ying-yih	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chen_Chi-mai	graduatedFrom	National_Taiwan_University
+Chen_Chi-mai	graduatedFrom	National_Taiwan_University
+Chen_Chi-mai	isCitizenOf	Taiwan
+Chen_Chi-mai	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Luo_Wen-jia	graduatedFrom	National_Taiwan_University
+Luo_Wen-jia	graduatedFrom	National_Taiwan_University
+Luo_Wen-jia	isCitizenOf	Taiwan
+Luo_Wen-jia	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+John_Wu_(politician)	graduatedFrom	National_Taiwan_University
+John_Wu_(politician)	graduatedFrom	National_Taiwan_University
+John_Wu_(politician)	isCitizenOf	Taiwan
+John_Wu_(politician)	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Shih_Chi-yang	graduatedFrom	National_Taiwan_University
+Shih_Chi-yang	graduatedFrom	National_Taiwan_University
+Shih_Chi-yang	isCitizenOf	Taiwan
+Shih_Chi-yang	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+David_Lee_(politician)	graduatedFrom	National_Taiwan_University
+David_Lee_(politician)	graduatedFrom	National_Taiwan_University
+David_Lee_(politician)	isPoliticianOf	Taiwan
+David_Lee_(politician)	isCitizenOf	Taiwan
+David_Lee_(politician)	isPoliticianOf	Taiwan
+David_Lee_(politician)	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+James_C._F._Huang	graduatedFrom	National_Taiwan_University
+James_C._F._Huang	graduatedFrom	National_Taiwan_University
+James_C._F._Huang	isCitizenOf	Taiwan
+James_C._F._Huang	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Lin_Yi-hsiung	graduatedFrom	National_Taiwan_University
+Lin_Yi-hsiung	graduatedFrom	National_Taiwan_University
+Lin_Yi-hsiung	isCitizenOf	Taiwan
+Lin_Yi-hsiung	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Mark_Chen	graduatedFrom	National_Taiwan_University
+Mark_Chen	graduatedFrom	National_Taiwan_University
+Mark_Chen	isCitizenOf	Taiwan
+Mark_Chen	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chang_Chau-hsiung	graduatedFrom	National_Taiwan_University
+Chang_Chau-hsiung	graduatedFrom	National_Taiwan_University
+Chang_Chau-hsiung	isCitizenOf	Taiwan
+Chang_Chau-hsiung	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Ao_Man_Long	graduatedFrom	National_Taiwan_University
+Ao_Man_Long	graduatedFrom	National_Taiwan_University
+Ao_Man_Long	isCitizenOf	Taiwan
+Ao_Man_Long	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Lee_Shying-jow	graduatedFrom	National_Taiwan_University
+Lee_Shying-jow	graduatedFrom	National_Taiwan_University
+Lee_Shying-jow	isCitizenOf	Taiwan
+Lee_Shying-jow	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Cho_Po-yuan	graduatedFrom	National_Taiwan_University
+Cho_Po-yuan	graduatedFrom	National_Taiwan_University
+Cho_Po-yuan	isCitizenOf	Taiwan
+Cho_Po-yuan	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Eugene_Chien	graduatedFrom	National_Taiwan_University
+Eugene_Chien	graduatedFrom	National_Taiwan_University
+Eugene_Chien	isCitizenOf	Taiwan
+Eugene_Chien	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+National_Taiwan_University	isLocatedIn	Taiwan
+National_Taiwan_University	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+National_Taiwan_University	isLocatedIn	Taiwan
+National_Taiwan_University	isLocatedIn	Taiwan
+Lin_Ming-chen	isCitizenOf	Taiwan
+Lin_Ming-chen	isCitizenOf	Taiwan
+Lin_Ming-chen	wasBornIn	Nantou_County
+Lin_Ming-chen	isLeaderOf	Nantou_County
+Lin_Ming-chen	wasBornIn	Nantou_County
+Lin_Ming-chen	isLeaderOf	Nantou_County
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Tu_Cheng-sheng	graduatedFrom	National_Taiwan_University
+Tu_Cheng-sheng	graduatedFrom	National_Taiwan_University
+Tu_Cheng-sheng	isCitizenOf	Taiwan
+Tu_Cheng-sheng	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chiang_Peng-chien	graduatedFrom	National_Taiwan_University
+Chiang_Peng-chien	graduatedFrom	National_Taiwan_University
+Chiang_Peng-chien	isCitizenOf	Taiwan
+Chiang_Peng-chien	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Su_Tseng-chang	graduatedFrom	National_Taiwan_University
+Su_Tseng-chang	graduatedFrom	National_Taiwan_University
+Su_Tseng-chang	isCitizenOf	Taiwan
+Su_Tseng-chang	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Wang_Shu-hui	graduatedFrom	National_Taiwan_University
+Wang_Shu-hui	graduatedFrom	National_Taiwan_University
+Wang_Shu-hui	isCitizenOf	Taiwan
+Wang_Shu-hui	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chen_Shyh-kwei	graduatedFrom	National_Taiwan_University
+Chen_Shyh-kwei	graduatedFrom	National_Taiwan_University
+Chen_Shyh-kwei	isCitizenOf	Taiwan
+Chen_Shyh-kwei	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Yin_T._Hsieh	graduatedFrom	National_Taiwan_University
+Yin_T._Hsieh	graduatedFrom	National_Taiwan_University
+Yin_T._Hsieh	isCitizenOf	Taiwan
+Yin_T._Hsieh	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Shih_Shou-chien	graduatedFrom	National_Taiwan_University
+Shih_Shou-chien	graduatedFrom	National_Taiwan_University
+Shih_Shou-chien	isCitizenOf	Taiwan
+Shih_Shou-chien	wasBornIn	Taiwan
+Shih_Shou-chien	isCitizenOf	Taiwan
+Shih_Shou-chien	wasBornIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Tu_Tsung-ming	graduatedFrom	National_Taiwan_University
+Tu_Tsung-ming	graduatedFrom	National_Taiwan_University
+Tu_Tsung-ming	isCitizenOf	Taiwan
+Tu_Tsung-ming	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Peng_Ming-min	graduatedFrom	National_Taiwan_University
+Peng_Ming-min	graduatedFrom	National_Taiwan_University
+Peng_Ming-min	isCitizenOf	Taiwan
+Peng_Ming-min	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Wu_Rong-i	graduatedFrom	National_Taiwan_University
+Wu_Rong-i	graduatedFrom	National_Taiwan_University
+Wu_Rong-i	isCitizenOf	Taiwan
+Wu_Rong-i	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Huang_Kuo-chang	graduatedFrom	National_Taiwan_University
+Huang_Kuo-chang	graduatedFrom	National_Taiwan_University
+Huang_Kuo-chang	isCitizenOf	Taiwan
+Huang_Kuo-chang	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Peter_Chen	graduatedFrom	National_Taiwan_University
+Peter_Chen	graduatedFrom	National_Taiwan_University
+Peter_Chen	isCitizenOf	Taiwan
+Peter_Chen	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+John_Kuan	graduatedFrom	National_Taiwan_University
+John_Kuan	graduatedFrom	National_Taiwan_University
+John_Kuan	isCitizenOf	Taiwan
+John_Kuan	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Su_Yeong-chin	graduatedFrom	National_Taiwan_University
+Su_Yeong-chin	graduatedFrom	National_Taiwan_University
+Su_Yeong-chin	isCitizenOf	Taiwan
+Su_Yeong-chin	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Ambrose_King	graduatedFrom	National_Taiwan_University
+Ambrose_King	graduatedFrom	National_Taiwan_University
+Ambrose_King	isCitizenOf	Taiwan
+Ambrose_King	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chen_Shimeng	graduatedFrom	National_Taiwan_University
+Chen_Shimeng	graduatedFrom	National_Taiwan_University
+Chen_Shimeng	isCitizenOf	Taiwan
+Chen_Shimeng	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Su_Chiao-hui	graduatedFrom	National_Taiwan_University
+Su_Chiao-hui	graduatedFrom	National_Taiwan_University
+Su_Chiao-hui	isCitizenOf	Taiwan
+Su_Chiao-hui	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Der-Tsai_Lee	graduatedFrom	National_Taiwan_University
+Der-Tsai_Lee	graduatedFrom	National_Taiwan_University
+Der-Tsai_Lee	livesIn	Taiwan
+Der-Tsai_Lee	isCitizenOf	Taiwan
+Der-Tsai_Lee	wasBornIn	Taiwan
+Der-Tsai_Lee	livesIn	Taiwan
+Der-Tsai_Lee	isCitizenOf	Taiwan
+Der-Tsai_Lee	wasBornIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Huang_Ta-chou	graduatedFrom	National_Taiwan_University
+Huang_Ta-chou	graduatedFrom	National_Taiwan_University
+Huang_Ta-chou	isCitizenOf	Taiwan
+Huang_Ta-chou	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Yang_Chih-liang	graduatedFrom	National_Taiwan_University
+Yang_Chih-liang	graduatedFrom	National_Taiwan_University
+Yang_Chih-liang	isCitizenOf	Taiwan
+Yang_Chih-liang	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+National_Taiwan_University	isLocatedIn	Taipei
+National_Taiwan_University	isLocatedIn	Taipei
+Taipei	isLocatedIn	Taiwan
+Taiwan	hasCapital	Taipei
+Taipei	isLocatedIn	Taiwan
+Taiwan	hasCapital	Taipei
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chen_Changwen	graduatedFrom	National_Taiwan_University
+Chen_Changwen	graduatedFrom	National_Taiwan_University
+Chen_Changwen	isCitizenOf	Taiwan
+Chen_Changwen	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Benjamin_Hsiao	graduatedFrom	National_Taiwan_University
+Benjamin_Hsiao	graduatedFrom	National_Taiwan_University
+Benjamin_Hsiao	isCitizenOf	Taiwan
+Benjamin_Hsiao	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Luo_Ying-shay	graduatedFrom	National_Taiwan_University
+Luo_Ying-shay	graduatedFrom	National_Taiwan_University
+Luo_Ying-shay	wasBornIn	Taiwan
+Luo_Ying-shay	isCitizenOf	Taiwan
+Luo_Ying-shay	wasBornIn	Taiwan
+Luo_Ying-shay	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Qiu_Miaojin	graduatedFrom	National_Taiwan_University
+Qiu_Miaojin	graduatedFrom	National_Taiwan_University
+Qiu_Miaojin	isCitizenOf	Taiwan
+Qiu_Miaojin	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Lin_Ruey-shiung	graduatedFrom	National_Taiwan_University
+Lin_Ruey-shiung	graduatedFrom	National_Taiwan_University
+Lin_Ruey-shiung	isCitizenOf	Taiwan
+Lin_Ruey-shiung	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Pai_Hsien-yung	graduatedFrom	National_Taiwan_University
+Pai_Hsien-yung	graduatedFrom	National_Taiwan_University
+Pai_Hsien-yung	isCitizenOf	Taiwan
+Pai_Hsien-yung	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Shiu_Ming-neng	graduatedFrom	National_Taiwan_University
+Shiu_Ming-neng	graduatedFrom	National_Taiwan_University
+Shiu_Ming-neng	isCitizenOf	Taiwan
+Shiu_Ming-neng	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Masashi_Ishibashi	graduatedFrom	National_Taiwan_University
+Masashi_Ishibashi	graduatedFrom	National_Taiwan_University
+Masashi_Ishibashi	isCitizenOf	Taiwan
+Masashi_Ishibashi	wasBornIn	Taiwan
+Masashi_Ishibashi	isCitizenOf	Taiwan
+Masashi_Ishibashi	wasBornIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Ko_Wen-je	graduatedFrom	National_Taiwan_University
+Ko_Wen-je	graduatedFrom	National_Taiwan_University
+Ko_Wen-je	isCitizenOf	Taiwan
+Ko_Wen-je	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Lee_Chin-yung	graduatedFrom	National_Taiwan_University
+Lee_Chin-yung	graduatedFrom	National_Taiwan_University
+Lee_Chin-yung	isCitizenOf	Taiwan
+Lee_Chin-yung	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Jay_N._Shih	graduatedFrom	National_Taiwan_University
+Jay_N._Shih	graduatedFrom	National_Taiwan_University
+Jay_N._Shih	isCitizenOf	Taiwan
+Jay_N._Shih	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Eric_Chu	graduatedFrom	National_Taiwan_University
+Eric_Chu	graduatedFrom	National_Taiwan_University
+Eric_Chu	isCitizenOf	Taiwan
+Eric_Chu	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Shin-Tson_Wu	graduatedFrom	National_Taiwan_University
+Shin-Tson_Wu	graduatedFrom	National_Taiwan_University
+Shin-Tson_Wu	isCitizenOf	Taiwan
+Shin-Tson_Wu	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Shin-Tson_Wu	graduatedFrom	National_Taiwan_University
+Shin-Tson_Wu	graduatedFrom	National_Taiwan_University
+Shin-Tson_Wu	wasBornIn	Nantou_City
+Shin-Tson_Wu	wasBornIn	Nantou_City
+Nantou_City	isLocatedIn	Nantou_County
+Nantou_County	isLocatedIn	Nantou_City
+Nantou_City	isLocatedIn	Nantou_County
+Nantou_County	isLocatedIn	Nantou_City
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chang_King-yuh	graduatedFrom	National_Taiwan_University
+Chang_King-yuh	graduatedFrom	National_Taiwan_University
+Chang_King-yuh	isCitizenOf	Taiwan
+Chang_King-yuh	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Yuan_T._Lee	graduatedFrom	National_Taiwan_University
+Yuan_T._Lee	graduatedFrom	National_Taiwan_University
+Yuan_T._Lee	livesIn	Taiwan
+Yuan_T._Lee	isCitizenOf	Taiwan
+Yuan_T._Lee	livesIn	Taiwan
+Yuan_T._Lee	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Twu_Shiing-jer	graduatedFrom	National_Taiwan_University
+Twu_Shiing-jer	graduatedFrom	National_Taiwan_University
+Twu_Shiing-jer	isCitizenOf	Taiwan
+Twu_Shiing-jer	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Lin_Yang-kang	graduatedFrom	National_Taiwan_University
+Lin_Yang-kang	graduatedFrom	National_Taiwan_University
+Lin_Yang-kang	isCitizenOf	Taiwan
+Lin_Yang-kang	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chen_Chwen-jing	graduatedFrom	National_Taiwan_University
+Chen_Chwen-jing	graduatedFrom	National_Taiwan_University
+Chen_Chwen-jing	isCitizenOf	Taiwan
+Chen_Chwen-jing	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+George_Chang	graduatedFrom	National_Taiwan_University
+George_Chang	graduatedFrom	National_Taiwan_University
+George_Chang	isCitizenOf	Taiwan
+George_Chang	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Elmer_Fung	graduatedFrom	National_Taiwan_University
+Elmer_Fung	graduatedFrom	National_Taiwan_University
+Elmer_Fung	isCitizenOf	Taiwan
+Elmer_Fung	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Lai_In-jaw	graduatedFrom	National_Taiwan_University
+Lai_In-jaw	graduatedFrom	National_Taiwan_University
+Lai_In-jaw	isCitizenOf	Taiwan
+Lai_In-jaw	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chang-Lin_Tien	graduatedFrom	National_Taiwan_University
+Chang-Lin_Tien	graduatedFrom	National_Taiwan_University
+Chang-Lin_Tien	isCitizenOf	Taiwan
+Chang-Lin_Tien	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chang_Sheng-ford	graduatedFrom	National_Taiwan_University
+Chang_Sheng-ford	graduatedFrom	National_Taiwan_University
+Chang_Sheng-ford	isCitizenOf	Taiwan
+Chang_Sheng-ford	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chuang_Kuo-jung	graduatedFrom	National_Taiwan_University
+Chuang_Kuo-jung	graduatedFrom	National_Taiwan_University
+Chuang_Kuo-jung	isCitizenOf	Taiwan
+Chuang_Kuo-jung	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chen_Yu-mei	graduatedFrom	National_Taiwan_University
+Chen_Yu-mei	graduatedFrom	National_Taiwan_University
+Chen_Yu-mei	isCitizenOf	Taiwan
+Chen_Yu-mei	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Wu_Den-yih	graduatedFrom	National_Taiwan_University
+Wu_Den-yih	graduatedFrom	National_Taiwan_University
+Wu_Den-yih	isCitizenOf	Taiwan
+Wu_Den-yih	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Yeh_Kuang-shih	graduatedFrom	National_Taiwan_University
+Yeh_Kuang-shih	graduatedFrom	National_Taiwan_University
+Yeh_Kuang-shih	isCitizenOf	Taiwan
+Yeh_Kuang-shih	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Wang_Ju-hsuan	graduatedFrom	National_Taiwan_University
+Wang_Ju-hsuan	graduatedFrom	National_Taiwan_University
+Wang_Ju-hsuan	isCitizenOf	Taiwan
+Wang_Ju-hsuan	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Hung_Chi-chang	graduatedFrom	National_Taiwan_University
+Hung_Chi-chang	graduatedFrom	National_Taiwan_University
+Hung_Chi-chang	isCitizenOf	Taiwan
+Hung_Chi-chang	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Mu-Tao_Wang	graduatedFrom	National_Taiwan_University
+Mu-Tao_Wang	graduatedFrom	National_Taiwan_University
+Mu-Tao_Wang	isCitizenOf	Taiwan
+Mu-Tao_Wang	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Yang_Chiu-hsing	graduatedFrom	National_Taiwan_University
+Yang_Chiu-hsing	graduatedFrom	National_Taiwan_University
+Yang_Chiu-hsing	isCitizenOf	Taiwan
+Yang_Chiu-hsing	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Stephen_Shen	graduatedFrom	National_Taiwan_University
+Stephen_Shen	graduatedFrom	National_Taiwan_University
+Stephen_Shen	isPoliticianOf	Taiwan
+Stephen_Shen	isCitizenOf	Taiwan
+Stephen_Shen	wasBornIn	Taiwan
+Stephen_Shen	isPoliticianOf	Taiwan
+Stephen_Shen	isCitizenOf	Taiwan
+Stephen_Shen	wasBornIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Ho_Mei-yueh	graduatedFrom	National_Taiwan_University
+Ho_Mei-yueh	graduatedFrom	National_Taiwan_University
+Ho_Mei-yueh	isCitizenOf	Taiwan
+Ho_Mei-yueh	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Lin_Chia-lung	graduatedFrom	National_Taiwan_University
+Lin_Chia-lung	graduatedFrom	National_Taiwan_University
+Lin_Chia-lung	isCitizenOf	Taiwan
+Lin_Chia-lung	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Liu_Chao-shiuan	graduatedFrom	National_Taiwan_University
+Liu_Chao-shiuan	graduatedFrom	National_Taiwan_University
+Liu_Chao-shiuan	isCitizenOf	Taiwan
+Liu_Chao-shiuan	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Frederick_Chien	graduatedFrom	National_Taiwan_University
+Frederick_Chien	graduatedFrom	National_Taiwan_University
+Frederick_Chien	isCitizenOf	Taiwan
+Frederick_Chien	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Wang_Yu-chi	graduatedFrom	National_Taiwan_University
+Wang_Yu-chi	graduatedFrom	National_Taiwan_University
+Wang_Yu-chi	wasBornIn	Taiwan
+Wang_Yu-chi	isCitizenOf	Taiwan
+Wang_Yu-chi	wasBornIn	Taiwan
+Wang_Yu-chi	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Andrew_Yao	graduatedFrom	National_Taiwan_University
+Andrew_Yao	graduatedFrom	National_Taiwan_University
+Andrew_Yao	isCitizenOf	Taiwan
+Andrew_Yao	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Feng_Ming-chu	graduatedFrom	National_Taiwan_University
+Feng_Ming-chu	graduatedFrom	National_Taiwan_University
+Feng_Ming-chu	isCitizenOf	Taiwan
+Feng_Ming-chu	livesIn	Taiwan
+Feng_Ming-chu	isCitizenOf	Taiwan
+Feng_Ming-chu	livesIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Min_Kao	graduatedFrom	National_Taiwan_University
+Min_Kao	graduatedFrom	National_Taiwan_University
+Min_Kao	isCitizenOf	Taiwan
+Min_Kao	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Chen_Ding-nan	graduatedFrom	National_Taiwan_University
+Chen_Ding-nan	graduatedFrom	National_Taiwan_University
+Chen_Ding-nan	isCitizenOf	Taiwan
+Chen_Ding-nan	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Tsai_Hsun-hsiung	graduatedFrom	National_Taiwan_University
+Tsai_Hsun-hsiung	graduatedFrom	National_Taiwan_University
+Tsai_Hsun-hsiung	isCitizenOf	Taiwan
+Tsai_Hsun-hsiung	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Lin_Chiang-yi	graduatedFrom	National_Taiwan_University
+Lin_Chiang-yi	graduatedFrom	National_Taiwan_University
+Lin_Chiang-yi	isCitizenOf	Taiwan
+Lin_Chiang-yi	wasBornIn	Taiwan
+Lin_Chiang-yi	isCitizenOf	Taiwan
+Lin_Chiang-yi	wasBornIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Liu_Chao-Han	graduatedFrom	National_Taiwan_University
+Liu_Chao-Han	graduatedFrom	National_Taiwan_University
+Liu_Chao-Han	livesIn	Taiwan
+Liu_Chao-Han	isCitizenOf	Taiwan
+Liu_Chao-Han	livesIn	Taiwan
+Liu_Chao-Han	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Lu_Kuo-hua	graduatedFrom	National_Taiwan_University
+Lu_Kuo-hua	graduatedFrom	National_Taiwan_University
+Lu_Kuo-hua	isCitizenOf	Taiwan
+Lu_Kuo-hua	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Cyrus_Chu	graduatedFrom	National_Taiwan_University
+Cyrus_Chu	graduatedFrom	National_Taiwan_University
+Cyrus_Chu	isCitizenOf	Taiwan
+Cyrus_Chu	wasBornIn	Taiwan
+Cyrus_Chu	isCitizenOf	Taiwan
+Cyrus_Chu	wasBornIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Tuan_Yi-kang	graduatedFrom	National_Taiwan_University
+Tuan_Yi-kang	graduatedFrom	National_Taiwan_University
+Tuan_Yi-kang	isCitizenOf	Taiwan
+Tuan_Yi-kang	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Jiang_Yi-huah	graduatedFrom	National_Taiwan_University
+Jiang_Yi-huah	graduatedFrom	National_Taiwan_University
+Jiang_Yi-huah	isCitizenOf	Taiwan
+Jiang_Yi-huah	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Su_Huan-chih	graduatedFrom	National_Taiwan_University
+Su_Huan-chih	graduatedFrom	National_Taiwan_University
+Su_Huan-chih	isCitizenOf	Taiwan
+Su_Huan-chih	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Nantou_County
+National_Taiwan_University	Nantou_County
+Lee_Si-Chen	graduatedFrom	National_Taiwan_University
+Lee_Si-Chen	graduatedFrom	National_Taiwan_University
+Lee_Si-Chen	isCitizenOf	Taiwan
+Lee_Si-Chen	isCitizenOf	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+Nantou_County	isLocatedIn	Taiwan
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Taipei–Keelung_metropolitan_area
+National_Taiwan_University	Taipei–Keelung_metropolitan_area
+Chen_Chi-mai	graduatedFrom	National_Taiwan_University
+Chen_Chi-mai	graduatedFrom	National_Taiwan_University
+Chen_Chi-mai	wasBornIn	Keelung
+Chen_Chi-mai	wasBornIn	Keelung
+Taipei–Keelung_metropolitan_area	isLocatedIn	Keelung
+Taipei–Keelung_metropolitan_area	isLocatedIn	Keelung
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Taipei–Keelung_metropolitan_area
+National_Taiwan_University	Taipei–Keelung_metropolitan_area
+Eric_Chu	graduatedFrom	National_Taiwan_University
+Eric_Chu	graduatedFrom	National_Taiwan_University
+Eric_Chu	isLeaderOf	New_Taipei_City
+Eric_Chu	isLeaderOf	New_Taipei_City
+Taipei–Keelung_metropolitan_area	isLocatedIn	New_Taipei_City
+Taipei–Keelung_metropolitan_area	isLocatedIn	New_Taipei_City
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Taipei–Keelung_metropolitan_area
+National_Taiwan_University	Taipei–Keelung_metropolitan_area
+Lin_Yu-chang	graduatedFrom	National_Taiwan_University
+Lin_Yu-chang	graduatedFrom	National_Taiwan_University
+Lin_Yu-chang	wasBornIn	Keelung
+Lin_Yu-chang	isLeaderOf	Keelung
+Lin_Yu-chang	wasBornIn	Keelung
+Lin_Yu-chang	isLeaderOf	Keelung
+Taipei–Keelung_metropolitan_area	isLocatedIn	Keelung
+Taipei–Keelung_metropolitan_area	isLocatedIn	Keelung
+
+http://dbpedia.org/resource/National_Taiwan_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Taipei–Keelung_metropolitan_area
+National_Taiwan_University	Taipei–Keelung_metropolitan_area
+Jiang_Yi-huah	graduatedFrom	National_Taiwan_University
+Jiang_Yi-huah	graduatedFrom	National_Taiwan_University
+Jiang_Yi-huah	wasBornIn	Keelung
+Jiang_Yi-huah	wasBornIn	Keelung
+Taipei–Keelung_metropolitan_area	isLocatedIn	Keelung
+Taipei–Keelung_metropolitan_area	isLocatedIn	Keelung
+
+http://dbpedia.org/resource/Bahauddin_Zakariya_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Multan
+Bahauddin_Zakariya_University	Multan
+Bahauddin_Zakariya_University	isLocatedIn	Pakistan
+Bahauddin_Zakariya_University	isLocatedIn	Pakistan
+Tariq_Mehmood	isCitizenOf	Pakistan
+Tariq_Mehmood	isCitizenOf	Pakistan
+Tariq_Mehmood	wasBornIn	Multan
+Tariq_Mehmood	wasBornIn	Multan
+
+http://dbpedia.org/resource/Bahauddin_Zakariya_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Multan
+Bahauddin_Zakariya_University	Multan
+Bahauddin_Zakariya_University	isLocatedIn	Pakistan
+Bahauddin_Zakariya_University	isLocatedIn	Pakistan
+Shamsur_Rahman_Kallu	isCitizenOf	Pakistan
+Shamsur_Rahman_Kallu	isCitizenOf	Pakistan
+Shamsur_Rahman_Kallu	wasBornIn	Multan
+Shamsur_Rahman_Kallu	wasBornIn	Multan
+
+http://dbpedia.org/resource/Bahauddin_Zakariya_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Multan
+Bahauddin_Zakariya_University	Multan
+Anwaar_Ahmad	graduatedFrom	Bahauddin_Zakariya_University
+Anwaar_Ahmad	graduatedFrom	Bahauddin_Zakariya_University
+Anwaar_Ahmad	graduatedFrom	Bahauddin_Zakariya_University
+Anwaar_Ahmad	graduatedFrom	Bahauddin_Zakariya_University
+Bahauddin_Zakariya_University	isLocatedIn	Multan
+Bahauddin_Zakariya_University	isLocatedIn	Multan
+
+http://dbpedia.org/resource/Bahauddin_Zakariya_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Multan
+Bahauddin_Zakariya_University	Multan
+Anwaar_Ahmad	graduatedFrom	Bahauddin_Zakariya_University
+Anwaar_Ahmad	graduatedFrom	Bahauddin_Zakariya_University
+Anwaar_Ahmad	wasBornIn	Multan
+Anwaar_Ahmad	wasBornIn	Multan
+
+http://dbpedia.org/resource/Bahauddin_Zakariya_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Multan
+Bahauddin_Zakariya_University	Multan
+Muhammad_Tariq_Tarar	graduatedFrom	Bahauddin_Zakariya_University
+Muhammad_Tariq_Tarar	graduatedFrom	Bahauddin_Zakariya_University
+Muhammad_Tariq_Tarar	graduatedFrom	Bahauddin_Zakariya_University
+Muhammad_Tariq_Tarar	graduatedFrom	Bahauddin_Zakariya_University
+Bahauddin_Zakariya_University	isLocatedIn	Multan
+Bahauddin_Zakariya_University	isLocatedIn	Multan
+
+http://dbpedia.org/resource/Bahauddin_Zakariya_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Multan
+Bahauddin_Zakariya_University	Multan
+Bahauddin_Zakariya_University	isLocatedIn	Multan
+Bahauddin_Zakariya_University	isLocatedIn	Multan
+
+http://dbpedia.org/resource/University_of_Southern_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Slagelse
+University_of_Southern_Denmark	Slagelse
+University_of_Southern_Denmark	isLocatedIn	Slagelse
+University_of_Southern_Denmark	isLocatedIn	Slagelse
+
+http://dbpedia.org/resource/University_of_Southern_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Slagelse
+University_of_Southern_Denmark	Slagelse
+University_of_Southern_Denmark	isLocatedIn	Odense_Municipality
+University_of_Southern_Denmark	isLocatedIn	Odense_Municipality
+University_of_Southern_Denmark	isLocatedIn	Odense_Municipality
+University_of_Southern_Denmark	isLocatedIn	Odense_Municipality
+University_of_Southern_Denmark	isLocatedIn	Slagelse
+University_of_Southern_Denmark	isLocatedIn	Slagelse
+
+http://dbpedia.org/resource/University_of_Southern_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Slagelse
+University_of_Southern_Denmark	Slagelse
+University_of_Southern_Denmark	isLocatedIn	Sønderborg
+University_of_Southern_Denmark	isLocatedIn	Sønderborg
+University_of_Southern_Denmark	isLocatedIn	Sønderborg
+University_of_Southern_Denmark	isLocatedIn	Sønderborg
+University_of_Southern_Denmark	isLocatedIn	Slagelse
+University_of_Southern_Denmark	isLocatedIn	Slagelse
+
+http://dbpedia.org/resource/University_of_Southern_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Slagelse
+University_of_Southern_Denmark	Slagelse
+University_of_Southern_Denmark	isLocatedIn	Kolding
+University_of_Southern_Denmark	isLocatedIn	Kolding
+University_of_Southern_Denmark	isLocatedIn	Kolding
+University_of_Southern_Denmark	isLocatedIn	Kolding
+University_of_Southern_Denmark	isLocatedIn	Slagelse
+University_of_Southern_Denmark	isLocatedIn	Slagelse
+
+http://dbpedia.org/resource/University_of_Southern_Denmark	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Slagelse
+University_of_Southern_Denmark	Slagelse
+Jacob_L._Mey	worksAt	University_of_Southern_Denmark
+Jacob_L._Mey	worksAt	University_of_Southern_Denmark
+Jacob_L._Mey	worksAt	University_of_Southern_Denmark
+Jacob_L._Mey	worksAt	University_of_Southern_Denmark
+University_of_Southern_Denmark	isLocatedIn	Slagelse
+University_of_Southern_Denmark	isLocatedIn	Slagelse
+
+http://dbpedia.org/resource/Medical_Universities_(Myanmar)	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Mingaladon_Township
+Medical_Universities_(Myanmar)	Mingaladon_Township
+Medical_Universities_(Myanmar)	isLocatedIn	Yangon_Region
+Medical_Universities_(Myanmar)	isLocatedIn	Yangon_Region
+Mingaladon_Township	isLocatedIn	Yangon_Region
+Mingaladon_Township	isLocatedIn	Yangon_Region
+
+http://dbpedia.org/resource/CIFAD	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Cotonou
+CIFAD	Cotonou
+CIFAD	isLocatedIn	Cotonou
+CIFAD	isLocatedIn	Cotonou
+
+http://dbpedia.org/resource/University_College_Lillebaelt	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Vejle
+University_College_Lillebaelt	Vejle
+University_College_Lillebaelt	isLocatedIn	Jelling
+University_College_Lillebaelt	isLocatedIn	Jelling
+Jelling	isLocatedIn	Vejle
+Jelling	isLocatedIn	Vejle
+
+http://dbpedia.org/resource/University_College_Lillebaelt	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Vejle
+University_College_Lillebaelt	Vejle
+University_College_Lillebaelt	isLocatedIn	Jelling
+University_College_Lillebaelt	isLocatedIn	Jelling
+Jelling	isLocatedIn	Region_of_Southern_Denmark
+Jelling	isLocatedIn	Region_of_Southern_Denmark
+Vejle	isLocatedIn	Region_of_Southern_Denmark
+Region_of_Southern_Denmark	isLocatedIn	Vejle
+Region_of_Southern_Denmark	hasCapital	Vejle
+Vejle	isLocatedIn	Region_of_Southern_Denmark
+Region_of_Southern_Denmark	isLocatedIn	Vejle
+Region_of_Southern_Denmark	hasCapital	Vejle
+
+http://dbpedia.org/resource/University_College_Lillebaelt	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Vejle
+University_College_Lillebaelt	Vejle
+University_College_Lillebaelt	isLocatedIn	Jelling
+University_College_Lillebaelt	isLocatedIn	Jelling
+University_College_Lillebaelt	isLocatedIn	Jelling
+University_College_Lillebaelt	isLocatedIn	Jelling
+University_College_Lillebaelt	isLocatedIn	Vejle
+University_College_Lillebaelt	isLocatedIn	Vejle
+
+http://dbpedia.org/resource/University_College_Lillebaelt	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Vejle
+University_College_Lillebaelt	Vejle
+University_College_Lillebaelt	isLocatedIn	Vejle
+University_College_Lillebaelt	isLocatedIn	Vejle
+
+http://dbpedia.org/resource/University_College_Lillebaelt	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Vejle
+University_College_Lillebaelt	Vejle
+University_College_Lillebaelt	isLocatedIn	Svendborg
+University_College_Lillebaelt	isLocatedIn	Svendborg
+University_College_Lillebaelt	isLocatedIn	Svendborg
+University_College_Lillebaelt	isLocatedIn	Svendborg
+University_College_Lillebaelt	isLocatedIn	Vejle
+University_College_Lillebaelt	isLocatedIn	Vejle
+
+http://dbpedia.org/resource/University_College_Lillebaelt	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Vejle
+University_College_Lillebaelt	Vejle
+University_College_Lillebaelt	isLocatedIn	Svendborg
+University_College_Lillebaelt	isLocatedIn	Svendborg
+Svendborg	isLocatedIn	Region_of_Southern_Denmark
+Svendborg	isLocatedIn	Region_of_Southern_Denmark
+Vejle	isLocatedIn	Region_of_Southern_Denmark
+Region_of_Southern_Denmark	isLocatedIn	Vejle
+Region_of_Southern_Denmark	hasCapital	Vejle
+Vejle	isLocatedIn	Region_of_Southern_Denmark
+Region_of_Southern_Denmark	isLocatedIn	Vejle
+Region_of_Southern_Denmark	hasCapital	Vejle
+
+http://dbpedia.org/resource/University_College_Lillebaelt	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Vejle
+University_College_Lillebaelt	Vejle
+University_College_Lillebaelt	isLocatedIn	Odense
+University_College_Lillebaelt	isLocatedIn	Odense
+University_College_Lillebaelt	isLocatedIn	Odense
+University_College_Lillebaelt	isLocatedIn	Odense
+University_College_Lillebaelt	isLocatedIn	Vejle
+University_College_Lillebaelt	isLocatedIn	Vejle
+
+http://dbpedia.org/resource/Mzumbe_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Mbeya
+Mzumbe_University	Mbeya
+Mahmoud_Mgimwa	graduatedFrom	Mzumbe_University
+Mahmoud_Mgimwa	graduatedFrom	Mzumbe_University
+Mahmoud_Mgimwa	isPoliticianOf	Tanzania
+Mahmoud_Mgimwa	isCitizenOf	Tanzania
+Mahmoud_Mgimwa	isPoliticianOf	Tanzania
+Mahmoud_Mgimwa	isCitizenOf	Tanzania
+Mbeya	isLocatedIn	Tanzania
+Mbeya	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Mzumbe_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Mbeya
+Mzumbe_University	Mbeya
+Hawa_Ghasia	graduatedFrom	Mzumbe_University
+Hawa_Ghasia	graduatedFrom	Mzumbe_University
+Hawa_Ghasia	isCitizenOf	Tanzania
+Hawa_Ghasia	isPoliticianOf	Tanzania
+Hawa_Ghasia	isCitizenOf	Tanzania
+Hawa_Ghasia	isPoliticianOf	Tanzania
+Mbeya	isLocatedIn	Tanzania
+Mbeya	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Mzumbe_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Mbeya
+Mzumbe_University	Mbeya
+Mzumbe_University	isLocatedIn	Tanzania
+Mzumbe_University	isLocatedIn	Tanzania
+Mbeya	isLocatedIn	Tanzania
+Mbeya	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Mzumbe_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Mbeya
+Mzumbe_University	Mbeya
+Emmanuel_Nchimbi	graduatedFrom	Mzumbe_University
+Emmanuel_Nchimbi	graduatedFrom	Mzumbe_University
+Emmanuel_Nchimbi	isCitizenOf	Tanzania
+Emmanuel_Nchimbi	isPoliticianOf	Tanzania
+Emmanuel_Nchimbi	isCitizenOf	Tanzania
+Emmanuel_Nchimbi	isPoliticianOf	Tanzania
+Mbeya	isLocatedIn	Tanzania
+Mbeya	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Mzumbe_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Mbeya
+Mzumbe_University	Mbeya
+Pindi_Chana	graduatedFrom	Mzumbe_University
+Pindi_Chana	graduatedFrom	Mzumbe_University
+Pindi_Chana	isCitizenOf	Tanzania
+Pindi_Chana	isPoliticianOf	Tanzania
+Pindi_Chana	isCitizenOf	Tanzania
+Pindi_Chana	isPoliticianOf	Tanzania
+Mbeya	isLocatedIn	Tanzania
+Mbeya	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Mzumbe_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Mbeya
+Mzumbe_University	Mbeya
+Celina_Kombani	graduatedFrom	Mzumbe_University
+Celina_Kombani	graduatedFrom	Mzumbe_University
+Celina_Kombani	isPoliticianOf	Tanzania
+Celina_Kombani	isCitizenOf	Tanzania
+Celina_Kombani	isPoliticianOf	Tanzania
+Celina_Kombani	isCitizenOf	Tanzania
+Mbeya	isLocatedIn	Tanzania
+Mbeya	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Mzumbe_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Mbeya
+Mzumbe_University	Mbeya
+Sylvester_Mabumba	graduatedFrom	Mzumbe_University
+Sylvester_Mabumba	graduatedFrom	Mzumbe_University
+Sylvester_Mabumba	isCitizenOf	Tanzania
+Sylvester_Mabumba	isCitizenOf	Tanzania
+Mbeya	isLocatedIn	Tanzania
+Mbeya	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Mzumbe_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Mbeya
+Mzumbe_University	Mbeya
+William_Mgimwa	graduatedFrom	Mzumbe_University
+William_Mgimwa	graduatedFrom	Mzumbe_University
+William_Mgimwa	isCitizenOf	Tanzania
+William_Mgimwa	isPoliticianOf	Tanzania
+William_Mgimwa	isCitizenOf	Tanzania
+William_Mgimwa	isPoliticianOf	Tanzania
+Mbeya	isLocatedIn	Tanzania
+Mbeya	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Mzumbe_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Mbeya
+Mzumbe_University	Mbeya
+Samia_Suluhu	graduatedFrom	Mzumbe_University
+Samia_Suluhu	graduatedFrom	Mzumbe_University
+Samia_Suluhu	isCitizenOf	Tanzania
+Samia_Suluhu	isLeaderOf	Tanzania
+Samia_Suluhu	isPoliticianOf	Tanzania
+Samia_Suluhu	isCitizenOf	Tanzania
+Samia_Suluhu	isLeaderOf	Tanzania
+Samia_Suluhu	isPoliticianOf	Tanzania
+Mbeya	isLocatedIn	Tanzania
+Mbeya	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Mzumbe_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Mbeya
+Mzumbe_University	Mbeya
+Rashid_Abdallah	graduatedFrom	Mzumbe_University
+Rashid_Abdallah	graduatedFrom	Mzumbe_University
+Rashid_Abdallah	isCitizenOf	Tanzania
+Rashid_Abdallah	isCitizenOf	Tanzania
+Mbeya	isLocatedIn	Tanzania
+Mbeya	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Mzumbe_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Mbeya
+Mzumbe_University	Mbeya
+Mzumbe_University	isLocatedIn	Morogoro
+Mzumbe_University	isLocatedIn	Morogoro
+Morogoro	isLocatedIn	Tanzania
+Morogoro	isLocatedIn	Tanzania
+Mbeya	isLocatedIn	Tanzania
+Mbeya	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Mzumbe_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Mbeya
+Mzumbe_University	Mbeya
+Gregory_Teu	graduatedFrom	Mzumbe_University
+Gregory_Teu	graduatedFrom	Mzumbe_University
+Gregory_Teu	isCitizenOf	Tanzania
+Gregory_Teu	isCitizenOf	Tanzania
+Mbeya	isLocatedIn	Tanzania
+Mbeya	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Mzumbe_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Mbeya
+Mzumbe_University	Mbeya
+Nape_Nnauye	graduatedFrom	Mzumbe_University
+Nape_Nnauye	graduatedFrom	Mzumbe_University
+Nape_Nnauye	isCitizenOf	Tanzania
+Nape_Nnauye	isCitizenOf	Tanzania
+Mbeya	isLocatedIn	Tanzania
+Mbeya	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Mzumbe_University	http://dbpedia.org/ontology/campus	http://dbpedia.org/resource/Mbeya
+Mzumbe_University	Mbeya
+Anne_Makinda	graduatedFrom	Mzumbe_University
+Anne_Makinda	graduatedFrom	Mzumbe_University
+Anne_Makinda	isCitizenOf	Tanzania
+Anne_Makinda	isCitizenOf	Tanzania
+Mbeya	isLocatedIn	Tanzania
+Mbeya	isLocatedIn	Tanzania
+

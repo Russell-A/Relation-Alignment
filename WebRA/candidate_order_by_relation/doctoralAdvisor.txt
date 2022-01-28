@@ -1,0 +1,3143 @@
+http://dbpedia.org/resource/Edward_O._Thorp	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Angus_Ellis_Taylor
+Edward_O._Thorp	Angus_Ellis_Taylor
+Edward_O._Thorp	hasAcademicAdvisor	Angus_Ellis_Taylor
+Edward_O._Thorp	hasAcademicAdvisor	Angus_Ellis_Taylor
+
+http://dbpedia.org/resource/Edward_O._Thorp	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Angus_Ellis_Taylor
+Edward_O._Thorp	Angus_Ellis_Taylor
+Edward_O._Thorp	worksAt	New_Mexico_State_University
+Edward_O._Thorp	worksAt	New_Mexico_State_University
+Edward_O._Thorp	worksAt	New_Mexico_State_University
+Edward_O._Thorp	worksAt	New_Mexico_State_University
+Edward_O._Thorp	hasAcademicAdvisor	Angus_Ellis_Taylor
+Edward_O._Thorp	hasAcademicAdvisor	Angus_Ellis_Taylor
+
+http://dbpedia.org/resource/Edward_O._Thorp	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Angus_Ellis_Taylor
+Edward_O._Thorp	Angus_Ellis_Taylor
+Claude_Shannon	influences	Edward_O._Thorp
+Claude_Shannon	influences	Edward_O._Thorp
+Claude_Shannon	influences	Edward_O._Thorp
+Claude_Shannon	influences	Edward_O._Thorp
+Edward_O._Thorp	hasAcademicAdvisor	Angus_Ellis_Taylor
+Edward_O._Thorp	hasAcademicAdvisor	Angus_Ellis_Taylor
+
+http://dbpedia.org/resource/Hermann_Minkowski	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Ferdinand_von_Lindemann
+Hermann_Minkowski	Ferdinand_von_Lindemann
+Dénes_Kőnig	hasAcademicAdvisor	Hermann_Minkowski
+Dénes_Kőnig	hasAcademicAdvisor	Hermann_Minkowski
+Dénes_Kőnig	hasAcademicAdvisor	Hermann_Minkowski
+Dénes_Kőnig	hasAcademicAdvisor	Hermann_Minkowski
+Hermann_Minkowski	hasAcademicAdvisor	Ferdinand_von_Lindemann
+Hermann_Minkowski	hasAcademicAdvisor	Ferdinand_von_Lindemann
+
+http://dbpedia.org/resource/Hermann_Minkowski	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Ferdinand_von_Lindemann
+Hermann_Minkowski	Ferdinand_von_Lindemann
+Hermann_Minkowski	hasAcademicAdvisor	Ferdinand_von_Lindemann
+Hermann_Minkowski	hasAcademicAdvisor	Ferdinand_von_Lindemann
+
+http://dbpedia.org/resource/Hermann_Minkowski	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Ferdinand_von_Lindemann
+Hermann_Minkowski	Ferdinand_von_Lindemann
+Constantin_Carathéodory	hasAcademicAdvisor	Hermann_Minkowski
+Constantin_Carathéodory	hasAcademicAdvisor	Hermann_Minkowski
+Constantin_Carathéodory	hasAcademicAdvisor	Hermann_Minkowski
+Constantin_Carathéodory	hasAcademicAdvisor	Hermann_Minkowski
+Hermann_Minkowski	hasAcademicAdvisor	Ferdinand_von_Lindemann
+Hermann_Minkowski	hasAcademicAdvisor	Ferdinand_von_Lindemann
+
+http://dbpedia.org/resource/Barton_Zwiebach	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Murray_Gell-Mann
+Barton_Zwiebach	Murray_Gell-Mann
+Barton_Zwiebach	hasAcademicAdvisor	Murray_Gell-Mann
+Barton_Zwiebach	hasAcademicAdvisor	Murray_Gell-Mann
+
+http://dbpedia.org/resource/Barton_Zwiebach	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Murray_Gell-Mann
+Barton_Zwiebach	Murray_Gell-Mann
+Barton_Zwiebach	graduatedFrom	National_University_of_Engineering
+Barton_Zwiebach	graduatedFrom	National_University_of_Engineering
+Barton_Zwiebach	graduatedFrom	National_University_of_Engineering
+Barton_Zwiebach	graduatedFrom	National_University_of_Engineering
+Barton_Zwiebach	hasAcademicAdvisor	Murray_Gell-Mann
+Barton_Zwiebach	hasAcademicAdvisor	Murray_Gell-Mann
+
+http://dbpedia.org/resource/Barton_Zwiebach	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Murray_Gell-Mann
+Barton_Zwiebach	Murray_Gell-Mann
+Barton_Zwiebach	graduatedFrom	California_Institute_of_Technology
+Barton_Zwiebach	graduatedFrom	California_Institute_of_Technology
+Sidney_Coleman	graduatedFrom	California_Institute_of_Technology
+Sidney_Coleman	graduatedFrom	California_Institute_of_Technology
+Sidney_Coleman	hasAcademicAdvisor	Murray_Gell-Mann
+Sidney_Coleman	hasAcademicAdvisor	Murray_Gell-Mann
+
+http://dbpedia.org/resource/Barton_Zwiebach	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Murray_Gell-Mann
+Barton_Zwiebach	Murray_Gell-Mann
+Barton_Zwiebach	graduatedFrom	California_Institute_of_Technology
+Barton_Zwiebach	graduatedFrom	California_Institute_of_Technology
+Barton_Zwiebach	graduatedFrom	California_Institute_of_Technology
+Barton_Zwiebach	graduatedFrom	California_Institute_of_Technology
+Barton_Zwiebach	hasAcademicAdvisor	Murray_Gell-Mann
+Barton_Zwiebach	hasAcademicAdvisor	Murray_Gell-Mann
+
+http://dbpedia.org/resource/Barton_Zwiebach	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Murray_Gell-Mann
+Barton_Zwiebach	Murray_Gell-Mann
+Barton_Zwiebach	graduatedFrom	California_Institute_of_Technology
+Barton_Zwiebach	graduatedFrom	California_Institute_of_Technology
+Murray_Gell-Mann	worksAt	California_Institute_of_Technology
+Murray_Gell-Mann	worksAt	California_Institute_of_Technology
+
+http://dbpedia.org/resource/Johann_Christian_Polycarp_Erxleben	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Abraham_Gotthelf_Kästner
+Johann_Christian_Polycarp_Erxleben	Abraham_Gotthelf_Kästner
+Johann_Christian_Polycarp_Erxleben	graduatedFrom	University_of_Göttingen
+Johann_Christian_Polycarp_Erxleben	worksAt	University_of_Göttingen
+Johann_Christian_Polycarp_Erxleben	graduatedFrom	University_of_Göttingen
+Johann_Christian_Polycarp_Erxleben	worksAt	University_of_Göttingen
+Johann_Friedrich_Pfaff	graduatedFrom	University_of_Göttingen
+Johann_Friedrich_Pfaff	graduatedFrom	University_of_Göttingen
+Johann_Friedrich_Pfaff	hasAcademicAdvisor	Abraham_Gotthelf_Kästner
+Johann_Friedrich_Pfaff	hasAcademicAdvisor	Abraham_Gotthelf_Kästner
+
+http://dbpedia.org/resource/J._Robert_Oppenheimer	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Born
+J._Robert_Oppenheimer	Max_Born
+Philip_Morrison	hasAcademicAdvisor	J._Robert_Oppenheimer
+Philip_Morrison	hasAcademicAdvisor	J._Robert_Oppenheimer
+Philip_Morrison	hasAcademicAdvisor	J._Robert_Oppenheimer
+Philip_Morrison	hasAcademicAdvisor	J._Robert_Oppenheimer
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+
+http://dbpedia.org/resource/J._Robert_Oppenheimer	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Born
+J._Robert_Oppenheimer	Max_Born
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+
+http://dbpedia.org/resource/J._Robert_Oppenheimer	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Born
+J._Robert_Oppenheimer	Max_Born
+Sidney_Dancoff	hasAcademicAdvisor	J._Robert_Oppenheimer
+Sidney_Dancoff	hasAcademicAdvisor	J._Robert_Oppenheimer
+Sidney_Dancoff	hasAcademicAdvisor	J._Robert_Oppenheimer
+Sidney_Dancoff	hasAcademicAdvisor	J._Robert_Oppenheimer
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+
+http://dbpedia.org/resource/J._Robert_Oppenheimer	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Born
+J._Robert_Oppenheimer	Max_Born
+David_Bohm	hasAcademicAdvisor	J._Robert_Oppenheimer
+David_Bohm	hasAcademicAdvisor	J._Robert_Oppenheimer
+David_Bohm	hasAcademicAdvisor	J._Robert_Oppenheimer
+David_Bohm	hasAcademicAdvisor	J._Robert_Oppenheimer
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+
+http://dbpedia.org/resource/J._Robert_Oppenheimer	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Born
+J._Robert_Oppenheimer	Max_Born
+J._Robert_Oppenheimer	influences	Robert_Serber
+J._Robert_Oppenheimer	influences	Robert_Serber
+J._Robert_Oppenheimer	influences	Robert_Serber
+J._Robert_Oppenheimer	influences	Robert_Serber
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+
+http://dbpedia.org/resource/J._Robert_Oppenheimer	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Born
+J._Robert_Oppenheimer	Max_Born
+Robert_F._Christy	hasAcademicAdvisor	J._Robert_Oppenheimer
+Robert_F._Christy	hasAcademicAdvisor	J._Robert_Oppenheimer
+Robert_F._Christy	hasAcademicAdvisor	J._Robert_Oppenheimer
+Robert_F._Christy	hasAcademicAdvisor	J._Robert_Oppenheimer
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+
+http://dbpedia.org/resource/J._Robert_Oppenheimer	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Born
+J._Robert_Oppenheimer	Max_Born
+J._Robert_Oppenheimer	diedIn	Princeton,_New_Jersey
+J._Robert_Oppenheimer	diedIn	Princeton,_New_Jersey
+J._Robert_Oppenheimer	diedIn	Princeton,_New_Jersey
+J._Robert_Oppenheimer	diedIn	Princeton,_New_Jersey
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+
+http://dbpedia.org/resource/J._Robert_Oppenheimer	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Born
+J._Robert_Oppenheimer	Max_Born
+J._Robert_Oppenheimer	influences	Riazuddin_(physicist)
+J._Robert_Oppenheimer	influences	Riazuddin_(physicist)
+J._Robert_Oppenheimer	influences	Riazuddin_(physicist)
+J._Robert_Oppenheimer	influences	Riazuddin_(physicist)
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+
+http://dbpedia.org/resource/J._Robert_Oppenheimer	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Born
+J._Robert_Oppenheimer	Max_Born
+Willis_Lamb	hasAcademicAdvisor	J._Robert_Oppenheimer
+Willis_Lamb	hasAcademicAdvisor	J._Robert_Oppenheimer
+Willis_Lamb	hasAcademicAdvisor	J._Robert_Oppenheimer
+Willis_Lamb	hasAcademicAdvisor	J._Robert_Oppenheimer
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+
+http://dbpedia.org/resource/J._Robert_Oppenheimer	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Born
+J._Robert_Oppenheimer	Max_Born
+J._Robert_Oppenheimer	worksAt	California_Institute_of_Technology
+J._Robert_Oppenheimer	worksAt	California_Institute_of_Technology
+J._Robert_Oppenheimer	worksAt	California_Institute_of_Technology
+J._Robert_Oppenheimer	worksAt	California_Institute_of_Technology
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+
+http://dbpedia.org/resource/J._Robert_Oppenheimer	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Born
+J._Robert_Oppenheimer	Max_Born
+Bertrand_Russell	influences	J._Robert_Oppenheimer
+Bertrand_Russell	influences	J._Robert_Oppenheimer
+Bertrand_Russell	influences	J._Robert_Oppenheimer
+Bertrand_Russell	influences	J._Robert_Oppenheimer
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+
+http://dbpedia.org/resource/J._Robert_Oppenheimer	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Born
+J._Robert_Oppenheimer	Max_Born
+J._Robert_Oppenheimer	graduatedFrom	University_of_Göttingen
+J._Robert_Oppenheimer	graduatedFrom	University_of_Göttingen
+J._Robert_Oppenheimer	graduatedFrom	University_of_Göttingen
+J._Robert_Oppenheimer	graduatedFrom	University_of_Göttingen
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+
+http://dbpedia.org/resource/J._Robert_Oppenheimer	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Born
+J._Robert_Oppenheimer	Max_Born
+Frank_Oppenheimer	influences	J._Robert_Oppenheimer
+Frank_Oppenheimer	influences	J._Robert_Oppenheimer
+Frank_Oppenheimer	influences	J._Robert_Oppenheimer
+Frank_Oppenheimer	influences	J._Robert_Oppenheimer
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+
+http://dbpedia.org/resource/J._Robert_Oppenheimer	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Born
+J._Robert_Oppenheimer	Max_Born
+J._Robert_Oppenheimer	graduatedFrom	Harvard_College
+J._Robert_Oppenheimer	graduatedFrom	Harvard_College
+J._Robert_Oppenheimer	graduatedFrom	Harvard_College
+J._Robert_Oppenheimer	graduatedFrom	Harvard_College
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+J._Robert_Oppenheimer	hasAcademicAdvisor	Max_Born
+
+http://dbpedia.org/resource/Constantin_Carathéodory	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Hermann_Minkowski
+Constantin_Carathéodory	Hermann_Minkowski
+Constantin_Carathéodory	influences	Georgi_Bradistilov
+Constantin_Carathéodory	influences	Georgi_Bradistilov
+Constantin_Carathéodory	influences	Georgi_Bradistilov
+Constantin_Carathéodory	influences	Georgi_Bradistilov
+Constantin_Carathéodory	hasAcademicAdvisor	Hermann_Minkowski
+Constantin_Carathéodory	hasAcademicAdvisor	Hermann_Minkowski
+
+http://dbpedia.org/resource/Constantin_Carathéodory	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Hermann_Minkowski
+Constantin_Carathéodory	Hermann_Minkowski
+Constantin_Carathéodory	diedIn	Munich
+Constantin_Carathéodory	diedIn	Munich
+Constantin_Carathéodory	diedIn	Munich
+Constantin_Carathéodory	diedIn	Munich
+Constantin_Carathéodory	hasAcademicAdvisor	Hermann_Minkowski
+Constantin_Carathéodory	hasAcademicAdvisor	Hermann_Minkowski
+
+http://dbpedia.org/resource/Constantin_Carathéodory	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Hermann_Minkowski
+Constantin_Carathéodory	Hermann_Minkowski
+Constantin_Carathéodory	hasAcademicAdvisor	Hermann_Minkowski
+Constantin_Carathéodory	hasAcademicAdvisor	Hermann_Minkowski
+
+http://dbpedia.org/resource/M._Laurance_Morse	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Joshua_Lederberg
+M._Laurance_Morse	Joshua_Lederberg
+M._Laurance_Morse	graduatedFrom	University_of_New_Hampshire
+M._Laurance_Morse	graduatedFrom	University_of_New_Hampshire
+M._Laurance_Morse	graduatedFrom	University_of_New_Hampshire
+M._Laurance_Morse	graduatedFrom	University_of_New_Hampshire
+M._Laurance_Morse	hasAcademicAdvisor	Joshua_Lederberg
+M._Laurance_Morse	hasAcademicAdvisor	Joshua_Lederberg
+
+http://dbpedia.org/resource/M._Laurance_Morse	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Joshua_Lederberg
+M._Laurance_Morse	Joshua_Lederberg
+M._Laurance_Morse	graduatedFrom	University_of_Kentucky
+M._Laurance_Morse	graduatedFrom	University_of_Kentucky
+M._Laurance_Morse	graduatedFrom	University_of_Kentucky
+M._Laurance_Morse	graduatedFrom	University_of_Kentucky
+M._Laurance_Morse	hasAcademicAdvisor	Joshua_Lederberg
+M._Laurance_Morse	hasAcademicAdvisor	Joshua_Lederberg
+
+http://dbpedia.org/resource/M._Laurance_Morse	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Joshua_Lederberg
+M._Laurance_Morse	Joshua_Lederberg
+M._Laurance_Morse	hasAcademicAdvisor	Joshua_Lederberg
+M._Laurance_Morse	hasAcademicAdvisor	Joshua_Lederberg
+
+http://dbpedia.org/resource/Philip_Morrison	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/J._Robert_Oppenheimer
+Philip_Morrison	J._Robert_Oppenheimer
+Philip_Morrison	hasAcademicAdvisor	J._Robert_Oppenheimer
+Philip_Morrison	hasAcademicAdvisor	J._Robert_Oppenheimer
+
+http://dbpedia.org/resource/Philip_Morrison	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/J._Robert_Oppenheimer
+Philip_Morrison	J._Robert_Oppenheimer
+Philip_Morrison	influences	Menas_Kafatos
+Philip_Morrison	influences	Menas_Kafatos
+Philip_Morrison	influences	Menas_Kafatos
+Philip_Morrison	influences	Menas_Kafatos
+Philip_Morrison	hasAcademicAdvisor	J._Robert_Oppenheimer
+Philip_Morrison	hasAcademicAdvisor	J._Robert_Oppenheimer
+
+http://dbpedia.org/resource/Philip_Morrison	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/J._Robert_Oppenheimer
+Philip_Morrison	J._Robert_Oppenheimer
+Philip_Morrison	graduatedFrom	University_of_Illinois_at_Urbana–Champaign
+Philip_Morrison	graduatedFrom	University_of_Illinois_at_Urbana–Champaign
+Philip_Morrison	graduatedFrom	University_of_Illinois_at_Urbana–Champaign
+Philip_Morrison	graduatedFrom	University_of_Illinois_at_Urbana–Champaign
+Philip_Morrison	hasAcademicAdvisor	J._Robert_Oppenheimer
+Philip_Morrison	hasAcademicAdvisor	J._Robert_Oppenheimer
+
+http://dbpedia.org/resource/S._R._Srinivasa_Varadhan	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/C._R._Rao
+S._R._Srinivasa_Varadhan	C._R._Rao
+S._R._Srinivasa_Varadhan	hasAcademicAdvisor	C._R._Rao
+S._R._Srinivasa_Varadhan	hasAcademicAdvisor	C._R._Rao
+
+http://dbpedia.org/resource/S._R._Srinivasa_Varadhan	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/C._R._Rao
+S._R._Srinivasa_Varadhan	C._R._Rao
+S._R._Srinivasa_Varadhan	graduatedFrom	Indian_Statistical_Institute
+S._R._Srinivasa_Varadhan	graduatedFrom	Indian_Statistical_Institute
+S._R._Srinivasa_Varadhan	graduatedFrom	Indian_Statistical_Institute
+S._R._Srinivasa_Varadhan	graduatedFrom	Indian_Statistical_Institute
+S._R._Srinivasa_Varadhan	hasAcademicAdvisor	C._R._Rao
+S._R._Srinivasa_Varadhan	hasAcademicAdvisor	C._R._Rao
+
+http://dbpedia.org/resource/Avrim_Blum	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Ron_Rivest
+Avrim_Blum	Ron_Rivest
+Avrim_Blum	hasAcademicAdvisor	Ron_Rivest
+Avrim_Blum	hasAcademicAdvisor	Ron_Rivest
+
+http://dbpedia.org/resource/Avrim_Blum	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Ron_Rivest
+Avrim_Blum	Ron_Rivest
+Santosh_Vempala	hasAcademicAdvisor	Avrim_Blum
+Santosh_Vempala	hasAcademicAdvisor	Avrim_Blum
+Santosh_Vempala	hasAcademicAdvisor	Avrim_Blum
+Santosh_Vempala	hasAcademicAdvisor	Avrim_Blum
+Avrim_Blum	hasAcademicAdvisor	Ron_Rivest
+Avrim_Blum	hasAcademicAdvisor	Ron_Rivest
+
+http://dbpedia.org/resource/Willis_Lamb	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/J._Robert_Oppenheimer
+Willis_Lamb	J._Robert_Oppenheimer
+Willis_Lamb	hasAcademicAdvisor	J._Robert_Oppenheimer
+Willis_Lamb	hasAcademicAdvisor	J._Robert_Oppenheimer
+
+http://dbpedia.org/resource/Patrick_Thaddeus	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Charles_H._Townes
+Patrick_Thaddeus	Charles_H._Townes
+Patrick_Thaddeus	hasAcademicAdvisor	Charles_H._Townes
+Patrick_Thaddeus	hasAcademicAdvisor	Charles_H._Townes
+
+http://dbpedia.org/resource/Michael_Katehakis	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Cyrus_Derman
+Michael_Katehakis	Cyrus_Derman
+Michael_Katehakis	hasAcademicAdvisor	Cyrus_Derman
+Michael_Katehakis	hasAcademicAdvisor	Cyrus_Derman
+
+http://dbpedia.org/resource/Alyssa_A._Goodman	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Irwin_I._Shapiro
+Alyssa_A._Goodman	Irwin_I._Shapiro
+Alyssa_A._Goodman	hasAcademicAdvisor	Irwin_I._Shapiro
+Alyssa_A._Goodman	hasAcademicAdvisor	Irwin_I._Shapiro
+
+http://dbpedia.org/resource/Janet_Pierrehumbert	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Morris_Halle
+Janet_Pierrehumbert	Morris_Halle
+Janet_Pierrehumbert	hasAcademicAdvisor	Morris_Halle
+Janet_Pierrehumbert	hasAcademicAdvisor	Morris_Halle
+
+http://dbpedia.org/resource/Dénes_Kőnig	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Hermann_Minkowski
+Dénes_Kőnig	Hermann_Minkowski
+Dénes_Kőnig	hasAcademicAdvisor	Hermann_Minkowski
+Dénes_Kőnig	hasAcademicAdvisor	Hermann_Minkowski
+
+http://dbpedia.org/resource/Dénes_Kőnig	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Hermann_Minkowski
+Dénes_Kőnig	Hermann_Minkowski
+Dénes_Kőnig	hasAcademicAdvisor	József_Kürschák
+Dénes_Kőnig	hasAcademicAdvisor	József_Kürschák
+Dénes_Kőnig	hasAcademicAdvisor	József_Kürschák
+Dénes_Kőnig	hasAcademicAdvisor	József_Kürschák
+Dénes_Kőnig	hasAcademicAdvisor	Hermann_Minkowski
+Dénes_Kőnig	hasAcademicAdvisor	Hermann_Minkowski
+
+http://dbpedia.org/resource/Susan_B._Horwitz	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Tim_Teitelbaum
+Susan_B._Horwitz	Tim_Teitelbaum
+Susan_B._Horwitz	hasAcademicAdvisor	Tim_Teitelbaum
+Susan_B._Horwitz	hasAcademicAdvisor	Tim_Teitelbaum
+
+http://dbpedia.org/resource/Susan_B._Horwitz	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Tim_Teitelbaum
+Susan_B._Horwitz	Tim_Teitelbaum
+Susan_B._Horwitz	graduatedFrom	Wesleyan_University
+Susan_B._Horwitz	graduatedFrom	Wesleyan_University
+Susan_B._Horwitz	graduatedFrom	Wesleyan_University
+Susan_B._Horwitz	graduatedFrom	Wesleyan_University
+Susan_B._Horwitz	hasAcademicAdvisor	Tim_Teitelbaum
+Susan_B._Horwitz	hasAcademicAdvisor	Tim_Teitelbaum
+
+http://dbpedia.org/resource/John_McCarthy_(computer_scientist)	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Solomon_Lefschetz
+John_McCarthy_(computer_scientist)	Solomon_Lefschetz
+Ruzena_Bajcsy	hasAcademicAdvisor	John_McCarthy_(computer_scientist)
+Ruzena_Bajcsy	hasAcademicAdvisor	John_McCarthy_(computer_scientist)
+Ruzena_Bajcsy	hasAcademicAdvisor	John_McCarthy_(computer_scientist)
+Ruzena_Bajcsy	hasAcademicAdvisor	John_McCarthy_(computer_scientist)
+John_McCarthy_(computer_scientist)	hasAcademicAdvisor	Solomon_Lefschetz
+John_McCarthy_(computer_scientist)	hasAcademicAdvisor	Solomon_Lefschetz
+
+http://dbpedia.org/resource/John_McCarthy_(computer_scientist)	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Solomon_Lefschetz
+John_McCarthy_(computer_scientist)	Solomon_Lefschetz
+John_McCarthy_(computer_scientist)	hasAcademicAdvisor	Solomon_Lefschetz
+John_McCarthy_(computer_scientist)	hasAcademicAdvisor	Solomon_Lefschetz
+
+http://dbpedia.org/resource/John_McCarthy_(computer_scientist)	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Solomon_Lefschetz
+John_McCarthy_(computer_scientist)	Solomon_Lefschetz
+Raj_Reddy	hasAcademicAdvisor	John_McCarthy_(computer_scientist)
+Raj_Reddy	hasAcademicAdvisor	John_McCarthy_(computer_scientist)
+Raj_Reddy	hasAcademicAdvisor	John_McCarthy_(computer_scientist)
+Raj_Reddy	hasAcademicAdvisor	John_McCarthy_(computer_scientist)
+John_McCarthy_(computer_scientist)	hasAcademicAdvisor	Solomon_Lefschetz
+John_McCarthy_(computer_scientist)	hasAcademicAdvisor	Solomon_Lefschetz
+
+http://dbpedia.org/resource/David_Gross	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Geoffrey_Chew
+David_Gross	Geoffrey_Chew
+Frank_Wilczek	hasAcademicAdvisor	David_Gross
+Frank_Wilczek	hasAcademicAdvisor	David_Gross
+Frank_Wilczek	hasAcademicAdvisor	David_Gross
+Frank_Wilczek	hasAcademicAdvisor	David_Gross
+David_Gross	hasAcademicAdvisor	Geoffrey_Chew
+David_Gross	hasAcademicAdvisor	Geoffrey_Chew
+
+http://dbpedia.org/resource/David_Gross	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Geoffrey_Chew
+David_Gross	Geoffrey_Chew
+Rajesh_Gopakumar	hasAcademicAdvisor	David_Gross
+Rajesh_Gopakumar	hasAcademicAdvisor	David_Gross
+Rajesh_Gopakumar	hasAcademicAdvisor	David_Gross
+Rajesh_Gopakumar	hasAcademicAdvisor	David_Gross
+David_Gross	hasAcademicAdvisor	Geoffrey_Chew
+David_Gross	hasAcademicAdvisor	Geoffrey_Chew
+
+http://dbpedia.org/resource/David_Gross	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Geoffrey_Chew
+David_Gross	Geoffrey_Chew
+David_Gross	hasAcademicAdvisor	Geoffrey_Chew
+David_Gross	hasAcademicAdvisor	Geoffrey_Chew
+
+http://dbpedia.org/resource/David_Gross	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Geoffrey_Chew
+David_Gross	Geoffrey_Chew
+Edward_Witten	hasAcademicAdvisor	David_Gross
+Edward_Witten	hasAcademicAdvisor	David_Gross
+Edward_Witten	hasAcademicAdvisor	David_Gross
+Edward_Witten	hasAcademicAdvisor	David_Gross
+David_Gross	hasAcademicAdvisor	Geoffrey_Chew
+David_Gross	hasAcademicAdvisor	Geoffrey_Chew
+
+http://dbpedia.org/resource/Adolf_Meyer_(psychiatrist)	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Auguste_Forel
+Adolf_Meyer_(psychiatrist)	Auguste_Forel
+Auguste_Forel	influences	Adolf_Meyer_(psychiatrist)
+Adolf_Meyer_(psychiatrist)	hasAcademicAdvisor	Auguste_Forel
+Auguste_Forel	influences	Adolf_Meyer_(psychiatrist)
+Adolf_Meyer_(psychiatrist)	hasAcademicAdvisor	Auguste_Forel
+
+http://dbpedia.org/resource/Hassler_Whitney	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/George_David_Birkhoff
+Hassler_Whitney	George_David_Birkhoff
+Hassler_Whitney	diedIn	Princeton,_New_Jersey
+Hassler_Whitney	diedIn	Princeton,_New_Jersey
+Marston_Morse	diedIn	Princeton,_New_Jersey
+Marston_Morse	diedIn	Princeton,_New_Jersey
+Marston_Morse	hasAcademicAdvisor	George_David_Birkhoff
+Marston_Morse	hasAcademicAdvisor	George_David_Birkhoff
+
+http://dbpedia.org/resource/Hassler_Whitney	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/George_David_Birkhoff
+Hassler_Whitney	George_David_Birkhoff
+Hassler_Whitney	worksAt	Harvard_University
+Hassler_Whitney	worksAt	Harvard_University
+Marston_Morse	worksAt	Harvard_University
+Marston_Morse	worksAt	Harvard_University
+Marston_Morse	hasAcademicAdvisor	George_David_Birkhoff
+Marston_Morse	hasAcademicAdvisor	George_David_Birkhoff
+
+http://dbpedia.org/resource/Hassler_Whitney	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/George_David_Birkhoff
+Hassler_Whitney	George_David_Birkhoff
+Paul_Olum	hasAcademicAdvisor	Hassler_Whitney
+Paul_Olum	hasAcademicAdvisor	Hassler_Whitney
+Paul_Olum	hasAcademicAdvisor	Hassler_Whitney
+Paul_Olum	hasAcademicAdvisor	Hassler_Whitney
+Hassler_Whitney	hasAcademicAdvisor	George_David_Birkhoff
+Hassler_Whitney	hasAcademicAdvisor	George_David_Birkhoff
+
+http://dbpedia.org/resource/Hassler_Whitney	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/George_David_Birkhoff
+Hassler_Whitney	George_David_Birkhoff
+Wilfred_Kaplan	hasAcademicAdvisor	Hassler_Whitney
+Wilfred_Kaplan	hasAcademicAdvisor	Hassler_Whitney
+Wilfred_Kaplan	hasAcademicAdvisor	Hassler_Whitney
+Wilfred_Kaplan	hasAcademicAdvisor	Hassler_Whitney
+Hassler_Whitney	hasAcademicAdvisor	George_David_Birkhoff
+Hassler_Whitney	hasAcademicAdvisor	George_David_Birkhoff
+
+http://dbpedia.org/resource/Hassler_Whitney	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/George_David_Birkhoff
+Hassler_Whitney	George_David_Birkhoff
+Hassler_Whitney	hasAcademicAdvisor	George_David_Birkhoff
+Hassler_Whitney	hasAcademicAdvisor	George_David_Birkhoff
+
+http://dbpedia.org/resource/Hassler_Whitney	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/George_David_Birkhoff
+Hassler_Whitney	George_David_Birkhoff
+Hassler_Whitney	worksAt	Institute_for_Advanced_Study
+Hassler_Whitney	worksAt	Institute_for_Advanced_Study
+Marston_Morse	worksAt	Institute_for_Advanced_Study
+Marston_Morse	worksAt	Institute_for_Advanced_Study
+Marston_Morse	hasAcademicAdvisor	George_David_Birkhoff
+Marston_Morse	hasAcademicAdvisor	George_David_Birkhoff
+
+http://dbpedia.org/resource/Hassler_Whitney	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/George_David_Birkhoff
+Hassler_Whitney	George_David_Birkhoff
+Hassler_Whitney	worksAt	Princeton_University
+Hassler_Whitney	worksAt	Princeton_University
+Hassler_Whitney	worksAt	Princeton_University
+Hassler_Whitney	worksAt	Princeton_University
+Hassler_Whitney	hasAcademicAdvisor	George_David_Birkhoff
+Hassler_Whitney	hasAcademicAdvisor	George_David_Birkhoff
+
+http://dbpedia.org/resource/Hassler_Whitney	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/George_David_Birkhoff
+Hassler_Whitney	George_David_Birkhoff
+Hassler_Whitney	worksAt	Princeton_University
+Hassler_Whitney	worksAt	Princeton_University
+Robert_Daniel_Carmichael	graduatedFrom	Princeton_University
+Robert_Daniel_Carmichael	graduatedFrom	Princeton_University
+Robert_Daniel_Carmichael	hasAcademicAdvisor	George_David_Birkhoff
+Robert_Daniel_Carmichael	hasAcademicAdvisor	George_David_Birkhoff
+
+http://dbpedia.org/resource/Hassler_Whitney	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/George_David_Birkhoff
+Hassler_Whitney	George_David_Birkhoff
+Herbert_Robbins	hasAcademicAdvisor	Hassler_Whitney
+Herbert_Robbins	hasAcademicAdvisor	Hassler_Whitney
+Herbert_Robbins	hasAcademicAdvisor	Hassler_Whitney
+Herbert_Robbins	hasAcademicAdvisor	Hassler_Whitney
+Hassler_Whitney	hasAcademicAdvisor	George_David_Birkhoff
+Hassler_Whitney	hasAcademicAdvisor	George_David_Birkhoff
+
+http://dbpedia.org/resource/Hassler_Whitney	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/George_David_Birkhoff
+Hassler_Whitney	George_David_Birkhoff
+Hassler_Whitney	worksAt	National_Science_Foundation
+Hassler_Whitney	worksAt	National_Science_Foundation
+Hassler_Whitney	worksAt	National_Science_Foundation
+Hassler_Whitney	worksAt	National_Science_Foundation
+Hassler_Whitney	hasAcademicAdvisor	George_David_Birkhoff
+Hassler_Whitney	hasAcademicAdvisor	George_David_Birkhoff
+
+http://dbpedia.org/resource/Johann_Friedrich_Pfaff	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Abraham_Gotthelf_Kästner
+Johann_Friedrich_Pfaff	Abraham_Gotthelf_Kästner
+Johann_Friedrich_Pfaff	hasAcademicAdvisor	Abraham_Gotthelf_Kästner
+Johann_Friedrich_Pfaff	hasAcademicAdvisor	Abraham_Gotthelf_Kästner
+
+http://dbpedia.org/resource/Johann_Friedrich_Pfaff	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Abraham_Gotthelf_Kästner
+Johann_Friedrich_Pfaff	Abraham_Gotthelf_Kästner
+Johann_Friedrich_Pfaff	graduatedFrom	University_of_Göttingen
+Johann_Friedrich_Pfaff	graduatedFrom	University_of_Göttingen
+Johann_Friedrich_Pfaff	graduatedFrom	University_of_Göttingen
+Johann_Friedrich_Pfaff	graduatedFrom	University_of_Göttingen
+Johann_Friedrich_Pfaff	hasAcademicAdvisor	Abraham_Gotthelf_Kästner
+Johann_Friedrich_Pfaff	hasAcademicAdvisor	Abraham_Gotthelf_Kästner
+
+http://dbpedia.org/resource/Thomas_M._Cover	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Norman_Abramson
+Thomas_M._Cover	Norman_Abramson
+Thomas_M._Cover	hasAcademicAdvisor	Norman_Abramson
+Thomas_M._Cover	hasAcademicAdvisor	Norman_Abramson
+
+http://dbpedia.org/resource/G._Stanley_Hall	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/William_James
+G._Stanley_Hall	William_James
+G._Stanley_Hall	wasBornIn	Ashfield,_Massachusetts
+G._Stanley_Hall	wasBornIn	Ashfield,_Massachusetts
+G._Stanley_Hall	wasBornIn	Ashfield,_Massachusetts
+G._Stanley_Hall	wasBornIn	Ashfield,_Massachusetts
+G._Stanley_Hall	hasAcademicAdvisor	William_James
+G._Stanley_Hall	hasAcademicAdvisor	William_James
+
+http://dbpedia.org/resource/G._Stanley_Hall	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/William_James
+G._Stanley_Hall	William_James
+G._Stanley_Hall	hasAcademicAdvisor	Wilhelm_Wundt
+G._Stanley_Hall	hasAcademicAdvisor	Wilhelm_Wundt
+Gustav_Fechner	influences	Wilhelm_Wundt
+Gustav_Fechner	influences	Wilhelm_Wundt
+Gustav_Fechner	influences	William_James
+Gustav_Fechner	influences	William_James
+
+http://dbpedia.org/resource/G._Stanley_Hall	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/William_James
+G._Stanley_Hall	William_James
+G._Stanley_Hall	hasAcademicAdvisor	Wilhelm_Wundt
+G._Stanley_Hall	hasAcademicAdvisor	Wilhelm_Wundt
+G._Stanley_Hall	hasAcademicAdvisor	Wilhelm_Wundt
+G._Stanley_Hall	hasAcademicAdvisor	Wilhelm_Wundt
+G._Stanley_Hall	hasAcademicAdvisor	William_James
+G._Stanley_Hall	hasAcademicAdvisor	William_James
+
+http://dbpedia.org/resource/G._Stanley_Hall	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/William_James
+G._Stanley_Hall	William_James
+G._Stanley_Hall	hasAcademicAdvisor	William_James
+G._Stanley_Hall	hasAcademicAdvisor	William_James
+
+http://dbpedia.org/resource/Alfred_A._Marcus	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/James_Q._Wilson
+Alfred_A._Marcus	James_Q._Wilson
+Alfred_A._Marcus	worksAt	Carlson_School_of_Management
+Alfred_A._Marcus	worksAt	Carlson_School_of_Management
+Alfred_A._Marcus	worksAt	Carlson_School_of_Management
+Alfred_A._Marcus	worksAt	Carlson_School_of_Management
+Alfred_A._Marcus	hasAcademicAdvisor	James_Q._Wilson
+Alfred_A._Marcus	hasAcademicAdvisor	James_Q._Wilson
+
+http://dbpedia.org/resource/Alfred_A._Marcus	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/James_Q._Wilson
+Alfred_A._Marcus	James_Q._Wilson
+Alfred_A._Marcus	worksAt	INCAE_Business_School
+Alfred_A._Marcus	worksAt	INCAE_Business_School
+Alfred_A._Marcus	worksAt	INCAE_Business_School
+Alfred_A._Marcus	worksAt	INCAE_Business_School
+Alfred_A._Marcus	hasAcademicAdvisor	James_Q._Wilson
+Alfred_A._Marcus	hasAcademicAdvisor	James_Q._Wilson
+
+http://dbpedia.org/resource/Alfred_A._Marcus	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/James_Q._Wilson
+Alfred_A._Marcus	James_Q._Wilson
+Alfred_A._Marcus	worksAt	Technion_–_Israel_Institute_of_Technology
+Alfred_A._Marcus	worksAt	Technion_–_Israel_Institute_of_Technology
+Alfred_A._Marcus	worksAt	Technion_–_Israel_Institute_of_Technology
+Alfred_A._Marcus	worksAt	Technion_–_Israel_Institute_of_Technology
+Alfred_A._Marcus	hasAcademicAdvisor	James_Q._Wilson
+Alfred_A._Marcus	hasAcademicAdvisor	James_Q._Wilson
+
+http://dbpedia.org/resource/Alfred_A._Marcus	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/James_Q._Wilson
+Alfred_A._Marcus	James_Q._Wilson
+Alfred_A._Marcus	worksAt	University_of_Minnesota
+Alfred_A._Marcus	worksAt	University_of_Minnesota
+Alfred_A._Marcus	worksAt	University_of_Minnesota
+Alfred_A._Marcus	worksAt	University_of_Minnesota
+Alfred_A._Marcus	hasAcademicAdvisor	James_Q._Wilson
+Alfred_A._Marcus	hasAcademicAdvisor	James_Q._Wilson
+
+http://dbpedia.org/resource/Alfred_A._Marcus	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/James_Q._Wilson
+Alfred_A._Marcus	James_Q._Wilson
+Alfred_A._Marcus	hasAcademicAdvisor	James_Q._Wilson
+Alfred_A._Marcus	hasAcademicAdvisor	James_Q._Wilson
+
+http://dbpedia.org/resource/Max_von_Laue	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Planck
+Max_von_Laue	Max_Planck
+Max_von_Laue	hasAcademicAdvisor	Max_Planck
+Max_von_Laue	hasAcademicAdvisor	Max_Planck
+
+http://dbpedia.org/resource/Max_von_Laue	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Planck
+Max_von_Laue	Max_Planck
+Leo_Szilard	hasAcademicAdvisor	Max_von_Laue
+Leo_Szilard	hasAcademicAdvisor	Max_von_Laue
+Leo_Szilard	hasAcademicAdvisor	Max_von_Laue
+Leo_Szilard	hasAcademicAdvisor	Max_von_Laue
+Max_von_Laue	hasAcademicAdvisor	Max_Planck
+Max_von_Laue	hasAcademicAdvisor	Max_Planck
+
+http://dbpedia.org/resource/Max_von_Laue	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Planck
+Max_von_Laue	Max_Planck
+Friedrich_Beck	hasAcademicAdvisor	Max_von_Laue
+Friedrich_Beck	hasAcademicAdvisor	Max_von_Laue
+Friedrich_Beck	hasAcademicAdvisor	Max_von_Laue
+Friedrich_Beck	hasAcademicAdvisor	Max_von_Laue
+Max_von_Laue	hasAcademicAdvisor	Max_Planck
+Max_von_Laue	hasAcademicAdvisor	Max_Planck
+
+http://dbpedia.org/resource/Max_von_Laue	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Planck
+Max_von_Laue	Max_Planck
+Max_von_Laue	worksAt	Max_Planck_Society
+Max_von_Laue	worksAt	Max_Planck_Society
+Max_von_Laue	worksAt	Max_Planck_Society
+Max_von_Laue	worksAt	Max_Planck_Society
+Max_von_Laue	hasAcademicAdvisor	Max_Planck
+Max_von_Laue	hasAcademicAdvisor	Max_Planck
+
+http://dbpedia.org/resource/Max_von_Laue	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Planck
+Max_von_Laue	Max_Planck
+Max_von_Laue	hasAcademicAdvisor	Arnold_Sommerfeld
+Max_von_Laue	hasAcademicAdvisor	Arnold_Sommerfeld
+Max_von_Laue	hasAcademicAdvisor	Arnold_Sommerfeld
+Max_von_Laue	hasAcademicAdvisor	Arnold_Sommerfeld
+Max_von_Laue	hasAcademicAdvisor	Max_Planck
+Max_von_Laue	hasAcademicAdvisor	Max_Planck
+
+http://dbpedia.org/resource/Max_von_Laue	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Planck
+Max_von_Laue	Max_Planck
+Max_von_Laue	wasBornIn	Koblenz
+Max_von_Laue	wasBornIn	Koblenz
+Max_von_Laue	wasBornIn	Koblenz
+Max_von_Laue	wasBornIn	Koblenz
+Max_von_Laue	hasAcademicAdvisor	Max_Planck
+Max_von_Laue	hasAcademicAdvisor	Max_Planck
+
+http://dbpedia.org/resource/Fritz_Zwicky	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Paul_Scherrer
+Fritz_Zwicky	Paul_Scherrer
+Fritz_Zwicky	graduatedFrom	ETH_Zurich
+Fritz_Zwicky	graduatedFrom	ETH_Zurich
+Paul_Scherrer	worksAt	ETH_Zurich
+Paul_Scherrer	graduatedFrom	ETH_Zurich
+Paul_Scherrer	worksAt	ETH_Zurich
+Paul_Scherrer	graduatedFrom	ETH_Zurich
+
+http://dbpedia.org/resource/Fritz_Zwicky	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Paul_Scherrer
+Fritz_Zwicky	Paul_Scherrer
+Fritz_Zwicky	hasAcademicAdvisor	Paul_Scherrer
+Fritz_Zwicky	hasAcademicAdvisor	Paul_Scherrer
+
+http://dbpedia.org/resource/Fritz_Zwicky	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Paul_Scherrer
+Fritz_Zwicky	Paul_Scherrer
+Fritz_Zwicky	hasAcademicAdvisor	Peter_Debye
+Fritz_Zwicky	hasAcademicAdvisor	Peter_Debye
+Peter_Debye	worksAt	University_of_Göttingen
+Peter_Debye	worksAt	University_of_Göttingen
+Paul_Scherrer	graduatedFrom	University_of_Göttingen
+Paul_Scherrer	worksAt	University_of_Göttingen
+Paul_Scherrer	graduatedFrom	University_of_Göttingen
+Paul_Scherrer	worksAt	University_of_Göttingen
+
+http://dbpedia.org/resource/Fritz_Zwicky	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Paul_Scherrer
+Fritz_Zwicky	Paul_Scherrer
+Fritz_Zwicky	hasAcademicAdvisor	Peter_Debye
+Fritz_Zwicky	hasAcademicAdvisor	Peter_Debye
+Fritz_Zwicky	hasAcademicAdvisor	Peter_Debye
+Fritz_Zwicky	hasAcademicAdvisor	Peter_Debye
+Fritz_Zwicky	hasAcademicAdvisor	Paul_Scherrer
+Fritz_Zwicky	hasAcademicAdvisor	Paul_Scherrer
+
+http://dbpedia.org/resource/Fritz_Zwicky	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Paul_Scherrer
+Fritz_Zwicky	Paul_Scherrer
+Fritz_Zwicky	hasAcademicAdvisor	Peter_Debye
+Fritz_Zwicky	hasAcademicAdvisor	Peter_Debye
+Paul_Scherrer	hasAcademicAdvisor	Peter_Debye
+Paul_Scherrer	hasAcademicAdvisor	Peter_Debye
+
+http://dbpedia.org/resource/Rod_Crewther	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Murray_Gell-Mann
+Rod_Crewther	Murray_Gell-Mann
+Rod_Crewther	hasAcademicAdvisor	Murray_Gell-Mann
+Rod_Crewther	hasAcademicAdvisor	Murray_Gell-Mann
+
+http://dbpedia.org/resource/Rod_Crewther	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Murray_Gell-Mann
+Rod_Crewther	Murray_Gell-Mann
+Rod_Crewther	worksAt	Max_Planck_Society
+Rod_Crewther	worksAt	Max_Planck_Society
+Rod_Crewther	worksAt	Max_Planck_Society
+Rod_Crewther	worksAt	Max_Planck_Society
+Rod_Crewther	hasAcademicAdvisor	Murray_Gell-Mann
+Rod_Crewther	hasAcademicAdvisor	Murray_Gell-Mann
+
+http://dbpedia.org/resource/Rod_Crewther	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Murray_Gell-Mann
+Rod_Crewther	Murray_Gell-Mann
+Rod_Crewther	graduatedFrom	California_Institute_of_Technology
+Rod_Crewther	graduatedFrom	California_Institute_of_Technology
+Sidney_Coleman	graduatedFrom	California_Institute_of_Technology
+Sidney_Coleman	graduatedFrom	California_Institute_of_Technology
+Sidney_Coleman	hasAcademicAdvisor	Murray_Gell-Mann
+Sidney_Coleman	hasAcademicAdvisor	Murray_Gell-Mann
+
+http://dbpedia.org/resource/Rod_Crewther	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Murray_Gell-Mann
+Rod_Crewther	Murray_Gell-Mann
+Rod_Crewther	graduatedFrom	California_Institute_of_Technology
+Rod_Crewther	graduatedFrom	California_Institute_of_Technology
+Barton_Zwiebach	graduatedFrom	California_Institute_of_Technology
+Barton_Zwiebach	graduatedFrom	California_Institute_of_Technology
+Barton_Zwiebach	hasAcademicAdvisor	Murray_Gell-Mann
+Barton_Zwiebach	hasAcademicAdvisor	Murray_Gell-Mann
+
+http://dbpedia.org/resource/Rod_Crewther	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Murray_Gell-Mann
+Rod_Crewther	Murray_Gell-Mann
+Rod_Crewther	graduatedFrom	California_Institute_of_Technology
+Rod_Crewther	graduatedFrom	California_Institute_of_Technology
+Murray_Gell-Mann	worksAt	California_Institute_of_Technology
+Murray_Gell-Mann	worksAt	California_Institute_of_Technology
+
+http://dbpedia.org/resource/Rod_Crewther	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Murray_Gell-Mann
+Rod_Crewther	Murray_Gell-Mann
+Richard_Feynman	influences	Rod_Crewther
+Richard_Feynman	influences	Rod_Crewther
+Richard_Feynman	worksAt	California_Institute_of_Technology
+Richard_Feynman	worksAt	California_Institute_of_Technology
+Murray_Gell-Mann	worksAt	California_Institute_of_Technology
+Murray_Gell-Mann	worksAt	California_Institute_of_Technology
+
+http://dbpedia.org/resource/Rod_Crewther	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Murray_Gell-Mann
+Rod_Crewther	Murray_Gell-Mann
+Richard_Feynman	influences	Rod_Crewther
+Richard_Feynman	influences	Rod_Crewther
+Richard_Feynman	influences	Rod_Crewther
+Richard_Feynman	influences	Rod_Crewther
+Rod_Crewther	hasAcademicAdvisor	Murray_Gell-Mann
+Rod_Crewther	hasAcademicAdvisor	Murray_Gell-Mann
+
+http://dbpedia.org/resource/Roger_J-B_Wets	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/David_Blackwell
+Roger_J-B_Wets	David_Blackwell
+R._Tyrrell_Rockafellar	influences	Roger_J-B_Wets
+Roger_J-B_Wets	influences	R._Tyrrell_Rockafellar
+R._Tyrrell_Rockafellar	influences	Roger_J-B_Wets
+Roger_J-B_Wets	influences	R._Tyrrell_Rockafellar
+R._Tyrrell_Rockafellar	influences	Roger_J-B_Wets
+Roger_J-B_Wets	influences	R._Tyrrell_Rockafellar
+R._Tyrrell_Rockafellar	influences	Roger_J-B_Wets
+Roger_J-B_Wets	influences	R._Tyrrell_Rockafellar
+Roger_J-B_Wets	hasAcademicAdvisor	David_Blackwell
+Roger_J-B_Wets	hasAcademicAdvisor	David_Blackwell
+
+http://dbpedia.org/resource/Roger_J-B_Wets	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/David_Blackwell
+Roger_J-B_Wets	David_Blackwell
+Roger_J-B_Wets	hasAcademicAdvisor	David_Blackwell
+Roger_J-B_Wets	hasAcademicAdvisor	David_Blackwell
+
+http://dbpedia.org/resource/Roger_J-B_Wets	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/David_Blackwell
+Roger_J-B_Wets	David_Blackwell
+Roger_J-B_Wets	hasAcademicAdvisor	George_Dantzig
+Roger_J-B_Wets	hasAcademicAdvisor	George_Dantzig
+Roger_J-B_Wets	hasAcademicAdvisor	George_Dantzig
+Roger_J-B_Wets	hasAcademicAdvisor	George_Dantzig
+Roger_J-B_Wets	hasAcademicAdvisor	David_Blackwell
+Roger_J-B_Wets	hasAcademicAdvisor	David_Blackwell
+
+http://dbpedia.org/resource/Barry_Mazur	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Ralph_Fox
+Barry_Mazur	Ralph_Fox
+David_Goss	hasAcademicAdvisor	Barry_Mazur
+David_Goss	hasAcademicAdvisor	Barry_Mazur
+David_Goss	hasAcademicAdvisor	Barry_Mazur
+David_Goss	hasAcademicAdvisor	Barry_Mazur
+Barry_Mazur	hasAcademicAdvisor	Ralph_Fox
+Barry_Mazur	hasAcademicAdvisor	Ralph_Fox
+
+http://dbpedia.org/resource/Barry_Mazur	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Ralph_Fox
+Barry_Mazur	Ralph_Fox
+Jordan_Ellenberg	hasAcademicAdvisor	Barry_Mazur
+Jordan_Ellenberg	hasAcademicAdvisor	Barry_Mazur
+Jordan_Ellenberg	hasAcademicAdvisor	Barry_Mazur
+Jordan_Ellenberg	hasAcademicAdvisor	Barry_Mazur
+Barry_Mazur	hasAcademicAdvisor	Ralph_Fox
+Barry_Mazur	hasAcademicAdvisor	Ralph_Fox
+
+http://dbpedia.org/resource/Barry_Mazur	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Ralph_Fox
+Barry_Mazur	Ralph_Fox
+Noam_Elkies	hasAcademicAdvisor	Barry_Mazur
+Noam_Elkies	hasAcademicAdvisor	Barry_Mazur
+Noam_Elkies	hasAcademicAdvisor	Barry_Mazur
+Noam_Elkies	hasAcademicAdvisor	Barry_Mazur
+Barry_Mazur	hasAcademicAdvisor	Ralph_Fox
+Barry_Mazur	hasAcademicAdvisor	Ralph_Fox
+
+http://dbpedia.org/resource/Barry_Mazur	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Ralph_Fox
+Barry_Mazur	Ralph_Fox
+Daniel_Kane_(mathematician)	hasAcademicAdvisor	Barry_Mazur
+Daniel_Kane_(mathematician)	hasAcademicAdvisor	Barry_Mazur
+Daniel_Kane_(mathematician)	hasAcademicAdvisor	Barry_Mazur
+Daniel_Kane_(mathematician)	hasAcademicAdvisor	Barry_Mazur
+Barry_Mazur	hasAcademicAdvisor	Ralph_Fox
+Barry_Mazur	hasAcademicAdvisor	Ralph_Fox
+
+http://dbpedia.org/resource/Barry_Mazur	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Ralph_Fox
+Barry_Mazur	Ralph_Fox
+Barry_Mazur	hasAcademicAdvisor	Ralph_Fox
+Barry_Mazur	hasAcademicAdvisor	Ralph_Fox
+
+http://dbpedia.org/resource/Barry_Mazur	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Ralph_Fox
+Barry_Mazur	Ralph_Fox
+Minhyong_Kim	hasAcademicAdvisor	Barry_Mazur
+Minhyong_Kim	hasAcademicAdvisor	Barry_Mazur
+Minhyong_Kim	hasAcademicAdvisor	Barry_Mazur
+Minhyong_Kim	hasAcademicAdvisor	Barry_Mazur
+Barry_Mazur	hasAcademicAdvisor	Ralph_Fox
+Barry_Mazur	hasAcademicAdvisor	Ralph_Fox
+
+http://dbpedia.org/resource/Joseph_L._Walsh	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/George_David_Birkhoff
+Joseph_L._Walsh	George_David_Birkhoff
+Joseph_L._Walsh	worksAt	Harvard_University
+Joseph_L._Walsh	graduatedFrom	Harvard_University
+Joseph_L._Walsh	worksAt	Harvard_University
+Joseph_L._Walsh	graduatedFrom	Harvard_University
+Marston_Morse	worksAt	Harvard_University
+Marston_Morse	worksAt	Harvard_University
+Marston_Morse	hasAcademicAdvisor	George_David_Birkhoff
+Marston_Morse	hasAcademicAdvisor	George_David_Birkhoff
+
+http://dbpedia.org/resource/Gilbert_N._Lewis	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Theodore_William_Richards
+Gilbert_N._Lewis	Theodore_William_Richards
+Harold_Urey	hasAcademicAdvisor	Gilbert_N._Lewis
+Harold_Urey	hasAcademicAdvisor	Gilbert_N._Lewis
+Harold_Urey	hasAcademicAdvisor	Gilbert_N._Lewis
+Harold_Urey	hasAcademicAdvisor	Gilbert_N._Lewis
+Gilbert_N._Lewis	hasAcademicAdvisor	Theodore_William_Richards
+Gilbert_N._Lewis	hasAcademicAdvisor	Theodore_William_Richards
+
+http://dbpedia.org/resource/Gilbert_N._Lewis	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Theodore_William_Richards
+Gilbert_N._Lewis	Theodore_William_Richards
+Gilbert_N._Lewis	hasAcademicAdvisor	Theodore_William_Richards
+Gilbert_N._Lewis	hasAcademicAdvisor	Theodore_William_Richards
+
+http://dbpedia.org/resource/Gilbert_N._Lewis	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Theodore_William_Richards
+Gilbert_N._Lewis	Theodore_William_Richards
+Gilbert_N._Lewis	wasBornIn	Weymouth,_Massachusetts
+Gilbert_N._Lewis	wasBornIn	Weymouth,_Massachusetts
+Gilbert_N._Lewis	wasBornIn	Weymouth,_Massachusetts
+Gilbert_N._Lewis	wasBornIn	Weymouth,_Massachusetts
+Gilbert_N._Lewis	hasAcademicAdvisor	Theodore_William_Richards
+Gilbert_N._Lewis	hasAcademicAdvisor	Theodore_William_Richards
+
+http://dbpedia.org/resource/Gilbert_N._Lewis	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Theodore_William_Richards
+Gilbert_N._Lewis	Theodore_William_Richards
+Glenn_T._Seaborg	hasAcademicAdvisor	Gilbert_N._Lewis
+Glenn_T._Seaborg	hasAcademicAdvisor	Gilbert_N._Lewis
+Glenn_T._Seaborg	hasAcademicAdvisor	Gilbert_N._Lewis
+Glenn_T._Seaborg	hasAcademicAdvisor	Gilbert_N._Lewis
+Gilbert_N._Lewis	hasAcademicAdvisor	Theodore_William_Richards
+Gilbert_N._Lewis	hasAcademicAdvisor	Theodore_William_Richards
+
+http://dbpedia.org/resource/Gilbert_N._Lewis	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Theodore_William_Richards
+Gilbert_N._Lewis	Theodore_William_Richards
+Michael_Kasha	hasAcademicAdvisor	Gilbert_N._Lewis
+Michael_Kasha	hasAcademicAdvisor	Gilbert_N._Lewis
+Michael_Kasha	hasAcademicAdvisor	Gilbert_N._Lewis
+Michael_Kasha	hasAcademicAdvisor	Gilbert_N._Lewis
+Gilbert_N._Lewis	hasAcademicAdvisor	Theodore_William_Richards
+Gilbert_N._Lewis	hasAcademicAdvisor	Theodore_William_Richards
+
+http://dbpedia.org/resource/Gilbert_N._Lewis	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Theodore_William_Richards
+Gilbert_N._Lewis	Theodore_William_Richards
+Frank_Spedding	hasAcademicAdvisor	Gilbert_N._Lewis
+Frank_Spedding	hasAcademicAdvisor	Gilbert_N._Lewis
+Frank_Spedding	hasAcademicAdvisor	Gilbert_N._Lewis
+Frank_Spedding	hasAcademicAdvisor	Gilbert_N._Lewis
+Gilbert_N._Lewis	hasAcademicAdvisor	Theodore_William_Richards
+Gilbert_N._Lewis	hasAcademicAdvisor	Theodore_William_Richards
+
+http://dbpedia.org/resource/Gilbert_N._Lewis	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Theodore_William_Richards
+Gilbert_N._Lewis	Theodore_William_Richards
+Irving_Langmuir	influences	Gilbert_N._Lewis
+Irving_Langmuir	influences	Gilbert_N._Lewis
+Irving_Langmuir	influences	Gilbert_N._Lewis
+Irving_Langmuir	influences	Gilbert_N._Lewis
+Gilbert_N._Lewis	hasAcademicAdvisor	Theodore_William_Richards
+Gilbert_N._Lewis	hasAcademicAdvisor	Theodore_William_Richards
+
+http://dbpedia.org/resource/David_Siderovski	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Tak_Wah_Mak
+David_Siderovski	Tak_Wah_Mak
+David_Siderovski	hasAcademicAdvisor	Tak_Wah_Mak
+David_Siderovski	hasAcademicAdvisor	Tak_Wah_Mak
+
+http://dbpedia.org/resource/David_Siderovski	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Tak_Wah_Mak
+David_Siderovski	Tak_Wah_Mak
+David_Siderovski	graduatedFrom	University_of_Toronto
+David_Siderovski	graduatedFrom	University_of_Toronto
+David_Siderovski	graduatedFrom	University_of_Toronto
+David_Siderovski	graduatedFrom	University_of_Toronto
+David_Siderovski	hasAcademicAdvisor	Tak_Wah_Mak
+David_Siderovski	hasAcademicAdvisor	Tak_Wah_Mak
+
+http://dbpedia.org/resource/Jeff_S._Shamma	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Michael_Athans
+Jeff_S._Shamma	Michael_Athans
+Jeff_S._Shamma	worksAt	Georgia_Institute_of_Technology
+Jeff_S._Shamma	graduatedFrom	Georgia_Institute_of_Technology
+Jeff_S._Shamma	worksAt	Georgia_Institute_of_Technology
+Jeff_S._Shamma	graduatedFrom	Georgia_Institute_of_Technology
+Jeff_S._Shamma	worksAt	Georgia_Institute_of_Technology
+Jeff_S._Shamma	graduatedFrom	Georgia_Institute_of_Technology
+Jeff_S._Shamma	worksAt	Georgia_Institute_of_Technology
+Jeff_S._Shamma	graduatedFrom	Georgia_Institute_of_Technology
+Jeff_S._Shamma	hasAcademicAdvisor	Michael_Athans
+Jeff_S._Shamma	hasAcademicAdvisor	Michael_Athans
+
+http://dbpedia.org/resource/Jeff_S._Shamma	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Michael_Athans
+Jeff_S._Shamma	Michael_Athans
+Jeff_S._Shamma	hasAcademicAdvisor	Michael_Athans
+Jeff_S._Shamma	hasAcademicAdvisor	Michael_Athans
+
+http://dbpedia.org/resource/Jeff_S._Shamma	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Michael_Athans
+Jeff_S._Shamma	Michael_Athans
+Jeff_S._Shamma	livesIn	Atlanta
+Jeff_S._Shamma	livesIn	Atlanta
+Jeff_S._Shamma	livesIn	Atlanta
+Jeff_S._Shamma	livesIn	Atlanta
+Jeff_S._Shamma	hasAcademicAdvisor	Michael_Athans
+Jeff_S._Shamma	hasAcademicAdvisor	Michael_Athans
+
+http://dbpedia.org/resource/David_Bohm	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/J._Robert_Oppenheimer
+David_Bohm	J._Robert_Oppenheimer
+David_Bohm	hasAcademicAdvisor	J._Robert_Oppenheimer
+David_Bohm	hasAcademicAdvisor	J._Robert_Oppenheimer
+
+http://dbpedia.org/resource/David_Bohm	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/J._Robert_Oppenheimer
+David_Bohm	J._Robert_Oppenheimer
+David_Bohm	graduatedFrom	California_Institute_of_Technology
+David_Bohm	graduatedFrom	California_Institute_of_Technology
+J._Robert_Oppenheimer	worksAt	California_Institute_of_Technology
+J._Robert_Oppenheimer	worksAt	California_Institute_of_Technology
+
+http://dbpedia.org/resource/David_Bohm	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/J._Robert_Oppenheimer
+David_Bohm	J._Robert_Oppenheimer
+Alfred_North_Whitehead	influences	David_Bohm
+Alfred_North_Whitehead	influences	David_Bohm
+Alfred_North_Whitehead	influences	Bertrand_Russell
+Bertrand_Russell	influences	Alfred_North_Whitehead
+Alfred_North_Whitehead	influences	Bertrand_Russell
+Bertrand_Russell	influences	Alfred_North_Whitehead
+Bertrand_Russell	influences	J._Robert_Oppenheimer
+Bertrand_Russell	influences	J._Robert_Oppenheimer
+
+http://dbpedia.org/resource/David_Bohm	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/J._Robert_Oppenheimer
+David_Bohm	J._Robert_Oppenheimer
+Alfred_North_Whitehead	influences	David_Bohm
+Alfred_North_Whitehead	influences	David_Bohm
+Alfred_North_Whitehead	influences	David_Bohm
+Alfred_North_Whitehead	influences	David_Bohm
+David_Bohm	hasAcademicAdvisor	J._Robert_Oppenheimer
+David_Bohm	hasAcademicAdvisor	J._Robert_Oppenheimer
+
+http://dbpedia.org/resource/David_Bohm	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/J._Robert_Oppenheimer
+David_Bohm	J._Robert_Oppenheimer
+David_Pines	hasAcademicAdvisor	David_Bohm
+David_Pines	hasAcademicAdvisor	David_Bohm
+David_Pines	hasAcademicAdvisor	David_Bohm
+David_Pines	hasAcademicAdvisor	David_Bohm
+David_Bohm	hasAcademicAdvisor	J._Robert_Oppenheimer
+David_Bohm	hasAcademicAdvisor	J._Robert_Oppenheimer
+
+http://dbpedia.org/resource/David_Bohm	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/J._Robert_Oppenheimer
+David_Bohm	J._Robert_Oppenheimer
+Yakir_Aharonov	hasAcademicAdvisor	David_Bohm
+Yakir_Aharonov	hasAcademicAdvisor	David_Bohm
+Yakir_Aharonov	hasAcademicAdvisor	David_Bohm
+Yakir_Aharonov	hasAcademicAdvisor	David_Bohm
+David_Bohm	hasAcademicAdvisor	J._Robert_Oppenheimer
+David_Bohm	hasAcademicAdvisor	J._Robert_Oppenheimer
+
+http://dbpedia.org/resource/David_Bohm	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/J._Robert_Oppenheimer
+David_Bohm	J._Robert_Oppenheimer
+David_Bohm	isCitizenOf	Lithuania
+David_Bohm	isCitizenOf	Lithuania
+David_Bohm	isCitizenOf	Lithuania
+David_Bohm	isCitizenOf	Lithuania
+David_Bohm	hasAcademicAdvisor	J._Robert_Oppenheimer
+David_Bohm	hasAcademicAdvisor	J._Robert_Oppenheimer
+
+http://dbpedia.org/resource/David_Bohm	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/J._Robert_Oppenheimer
+David_Bohm	J._Robert_Oppenheimer
+David_Bohm	graduatedFrom	Pennsylvania_State_University
+David_Bohm	graduatedFrom	Pennsylvania_State_University
+David_Bohm	graduatedFrom	Pennsylvania_State_University
+David_Bohm	graduatedFrom	Pennsylvania_State_University
+David_Bohm	hasAcademicAdvisor	J._Robert_Oppenheimer
+David_Bohm	hasAcademicAdvisor	J._Robert_Oppenheimer
+
+http://dbpedia.org/resource/Jeff_Offutt	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Richard_DeMillo
+Jeff_Offutt	Richard_DeMillo
+Jeff_Offutt	worksAt	Clemson_University
+Jeff_Offutt	worksAt	Clemson_University
+Jeff_Offutt	worksAt	Clemson_University
+Jeff_Offutt	worksAt	Clemson_University
+Jeff_Offutt	hasAcademicAdvisor	Richard_DeMillo
+Jeff_Offutt	hasAcademicAdvisor	Richard_DeMillo
+
+http://dbpedia.org/resource/Jeff_Offutt	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Richard_DeMillo
+Jeff_Offutt	Richard_DeMillo
+Jeff_Offutt	hasAcademicAdvisor	Richard_DeMillo
+Jeff_Offutt	hasAcademicAdvisor	Richard_DeMillo
+
+http://dbpedia.org/resource/Aage_B._Sørensen	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/James_Samuel_Coleman
+Aage_B._Sørensen	James_Samuel_Coleman
+Aage_B._Sørensen	wasBornIn	Silkeborg
+Aage_B._Sørensen	wasBornIn	Silkeborg
+Aage_B._Sørensen	wasBornIn	Silkeborg
+Aage_B._Sørensen	wasBornIn	Silkeborg
+Aage_B._Sørensen	hasAcademicAdvisor	James_Samuel_Coleman
+Aage_B._Sørensen	hasAcademicAdvisor	James_Samuel_Coleman
+
+http://dbpedia.org/resource/Aage_B._Sørensen	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/James_Samuel_Coleman
+Aage_B._Sørensen	James_Samuel_Coleman
+Aage_B._Sørensen	hasAcademicAdvisor	James_Samuel_Coleman
+Aage_B._Sørensen	hasAcademicAdvisor	James_Samuel_Coleman
+
+http://dbpedia.org/resource/Aage_B._Sørensen	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/James_Samuel_Coleman
+Aage_B._Sørensen	James_Samuel_Coleman
+Aage_B._Sørensen	graduatedFrom	Johns_Hopkins_University
+Aage_B._Sørensen	graduatedFrom	Johns_Hopkins_University
+Aage_B._Sørensen	graduatedFrom	Johns_Hopkins_University
+Aage_B._Sørensen	graduatedFrom	Johns_Hopkins_University
+Aage_B._Sørensen	hasAcademicAdvisor	James_Samuel_Coleman
+Aage_B._Sørensen	hasAcademicAdvisor	James_Samuel_Coleman
+
+http://dbpedia.org/resource/John_Harsanyi	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Kenneth_Arrow
+John_Harsanyi	Kenneth_Arrow
+John_Harsanyi	hasAcademicAdvisor	Kenneth_Arrow
+Kenneth_Arrow	influences	John_Harsanyi
+John_Harsanyi	hasAcademicAdvisor	Kenneth_Arrow
+Kenneth_Arrow	influences	John_Harsanyi
+
+http://dbpedia.org/resource/Steven_G._Krantz	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Elias_M._Stein
+Steven_G._Krantz	Elias_M._Stein
+Steven_G._Krantz	graduatedFrom	Princeton_University
+Steven_G._Krantz	graduatedFrom	Princeton_University
+Sundaram_Thangavelu	graduatedFrom	Princeton_University
+Sundaram_Thangavelu	graduatedFrom	Princeton_University
+Sundaram_Thangavelu	hasAcademicAdvisor	Elias_M._Stein
+Sundaram_Thangavelu	hasAcademicAdvisor	Elias_M._Stein
+
+http://dbpedia.org/resource/Steven_G._Krantz	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Elias_M._Stein
+Steven_G._Krantz	Elias_M._Stein
+Steven_G._Krantz	wasBornIn	San_Francisco
+Steven_G._Krantz	wasBornIn	San_Francisco
+Steven_G._Krantz	wasBornIn	San_Francisco
+Steven_G._Krantz	wasBornIn	San_Francisco
+Steven_G._Krantz	hasAcademicAdvisor	Elias_M._Stein
+Steven_G._Krantz	hasAcademicAdvisor	Elias_M._Stein
+
+http://dbpedia.org/resource/Steven_G._Krantz	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Elias_M._Stein
+Steven_G._Krantz	Elias_M._Stein
+Steven_G._Krantz	hasAcademicAdvisor	Elias_M._Stein
+Steven_G._Krantz	hasAcademicAdvisor	Elias_M._Stein
+
+http://dbpedia.org/resource/Jacob_Lurie	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Michael_J._Hopkins
+Jacob_Lurie	Michael_J._Hopkins
+Jacob_Lurie	graduatedFrom	Harvard_College
+Jacob_Lurie	graduatedFrom	Harvard_College
+Jacob_Lurie	graduatedFrom	Harvard_College
+Jacob_Lurie	graduatedFrom	Harvard_College
+Jacob_Lurie	hasAcademicAdvisor	Michael_J._Hopkins
+Jacob_Lurie	hasAcademicAdvisor	Michael_J._Hopkins
+
+http://dbpedia.org/resource/Jacob_Lurie	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Michael_J._Hopkins
+Jacob_Lurie	Michael_J._Hopkins
+Jacob_Lurie	hasAcademicAdvisor	Michael_J._Hopkins
+Jacob_Lurie	hasAcademicAdvisor	Michael_J._Hopkins
+
+http://dbpedia.org/resource/Guido_Castelnuovo	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Giuseppe_Veronese
+Guido_Castelnuovo	Giuseppe_Veronese
+Oscar_Zariski	hasAcademicAdvisor	Guido_Castelnuovo
+Oscar_Zariski	hasAcademicAdvisor	Guido_Castelnuovo
+Oscar_Zariski	hasAcademicAdvisor	Guido_Castelnuovo
+Oscar_Zariski	hasAcademicAdvisor	Guido_Castelnuovo
+Guido_Castelnuovo	hasAcademicAdvisor	Giuseppe_Veronese
+Guido_Castelnuovo	hasAcademicAdvisor	Giuseppe_Veronese
+
+http://dbpedia.org/resource/Guido_Castelnuovo	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Giuseppe_Veronese
+Guido_Castelnuovo	Giuseppe_Veronese
+Federigo_Enriques	hasAcademicAdvisor	Guido_Castelnuovo
+Federigo_Enriques	hasAcademicAdvisor	Guido_Castelnuovo
+Federigo_Enriques	hasAcademicAdvisor	Guido_Castelnuovo
+Federigo_Enriques	hasAcademicAdvisor	Guido_Castelnuovo
+Guido_Castelnuovo	hasAcademicAdvisor	Giuseppe_Veronese
+Guido_Castelnuovo	hasAcademicAdvisor	Giuseppe_Veronese
+
+http://dbpedia.org/resource/Guido_Castelnuovo	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Giuseppe_Veronese
+Guido_Castelnuovo	Giuseppe_Veronese
+Guido_Castelnuovo	hasAcademicAdvisor	Giuseppe_Veronese
+Guido_Castelnuovo	hasAcademicAdvisor	Giuseppe_Veronese
+
+http://dbpedia.org/resource/Guido_Castelnuovo	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Giuseppe_Veronese
+Guido_Castelnuovo	Giuseppe_Veronese
+Guido_Castelnuovo	worksAt	Sapienza_University_of_Rome
+Guido_Castelnuovo	worksAt	Sapienza_University_of_Rome
+Guido_Castelnuovo	worksAt	Sapienza_University_of_Rome
+Guido_Castelnuovo	worksAt	Sapienza_University_of_Rome
+Guido_Castelnuovo	hasAcademicAdvisor	Giuseppe_Veronese
+Guido_Castelnuovo	hasAcademicAdvisor	Giuseppe_Veronese
+
+http://dbpedia.org/resource/Hidehiko_Yamabe	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Hidehiko_Yamabe	Shokichi_Iyanaga
+Hidehiko_Yamabe	diedIn	Evanston,_Illinois
+Hidehiko_Yamabe	diedIn	Evanston,_Illinois
+Hidehiko_Yamabe	diedIn	Evanston,_Illinois
+Hidehiko_Yamabe	diedIn	Evanston,_Illinois
+Hidehiko_Yamabe	hasAcademicAdvisor	Shokichi_Iyanaga
+Hidehiko_Yamabe	hasAcademicAdvisor	Shokichi_Iyanaga
+
+http://dbpedia.org/resource/Hidehiko_Yamabe	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Hidehiko_Yamabe	Shokichi_Iyanaga
+Hidehiko_Yamabe	worksAt	Princeton_University
+Hidehiko_Yamabe	worksAt	Princeton_University
+Kenkichi_Iwasawa	worksAt	Princeton_University
+Kenkichi_Iwasawa	worksAt	Princeton_University
+Kenkichi_Iwasawa	hasAcademicAdvisor	Shokichi_Iyanaga
+Kenkichi_Iwasawa	hasAcademicAdvisor	Shokichi_Iyanaga
+
+http://dbpedia.org/resource/Hidehiko_Yamabe	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Hidehiko_Yamabe	Shokichi_Iyanaga
+Hidehiko_Yamabe	hasAcademicAdvisor	Shokichi_Iyanaga
+Hidehiko_Yamabe	hasAcademicAdvisor	Shokichi_Iyanaga
+
+http://dbpedia.org/resource/Hidehiko_Yamabe	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Hidehiko_Yamabe	Shokichi_Iyanaga
+Hidehiko_Yamabe	worksAt	University_of_Minnesota
+Hidehiko_Yamabe	worksAt	University_of_Minnesota
+Hidehiko_Yamabe	worksAt	University_of_Minnesota
+Hidehiko_Yamabe	worksAt	University_of_Minnesota
+Hidehiko_Yamabe	hasAcademicAdvisor	Shokichi_Iyanaga
+Hidehiko_Yamabe	hasAcademicAdvisor	Shokichi_Iyanaga
+
+http://dbpedia.org/resource/Hidehiko_Yamabe	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Hidehiko_Yamabe	Shokichi_Iyanaga
+Hidehiko_Yamabe	graduatedFrom	University_of_Tokyo
+Hidehiko_Yamabe	graduatedFrom	University_of_Tokyo
+Kunihiko_Kodaira	graduatedFrom	University_of_Tokyo
+Kunihiko_Kodaira	worksAt	University_of_Tokyo
+Kunihiko_Kodaira	graduatedFrom	University_of_Tokyo
+Kunihiko_Kodaira	worksAt	University_of_Tokyo
+Kunihiko_Kodaira	hasAcademicAdvisor	Shokichi_Iyanaga
+Kunihiko_Kodaira	hasAcademicAdvisor	Shokichi_Iyanaga
+
+http://dbpedia.org/resource/Hidehiko_Yamabe	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Hidehiko_Yamabe	Shokichi_Iyanaga
+Hidehiko_Yamabe	graduatedFrom	University_of_Tokyo
+Hidehiko_Yamabe	graduatedFrom	University_of_Tokyo
+Michio_Suzuki	graduatedFrom	University_of_Tokyo
+Michio_Suzuki	graduatedFrom	University_of_Tokyo
+Michio_Suzuki	hasAcademicAdvisor	Shokichi_Iyanaga
+Michio_Suzuki	hasAcademicAdvisor	Shokichi_Iyanaga
+
+http://dbpedia.org/resource/Hidehiko_Yamabe	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Hidehiko_Yamabe	Shokichi_Iyanaga
+Hidehiko_Yamabe	graduatedFrom	University_of_Tokyo
+Hidehiko_Yamabe	graduatedFrom	University_of_Tokyo
+Kiyosi_Itô	graduatedFrom	University_of_Tokyo
+Kiyosi_Itô	graduatedFrom	University_of_Tokyo
+Kiyosi_Itô	hasAcademicAdvisor	Shokichi_Iyanaga
+Kiyosi_Itô	hasAcademicAdvisor	Shokichi_Iyanaga
+
+http://dbpedia.org/resource/Hidehiko_Yamabe	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Hidehiko_Yamabe	Shokichi_Iyanaga
+Hidehiko_Yamabe	graduatedFrom	University_of_Tokyo
+Hidehiko_Yamabe	graduatedFrom	University_of_Tokyo
+Hidehiko_Yamabe	graduatedFrom	University_of_Tokyo
+Hidehiko_Yamabe	graduatedFrom	University_of_Tokyo
+Hidehiko_Yamabe	hasAcademicAdvisor	Shokichi_Iyanaga
+Hidehiko_Yamabe	hasAcademicAdvisor	Shokichi_Iyanaga
+
+http://dbpedia.org/resource/Hidehiko_Yamabe	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Hidehiko_Yamabe	Shokichi_Iyanaga
+Hidehiko_Yamabe	graduatedFrom	University_of_Tokyo
+Hidehiko_Yamabe	graduatedFrom	University_of_Tokyo
+Hirofumi_Uzawa	graduatedFrom	University_of_Tokyo
+Hirofumi_Uzawa	graduatedFrom	University_of_Tokyo
+Shokichi_Iyanaga	influences	Hirofumi_Uzawa
+Shokichi_Iyanaga	influences	Hirofumi_Uzawa
+
+http://dbpedia.org/resource/Hidehiko_Yamabe	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Hidehiko_Yamabe	Shokichi_Iyanaga
+Hidehiko_Yamabe	graduatedFrom	University_of_Tokyo
+Hidehiko_Yamabe	graduatedFrom	University_of_Tokyo
+Mikio_Sato	graduatedFrom	University_of_Tokyo
+Mikio_Sato	graduatedFrom	University_of_Tokyo
+Mikio_Sato	hasAcademicAdvisor	Shokichi_Iyanaga
+Mikio_Sato	hasAcademicAdvisor	Shokichi_Iyanaga
+
+http://dbpedia.org/resource/Geoffrey_Chew	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Enrico_Fermi
+Geoffrey_Chew	Enrico_Fermi
+Geoffrey_Chew	hasAcademicAdvisor	Enrico_Fermi
+Geoffrey_Chew	hasAcademicAdvisor	Enrico_Fermi
+
+http://dbpedia.org/resource/Geoffrey_Chew	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Enrico_Fermi
+Geoffrey_Chew	Enrico_Fermi
+David_Gross	hasAcademicAdvisor	Geoffrey_Chew
+David_Gross	hasAcademicAdvisor	Geoffrey_Chew
+David_Gross	hasAcademicAdvisor	Geoffrey_Chew
+David_Gross	hasAcademicAdvisor	Geoffrey_Chew
+Geoffrey_Chew	hasAcademicAdvisor	Enrico_Fermi
+Geoffrey_Chew	hasAcademicAdvisor	Enrico_Fermi
+
+http://dbpedia.org/resource/Geoffrey_Chew	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Enrico_Fermi
+Geoffrey_Chew	Enrico_Fermi
+John_Henry_Schwarz	hasAcademicAdvisor	Geoffrey_Chew
+John_Henry_Schwarz	hasAcademicAdvisor	Geoffrey_Chew
+John_Henry_Schwarz	hasAcademicAdvisor	Geoffrey_Chew
+John_Henry_Schwarz	hasAcademicAdvisor	Geoffrey_Chew
+Geoffrey_Chew	hasAcademicAdvisor	Enrico_Fermi
+Geoffrey_Chew	hasAcademicAdvisor	Enrico_Fermi
+
+http://dbpedia.org/resource/Wilhelm_Blaschke	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Wilhelm_Wirtinger
+Wilhelm_Blaschke	Wilhelm_Wirtinger
+Wilhelm_Blaschke	hasAcademicAdvisor	Wilhelm_Wirtinger
+Wilhelm_Blaschke	hasAcademicAdvisor	Wilhelm_Wirtinger
+
+http://dbpedia.org/resource/Wilhelm_Blaschke	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Wilhelm_Wirtinger
+Wilhelm_Blaschke	Wilhelm_Wirtinger
+Luis_Santaló	hasAcademicAdvisor	Wilhelm_Blaschke
+Luis_Santaló	hasAcademicAdvisor	Wilhelm_Blaschke
+Luis_Santaló	hasAcademicAdvisor	Wilhelm_Blaschke
+Luis_Santaló	hasAcademicAdvisor	Wilhelm_Blaschke
+Wilhelm_Blaschke	hasAcademicAdvisor	Wilhelm_Wirtinger
+Wilhelm_Blaschke	hasAcademicAdvisor	Wilhelm_Wirtinger
+
+http://dbpedia.org/resource/Wilhelm_Blaschke	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Wilhelm_Wirtinger
+Wilhelm_Blaschke	Wilhelm_Wirtinger
+Shiing-Shen_Chern	hasAcademicAdvisor	Wilhelm_Blaschke
+Shiing-Shen_Chern	hasAcademicAdvisor	Wilhelm_Blaschke
+Shiing-Shen_Chern	hasAcademicAdvisor	Wilhelm_Blaschke
+Shiing-Shen_Chern	hasAcademicAdvisor	Wilhelm_Blaschke
+Wilhelm_Blaschke	hasAcademicAdvisor	Wilhelm_Wirtinger
+Wilhelm_Blaschke	hasAcademicAdvisor	Wilhelm_Wirtinger
+
+http://dbpedia.org/resource/Carl_Friedrich_Gauss	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Johann_Friedrich_Pfaff
+Carl_Friedrich_Gauss	Johann_Friedrich_Pfaff
+Carl_Friedrich_Gauss	worksAt	University_of_Göttingen
+Carl_Friedrich_Gauss	graduatedFrom	University_of_Göttingen
+Carl_Friedrich_Gauss	worksAt	University_of_Göttingen
+Carl_Friedrich_Gauss	graduatedFrom	University_of_Göttingen
+Johann_Friedrich_Pfaff	graduatedFrom	University_of_Göttingen
+Johann_Friedrich_Pfaff	graduatedFrom	University_of_Göttingen
+
+http://dbpedia.org/resource/Bernard_Koopman	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/George_David_Birkhoff
+Bernard_Koopman	George_David_Birkhoff
+Bernard_Koopman	diedIn	Randolph,_New_Hampshire
+Bernard_Koopman	diedIn	Randolph,_New_Hampshire
+Bernard_Koopman	diedIn	Randolph,_New_Hampshire
+Bernard_Koopman	diedIn	Randolph,_New_Hampshire
+Bernard_Koopman	hasAcademicAdvisor	George_David_Birkhoff
+Bernard_Koopman	hasAcademicAdvisor	George_David_Birkhoff
+
+http://dbpedia.org/resource/Bernard_Koopman	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/George_David_Birkhoff
+Bernard_Koopman	George_David_Birkhoff
+Bernard_Koopman	graduatedFrom	Harvard_University
+Bernard_Koopman	graduatedFrom	Harvard_University
+Marston_Morse	worksAt	Harvard_University
+Marston_Morse	worksAt	Harvard_University
+Marston_Morse	hasAcademicAdvisor	George_David_Birkhoff
+Marston_Morse	hasAcademicAdvisor	George_David_Birkhoff
+
+http://dbpedia.org/resource/Bernard_Koopman	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/George_David_Birkhoff
+Bernard_Koopman	George_David_Birkhoff
+Francis_Joseph_Murray	hasAcademicAdvisor	Bernard_Koopman
+Francis_Joseph_Murray	hasAcademicAdvisor	Bernard_Koopman
+Francis_Joseph_Murray	hasAcademicAdvisor	Bernard_Koopman
+Francis_Joseph_Murray	hasAcademicAdvisor	Bernard_Koopman
+Bernard_Koopman	hasAcademicAdvisor	George_David_Birkhoff
+Bernard_Koopman	hasAcademicAdvisor	George_David_Birkhoff
+
+http://dbpedia.org/resource/Bernard_Koopman	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/George_David_Birkhoff
+Bernard_Koopman	George_David_Birkhoff
+Bernard_Koopman	hasAcademicAdvisor	George_David_Birkhoff
+Bernard_Koopman	hasAcademicAdvisor	George_David_Birkhoff
+
+http://dbpedia.org/resource/Jerzy_Neyman	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Wacław_Sierpiński
+Jerzy_Neyman	Wacław_Sierpiński
+Jerzy_Neyman	influences	Abraham_Wald
+Jerzy_Neyman	influences	Abraham_Wald
+Jerzy_Neyman	influences	Abraham_Wald
+Jerzy_Neyman	influences	Abraham_Wald
+Jerzy_Neyman	hasAcademicAdvisor	Wacław_Sierpiński
+Jerzy_Neyman	hasAcademicAdvisor	Wacław_Sierpiński
+
+http://dbpedia.org/resource/Jerzy_Neyman	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Wacław_Sierpiński
+Jerzy_Neyman	Wacław_Sierpiński
+Jerzy_Neyman	hasAcademicAdvisor	Wacław_Sierpiński
+Jerzy_Neyman	hasAcademicAdvisor	Wacław_Sierpiński
+
+http://dbpedia.org/resource/Jerzy_Neyman	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Wacław_Sierpiński
+Jerzy_Neyman	Wacław_Sierpiński
+Jerzy_Neyman	wasBornIn	Bender,_Moldova
+Jerzy_Neyman	wasBornIn	Bender,_Moldova
+Jerzy_Neyman	wasBornIn	Bender,_Moldova
+Jerzy_Neyman	wasBornIn	Bender,_Moldova
+Jerzy_Neyman	hasAcademicAdvisor	Wacław_Sierpiński
+Jerzy_Neyman	hasAcademicAdvisor	Wacław_Sierpiński
+
+http://dbpedia.org/resource/Jerzy_Neyman	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Wacław_Sierpiński
+Jerzy_Neyman	Wacław_Sierpiński
+Erich_Leo_Lehmann	hasAcademicAdvisor	Jerzy_Neyman
+Erich_Leo_Lehmann	hasAcademicAdvisor	Jerzy_Neyman
+Erich_Leo_Lehmann	hasAcademicAdvisor	Jerzy_Neyman
+Erich_Leo_Lehmann	hasAcademicAdvisor	Jerzy_Neyman
+Jerzy_Neyman	hasAcademicAdvisor	Wacław_Sierpiński
+Jerzy_Neyman	hasAcademicAdvisor	Wacław_Sierpiński
+
+http://dbpedia.org/resource/Jerzy_Neyman	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Wacław_Sierpiński
+Jerzy_Neyman	Wacław_Sierpiński
+George_Dantzig	hasAcademicAdvisor	Jerzy_Neyman
+George_Dantzig	hasAcademicAdvisor	Jerzy_Neyman
+George_Dantzig	hasAcademicAdvisor	Jerzy_Neyman
+George_Dantzig	hasAcademicAdvisor	Jerzy_Neyman
+Jerzy_Neyman	hasAcademicAdvisor	Wacław_Sierpiński
+Jerzy_Neyman	hasAcademicAdvisor	Wacław_Sierpiński
+
+http://dbpedia.org/resource/Jerzy_Neyman	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Wacław_Sierpiński
+Jerzy_Neyman	Wacław_Sierpiński
+Jerzy_Neyman	graduatedFrom	National_University_of_Kharkiv
+Jerzy_Neyman	graduatedFrom	National_University_of_Kharkiv
+Jerzy_Neyman	graduatedFrom	National_University_of_Kharkiv
+Jerzy_Neyman	graduatedFrom	National_University_of_Kharkiv
+Jerzy_Neyman	hasAcademicAdvisor	Wacław_Sierpiński
+Jerzy_Neyman	hasAcademicAdvisor	Wacław_Sierpiński
+
+http://dbpedia.org/resource/Aristid_von_Grosse	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Otto_Hahn
+Aristid_von_Grosse	Otto_Hahn
+Aristid_von_Grosse	diedIn	Laguna_Hills,_California
+Aristid_von_Grosse	diedIn	Laguna_Hills,_California
+Aristid_von_Grosse	diedIn	Laguna_Hills,_California
+Aristid_von_Grosse	diedIn	Laguna_Hills,_California
+Aristid_von_Grosse	hasAcademicAdvisor	Otto_Hahn
+Aristid_von_Grosse	hasAcademicAdvisor	Otto_Hahn
+
+http://dbpedia.org/resource/Aristid_von_Grosse	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Otto_Hahn
+Aristid_von_Grosse	Otto_Hahn
+Aristid_von_Grosse	hasAcademicAdvisor	Otto_Hahn
+Aristid_von_Grosse	hasAcademicAdvisor	Otto_Hahn
+
+http://dbpedia.org/resource/Boyce_McDaniel	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Robert_Bacher
+Boyce_McDaniel	Robert_Bacher
+Boyce_McDaniel	hasAcademicAdvisor	Robert_Bacher
+Boyce_McDaniel	hasAcademicAdvisor	Robert_Bacher
+
+http://dbpedia.org/resource/Boyce_McDaniel	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Robert_Bacher
+Boyce_McDaniel	Robert_Bacher
+Boyce_McDaniel	wasBornIn	Brevard,_North_Carolina
+Boyce_McDaniel	wasBornIn	Brevard,_North_Carolina
+Boyce_McDaniel	wasBornIn	Brevard,_North_Carolina
+Boyce_McDaniel	wasBornIn	Brevard,_North_Carolina
+Boyce_McDaniel	hasAcademicAdvisor	Robert_Bacher
+Boyce_McDaniel	hasAcademicAdvisor	Robert_Bacher
+
+http://dbpedia.org/resource/Boyce_McDaniel	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Robert_Bacher
+Boyce_McDaniel	Robert_Bacher
+Boyce_McDaniel	diedIn	Ithaca
+Boyce_McDaniel	diedIn	Ithaca
+Boyce_McDaniel	diedIn	Ithaca
+Boyce_McDaniel	diedIn	Ithaca
+Boyce_McDaniel	hasAcademicAdvisor	Robert_Bacher
+Boyce_McDaniel	hasAcademicAdvisor	Robert_Bacher
+
+http://dbpedia.org/resource/Boyce_McDaniel	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Robert_Bacher
+Boyce_McDaniel	Robert_Bacher
+Boyce_McDaniel	graduatedFrom	Case_Western_Reserve_University
+Boyce_McDaniel	graduatedFrom	Case_Western_Reserve_University
+Boyce_McDaniel	graduatedFrom	Case_Western_Reserve_University
+Boyce_McDaniel	graduatedFrom	Case_Western_Reserve_University
+Boyce_McDaniel	hasAcademicAdvisor	Robert_Bacher
+Boyce_McDaniel	hasAcademicAdvisor	Robert_Bacher
+
+http://dbpedia.org/resource/Boyce_McDaniel	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Robert_Bacher
+Boyce_McDaniel	Robert_Bacher
+Boyce_McDaniel	worksAt	Massachusetts_Institute_of_Technology
+Boyce_McDaniel	worksAt	Massachusetts_Institute_of_Technology
+Boyce_McDaniel	worksAt	Massachusetts_Institute_of_Technology
+Boyce_McDaniel	worksAt	Massachusetts_Institute_of_Technology
+Boyce_McDaniel	hasAcademicAdvisor	Robert_Bacher
+Boyce_McDaniel	hasAcademicAdvisor	Robert_Bacher
+
+http://dbpedia.org/resource/Rajesh_Gopakumar	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/David_Gross
+Rajesh_Gopakumar	David_Gross
+Rajesh_Gopakumar	worksAt	Institute_for_Advanced_Study
+Rajesh_Gopakumar	worksAt	Institute_for_Advanced_Study
+Edward_Witten	worksAt	Institute_for_Advanced_Study
+Edward_Witten	worksAt	Institute_for_Advanced_Study
+Edward_Witten	hasAcademicAdvisor	David_Gross
+Edward_Witten	hasAcademicAdvisor	David_Gross
+
+http://dbpedia.org/resource/Rajesh_Gopakumar	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/David_Gross
+Rajesh_Gopakumar	David_Gross
+Rajesh_Gopakumar	hasAcademicAdvisor	David_Gross
+Rajesh_Gopakumar	hasAcademicAdvisor	David_Gross
+
+http://dbpedia.org/resource/Adrian_Bird	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Birnstiel
+Adrian_Bird	Max_Birnstiel
+John_Kendrew	influences	Adrian_Bird
+John_Kendrew	influences	Adrian_Bird
+John_Kendrew	influences	Adrian_Bird
+John_Kendrew	influences	Adrian_Bird
+Adrian_Bird	hasAcademicAdvisor	Max_Birnstiel
+Adrian_Bird	hasAcademicAdvisor	Max_Birnstiel
+
+http://dbpedia.org/resource/Adrian_Bird	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Birnstiel
+Adrian_Bird	Max_Birnstiel
+C._H._Waddington	influences	Adrian_Bird
+C._H._Waddington	influences	Adrian_Bird
+C._H._Waddington	influences	Adrian_Bird
+C._H._Waddington	influences	Adrian_Bird
+Adrian_Bird	hasAcademicAdvisor	Max_Birnstiel
+Adrian_Bird	hasAcademicAdvisor	Max_Birnstiel
+
+http://dbpedia.org/resource/Adrian_Bird	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Birnstiel
+Adrian_Bird	Max_Birnstiel
+Adrian_Bird	hasAcademicAdvisor	Max_Birnstiel
+Adrian_Bird	hasAcademicAdvisor	Max_Birnstiel
+
+http://dbpedia.org/resource/Adrian_Bird	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Birnstiel
+Adrian_Bird	Max_Birnstiel
+Adrian_Bird	worksAt	University_of_Zurich
+Adrian_Bird	worksAt	University_of_Zurich
+Adrian_Bird	worksAt	University_of_Zurich
+Adrian_Bird	worksAt	University_of_Zurich
+Adrian_Bird	hasAcademicAdvisor	Max_Birnstiel
+Adrian_Bird	hasAcademicAdvisor	Max_Birnstiel
+
+http://dbpedia.org/resource/Hans_Kramers	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Paul_Ehrenfest
+Hans_Kramers	Paul_Ehrenfest
+Hans_Kramers	hasAcademicAdvisor	Paul_Ehrenfest
+Hans_Kramers	hasAcademicAdvisor	Paul_Ehrenfest
+
+http://dbpedia.org/resource/Hans_Kramers	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Paul_Ehrenfest
+Hans_Kramers	Paul_Ehrenfest
+Tjalling_Koopmans	hasAcademicAdvisor	Hans_Kramers
+Tjalling_Koopmans	hasAcademicAdvisor	Hans_Kramers
+Tjalling_Koopmans	hasAcademicAdvisor	Hans_Kramers
+Tjalling_Koopmans	hasAcademicAdvisor	Hans_Kramers
+Hans_Kramers	hasAcademicAdvisor	Paul_Ehrenfest
+Hans_Kramers	hasAcademicAdvisor	Paul_Ehrenfest
+
+http://dbpedia.org/resource/Hans_Kramers	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Paul_Ehrenfest
+Hans_Kramers	Paul_Ehrenfest
+Tjalling_Koopmans	hasAcademicAdvisor	Hans_Kramers
+Tjalling_Koopmans	hasAcademicAdvisor	Hans_Kramers
+Tjalling_Koopmans	hasAcademicAdvisor	Jan_Tinbergen
+Tjalling_Koopmans	hasAcademicAdvisor	Jan_Tinbergen
+Jan_Tinbergen	hasAcademicAdvisor	Paul_Ehrenfest
+Jan_Tinbergen	hasAcademicAdvisor	Paul_Ehrenfest
+
+http://dbpedia.org/resource/Hans_Kramers	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Paul_Ehrenfest
+Hans_Kramers	Paul_Ehrenfest
+Robert_Bruce_Lindsay	hasAcademicAdvisor	Hans_Kramers
+Robert_Bruce_Lindsay	hasAcademicAdvisor	Hans_Kramers
+Robert_Bruce_Lindsay	hasAcademicAdvisor	Hans_Kramers
+Robert_Bruce_Lindsay	hasAcademicAdvisor	Hans_Kramers
+Hans_Kramers	hasAcademicAdvisor	Paul_Ehrenfest
+Hans_Kramers	hasAcademicAdvisor	Paul_Ehrenfest
+
+http://dbpedia.org/resource/Donald_J._Newman	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Joseph_L._Walsh
+Donald_J._Newman	Joseph_L._Walsh
+Donald_J._Newman	graduatedFrom	Harvard_University
+Donald_J._Newman	graduatedFrom	Harvard_University
+Joseph_L._Doob	graduatedFrom	Harvard_University
+Joseph_L._Doob	graduatedFrom	Harvard_University
+Joseph_L._Doob	hasAcademicAdvisor	Joseph_L._Walsh
+Joseph_L._Doob	hasAcademicAdvisor	Joseph_L._Walsh
+
+http://dbpedia.org/resource/Donald_J._Newman	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Joseph_L._Walsh
+Donald_J._Newman	Joseph_L._Walsh
+Donald_J._Newman	hasAcademicAdvisor	Joseph_L._Walsh
+Donald_J._Newman	hasAcademicAdvisor	Joseph_L._Walsh
+
+http://dbpedia.org/resource/Chia-Chiao_Lin	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Theodore_von_Kármán
+Chia-Chiao_Lin	Theodore_von_Kármán
+Chia-Chiao_Lin	hasAcademicAdvisor	Theodore_von_Kármán
+Chia-Chiao_Lin	hasAcademicAdvisor	Theodore_von_Kármán
+
+http://dbpedia.org/resource/Chia-Chiao_Lin	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Theodore_von_Kármán
+Chia-Chiao_Lin	Theodore_von_Kármán
+Lee_Segel	hasAcademicAdvisor	Chia-Chiao_Lin
+Lee_Segel	hasAcademicAdvisor	Chia-Chiao_Lin
+Lee_Segel	hasAcademicAdvisor	Chia-Chiao_Lin
+Lee_Segel	hasAcademicAdvisor	Chia-Chiao_Lin
+Chia-Chiao_Lin	hasAcademicAdvisor	Theodore_von_Kármán
+Chia-Chiao_Lin	hasAcademicAdvisor	Theodore_von_Kármán
+
+http://dbpedia.org/resource/K._R._Parthasarathy_(probabilist)	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/C._R._Rao
+K._R._Parthasarathy_(probabilist)	C._R._Rao
+K._R._Parthasarathy_(probabilist)	hasAcademicAdvisor	C._R._Rao
+K._R._Parthasarathy_(probabilist)	hasAcademicAdvisor	C._R._Rao
+
+http://dbpedia.org/resource/K._R._Parthasarathy_(probabilist)	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/C._R._Rao
+K._R._Parthasarathy_(probabilist)	C._R._Rao
+K._R._Parthasarathy_(probabilist)	graduatedFrom	Ramakrishna_Mission_Vivekananda_College
+K._R._Parthasarathy_(probabilist)	graduatedFrom	Ramakrishna_Mission_Vivekananda_College
+K._R._Parthasarathy_(probabilist)	graduatedFrom	Ramakrishna_Mission_Vivekananda_College
+K._R._Parthasarathy_(probabilist)	graduatedFrom	Ramakrishna_Mission_Vivekananda_College
+K._R._Parthasarathy_(probabilist)	hasAcademicAdvisor	C._R._Rao
+K._R._Parthasarathy_(probabilist)	hasAcademicAdvisor	C._R._Rao
+
+http://dbpedia.org/resource/K._R._Parthasarathy_(probabilist)	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/C._R._Rao
+K._R._Parthasarathy_(probabilist)	C._R._Rao
+K._R._Parthasarathy_(probabilist)	worksAt	Indian_Statistical_Institute
+K._R._Parthasarathy_(probabilist)	worksAt	Indian_Statistical_Institute
+S._R._Srinivasa_Varadhan	graduatedFrom	Indian_Statistical_Institute
+S._R._Srinivasa_Varadhan	graduatedFrom	Indian_Statistical_Institute
+S._R._Srinivasa_Varadhan	hasAcademicAdvisor	C._R._Rao
+S._R._Srinivasa_Varadhan	hasAcademicAdvisor	C._R._Rao
+
+http://dbpedia.org/resource/Hermann_Kolbe	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Robert_Bunsen
+Hermann_Kolbe	Robert_Bunsen
+Jacob_Volhard	hasAcademicAdvisor	Hermann_Kolbe
+Jacob_Volhard	hasAcademicAdvisor	Hermann_Kolbe
+Jacob_Volhard	hasAcademicAdvisor	Hermann_Kolbe
+Jacob_Volhard	hasAcademicAdvisor	Hermann_Kolbe
+Hermann_Kolbe	hasAcademicAdvisor	Robert_Bunsen
+Hermann_Kolbe	hasAcademicAdvisor	Robert_Bunsen
+
+http://dbpedia.org/resource/Hermann_Kolbe	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Robert_Bunsen
+Hermann_Kolbe	Robert_Bunsen
+Hermann_Kolbe	hasAcademicAdvisor	Friedrich_Wöhler
+Hermann_Kolbe	hasAcademicAdvisor	Friedrich_Wöhler
+Hermann_Kolbe	hasAcademicAdvisor	Friedrich_Wöhler
+Hermann_Kolbe	hasAcademicAdvisor	Friedrich_Wöhler
+Hermann_Kolbe	hasAcademicAdvisor	Robert_Bunsen
+Hermann_Kolbe	hasAcademicAdvisor	Robert_Bunsen
+
+http://dbpedia.org/resource/Hermann_Kolbe	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Robert_Bunsen
+Hermann_Kolbe	Robert_Bunsen
+Hermann_Kolbe	hasAcademicAdvisor	Friedrich_Wöhler
+Hermann_Kolbe	hasAcademicAdvisor	Friedrich_Wöhler
+Friedrich_Wöhler	worksAt	University_of_Göttingen
+Friedrich_Wöhler	worksAt	University_of_Göttingen
+Robert_Bunsen	graduatedFrom	University_of_Göttingen
+Robert_Bunsen	graduatedFrom	University_of_Göttingen
+
+http://dbpedia.org/resource/Hermann_Kolbe	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Robert_Bunsen
+Hermann_Kolbe	Robert_Bunsen
+Hermann_Kolbe	hasAcademicAdvisor	Robert_Bunsen
+Hermann_Kolbe	hasAcademicAdvisor	Robert_Bunsen
+
+http://dbpedia.org/resource/Rui_de_Figueiredo	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Philippe_Le_Corbeiller
+Rui_de_Figueiredo	Philippe_Le_Corbeiller
+Rui_de_Figueiredo	hasAcademicAdvisor	Philippe_Le_Corbeiller
+Rui_de_Figueiredo	hasAcademicAdvisor	Philippe_Le_Corbeiller
+
+http://dbpedia.org/resource/Rui_de_Figueiredo	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Philippe_Le_Corbeiller
+Rui_de_Figueiredo	Philippe_Le_Corbeiller
+Rui_de_Figueiredo	diedIn	College_Station,_Texas
+Rui_de_Figueiredo	diedIn	College_Station,_Texas
+Rui_de_Figueiredo	diedIn	College_Station,_Texas
+Rui_de_Figueiredo	diedIn	College_Station,_Texas
+Rui_de_Figueiredo	hasAcademicAdvisor	Philippe_Le_Corbeiller
+Rui_de_Figueiredo	hasAcademicAdvisor	Philippe_Le_Corbeiller
+
+http://dbpedia.org/resource/Lior_Pachter	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Bonnie_Berger
+Lior_Pachter	Bonnie_Berger
+Lior_Pachter	hasAcademicAdvisor	Bonnie_Berger
+Lior_Pachter	hasAcademicAdvisor	Bonnie_Berger
+
+http://dbpedia.org/resource/Lior_Pachter	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Bonnie_Berger
+Lior_Pachter	Bonnie_Berger
+Lior_Pachter	wasBornIn	Ramat_Gan
+Lior_Pachter	wasBornIn	Ramat_Gan
+Lior_Pachter	wasBornIn	Ramat_Gan
+Lior_Pachter	wasBornIn	Ramat_Gan
+Lior_Pachter	hasAcademicAdvisor	Bonnie_Berger
+Lior_Pachter	hasAcademicAdvisor	Bonnie_Berger
+
+http://dbpedia.org/resource/Philippe_Le_Corbeiller	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Émile_Picard
+Philippe_Le_Corbeiller	Émile_Picard
+Rui_de_Figueiredo	hasAcademicAdvisor	Philippe_Le_Corbeiller
+Rui_de_Figueiredo	hasAcademicAdvisor	Philippe_Le_Corbeiller
+Rui_de_Figueiredo	hasAcademicAdvisor	Philippe_Le_Corbeiller
+Rui_de_Figueiredo	hasAcademicAdvisor	Philippe_Le_Corbeiller
+Philippe_Le_Corbeiller	hasAcademicAdvisor	Émile_Picard
+Philippe_Le_Corbeiller	hasAcademicAdvisor	Émile_Picard
+
+http://dbpedia.org/resource/Philippe_Le_Corbeiller	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Émile_Picard
+Philippe_Le_Corbeiller	Émile_Picard
+Peter_Elias	hasAcademicAdvisor	Philippe_Le_Corbeiller
+Peter_Elias	hasAcademicAdvisor	Philippe_Le_Corbeiller
+Peter_Elias	hasAcademicAdvisor	Philippe_Le_Corbeiller
+Peter_Elias	hasAcademicAdvisor	Philippe_Le_Corbeiller
+Philippe_Le_Corbeiller	hasAcademicAdvisor	Émile_Picard
+Philippe_Le_Corbeiller	hasAcademicAdvisor	Émile_Picard
+
+http://dbpedia.org/resource/Philippe_Le_Corbeiller	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Émile_Picard
+Philippe_Le_Corbeiller	Émile_Picard
+Kumpati_S._Narendra	hasAcademicAdvisor	Philippe_Le_Corbeiller
+Kumpati_S._Narendra	hasAcademicAdvisor	Philippe_Le_Corbeiller
+Kumpati_S._Narendra	hasAcademicAdvisor	Philippe_Le_Corbeiller
+Kumpati_S._Narendra	hasAcademicAdvisor	Philippe_Le_Corbeiller
+Philippe_Le_Corbeiller	hasAcademicAdvisor	Émile_Picard
+Philippe_Le_Corbeiller	hasAcademicAdvisor	Émile_Picard
+
+http://dbpedia.org/resource/Philippe_Le_Corbeiller	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Émile_Picard
+Philippe_Le_Corbeiller	Émile_Picard
+Philippe_Le_Corbeiller	hasAcademicAdvisor	Émile_Picard
+Philippe_Le_Corbeiller	hasAcademicAdvisor	Émile_Picard
+
+http://dbpedia.org/resource/Horace_R._Byers	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Carl-Gustaf_Rossby
+Horace_R._Byers	Carl-Gustaf_Rossby
+Horace_R._Byers	hasAcademicAdvisor	Carl-Gustaf_Rossby
+Horace_R._Byers	hasAcademicAdvisor	Carl-Gustaf_Rossby
+
+http://dbpedia.org/resource/Patrick_A._Lee	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Marlan_Scully
+Patrick_A._Lee	Marlan_Scully
+Patrick_A._Lee	hasAcademicAdvisor	Marlan_Scully
+Patrick_A._Lee	hasAcademicAdvisor	Marlan_Scully
+
+http://dbpedia.org/resource/Patrick_A._Lee	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Marlan_Scully
+Patrick_A._Lee	Marlan_Scully
+Charles_L._Kane	hasAcademicAdvisor	Patrick_A._Lee
+Charles_L._Kane	hasAcademicAdvisor	Patrick_A._Lee
+Charles_L._Kane	hasAcademicAdvisor	Patrick_A._Lee
+Charles_L._Kane	hasAcademicAdvisor	Patrick_A._Lee
+Patrick_A._Lee	hasAcademicAdvisor	Marlan_Scully
+Patrick_A._Lee	hasAcademicAdvisor	Marlan_Scully
+
+http://dbpedia.org/resource/Ralph_Fox	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Solomon_Lefschetz
+Ralph_Fox	Solomon_Lefschetz
+John_R._Stallings	hasAcademicAdvisor	Ralph_Fox
+John_R._Stallings	hasAcademicAdvisor	Ralph_Fox
+John_R._Stallings	hasAcademicAdvisor	Ralph_Fox
+John_R._Stallings	hasAcademicAdvisor	Ralph_Fox
+Ralph_Fox	hasAcademicAdvisor	Solomon_Lefschetz
+Ralph_Fox	hasAcademicAdvisor	Solomon_Lefschetz
+
+http://dbpedia.org/resource/Ralph_Fox	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Solomon_Lefschetz
+Ralph_Fox	Solomon_Lefschetz
+Ralph_Fox	hasAcademicAdvisor	Solomon_Lefschetz
+Ralph_Fox	hasAcademicAdvisor	Solomon_Lefschetz
+
+http://dbpedia.org/resource/Ralph_Fox	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Solomon_Lefschetz
+Ralph_Fox	Solomon_Lefschetz
+John_Milnor	hasAcademicAdvisor	Ralph_Fox
+John_Milnor	hasAcademicAdvisor	Ralph_Fox
+John_Milnor	hasAcademicAdvisor	Ralph_Fox
+John_Milnor	hasAcademicAdvisor	Ralph_Fox
+Ralph_Fox	hasAcademicAdvisor	Solomon_Lefschetz
+Ralph_Fox	hasAcademicAdvisor	Solomon_Lefschetz
+
+http://dbpedia.org/resource/Ralph_Fox	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Solomon_Lefschetz
+Ralph_Fox	Solomon_Lefschetz
+Barry_Mazur	hasAcademicAdvisor	Ralph_Fox
+Barry_Mazur	hasAcademicAdvisor	Ralph_Fox
+Barry_Mazur	hasAcademicAdvisor	Ralph_Fox
+Barry_Mazur	hasAcademicAdvisor	Ralph_Fox
+Ralph_Fox	hasAcademicAdvisor	Solomon_Lefschetz
+Ralph_Fox	hasAcademicAdvisor	Solomon_Lefschetz
+
+http://dbpedia.org/resource/C._R._Rao	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Ronald_Fisher
+C._R._Rao	Ronald_Fisher
+C._R._Rao	graduatedFrom	University_at_Buffalo
+C._R._Rao	graduatedFrom	University_at_Buffalo
+C._R._Rao	graduatedFrom	University_at_Buffalo
+C._R._Rao	graduatedFrom	University_at_Buffalo
+C._R._Rao	hasAcademicAdvisor	Ronald_Fisher
+C._R._Rao	hasAcademicAdvisor	Ronald_Fisher
+
+http://dbpedia.org/resource/C._R._Rao	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Ronald_Fisher
+C._R._Rao	Ronald_Fisher
+K._R._Parthasarathy_(probabilist)	hasAcademicAdvisor	C._R._Rao
+K._R._Parthasarathy_(probabilist)	hasAcademicAdvisor	C._R._Rao
+K._R._Parthasarathy_(probabilist)	hasAcademicAdvisor	C._R._Rao
+K._R._Parthasarathy_(probabilist)	hasAcademicAdvisor	C._R._Rao
+C._R._Rao	hasAcademicAdvisor	Ronald_Fisher
+C._R._Rao	hasAcademicAdvisor	Ronald_Fisher
+
+http://dbpedia.org/resource/C._R._Rao	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Ronald_Fisher
+C._R._Rao	Ronald_Fisher
+C._R._Rao	hasAcademicAdvisor	Ronald_Fisher
+C._R._Rao	hasAcademicAdvisor	Ronald_Fisher
+
+http://dbpedia.org/resource/C._R._Rao	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Ronald_Fisher
+C._R._Rao	Ronald_Fisher
+C._R._Rao	graduatedFrom	Pennsylvania_State_University
+C._R._Rao	graduatedFrom	Pennsylvania_State_University
+C._R._Rao	graduatedFrom	Pennsylvania_State_University
+C._R._Rao	graduatedFrom	Pennsylvania_State_University
+C._R._Rao	hasAcademicAdvisor	Ronald_Fisher
+C._R._Rao	hasAcademicAdvisor	Ronald_Fisher
+
+http://dbpedia.org/resource/C._R._Rao	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Ronald_Fisher
+C._R._Rao	Ronald_Fisher
+S._R._Srinivasa_Varadhan	hasAcademicAdvisor	C._R._Rao
+S._R._Srinivasa_Varadhan	hasAcademicAdvisor	C._R._Rao
+S._R._Srinivasa_Varadhan	hasAcademicAdvisor	C._R._Rao
+S._R._Srinivasa_Varadhan	hasAcademicAdvisor	C._R._Rao
+C._R._Rao	hasAcademicAdvisor	Ronald_Fisher
+C._R._Rao	hasAcademicAdvisor	Ronald_Fisher
+
+http://dbpedia.org/resource/C._R._Rao	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Ronald_Fisher
+C._R._Rao	Ronald_Fisher
+C._R._Rao	graduatedFrom	Andhra_University
+C._R._Rao	graduatedFrom	Andhra_University
+C._R._Rao	graduatedFrom	Andhra_University
+C._R._Rao	graduatedFrom	Andhra_University
+C._R._Rao	hasAcademicAdvisor	Ronald_Fisher
+C._R._Rao	hasAcademicAdvisor	Ronald_Fisher
+
+http://dbpedia.org/resource/Mikio_Sato	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Mikio_Sato	Shokichi_Iyanaga
+Mikio_Sato	hasAcademicAdvisor	Shokichi_Iyanaga
+Mikio_Sato	hasAcademicAdvisor	Shokichi_Iyanaga
+
+http://dbpedia.org/resource/Mikio_Sato	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Mikio_Sato	Shokichi_Iyanaga
+Mikio_Sato	graduatedFrom	University_of_Tokyo
+Mikio_Sato	graduatedFrom	University_of_Tokyo
+Kunihiko_Kodaira	graduatedFrom	University_of_Tokyo
+Kunihiko_Kodaira	worksAt	University_of_Tokyo
+Kunihiko_Kodaira	graduatedFrom	University_of_Tokyo
+Kunihiko_Kodaira	worksAt	University_of_Tokyo
+Kunihiko_Kodaira	hasAcademicAdvisor	Shokichi_Iyanaga
+Kunihiko_Kodaira	hasAcademicAdvisor	Shokichi_Iyanaga
+
+http://dbpedia.org/resource/Mikio_Sato	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Mikio_Sato	Shokichi_Iyanaga
+Mikio_Sato	graduatedFrom	University_of_Tokyo
+Mikio_Sato	graduatedFrom	University_of_Tokyo
+Michio_Suzuki	graduatedFrom	University_of_Tokyo
+Michio_Suzuki	graduatedFrom	University_of_Tokyo
+Michio_Suzuki	hasAcademicAdvisor	Shokichi_Iyanaga
+Michio_Suzuki	hasAcademicAdvisor	Shokichi_Iyanaga
+
+http://dbpedia.org/resource/Mikio_Sato	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Mikio_Sato	Shokichi_Iyanaga
+Mikio_Sato	graduatedFrom	University_of_Tokyo
+Mikio_Sato	graduatedFrom	University_of_Tokyo
+Kiyosi_Itô	graduatedFrom	University_of_Tokyo
+Kiyosi_Itô	graduatedFrom	University_of_Tokyo
+Kiyosi_Itô	hasAcademicAdvisor	Shokichi_Iyanaga
+Kiyosi_Itô	hasAcademicAdvisor	Shokichi_Iyanaga
+
+http://dbpedia.org/resource/Mikio_Sato	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Mikio_Sato	Shokichi_Iyanaga
+Mikio_Sato	graduatedFrom	University_of_Tokyo
+Mikio_Sato	graduatedFrom	University_of_Tokyo
+Hidehiko_Yamabe	graduatedFrom	University_of_Tokyo
+Hidehiko_Yamabe	graduatedFrom	University_of_Tokyo
+Hidehiko_Yamabe	hasAcademicAdvisor	Shokichi_Iyanaga
+Hidehiko_Yamabe	hasAcademicAdvisor	Shokichi_Iyanaga
+
+http://dbpedia.org/resource/Mikio_Sato	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Mikio_Sato	Shokichi_Iyanaga
+Mikio_Sato	graduatedFrom	University_of_Tokyo
+Mikio_Sato	graduatedFrom	University_of_Tokyo
+Hirofumi_Uzawa	graduatedFrom	University_of_Tokyo
+Hirofumi_Uzawa	graduatedFrom	University_of_Tokyo
+Shokichi_Iyanaga	influences	Hirofumi_Uzawa
+Shokichi_Iyanaga	influences	Hirofumi_Uzawa
+
+http://dbpedia.org/resource/Mikio_Sato	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Mikio_Sato	Shokichi_Iyanaga
+Mikio_Sato	graduatedFrom	University_of_Tokyo
+Mikio_Sato	graduatedFrom	University_of_Tokyo
+Mikio_Sato	graduatedFrom	University_of_Tokyo
+Mikio_Sato	graduatedFrom	University_of_Tokyo
+Mikio_Sato	hasAcademicAdvisor	Shokichi_Iyanaga
+Mikio_Sato	hasAcademicAdvisor	Shokichi_Iyanaga
+
+http://dbpedia.org/resource/Paul_R._Ehrlich	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Charles_Duncan_Michener
+Paul_R._Ehrlich	Charles_Duncan_Michener
+Paul_R._Ehrlich	hasAcademicAdvisor	Charles_Duncan_Michener
+Paul_R._Ehrlich	hasAcademicAdvisor	Charles_Duncan_Michener
+
+http://dbpedia.org/resource/Paul_R._Ehrlich	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Charles_Duncan_Michener
+Paul_R._Ehrlich	Charles_Duncan_Michener
+Paul_R._Ehrlich	graduatedFrom	University_of_Kansas
+Paul_R._Ehrlich	graduatedFrom	University_of_Kansas
+Carl_Rettenmeyer	graduatedFrom	University_of_Kansas
+Carl_Rettenmeyer	graduatedFrom	University_of_Kansas
+Carl_Rettenmeyer	hasAcademicAdvisor	Charles_Duncan_Michener
+Carl_Rettenmeyer	hasAcademicAdvisor	Charles_Duncan_Michener
+
+http://dbpedia.org/resource/Paul_R._Ehrlich	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Charles_Duncan_Michener
+Paul_R._Ehrlich	Charles_Duncan_Michener
+Paul_R._Ehrlich	graduatedFrom	University_of_Kansas
+Paul_R._Ehrlich	graduatedFrom	University_of_Kansas
+University_of_Kansas	isLocatedIn	Lawrence,_Kansas
+University_of_Kansas	isLocatedIn	Lawrence,_Kansas
+Charles_Duncan_Michener	diedIn	Lawrence,_Kansas
+Charles_Duncan_Michener	diedIn	Lawrence,_Kansas
+
+http://dbpedia.org/resource/Paul_R._Ehrlich	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Charles_Duncan_Michener
+Paul_R._Ehrlich	Charles_Duncan_Michener
+Paul_R._Ehrlich	graduatedFrom	University_of_Kansas
+Paul_R._Ehrlich	graduatedFrom	University_of_Kansas
+Paul_R._Ehrlich	graduatedFrom	University_of_Kansas
+Paul_R._Ehrlich	graduatedFrom	University_of_Kansas
+Paul_R._Ehrlich	hasAcademicAdvisor	Charles_Duncan_Michener
+Paul_R._Ehrlich	hasAcademicAdvisor	Charles_Duncan_Michener
+
+http://dbpedia.org/resource/Paul_R._Ehrlich	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Charles_Duncan_Michener
+Paul_R._Ehrlich	Charles_Duncan_Michener
+Paul_R._Ehrlich	graduatedFrom	University_of_Kansas
+Paul_R._Ehrlich	graduatedFrom	University_of_Kansas
+Charles_Duncan_Michener	worksAt	University_of_Kansas
+Charles_Duncan_Michener	worksAt	University_of_Kansas
+
+http://dbpedia.org/resource/Carl_Neumann	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Friedrich_Julius_Richelot
+Carl_Neumann	Friedrich_Julius_Richelot
+William_Edward_Story	hasAcademicAdvisor	Carl_Neumann
+William_Edward_Story	hasAcademicAdvisor	Carl_Neumann
+William_Edward_Story	hasAcademicAdvisor	Carl_Neumann
+William_Edward_Story	hasAcademicAdvisor	Carl_Neumann
+Carl_Neumann	hasAcademicAdvisor	Friedrich_Julius_Richelot
+Carl_Neumann	hasAcademicAdvisor	Friedrich_Julius_Richelot
+
+http://dbpedia.org/resource/Carl_Neumann	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Friedrich_Julius_Richelot
+Carl_Neumann	Friedrich_Julius_Richelot
+Carl_Neumann	hasAcademicAdvisor	Friedrich_Julius_Richelot
+Carl_Neumann	hasAcademicAdvisor	Friedrich_Julius_Richelot
+
+http://dbpedia.org/resource/Carl_Neumann	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Friedrich_Julius_Richelot
+Carl_Neumann	Friedrich_Julius_Richelot
+Carl_Neumann	hasAcademicAdvisor	Otto_Hesse
+Carl_Neumann	hasAcademicAdvisor	Otto_Hesse
+Otto_Hesse	hasAcademicAdvisor	Carl_Gustav_Jacob_Jacobi
+Otto_Hesse	hasAcademicAdvisor	Carl_Gustav_Jacob_Jacobi
+Friedrich_Julius_Richelot	hasAcademicAdvisor	Carl_Gustav_Jacob_Jacobi
+Friedrich_Julius_Richelot	hasAcademicAdvisor	Carl_Gustav_Jacob_Jacobi
+
+http://dbpedia.org/resource/Carl_Neumann	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Friedrich_Julius_Richelot
+Carl_Neumann	Friedrich_Julius_Richelot
+Carl_Neumann	hasAcademicAdvisor	Otto_Hesse
+Carl_Neumann	hasAcademicAdvisor	Otto_Hesse
+Carl_Neumann	hasAcademicAdvisor	Otto_Hesse
+Carl_Neumann	hasAcademicAdvisor	Otto_Hesse
+Carl_Neumann	hasAcademicAdvisor	Friedrich_Julius_Richelot
+Carl_Neumann	hasAcademicAdvisor	Friedrich_Julius_Richelot
+
+http://dbpedia.org/resource/Carl_Neumann	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Friedrich_Julius_Richelot
+Carl_Neumann	Friedrich_Julius_Richelot
+Carl_Neumann	worksAt	University_of_Basel
+Carl_Neumann	worksAt	University_of_Basel
+Carl_Neumann	worksAt	University_of_Basel
+Carl_Neumann	worksAt	University_of_Basel
+Carl_Neumann	hasAcademicAdvisor	Friedrich_Julius_Richelot
+Carl_Neumann	hasAcademicAdvisor	Friedrich_Julius_Richelot
+
+http://dbpedia.org/resource/Bjarni_Jónsson	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Alfred_Tarski
+Bjarni_Jónsson	Alfred_Tarski
+Bjarni_Jónsson	hasAcademicAdvisor	Alfred_Tarski
+Bjarni_Jónsson	hasAcademicAdvisor	Alfred_Tarski
+
+http://dbpedia.org/resource/Bjarni_Jónsson	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Alfred_Tarski
+Bjarni_Jónsson	Alfred_Tarski
+Bjarni_Jónsson	diedIn	Cincinnati
+Bjarni_Jónsson	diedIn	Cincinnati
+Bjarni_Jónsson	diedIn	Cincinnati
+Bjarni_Jónsson	diedIn	Cincinnati
+Bjarni_Jónsson	hasAcademicAdvisor	Alfred_Tarski
+Bjarni_Jónsson	hasAcademicAdvisor	Alfred_Tarski
+
+http://dbpedia.org/resource/Robert_Lee_Moore	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Oswald_Veblen
+Robert_Lee_Moore	Oswald_Veblen
+Robert_Lee_Moore	hasAcademicAdvisor	Oswald_Veblen
+Robert_Lee_Moore	hasAcademicAdvisor	Oswald_Veblen
+
+http://dbpedia.org/resource/Robert_Lee_Moore	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Oswald_Veblen
+Robert_Lee_Moore	Oswald_Veblen
+Richard_Davis_Anderson	hasAcademicAdvisor	Robert_Lee_Moore
+Richard_Davis_Anderson	hasAcademicAdvisor	Robert_Lee_Moore
+Richard_Davis_Anderson	hasAcademicAdvisor	Robert_Lee_Moore
+Richard_Davis_Anderson	hasAcademicAdvisor	Robert_Lee_Moore
+Robert_Lee_Moore	hasAcademicAdvisor	Oswald_Veblen
+Robert_Lee_Moore	hasAcademicAdvisor	Oswald_Veblen
+
+http://dbpedia.org/resource/Robert_Lee_Moore	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Oswald_Veblen
+Robert_Lee_Moore	Oswald_Veblen
+Edwin_E._Moise	hasAcademicAdvisor	Robert_Lee_Moore
+Edwin_E._Moise	hasAcademicAdvisor	Robert_Lee_Moore
+Edwin_E._Moise	hasAcademicAdvisor	Robert_Lee_Moore
+Edwin_E._Moise	hasAcademicAdvisor	Robert_Lee_Moore
+Robert_Lee_Moore	hasAcademicAdvisor	Oswald_Veblen
+Robert_Lee_Moore	hasAcademicAdvisor	Oswald_Veblen
+
+http://dbpedia.org/resource/Robert_Lee_Moore	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Oswald_Veblen
+Robert_Lee_Moore	Oswald_Veblen
+John_Robert_Kline	hasAcademicAdvisor	Robert_Lee_Moore
+John_Robert_Kline	hasAcademicAdvisor	Robert_Lee_Moore
+John_Robert_Kline	hasAcademicAdvisor	Robert_Lee_Moore
+John_Robert_Kline	hasAcademicAdvisor	Robert_Lee_Moore
+Robert_Lee_Moore	hasAcademicAdvisor	Oswald_Veblen
+Robert_Lee_Moore	hasAcademicAdvisor	Oswald_Veblen
+
+http://dbpedia.org/resource/Mihailo_Petrović	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Émile_Picard
+Mihailo_Petrović	Émile_Picard
+Mihailo_Petrović	hasAcademicAdvisor	Émile_Picard
+Mihailo_Petrović	hasAcademicAdvisor	Émile_Picard
+
+http://dbpedia.org/resource/Mihailo_Petrović	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Émile_Picard
+Mihailo_Petrović	Émile_Picard
+Jovan_Karamata	hasAcademicAdvisor	Mihailo_Petrović
+Jovan_Karamata	hasAcademicAdvisor	Mihailo_Petrović
+Jovan_Karamata	hasAcademicAdvisor	Mihailo_Petrović
+Jovan_Karamata	hasAcademicAdvisor	Mihailo_Petrović
+Mihailo_Petrović	hasAcademicAdvisor	Émile_Picard
+Mihailo_Petrović	hasAcademicAdvisor	Émile_Picard
+
+http://dbpedia.org/resource/Mihailo_Petrović	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Émile_Picard
+Mihailo_Petrović	Émile_Picard
+Mihailo_Petrović	hasAcademicAdvisor	Charles_Hermite
+Mihailo_Petrović	hasAcademicAdvisor	Charles_Hermite
+Mihailo_Petrović	hasAcademicAdvisor	Charles_Hermite
+Mihailo_Petrović	hasAcademicAdvisor	Charles_Hermite
+Mihailo_Petrović	hasAcademicAdvisor	Émile_Picard
+Mihailo_Petrović	hasAcademicAdvisor	Émile_Picard
+
+http://dbpedia.org/resource/Walter_H._Schottky	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Planck
+Walter_H._Schottky	Max_Planck
+Walter_H._Schottky	hasAcademicAdvisor	Max_Planck
+Walter_H._Schottky	hasAcademicAdvisor	Max_Planck
+
+http://dbpedia.org/resource/Faheem_Hussain	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Paul_Taunton_Matthews
+Faheem_Hussain	Paul_Taunton_Matthews
+Faheem_Hussain	hasAcademicAdvisor	Paul_Taunton_Matthews
+Faheem_Hussain	hasAcademicAdvisor	Paul_Taunton_Matthews
+
+http://dbpedia.org/resource/Faheem_Hussain	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Paul_Taunton_Matthews
+Faheem_Hussain	Paul_Taunton_Matthews
+Faheem_Hussain	diedIn	Monfalcone
+Faheem_Hussain	diedIn	Monfalcone
+Faheem_Hussain	diedIn	Monfalcone
+Faheem_Hussain	diedIn	Monfalcone
+Faheem_Hussain	hasAcademicAdvisor	Paul_Taunton_Matthews
+Faheem_Hussain	hasAcademicAdvisor	Paul_Taunton_Matthews
+
+http://dbpedia.org/resource/Stephen_Fienberg	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Frederick_Mosteller
+Stephen_Fienberg	Frederick_Mosteller
+Stephen_Fienberg	hasAcademicAdvisor	Frederick_Mosteller
+Stephen_Fienberg	hasAcademicAdvisor	Frederick_Mosteller
+
+http://dbpedia.org/resource/Stephen_Fienberg	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Frederick_Mosteller
+Stephen_Fienberg	Frederick_Mosteller
+Stephen_Fienberg	diedIn	Pittsburgh
+Stephen_Fienberg	diedIn	Pittsburgh
+Stephen_Fienberg	diedIn	Pittsburgh
+Stephen_Fienberg	diedIn	Pittsburgh
+Stephen_Fienberg	hasAcademicAdvisor	Frederick_Mosteller
+Stephen_Fienberg	hasAcademicAdvisor	Frederick_Mosteller
+
+http://dbpedia.org/resource/Leo_Szilard	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_von_Laue
+Leo_Szilard	Max_von_Laue
+Leo_Szilard	hasAcademicAdvisor	Max_von_Laue
+Leo_Szilard	hasAcademicAdvisor	Max_von_Laue
+
+http://dbpedia.org/resource/Adolf_von_Baeyer	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/August_Kekulé
+Adolf_von_Baeyer	August_Kekulé
+Hermann_Emil_Fischer	hasAcademicAdvisor	Adolf_von_Baeyer
+Hermann_Emil_Fischer	hasAcademicAdvisor	Adolf_von_Baeyer
+Hermann_Emil_Fischer	hasAcademicAdvisor	August_Kekulé
+Hermann_Emil_Fischer	hasAcademicAdvisor	August_Kekulé
+
+http://dbpedia.org/resource/Carl-Gustaf_Rossby	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Vilhelm_Bjerknes
+Carl-Gustaf_Rossby	Vilhelm_Bjerknes
+Carl-Gustaf_Rossby	hasAcademicAdvisor	Vilhelm_Bjerknes
+Vilhelm_Bjerknes	influences	Carl-Gustaf_Rossby
+Carl-Gustaf_Rossby	hasAcademicAdvisor	Vilhelm_Bjerknes
+Vilhelm_Bjerknes	influences	Carl-Gustaf_Rossby
+
+http://dbpedia.org/resource/Carl-Gustaf_Rossby	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Vilhelm_Bjerknes
+Carl-Gustaf_Rossby	Vilhelm_Bjerknes
+Aksel_C._Wiin-Nielsen	hasAcademicAdvisor	Carl-Gustaf_Rossby
+Aksel_C._Wiin-Nielsen	hasAcademicAdvisor	Carl-Gustaf_Rossby
+Aksel_C._Wiin-Nielsen	hasAcademicAdvisor	Carl-Gustaf_Rossby
+Aksel_C._Wiin-Nielsen	hasAcademicAdvisor	Carl-Gustaf_Rossby
+Carl-Gustaf_Rossby	hasAcademicAdvisor	Vilhelm_Bjerknes
+Vilhelm_Bjerknes	influences	Carl-Gustaf_Rossby
+Carl-Gustaf_Rossby	hasAcademicAdvisor	Vilhelm_Bjerknes
+Vilhelm_Bjerknes	influences	Carl-Gustaf_Rossby
+
+http://dbpedia.org/resource/Carl-Gustaf_Rossby	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Vilhelm_Bjerknes
+Carl-Gustaf_Rossby	Vilhelm_Bjerknes
+Horace_R._Byers	hasAcademicAdvisor	Carl-Gustaf_Rossby
+Horace_R._Byers	hasAcademicAdvisor	Carl-Gustaf_Rossby
+Horace_R._Byers	hasAcademicAdvisor	Carl-Gustaf_Rossby
+Horace_R._Byers	hasAcademicAdvisor	Carl-Gustaf_Rossby
+Carl-Gustaf_Rossby	hasAcademicAdvisor	Vilhelm_Bjerknes
+Vilhelm_Bjerknes	influences	Carl-Gustaf_Rossby
+Carl-Gustaf_Rossby	hasAcademicAdvisor	Vilhelm_Bjerknes
+Vilhelm_Bjerknes	influences	Carl-Gustaf_Rossby
+
+http://dbpedia.org/resource/Carl-Gustaf_Rossby	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Vilhelm_Bjerknes
+Carl-Gustaf_Rossby	Vilhelm_Bjerknes
+Carl-Gustaf_Rossby	graduatedFrom	Leipzig_University
+Carl-Gustaf_Rossby	graduatedFrom	Leipzig_University
+Carl-Gustaf_Rossby	graduatedFrom	Leipzig_University
+Carl-Gustaf_Rossby	graduatedFrom	Leipzig_University
+Carl-Gustaf_Rossby	hasAcademicAdvisor	Vilhelm_Bjerknes
+Vilhelm_Bjerknes	influences	Carl-Gustaf_Rossby
+Carl-Gustaf_Rossby	hasAcademicAdvisor	Vilhelm_Bjerknes
+Vilhelm_Bjerknes	influences	Carl-Gustaf_Rossby
+
+http://dbpedia.org/resource/Avi_Wigderson	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Richard_J._Lipton
+Avi_Wigderson	Richard_J._Lipton
+Avi_Wigderson	hasAcademicAdvisor	Richard_J._Lipton
+Avi_Wigderson	hasAcademicAdvisor	Richard_J._Lipton
+
+http://dbpedia.org/resource/Avi_Wigderson	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Richard_J._Lipton
+Avi_Wigderson	Richard_J._Lipton
+Dorit_Aharonov	hasAcademicAdvisor	Avi_Wigderson
+Dorit_Aharonov	hasAcademicAdvisor	Avi_Wigderson
+Dorit_Aharonov	hasAcademicAdvisor	Avi_Wigderson
+Dorit_Aharonov	hasAcademicAdvisor	Avi_Wigderson
+Avi_Wigderson	hasAcademicAdvisor	Richard_J._Lipton
+Avi_Wigderson	hasAcademicAdvisor	Richard_J._Lipton
+
+http://dbpedia.org/resource/Philipp_Lenard	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Robert_Bunsen
+Philipp_Lenard	Robert_Bunsen
+Philipp_Lenard	worksAt	University_of_Kiel
+Philipp_Lenard	worksAt	University_of_Kiel
+Philipp_Lenard	worksAt	University_of_Kiel
+Philipp_Lenard	worksAt	University_of_Kiel
+Philipp_Lenard	hasAcademicAdvisor	Robert_Bunsen
+Philipp_Lenard	hasAcademicAdvisor	Robert_Bunsen
+
+http://dbpedia.org/resource/Philipp_Lenard	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Robert_Bunsen
+Philipp_Lenard	Robert_Bunsen
+Philipp_Lenard	hasAcademicAdvisor	Robert_Bunsen
+Philipp_Lenard	hasAcademicAdvisor	Robert_Bunsen
+
+http://dbpedia.org/resource/Philipp_Lenard	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Robert_Bunsen
+Philipp_Lenard	Robert_Bunsen
+Philipp_Lenard	hasAcademicAdvisor	Georg_Hermann_Quincke
+Philipp_Lenard	hasAcademicAdvisor	Georg_Hermann_Quincke
+Philipp_Lenard	hasAcademicAdvisor	Georg_Hermann_Quincke
+Philipp_Lenard	hasAcademicAdvisor	Georg_Hermann_Quincke
+Philipp_Lenard	hasAcademicAdvisor	Robert_Bunsen
+Philipp_Lenard	hasAcademicAdvisor	Robert_Bunsen
+
+http://dbpedia.org/resource/Jerry_L._Bona	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Garrett_Birkhoff
+Jerry_L._Bona	Garrett_Birkhoff
+Jerry_L._Bona	graduatedFrom	Harvard_University
+Jerry_L._Bona	graduatedFrom	Harvard_University
+Peter_J._Olver	graduatedFrom	Harvard_University
+Peter_J._Olver	graduatedFrom	Harvard_University
+Peter_J._Olver	hasAcademicAdvisor	Garrett_Birkhoff
+Peter_J._Olver	hasAcademicAdvisor	Garrett_Birkhoff
+
+http://dbpedia.org/resource/Jerry_L._Bona	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Garrett_Birkhoff
+Jerry_L._Bona	Garrett_Birkhoff
+Jerry_L._Bona	graduatedFrom	Harvard_University
+Jerry_L._Bona	graduatedFrom	Harvard_University
+Garrett_Birkhoff	graduatedFrom	Harvard_University
+Garrett_Birkhoff	worksAt	Harvard_University
+Garrett_Birkhoff	graduatedFrom	Harvard_University
+Garrett_Birkhoff	worksAt	Harvard_University
+
+http://dbpedia.org/resource/Jerry_L._Bona	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Garrett_Birkhoff
+Jerry_L._Bona	Garrett_Birkhoff
+Jerry_L._Bona	hasAcademicAdvisor	Garrett_Birkhoff
+Jerry_L._Bona	hasAcademicAdvisor	Garrett_Birkhoff
+
+http://dbpedia.org/resource/Jerry_L._Bona	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Garrett_Birkhoff
+Jerry_L._Bona	Garrett_Birkhoff
+Jerry_L._Bona	worksAt	University_of_Illinois_at_Chicago
+Jerry_L._Bona	worksAt	University_of_Illinois_at_Chicago
+Jerry_L._Bona	worksAt	University_of_Illinois_at_Chicago
+Jerry_L._Bona	worksAt	University_of_Illinois_at_Chicago
+Jerry_L._Bona	hasAcademicAdvisor	Garrett_Birkhoff
+Jerry_L._Bona	hasAcademicAdvisor	Garrett_Birkhoff
+
+http://dbpedia.org/resource/Steven_G._Krantz	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Joseph_J._Kohn
+Steven_G._Krantz	Joseph_J._Kohn
+Steven_G._Krantz	hasAcademicAdvisor	Joseph_J._Kohn
+Steven_G._Krantz	hasAcademicAdvisor	Joseph_J._Kohn
+
+http://dbpedia.org/resource/Steven_G._Krantz	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Joseph_J._Kohn
+Steven_G._Krantz	Joseph_J._Kohn
+Steven_G._Krantz	graduatedFrom	Princeton_University
+Steven_G._Krantz	graduatedFrom	Princeton_University
+Joseph_J._Kohn	worksAt	Princeton_University
+Joseph_J._Kohn	graduatedFrom	Princeton_University
+Joseph_J._Kohn	worksAt	Princeton_University
+Joseph_J._Kohn	graduatedFrom	Princeton_University
+
+http://dbpedia.org/resource/Steven_G._Krantz	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Joseph_J._Kohn
+Steven_G._Krantz	Joseph_J._Kohn
+Steven_G._Krantz	wasBornIn	San_Francisco
+Steven_G._Krantz	wasBornIn	San_Francisco
+Steven_G._Krantz	wasBornIn	San_Francisco
+Steven_G._Krantz	wasBornIn	San_Francisco
+Steven_G._Krantz	hasAcademicAdvisor	Joseph_J._Kohn
+Steven_G._Krantz	hasAcademicAdvisor	Joseph_J._Kohn
+
+http://dbpedia.org/resource/Steven_G._Krantz	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Joseph_J._Kohn
+Steven_G._Krantz	Joseph_J._Kohn
+Steven_G._Krantz	hasAcademicAdvisor	Elias_M._Stein
+Steven_G._Krantz	hasAcademicAdvisor	Elias_M._Stein
+Elias_M._Stein	graduatedFrom	Princeton_University
+Elias_M._Stein	graduatedFrom	Princeton_University
+Joseph_J._Kohn	worksAt	Princeton_University
+Joseph_J._Kohn	graduatedFrom	Princeton_University
+Joseph_J._Kohn	worksAt	Princeton_University
+Joseph_J._Kohn	graduatedFrom	Princeton_University
+
+http://dbpedia.org/resource/Steven_G._Krantz	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Joseph_J._Kohn
+Steven_G._Krantz	Joseph_J._Kohn
+Steven_G._Krantz	hasAcademicAdvisor	Elias_M._Stein
+Steven_G._Krantz	hasAcademicAdvisor	Elias_M._Stein
+Steven_G._Krantz	hasAcademicAdvisor	Elias_M._Stein
+Steven_G._Krantz	hasAcademicAdvisor	Elias_M._Stein
+Steven_G._Krantz	hasAcademicAdvisor	Joseph_J._Kohn
+Steven_G._Krantz	hasAcademicAdvisor	Joseph_J._Kohn
+
+http://dbpedia.org/resource/Louis_J._Mordell	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/H._F._Baker
+Louis_J._Mordell	H._F._Baker
+Louis_J._Mordell	hasAcademicAdvisor	H._F._Baker
+Louis_J._Mordell	hasAcademicAdvisor	H._F._Baker
+
+http://dbpedia.org/resource/Kunihiko_Kodaira	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Kunihiko_Kodaira	Shokichi_Iyanaga
+Kunihiko_Kodaira	graduatedFrom	University_of_Tokyo
+Kunihiko_Kodaira	worksAt	University_of_Tokyo
+Kunihiko_Kodaira	graduatedFrom	University_of_Tokyo
+Kunihiko_Kodaira	worksAt	University_of_Tokyo
+Kunihiko_Kodaira	graduatedFrom	University_of_Tokyo
+Kunihiko_Kodaira	worksAt	University_of_Tokyo
+Kunihiko_Kodaira	graduatedFrom	University_of_Tokyo
+Kunihiko_Kodaira	worksAt	University_of_Tokyo
+Kunihiko_Kodaira	hasAcademicAdvisor	Shokichi_Iyanaga
+Kunihiko_Kodaira	hasAcademicAdvisor	Shokichi_Iyanaga
+
+http://dbpedia.org/resource/Kunihiko_Kodaira	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Kunihiko_Kodaira	Shokichi_Iyanaga
+Kunihiko_Kodaira	graduatedFrom	University_of_Tokyo
+Kunihiko_Kodaira	worksAt	University_of_Tokyo
+Kunihiko_Kodaira	graduatedFrom	University_of_Tokyo
+Kunihiko_Kodaira	worksAt	University_of_Tokyo
+Michio_Suzuki	graduatedFrom	University_of_Tokyo
+Michio_Suzuki	graduatedFrom	University_of_Tokyo
+Michio_Suzuki	hasAcademicAdvisor	Shokichi_Iyanaga
+Michio_Suzuki	hasAcademicAdvisor	Shokichi_Iyanaga
+
+http://dbpedia.org/resource/Kunihiko_Kodaira	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Kunihiko_Kodaira	Shokichi_Iyanaga
+Kunihiko_Kodaira	graduatedFrom	University_of_Tokyo
+Kunihiko_Kodaira	worksAt	University_of_Tokyo
+Kunihiko_Kodaira	graduatedFrom	University_of_Tokyo
+Kunihiko_Kodaira	worksAt	University_of_Tokyo
+Kiyosi_Itô	graduatedFrom	University_of_Tokyo
+Kiyosi_Itô	graduatedFrom	University_of_Tokyo
+Kiyosi_Itô	hasAcademicAdvisor	Shokichi_Iyanaga
+Kiyosi_Itô	hasAcademicAdvisor	Shokichi_Iyanaga
+
+http://dbpedia.org/resource/Kunihiko_Kodaira	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Kunihiko_Kodaira	Shokichi_Iyanaga
+Kunihiko_Kodaira	graduatedFrom	University_of_Tokyo
+Kunihiko_Kodaira	worksAt	University_of_Tokyo
+Kunihiko_Kodaira	graduatedFrom	University_of_Tokyo
+Kunihiko_Kodaira	worksAt	University_of_Tokyo
+Hidehiko_Yamabe	graduatedFrom	University_of_Tokyo
+Hidehiko_Yamabe	graduatedFrom	University_of_Tokyo
+Hidehiko_Yamabe	hasAcademicAdvisor	Shokichi_Iyanaga
+Hidehiko_Yamabe	hasAcademicAdvisor	Shokichi_Iyanaga
+
+http://dbpedia.org/resource/Kunihiko_Kodaira	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Kunihiko_Kodaira	Shokichi_Iyanaga
+Kunihiko_Kodaira	graduatedFrom	University_of_Tokyo
+Kunihiko_Kodaira	worksAt	University_of_Tokyo
+Kunihiko_Kodaira	graduatedFrom	University_of_Tokyo
+Kunihiko_Kodaira	worksAt	University_of_Tokyo
+Hirofumi_Uzawa	graduatedFrom	University_of_Tokyo
+Hirofumi_Uzawa	graduatedFrom	University_of_Tokyo
+Shokichi_Iyanaga	influences	Hirofumi_Uzawa
+Shokichi_Iyanaga	influences	Hirofumi_Uzawa
+
+http://dbpedia.org/resource/Kunihiko_Kodaira	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Kunihiko_Kodaira	Shokichi_Iyanaga
+Kunihiko_Kodaira	graduatedFrom	University_of_Tokyo
+Kunihiko_Kodaira	worksAt	University_of_Tokyo
+Kunihiko_Kodaira	graduatedFrom	University_of_Tokyo
+Kunihiko_Kodaira	worksAt	University_of_Tokyo
+Mikio_Sato	graduatedFrom	University_of_Tokyo
+Mikio_Sato	graduatedFrom	University_of_Tokyo
+Mikio_Sato	hasAcademicAdvisor	Shokichi_Iyanaga
+Mikio_Sato	hasAcademicAdvisor	Shokichi_Iyanaga
+
+http://dbpedia.org/resource/Kunihiko_Kodaira	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Kunihiko_Kodaira	Shokichi_Iyanaga
+Kunihiko_Kodaira	hasAcademicAdvisor	Shokichi_Iyanaga
+Kunihiko_Kodaira	hasAcademicAdvisor	Shokichi_Iyanaga
+
+http://dbpedia.org/resource/Kunihiko_Kodaira	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Shokichi_Iyanaga
+Kunihiko_Kodaira	Shokichi_Iyanaga
+Kunihiko_Kodaira	diedIn	Kōfu
+Kunihiko_Kodaira	diedIn	Kōfu
+Kunihiko_Kodaira	diedIn	Kōfu
+Kunihiko_Kodaira	diedIn	Kōfu
+Kunihiko_Kodaira	hasAcademicAdvisor	Shokichi_Iyanaga
+Kunihiko_Kodaira	hasAcademicAdvisor	Shokichi_Iyanaga
+
+http://dbpedia.org/resource/Richard_E._Stearns	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Harold_W._Kuhn
+Richard_E._Stearns	Harold_W._Kuhn
+Richard_E._Stearns	wasBornIn	Caldwell,_New_Jersey
+Richard_E._Stearns	wasBornIn	Caldwell,_New_Jersey
+Richard_E._Stearns	wasBornIn	Caldwell,_New_Jersey
+Richard_E._Stearns	wasBornIn	Caldwell,_New_Jersey
+Richard_E._Stearns	hasAcademicAdvisor	Harold_W._Kuhn
+Richard_E._Stearns	hasAcademicAdvisor	Harold_W._Kuhn
+
+http://dbpedia.org/resource/Richard_E._Stearns	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Harold_W._Kuhn
+Richard_E._Stearns	Harold_W._Kuhn
+Richard_E._Stearns	hasAcademicAdvisor	Harold_W._Kuhn
+Richard_E._Stearns	hasAcademicAdvisor	Harold_W._Kuhn
+
+http://dbpedia.org/resource/Richard_E._Stearns	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Harold_W._Kuhn
+Richard_E._Stearns	Harold_W._Kuhn
+Richard_E._Stearns	graduatedFrom	Princeton_University
+Richard_E._Stearns	graduatedFrom	Princeton_University
+Harold_W._Kuhn	graduatedFrom	Princeton_University
+Harold_W._Kuhn	worksAt	Princeton_University
+Harold_W._Kuhn	graduatedFrom	Princeton_University
+Harold_W._Kuhn	worksAt	Princeton_University
+
+http://dbpedia.org/resource/Richard_E._Stearns	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Harold_W._Kuhn
+Richard_E._Stearns	Harold_W._Kuhn
+Richard_E._Stearns	graduatedFrom	Princeton_University
+Richard_E._Stearns	graduatedFrom	Princeton_University
+Richard_E._Stearns	graduatedFrom	Princeton_University
+Richard_E._Stearns	graduatedFrom	Princeton_University
+Richard_E._Stearns	hasAcademicAdvisor	Harold_W._Kuhn
+Richard_E._Stearns	hasAcademicAdvisor	Harold_W._Kuhn
+
+http://dbpedia.org/resource/Julius_Edgar_Lilienfeld	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Planck
+Julius_Edgar_Lilienfeld	Max_Planck
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Emil_Warburg
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Emil_Warburg
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Emil_Warburg
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Emil_Warburg
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Max_Planck
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Max_Planck
+
+http://dbpedia.org/resource/Julius_Edgar_Lilienfeld	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Planck
+Julius_Edgar_Lilienfeld	Max_Planck
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Max_Planck
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Max_Planck
+
+http://dbpedia.org/resource/Julius_Edgar_Lilienfeld	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Max_Planck
+Julius_Edgar_Lilienfeld	Max_Planck
+Julius_Edgar_Lilienfeld	worksAt	Leipzig_University
+Julius_Edgar_Lilienfeld	worksAt	Leipzig_University
+Julius_Edgar_Lilienfeld	worksAt	Leipzig_University
+Julius_Edgar_Lilienfeld	worksAt	Leipzig_University
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Max_Planck
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Max_Planck
+
+http://dbpedia.org/resource/Richard_Dedekind	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Carl_Friedrich_Gauss
+Richard_Dedekind	Carl_Friedrich_Gauss
+Richard_Dedekind	hasAcademicAdvisor	Carl_Friedrich_Gauss
+Richard_Dedekind	hasAcademicAdvisor	Carl_Friedrich_Gauss
+
+http://dbpedia.org/resource/Richard_Dedekind	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Carl_Friedrich_Gauss
+Richard_Dedekind	Carl_Friedrich_Gauss
+Richard_Dedekind	graduatedFrom	University_of_Göttingen
+Richard_Dedekind	graduatedFrom	University_of_Göttingen
+Johann_Friedrich_Pfaff	graduatedFrom	University_of_Göttingen
+Johann_Friedrich_Pfaff	graduatedFrom	University_of_Göttingen
+Carl_Friedrich_Gauss	hasAcademicAdvisor	Johann_Friedrich_Pfaff
+Carl_Friedrich_Gauss	hasAcademicAdvisor	Johann_Friedrich_Pfaff
+
+http://dbpedia.org/resource/Lee_Spetner	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Bruno_Rossi
+Lee_Spetner	Bruno_Rossi
+Lee_Spetner	hasAcademicAdvisor	Bruno_Rossi
+Lee_Spetner	hasAcademicAdvisor	Bruno_Rossi
+
+http://dbpedia.org/resource/Corrado_Böhm	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Eduard_Stiefel
+Corrado_Böhm	Eduard_Stiefel
+Corrado_Böhm	hasAcademicAdvisor	Eduard_Stiefel
+Corrado_Böhm	hasAcademicAdvisor	Eduard_Stiefel
+
+http://dbpedia.org/resource/Meyer_Jerison	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Sumner_Byron_Myers
+Meyer_Jerison	Sumner_Byron_Myers
+Meyer_Jerison	graduatedFrom	University_of_Michigan
+Meyer_Jerison	graduatedFrom	University_of_Michigan
+University_of_Michigan	isLocatedIn	Ann_Arbor,_Michigan
+University_of_Michigan	isLocatedIn	Ann_Arbor,_Michigan
+Sumner_Byron_Myers	diedIn	Ann_Arbor,_Michigan
+Sumner_Byron_Myers	diedIn	Ann_Arbor,_Michigan
+
+http://dbpedia.org/resource/Meyer_Jerison	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Sumner_Byron_Myers
+Meyer_Jerison	Sumner_Byron_Myers
+Meyer_Jerison	graduatedFrom	City_College_of_New_York
+Meyer_Jerison	graduatedFrom	City_College_of_New_York
+Meyer_Jerison	graduatedFrom	City_College_of_New_York
+Meyer_Jerison	graduatedFrom	City_College_of_New_York
+Meyer_Jerison	hasAcademicAdvisor	Sumner_Byron_Myers
+Meyer_Jerison	hasAcademicAdvisor	Sumner_Byron_Myers
+
+http://dbpedia.org/resource/Meyer_Jerison	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Sumner_Byron_Myers
+Meyer_Jerison	Sumner_Byron_Myers
+Meyer_Jerison	hasAcademicAdvisor	Sumner_Byron_Myers
+Meyer_Jerison	hasAcademicAdvisor	Sumner_Byron_Myers
+
+http://dbpedia.org/resource/Meyer_Jerison	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Sumner_Byron_Myers
+Meyer_Jerison	Sumner_Byron_Myers
+Meyer_Jerison	worksAt	Purdue_University
+Meyer_Jerison	worksAt	Purdue_University
+Meyer_Jerison	worksAt	Purdue_University
+Meyer_Jerison	worksAt	Purdue_University
+Meyer_Jerison	hasAcademicAdvisor	Sumner_Byron_Myers
+Meyer_Jerison	hasAcademicAdvisor	Sumner_Byron_Myers
+
+http://dbpedia.org/resource/Sergei_Natanovich_Bernstein	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Émile_Picard
+Sergei_Natanovich_Bernstein	Émile_Picard
+Sergei_Natanovich_Bernstein	hasAcademicAdvisor	Émile_Picard
+Sergei_Natanovich_Bernstein	hasAcademicAdvisor	Émile_Picard
+
+http://dbpedia.org/resource/Sergei_Natanovich_Bernstein	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Émile_Picard
+Sergei_Natanovich_Bernstein	Émile_Picard
+Sergei_Natanovich_Bernstein	hasAcademicAdvisor	David_Hilbert
+Sergei_Natanovich_Bernstein	hasAcademicAdvisor	David_Hilbert
+Sergei_Natanovich_Bernstein	hasAcademicAdvisor	David_Hilbert
+Sergei_Natanovich_Bernstein	hasAcademicAdvisor	David_Hilbert
+Sergei_Natanovich_Bernstein	hasAcademicAdvisor	Émile_Picard
+Sergei_Natanovich_Bernstein	hasAcademicAdvisor	Émile_Picard
+
+http://dbpedia.org/resource/Jerome_Isaac_Friedman	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Enrico_Fermi
+Jerome_Isaac_Friedman	Enrico_Fermi
+Jerome_Isaac_Friedman	hasAcademicAdvisor	Enrico_Fermi
+Jerome_Isaac_Friedman	hasAcademicAdvisor	Enrico_Fermi
+
+http://dbpedia.org/resource/Jerome_Isaac_Friedman	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Enrico_Fermi
+Jerome_Isaac_Friedman	Enrico_Fermi
+Jerome_Isaac_Friedman	wasBornIn	Chicago
+Jerome_Isaac_Friedman	wasBornIn	Chicago
+Enrico_Fermi	diedIn	Chicago
+Enrico_Fermi	diedIn	Chicago
+
+http://dbpedia.org/resource/Julius_Edgar_Lilienfeld	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Emil_Warburg
+Julius_Edgar_Lilienfeld	Emil_Warburg
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Emil_Warburg
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Emil_Warburg
+
+http://dbpedia.org/resource/Julius_Edgar_Lilienfeld	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Emil_Warburg
+Julius_Edgar_Lilienfeld	Emil_Warburg
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Max_Planck
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Max_Planck
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Max_Planck
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Max_Planck
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Emil_Warburg
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Emil_Warburg
+
+http://dbpedia.org/resource/Julius_Edgar_Lilienfeld	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Emil_Warburg
+Julius_Edgar_Lilienfeld	Emil_Warburg
+Julius_Edgar_Lilienfeld	worksAt	Leipzig_University
+Julius_Edgar_Lilienfeld	worksAt	Leipzig_University
+Julius_Edgar_Lilienfeld	worksAt	Leipzig_University
+Julius_Edgar_Lilienfeld	worksAt	Leipzig_University
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Emil_Warburg
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Emil_Warburg
+
+http://dbpedia.org/resource/Philipp_Lenard	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Georg_Hermann_Quincke
+Philipp_Lenard	Georg_Hermann_Quincke
+Philipp_Lenard	worksAt	University_of_Kiel
+Philipp_Lenard	worksAt	University_of_Kiel
+Philipp_Lenard	worksAt	University_of_Kiel
+Philipp_Lenard	worksAt	University_of_Kiel
+Philipp_Lenard	hasAcademicAdvisor	Georg_Hermann_Quincke
+Philipp_Lenard	hasAcademicAdvisor	Georg_Hermann_Quincke
+
+http://dbpedia.org/resource/Philipp_Lenard	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Georg_Hermann_Quincke
+Philipp_Lenard	Georg_Hermann_Quincke
+Philipp_Lenard	hasAcademicAdvisor	Robert_Bunsen
+Philipp_Lenard	hasAcademicAdvisor	Robert_Bunsen
+Philipp_Lenard	hasAcademicAdvisor	Robert_Bunsen
+Philipp_Lenard	hasAcademicAdvisor	Robert_Bunsen
+Philipp_Lenard	hasAcademicAdvisor	Georg_Hermann_Quincke
+Philipp_Lenard	hasAcademicAdvisor	Georg_Hermann_Quincke
+
+http://dbpedia.org/resource/Philipp_Lenard	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Georg_Hermann_Quincke
+Philipp_Lenard	Georg_Hermann_Quincke
+Philipp_Lenard	hasAcademicAdvisor	Georg_Hermann_Quincke
+Philipp_Lenard	hasAcademicAdvisor	Georg_Hermann_Quincke
+
+http://dbpedia.org/resource/Alfréd_Rényi	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Frigyes_Riesz
+Alfréd_Rényi	Frigyes_Riesz
+Alfréd_Rényi	hasAcademicAdvisor	Frigyes_Riesz
+Alfréd_Rényi	hasAcademicAdvisor	Frigyes_Riesz
+
+http://dbpedia.org/resource/Alfréd_Rényi	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Frigyes_Riesz
+Alfréd_Rényi	Frigyes_Riesz
+Alfréd_Rényi	graduatedFrom	University_of_Szeged
+Alfréd_Rényi	graduatedFrom	University_of_Szeged
+Alfréd_Rényi	graduatedFrom	University_of_Szeged
+Alfréd_Rényi	graduatedFrom	University_of_Szeged
+Alfréd_Rényi	hasAcademicAdvisor	Frigyes_Riesz
+Alfréd_Rényi	hasAcademicAdvisor	Frigyes_Riesz
+
+http://dbpedia.org/resource/Alfréd_Rényi	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Frigyes_Riesz
+Alfréd_Rényi	Frigyes_Riesz
+Gábor_J._Székely	hasAcademicAdvisor	Alfréd_Rényi
+Gábor_J._Székely	hasAcademicAdvisor	Alfréd_Rényi
+Gábor_J._Székely	hasAcademicAdvisor	Alfréd_Rényi
+Gábor_J._Székely	hasAcademicAdvisor	Alfréd_Rényi
+Alfréd_Rényi	hasAcademicAdvisor	Frigyes_Riesz
+Alfréd_Rényi	hasAcademicAdvisor	Frigyes_Riesz
+
+http://dbpedia.org/resource/Donald_Knuth	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Marshall_Hall_(mathematician)
+Donald_Knuth	Marshall_Hall_(mathematician)
+Jeffrey_Vitter	hasAcademicAdvisor	Donald_Knuth
+Jeffrey_Vitter	hasAcademicAdvisor	Donald_Knuth
+Jeffrey_Vitter	hasAcademicAdvisor	Donald_Knuth
+Jeffrey_Vitter	hasAcademicAdvisor	Donald_Knuth
+Donald_Knuth	hasAcademicAdvisor	Marshall_Hall_(mathematician)
+Donald_Knuth	hasAcademicAdvisor	Marshall_Hall_(mathematician)
+
+http://dbpedia.org/resource/Donald_Knuth	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Marshall_Hall_(mathematician)
+Donald_Knuth	Marshall_Hall_(mathematician)
+Donald_Knuth	hasAcademicAdvisor	Marshall_Hall_(mathematician)
+Donald_Knuth	hasAcademicAdvisor	Marshall_Hall_(mathematician)
+
+http://dbpedia.org/resource/Donald_Knuth	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Marshall_Hall_(mathematician)
+Donald_Knuth	Marshall_Hall_(mathematician)
+Donald_Knuth	graduatedFrom	Case_Western_Reserve_University
+Donald_Knuth	graduatedFrom	Case_Western_Reserve_University
+Donald_Knuth	graduatedFrom	Case_Western_Reserve_University
+Donald_Knuth	graduatedFrom	Case_Western_Reserve_University
+Donald_Knuth	hasAcademicAdvisor	Marshall_Hall_(mathematician)
+Donald_Knuth	hasAcademicAdvisor	Marshall_Hall_(mathematician)
+
+http://dbpedia.org/resource/Donald_Knuth	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Marshall_Hall_(mathematician)
+Donald_Knuth	Marshall_Hall_(mathematician)
+Donald_Knuth	influences	Svante_Janson
+Donald_Knuth	influences	Svante_Janson
+Donald_Knuth	influences	Svante_Janson
+Donald_Knuth	influences	Svante_Janson
+Donald_Knuth	hasAcademicAdvisor	Marshall_Hall_(mathematician)
+Donald_Knuth	hasAcademicAdvisor	Marshall_Hall_(mathematician)
+
+http://dbpedia.org/resource/Donald_Knuth	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Marshall_Hall_(mathematician)
+Donald_Knuth	Marshall_Hall_(mathematician)
+Donald_Knuth	wasBornIn	Milwaukee
+Donald_Knuth	wasBornIn	Milwaukee
+Donald_Knuth	wasBornIn	Milwaukee
+Donald_Knuth	wasBornIn	Milwaukee
+Donald_Knuth	hasAcademicAdvisor	Marshall_Hall_(mathematician)
+Donald_Knuth	hasAcademicAdvisor	Marshall_Hall_(mathematician)
+
+http://dbpedia.org/resource/Paul_Markowski	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Jerry_Straka
+Paul_Markowski	Jerry_Straka
+Paul_Markowski	graduatedFrom	Pennsylvania_State_University
+Paul_Markowski	worksAt	Pennsylvania_State_University
+Paul_Markowski	graduatedFrom	Pennsylvania_State_University
+Paul_Markowski	worksAt	Pennsylvania_State_University
+Paul_Markowski	graduatedFrom	Pennsylvania_State_University
+Paul_Markowski	worksAt	Pennsylvania_State_University
+Paul_Markowski	graduatedFrom	Pennsylvania_State_University
+Paul_Markowski	worksAt	Pennsylvania_State_University
+Paul_Markowski	hasAcademicAdvisor	Jerry_Straka
+Paul_Markowski	hasAcademicAdvisor	Jerry_Straka
+
+http://dbpedia.org/resource/Paul_Markowski	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Jerry_Straka
+Paul_Markowski	Jerry_Straka
+Paul_Markowski	hasAcademicAdvisor	Jerry_Straka
+Paul_Markowski	hasAcademicAdvisor	Jerry_Straka
+
+http://dbpedia.org/resource/Carl_Neumann	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Otto_Hesse
+Carl_Neumann	Otto_Hesse
+William_Edward_Story	hasAcademicAdvisor	Carl_Neumann
+William_Edward_Story	hasAcademicAdvisor	Carl_Neumann
+William_Edward_Story	hasAcademicAdvisor	Carl_Neumann
+William_Edward_Story	hasAcademicAdvisor	Carl_Neumann
+Carl_Neumann	hasAcademicAdvisor	Otto_Hesse
+Carl_Neumann	hasAcademicAdvisor	Otto_Hesse
+
+http://dbpedia.org/resource/Carl_Neumann	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Otto_Hesse
+Carl_Neumann	Otto_Hesse
+Carl_Neumann	hasAcademicAdvisor	Friedrich_Julius_Richelot
+Carl_Neumann	hasAcademicAdvisor	Friedrich_Julius_Richelot
+Carl_Neumann	hasAcademicAdvisor	Friedrich_Julius_Richelot
+Carl_Neumann	hasAcademicAdvisor	Friedrich_Julius_Richelot
+Carl_Neumann	hasAcademicAdvisor	Otto_Hesse
+Carl_Neumann	hasAcademicAdvisor	Otto_Hesse
+
+http://dbpedia.org/resource/Carl_Neumann	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Otto_Hesse
+Carl_Neumann	Otto_Hesse
+Carl_Neumann	hasAcademicAdvisor	Friedrich_Julius_Richelot
+Carl_Neumann	hasAcademicAdvisor	Friedrich_Julius_Richelot
+Friedrich_Julius_Richelot	hasAcademicAdvisor	Carl_Gustav_Jacob_Jacobi
+Friedrich_Julius_Richelot	hasAcademicAdvisor	Carl_Gustav_Jacob_Jacobi
+Otto_Hesse	hasAcademicAdvisor	Carl_Gustav_Jacob_Jacobi
+Otto_Hesse	hasAcademicAdvisor	Carl_Gustav_Jacob_Jacobi
+
+http://dbpedia.org/resource/Carl_Neumann	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Otto_Hesse
+Carl_Neumann	Otto_Hesse
+Carl_Neumann	hasAcademicAdvisor	Otto_Hesse
+Carl_Neumann	hasAcademicAdvisor	Otto_Hesse
+
+http://dbpedia.org/resource/Carl_Neumann	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Otto_Hesse
+Carl_Neumann	Otto_Hesse
+Carl_Neumann	worksAt	University_of_Basel
+Carl_Neumann	worksAt	University_of_Basel
+Carl_Neumann	worksAt	University_of_Basel
+Carl_Neumann	worksAt	University_of_Basel
+Carl_Neumann	hasAcademicAdvisor	Otto_Hesse
+Carl_Neumann	hasAcademicAdvisor	Otto_Hesse
+
+http://dbpedia.org/resource/Charles_Phelps_Smyth	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Theodore_William_Richards
+Charles_Phelps_Smyth	Theodore_William_Richards
+Charles_Phelps_Smyth	hasAcademicAdvisor	Theodore_William_Richards
+Charles_Phelps_Smyth	hasAcademicAdvisor	Theodore_William_Richards
+
+http://dbpedia.org/resource/Charles_Phelps_Smyth	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Theodore_William_Richards
+Charles_Phelps_Smyth	Theodore_William_Richards
+Charles_Henry_Smyth,_Jr.	hasChild	Charles_Phelps_Smyth
+Charles_Henry_Smyth,_Jr.	hasChild	Charles_Phelps_Smyth
+Charles_Henry_Smyth,_Jr.	hasChild	Charles_Phelps_Smyth
+Charles_Henry_Smyth,_Jr.	hasChild	Charles_Phelps_Smyth
+Charles_Phelps_Smyth	hasAcademicAdvisor	Theodore_William_Richards
+Charles_Phelps_Smyth	hasAcademicAdvisor	Theodore_William_Richards
+
+http://dbpedia.org/resource/Charles_Phelps_Smyth	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Theodore_William_Richards
+Charles_Phelps_Smyth	Theodore_William_Richards
+Charles_Phelps_Smyth	wasBornIn	Clinton,_Oneida_County,_New_York
+Charles_Phelps_Smyth	wasBornIn	Clinton,_Oneida_County,_New_York
+Charles_Phelps_Smyth	wasBornIn	Clinton,_Oneida_County,_New_York
+Charles_Phelps_Smyth	wasBornIn	Clinton,_Oneida_County,_New_York
+Charles_Phelps_Smyth	hasAcademicAdvisor	Theodore_William_Richards
+Charles_Phelps_Smyth	hasAcademicAdvisor	Theodore_William_Richards
+
+http://dbpedia.org/resource/Adam_Heller	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Ernst_David_Bergmann
+Adam_Heller	Ernst_David_Bergmann
+Adam_Heller	hasAcademicAdvisor	Ernst_David_Bergmann
+Adam_Heller	hasAcademicAdvisor	Ernst_David_Bergmann
+
+http://dbpedia.org/resource/John_Goldsmith_(linguist)	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Morris_Halle
+John_Goldsmith_(linguist)	Morris_Halle
+John_Goldsmith_(linguist)	hasAcademicAdvisor	Morris_Halle
+John_Goldsmith_(linguist)	hasAcademicAdvisor	Morris_Halle
+
+http://dbpedia.org/resource/John_Goldsmith_(linguist)	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Morris_Halle
+John_Goldsmith_(linguist)	Morris_Halle
+John_Goldsmith_(linguist)	worksAt	Indiana_University
+John_Goldsmith_(linguist)	worksAt	Indiana_University
+John_Goldsmith_(linguist)	worksAt	Indiana_University
+John_Goldsmith_(linguist)	worksAt	Indiana_University
+John_Goldsmith_(linguist)	hasAcademicAdvisor	Morris_Halle
+John_Goldsmith_(linguist)	hasAcademicAdvisor	Morris_Halle
+
+http://dbpedia.org/resource/Mildred_Allen	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Arthur_Gordon_Webster
+Mildred_Allen	Arthur_Gordon_Webster
+Mildred_Allen	graduatedFrom	Vassar_College
+Mildred_Allen	graduatedFrom	Vassar_College
+Mildred_Allen	graduatedFrom	Vassar_College
+Mildred_Allen	graduatedFrom	Vassar_College
+Mildred_Allen	hasAcademicAdvisor	Arthur_Gordon_Webster
+Mildred_Allen	hasAcademicAdvisor	Arthur_Gordon_Webster
+
+http://dbpedia.org/resource/Mildred_Allen	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Arthur_Gordon_Webster
+Mildred_Allen	Arthur_Gordon_Webster
+Mildred_Allen	hasAcademicAdvisor	Arthur_Gordon_Webster
+Mildred_Allen	hasAcademicAdvisor	Arthur_Gordon_Webster
+
+http://dbpedia.org/resource/Mildred_Allen	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Arthur_Gordon_Webster
+Mildred_Allen	Arthur_Gordon_Webster
+Mildred_Allen	wasBornIn	Sharon,_Massachusetts
+Mildred_Allen	wasBornIn	Sharon,_Massachusetts
+Mildred_Allen	wasBornIn	Sharon,_Massachusetts
+Mildred_Allen	wasBornIn	Sharon,_Massachusetts
+Mildred_Allen	hasAcademicAdvisor	Arthur_Gordon_Webster
+Mildred_Allen	hasAcademicAdvisor	Arthur_Gordon_Webster
+
+http://dbpedia.org/resource/Mildred_Allen	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Arthur_Gordon_Webster
+Mildred_Allen	Arthur_Gordon_Webster
+Mildred_Allen	graduatedFrom	Clark_University
+Mildred_Allen	graduatedFrom	Clark_University
+Clark_University	isLocatedIn	Worcester,_Massachusetts
+Clark_University	isLocatedIn	Worcester,_Massachusetts
+Arthur_Gordon_Webster	diedIn	Worcester,_Massachusetts
+Arthur_Gordon_Webster	diedIn	Worcester,_Massachusetts
+
+http://dbpedia.org/resource/Mildred_Allen	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Arthur_Gordon_Webster
+Mildred_Allen	Arthur_Gordon_Webster
+Mildred_Allen	graduatedFrom	Clark_University
+Mildred_Allen	graduatedFrom	Clark_University
+Arthur_Gordon_Webster	graduatedFrom	Clark_University
+Arthur_Gordon_Webster	graduatedFrom	Clark_University
+
+http://dbpedia.org/resource/Mildred_Allen	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Arthur_Gordon_Webster
+Mildred_Allen	Arthur_Gordon_Webster
+Mildred_Allen	graduatedFrom	Clark_University
+Mildred_Allen	graduatedFrom	Clark_University
+Albert_Potter_Wills	graduatedFrom	Clark_University
+Albert_Potter_Wills	graduatedFrom	Clark_University
+Albert_Potter_Wills	hasAcademicAdvisor	Arthur_Gordon_Webster
+Albert_Potter_Wills	hasAcademicAdvisor	Arthur_Gordon_Webster
+
+http://dbpedia.org/resource/Mildred_Allen	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Arthur_Gordon_Webster
+Mildred_Allen	Arthur_Gordon_Webster
+Mildred_Allen	graduatedFrom	Clark_University
+Mildred_Allen	graduatedFrom	Clark_University
+Mildred_Allen	graduatedFrom	Clark_University
+Mildred_Allen	graduatedFrom	Clark_University
+Mildred_Allen	hasAcademicAdvisor	Arthur_Gordon_Webster
+Mildred_Allen	hasAcademicAdvisor	Arthur_Gordon_Webster
+
+http://dbpedia.org/resource/Ruzena_Bajcsy	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/John_McCarthy_(computer_scientist)
+Ruzena_Bajcsy	John_McCarthy_(computer_scientist)
+Ruzena_Bajcsy	hasAcademicAdvisor	John_McCarthy_(computer_scientist)
+Ruzena_Bajcsy	hasAcademicAdvisor	John_McCarthy_(computer_scientist)
+
+http://dbpedia.org/resource/Ruzena_Bajcsy	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/John_McCarthy_(computer_scientist)
+Ruzena_Bajcsy	John_McCarthy_(computer_scientist)
+Ruzena_Bajcsy	graduatedFrom	Slovak_University_of_Technology_in_Bratislava
+Ruzena_Bajcsy	graduatedFrom	Slovak_University_of_Technology_in_Bratislava
+Ruzena_Bajcsy	graduatedFrom	Slovak_University_of_Technology_in_Bratislava
+Ruzena_Bajcsy	graduatedFrom	Slovak_University_of_Technology_in_Bratislava
+Ruzena_Bajcsy	hasAcademicAdvisor	John_McCarthy_(computer_scientist)
+Ruzena_Bajcsy	hasAcademicAdvisor	John_McCarthy_(computer_scientist)
+
+http://dbpedia.org/resource/Jürgen_Moser	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Carl_Ludwig_Siegel
+Jürgen_Moser	Carl_Ludwig_Siegel
+Jürgen_Moser	hasAcademicAdvisor	Carl_Ludwig_Siegel
+Carl_Ludwig_Siegel	influences	Jürgen_Moser
+Jürgen_Moser	hasAcademicAdvisor	Carl_Ludwig_Siegel
+Carl_Ludwig_Siegel	influences	Jürgen_Moser
+
+http://dbpedia.org/resource/Jürgen_Moser	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Carl_Ludwig_Siegel
+Jürgen_Moser	Carl_Ludwig_Siegel
+Carl_Gustav_Jacob_Jacobi	influences	Jürgen_Moser
+Carl_Gustav_Jacob_Jacobi	influences	Jürgen_Moser
+Carl_Gustav_Jacob_Jacobi	influences	Jürgen_Moser
+Carl_Gustav_Jacob_Jacobi	influences	Jürgen_Moser
+Jürgen_Moser	hasAcademicAdvisor	Carl_Ludwig_Siegel
+Carl_Ludwig_Siegel	influences	Jürgen_Moser
+Jürgen_Moser	hasAcademicAdvisor	Carl_Ludwig_Siegel
+Carl_Ludwig_Siegel	influences	Jürgen_Moser
+
+http://dbpedia.org/resource/John_Robert_Kline	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Robert_Lee_Moore
+John_Robert_Kline	Robert_Lee_Moore
+John_Robert_Kline	hasAcademicAdvisor	Robert_Lee_Moore
+John_Robert_Kline	hasAcademicAdvisor	Robert_Lee_Moore
+
+http://dbpedia.org/resource/Kenneth_G._Wilson	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Murray_Gell-Mann
+Kenneth_G._Wilson	Murray_Gell-Mann
+Paul_Ginsparg	hasAcademicAdvisor	Kenneth_G._Wilson
+Paul_Ginsparg	hasAcademicAdvisor	Kenneth_G._Wilson
+Paul_Ginsparg	hasAcademicAdvisor	Kenneth_G._Wilson
+Paul_Ginsparg	hasAcademicAdvisor	Kenneth_G._Wilson
+Kenneth_G._Wilson	hasAcademicAdvisor	Murray_Gell-Mann
+Kenneth_G._Wilson	hasAcademicAdvisor	Murray_Gell-Mann
+
+http://dbpedia.org/resource/Kenneth_G._Wilson	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Murray_Gell-Mann
+Kenneth_G._Wilson	Murray_Gell-Mann
+Kenneth_G._Wilson	hasAcademicAdvisor	Murray_Gell-Mann
+Kenneth_G._Wilson	hasAcademicAdvisor	Murray_Gell-Mann
+
+http://dbpedia.org/resource/Kenneth_G._Wilson	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Murray_Gell-Mann
+Kenneth_G._Wilson	Murray_Gell-Mann
+Kenneth_G._Wilson	wasBornIn	Waltham,_Massachusetts
+Kenneth_G._Wilson	wasBornIn	Waltham,_Massachusetts
+Kenneth_G._Wilson	wasBornIn	Waltham,_Massachusetts
+Kenneth_G._Wilson	wasBornIn	Waltham,_Massachusetts
+Kenneth_G._Wilson	hasAcademicAdvisor	Murray_Gell-Mann
+Kenneth_G._Wilson	hasAcademicAdvisor	Murray_Gell-Mann
+
+http://dbpedia.org/resource/Kenneth_G._Wilson	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Murray_Gell-Mann
+Kenneth_G._Wilson	Murray_Gell-Mann
+Kenneth_G._Wilson	graduatedFrom	California_Institute_of_Technology
+Kenneth_G._Wilson	graduatedFrom	California_Institute_of_Technology
+Sidney_Coleman	graduatedFrom	California_Institute_of_Technology
+Sidney_Coleman	graduatedFrom	California_Institute_of_Technology
+Sidney_Coleman	hasAcademicAdvisor	Murray_Gell-Mann
+Sidney_Coleman	hasAcademicAdvisor	Murray_Gell-Mann
+
+http://dbpedia.org/resource/Kenneth_G._Wilson	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Murray_Gell-Mann
+Kenneth_G._Wilson	Murray_Gell-Mann
+Kenneth_G._Wilson	graduatedFrom	California_Institute_of_Technology
+Kenneth_G._Wilson	graduatedFrom	California_Institute_of_Technology
+Barton_Zwiebach	graduatedFrom	California_Institute_of_Technology
+Barton_Zwiebach	graduatedFrom	California_Institute_of_Technology
+Barton_Zwiebach	hasAcademicAdvisor	Murray_Gell-Mann
+Barton_Zwiebach	hasAcademicAdvisor	Murray_Gell-Mann
+
+http://dbpedia.org/resource/Kenneth_G._Wilson	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Murray_Gell-Mann
+Kenneth_G._Wilson	Murray_Gell-Mann
+Kenneth_G._Wilson	graduatedFrom	California_Institute_of_Technology
+Kenneth_G._Wilson	graduatedFrom	California_Institute_of_Technology
+Murray_Gell-Mann	worksAt	California_Institute_of_Technology
+Murray_Gell-Mann	worksAt	California_Institute_of_Technology
+
+http://dbpedia.org/resource/Kenneth_G._Wilson	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Murray_Gell-Mann
+Kenneth_G._Wilson	Murray_Gell-Mann
+Kenneth_G._Wilson	diedIn	Saco,_Maine
+Kenneth_G._Wilson	diedIn	Saco,_Maine
+Kenneth_G._Wilson	diedIn	Saco,_Maine
+Kenneth_G._Wilson	diedIn	Saco,_Maine
+Kenneth_G._Wilson	hasAcademicAdvisor	Murray_Gell-Mann
+Kenneth_G._Wilson	hasAcademicAdvisor	Murray_Gell-Mann
+
+http://dbpedia.org/resource/Louis_Fieser	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/James_Bryant_Conant
+Louis_Fieser	James_Bryant_Conant
+Louis_Fieser	isMarriedTo	Mary_Peters_Fieser
+Mary_Peters_Fieser	isMarriedTo	Louis_Fieser
+Louis_Fieser	isMarriedTo	Mary_Peters_Fieser
+Mary_Peters_Fieser	isMarriedTo	Louis_Fieser
+Louis_Fieser	isMarriedTo	Mary_Peters_Fieser
+Mary_Peters_Fieser	isMarriedTo	Louis_Fieser
+Louis_Fieser	isMarriedTo	Mary_Peters_Fieser
+Mary_Peters_Fieser	isMarriedTo	Louis_Fieser
+Louis_Fieser	hasAcademicAdvisor	James_Bryant_Conant
+Louis_Fieser	hasAcademicAdvisor	James_Bryant_Conant
+
+http://dbpedia.org/resource/Louis_Fieser	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/James_Bryant_Conant
+Louis_Fieser	James_Bryant_Conant
+Louis_Fieser	hasAcademicAdvisor	James_Bryant_Conant
+Louis_Fieser	hasAcademicAdvisor	James_Bryant_Conant
+
+http://dbpedia.org/resource/Edwin_E._Moise	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Robert_Lee_Moore
+Edwin_E._Moise	Robert_Lee_Moore
+Edwin_E._Moise	hasAcademicAdvisor	Robert_Lee_Moore
+Edwin_E._Moise	hasAcademicAdvisor	Robert_Lee_Moore
+
+http://dbpedia.org/resource/Charles_R._Doering	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Cécile_DeWitt-Morette
+Charles_R._Doering	Cécile_DeWitt-Morette
+Charles_R._Doering	graduatedFrom	Antioch_College
+Charles_R._Doering	graduatedFrom	Antioch_College
+Charles_R._Doering	graduatedFrom	Antioch_College
+Charles_R._Doering	graduatedFrom	Antioch_College
+Charles_R._Doering	hasAcademicAdvisor	Cécile_DeWitt-Morette
+Charles_R._Doering	hasAcademicAdvisor	Cécile_DeWitt-Morette
+
+http://dbpedia.org/resource/Charles_R._Doering	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Cécile_DeWitt-Morette
+Charles_R._Doering	Cécile_DeWitt-Morette
+Charles_R._Doering	hasAcademicAdvisor	Cécile_DeWitt-Morette
+Charles_R._Doering	hasAcademicAdvisor	Cécile_DeWitt-Morette
+
+http://dbpedia.org/resource/Charles_R._Doering	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Cécile_DeWitt-Morette
+Charles_R._Doering	Cécile_DeWitt-Morette
+Charles_R._Doering	graduatedFrom	University_of_Cincinnati
+Charles_R._Doering	graduatedFrom	University_of_Cincinnati
+Charles_R._Doering	graduatedFrom	University_of_Cincinnati
+Charles_R._Doering	graduatedFrom	University_of_Cincinnati
+Charles_R._Doering	hasAcademicAdvisor	Cécile_DeWitt-Morette
+Charles_R._Doering	hasAcademicAdvisor	Cécile_DeWitt-Morette
+
+http://dbpedia.org/resource/Charles_R._Doering	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Cécile_DeWitt-Morette
+Charles_R._Doering	Cécile_DeWitt-Morette
+Charles_R._Doering	graduatedFrom	University_of_Texas_at_Austin
+Charles_R._Doering	graduatedFrom	University_of_Texas_at_Austin
+Charles_R._Doering	graduatedFrom	University_of_Texas_at_Austin
+Charles_R._Doering	graduatedFrom	University_of_Texas_at_Austin
+Charles_R._Doering	hasAcademicAdvisor	Cécile_DeWitt-Morette
+Charles_R._Doering	hasAcademicAdvisor	Cécile_DeWitt-Morette
+
+http://dbpedia.org/resource/Felix_Villars	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Gregor_Wentzel
+Felix_Villars	Gregor_Wentzel
+Felix_Villars	wasBornIn	Biel/Bienne
+Felix_Villars	wasBornIn	Biel/Bienne
+Felix_Villars	wasBornIn	Biel/Bienne
+Felix_Villars	wasBornIn	Biel/Bienne
+Felix_Villars	hasAcademicAdvisor	Gregor_Wentzel
+Felix_Villars	hasAcademicAdvisor	Gregor_Wentzel
+
+http://dbpedia.org/resource/Felix_Villars	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Gregor_Wentzel
+Felix_Villars	Gregor_Wentzel
+Felix_Villars	hasAcademicAdvisor	Gregor_Wentzel
+Felix_Villars	hasAcademicAdvisor	Gregor_Wentzel
+
+http://dbpedia.org/resource/Felix_Villars	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Gregor_Wentzel
+Felix_Villars	Gregor_Wentzel
+Felix_Villars	hasAcademicAdvisor	Wolfgang_Pauli
+Felix_Villars	hasAcademicAdvisor	Wolfgang_Pauli
+Felix_Villars	hasAcademicAdvisor	Wolfgang_Pauli
+Felix_Villars	hasAcademicAdvisor	Wolfgang_Pauli
+Felix_Villars	hasAcademicAdvisor	Gregor_Wentzel
+Felix_Villars	hasAcademicAdvisor	Gregor_Wentzel
+
+http://dbpedia.org/resource/Felix_Villars	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Gregor_Wentzel
+Felix_Villars	Gregor_Wentzel
+Felix_Villars	hasAcademicAdvisor	Wolfgang_Pauli
+Felix_Villars	hasAcademicAdvisor	Wolfgang_Pauli
+Wolfgang_Pauli	hasAcademicAdvisor	Arnold_Sommerfeld
+Wolfgang_Pauli	hasAcademicAdvisor	Arnold_Sommerfeld
+Gregor_Wentzel	hasAcademicAdvisor	Arnold_Sommerfeld
+Gregor_Wentzel	hasAcademicAdvisor	Arnold_Sommerfeld
+
+http://dbpedia.org/resource/Felix_Villars	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Gregor_Wentzel
+Felix_Villars	Gregor_Wentzel
+Felix_Villars	hasAcademicAdvisor	Wolfgang_Pauli
+Felix_Villars	hasAcademicAdvisor	Wolfgang_Pauli
+Nicholas_Kemmer	hasAcademicAdvisor	Wolfgang_Pauli
+Nicholas_Kemmer	hasAcademicAdvisor	Wolfgang_Pauli
+Nicholas_Kemmer	hasAcademicAdvisor	Gregor_Wentzel
+Nicholas_Kemmer	hasAcademicAdvisor	Gregor_Wentzel
+
+http://dbpedia.org/resource/Felix_Villars	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Gregor_Wentzel
+Felix_Villars	Gregor_Wentzel
+Felix_Villars	hasAcademicAdvisor	Wolfgang_Pauli
+Felix_Villars	hasAcademicAdvisor	Wolfgang_Pauli
+Wolfgang_Pauli	influences	Markus_Fierz
+Wolfgang_Pauli	influences	Markus_Fierz
+Markus_Fierz	hasAcademicAdvisor	Gregor_Wentzel
+Markus_Fierz	hasAcademicAdvisor	Gregor_Wentzel
+
+http://dbpedia.org/resource/Felix_Villars	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Gregor_Wentzel
+Felix_Villars	Gregor_Wentzel
+Felix_Villars	diedIn	Belmont,_Massachusetts
+Felix_Villars	diedIn	Belmont,_Massachusetts
+Felix_Villars	diedIn	Belmont,_Massachusetts
+Felix_Villars	diedIn	Belmont,_Massachusetts
+Felix_Villars	hasAcademicAdvisor	Gregor_Wentzel
+Felix_Villars	hasAcademicAdvisor	Gregor_Wentzel
+
+http://dbpedia.org/resource/Martin_Wilhelm_Kutta	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Ferdinand_von_Lindemann
+Martin_Wilhelm_Kutta	Ferdinand_von_Lindemann
+Martin_Wilhelm_Kutta	diedIn	Fürstenfeldbruck
+Martin_Wilhelm_Kutta	diedIn	Fürstenfeldbruck
+Martin_Wilhelm_Kutta	diedIn	Fürstenfeldbruck
+Martin_Wilhelm_Kutta	diedIn	Fürstenfeldbruck
+Martin_Wilhelm_Kutta	hasAcademicAdvisor	Ferdinand_von_Lindemann
+Martin_Wilhelm_Kutta	hasAcademicAdvisor	Ferdinand_von_Lindemann
+
+http://dbpedia.org/resource/Martin_Wilhelm_Kutta	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Ferdinand_von_Lindemann
+Martin_Wilhelm_Kutta	Ferdinand_von_Lindemann
+Martin_Wilhelm_Kutta	graduatedFrom	University_of_Wrocław
+Martin_Wilhelm_Kutta	graduatedFrom	University_of_Wrocław
+Martin_Wilhelm_Kutta	graduatedFrom	University_of_Wrocław
+Martin_Wilhelm_Kutta	graduatedFrom	University_of_Wrocław
+Martin_Wilhelm_Kutta	hasAcademicAdvisor	Ferdinand_von_Lindemann
+Martin_Wilhelm_Kutta	hasAcademicAdvisor	Ferdinand_von_Lindemann
+
+http://dbpedia.org/resource/Martin_Wilhelm_Kutta	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Ferdinand_von_Lindemann
+Martin_Wilhelm_Kutta	Ferdinand_von_Lindemann
+Martin_Wilhelm_Kutta	hasAcademicAdvisor	Ferdinand_von_Lindemann
+Martin_Wilhelm_Kutta	hasAcademicAdvisor	Ferdinand_von_Lindemann
+
+http://dbpedia.org/resource/H._F._Baker	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Arthur_Cayley
+H._F._Baker	Arthur_Cayley
+Jacob_Bronowski	hasAcademicAdvisor	H._F._Baker
+Jacob_Bronowski	hasAcademicAdvisor	H._F._Baker
+Jacob_Bronowski	hasAcademicAdvisor	H._F._Baker
+Jacob_Bronowski	hasAcademicAdvisor	H._F._Baker
+H._F._Baker	hasAcademicAdvisor	Arthur_Cayley
+H._F._Baker	hasAcademicAdvisor	Arthur_Cayley
+
+http://dbpedia.org/resource/H._F._Baker	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Arthur_Cayley
+H._F._Baker	Arthur_Cayley
+H._F._Baker	hasAcademicAdvisor	Arthur_Cayley
+H._F._Baker	hasAcademicAdvisor	Arthur_Cayley
+
+http://dbpedia.org/resource/H._F._Baker	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Arthur_Cayley
+H._F._Baker	Arthur_Cayley
+J._A._Todd	hasAcademicAdvisor	H._F._Baker
+J._A._Todd	hasAcademicAdvisor	H._F._Baker
+J._A._Todd	hasAcademicAdvisor	H._F._Baker
+J._A._Todd	hasAcademicAdvisor	H._F._Baker
+H._F._Baker	hasAcademicAdvisor	Arthur_Cayley
+H._F._Baker	hasAcademicAdvisor	Arthur_Cayley
+
+http://dbpedia.org/resource/H._F._Baker	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Arthur_Cayley
+H._F._Baker	Arthur_Cayley
+Louis_J._Mordell	hasAcademicAdvisor	H._F._Baker
+Louis_J._Mordell	hasAcademicAdvisor	H._F._Baker
+Louis_J._Mordell	hasAcademicAdvisor	H._F._Baker
+Louis_J._Mordell	hasAcademicAdvisor	H._F._Baker
+H._F._Baker	hasAcademicAdvisor	Arthur_Cayley
+H._F._Baker	hasAcademicAdvisor	Arthur_Cayley
+
+http://dbpedia.org/resource/Glenn_T._Seaborg	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Gilbert_N._Lewis
+Glenn_T._Seaborg	Gilbert_N._Lewis
+Otto_Hahn	influences	Glenn_T._Seaborg
+Otto_Hahn	influences	Glenn_T._Seaborg
+Otto_Hahn	influences	Glenn_T._Seaborg
+Otto_Hahn	influences	Glenn_T._Seaborg
+Glenn_T._Seaborg	hasAcademicAdvisor	Gilbert_N._Lewis
+Glenn_T._Seaborg	hasAcademicAdvisor	Gilbert_N._Lewis
+
+http://dbpedia.org/resource/Glenn_T._Seaborg	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Gilbert_N._Lewis
+Glenn_T._Seaborg	Gilbert_N._Lewis
+John_Gofman	hasAcademicAdvisor	Glenn_T._Seaborg
+John_Gofman	hasAcademicAdvisor	Glenn_T._Seaborg
+John_Gofman	hasAcademicAdvisor	Glenn_T._Seaborg
+John_Gofman	hasAcademicAdvisor	Glenn_T._Seaborg
+Glenn_T._Seaborg	hasAcademicAdvisor	Gilbert_N._Lewis
+Glenn_T._Seaborg	hasAcademicAdvisor	Gilbert_N._Lewis
+
+http://dbpedia.org/resource/Glenn_T._Seaborg	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Gilbert_N._Lewis
+Glenn_T._Seaborg	Gilbert_N._Lewis
+Joseph_W._Kennedy	hasAcademicAdvisor	Glenn_T._Seaborg
+Joseph_W._Kennedy	hasAcademicAdvisor	Glenn_T._Seaborg
+Joseph_W._Kennedy	hasAcademicAdvisor	Glenn_T._Seaborg
+Joseph_W._Kennedy	hasAcademicAdvisor	Glenn_T._Seaborg
+Glenn_T._Seaborg	hasAcademicAdvisor	Gilbert_N._Lewis
+Glenn_T._Seaborg	hasAcademicAdvisor	Gilbert_N._Lewis
+
+http://dbpedia.org/resource/Glenn_T._Seaborg	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Gilbert_N._Lewis
+Glenn_T._Seaborg	Gilbert_N._Lewis
+Glenn_T._Seaborg	hasAcademicAdvisor	Gilbert_N._Lewis
+Glenn_T._Seaborg	hasAcademicAdvisor	Gilbert_N._Lewis
+
+http://dbpedia.org/resource/Glenn_T._Seaborg	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Gilbert_N._Lewis
+Glenn_T._Seaborg	Gilbert_N._Lewis
+Glenn_T._Seaborg	hasAcademicAdvisor	George_Ernest_Gibson
+Glenn_T._Seaborg	hasAcademicAdvisor	George_Ernest_Gibson
+Glenn_T._Seaborg	hasAcademicAdvisor	George_Ernest_Gibson
+Glenn_T._Seaborg	hasAcademicAdvisor	George_Ernest_Gibson
+Glenn_T._Seaborg	hasAcademicAdvisor	Gilbert_N._Lewis
+Glenn_T._Seaborg	hasAcademicAdvisor	Gilbert_N._Lewis
+
+http://dbpedia.org/resource/Glenn_T._Seaborg	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Gilbert_N._Lewis
+Glenn_T._Seaborg	Gilbert_N._Lewis
+Glenn_T._Seaborg	worksAt	United_States_Atomic_Energy_Commission
+Glenn_T._Seaborg	worksAt	United_States_Atomic_Energy_Commission
+Glenn_T._Seaborg	worksAt	United_States_Atomic_Energy_Commission
+Glenn_T._Seaborg	worksAt	United_States_Atomic_Energy_Commission
+Glenn_T._Seaborg	hasAcademicAdvisor	Gilbert_N._Lewis
+Glenn_T._Seaborg	hasAcademicAdvisor	Gilbert_N._Lewis
+
+http://dbpedia.org/resource/Glenn_T._Seaborg	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Gilbert_N._Lewis
+Glenn_T._Seaborg	Gilbert_N._Lewis
+Arthur_Wahl	hasAcademicAdvisor	Glenn_T._Seaborg
+Arthur_Wahl	hasAcademicAdvisor	Glenn_T._Seaborg
+Arthur_Wahl	hasAcademicAdvisor	Glenn_T._Seaborg
+Arthur_Wahl	hasAcademicAdvisor	Glenn_T._Seaborg
+Glenn_T._Seaborg	hasAcademicAdvisor	Gilbert_N._Lewis
+Glenn_T._Seaborg	hasAcademicAdvisor	Gilbert_N._Lewis
+
+http://dbpedia.org/resource/Stanislaw_Ulam	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Kazimierz_Kuratowski
+Stanislaw_Ulam	Kazimierz_Kuratowski
+Stanislaw_Ulam	hasAcademicAdvisor	Kazimierz_Kuratowski
+Stanislaw_Ulam	hasAcademicAdvisor	Kazimierz_Kuratowski
+
+http://dbpedia.org/resource/Stanislaw_Ulam	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Kazimierz_Kuratowski
+Stanislaw_Ulam	Kazimierz_Kuratowski
+Stanislaw_Ulam	worksAt	University_of_Colorado_Boulder
+Stanislaw_Ulam	worksAt	University_of_Colorado_Boulder
+Stanislaw_Ulam	worksAt	University_of_Colorado_Boulder
+Stanislaw_Ulam	worksAt	University_of_Colorado_Boulder
+Stanislaw_Ulam	hasAcademicAdvisor	Kazimierz_Kuratowski
+Stanislaw_Ulam	hasAcademicAdvisor	Kazimierz_Kuratowski
+
+http://dbpedia.org/resource/Stanislaw_Ulam	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Kazimierz_Kuratowski
+Stanislaw_Ulam	Kazimierz_Kuratowski
+Stanislaw_Ulam	hasAcademicAdvisor	Włodzimierz_Stożek
+Stanislaw_Ulam	hasAcademicAdvisor	Włodzimierz_Stożek
+Stanislaw_Ulam	hasAcademicAdvisor	Włodzimierz_Stożek
+Stanislaw_Ulam	hasAcademicAdvisor	Włodzimierz_Stożek
+Stanislaw_Ulam	hasAcademicAdvisor	Kazimierz_Kuratowski
+Stanislaw_Ulam	hasAcademicAdvisor	Kazimierz_Kuratowski
+
+http://dbpedia.org/resource/Stanislaw_Ulam	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Kazimierz_Kuratowski
+Stanislaw_Ulam	Kazimierz_Kuratowski
+Stanislaw_Ulam	wasBornIn	Austria-Hungary
+Stanislaw_Ulam	wasBornIn	Austria-Hungary
+Stanislaw_Ulam	wasBornIn	Austria-Hungary
+Stanislaw_Ulam	wasBornIn	Austria-Hungary
+Stanislaw_Ulam	hasAcademicAdvisor	Kazimierz_Kuratowski
+Stanislaw_Ulam	hasAcademicAdvisor	Kazimierz_Kuratowski
+
+http://dbpedia.org/resource/Stanislaw_Ulam	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Kazimierz_Kuratowski
+Stanislaw_Ulam	Kazimierz_Kuratowski
+Stanislaw_Ulam	graduatedFrom	Lviv_Polytechnic
+Stanislaw_Ulam	graduatedFrom	Lviv_Polytechnic
+Stanislaw_Ulam	graduatedFrom	Lviv_Polytechnic
+Stanislaw_Ulam	graduatedFrom	Lviv_Polytechnic
+Stanislaw_Ulam	hasAcademicAdvisor	Kazimierz_Kuratowski
+Stanislaw_Ulam	hasAcademicAdvisor	Kazimierz_Kuratowski
+
+http://dbpedia.org/resource/Stanislaw_Ulam	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Kazimierz_Kuratowski
+Stanislaw_Ulam	Kazimierz_Kuratowski
+Stanislaw_Ulam	worksAt	University_of_Florida
+Stanislaw_Ulam	worksAt	University_of_Florida
+Stanislaw_Ulam	worksAt	University_of_Florida
+Stanislaw_Ulam	worksAt	University_of_Florida
+Stanislaw_Ulam	hasAcademicAdvisor	Kazimierz_Kuratowski
+Stanislaw_Ulam	hasAcademicAdvisor	Kazimierz_Kuratowski
+
+http://dbpedia.org/resource/Richard_T._Snodgrass	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/William_Wulf
+Richard_T._Snodgrass	William_Wulf
+Richard_T._Snodgrass	hasAcademicAdvisor	William_Wulf
+Richard_T._Snodgrass	hasAcademicAdvisor	William_Wulf
+
+http://dbpedia.org/resource/Richard_T._Snodgrass	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/William_Wulf
+Richard_T._Snodgrass	William_Wulf
+Richard_T._Snodgrass	graduatedFrom	Carleton_College
+Richard_T._Snodgrass	graduatedFrom	Carleton_College
+Richard_T._Snodgrass	graduatedFrom	Carleton_College
+Richard_T._Snodgrass	graduatedFrom	Carleton_College
+Richard_T._Snodgrass	hasAcademicAdvisor	William_Wulf
+Richard_T._Snodgrass	hasAcademicAdvisor	William_Wulf
+
+http://dbpedia.org/resource/Richard_T._Snodgrass	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/William_Wulf
+Richard_T._Snodgrass	William_Wulf
+Richard_T._Snodgrass	livesIn	Tucson,_Arizona
+Richard_T._Snodgrass	livesIn	Tucson,_Arizona
+Richard_T._Snodgrass	livesIn	Tucson,_Arizona
+Richard_T._Snodgrass	livesIn	Tucson,_Arizona
+Richard_T._Snodgrass	hasAcademicAdvisor	William_Wulf
+Richard_T._Snodgrass	hasAcademicAdvisor	William_Wulf
+
+http://dbpedia.org/resource/Leonard_Gillman	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Alfred_Tarski
+Leonard_Gillman	Alfred_Tarski
+Leonard_Gillman	hasAcademicAdvisor	Alfred_Tarski
+Leonard_Gillman	hasAcademicAdvisor	Alfred_Tarski
+
+http://dbpedia.org/resource/Leonard_Gillman	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Alfred_Tarski
+Leonard_Gillman	Alfred_Tarski
+Leonard_Gillman	hasAcademicAdvisor	Edgar_Lorch
+Leonard_Gillman	hasAcademicAdvisor	Edgar_Lorch
+Leonard_Gillman	hasAcademicAdvisor	Edgar_Lorch
+Leonard_Gillman	hasAcademicAdvisor	Edgar_Lorch
+Leonard_Gillman	hasAcademicAdvisor	Alfred_Tarski
+Leonard_Gillman	hasAcademicAdvisor	Alfred_Tarski
+
+http://dbpedia.org/resource/Leonard_Gillman	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Alfred_Tarski
+Leonard_Gillman	Alfred_Tarski
+Leonard_Gillman	worksAt	University_of_Rochester
+Leonard_Gillman	worksAt	University_of_Rochester
+Leonard_Gillman	worksAt	University_of_Rochester
+Leonard_Gillman	worksAt	University_of_Rochester
+Leonard_Gillman	hasAcademicAdvisor	Alfred_Tarski
+Leonard_Gillman	hasAcademicAdvisor	Alfred_Tarski
+
+http://dbpedia.org/resource/Roald_Hoffmann	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/William_Lipscomb
+Roald_Hoffmann	William_Lipscomb
+Roald_Hoffmann	hasAcademicAdvisor	William_Lipscomb
+Roald_Hoffmann	hasAcademicAdvisor	William_Lipscomb
+
+http://dbpedia.org/resource/Roald_Hoffmann	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/William_Lipscomb
+Roald_Hoffmann	William_Lipscomb
+Roald_Hoffmann	wasBornIn	Zolochiv
+Roald_Hoffmann	wasBornIn	Zolochiv
+Roald_Hoffmann	wasBornIn	Zolochiv
+Roald_Hoffmann	wasBornIn	Zolochiv
+Roald_Hoffmann	hasAcademicAdvisor	William_Lipscomb
+Roald_Hoffmann	hasAcademicAdvisor	William_Lipscomb
+
+http://dbpedia.org/resource/Michael_F._Shlesinger	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Elliott_Waters_Montroll
+Michael_F._Shlesinger	Elliott_Waters_Montroll
+Michael_F._Shlesinger	graduatedFrom	University_of_Rochester
+Michael_F._Shlesinger	graduatedFrom	University_of_Rochester
+Elliott_Waters_Montroll	worksAt	University_of_Rochester
+Elliott_Waters_Montroll	worksAt	University_of_Rochester
+
+http://dbpedia.org/resource/Michael_F._Shlesinger	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Elliott_Waters_Montroll
+Michael_F._Shlesinger	Elliott_Waters_Montroll
+Michael_F._Shlesinger	worksAt	United_States_Naval_Academy
+Michael_F._Shlesinger	worksAt	United_States_Naval_Academy
+Michael_F._Shlesinger	worksAt	United_States_Naval_Academy
+Michael_F._Shlesinger	worksAt	United_States_Naval_Academy
+Michael_F._Shlesinger	hasAcademicAdvisor	Elliott_Waters_Montroll
+Michael_F._Shlesinger	hasAcademicAdvisor	Elliott_Waters_Montroll
+
+http://dbpedia.org/resource/Michael_F._Shlesinger	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Elliott_Waters_Montroll
+Michael_F._Shlesinger	Elliott_Waters_Montroll
+Michael_F._Shlesinger	hasAcademicAdvisor	Elliott_Waters_Montroll
+Michael_F._Shlesinger	hasAcademicAdvisor	Elliott_Waters_Montroll
+
+http://dbpedia.org/resource/Vicki_L._Hanson	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Michael_Posner_(psychologist)
+Vicki_L._Hanson	Michael_Posner_(psychologist)
+Vicki_L._Hanson	worksAt	Rochester_Institute_of_Technology
+Vicki_L._Hanson	worksAt	Rochester_Institute_of_Technology
+Vicki_L._Hanson	worksAt	Rochester_Institute_of_Technology
+Vicki_L._Hanson	worksAt	Rochester_Institute_of_Technology
+Vicki_L._Hanson	hasAcademicAdvisor	Michael_Posner_(psychologist)
+Vicki_L._Hanson	hasAcademicAdvisor	Michael_Posner_(psychologist)
+
+http://dbpedia.org/resource/Vicki_L._Hanson	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Michael_Posner_(psychologist)
+Vicki_L._Hanson	Michael_Posner_(psychologist)
+Vicki_L._Hanson	graduatedFrom	University_of_Colorado
+Vicki_L._Hanson	graduatedFrom	University_of_Colorado
+Vicki_L._Hanson	graduatedFrom	University_of_Colorado
+Vicki_L._Hanson	graduatedFrom	University_of_Colorado
+Vicki_L._Hanson	hasAcademicAdvisor	Michael_Posner_(psychologist)
+Vicki_L._Hanson	hasAcademicAdvisor	Michael_Posner_(psychologist)
+
+http://dbpedia.org/resource/Vicki_L._Hanson	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Michael_Posner_(psychologist)
+Vicki_L._Hanson	Michael_Posner_(psychologist)
+Vicki_L._Hanson	hasAcademicAdvisor	Michael_Posner_(psychologist)
+Vicki_L._Hanson	hasAcademicAdvisor	Michael_Posner_(psychologist)
+
+http://dbpedia.org/resource/Joseph_L._Walsh	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Maxime_Bôcher
+Joseph_L._Walsh	Maxime_Bôcher
+Joseph_L._Walsh	diedIn	College_Park,_Maryland
+Joseph_L._Walsh	diedIn	College_Park,_Maryland
+Joseph_L._Walsh	diedIn	College_Park,_Maryland
+Joseph_L._Walsh	diedIn	College_Park,_Maryland
+Joseph_L._Walsh	hasAcademicAdvisor	Maxime_Bôcher
+Joseph_L._Walsh	hasAcademicAdvisor	Maxime_Bôcher
+
+http://dbpedia.org/resource/Joseph_L._Walsh	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Maxime_Bôcher
+Joseph_L._Walsh	Maxime_Bôcher
+Richard_S._Varga	hasAcademicAdvisor	Joseph_L._Walsh
+Richard_S._Varga	hasAcademicAdvisor	Joseph_L._Walsh
+Richard_S._Varga	hasAcademicAdvisor	Joseph_L._Walsh
+Richard_S._Varga	hasAcademicAdvisor	Joseph_L._Walsh
+Joseph_L._Walsh	hasAcademicAdvisor	Maxime_Bôcher
+Joseph_L._Walsh	hasAcademicAdvisor	Maxime_Bôcher
+
+http://dbpedia.org/resource/Joseph_L._Walsh	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Maxime_Bôcher
+Joseph_L._Walsh	Maxime_Bôcher
+Joseph_L._Walsh	hasAcademicAdvisor	Maxime_Bôcher
+Joseph_L._Walsh	hasAcademicAdvisor	Maxime_Bôcher
+
+http://dbpedia.org/resource/Joseph_L._Walsh	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Maxime_Bôcher
+Joseph_L._Walsh	Maxime_Bôcher
+Donald_J._Newman	hasAcademicAdvisor	Joseph_L._Walsh
+Donald_J._Newman	hasAcademicAdvisor	Joseph_L._Walsh
+Donald_J._Newman	hasAcademicAdvisor	Joseph_L._Walsh
+Donald_J._Newman	hasAcademicAdvisor	Joseph_L._Walsh
+Joseph_L._Walsh	hasAcademicAdvisor	Maxime_Bôcher
+Joseph_L._Walsh	hasAcademicAdvisor	Maxime_Bôcher
+
+http://dbpedia.org/resource/Joseph_L._Walsh	http://dbpedia.org/ontology/doctoralAdvisor	http://dbpedia.org/resource/Maxime_Bôcher
+Joseph_L._Walsh	Maxime_Bôcher
+Joseph_L._Doob	hasAcademicAdvisor	Joseph_L._Walsh
+Joseph_L._Doob	hasAcademicAdvisor	Joseph_L._Walsh
+Joseph_L._Doob	hasAcademicAdvisor	Joseph_L._Walsh
+Joseph_L._Doob	hasAcademicAdvisor	Joseph_L._Walsh
+Joseph_L._Walsh	hasAcademicAdvisor	Maxime_Bôcher
+Joseph_L._Walsh	hasAcademicAdvisor	Maxime_Bôcher
+

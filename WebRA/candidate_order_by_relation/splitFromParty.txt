@@ -1,0 +1,39 @@
+http://dbpedia.org/resource/National_Party_of_Work	http://dbpedia.org/ontology/splitFromParty	http://dbpedia.org/resource/National_Constitution_Party
+National_Party_of_Work	National_Constitution_Party
+National_Party_of_Work	isLocatedIn	Lands_of_the_Crown_of_Saint_Stephen
+National_Party_of_Work	isLocatedIn	Lands_of_the_Crown_of_Saint_Stephen
+National_Constitution_Party	isLocatedIn	Lands_of_the_Crown_of_Saint_Stephen
+National_Constitution_Party	isLocatedIn	Lands_of_the_Crown_of_Saint_Stephen
+
+http://dbpedia.org/resource/Sri_Lanka_Freedom_Party	http://dbpedia.org/ontology/splitFromParty	http://dbpedia.org/resource/United_National_Party
+Sri_Lanka_Freedom_Party	United_National_Party
+Mano_Wijeyeratne	isAffiliatedTo	Sri_Lanka_Freedom_Party
+Mano_Wijeyeratne	isAffiliatedTo	Sri_Lanka_Freedom_Party
+Nissanka_Wijeyeratne	hasChild	Mano_Wijeyeratne
+Nissanka_Wijeyeratne	hasChild	Mano_Wijeyeratne
+Nissanka_Wijeyeratne	isAffiliatedTo	United_National_Party
+Nissanka_Wijeyeratne	isAffiliatedTo	United_National_Party
+
+http://dbpedia.org/resource/Sri_Lanka_Freedom_Party	http://dbpedia.org/ontology/splitFromParty	http://dbpedia.org/resource/United_National_Party
+Sri_Lanka_Freedom_Party	United_National_Party
+M._Mahroof	isAffiliatedTo	Sri_Lanka_Freedom_Party
+M._Mahroof	isAffiliatedTo	Sri_Lanka_Freedom_Party
+M._Mahroof	isAffiliatedTo	United_National_Party
+M._Mahroof	isAffiliatedTo	United_National_Party
+
+http://dbpedia.org/resource/Intransigent_Radical_Civic_Union	http://dbpedia.org/ontology/splitFromParty	http://dbpedia.org/resource/Radical_Civic_Union
+Intransigent_Radical_Civic_Union	Radical_Civic_Union
+Arturo_Frondizi	isAffiliatedTo	Intransigent_Radical_Civic_Union
+Arturo_Frondizi	isLeaderOf	Intransigent_Radical_Civic_Union
+Arturo_Frondizi	isAffiliatedTo	Intransigent_Radical_Civic_Union
+Arturo_Frondizi	isLeaderOf	Intransigent_Radical_Civic_Union
+Arturo_Frondizi	isAffiliatedTo	Radical_Civic_Union
+Arturo_Frondizi	isAffiliatedTo	Radical_Civic_Union
+
+http://dbpedia.org/resource/Intransigent_Radical_Civic_Union	http://dbpedia.org/ontology/splitFromParty	http://dbpedia.org/resource/Radical_Civic_Union
+Intransigent_Radical_Civic_Union	Radical_Civic_Union
+Alejandro_Gómez_(politician)	isAffiliatedTo	Intransigent_Radical_Civic_Union
+Alejandro_Gómez_(politician)	isAffiliatedTo	Intransigent_Radical_Civic_Union
+Alejandro_Gómez_(politician)	isAffiliatedTo	Radical_Civic_Union
+Alejandro_Gómez_(politician)	isAffiliatedTo	Radical_Civic_Union
+

@@ -1,0 +1,76 @@
+http://dbpedia.org/resource/Jean-Luc_Marion	http://dbpedia.org/ontology/mainInterest	http://dbpedia.org/resource/René_Descartes
+Jean-Luc_Marion	René_Descartes
+Jean-Luc_Marion	isInterestedIn	René_Descartes
+René_Descartes	influences	Jean-Luc_Marion
+Jean-Luc_Marion	isInterestedIn	René_Descartes
+René_Descartes	influences	Jean-Luc_Marion
+
+http://dbpedia.org/resource/Jean-Luc_Marion	http://dbpedia.org/ontology/mainInterest	http://dbpedia.org/resource/René_Descartes
+Jean-Luc_Marion	René_Descartes
+Jean-Luc_Marion	influences	Peter_Rollins
+Jean-Luc_Marion	influences	Peter_Rollins
+Emmanuel_Levinas	influences	Peter_Rollins
+Emmanuel_Levinas	influences	Peter_Rollins
+René_Descartes	influences	Emmanuel_Levinas
+René_Descartes	influences	Emmanuel_Levinas
+
+http://dbpedia.org/resource/Jean-Luc_Marion	http://dbpedia.org/ontology/mainInterest	http://dbpedia.org/resource/René_Descartes
+Jean-Luc_Marion	René_Descartes
+Jean-Luc_Marion	influences	Peter_Rollins
+Jean-Luc_Marion	influences	Peter_Rollins
+Slavoj_Žižek	influences	Peter_Rollins
+Slavoj_Žižek	influences	Peter_Rollins
+René_Descartes	influences	Slavoj_Žižek
+René_Descartes	influences	Slavoj_Žižek
+
+http://dbpedia.org/resource/Jean-Luc_Marion	http://dbpedia.org/ontology/mainInterest	http://dbpedia.org/resource/René_Descartes
+Jean-Luc_Marion	René_Descartes
+Jean-Luc_Marion	influences	Peter_Rollins
+Jean-Luc_Marion	influences	Peter_Rollins
+Jean-Luc_Marion	influences	Peter_Rollins
+Jean-Luc_Marion	influences	Peter_Rollins
+Jean-Luc_Marion	isInterestedIn	René_Descartes
+René_Descartes	influences	Jean-Luc_Marion
+Jean-Luc_Marion	isInterestedIn	René_Descartes
+René_Descartes	influences	Jean-Luc_Marion
+
+http://dbpedia.org/resource/Jean-Luc_Marion	http://dbpedia.org/ontology/mainInterest	http://dbpedia.org/resource/René_Descartes
+Jean-Luc_Marion	René_Descartes
+Edmund_Husserl	influences	Jean-Luc_Marion
+Edmund_Husserl	influences	Jean-Luc_Marion
+Edmund_Husserl	influences	Jean-Luc_Marion
+Edmund_Husserl	influences	Jean-Luc_Marion
+Jean-Luc_Marion	isInterestedIn	René_Descartes
+René_Descartes	influences	Jean-Luc_Marion
+Jean-Luc_Marion	isInterestedIn	René_Descartes
+René_Descartes	influences	Jean-Luc_Marion
+
+http://dbpedia.org/resource/Jean-Luc_Marion	http://dbpedia.org/ontology/mainInterest	http://dbpedia.org/resource/René_Descartes
+Jean-Luc_Marion	René_Descartes
+Jean-Luc_Marion	influences	Catherine_Malabou
+Jean-Luc_Marion	influences	Catherine_Malabou
+Jean-Luc_Marion	influences	Catherine_Malabou
+Jean-Luc_Marion	influences	Catherine_Malabou
+Jean-Luc_Marion	isInterestedIn	René_Descartes
+René_Descartes	influences	Jean-Luc_Marion
+Jean-Luc_Marion	isInterestedIn	René_Descartes
+René_Descartes	influences	Jean-Luc_Marion
+
+http://dbpedia.org/resource/Jean-Luc_Marion	http://dbpedia.org/ontology/mainInterest	http://dbpedia.org/resource/René_Descartes
+Jean-Luc_Marion	René_Descartes
+Emmanuel_Levinas	influences	Jean-Luc_Marion
+Emmanuel_Levinas	influences	Jean-Luc_Marion
+René_Descartes	influences	Emmanuel_Levinas
+René_Descartes	influences	Emmanuel_Levinas
+
+http://dbpedia.org/resource/Jean-Luc_Marion	http://dbpedia.org/ontology/mainInterest	http://dbpedia.org/resource/René_Descartes
+Jean-Luc_Marion	René_Descartes
+Emmanuel_Levinas	influences	Jean-Luc_Marion
+Emmanuel_Levinas	influences	Jean-Luc_Marion
+Emmanuel_Levinas	influences	Jean-Luc_Marion
+Emmanuel_Levinas	influences	Jean-Luc_Marion
+Jean-Luc_Marion	isInterestedIn	René_Descartes
+René_Descartes	influences	Jean-Luc_Marion
+Jean-Luc_Marion	isInterestedIn	René_Descartes
+René_Descartes	influences	Jean-Luc_Marion
+

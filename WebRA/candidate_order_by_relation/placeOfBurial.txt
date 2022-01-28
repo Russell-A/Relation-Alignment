@@ -1,0 +1,212 @@
+http://dbpedia.org/resource/Muhammad_Ahmad	http://dbpedia.org/ontology/placeOfBurial	http://dbpedia.org/resource/Sudan
+Muhammad_Ahmad	Sudan
+Muhammad_Ahmad	diedIn	Khartoum
+Muhammad_Ahmad	diedIn	Khartoum
+Sudan	hasCapital	Khartoum
+Khartoum	isLocatedIn	Sudan
+Sudan	hasCapital	Khartoum
+Khartoum	isLocatedIn	Sudan
+
+http://dbpedia.org/resource/Muhammad_Ahmad	http://dbpedia.org/ontology/placeOfBurial	http://dbpedia.org/resource/Sudan
+Muhammad_Ahmad	Sudan
+Muhammad_Ahmad	diedIn	Khartoum
+Muhammad_Ahmad	diedIn	Khartoum
+Khartoum_(state)	isLocatedIn	Khartoum
+Khartoum_(state)	hasCapital	Khartoum
+Khartoum	isLocatedIn	Khartoum_(state)
+Khartoum_(state)	isLocatedIn	Khartoum
+Khartoum_(state)	hasCapital	Khartoum
+Khartoum	isLocatedIn	Khartoum_(state)
+Khartoum_(state)	isLocatedIn	Sudan
+Khartoum_(state)	isLocatedIn	Sudan
+
+http://dbpedia.org/resource/Muhammad_Ahmad	http://dbpedia.org/ontology/placeOfBurial	http://dbpedia.org/resource/Sudan
+Muhammad_Ahmad	Sudan
+Muhammad_Ahmad	diedIn	Khartoum
+Muhammad_Ahmad	diedIn	Khartoum
+1971_Sudanese_coup_d'état	happenedIn	Khartoum
+1971_Sudanese_coup_d'état	happenedIn	Khartoum
+1971_Sudanese_coup_d'état	happenedIn	Sudan
+1971_Sudanese_coup_d'état	happenedIn	Sudan
+
+http://dbpedia.org/resource/Muhammad_Ahmad	http://dbpedia.org/ontology/placeOfBurial	http://dbpedia.org/resource/Sudan
+Muhammad_Ahmad	Sudan
+Muhammad_Ahmad	diedIn	Khartoum
+Muhammad_Ahmad	diedIn	Khartoum
+Hashem_al_Atta	diedIn	Khartoum
+Hashem_al_Atta	diedIn	Khartoum
+Hashem_al_Atta	isCitizenOf	Sudan
+Hashem_al_Atta	isCitizenOf	Sudan
+
+http://dbpedia.org/resource/Muhammad_Ahmad	http://dbpedia.org/ontology/placeOfBurial	http://dbpedia.org/resource/Sudan
+Muhammad_Ahmad	Sudan
+Muhammad_Ahmad	diedIn	Khartoum
+Muhammad_Ahmad	diedIn	Khartoum
+Battle_of_Omdurman	happenedIn	Khartoum
+Battle_of_Omdurman	happenedIn	Khartoum
+Battle_of_Omdurman	happenedIn	Sudan
+Battle_of_Omdurman	isLocatedIn	Sudan
+Battle_of_Omdurman	happenedIn	Sudan
+Battle_of_Omdurman	isLocatedIn	Sudan
+
+http://dbpedia.org/resource/Muhammad_Ahmad	http://dbpedia.org/ontology/placeOfBurial	http://dbpedia.org/resource/Sudan
+Muhammad_Ahmad	Sudan
+Muhammad_Ahmad	diedIn	Khartoum
+Muhammad_Ahmad	diedIn	Khartoum
+Muhammad_Ahmad	diedIn	Khartoum
+Muhammad_Ahmad	diedIn	Khartoum
+Muhammad_Ahmad	isCitizenOf	Sudan
+Muhammad_Ahmad	isCitizenOf	Sudan
+
+http://dbpedia.org/resource/Muhammad_Ahmad	http://dbpedia.org/ontology/placeOfBurial	http://dbpedia.org/resource/Sudan
+Muhammad_Ahmad	Sudan
+Muhammad_Ahmad	diedIn	Khartoum
+Muhammad_Ahmad	diedIn	Khartoum
+University_of_Khartoum	isLocatedIn	Khartoum
+University_of_Khartoum	isLocatedIn	Khartoum
+University_of_Khartoum	isLocatedIn	Sudan
+University_of_Khartoum	isLocatedIn	Sudan
+
+http://dbpedia.org/resource/Muhammad_Ahmad	http://dbpedia.org/ontology/placeOfBurial	http://dbpedia.org/resource/Sudan
+Muhammad_Ahmad	Sudan
+Muhammad_Ahmad	diedIn	Khartoum
+Muhammad_Ahmad	diedIn	Khartoum
+Mohammed_Ali_El_Khider	wasBornIn	Khartoum
+Mohammed_Ali_El_Khider	wasBornIn	Khartoum
+Mohammed_Ali_El_Khider	isCitizenOf	Sudan
+Mohammed_Ali_El_Khider	isCitizenOf	Sudan
+
+http://dbpedia.org/resource/Muhammad_Ahmad	http://dbpedia.org/ontology/placeOfBurial	http://dbpedia.org/resource/Sudan
+Muhammad_Ahmad	Sudan
+Muhammad_Ahmad	diedIn	Khartoum
+Muhammad_Ahmad	diedIn	Khartoum
+Sudanese_Communist_Party	isLocatedIn	Khartoum
+Sudanese_Communist_Party	isLocatedIn	Khartoum
+Sudanese_Communist_Party	isLocatedIn	Sudan
+Sudanese_Communist_Party	isLocatedIn	Sudan
+
+http://dbpedia.org/resource/Muhammad_Ahmad	http://dbpedia.org/ontology/placeOfBurial	http://dbpedia.org/resource/Sudan
+Muhammad_Ahmad	Sudan
+Muhammad_Ahmad	diedIn	Khartoum
+Muhammad_Ahmad	diedIn	Khartoum
+Air_West	isLocatedIn	Khartoum
+Air_West	isLocatedIn	Khartoum
+Air_West	isLocatedIn	Sudan
+Air_West	isLocatedIn	Sudan
+
+http://dbpedia.org/resource/Muhammad_Ahmad	http://dbpedia.org/ontology/placeOfBurial	http://dbpedia.org/resource/Sudan
+Muhammad_Ahmad	Sudan
+Muhammad_Ahmad	diedIn	Khartoum
+Muhammad_Ahmad	diedIn	Khartoum
+Mohammed_Abdul-Hayy	diedIn	Khartoum
+Mohammed_Abdul-Hayy	diedIn	Khartoum
+Mohammed_Abdul-Hayy	isCitizenOf	Sudan
+Mohammed_Abdul-Hayy	isCitizenOf	Sudan
+
+http://dbpedia.org/resource/Muhammad_Ahmad	http://dbpedia.org/ontology/placeOfBurial	http://dbpedia.org/resource/Sudan
+Muhammad_Ahmad	Sudan
+Muhammad_Ahmad	diedIn	Khartoum
+Muhammad_Ahmad	diedIn	Khartoum
+Siege_of_Khartoum	happenedIn	Khartoum
+Siege_of_Khartoum	isLocatedIn	Khartoum
+Siege_of_Khartoum	happenedIn	Khartoum
+Siege_of_Khartoum	isLocatedIn	Khartoum
+Siege_of_Khartoum	happenedIn	Sudan
+Siege_of_Khartoum	isLocatedIn	Sudan
+Siege_of_Khartoum	happenedIn	Sudan
+Siege_of_Khartoum	isLocatedIn	Sudan
+
+http://dbpedia.org/resource/Muhammad_Ahmad	http://dbpedia.org/ontology/placeOfBurial	http://dbpedia.org/resource/Sudan
+Muhammad_Ahmad	Sudan
+Muhammad_Ahmad	isCitizenOf	Sudan
+Muhammad_Ahmad	isCitizenOf	Sudan
+
+http://dbpedia.org/resource/Muhammad_Ahmad	http://dbpedia.org/ontology/placeOfBurial	http://dbpedia.org/resource/Sudan
+Muhammad_Ahmad	Sudan
+Muhammad_Ahmad	isCitizenOf	South_Sudan
+Muhammad_Ahmad	isCitizenOf	South_Sudan
+South_Sudan	participatedIn	Agok_Skirmish
+Agok_Skirmish	happenedIn	South_Sudan
+South_Sudan	participatedIn	Agok_Skirmish
+Agok_Skirmish	happenedIn	South_Sudan
+Agok_Skirmish	happenedIn	Sudan
+Sudan	participatedIn	Agok_Skirmish
+Agok_Skirmish	happenedIn	Sudan
+Sudan	participatedIn	Agok_Skirmish
+
+http://dbpedia.org/resource/John_VI_Kantakouzenos	http://dbpedia.org/ontology/placeOfBurial	http://dbpedia.org/resource/Greece
+John_VI_Kantakouzenos	Greece
+John_VI_Kantakouzenos	diedIn	Peloponnese
+John_VI_Kantakouzenos	diedIn	Peloponnese
+Laconia	isLocatedIn	Peloponnese
+Laconia	isLocatedIn	Peloponnese
+Laconia	isLocatedIn	Greece
+Laconia	isLocatedIn	Greece
+
+http://dbpedia.org/resource/John_VI_Kantakouzenos	http://dbpedia.org/ontology/placeOfBurial	http://dbpedia.org/resource/Greece
+John_VI_Kantakouzenos	Greece
+John_VI_Kantakouzenos	diedIn	Peloponnese
+John_VI_Kantakouzenos	diedIn	Peloponnese
+Peloponnese	isLocatedIn	Greece
+Peloponnese	isLocatedIn	Greece
+
+http://dbpedia.org/resource/John_VI_Kantakouzenos	http://dbpedia.org/ontology/placeOfBurial	http://dbpedia.org/resource/Greece
+John_VI_Kantakouzenos	Greece
+John_VI_Kantakouzenos	diedIn	Peloponnese
+John_VI_Kantakouzenos	diedIn	Peloponnese
+Siege_of_Tripolitsa	happenedIn	Peloponnese
+Siege_of_Tripolitsa	happenedIn	Peloponnese
+Siege_of_Tripolitsa	happenedIn	Greece
+Siege_of_Tripolitsa	happenedIn	Greece
+
+http://dbpedia.org/resource/John_VI_Kantakouzenos	http://dbpedia.org/ontology/placeOfBurial	http://dbpedia.org/resource/Greece
+John_VI_Kantakouzenos	Greece
+John_VI_Kantakouzenos	diedIn	Peloponnese
+John_VI_Kantakouzenos	diedIn	Peloponnese
+Alexandros_Zaimis	livesIn	Peloponnese
+Alexandros_Zaimis	livesIn	Peloponnese
+Alexandros_Zaimis	livesIn	Greece
+Alexandros_Zaimis	isCitizenOf	Greece
+Alexandros_Zaimis	isPoliticianOf	Greece
+Alexandros_Zaimis	livesIn	Greece
+Alexandros_Zaimis	isCitizenOf	Greece
+Alexandros_Zaimis	isPoliticianOf	Greece
+
+http://dbpedia.org/resource/John_VI_Kantakouzenos	http://dbpedia.org/ontology/placeOfBurial	http://dbpedia.org/resource/Greece
+John_VI_Kantakouzenos	Greece
+John_VI_Kantakouzenos	diedIn	Peloponnese
+John_VI_Kantakouzenos	diedIn	Peloponnese
+Battle_of_Navarino	happenedIn	Peloponnese
+Battle_of_Navarino	happenedIn	Peloponnese
+Battle_of_Navarino	isLocatedIn	Greece
+Battle_of_Navarino	happenedIn	Greece
+Battle_of_Navarino	isLocatedIn	Greece
+Battle_of_Navarino	happenedIn	Greece
+
+http://dbpedia.org/resource/John_VI_Kantakouzenos	http://dbpedia.org/ontology/placeOfBurial	http://dbpedia.org/resource/Greece
+John_VI_Kantakouzenos	Greece
+John_VI_Kantakouzenos	diedIn	Peloponnese
+John_VI_Kantakouzenos	diedIn	Peloponnese
+University_of_Peloponnese	isLocatedIn	Peloponnese
+University_of_Peloponnese	isLocatedIn	Peloponnese
+University_of_Peloponnese	isLocatedIn	Greece
+University_of_Peloponnese	isLocatedIn	Greece
+
+http://dbpedia.org/resource/John_VI_Kantakouzenos	http://dbpedia.org/ontology/placeOfBurial	http://dbpedia.org/resource/Greece
+John_VI_Kantakouzenos	Greece
+John_VI_Kantakouzenos	diedIn	Peloponnese
+John_VI_Kantakouzenos	diedIn	Peloponnese
+Archaeological_Museum_of_Argos	isLocatedIn	Peloponnese
+Archaeological_Museum_of_Argos	isLocatedIn	Peloponnese
+Archaeological_Museum_of_Argos	isLocatedIn	Greece
+Archaeological_Museum_of_Argos	isLocatedIn	Greece
+
+http://dbpedia.org/resource/John_VI_Kantakouzenos	http://dbpedia.org/ontology/placeOfBurial	http://dbpedia.org/resource/Greece
+John_VI_Kantakouzenos	Greece
+John_VI_Kantakouzenos	diedIn	Peloponnese
+John_VI_Kantakouzenos	diedIn	Peloponnese
+Corinthia	isLocatedIn	Peloponnese
+Corinthia	isLocatedIn	Peloponnese
+Corinthia	isLocatedIn	Greece
+Corinthia	isLocatedIn	Greece
+

@@ -1,0 +1,76 @@
+http://dbpedia.org/resource/John_P._Wheeler_III	http://dbpedia.org/ontology/bodyDiscovered	http://dbpedia.org/resource/Wilmington,_Delaware
+John_P._Wheeler_III	Wilmington,_Delaware
+John_P._Wheeler_III	diedIn	Delaware
+John_P._Wheeler_III	diedIn	Delaware
+Caleb_P._Bennett	isPoliticianOf	Delaware
+Caleb_P._Bennett	livesIn	Delaware
+Caleb_P._Bennett	isPoliticianOf	Delaware
+Caleb_P._Bennett	livesIn	Delaware
+Caleb_P._Bennett	livesIn	Wilmington,_Delaware
+Caleb_P._Bennett	diedIn	Wilmington,_Delaware
+Caleb_P._Bennett	livesIn	Wilmington,_Delaware
+Caleb_P._Bennett	diedIn	Wilmington,_Delaware
+
+http://dbpedia.org/resource/John_P._Wheeler_III	http://dbpedia.org/ontology/bodyDiscovered	http://dbpedia.org/resource/Wilmington,_Delaware
+John_P._Wheeler_III	Wilmington,_Delaware
+John_P._Wheeler_III	diedIn	Delaware
+John_P._Wheeler_III	diedIn	Delaware
+John_Wales	livesIn	Delaware
+John_Wales	livesIn	Delaware
+John_Wales	livesIn	Wilmington,_Delaware
+John_Wales	diedIn	Wilmington,_Delaware
+John_Wales	livesIn	Wilmington,_Delaware
+John_Wales	diedIn	Wilmington,_Delaware
+
+http://dbpedia.org/resource/John_P._Wheeler_III	http://dbpedia.org/ontology/bodyDiscovered	http://dbpedia.org/resource/Wilmington,_Delaware
+John_P._Wheeler_III	Wilmington,_Delaware
+John_P._Wheeler_III	diedIn	Delaware
+John_P._Wheeler_III	diedIn	Delaware
+New_Castle_County,_Delaware	isLocatedIn	Delaware
+New_Castle_County,_Delaware	isLocatedIn	Delaware
+Wilmington,_Delaware	isLocatedIn	New_Castle_County,_Delaware
+New_Castle_County,_Delaware	isLocatedIn	Wilmington,_Delaware
+Wilmington,_Delaware	isLocatedIn	New_Castle_County,_Delaware
+New_Castle_County,_Delaware	isLocatedIn	Wilmington,_Delaware
+
+http://dbpedia.org/resource/John_P._Wheeler_III	http://dbpedia.org/ontology/bodyDiscovered	http://dbpedia.org/resource/Wilmington,_Delaware
+John_P._Wheeler_III	Wilmington,_Delaware
+John_P._Wheeler_III	graduatedFrom	Yale_Law_School
+John_P._Wheeler_III	graduatedFrom	Yale_Law_School
+William_D._Rogers	graduatedFrom	Yale_Law_School
+William_D._Rogers	graduatedFrom	Yale_Law_School
+William_D._Rogers	wasBornIn	Wilmington,_Delaware
+William_D._Rogers	wasBornIn	Wilmington,_Delaware
+
+http://dbpedia.org/resource/John_P._Wheeler_III	http://dbpedia.org/ontology/bodyDiscovered	http://dbpedia.org/resource/Wilmington,_Delaware
+John_P._Wheeler_III	Wilmington,_Delaware
+John_P._Wheeler_III	graduatedFrom	Harvard_Business_School
+John_P._Wheeler_III	graduatedFrom	Harvard_Business_School
+Rick_Wagoner	graduatedFrom	Harvard_Business_School
+Rick_Wagoner	graduatedFrom	Harvard_Business_School
+Rick_Wagoner	wasBornIn	Wilmington,_Delaware
+Rick_Wagoner	wasBornIn	Wilmington,_Delaware
+
+http://dbpedia.org/resource/Paul_L._Smith	http://dbpedia.org/ontology/bodyDiscovered	http://dbpedia.org/resource/Ra'anana
+Paul_L._Smith	Ra'anana
+Paul_L._Smith	graduatedFrom	Brandeis_University
+Paul_L._Smith	graduatedFrom	Brandeis_University
+Paul_L._Smith	graduatedFrom	Brandeis_University
+Paul_L._Smith	graduatedFrom	Brandeis_University
+Paul_L._Smith	diedIn	Ra'anana
+Paul_L._Smith	diedIn	Ra'anana
+
+http://dbpedia.org/resource/Paul_L._Smith	http://dbpedia.org/ontology/bodyDiscovered	http://dbpedia.org/resource/Ra'anana
+Paul_L._Smith	Ra'anana
+Paul_L._Smith	actedIn	Masada_(miniseries)
+Paul_L._Smith	actedIn	Masada_(miniseries)
+Paul_L._Smith	actedIn	Masada_(miniseries)
+Paul_L._Smith	actedIn	Masada_(miniseries)
+Paul_L._Smith	diedIn	Ra'anana
+Paul_L._Smith	diedIn	Ra'anana
+
+http://dbpedia.org/resource/Paul_L._Smith	http://dbpedia.org/ontology/bodyDiscovered	http://dbpedia.org/resource/Ra'anana
+Paul_L._Smith	Ra'anana
+Paul_L._Smith	diedIn	Ra'anana
+Paul_L._Smith	diedIn	Ra'anana
+

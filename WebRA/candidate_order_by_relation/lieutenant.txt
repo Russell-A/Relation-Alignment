@@ -1,0 +1,117 @@
+http://dbpedia.org/resource/C._A._Bottolfsen	http://dbpedia.org/ontology/lieutenant	http://dbpedia.org/resource/Donald_S._Whitehead
+C._A._Bottolfsen	Donald_S._Whitehead
+C._A._Bottolfsen	diedIn	Boise,_Idaho
+C._A._Bottolfsen	diedIn	Boise,_Idaho
+Donald_S._Whitehead	diedIn	Boise,_Idaho
+Donald_S._Whitehead	diedIn	Boise,_Idaho
+
+http://dbpedia.org/resource/C._A._Bottolfsen	http://dbpedia.org/ontology/lieutenant	http://dbpedia.org/resource/Donald_S._Whitehead
+C._A._Bottolfsen	Donald_S._Whitehead
+C._A._Bottolfsen	isPoliticianOf	Idaho
+C._A._Bottolfsen	isPoliticianOf	Idaho
+Boise,_Idaho	isLocatedIn	Idaho
+Idaho	isLocatedIn	Boise,_Idaho
+Idaho	hasCapital	Boise,_Idaho
+Boise,_Idaho	isLocatedIn	Idaho
+Idaho	isLocatedIn	Boise,_Idaho
+Idaho	hasCapital	Boise,_Idaho
+Donald_S._Whitehead	diedIn	Boise,_Idaho
+Donald_S._Whitehead	diedIn	Boise,_Idaho
+
+http://dbpedia.org/resource/Mike_Leavitt	http://dbpedia.org/ontology/lieutenant	http://dbpedia.org/resource/Olene_Walker
+Mike_Leavitt	Olene_Walker
+Mike_Leavitt	isPoliticianOf	Utah
+Mike_Leavitt	isPoliticianOf	Utah
+Utah	hasCapital	Salt_Lake_City
+Salt_Lake_City	isLocatedIn	Utah
+Utah	isLocatedIn	Salt_Lake_City
+Utah	hasCapital	Salt_Lake_City
+Salt_Lake_City	isLocatedIn	Utah
+Utah	isLocatedIn	Salt_Lake_City
+Olene_Walker	diedIn	Salt_Lake_City
+Olene_Walker	diedIn	Salt_Lake_City
+
+http://dbpedia.org/resource/William_Slade	http://dbpedia.org/ontology/lieutenant	http://dbpedia.org/resource/Horace_Eaton
+William_Slade	Horace_Eaton
+William_Slade	isAffiliatedTo	Whig_Party_(United_States)
+William_Slade	isAffiliatedTo	Whig_Party_(United_States)
+Horace_Eaton	isAffiliatedTo	Whig_Party_(United_States)
+Horace_Eaton	isAffiliatedTo	Whig_Party_(United_States)
+
+http://dbpedia.org/resource/Albert_Sleeper	http://dbpedia.org/ontology/lieutenant	http://dbpedia.org/resource/Luren_Dickinson
+Albert_Sleeper	Luren_Dickinson
+Albert_Sleeper	isPoliticianOf	Michigan
+Albert_Sleeper	isPoliticianOf	Michigan
+Charlotte,_Michigan	isLocatedIn	Michigan
+Charlotte,_Michigan	isLocatedIn	Michigan
+Luren_Dickinson	diedIn	Charlotte,_Michigan
+Luren_Dickinson	diedIn	Charlotte,_Michigan
+
+http://dbpedia.org/resource/Albert_Sleeper	http://dbpedia.org/ontology/lieutenant	http://dbpedia.org/resource/Luren_Dickinson
+Albert_Sleeper	Luren_Dickinson
+Albert_Sleeper	isPoliticianOf	Michigan
+Albert_Sleeper	isPoliticianOf	Michigan
+Luren_Dickinson	isPoliticianOf	Michigan
+Luren_Dickinson	isPoliticianOf	Michigan
+
+http://dbpedia.org/resource/Albert_Sleeper	http://dbpedia.org/ontology/lieutenant	http://dbpedia.org/resource/Luren_Dickinson
+Albert_Sleeper	Luren_Dickinson
+Albert_Sleeper	diedIn	Lexington,_Michigan
+Albert_Sleeper	diedIn	Lexington,_Michigan
+Lexington,_Michigan	isLocatedIn	Michigan
+Lexington,_Michigan	isLocatedIn	Michigan
+Luren_Dickinson	isPoliticianOf	Michigan
+Luren_Dickinson	isPoliticianOf	Michigan
+
+http://dbpedia.org/resource/Bob_Miller_(Nevada_governor)	http://dbpedia.org/ontology/lieutenant	http://dbpedia.org/resource/Lonnie_Hammargren
+Bob_Miller_(Nevada_governor)	Lonnie_Hammargren
+Bob_Miller_(Nevada_governor)	isPoliticianOf	Nevada
+Bob_Miller_(Nevada_governor)	isPoliticianOf	Nevada
+Lonnie_Hammargren	isPoliticianOf	Nevada
+Lonnie_Hammargren	livesIn	Nevada
+Lonnie_Hammargren	isPoliticianOf	Nevada
+Lonnie_Hammargren	livesIn	Nevada
+
+http://dbpedia.org/resource/Bob_Miller_(Nevada_governor)	http://dbpedia.org/ontology/lieutenant	http://dbpedia.org/resource/Lonnie_Hammargren
+Bob_Miller_(Nevada_governor)	Lonnie_Hammargren
+Bob_Miller_(Nevada_governor)	livesIn	Henderson,_Nevada
+Bob_Miller_(Nevada_governor)	livesIn	Henderson,_Nevada
+Henderson,_Nevada	isLocatedIn	Nevada
+Henderson,_Nevada	isLocatedIn	Nevada
+Lonnie_Hammargren	isPoliticianOf	Nevada
+Lonnie_Hammargren	livesIn	Nevada
+Lonnie_Hammargren	isPoliticianOf	Nevada
+Lonnie_Hammargren	livesIn	Nevada
+
+http://dbpedia.org/resource/Wilber_M._Brucker	http://dbpedia.org/ontology/lieutenant	http://dbpedia.org/resource/Luren_Dickinson
+Wilber_M._Brucker	Luren_Dickinson
+Wilber_M._Brucker	isPoliticianOf	Michigan
+Wilber_M._Brucker	isPoliticianOf	Michigan
+Charlotte,_Michigan	isLocatedIn	Michigan
+Charlotte,_Michigan	isLocatedIn	Michigan
+Luren_Dickinson	diedIn	Charlotte,_Michigan
+Luren_Dickinson	diedIn	Charlotte,_Michigan
+
+http://dbpedia.org/resource/Wilber_M._Brucker	http://dbpedia.org/ontology/lieutenant	http://dbpedia.org/resource/Luren_Dickinson
+Wilber_M._Brucker	Luren_Dickinson
+Wilber_M._Brucker	isPoliticianOf	Michigan
+Wilber_M._Brucker	isPoliticianOf	Michigan
+Luren_Dickinson	isPoliticianOf	Michigan
+Luren_Dickinson	isPoliticianOf	Michigan
+
+http://dbpedia.org/resource/R._Gregg_Cherry	http://dbpedia.org/ontology/lieutenant	http://dbpedia.org/resource/Lynton_Y._Ballentine
+R._Gregg_Cherry	Lynton_Y._Ballentine
+R._Gregg_Cherry	isPoliticianOf	North_Carolina
+R._Gregg_Cherry	isPoliticianOf	North_Carolina
+Lynton_Y._Ballentine	isPoliticianOf	North_Carolina
+Lynton_Y._Ballentine	isPoliticianOf	North_Carolina
+
+http://dbpedia.org/resource/R._Gregg_Cherry	http://dbpedia.org/ontology/lieutenant	http://dbpedia.org/resource/Lynton_Y._Ballentine
+R._Gregg_Cherry	Lynton_Y._Ballentine
+R._Gregg_Cherry	diedIn	Gastonia,_North_Carolina
+R._Gregg_Cherry	diedIn	Gastonia,_North_Carolina
+Gastonia,_North_Carolina	isLocatedIn	North_Carolina
+Gastonia,_North_Carolina	isLocatedIn	North_Carolina
+Lynton_Y._Ballentine	isPoliticianOf	North_Carolina
+Lynton_Y._Ballentine	isPoliticianOf	North_Carolina
+

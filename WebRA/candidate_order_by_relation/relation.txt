@@ -1,0 +1,813 @@
+http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Robert_White_(West_Virginia_senator)
+Samuel_Lightfoot_Flournoy	Robert_White_(West_Virginia_senator)
+Samuel_Lightfoot_Flournoy	livesIn	Romney,_West_Virginia
+Samuel_Lightfoot_Flournoy	livesIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+
+http://dbpedia.org/resource/Robert_White_(West_Virginia_senator)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/John_Baker_White_(West_Virginia_politician)
+Robert_White_(West_Virginia_senator)	John_Baker_White_(West_Virginia_politician)
+Robert_White_(West_Virginia_senator)	wasBornIn	Romney,_West_Virginia
+Robert_White_(West_Virginia_senator)	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+
+http://dbpedia.org/resource/Robert_White_(West_Virginia_senator)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/John_Baker_White_(West_Virginia_politician)
+Robert_White_(West_Virginia_senator)	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+
+http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/John_Baker_White_(West_Virginia_politician)
+Samuel_Lightfoot_Flournoy	John_Baker_White_(West_Virginia_politician)
+Samuel_Lightfoot_Flournoy	livesIn	Romney,_West_Virginia
+Samuel_Lightfoot_Flournoy	livesIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+
+http://dbpedia.org/resource/Carlos_Holguín_Mallarino	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Jorge_Holguín
+Carlos_Holguín_Mallarino	Jorge_Holguín
+Carlos_Holguín_Mallarino	isAffiliatedTo	Colombian_Conservative_Party
+Carlos_Holguín_Mallarino	isAffiliatedTo	Colombian_Conservative_Party
+Jorge_Holguín	isAffiliatedTo	Colombian_Conservative_Party
+Jorge_Holguín	isAffiliatedTo	Colombian_Conservative_Party
+
+http://dbpedia.org/resource/Y._S._Sharmila	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Y._S._Vijayamma
+Y._S._Sharmila	Y._S._Vijayamma
+Y._S._Rajasekhara_Reddy	hasChild	Y._S._Sharmila
+Y._S._Rajasekhara_Reddy	hasChild	Y._S._Sharmila
+Y._S._Vijayamma	isMarriedTo	Y._S._Rajasekhara_Reddy
+Y._S._Rajasekhara_Reddy	isMarriedTo	Y._S._Vijayamma
+Y._S._Vijayamma	isMarriedTo	Y._S._Rajasekhara_Reddy
+Y._S._Rajasekhara_Reddy	isMarriedTo	Y._S._Vijayamma
+
+http://dbpedia.org/resource/Y._S._Sharmila	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Y._S._Vijayamma
+Y._S._Sharmila	Y._S._Vijayamma
+Y._S._Vijayamma	hasChild	Y._S._Sharmila
+Y._S._Vijayamma	hasChild	Y._S._Sharmila
+
+http://dbpedia.org/resource/Robert_White_(judge)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Christian_Streit_White
+Robert_White_(judge)	Christian_Streit_White
+Robert_White_(judge)	hasChild	John_Baker_White_(Virginia)
+Robert_White_(judge)	hasChild	John_Baker_White_(Virginia)
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+
+http://dbpedia.org/resource/Makhdoom_Ahmed_Mehmood	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Syed_Sibghatullah_Shah_Rashdi_III
+Makhdoom_Ahmed_Mehmood	Syed_Sibghatullah_Shah_Rashdi_III
+Makhdoom_Ahmed_Mehmood	isAffiliatedTo	Pakistan_Muslim_League_(F)
+Makhdoom_Ahmed_Mehmood	isAffiliatedTo	Pakistan_Muslim_League_(F)
+Syed_Sibghatullah_Shah_Rashdi_III	isAffiliatedTo	Pakistan_Muslim_League_(F)
+Syed_Sibghatullah_Shah_Rashdi_III	isAffiliatedTo	Pakistan_Muslim_League_(F)
+
+http://dbpedia.org/resource/Magda_Bošković	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Maja_Bošković-Stulli
+Magda_Bošković	Maja_Bošković-Stulli
+Magda_Bošković	graduatedFrom	University_of_Zagreb
+Magda_Bošković	graduatedFrom	University_of_Zagreb
+University_of_Zagreb	isLocatedIn	Zagreb
+University_of_Zagreb	isLocatedIn	Zagreb
+Maja_Bošković-Stulli	diedIn	Zagreb
+Maja_Bošković-Stulli	diedIn	Zagreb
+
+http://dbpedia.org/resource/Christian_Streit_White	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Robert_White_(attorney_general)
+Christian_Streit_White	Robert_White_(attorney_general)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+John_Baker_White_(West_Virginia_politician)	wasBornIn	Romney,_West_Virginia
+John_Baker_White_(West_Virginia_politician)	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+
+http://dbpedia.org/resource/Christian_Streit_White	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Robert_White_(attorney_general)
+Christian_Streit_White	Robert_White_(attorney_general)
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+John_Baker_White_(Virginia)	hasChild	Robert_White_(attorney_general)
+John_Baker_White_(Virginia)	hasChild	Robert_White_(attorney_general)
+
+http://dbpedia.org/resource/Christian_Streit_White	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Robert_White_(attorney_general)
+Christian_Streit_White	Robert_White_(attorney_general)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Robert_White_(West_Virginia_senator)	wasBornIn	Romney,_West_Virginia
+Robert_White_(West_Virginia_senator)	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+
+http://dbpedia.org/resource/Christian_Streit_White	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Robert_White_(attorney_general)
+Christian_Streit_White	Robert_White_(attorney_general)
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+
+http://dbpedia.org/resource/Rosa_Luxemburg	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Rosa_Luxemburg
+Rosa_Luxemburg	Rosa_Luxemburg
+Rosa_Luxemburg	influences	Paul_Sweezy
+Rosa_Luxemburg	influences	Paul_Sweezy
+Rosa_Luxemburg	influences	Paul_Sweezy
+Rosa_Luxemburg	influences	Paul_Sweezy
+
+http://dbpedia.org/resource/Rosa_Luxemburg	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Rosa_Luxemburg
+Rosa_Luxemburg	Rosa_Luxemburg
+Rosa_Luxemburg	influences	Paul_Sweezy
+Rosa_Luxemburg	influences	Paul_Sweezy
+Paul_Sweezy	influences	Immanuel_Wallerstein
+Paul_Sweezy	influences	Immanuel_Wallerstein
+Rosa_Luxemburg	influences	Immanuel_Wallerstein
+Rosa_Luxemburg	influences	Immanuel_Wallerstein
+
+http://dbpedia.org/resource/Rosa_Luxemburg	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Rosa_Luxemburg
+Rosa_Luxemburg	Rosa_Luxemburg
+Rosa_Luxemburg	influences	Paul_Sweezy
+Rosa_Luxemburg	influences	Paul_Sweezy
+Paul_Sweezy	influences	Richard_D._Wolff
+Paul_Sweezy	influences	Richard_D._Wolff
+Rosa_Luxemburg	influences	Richard_D._Wolff
+Rosa_Luxemburg	influences	Richard_D._Wolff
+
+http://dbpedia.org/resource/Rosa_Luxemburg	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Rosa_Luxemburg
+Rosa_Luxemburg	Rosa_Luxemburg
+Rosa_Luxemburg	influences	Christopher_Hitchens
+Rosa_Luxemburg	influences	Christopher_Hitchens
+Noam_Chomsky	influences	Christopher_Hitchens
+Noam_Chomsky	influences	Christopher_Hitchens
+Rosa_Luxemburg	influences	Noam_Chomsky
+Rosa_Luxemburg	influences	Noam_Chomsky
+
+http://dbpedia.org/resource/Rosa_Luxemburg	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Rosa_Luxemburg
+Rosa_Luxemburg	Rosa_Luxemburg
+Rosa_Luxemburg	influences	Immanuel_Wallerstein
+Rosa_Luxemburg	influences	Immanuel_Wallerstein
+Rosa_Luxemburg	influences	Immanuel_Wallerstein
+Rosa_Luxemburg	influences	Immanuel_Wallerstein
+
+http://dbpedia.org/resource/Rosa_Luxemburg	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Rosa_Luxemburg
+Rosa_Luxemburg	Rosa_Luxemburg
+Rosa_Luxemburg	influences	Immanuel_Wallerstein
+Rosa_Luxemburg	influences	Immanuel_Wallerstein
+Paul_Sweezy	influences	Immanuel_Wallerstein
+Paul_Sweezy	influences	Immanuel_Wallerstein
+Rosa_Luxemburg	influences	Paul_Sweezy
+Rosa_Luxemburg	influences	Paul_Sweezy
+
+http://dbpedia.org/resource/Rosa_Luxemburg	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Rosa_Luxemburg
+Rosa_Luxemburg	Rosa_Luxemburg
+Rosa_Luxemburg	influences	José_Carlos_Mariátegui
+Rosa_Luxemburg	influences	José_Carlos_Mariátegui
+Rosa_Luxemburg	influences	José_Carlos_Mariátegui
+Rosa_Luxemburg	influences	José_Carlos_Mariátegui
+
+http://dbpedia.org/resource/Rosa_Luxemburg	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Rosa_Luxemburg
+Rosa_Luxemburg	Rosa_Luxemburg
+Rosa_Luxemburg	influences	Ady_Jean-Gardy
+Rosa_Luxemburg	influences	Ady_Jean-Gardy
+Rosa_Luxemburg	influences	Ady_Jean-Gardy
+Rosa_Luxemburg	influences	Ady_Jean-Gardy
+
+http://dbpedia.org/resource/Rosa_Luxemburg	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Rosa_Luxemburg
+Rosa_Luxemburg	Rosa_Luxemburg
+Rosa_Luxemburg	influences	Richard_D._Wolff
+Rosa_Luxemburg	influences	Richard_D._Wolff
+Rosa_Luxemburg	influences	Richard_D._Wolff
+Rosa_Luxemburg	influences	Richard_D._Wolff
+
+http://dbpedia.org/resource/Rosa_Luxemburg	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Rosa_Luxemburg
+Rosa_Luxemburg	Rosa_Luxemburg
+Rosa_Luxemburg	influences	Richard_D._Wolff
+Rosa_Luxemburg	influences	Richard_D._Wolff
+Paul_Sweezy	influences	Richard_D._Wolff
+Paul_Sweezy	influences	Richard_D._Wolff
+Rosa_Luxemburg	influences	Paul_Sweezy
+Rosa_Luxemburg	influences	Paul_Sweezy
+
+http://dbpedia.org/resource/Rosa_Luxemburg	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Rosa_Luxemburg
+Rosa_Luxemburg	Rosa_Luxemburg
+Rosa_Luxemburg	influences	Raya_Dunayevskaya
+Rosa_Luxemburg	influences	Raya_Dunayevskaya
+Rosa_Luxemburg	influences	Raya_Dunayevskaya
+Rosa_Luxemburg	influences	Raya_Dunayevskaya
+
+http://dbpedia.org/resource/Rosa_Luxemburg	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Rosa_Luxemburg
+Rosa_Luxemburg	Rosa_Luxemburg
+Rosa_Luxemburg	influences	Alex_Callinicos
+Rosa_Luxemburg	influences	Alex_Callinicos
+Rosa_Luxemburg	influences	Alex_Callinicos
+Rosa_Luxemburg	influences	Alex_Callinicos
+
+http://dbpedia.org/resource/Rosa_Luxemburg	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Rosa_Luxemburg
+Rosa_Luxemburg	Rosa_Luxemburg
+Rosa_Luxemburg	influences	Noam_Chomsky
+Rosa_Luxemburg	influences	Noam_Chomsky
+Rosa_Luxemburg	influences	Noam_Chomsky
+Rosa_Luxemburg	influences	Noam_Chomsky
+
+http://dbpedia.org/resource/Alexandra_Kerry	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Rosemary_Forbes_Kerry
+Alexandra_Kerry	Rosemary_Forbes_Kerry
+John_Kerry	hasChild	Alexandra_Kerry
+John_Kerry	hasChild	Alexandra_Kerry
+Rosemary_Forbes_Kerry	hasChild	John_Kerry
+Rosemary_Forbes_Kerry	hasChild	John_Kerry
+
+http://dbpedia.org/resource/Alexandra_Kerry	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Rosemary_Forbes_Kerry
+Alexandra_Kerry	Rosemary_Forbes_Kerry
+John_Kerry	hasChild	Alexandra_Kerry
+John_Kerry	hasChild	Alexandra_Kerry
+Richard_Kerry	hasChild	John_Kerry
+Richard_Kerry	hasChild	John_Kerry
+Rosemary_Forbes_Kerry	isMarriedTo	Richard_Kerry
+Richard_Kerry	isMarriedTo	Rosemary_Forbes_Kerry
+Rosemary_Forbes_Kerry	isMarriedTo	Richard_Kerry
+Richard_Kerry	isMarriedTo	Rosemary_Forbes_Kerry
+
+http://dbpedia.org/resource/Alexandra_Kerry	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Rosemary_Forbes_Kerry
+Alexandra_Kerry	Rosemary_Forbes_Kerry
+Julia_Thorne	hasChild	Alexandra_Kerry
+Julia_Thorne	hasChild	Alexandra_Kerry
+Julia_Thorne	isMarriedTo	John_Kerry
+John_Kerry	isMarriedTo	Julia_Thorne
+Julia_Thorne	isMarriedTo	John_Kerry
+John_Kerry	isMarriedTo	Julia_Thorne
+Rosemary_Forbes_Kerry	hasChild	John_Kerry
+Rosemary_Forbes_Kerry	hasChild	John_Kerry
+
+http://dbpedia.org/resource/Samia_Nkrumah	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Kwame_Nkrumah
+Samia_Nkrumah	Kwame_Nkrumah
+Kwame_Nkrumah	hasChild	Samia_Nkrumah
+Kwame_Nkrumah	hasChild	Samia_Nkrumah
+
+http://dbpedia.org/resource/Samia_Nkrumah	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Kwame_Nkrumah
+Samia_Nkrumah	Kwame_Nkrumah
+Samia_Nkrumah	wasBornIn	Aburi
+Samia_Nkrumah	wasBornIn	Aburi
+Samia_Nkrumah	wasBornIn	Aburi
+Samia_Nkrumah	wasBornIn	Aburi
+Kwame_Nkrumah	hasChild	Samia_Nkrumah
+Kwame_Nkrumah	hasChild	Samia_Nkrumah
+
+http://dbpedia.org/resource/Samia_Nkrumah	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Kwame_Nkrumah
+Samia_Nkrumah	Kwame_Nkrumah
+Samia_Nkrumah	isAffiliatedTo	Convention_People's_Party
+Samia_Nkrumah	isAffiliatedTo	Convention_People's_Party
+Kwame_Nkrumah	isAffiliatedTo	Convention_People's_Party
+Kwame_Nkrumah	created	Convention_People's_Party
+Kwame_Nkrumah	isAffiliatedTo	Convention_People's_Party
+Kwame_Nkrumah	created	Convention_People's_Party
+
+http://dbpedia.org/resource/Samia_Nkrumah	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Kwame_Nkrumah
+Samia_Nkrumah	Kwame_Nkrumah
+Samia_Nkrumah	isAffiliatedTo	Convention_People's_Party
+Samia_Nkrumah	isAffiliatedTo	Convention_People's_Party
+Fathia_Nkrumah	isAffiliatedTo	Convention_People's_Party
+Fathia_Nkrumah	isAffiliatedTo	Convention_People's_Party
+Kwame_Nkrumah	isMarriedTo	Fathia_Nkrumah
+Fathia_Nkrumah	isMarriedTo	Kwame_Nkrumah
+Kwame_Nkrumah	isMarriedTo	Fathia_Nkrumah
+Fathia_Nkrumah	isMarriedTo	Kwame_Nkrumah
+
+http://dbpedia.org/resource/Samia_Nkrumah	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Kwame_Nkrumah
+Samia_Nkrumah	Kwame_Nkrumah
+Samia_Nkrumah	isAffiliatedTo	Convention_People's_Party
+Samia_Nkrumah	isAffiliatedTo	Convention_People's_Party
+Samia_Nkrumah	isAffiliatedTo	Convention_People's_Party
+Samia_Nkrumah	isAffiliatedTo	Convention_People's_Party
+Kwame_Nkrumah	hasChild	Samia_Nkrumah
+Kwame_Nkrumah	hasChild	Samia_Nkrumah
+
+http://dbpedia.org/resource/Samia_Nkrumah	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Kwame_Nkrumah
+Samia_Nkrumah	Kwame_Nkrumah
+Samia_Nkrumah	isCitizenOf	Ghana
+Samia_Nkrumah	isCitizenOf	Ghana
+Gamal_Nkrumah	isCitizenOf	Ghana
+Gamal_Nkrumah	isCitizenOf	Ghana
+Kwame_Nkrumah	hasChild	Gamal_Nkrumah
+Kwame_Nkrumah	hasChild	Gamal_Nkrumah
+
+http://dbpedia.org/resource/John_Baker_White_(West_Virginia_politician)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Christian_Streit_White
+John_Baker_White_(West_Virginia_politician)	Christian_Streit_White
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+
+http://dbpedia.org/resource/John_Baker_White_(West_Virginia_politician)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Christian_Streit_White
+John_Baker_White_(West_Virginia_politician)	Christian_Streit_White
+John_Baker_White_(West_Virginia_politician)	wasBornIn	Romney,_West_Virginia
+John_Baker_White_(West_Virginia_politician)	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+
+http://dbpedia.org/resource/Bennett_Ratliff	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Bill_Ratliff
+Bennett_Ratliff	Bill_Ratliff
+Bennett_Ratliff	livesIn	Coppell,_Texas
+Bennett_Ratliff	livesIn	Coppell,_Texas
+Bennett_Ratliff	livesIn	Coppell,_Texas
+Bennett_Ratliff	livesIn	Coppell,_Texas
+Bill_Ratliff	hasChild	Bennett_Ratliff
+Bill_Ratliff	hasChild	Bennett_Ratliff
+
+http://dbpedia.org/resource/Bennett_Ratliff	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Bill_Ratliff
+Bennett_Ratliff	Bill_Ratliff
+Bill_Ratliff	hasChild	Bennett_Ratliff
+Bill_Ratliff	hasChild	Bennett_Ratliff
+
+http://dbpedia.org/resource/Bennett_Ratliff	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Bill_Ratliff
+Bennett_Ratliff	Bill_Ratliff
+Bennett_Ratliff	graduatedFrom	University_of_Texas_at_Austin
+Bennett_Ratliff	graduatedFrom	University_of_Texas_at_Austin
+Bill_Ratliff	graduatedFrom	University_of_Texas_at_Austin
+Bill_Ratliff	graduatedFrom	University_of_Texas_at_Austin
+
+http://dbpedia.org/resource/Bennett_Ratliff	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Bill_Ratliff
+Bennett_Ratliff	Bill_Ratliff
+Bennett_Ratliff	livesIn	Dallas_County,_Texas
+Bennett_Ratliff	livesIn	Dallas_County,_Texas
+Bennett_Ratliff	livesIn	Dallas_County,_Texas
+Bennett_Ratliff	livesIn	Dallas_County,_Texas
+Bill_Ratliff	hasChild	Bennett_Ratliff
+Bill_Ratliff	hasChild	Bennett_Ratliff
+
+http://dbpedia.org/resource/Robert_White_(attorney_general)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Robert_White_(West_Virginia_senator)
+Robert_White_(attorney_general)	Robert_White_(West_Virginia_senator)
+John_Baker_White_(Virginia)	hasChild	Robert_White_(attorney_general)
+John_Baker_White_(Virginia)	hasChild	Robert_White_(attorney_general)
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+
+http://dbpedia.org/resource/Robert_White_(attorney_general)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Robert_White_(West_Virginia_senator)
+Robert_White_(attorney_general)	Robert_White_(West_Virginia_senator)
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+
+http://dbpedia.org/resource/Robert_White_(West_Virginia_senator)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Robert_White_(judge)
+Robert_White_(West_Virginia_senator)	Robert_White_(judge)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+Robert_White_(judge)	hasChild	John_Baker_White_(Virginia)
+Robert_White_(judge)	hasChild	John_Baker_White_(Virginia)
+
+http://dbpedia.org/resource/Viktor_Alexander	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Oskar_Alexander
+Viktor_Alexander	Oskar_Alexander
+Viktor_Alexander	isCitizenOf	Croatia
+Viktor_Alexander	isCitizenOf	Croatia
+Samobor	isLocatedIn	Croatia
+Samobor	isLocatedIn	Croatia
+Oskar_Alexander	diedIn	Samobor
+Oskar_Alexander	diedIn	Samobor
+
+http://dbpedia.org/resource/Germán_Zea_Hernández	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Fernando_Botero_Zea
+Germán_Zea_Hernández	Fernando_Botero_Zea
+Germán_Zea_Hernández	isAffiliatedTo	Colombian_Liberal_Party
+Germán_Zea_Hernández	isAffiliatedTo	Colombian_Liberal_Party
+Fernando_Botero_Zea	isAffiliatedTo	Colombian_Liberal_Party
+Fernando_Botero_Zea	isAffiliatedTo	Colombian_Liberal_Party
+
+http://dbpedia.org/resource/Robert_White_(attorney_general)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/John_Baker_White_(West_Virginia_politician)
+Robert_White_(attorney_general)	John_Baker_White_(West_Virginia_politician)
+John_Baker_White_(Virginia)	hasChild	Robert_White_(attorney_general)
+John_Baker_White_(Virginia)	hasChild	Robert_White_(attorney_general)
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+
+http://dbpedia.org/resource/Robert_White_(attorney_general)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/John_Baker_White_(West_Virginia_politician)
+Robert_White_(attorney_general)	John_Baker_White_(West_Virginia_politician)
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+
+http://dbpedia.org/resource/Robert_White_(West_Virginia_senator)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Robert_White_(attorney_general)
+Robert_White_(West_Virginia_senator)	Robert_White_(attorney_general)
+Robert_White_(West_Virginia_senator)	wasBornIn	Romney,_West_Virginia
+Robert_White_(West_Virginia_senator)	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+
+http://dbpedia.org/resource/Robert_White_(West_Virginia_senator)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Robert_White_(attorney_general)
+Robert_White_(West_Virginia_senator)	Robert_White_(attorney_general)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+John_Baker_White_(Virginia)	hasChild	Robert_White_(attorney_general)
+John_Baker_White_(Virginia)	hasChild	Robert_White_(attorney_general)
+
+http://dbpedia.org/resource/Robert_White_(West_Virginia_senator)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Robert_White_(attorney_general)
+Robert_White_(West_Virginia_senator)	Robert_White_(attorney_general)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+
+http://dbpedia.org/resource/Claude_Chirac	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Bernadette_Chirac
+Claude_Chirac	Bernadette_Chirac
+Jacques_Chirac	hasChild	Claude_Chirac
+Jacques_Chirac	hasChild	Claude_Chirac
+Bernadette_Chirac	isMarriedTo	Jacques_Chirac
+Jacques_Chirac	isMarriedTo	Bernadette_Chirac
+Bernadette_Chirac	isMarriedTo	Jacques_Chirac
+Jacques_Chirac	isMarriedTo	Bernadette_Chirac
+
+http://dbpedia.org/resource/Robert_White_(attorney_general)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Christian_Streit_White
+Robert_White_(attorney_general)	Christian_Streit_White
+John_Baker_White_(Virginia)	hasChild	Robert_White_(attorney_general)
+John_Baker_White_(Virginia)	hasChild	Robert_White_(attorney_general)
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+
+http://dbpedia.org/resource/Robert_White_(attorney_general)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Christian_Streit_White
+Robert_White_(attorney_general)	Christian_Streit_White
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+
+http://dbpedia.org/resource/Samuel_Ealy_Johnson_Jr.	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Lady_Bird_Johnson
+Samuel_Ealy_Johnson_Jr.	Lady_Bird_Johnson
+Samuel_Ealy_Johnson_Jr.	hasChild	Lyndon_B._Johnson
+Samuel_Ealy_Johnson_Jr.	hasChild	Lyndon_B._Johnson
+Lyndon_B._Johnson	isMarriedTo	Lady_Bird_Johnson
+Lady_Bird_Johnson	isMarriedTo	Lyndon_B._Johnson
+Lyndon_B._Johnson	isMarriedTo	Lady_Bird_Johnson
+Lady_Bird_Johnson	isMarriedTo	Lyndon_B._Johnson
+
+http://dbpedia.org/resource/Alexandra_Kerry	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Cameron_Kerry
+Alexandra_Kerry	Cameron_Kerry
+John_Kerry	hasChild	Alexandra_Kerry
+John_Kerry	hasChild	Alexandra_Kerry
+Richard_Kerry	hasChild	John_Kerry
+Richard_Kerry	hasChild	John_Kerry
+Richard_Kerry	hasChild	Cameron_Kerry
+Richard_Kerry	hasChild	Cameron_Kerry
+
+http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Christian_Streit_White
+Samuel_Lightfoot_Flournoy	Christian_Streit_White
+Samuel_Lightfoot_Flournoy	livesIn	Romney,_West_Virginia
+Samuel_Lightfoot_Flournoy	livesIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+
+http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Christian_Streit_White
+Samuel_Lightfoot_Flournoy	Christian_Streit_White
+Samuel_Lightfoot_Flournoy	hasChild	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy	hasChild	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	wasBornIn	Romney,_West_Virginia
+Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+
+http://dbpedia.org/resource/Maria_Shriver	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Bobby_Shriver
+Maria_Shriver	Bobby_Shriver
+Maria_Shriver	wasBornIn	Chicago
+Maria_Shriver	wasBornIn	Chicago
+Bobby_Shriver	wasBornIn	Chicago
+Bobby_Shriver	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Samuel_David_Alexander	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Oskar_Alexander
+Samuel_David_Alexander	Oskar_Alexander
+Samuel_David_Alexander	isCitizenOf	Croatia
+Samuel_David_Alexander	isCitizenOf	Croatia
+Samobor	isLocatedIn	Croatia
+Samobor	isLocatedIn	Croatia
+Oskar_Alexander	diedIn	Samobor
+Oskar_Alexander	diedIn	Samobor
+
+http://dbpedia.org/resource/John_Baker_White_(West_Virginia_politician)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Robert_White_(judge)
+John_Baker_White_(West_Virginia_politician)	Robert_White_(judge)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+Robert_White_(judge)	hasChild	John_Baker_White_(Virginia)
+Robert_White_(judge)	hasChild	John_Baker_White_(Virginia)
+
+http://dbpedia.org/resource/John_Baker_White_(West_Virginia_politician)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Robert_White_(attorney_general)
+John_Baker_White_(West_Virginia_politician)	Robert_White_(attorney_general)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+John_Baker_White_(Virginia)	hasChild	Robert_White_(attorney_general)
+John_Baker_White_(Virginia)	hasChild	Robert_White_(attorney_general)
+
+http://dbpedia.org/resource/John_Baker_White_(West_Virginia_politician)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Robert_White_(attorney_general)
+John_Baker_White_(West_Virginia_politician)	Robert_White_(attorney_general)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+
+http://dbpedia.org/resource/John_Baker_White_(West_Virginia_politician)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Robert_White_(attorney_general)
+John_Baker_White_(West_Virginia_politician)	Robert_White_(attorney_general)
+John_Baker_White_(West_Virginia_politician)	wasBornIn	Romney,_West_Virginia
+John_Baker_White_(West_Virginia_politician)	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+
+http://dbpedia.org/resource/Rory_Reid	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Harry_Reid
+Rory_Reid	Harry_Reid
+Harry_Reid	hasChild	Rory_Reid
+Harry_Reid	hasChild	Rory_Reid
+
+http://dbpedia.org/resource/Rory_Reid	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Harry_Reid
+Rory_Reid	Harry_Reid
+Rory_Reid	livesIn	Henderson,_Nevada
+Rory_Reid	livesIn	Henderson,_Nevada
+Rory_Reid	livesIn	Henderson,_Nevada
+Rory_Reid	livesIn	Henderson,_Nevada
+Harry_Reid	hasChild	Rory_Reid
+Harry_Reid	hasChild	Rory_Reid
+
+http://dbpedia.org/resource/Rory_Reid	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Harry_Reid
+Rory_Reid	Harry_Reid
+Rory_Reid	graduatedFrom	Brigham_Young_University
+Rory_Reid	graduatedFrom	Brigham_Young_University
+Rory_Reid	graduatedFrom	Brigham_Young_University
+Rory_Reid	graduatedFrom	Brigham_Young_University
+Harry_Reid	hasChild	Rory_Reid
+Harry_Reid	hasChild	Rory_Reid
+
+http://dbpedia.org/resource/Rory_Reid	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Harry_Reid
+Rory_Reid	Harry_Reid
+Rory_Reid	wasBornIn	Alexandria,_Virginia
+Rory_Reid	wasBornIn	Alexandria,_Virginia
+Rory_Reid	wasBornIn	Alexandria,_Virginia
+Rory_Reid	wasBornIn	Alexandria,_Virginia
+Harry_Reid	hasChild	Rory_Reid
+Harry_Reid	hasChild	Rory_Reid
+
+http://dbpedia.org/resource/Vita_Kawawa	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Rashidi_Kawawa
+Vita_Kawawa	Rashidi_Kawawa
+Vita_Kawawa	wasBornIn	Tanganyika
+Vita_Kawawa	wasBornIn	Tanganyika
+Rashidi_Kawawa	isPoliticianOf	Tanganyika
+Rashidi_Kawawa	isPoliticianOf	Tanganyika
+
+http://dbpedia.org/resource/Vita_Kawawa	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Rashidi_Kawawa
+Vita_Kawawa	Rashidi_Kawawa
+Vita_Kawawa	wasBornIn	Tanganyika
+Vita_Kawawa	wasBornIn	Tanganyika
+Vita_Kawawa	wasBornIn	Tanganyika
+Vita_Kawawa	wasBornIn	Tanganyika
+Rashidi_Kawawa	hasChild	Vita_Kawawa
+Rashidi_Kawawa	hasChild	Vita_Kawawa
+
+http://dbpedia.org/resource/Vita_Kawawa	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Rashidi_Kawawa
+Vita_Kawawa	Rashidi_Kawawa
+Vita_Kawawa	wasBornIn	Tanganyika
+Vita_Kawawa	wasBornIn	Tanganyika
+Tanganyika	hasCapital	Dar_es_Salaam
+Tanganyika	hasCapital	Dar_es_Salaam
+Rashidi_Kawawa	diedIn	Dar_es_Salaam
+Rashidi_Kawawa	diedIn	Dar_es_Salaam
+
+http://dbpedia.org/resource/Vita_Kawawa	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Rashidi_Kawawa
+Vita_Kawawa	Rashidi_Kawawa
+Rashidi_Kawawa	hasChild	Vita_Kawawa
+Rashidi_Kawawa	hasChild	Vita_Kawawa
+
+http://dbpedia.org/resource/Vita_Kawawa	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Rashidi_Kawawa
+Vita_Kawawa	Rashidi_Kawawa
+Vita_Kawawa	isAffiliatedTo	Chama_Cha_Mapinduzi
+Vita_Kawawa	isAffiliatedTo	Chama_Cha_Mapinduzi
+Rashidi_Kawawa	isAffiliatedTo	Chama_Cha_Mapinduzi
+Rashidi_Kawawa	isAffiliatedTo	Chama_Cha_Mapinduzi
+
+http://dbpedia.org/resource/Vita_Kawawa	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Rashidi_Kawawa
+Vita_Kawawa	Rashidi_Kawawa
+Vita_Kawawa	isAffiliatedTo	Chama_Cha_Mapinduzi
+Vita_Kawawa	isAffiliatedTo	Chama_Cha_Mapinduzi
+Vita_Kawawa	isAffiliatedTo	Chama_Cha_Mapinduzi
+Vita_Kawawa	isAffiliatedTo	Chama_Cha_Mapinduzi
+Rashidi_Kawawa	hasChild	Vita_Kawawa
+Rashidi_Kawawa	hasChild	Vita_Kawawa
+
+http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Robert_White_(attorney_general)
+Samuel_Lightfoot_Flournoy	Robert_White_(attorney_general)
+Samuel_Lightfoot_Flournoy	livesIn	Romney,_West_Virginia
+Samuel_Lightfoot_Flournoy	livesIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+
+http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Robert_White_(attorney_general)
+Samuel_Lightfoot_Flournoy	Robert_White_(attorney_general)
+Samuel_Lightfoot_Flournoy	hasChild	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy	hasChild	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	wasBornIn	Romney,_West_Virginia
+Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+
+http://dbpedia.org/resource/John_Baker_White_(West_Virginia_politician)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Robert_White_(West_Virginia_senator)
+John_Baker_White_(West_Virginia_politician)	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+
+http://dbpedia.org/resource/John_Baker_White_(West_Virginia_politician)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Robert_White_(West_Virginia_senator)
+John_Baker_White_(West_Virginia_politician)	Robert_White_(West_Virginia_senator)
+John_Baker_White_(West_Virginia_politician)	wasBornIn	Romney,_West_Virginia
+John_Baker_White_(West_Virginia_politician)	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+
+http://dbpedia.org/resource/Jorge_Holguín	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Carlos_Holguín_Mallarino
+Jorge_Holguín	Carlos_Holguín_Mallarino
+Jorge_Holguín	isAffiliatedTo	Colombian_Conservative_Party
+Jorge_Holguín	isAffiliatedTo	Colombian_Conservative_Party
+Carlos_Holguín_Mallarino	isAffiliatedTo	Colombian_Conservative_Party
+Carlos_Holguín_Mallarino	isAffiliatedTo	Colombian_Conservative_Party
+
+http://dbpedia.org/resource/Thomson_Francis_Mason	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/George_Mason
+Thomson_Francis_Mason	George_Mason
+Thomson_Francis_Mason	wasBornIn	Gunston_Hall
+Thomson_Francis_Mason	wasBornIn	Gunston_Hall
+George_Mason	created	Gunston_Hall
+George_Mason	diedIn	Gunston_Hall
+George_Mason	created	Gunston_Hall
+George_Mason	diedIn	Gunston_Hall
+
+http://dbpedia.org/resource/Thomson_Francis_Mason	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/George_Mason
+Thomson_Francis_Mason	George_Mason
+Thomson_Mason_(1759–1820)	hasChild	Thomson_Francis_Mason
+Thomson_Mason_(1759–1820)	hasChild	Thomson_Francis_Mason
+George_Mason	hasChild	Thomson_Mason_(1759–1820)
+George_Mason	hasChild	Thomson_Mason_(1759–1820)
+
+http://dbpedia.org/resource/Thomson_Francis_Mason	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/George_Mason
+Thomson_Francis_Mason	George_Mason
+Thomson_Mason_(1759–1820)	hasChild	Thomson_Francis_Mason
+Thomson_Mason_(1759–1820)	hasChild	Thomson_Francis_Mason
+Thomson_Mason_(1759–1820)	wasBornIn	Gunston_Hall
+Thomson_Mason_(1759–1820)	wasBornIn	Gunston_Hall
+George_Mason	created	Gunston_Hall
+George_Mason	diedIn	Gunston_Hall
+George_Mason	created	Gunston_Hall
+George_Mason	diedIn	Gunston_Hall
+
+http://dbpedia.org/resource/Jean-Claude_Duvalier	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Simone_Duvalier
+Jean-Claude_Duvalier	Simone_Duvalier
+Jean-Claude_Duvalier	isPoliticianOf	Haiti
+Jean-Claude_Duvalier	isCitizenOf	Haiti
+Jean-Claude_Duvalier	isPoliticianOf	Haiti
+Jean-Claude_Duvalier	isCitizenOf	Haiti
+Simone_Duvalier	isCitizenOf	Haiti
+Simone_Duvalier	isCitizenOf	Haiti
+
+http://dbpedia.org/resource/Jean-Claude_Duvalier	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Simone_Duvalier
+Jean-Claude_Duvalier	Simone_Duvalier
+Simone_Duvalier	hasChild	Jean-Claude_Duvalier
+Simone_Duvalier	hasChild	Jean-Claude_Duvalier
+
+http://dbpedia.org/resource/Christian_Streit_White	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Robert_White_(judge)
+Christian_Streit_White	Robert_White_(judge)
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+Robert_White_(judge)	hasChild	John_Baker_White_(Virginia)
+Robert_White_(judge)	hasChild	John_Baker_White_(Virginia)
+
+http://dbpedia.org/resource/Arn_Chorn-Pond	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Peter_L._Pond
+Arn_Chorn-Pond	Peter_L._Pond
+Peter_L._Pond	hasChild	Arn_Chorn-Pond
+Peter_L._Pond	hasChild	Arn_Chorn-Pond
+
+http://dbpedia.org/resource/Arn_Chorn-Pond	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Peter_L._Pond
+Arn_Chorn-Pond	Peter_L._Pond
+Arn_Chorn-Pond	graduatedFrom	Providence_College
+Arn_Chorn-Pond	graduatedFrom	Providence_College
+Arn_Chorn-Pond	graduatedFrom	Providence_College
+Arn_Chorn-Pond	graduatedFrom	Providence_College
+Peter_L._Pond	hasChild	Arn_Chorn-Pond
+Peter_L._Pond	hasChild	Arn_Chorn-Pond
+
+http://dbpedia.org/resource/Arn_Chorn-Pond	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Peter_L._Pond
+Arn_Chorn-Pond	Peter_L._Pond
+Arn_Chorn-Pond	wasBornIn	Battambang
+Arn_Chorn-Pond	wasBornIn	Battambang
+Arn_Chorn-Pond	wasBornIn	Battambang
+Arn_Chorn-Pond	wasBornIn	Battambang
+Peter_L._Pond	hasChild	Arn_Chorn-Pond
+Peter_L._Pond	hasChild	Arn_Chorn-Pond
+
+http://dbpedia.org/resource/Kim_Kyong-hui	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Kim_Jong-un
+Kim_Kyong-hui	Kim_Jong-un
+Kim_Kyong-hui	graduatedFrom	Kim_Il-sung_University
+Kim_Kyong-hui	graduatedFrom	Kim_Il-sung_University
+Kim_Il-sung_University	isLocatedIn	Pyongyang
+Kim_Il-sung_University	isLocatedIn	Pyongyang
+Kim_Jong-un	wasBornIn	Pyongyang
+Kim_Jong-un	wasBornIn	Pyongyang
+
+http://dbpedia.org/resource/Kim_Kyong-hui	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Kim_Jong-un
+Kim_Kyong-hui	Kim_Jong-un
+Kim_Kyong-hui	graduatedFrom	Kim_Il-sung_University
+Kim_Kyong-hui	graduatedFrom	Kim_Il-sung_University
+Kim_Jong-un	graduatedFrom	Kim_Il-sung_University
+Kim_Jong-un	graduatedFrom	Kim_Il-sung_University
+
+http://dbpedia.org/resource/Kim_Kyong-hui	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Kim_Jong-un
+Kim_Kyong-hui	Kim_Jong-un
+Kim_Kyong-hui	graduatedFrom	Kim_Il-sung_University
+Kim_Kyong-hui	graduatedFrom	Kim_Il-sung_University
+Ri_Sol-ju	graduatedFrom	Kim_Il-sung_University
+Ri_Sol-ju	graduatedFrom	Kim_Il-sung_University
+Kim_Jong-un	isMarriedTo	Ri_Sol-ju
+Ri_Sol-ju	isMarriedTo	Kim_Jong-un
+Kim_Jong-un	isMarriedTo	Ri_Sol-ju
+Ri_Sol-ju	isMarriedTo	Kim_Jong-un
+
+http://dbpedia.org/resource/Kim_Kyong-hui	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Kim_Jong-un
+Kim_Kyong-hui	Kim_Jong-un
+Kim_Kyong-hui	wasBornIn	Pyongyang
+Kim_Kyong-hui	wasBornIn	Pyongyang
+Kim_Jong-un	wasBornIn	Pyongyang
+Kim_Jong-un	wasBornIn	Pyongyang
+
+http://dbpedia.org/resource/Robert_White_(judge)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Robert_White_(attorney_general)
+Robert_White_(judge)	Robert_White_(attorney_general)
+Robert_White_(judge)	hasChild	John_Baker_White_(Virginia)
+Robert_White_(judge)	hasChild	John_Baker_White_(Virginia)
+John_Baker_White_(Virginia)	hasChild	Robert_White_(attorney_general)
+John_Baker_White_(Virginia)	hasChild	Robert_White_(attorney_general)
+
+http://dbpedia.org/resource/Robert_White_(West_Virginia_senator)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Christian_Streit_White
+Robert_White_(West_Virginia_senator)	Christian_Streit_White
+Robert_White_(West_Virginia_senator)	graduatedFrom	West_Virginia_University_College_of_Law
+Robert_White_(West_Virginia_senator)	graduatedFrom	West_Virginia_University_College_of_Law
+Robert_White_(West_Virginia_senator)	graduatedFrom	West_Virginia_University_College_of_Law
+Robert_White_(West_Virginia_senator)	graduatedFrom	West_Virginia_University_College_of_Law
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+
+http://dbpedia.org/resource/Robert_White_(West_Virginia_senator)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Christian_Streit_White
+Robert_White_(West_Virginia_senator)	Christian_Streit_White
+Robert_White_(West_Virginia_senator)	wasBornIn	Romney,_West_Virginia
+Robert_White_(West_Virginia_senator)	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+
+http://dbpedia.org/resource/Robert_White_(West_Virginia_senator)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Christian_Streit_White
+Robert_White_(West_Virginia_senator)	Christian_Streit_White
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+
+http://dbpedia.org/resource/Claude_Chirac	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Jacques_Chirac
+Claude_Chirac	Jacques_Chirac
+Claude_Chirac	isMarriedTo	Frédéric_Salat-Baroux
+Frédéric_Salat-Baroux	isMarriedTo	Claude_Chirac
+Claude_Chirac	isMarriedTo	Frédéric_Salat-Baroux
+Frédéric_Salat-Baroux	isMarriedTo	Claude_Chirac
+Claude_Chirac	isMarriedTo	Frédéric_Salat-Baroux
+Frédéric_Salat-Baroux	isMarriedTo	Claude_Chirac
+Claude_Chirac	isMarriedTo	Frédéric_Salat-Baroux
+Frédéric_Salat-Baroux	isMarriedTo	Claude_Chirac
+Jacques_Chirac	hasChild	Claude_Chirac
+Jacques_Chirac	hasChild	Claude_Chirac
+
+http://dbpedia.org/resource/Claude_Chirac	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Jacques_Chirac
+Claude_Chirac	Jacques_Chirac
+Jacques_Chirac	hasChild	Claude_Chirac
+Jacques_Chirac	hasChild	Claude_Chirac
+
+http://dbpedia.org/resource/Robert_White_(attorney_general)	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Robert_White_(judge)
+Robert_White_(attorney_general)	Robert_White_(judge)
+John_Baker_White_(Virginia)	hasChild	Robert_White_(attorney_general)
+John_Baker_White_(Virginia)	hasChild	Robert_White_(attorney_general)
+Robert_White_(judge)	hasChild	John_Baker_White_(Virginia)
+Robert_White_(judge)	hasChild	John_Baker_White_(Virginia)
+
+http://dbpedia.org/resource/Samuel_Ealy_Johnson_Jr.	http://dbpedia.org/ontology/relation	http://dbpedia.org/resource/Chuck_Robb
+Samuel_Ealy_Johnson_Jr.	Chuck_Robb
+Samuel_Ealy_Johnson_Jr.	hasChild	Lyndon_B._Johnson
+Samuel_Ealy_Johnson_Jr.	hasChild	Lyndon_B._Johnson
+Lyndon_B._Johnson	hasChild	Lynda_Bird_Johnson_Robb
+Lyndon_B._Johnson	hasChild	Lynda_Bird_Johnson_Robb
+Lynda_Bird_Johnson_Robb	isMarriedTo	Chuck_Robb
+Chuck_Robb	isMarriedTo	Lynda_Bird_Johnson_Robb
+Lynda_Bird_Johnson_Robb	isMarriedTo	Chuck_Robb
+Chuck_Robb	isMarriedTo	Lynda_Bird_Johnson_Robb
+

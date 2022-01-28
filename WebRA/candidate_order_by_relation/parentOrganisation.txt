@@ -1,0 +1,98 @@
+http://dbpedia.org/resource/NBC	http://dbpedia.org/ontology/parentOrganisation	http://dbpedia.org/resource/Comcast
+NBC	Comcast
+NBC	isLocatedIn	30_Rockefeller_Plaza
+NBC	isLocatedIn	30_Rockefeller_Plaza
+MSNBC	isLocatedIn	30_Rockefeller_Plaza
+MSNBC	isLocatedIn	30_Rockefeller_Plaza
+Comcast	owns	MSNBC
+Comcast	owns	MSNBC
+
+http://dbpedia.org/resource/NBC	http://dbpedia.org/ontology/parentOrganisation	http://dbpedia.org/resource/Comcast
+NBC	Comcast
+NBC	isLocatedIn	10_Universal_City_Plaza
+NBC	isLocatedIn	10_Universal_City_Plaza
+Comcast	owns	10_Universal_City_Plaza
+Comcast	owns	10_Universal_City_Plaza
+
+http://dbpedia.org/resource/NBC	http://dbpedia.org/ontology/parentOrganisation	http://dbpedia.org/resource/Comcast
+NBC	Comcast
+NBC	isLocatedIn	10_Universal_City_Plaza
+NBC	isLocatedIn	10_Universal_City_Plaza
+NBC	isLocatedIn	10_Universal_City_Plaza
+NBC	isLocatedIn	10_Universal_City_Plaza
+Comcast	owns	NBC
+Comcast	owns	NBC
+
+http://dbpedia.org/resource/NBC	http://dbpedia.org/ontology/parentOrganisation	http://dbpedia.org/resource/Comcast
+NBC	Comcast
+Comcast	owns	NBC
+Comcast	owns	NBC
+
+http://dbpedia.org/resource/NBC	http://dbpedia.org/ontology/parentOrganisation	http://dbpedia.org/resource/Comcast
+NBC	Comcast
+NBCUniversal	owns	NBC
+NBCUniversal	owns	NBC
+NBCUniversal	owns	Universal_Orlando
+NBCUniversal	owns	Universal_Orlando
+Comcast	owns	Universal_Orlando
+Comcast	owns	Universal_Orlando
+
+http://dbpedia.org/resource/NBC	http://dbpedia.org/ontology/parentOrganisation	http://dbpedia.org/resource/Comcast
+NBC	Comcast
+NBCUniversal	owns	NBC
+NBCUniversal	owns	NBC
+NBCUniversal	owns	NBC
+NBCUniversal	owns	NBC
+Comcast	owns	NBC
+Comcast	owns	NBC
+
+http://dbpedia.org/resource/NBC	http://dbpedia.org/ontology/parentOrganisation	http://dbpedia.org/resource/Comcast
+NBC	Comcast
+NBCUniversal	owns	NBC
+NBCUniversal	owns	NBC
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBCUniversal_Television_Group
+Comcast	owns	NBCUniversal_Television_Group
+Comcast	owns	NBCUniversal_Television_Group
+
+http://dbpedia.org/resource/NBC	http://dbpedia.org/ontology/parentOrganisation	http://dbpedia.org/resource/Comcast
+NBC	Comcast
+NBCUniversal	owns	NBC
+NBCUniversal	owns	NBC
+NBCUniversal	owns	Weatherscan
+NBCUniversal	owns	Weatherscan
+Comcast	owns	Weatherscan
+Comcast	owns	Weatherscan
+
+http://dbpedia.org/resource/NBC	http://dbpedia.org/ontology/parentOrganisation	http://dbpedia.org/resource/Comcast
+NBC	Comcast
+NBC	isLocatedIn	WMAQ-TV
+NBC	isLocatedIn	WMAQ-TV
+NBC	isLocatedIn	WMAQ-TV
+NBC	isLocatedIn	WMAQ-TV
+Comcast	owns	NBC
+Comcast	owns	NBC
+
+http://dbpedia.org/resource/Radiotelevisione_svizzera	http://dbpedia.org/ontology/parentOrganisation	http://dbpedia.org/resource/Swiss_Broadcasting_Corporation
+Radiotelevisione_svizzera	Swiss_Broadcasting_Corporation
+Radiotelevisione_svizzera	owns	RSI_La_1
+Radiotelevisione_svizzera	owns	RSI_La_1
+Radiotelevisione_svizzera	owns	RSI_La_1
+Radiotelevisione_svizzera	owns	RSI_La_1
+Swiss_Broadcasting_Corporation	owns	Radiotelevisione_svizzera
+Swiss_Broadcasting_Corporation	owns	Radiotelevisione_svizzera
+
+http://dbpedia.org/resource/Radiotelevisione_svizzera	http://dbpedia.org/ontology/parentOrganisation	http://dbpedia.org/resource/Swiss_Broadcasting_Corporation
+Radiotelevisione_svizzera	Swiss_Broadcasting_Corporation
+Swiss_Broadcasting_Corporation	owns	Radiotelevisione_svizzera
+Swiss_Broadcasting_Corporation	owns	Radiotelevisione_svizzera
+
+http://dbpedia.org/resource/Radiotelevisione_svizzera	http://dbpedia.org/ontology/parentOrganisation	http://dbpedia.org/resource/Swiss_Broadcasting_Corporation
+Radiotelevisione_svizzera	Swiss_Broadcasting_Corporation
+Radiotelevisione_svizzera	isLocatedIn	Lugano
+Radiotelevisione_svizzera	isLocatedIn	Lugano
+Radiotelevisione_svizzera	isLocatedIn	Lugano
+Radiotelevisione_svizzera	isLocatedIn	Lugano
+Swiss_Broadcasting_Corporation	owns	Radiotelevisione_svizzera
+Swiss_Broadcasting_Corporation	owns	Radiotelevisione_svizzera
+

@@ -1,0 +1,342 @@
+http://dbpedia.org/resource/Battle_of_Actium	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Final_War_of_the_Roman_Republic
+Battle_of_Actium	Final_War_of_the_Roman_Republic
+Battle_of_Actium	happenedIn	Roman_Republic
+Battle_of_Actium	happenedIn	Roman_Republic
+Final_War_of_the_Roman_Republic	happenedIn	Roman_Republic
+Roman_Republic	participatedIn	Final_War_of_the_Roman_Republic
+Final_War_of_the_Roman_Republic	happenedIn	Roman_Republic
+Roman_Republic	participatedIn	Final_War_of_the_Roman_Republic
+
+http://dbpedia.org/resource/Battle_of_Actium	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Final_War_of_the_Roman_Republic
+Battle_of_Actium	Final_War_of_the_Roman_Republic
+Battle_of_Actium	happenedIn	Ptolemaic_Kingdom
+Ptolemaic_Kingdom	participatedIn	Battle_of_Actium
+Battle_of_Actium	happenedIn	Ptolemaic_Kingdom
+Ptolemaic_Kingdom	participatedIn	Battle_of_Actium
+Final_War_of_the_Roman_Republic	happenedIn	Ptolemaic_Kingdom
+Ptolemaic_Kingdom	participatedIn	Final_War_of_the_Roman_Republic
+Final_War_of_the_Roman_Republic	happenedIn	Ptolemaic_Kingdom
+Ptolemaic_Kingdom	participatedIn	Final_War_of_the_Roman_Republic
+
+http://dbpedia.org/resource/Turkish_involvement_in_the_Syrian_Civil_War	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Military_intervention_against_ISIL
+Turkish_involvement_in_the_Syrian_Civil_War	Military_intervention_against_ISIL
+Syria	participatedIn	Turkish_involvement_in_the_Syrian_Civil_War
+Turkish_involvement_in_the_Syrian_Civil_War	happenedIn	Syria
+Syria	participatedIn	Turkish_involvement_in_the_Syrian_Civil_War
+Turkish_involvement_in_the_Syrian_Civil_War	happenedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+
+http://dbpedia.org/resource/Turkish_involvement_in_the_Syrian_Civil_War	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Military_intervention_against_ISIL
+Turkish_involvement_in_the_Syrian_Civil_War	Military_intervention_against_ISIL
+Rojava	participatedIn	Turkish_involvement_in_the_Syrian_Civil_War
+Rojava	participatedIn	Turkish_involvement_in_the_Syrian_Civil_War
+Rojava	dealsWith	Syria
+Rojava	isLocatedIn	Syria
+Rojava	dealsWith	Syria
+Rojava	isLocatedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+
+http://dbpedia.org/resource/Turkish_involvement_in_the_Syrian_Civil_War	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Military_intervention_against_ISIL
+Turkish_involvement_in_the_Syrian_Civil_War	Military_intervention_against_ISIL
+Women's_Protection_Units	participatedIn	Turkish_involvement_in_the_Syrian_Civil_War
+Women's_Protection_Units	participatedIn	Turkish_involvement_in_the_Syrian_Civil_War
+Women's_Protection_Units	isLocatedIn	Syria
+Women's_Protection_Units	isLocatedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+
+http://dbpedia.org/resource/Russian_military_intervention_in_the_Syrian_Civil_War	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Military_intervention_against_ISIL
+Russian_military_intervention_in_the_Syrian_Civil_War	Military_intervention_against_ISIL
+Russian_military_intervention_in_the_Syrian_Civil_War	isLocatedIn	Syria
+Syria	participatedIn	Russian_military_intervention_in_the_Syrian_Civil_War
+Russian_military_intervention_in_the_Syrian_Civil_War	happenedIn	Syria
+Russian_military_intervention_in_the_Syrian_Civil_War	isLocatedIn	Syria
+Syria	participatedIn	Russian_military_intervention_in_the_Syrian_Civil_War
+Russian_military_intervention_in_the_Syrian_Civil_War	happenedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+
+http://dbpedia.org/resource/Siege_of_Amirli	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Military_intervention_against_ISIL
+Siege_of_Amirli	Military_intervention_against_ISIL
+Iraq	participatedIn	Siege_of_Amirli
+Siege_of_Amirli	happenedIn	Iraq
+Iraq	participatedIn	Siege_of_Amirli
+Siege_of_Amirli	happenedIn	Iraq
+Iraq	dealsWith	Syria
+Syria	dealsWith	Iraq
+Iraq	dealsWith	Syria
+Syria	dealsWith	Iraq
+Military_intervention_against_ISIL	happenedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+
+http://dbpedia.org/resource/Mosul_offensive_(2015)	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Military_intervention_against_ISIL
+Mosul_offensive_(2015)	Military_intervention_against_ISIL
+Mosul_offensive_(2015)	happenedIn	Iraq
+Mosul_offensive_(2015)	happenedIn	Iraq
+Iraq	dealsWith	Syria
+Syria	dealsWith	Iraq
+Iraq	dealsWith	Syria
+Syria	dealsWith	Iraq
+Military_intervention_against_ISIL	happenedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+
+http://dbpedia.org/resource/Battle_of_the_Dalmatian_Channels	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Croatian_War_of_Independence
+Battle_of_the_Dalmatian_Channels	Croatian_War_of_Independence
+Battle_of_the_Dalmatian_Channels	happenedIn	Adriatic_Sea
+Battle_of_the_Dalmatian_Channels	happenedIn	Adriatic_Sea
+Adriatic_Sea	isLocatedIn	Croatia
+Adriatic_Sea	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+
+http://dbpedia.org/resource/Battle_of_the_Dalmatian_Channels	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Croatian_War_of_Independence
+Battle_of_the_Dalmatian_Channels	Croatian_War_of_Independence
+Battle_of_the_Dalmatian_Channels	happenedIn	Croatia
+Battle_of_the_Dalmatian_Channels	happenedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+
+http://dbpedia.org/resource/Iraqi_Kurdish_Civil_War	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Iraqi–Kurdish_conflict
+Iraqi_Kurdish_Civil_War	Iraqi–Kurdish_conflict
+Iraqi_Kurdish_Civil_War	isLocatedIn	Iraqi_Kurdistan
+Iraqi_Kurdish_Civil_War	happenedIn	Iraqi_Kurdistan
+Iraqi_Kurdish_Civil_War	isLocatedIn	Iraqi_Kurdistan
+Iraqi_Kurdish_Civil_War	happenedIn	Iraqi_Kurdistan
+Iraqi_Kurdistan	participatedIn	Iraqi–Kurdish_conflict
+Iraqi–Kurdish_conflict	happenedIn	Iraqi_Kurdistan
+Iraqi_Kurdistan	participatedIn	Iraqi–Kurdish_conflict
+Iraqi–Kurdish_conflict	happenedIn	Iraqi_Kurdistan
+
+http://dbpedia.org/resource/Iraqi_Kurdish_Civil_War	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Iraqi–Kurdish_conflict
+Iraqi_Kurdish_Civil_War	Iraqi–Kurdish_conflict
+Iraqi_National_Congress	participatedIn	Iraqi_Kurdish_Civil_War
+Iraqi_National_Congress	participatedIn	Iraqi_Kurdish_Civil_War
+Iraqi_National_Congress	participatedIn	Iraqi–Kurdish_conflict
+Iraqi_National_Congress	participatedIn	Iraqi–Kurdish_conflict
+
+http://dbpedia.org/resource/Battle_of_Berestechko	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Khmelnytsky_Uprising
+Battle_of_Berestechko	Khmelnytsky_Uprising
+Polish–Lithuanian_Commonwealth	participatedIn	Battle_of_Berestechko
+Battle_of_Berestechko	happenedIn	Polish–Lithuanian_Commonwealth
+Polish–Lithuanian_Commonwealth	participatedIn	Battle_of_Berestechko
+Battle_of_Berestechko	happenedIn	Polish–Lithuanian_Commonwealth
+Polish–Lithuanian_Commonwealth	participatedIn	Khmelnytsky_Uprising
+Khmelnytsky_Uprising	happenedIn	Polish–Lithuanian_Commonwealth
+Polish–Lithuanian_Commonwealth	participatedIn	Khmelnytsky_Uprising
+Khmelnytsky_Uprising	happenedIn	Polish–Lithuanian_Commonwealth
+
+http://dbpedia.org/resource/Battle_of_Tripoli_(2011)	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Libyan_Civil_War_(2011)
+Battle_of_Tripoli_(2011)	Libyan_Civil_War_(2011)
+National_Liberation_Army_(Libya)	participatedIn	Battle_of_Tripoli_(2011)
+National_Liberation_Army_(Libya)	participatedIn	Battle_of_Tripoli_(2011)
+National_Liberation_Army_(Libya)	participatedIn	Libyan_Civil_War_(2011)
+National_Liberation_Army_(Libya)	participatedIn	Libyan_Civil_War_(2011)
+
+http://dbpedia.org/resource/American-led_intervention_in_Iraq_(2014–present)	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Military_intervention_against_ISIL
+American-led_intervention_in_Iraq_(2014–present)	Military_intervention_against_ISIL
+American-led_intervention_in_Iraq_(2014–present)	happenedIn	Iraq
+Iraq	participatedIn	American-led_intervention_in_Iraq_(2014–present)
+American-led_intervention_in_Iraq_(2014–present)	happenedIn	Iraq
+Iraq	participatedIn	American-led_intervention_in_Iraq_(2014–present)
+Iraq	dealsWith	Syria
+Syria	dealsWith	Iraq
+Iraq	dealsWith	Syria
+Syria	dealsWith	Iraq
+Military_intervention_against_ISIL	happenedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+
+http://dbpedia.org/resource/Battle_of_Suq_al_Ghazi	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Military_intervention_against_ISIL
+Battle_of_Suq_al_Ghazi	Military_intervention_against_ISIL
+Iraq	participatedIn	Battle_of_Suq_al_Ghazi
+Battle_of_Suq_al_Ghazi	happenedIn	Iraq
+Iraq	participatedIn	Battle_of_Suq_al_Ghazi
+Battle_of_Suq_al_Ghazi	happenedIn	Iraq
+Iraq	dealsWith	Syria
+Syria	dealsWith	Iraq
+Iraq	dealsWith	Syria
+Syria	dealsWith	Iraq
+Military_intervention_against_ISIL	happenedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+
+http://dbpedia.org/resource/1991_Yugoslav_campaign_in_Croatia	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Croatian_War_of_Independence
+1991_Yugoslav_campaign_in_Croatia	Croatian_War_of_Independence
+Croatian_National_Guard	participatedIn	1991_Yugoslav_campaign_in_Croatia
+Croatian_National_Guard	participatedIn	1991_Yugoslav_campaign_in_Croatia
+Croatian_National_Guard	isLocatedIn	Croatia
+Croatian_National_Guard	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+
+http://dbpedia.org/resource/1991_Yugoslav_campaign_in_Croatia	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Croatian_War_of_Independence
+1991_Yugoslav_campaign_in_Croatia	Croatian_War_of_Independence
+1991_Yugoslav_campaign_in_Croatia	happenedIn	Croatia
+1991_Yugoslav_campaign_in_Croatia	happenedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+
+http://dbpedia.org/resource/1991_Yugoslav_campaign_in_Croatia	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Croatian_War_of_Independence
+1991_Yugoslav_campaign_in_Croatia	Croatian_War_of_Independence
+Croatian_Defence_Forces	participatedIn	1991_Yugoslav_campaign_in_Croatia
+Croatian_Defence_Forces	participatedIn	1991_Yugoslav_campaign_in_Croatia
+Croatian_Defence_Forces	isLocatedIn	Croatia
+Croatian_Defence_Forces	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+
+http://dbpedia.org/resource/Torstenson_War	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Thirty_Years'_War
+Torstenson_War	Thirty_Years'_War
+Denmark–Norway	participatedIn	Torstenson_War
+Torstenson_War	happenedIn	Denmark–Norway
+Denmark–Norway	participatedIn	Torstenson_War
+Torstenson_War	happenedIn	Denmark–Norway
+Denmark–Norway	participatedIn	Thirty_Years'_War
+Denmark–Norway	participatedIn	Thirty_Years'_War
+
+http://dbpedia.org/resource/Battle_of_Brega–Ajdabiya_road	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Libyan_Civil_War_(2011)
+Battle_of_Brega–Ajdabiya_road	Libyan_Civil_War_(2011)
+National_Liberation_Army_(Libya)	participatedIn	Battle_of_Brega–Ajdabiya_road
+National_Liberation_Army_(Libya)	participatedIn	Battle_of_Brega–Ajdabiya_road
+National_Liberation_Army_(Libya)	participatedIn	Libyan_Civil_War_(2011)
+National_Liberation_Army_(Libya)	participatedIn	Libyan_Civil_War_(2011)
+
+http://dbpedia.org/resource/Battle_of_the_Misrata_frontline	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Libyan_Civil_War_(2011)
+Battle_of_the_Misrata_frontline	Libyan_Civil_War_(2011)
+National_Liberation_Army_(Libya)	participatedIn	Battle_of_the_Misrata_frontline
+National_Liberation_Army_(Libya)	participatedIn	Battle_of_the_Misrata_frontline
+National_Liberation_Army_(Libya)	participatedIn	Libyan_Civil_War_(2011)
+National_Liberation_Army_(Libya)	participatedIn	Libyan_Civil_War_(2011)
+
+http://dbpedia.org/resource/Jordanian_intervention_in_the_Syrian_Civil_War	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Military_intervention_against_ISIL
+Jordanian_intervention_in_the_Syrian_Civil_War	Military_intervention_against_ISIL
+Jordanian_intervention_in_the_Syrian_Civil_War	happenedIn	Syria
+Jordanian_intervention_in_the_Syrian_Civil_War	happenedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+
+http://dbpedia.org/resource/Jordanian_intervention_in_the_Syrian_Civil_War	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Military_intervention_against_ISIL
+Jordanian_intervention_in_the_Syrian_Civil_War	Military_intervention_against_ISIL
+Jordanian_intervention_in_the_Syrian_Civil_War	happenedIn	Iraq
+Jordanian_intervention_in_the_Syrian_Civil_War	happenedIn	Iraq
+Iraq	dealsWith	Syria
+Syria	dealsWith	Iraq
+Iraq	dealsWith	Syria
+Syria	dealsWith	Iraq
+Military_intervention_against_ISIL	happenedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+
+http://dbpedia.org/resource/Kurdish_rebellion_of_1983	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Iraqi–Kurdish_conflict
+Kurdish_rebellion_of_1983	Iraqi–Kurdish_conflict
+Kurdish_rebellion_of_1983	happenedIn	Iraqi_Kurdistan
+Kurdish_rebellion_of_1983	happenedIn	Iraqi_Kurdistan
+Iraqi_Kurdistan	participatedIn	Iraqi–Kurdish_conflict
+Iraqi–Kurdish_conflict	happenedIn	Iraqi_Kurdistan
+Iraqi_Kurdistan	participatedIn	Iraqi–Kurdish_conflict
+Iraqi–Kurdish_conflict	happenedIn	Iraqi_Kurdistan
+
+http://dbpedia.org/resource/Battle_of_Mazyr	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Khmelnytsky_Uprising
+Battle_of_Mazyr	Khmelnytsky_Uprising
+Battle_of_Mazyr	isLocatedIn	Polish–Lithuanian_Commonwealth
+Polish–Lithuanian_Commonwealth	participatedIn	Battle_of_Mazyr
+Battle_of_Mazyr	happenedIn	Polish–Lithuanian_Commonwealth
+Battle_of_Mazyr	isLocatedIn	Polish–Lithuanian_Commonwealth
+Polish–Lithuanian_Commonwealth	participatedIn	Battle_of_Mazyr
+Battle_of_Mazyr	happenedIn	Polish–Lithuanian_Commonwealth
+Polish–Lithuanian_Commonwealth	participatedIn	Khmelnytsky_Uprising
+Khmelnytsky_Uprising	happenedIn	Polish–Lithuanian_Commonwealth
+Polish–Lithuanian_Commonwealth	participatedIn	Khmelnytsky_Uprising
+Khmelnytsky_Uprising	happenedIn	Polish–Lithuanian_Commonwealth
+
+http://dbpedia.org/resource/Third_Siege_of_Missolonghi	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Greek_War_of_Independence
+Third_Siege_of_Missolonghi	Greek_War_of_Independence
+Third_Siege_of_Missolonghi	happenedIn	Greece
+Third_Siege_of_Missolonghi	isLocatedIn	Greece
+Third_Siege_of_Missolonghi	happenedIn	Greece
+Third_Siege_of_Missolonghi	isLocatedIn	Greece
+Greek_War_of_Independence	isLocatedIn	Greece
+Greek_War_of_Independence	happenedIn	Greece
+Greek_War_of_Independence	isLocatedIn	Greece
+Greek_War_of_Independence	happenedIn	Greece
+
+http://dbpedia.org/resource/Battle_of_Ajdabiya	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Libyan_Civil_War_(2011)
+Battle_of_Ajdabiya	Libyan_Civil_War_(2011)
+National_Liberation_Army_(Libya)	participatedIn	Battle_of_Ajdabiya
+National_Liberation_Army_(Libya)	participatedIn	Battle_of_Ajdabiya
+National_Liberation_Army_(Libya)	participatedIn	Libyan_Civil_War_(2011)
+National_Liberation_Army_(Libya)	participatedIn	Libyan_Civil_War_(2011)
+
+http://dbpedia.org/resource/Operation_Flash	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Croatian_War_of_Independence
+Operation_Flash	Croatian_War_of_Independence
+Operation_Flash	happenedIn	Croatia
+Croatia	participatedIn	Operation_Flash
+Operation_Flash	happenedIn	Croatia
+Croatia	participatedIn	Operation_Flash
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+
+http://dbpedia.org/resource/Operation_Flash	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Croatian_War_of_Independence
+Operation_Flash	Croatian_War_of_Independence
+Republic_of_Serbian_Krajina	participatedIn	Operation_Flash
+Republic_of_Serbian_Krajina	participatedIn	Operation_Flash
+Republic_of_Serbian_Krajina	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	happenedIn	Republic_of_Serbian_Krajina
+Republic_of_Serbian_Krajina	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	happenedIn	Republic_of_Serbian_Krajina
+
+http://dbpedia.org/resource/Operation_Flash	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Croatian_War_of_Independence
+Operation_Flash	Croatian_War_of_Independence
+Republic_of_Serbian_Krajina	participatedIn	Operation_Flash
+Republic_of_Serbian_Krajina	participatedIn	Operation_Flash
+Republic_of_Serbian_Krajina	hasCapital	Knin
+Republic_of_Serbian_Krajina	hasCapital	Knin
+Knin	participatedIn	Croatian_War_of_Independence
+Knin	participatedIn	Croatian_War_of_Independence
+
+http://dbpedia.org/resource/Conquest_of_the_Azores	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/War_of_the_Portuguese_Succession
+Conquest_of_the_Azores	War_of_the_Portuguese_Succession
+António,_Prior_of_Crato	participatedIn	Conquest_of_the_Azores
+António,_Prior_of_Crato	participatedIn	Conquest_of_the_Azores
+António,_Prior_of_Crato	participatedIn	War_of_the_Portuguese_Succession
+António,_Prior_of_Crato	participatedIn	War_of_the_Portuguese_Succession
+
+http://dbpedia.org/resource/Conquest_of_the_Azores	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/War_of_the_Portuguese_Succession
+Conquest_of_the_Azores	War_of_the_Portuguese_Succession
+Conquest_of_the_Azores	happenedIn	Terceira_Island
+Conquest_of_the_Azores	happenedIn	Terceira_Island
+Terceira_Island	isLocatedIn	Azores
+Terceira_Island	isLocatedIn	Azores
+War_of_the_Portuguese_Succession	happenedIn	Azores
+War_of_the_Portuguese_Succession	happenedIn	Azores
+
+http://dbpedia.org/resource/Conquest_of_the_Azores	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/War_of_the_Portuguese_Succession
+Conquest_of_the_Azores	War_of_the_Portuguese_Succession
+Conquest_of_the_Azores	happenedIn	Azores
+Conquest_of_the_Azores	happenedIn	Azores
+War_of_the_Portuguese_Succession	happenedIn	Azores
+War_of_the_Portuguese_Succession	happenedIn	Azores
+

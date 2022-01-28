@@ -1,0 +1,294 @@
+http://dbpedia.org/resource/Norcia	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Norcia
+Norcia	Norcia
+Norcia	isLocatedIn	Province_of_Perugia
+Norcia	isLocatedIn	Province_of_Perugia
+Norcia	isLocatedIn	Province_of_Perugia
+Norcia	isLocatedIn	Province_of_Perugia
+
+http://dbpedia.org/resource/Norcia	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Norcia
+Norcia	Norcia
+Arthur_J._Gajarsa	wasBornIn	Norcia
+Arthur_J._Gajarsa	wasBornIn	Norcia
+Arthur_J._Gajarsa	wasBornIn	Norcia
+Arthur_J._Gajarsa	wasBornIn	Norcia
+
+http://dbpedia.org/resource/Ascoli_Piceno	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Ascoli_Piceno
+Ascoli_Piceno	Ascoli_Piceno
+Province_of_Ascoli_Piceno	isLocatedIn	Ascoli_Piceno
+Province_of_Ascoli_Piceno	hasCapital	Ascoli_Piceno
+Ascoli_Piceno	isLocatedIn	Province_of_Ascoli_Piceno
+Province_of_Ascoli_Piceno	isLocatedIn	Ascoli_Piceno
+Province_of_Ascoli_Piceno	hasCapital	Ascoli_Piceno
+Ascoli_Piceno	isLocatedIn	Province_of_Ascoli_Piceno
+Province_of_Ascoli_Piceno	isLocatedIn	Ascoli_Piceno
+Province_of_Ascoli_Piceno	hasCapital	Ascoli_Piceno
+Ascoli_Piceno	isLocatedIn	Province_of_Ascoli_Piceno
+Province_of_Ascoli_Piceno	isLocatedIn	Ascoli_Piceno
+Province_of_Ascoli_Piceno	hasCapital	Ascoli_Piceno
+Ascoli_Piceno	isLocatedIn	Province_of_Ascoli_Piceno
+
+http://dbpedia.org/resource/Ascoli_Piceno	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Ascoli_Piceno
+Ascoli_Piceno	Ascoli_Piceno
+Mattia_Destro	wasBornIn	Ascoli_Piceno
+Mattia_Destro	wasBornIn	Ascoli_Piceno
+Mattia_Destro	wasBornIn	Ascoli_Piceno
+Mattia_Destro	wasBornIn	Ascoli_Piceno
+
+http://dbpedia.org/resource/Cesenatico	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Cesenatico
+Cesenatico	Cesenatico
+Cesenatico	isLocatedIn	Province_of_Forlì-Cesena
+Cesenatico	isLocatedIn	Province_of_Forlì-Cesena
+Cesenatico	isLocatedIn	Province_of_Forlì-Cesena
+Cesenatico	isLocatedIn	Province_of_Forlì-Cesena
+
+http://dbpedia.org/resource/Cesenatico	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Cesenatico
+Cesenatico	Cesenatico
+Mattia_Graffiedi	wasBornIn	Cesenatico
+Mattia_Graffiedi	wasBornIn	Cesenatico
+Mattia_Graffiedi	wasBornIn	Cesenatico
+Mattia_Graffiedi	wasBornIn	Cesenatico
+
+http://dbpedia.org/resource/Sestri_Levante	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Sestri_Levante
+Sestri_Levante	Sestri_Levante
+Fosco_Becattini	wasBornIn	Sestri_Levante
+Fosco_Becattini	wasBornIn	Sestri_Levante
+Fosco_Becattini	playsFor	U.S.D._Sestri_Levante_1919
+Fosco_Becattini	isAffiliatedTo	U.S.D._Sestri_Levante_1919
+Fosco_Becattini	playsFor	U.S.D._Sestri_Levante_1919
+Fosco_Becattini	isAffiliatedTo	U.S.D._Sestri_Levante_1919
+U.S.D._Sestri_Levante_1919	isLocatedIn	Sestri_Levante
+U.S.D._Sestri_Levante_1919	isLocatedIn	Sestri_Levante
+
+http://dbpedia.org/resource/Sestri_Levante	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Sestri_Levante
+Sestri_Levante	Sestri_Levante
+U.S.D._Sestri_Levante_1919	isLocatedIn	Sestri_Levante
+U.S.D._Sestri_Levante_1919	isLocatedIn	Sestri_Levante
+U.S.D._Sestri_Levante_1919	isLocatedIn	Sestri_Levante
+U.S.D._Sestri_Levante_1919	isLocatedIn	Sestri_Levante
+
+http://dbpedia.org/resource/Sestri_Levante	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Sestri_Levante
+Sestri_Levante	Sestri_Levante
+U.S.D._Sestri_Levante_1919	isLocatedIn	Sestri_Levante
+U.S.D._Sestri_Levante_1919	isLocatedIn	Sestri_Levante
+Bruno_Baveni	isAffiliatedTo	U.S.D._Sestri_Levante_1919
+Bruno_Baveni	playsFor	U.S.D._Sestri_Levante_1919
+Bruno_Baveni	isAffiliatedTo	U.S.D._Sestri_Levante_1919
+Bruno_Baveni	playsFor	U.S.D._Sestri_Levante_1919
+Bruno_Baveni	wasBornIn	Sestri_Levante
+Bruno_Baveni	wasBornIn	Sestri_Levante
+
+http://dbpedia.org/resource/Sestri_Levante	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Sestri_Levante
+Sestri_Levante	Sestri_Levante
+Bruno_Baveni	wasBornIn	Sestri_Levante
+Bruno_Baveni	wasBornIn	Sestri_Levante
+Bruno_Baveni	wasBornIn	Sestri_Levante
+Bruno_Baveni	wasBornIn	Sestri_Levante
+
+http://dbpedia.org/resource/Sestri_Levante	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Sestri_Levante
+Sestri_Levante	Sestri_Levante
+Bruno_Baveni	wasBornIn	Sestri_Levante
+Bruno_Baveni	wasBornIn	Sestri_Levante
+Bruno_Baveni	isAffiliatedTo	U.S.D._Sestri_Levante_1919
+Bruno_Baveni	playsFor	U.S.D._Sestri_Levante_1919
+Bruno_Baveni	isAffiliatedTo	U.S.D._Sestri_Levante_1919
+Bruno_Baveni	playsFor	U.S.D._Sestri_Levante_1919
+U.S.D._Sestri_Levante_1919	isLocatedIn	Sestri_Levante
+U.S.D._Sestri_Levante_1919	isLocatedIn	Sestri_Levante
+
+http://dbpedia.org/resource/Avellino	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Avellino
+Avellino	Avellino
+Avellino	isLocatedIn	Province_of_Avellino
+Province_of_Avellino	isLocatedIn	Avellino
+Province_of_Avellino	hasCapital	Avellino
+Avellino	isLocatedIn	Province_of_Avellino
+Province_of_Avellino	isLocatedIn	Avellino
+Province_of_Avellino	hasCapital	Avellino
+Avellino	isLocatedIn	Province_of_Avellino
+Province_of_Avellino	isLocatedIn	Avellino
+Province_of_Avellino	hasCapital	Avellino
+Avellino	isLocatedIn	Province_of_Avellino
+Province_of_Avellino	isLocatedIn	Avellino
+Province_of_Avellino	hasCapital	Avellino
+
+http://dbpedia.org/resource/Avellino	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Avellino
+Avellino	Avellino
+Antonio_Maccanico	wasBornIn	Avellino
+Antonio_Maccanico	wasBornIn	Avellino
+Antonio_Maccanico	wasBornIn	Avellino
+Antonio_Maccanico	wasBornIn	Avellino
+
+http://dbpedia.org/resource/Avellino	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Avellino
+Avellino	Avellino
+Gianfranco_Rotondi	wasBornIn	Avellino
+Gianfranco_Rotondi	wasBornIn	Avellino
+Gianfranco_Rotondi	wasBornIn	Avellino
+Gianfranco_Rotondi	wasBornIn	Avellino
+
+http://dbpedia.org/resource/Avellino	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Avellino
+Avellino	Avellino
+Pellegrino_Albanese	wasBornIn	Avellino
+Pellegrino_Albanese	wasBornIn	Avellino
+Pellegrino_Albanese	wasBornIn	Avellino
+Pellegrino_Albanese	wasBornIn	Avellino
+
+http://dbpedia.org/resource/Lipari	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Lipari
+Lipari	Lipari
+Franco_Scoglio	wasBornIn	Lipari
+Franco_Scoglio	wasBornIn	Lipari
+Franco_Scoglio	wasBornIn	Lipari
+Franco_Scoglio	wasBornIn	Lipari
+
+http://dbpedia.org/resource/Lipari	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Lipari
+Lipari	Lipari
+Lipari	isLocatedIn	Sicily
+Lipari	isLocatedIn	Sicily
+Lipari	isLocatedIn	Sicily
+Lipari	isLocatedIn	Sicily
+
+http://dbpedia.org/resource/Lipari	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Lipari
+Lipari	Lipari
+Christian_Riganò	wasBornIn	Lipari
+Christian_Riganò	wasBornIn	Lipari
+Christian_Riganò	wasBornIn	Lipari
+Christian_Riganò	wasBornIn	Lipari
+
+http://dbpedia.org/resource/Ravenna	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Ravenna
+Ravenna	Ravenna
+Ravenna	isLocatedIn	Province_of_Ravenna
+Province_of_Ravenna	hasCapital	Ravenna
+Province_of_Ravenna	isLocatedIn	Ravenna
+Ravenna	isLocatedIn	Province_of_Ravenna
+Province_of_Ravenna	hasCapital	Ravenna
+Province_of_Ravenna	isLocatedIn	Ravenna
+Ravenna	isLocatedIn	Province_of_Ravenna
+Province_of_Ravenna	hasCapital	Ravenna
+Province_of_Ravenna	isLocatedIn	Ravenna
+Ravenna	isLocatedIn	Province_of_Ravenna
+Province_of_Ravenna	hasCapital	Ravenna
+Province_of_Ravenna	isLocatedIn	Ravenna
+
+http://dbpedia.org/resource/Ravenna	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Ravenna
+Ravenna	Ravenna
+Andrea_Tabanelli_(footballer)	wasBornIn	Ravenna
+Andrea_Tabanelli_(footballer)	wasBornIn	Ravenna
+Andrea_Tabanelli_(footballer)	wasBornIn	Ravenna
+Andrea_Tabanelli_(footballer)	wasBornIn	Ravenna
+
+http://dbpedia.org/resource/Piacenza	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Piacenza
+Piacenza	Piacenza
+Battle_of_Parma	happenedIn	Piacenza
+Battle_of_Parma	happenedIn	Piacenza
+Battle_of_Parma	happenedIn	Piacenza
+Battle_of_Parma	happenedIn	Piacenza
+
+http://dbpedia.org/resource/Piacenza	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Piacenza
+Piacenza	Piacenza
+Astutillo_Malgioglio	wasBornIn	Piacenza
+Astutillo_Malgioglio	wasBornIn	Piacenza
+Astutillo_Malgioglio	wasBornIn	Piacenza
+Astutillo_Malgioglio	wasBornIn	Piacenza
+
+http://dbpedia.org/resource/Piacenza	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Piacenza
+Piacenza	Piacenza
+Marcello_Campolonghi	wasBornIn	Piacenza
+Marcello_Campolonghi	wasBornIn	Piacenza
+Marcello_Campolonghi	wasBornIn	Piacenza
+Marcello_Campolonghi	wasBornIn	Piacenza
+
+http://dbpedia.org/resource/Piacenza	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Piacenza
+Piacenza	Piacenza
+Polytechnic_University_of_Milan	isLocatedIn	Piacenza
+Polytechnic_University_of_Milan	isLocatedIn	Piacenza
+Polytechnic_University_of_Milan	isLocatedIn	Piacenza
+Polytechnic_University_of_Milan	isLocatedIn	Piacenza
+
+http://dbpedia.org/resource/Rovigo	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Rovigo
+Rovigo	Rovigo
+Province_of_Rovigo	isLocatedIn	Rovigo
+Rovigo	isLocatedIn	Province_of_Rovigo
+Province_of_Rovigo	hasCapital	Rovigo
+Province_of_Rovigo	isLocatedIn	Rovigo
+Rovigo	isLocatedIn	Province_of_Rovigo
+Province_of_Rovigo	hasCapital	Rovigo
+Province_of_Rovigo	isLocatedIn	Rovigo
+Rovigo	isLocatedIn	Province_of_Rovigo
+Province_of_Rovigo	hasCapital	Rovigo
+Province_of_Rovigo	isLocatedIn	Rovigo
+Rovigo	isLocatedIn	Province_of_Rovigo
+Province_of_Rovigo	hasCapital	Rovigo
+
+http://dbpedia.org/resource/Rovigo	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Rovigo
+Rovigo	Rovigo
+Province_of_Rovigo	isLocatedIn	Rovigo
+Rovigo	isLocatedIn	Province_of_Rovigo
+Province_of_Rovigo	hasCapital	Rovigo
+Province_of_Rovigo	isLocatedIn	Rovigo
+Rovigo	isLocatedIn	Province_of_Rovigo
+Province_of_Rovigo	hasCapital	Rovigo
+Province_of_Rovigo	isLocatedIn	Veneto
+Province_of_Rovigo	isLocatedIn	Veneto
+Rovigo	isLocatedIn	Veneto
+Rovigo	isLocatedIn	Veneto
+
+http://dbpedia.org/resource/Rovigo	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Rovigo
+Rovigo	Rovigo
+Rovigo	isLocatedIn	Veneto
+Rovigo	isLocatedIn	Veneto
+Province_of_Rovigo	isLocatedIn	Veneto
+Province_of_Rovigo	isLocatedIn	Veneto
+Province_of_Rovigo	isLocatedIn	Rovigo
+Rovigo	isLocatedIn	Province_of_Rovigo
+Province_of_Rovigo	hasCapital	Rovigo
+Province_of_Rovigo	isLocatedIn	Rovigo
+Rovigo	isLocatedIn	Province_of_Rovigo
+Province_of_Rovigo	hasCapital	Rovigo
+
+http://dbpedia.org/resource/Rovigo	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Rovigo
+Rovigo	Rovigo
+Rovigo	isLocatedIn	Veneto
+Rovigo	isLocatedIn	Veneto
+Rovigo	isLocatedIn	Veneto
+Rovigo	isLocatedIn	Veneto
+
+http://dbpedia.org/resource/Foligno	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Foligno
+Foligno	Foligno
+Maria_Rita_Lorenzetti	wasBornIn	Foligno
+Maria_Rita_Lorenzetti	wasBornIn	Foligno
+Maria_Rita_Lorenzetti	wasBornIn	Foligno
+Maria_Rita_Lorenzetti	wasBornIn	Foligno
+
+http://dbpedia.org/resource/Foligno	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Foligno
+Foligno	Foligno
+Foligno	isLocatedIn	Province_of_Perugia
+Foligno	isLocatedIn	Province_of_Perugia
+Foligno	isLocatedIn	Province_of_Perugia
+Foligno	isLocatedIn	Province_of_Perugia
+
+http://dbpedia.org/resource/Foligno	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Foligno
+Foligno	Foligno
+Alessio_Campagnacci	wasBornIn	Foligno
+Alessio_Campagnacci	wasBornIn	Foligno
+Alessio_Campagnacci	wasBornIn	Foligno
+Alessio_Campagnacci	wasBornIn	Foligno
+
+http://dbpedia.org/resource/Foligno	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Foligno
+Foligno	Foligno
+Luca_Fiordiani	wasBornIn	Foligno
+Luca_Fiordiani	wasBornIn	Foligno
+Luca_Fiordiani	wasBornIn	Foligno
+Luca_Fiordiani	wasBornIn	Foligno
+
+http://dbpedia.org/resource/Eraclea	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Eraclea
+Eraclea	Eraclea
+Republic_of_Venice	hasCapital	Eraclea
+Republic_of_Venice	hasCapital	Eraclea
+Republic_of_Venice	hasCapital	Eraclea
+Republic_of_Venice	hasCapital	Eraclea
+
+http://dbpedia.org/resource/Eraclea	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/Eraclea
+Eraclea	Eraclea
+Eraclea	isLocatedIn	Veneto
+Eraclea	isLocatedIn	Veneto
+Eraclea	isLocatedIn	Veneto
+Eraclea	isLocatedIn	Veneto
+

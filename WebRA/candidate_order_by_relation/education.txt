@@ -1,0 +1,475 @@
+http://dbpedia.org/resource/Somalatha_Subasinghe	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Peradeniya
+Somalatha_Subasinghe	University_of_Peradeniya
+Somalatha_Subasinghe	diedIn	Colombo
+Somalatha_Subasinghe	diedIn	Colombo
+K._N._Jayatilleke	wasBornIn	Colombo
+K._N._Jayatilleke	wasBornIn	Colombo
+K._N._Jayatilleke	worksAt	University_of_Peradeniya
+K._N._Jayatilleke	worksAt	University_of_Peradeniya
+
+http://dbpedia.org/resource/Krithi_Karanth	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Florida
+Krithi_Karanth	University_of_Florida
+Krithi_Karanth	graduatedFrom	Duke_University
+Krithi_Karanth	graduatedFrom	Duke_University
+Ed_Austin	graduatedFrom	Duke_University
+Ed_Austin	graduatedFrom	Duke_University
+Ed_Austin	graduatedFrom	University_of_Florida
+Ed_Austin	graduatedFrom	University_of_Florida
+
+http://dbpedia.org/resource/Krithi_Karanth	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Florida
+Krithi_Karanth	University_of_Florida
+Krithi_Karanth	graduatedFrom	Duke_University
+Krithi_Karanth	graduatedFrom	Duke_University
+Ernest_C._Pollard	worksAt	Duke_University
+Ernest_C._Pollard	worksAt	Duke_University
+Ernest_C._Pollard	worksAt	University_of_Florida
+Ernest_C._Pollard	worksAt	University_of_Florida
+
+http://dbpedia.org/resource/Ram_Dayal_Munda	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Chicago
+Ram_Dayal_Munda	University_of_Chicago
+Ram_Dayal_Munda	graduatedFrom	University_of_Chicago
+Ram_Dayal_Munda	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ram_Dayal_Munda	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Chicago
+Ram_Dayal_Munda	University_of_Chicago
+Ram_Dayal_Munda	graduatedFrom	Ranchi_University
+Ram_Dayal_Munda	graduatedFrom	Ranchi_University
+Ram_Dayal_Munda	graduatedFrom	Ranchi_University
+Ram_Dayal_Munda	graduatedFrom	Ranchi_University
+Ram_Dayal_Munda	graduatedFrom	University_of_Chicago
+Ram_Dayal_Munda	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ram_Dayal_Munda	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/Jharkhand
+Ram_Dayal_Munda	Jharkhand
+Ram_Dayal_Munda	graduatedFrom	Ranchi_University
+Ram_Dayal_Munda	graduatedFrom	Ranchi_University
+Ranchi_University	isLocatedIn	Jharkhand
+Ranchi_University	isLocatedIn	Jharkhand
+
+http://dbpedia.org/resource/Ram_Dayal_Munda	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/Jharkhand
+Ram_Dayal_Munda	Jharkhand
+Ram_Dayal_Munda	graduatedFrom	Ranchi_University
+Ram_Dayal_Munda	graduatedFrom	Ranchi_University
+Ranchi_University	isLocatedIn	Ranchi
+Ranchi_University	isLocatedIn	Ranchi
+Jharkhand	isLocatedIn	Ranchi
+Jharkhand	hasCapital	Ranchi
+Ranchi	isLocatedIn	Jharkhand
+Jharkhand	isLocatedIn	Ranchi
+Jharkhand	hasCapital	Ranchi
+Ranchi	isLocatedIn	Jharkhand
+
+http://dbpedia.org/resource/Ram_Dayal_Munda	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/Jharkhand
+Ram_Dayal_Munda	Jharkhand
+Ram_Dayal_Munda	wasBornIn	Ranchi
+Ram_Dayal_Munda	wasBornIn	Ranchi
+Jharkhand	isLocatedIn	Ranchi
+Jharkhand	hasCapital	Ranchi
+Ranchi	isLocatedIn	Jharkhand
+Jharkhand	isLocatedIn	Ranchi
+Jharkhand	hasCapital	Ranchi
+Ranchi	isLocatedIn	Jharkhand
+
+http://dbpedia.org/resource/Ram_Dayal_Munda	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/Jharkhand
+Ram_Dayal_Munda	Jharkhand
+Ram_Dayal_Munda	wasBornIn	Ranchi
+Ram_Dayal_Munda	wasBornIn	Ranchi
+Ranchi_University	isLocatedIn	Ranchi
+Ranchi_University	isLocatedIn	Ranchi
+Ranchi_University	isLocatedIn	Jharkhand
+Ranchi_University	isLocatedIn	Jharkhand
+
+http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/Hampden–Sydney_College
+Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	Hampden–Sydney_College
+Samuel_Lightfoot_Flournoy	hasChild	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy	hasChild	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy	graduatedFrom	Hampden–Sydney_College
+Samuel_Lightfoot_Flournoy	graduatedFrom	Hampden–Sydney_College
+
+http://dbpedia.org/resource/Sohail_Rashid	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_the_Punjab
+Sohail_Rashid	University_of_the_Punjab
+Sohail_Rashid	livesIn	Pakistan
+Sohail_Rashid	isCitizenOf	Pakistan
+Sohail_Rashid	livesIn	Pakistan
+Sohail_Rashid	isCitizenOf	Pakistan
+Khawaja_Muhammad_Asif	isPoliticianOf	Pakistan
+Khawaja_Muhammad_Asif	isCitizenOf	Pakistan
+Khawaja_Muhammad_Asif	isPoliticianOf	Pakistan
+Khawaja_Muhammad_Asif	isCitizenOf	Pakistan
+Khawaja_Muhammad_Asif	graduatedFrom	University_of_the_Punjab
+Khawaja_Muhammad_Asif	graduatedFrom	University_of_the_Punjab
+
+http://dbpedia.org/resource/Sohail_Rashid	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_the_Punjab
+Sohail_Rashid	University_of_the_Punjab
+Sohail_Rashid	livesIn	Pakistan
+Sohail_Rashid	isCitizenOf	Pakistan
+Sohail_Rashid	livesIn	Pakistan
+Sohail_Rashid	isCitizenOf	Pakistan
+Chaudry_Mohammad_Aslam	isCitizenOf	Pakistan
+Chaudry_Mohammad_Aslam	isCitizenOf	Pakistan
+Chaudry_Mohammad_Aslam	graduatedFrom	University_of_the_Punjab
+Chaudry_Mohammad_Aslam	graduatedFrom	University_of_the_Punjab
+
+http://dbpedia.org/resource/Sohail_Rashid	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_the_Punjab
+Sohail_Rashid	University_of_the_Punjab
+Sohail_Rashid	livesIn	Lahore
+Sohail_Rashid	livesIn	Lahore
+Ansar_Pervaiz	wasBornIn	Lahore
+Ansar_Pervaiz	wasBornIn	Lahore
+Ansar_Pervaiz	graduatedFrom	University_of_the_Punjab
+Ansar_Pervaiz	graduatedFrom	University_of_the_Punjab
+
+http://dbpedia.org/resource/Sohail_Rashid	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_the_Punjab
+Sohail_Rashid	University_of_the_Punjab
+Sohail_Rashid	livesIn	Lahore
+Sohail_Rashid	livesIn	Lahore
+Tariq_Ali	wasBornIn	Lahore
+Tariq_Ali	wasBornIn	Lahore
+Tariq_Ali	graduatedFrom	University_of_the_Punjab
+Tariq_Ali	graduatedFrom	University_of_the_Punjab
+
+http://dbpedia.org/resource/Sohail_Rashid	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_the_Punjab
+Sohail_Rashid	University_of_the_Punjab
+Sohail_Rashid	livesIn	Lahore
+Sohail_Rashid	livesIn	Lahore
+Javid_Husain	livesIn	Lahore
+Javid_Husain	livesIn	Lahore
+Javid_Husain	graduatedFrom	University_of_the_Punjab
+Javid_Husain	graduatedFrom	University_of_the_Punjab
+
+http://dbpedia.org/resource/Tukiya_Kankasa-Mabula	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/Lusaka
+Tukiya_Kankasa-Mabula	Lusaka
+Tukiya_Kankasa-Mabula	livesIn	Zambia
+Tukiya_Kankasa-Mabula	wasBornIn	Zambia
+Tukiya_Kankasa-Mabula	isCitizenOf	Zambia
+Tukiya_Kankasa-Mabula	livesIn	Zambia
+Tukiya_Kankasa-Mabula	wasBornIn	Zambia
+Tukiya_Kankasa-Mabula	isCitizenOf	Zambia
+Fwayo_Tembo	isCitizenOf	Zambia
+Fwayo_Tembo	isCitizenOf	Zambia
+Fwayo_Tembo	wasBornIn	Lusaka
+Fwayo_Tembo	wasBornIn	Lusaka
+
+http://dbpedia.org/resource/Tukiya_Kankasa-Mabula	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/Lusaka
+Tukiya_Kankasa-Mabula	Lusaka
+Tukiya_Kankasa-Mabula	livesIn	Zambia
+Tukiya_Kankasa-Mabula	wasBornIn	Zambia
+Tukiya_Kankasa-Mabula	isCitizenOf	Zambia
+Tukiya_Kankasa-Mabula	livesIn	Zambia
+Tukiya_Kankasa-Mabula	wasBornIn	Zambia
+Tukiya_Kankasa-Mabula	isCitizenOf	Zambia
+Festus_Mbewe	isCitizenOf	Zambia
+Festus_Mbewe	isCitizenOf	Zambia
+Festus_Mbewe	wasBornIn	Lusaka
+Festus_Mbewe	wasBornIn	Lusaka
+
+http://dbpedia.org/resource/Tukiya_Kankasa-Mabula	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/Lusaka
+Tukiya_Kankasa-Mabula	Lusaka
+Tukiya_Kankasa-Mabula	livesIn	Lusaka
+Tukiya_Kankasa-Mabula	livesIn	Lusaka
+
+http://dbpedia.org/resource/Andrew_Jayamanne	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/Colombo
+Andrew_Jayamanne	Colombo
+Andrew_Jayamanne	isCitizenOf	Sri_Lanka
+Andrew_Jayamanne	isCitizenOf	Sri_Lanka
+National_Hospital_of_Sri_Lanka	isLocatedIn	Sri_Lanka
+National_Hospital_of_Sri_Lanka	isLocatedIn	Sri_Lanka
+National_Hospital_of_Sri_Lanka	isLocatedIn	Colombo
+National_Hospital_of_Sri_Lanka	isLocatedIn	Colombo
+
+http://dbpedia.org/resource/Andrew_Jayamanne	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/Colombo
+Andrew_Jayamanne	Colombo
+Andrew_Jayamanne	created	Suddilage_Kathaawa
+Andrew_Jayamanne	created	Suddilage_Kathaawa
+Premasiri_Khemadasa	wroteMusicFor	Suddilage_Kathaawa
+Premasiri_Khemadasa	wroteMusicFor	Suddilage_Kathaawa
+Premasiri_Khemadasa	diedIn	Colombo
+Premasiri_Khemadasa	diedIn	Colombo
+
+http://dbpedia.org/resource/Andrew_Jayamanne	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/Colombo
+Andrew_Jayamanne	Colombo
+Andrew_Jayamanne	wasBornIn	Negombo
+Andrew_Jayamanne	wasBornIn	Negombo
+Negombo	isLocatedIn	Western_Province,_Sri_Lanka
+Negombo	isLocatedIn	Western_Province,_Sri_Lanka
+Colombo	isLocatedIn	Western_Province,_Sri_Lanka
+Western_Province,_Sri_Lanka	isLocatedIn	Colombo
+Western_Province,_Sri_Lanka	hasCapital	Colombo
+Colombo	isLocatedIn	Western_Province,_Sri_Lanka
+Western_Province,_Sri_Lanka	isLocatedIn	Colombo
+Western_Province,_Sri_Lanka	hasCapital	Colombo
+
+http://dbpedia.org/resource/Andrew_Jayamanne	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/Colombo
+Andrew_Jayamanne	Colombo
+Andrew_Jayamanne	wasBornIn	Negombo
+Andrew_Jayamanne	wasBornIn	Negombo
+Bandaranaike_International_Airport	isLocatedIn	Negombo
+Bandaranaike_International_Airport	isLocatedIn	Negombo
+Bandaranaike_International_Airport	isLocatedIn	Colombo
+Bandaranaike_International_Airport	isLocatedIn	Colombo
+
+http://dbpedia.org/resource/Rose_Friedman	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Chicago
+Rose_Friedman	University_of_Chicago
+Milton_Friedman	isMarriedTo	Rose_Friedman
+Rose_Friedman	isMarriedTo	Milton_Friedman
+Milton_Friedman	isMarriedTo	Rose_Friedman
+Rose_Friedman	isMarriedTo	Milton_Friedman
+Milton_Friedman	influences	Scott_Sumner
+Milton_Friedman	influences	Scott_Sumner
+Scott_Sumner	graduatedFrom	University_of_Chicago
+Scott_Sumner	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Muntadhar_al-Zaidi	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Baghdad
+Muntadhar_al-Zaidi	University_of_Baghdad
+Muntadhar_al-Zaidi	isCitizenOf	Iraq
+Muntadhar_al-Zaidi	wasBornIn	Iraq
+Muntadhar_al-Zaidi	isCitizenOf	Iraq
+Muntadhar_al-Zaidi	wasBornIn	Iraq
+Sinan_Al_Shabibi	isCitizenOf	Iraq
+Sinan_Al_Shabibi	isCitizenOf	Iraq
+Sinan_Al_Shabibi	graduatedFrom	University_of_Baghdad
+Sinan_Al_Shabibi	graduatedFrom	University_of_Baghdad
+
+http://dbpedia.org/resource/Kerry_Kennedy	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/Brown_University
+Kerry_Kennedy	Brown_University
+Robert_F._Kennedy	hasChild	Kerry_Kennedy
+Robert_F._Kennedy	hasChild	Kerry_Kennedy
+Robert_F._Kennedy	hasChild	Rory_Kennedy
+Robert_F._Kennedy	hasChild	Rory_Kennedy
+Rory_Kennedy	graduatedFrom	Brown_University
+Rory_Kennedy	graduatedFrom	Brown_University
+
+http://dbpedia.org/resource/Anindya_Sinha	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Calcutta
+Anindya_Sinha	University_of_Calcutta
+Anindya_Sinha	graduatedFrom	Presidency_University,_Kolkata
+Anindya_Sinha	graduatedFrom	Presidency_University,_Kolkata
+Sudhansu_Datta_Majumdar	graduatedFrom	Presidency_University,_Kolkata
+Sudhansu_Datta_Majumdar	graduatedFrom	Presidency_University,_Kolkata
+Sudhansu_Datta_Majumdar	worksAt	University_of_Calcutta
+Sudhansu_Datta_Majumdar	worksAt	University_of_Calcutta
+
+http://dbpedia.org/resource/Anindya_Sinha	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Calcutta
+Anindya_Sinha	University_of_Calcutta
+Anindya_Sinha	graduatedFrom	Presidency_University,_Kolkata
+Anindya_Sinha	graduatedFrom	Presidency_University,_Kolkata
+Debendra_Mohan_Bose	graduatedFrom	Presidency_University,_Kolkata
+Debendra_Mohan_Bose	graduatedFrom	Presidency_University,_Kolkata
+Debendra_Mohan_Bose	worksAt	University_of_Calcutta
+Debendra_Mohan_Bose	graduatedFrom	University_of_Calcutta
+Debendra_Mohan_Bose	worksAt	University_of_Calcutta
+Debendra_Mohan_Bose	graduatedFrom	University_of_Calcutta
+
+http://dbpedia.org/resource/Anindya_Sinha	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Calcutta
+Anindya_Sinha	University_of_Calcutta
+Anindya_Sinha	graduatedFrom	Presidency_University,_Kolkata
+Anindya_Sinha	graduatedFrom	Presidency_University,_Kolkata
+Amitava_Raychaudhuri	graduatedFrom	Presidency_University,_Kolkata
+Amitava_Raychaudhuri	graduatedFrom	Presidency_University,_Kolkata
+Amitava_Raychaudhuri	worksAt	University_of_Calcutta
+Amitava_Raychaudhuri	worksAt	University_of_Calcutta
+
+http://dbpedia.org/resource/Anindya_Sinha	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Calcutta
+Anindya_Sinha	University_of_Calcutta
+Anindya_Sinha	graduatedFrom	Presidency_University,_Kolkata
+Anindya_Sinha	graduatedFrom	Presidency_University,_Kolkata
+Anadi_Sankar_Gupta	graduatedFrom	Presidency_University,_Kolkata
+Anadi_Sankar_Gupta	graduatedFrom	Presidency_University,_Kolkata
+Anadi_Sankar_Gupta	graduatedFrom	University_of_Calcutta
+Anadi_Sankar_Gupta	graduatedFrom	University_of_Calcutta
+
+http://dbpedia.org/resource/Anindya_Sinha	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Calcutta
+Anindya_Sinha	University_of_Calcutta
+Anindya_Sinha	graduatedFrom	Presidency_University,_Kolkata
+Anindya_Sinha	graduatedFrom	Presidency_University,_Kolkata
+Debi_Prasad_Pal	graduatedFrom	Presidency_University,_Kolkata
+Debi_Prasad_Pal	graduatedFrom	Presidency_University,_Kolkata
+Debi_Prasad_Pal	graduatedFrom	University_of_Calcutta
+Debi_Prasad_Pal	graduatedFrom	University_of_Calcutta
+
+http://dbpedia.org/resource/Anindya_Sinha	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Calcutta
+Anindya_Sinha	University_of_Calcutta
+Anindya_Sinha	graduatedFrom	Presidency_University,_Kolkata
+Anindya_Sinha	graduatedFrom	Presidency_University,_Kolkata
+Maulvi_Tamizuddin_Khan	graduatedFrom	Presidency_University,_Kolkata
+Maulvi_Tamizuddin_Khan	graduatedFrom	Presidency_University,_Kolkata
+Maulvi_Tamizuddin_Khan	graduatedFrom	University_of_Calcutta
+Maulvi_Tamizuddin_Khan	graduatedFrom	University_of_Calcutta
+
+http://dbpedia.org/resource/Anindya_Sinha	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Calcutta
+Anindya_Sinha	University_of_Calcutta
+Anindya_Sinha	graduatedFrom	Presidency_University,_Kolkata
+Anindya_Sinha	graduatedFrom	Presidency_University,_Kolkata
+Arnab_Rai_Choudhuri	graduatedFrom	Presidency_University,_Kolkata
+Arnab_Rai_Choudhuri	graduatedFrom	Presidency_University,_Kolkata
+Arnab_Rai_Choudhuri	graduatedFrom	University_of_Calcutta
+Arnab_Rai_Choudhuri	graduatedFrom	University_of_Calcutta
+
+http://dbpedia.org/resource/Quamrul_Hassan	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Calcutta
+Quamrul_Hassan	University_of_Calcutta
+Quamrul_Hassan	diedIn	Dhaka
+Quamrul_Hassan	diedIn	Dhaka
+Nilima_Ibrahim	diedIn	Dhaka
+Nilima_Ibrahim	diedIn	Dhaka
+Nilima_Ibrahim	graduatedFrom	University_of_Calcutta
+Nilima_Ibrahim	graduatedFrom	University_of_Calcutta
+
+http://dbpedia.org/resource/Quamrul_Hassan	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Calcutta
+Quamrul_Hassan	University_of_Calcutta
+Quamrul_Hassan	diedIn	Dhaka
+Quamrul_Hassan	diedIn	Dhaka
+Muhammad_Shahidullah	diedIn	Dhaka
+Muhammad_Shahidullah	diedIn	Dhaka
+Muhammad_Shahidullah	graduatedFrom	University_of_Calcutta
+Muhammad_Shahidullah	graduatedFrom	University_of_Calcutta
+
+http://dbpedia.org/resource/Quamrul_Hassan	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Calcutta
+Quamrul_Hassan	University_of_Calcutta
+Quamrul_Hassan	wasBornIn	Kolkata
+Quamrul_Hassan	wasBornIn	Kolkata
+Sudhansu_Datta_Majumdar	diedIn	Kolkata
+Sudhansu_Datta_Majumdar	diedIn	Kolkata
+Sudhansu_Datta_Majumdar	worksAt	University_of_Calcutta
+Sudhansu_Datta_Majumdar	worksAt	University_of_Calcutta
+
+http://dbpedia.org/resource/Quamrul_Hassan	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Calcutta
+Quamrul_Hassan	University_of_Calcutta
+Quamrul_Hassan	wasBornIn	Kolkata
+Quamrul_Hassan	wasBornIn	Kolkata
+Asima_Chatterjee	wasBornIn	Kolkata
+Asima_Chatterjee	diedIn	Kolkata
+Asima_Chatterjee	wasBornIn	Kolkata
+Asima_Chatterjee	diedIn	Kolkata
+Asima_Chatterjee	worksAt	University_of_Calcutta
+Asima_Chatterjee	graduatedFrom	University_of_Calcutta
+Asima_Chatterjee	worksAt	University_of_Calcutta
+Asima_Chatterjee	graduatedFrom	University_of_Calcutta
+
+http://dbpedia.org/resource/James_Hardy_(surgeon)	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/Philadelphia
+James_Hardy_(surgeon)	Philadelphia
+Isaac_Starr	influences	James_Hardy_(surgeon)
+Isaac_Starr	influences	James_Hardy_(surgeon)
+Isaac_Starr	wasBornIn	Philadelphia
+Isaac_Starr	wasBornIn	Philadelphia
+
+http://dbpedia.org/resource/James_Hardy_(surgeon)	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/Philadelphia
+James_Hardy_(surgeon)	Philadelphia
+Isaac_Starr	influences	James_Hardy_(surgeon)
+Isaac_Starr	influences	James_Hardy_(surgeon)
+Isaac_Starr	diedIn	Roxborough,_Philadelphia
+Isaac_Starr	diedIn	Roxborough,_Philadelphia
+Roxborough,_Philadelphia	isLocatedIn	Philadelphia
+Roxborough,_Philadelphia	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/James_Hardy_(surgeon)	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/Philadelphia
+James_Hardy_(surgeon)	Philadelphia
+Isaac_Starr	influences	James_Hardy_(surgeon)
+Isaac_Starr	influences	James_Hardy_(surgeon)
+Isaac_Starr	graduatedFrom	Perelman_School_of_Medicine_at_the_University_of_Pennsylvania
+Isaac_Starr	graduatedFrom	Perelman_School_of_Medicine_at_the_University_of_Pennsylvania
+Perelman_School_of_Medicine_at_the_University_of_Pennsylvania	isLocatedIn	Philadelphia
+Perelman_School_of_Medicine_at_the_University_of_Pennsylvania	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/James_Hardy_(surgeon)	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Alabama
+James_Hardy_(surgeon)	University_of_Alabama
+James_Hardy_(surgeon)	wasBornIn	Alabama
+James_Hardy_(surgeon)	wasBornIn	Alabama
+University_of_Alabama	isLocatedIn	Alabama
+University_of_Alabama	isLocatedIn	Alabama
+
+http://dbpedia.org/resource/James_Hardy_(surgeon)	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Alabama
+James_Hardy_(surgeon)	University_of_Alabama
+James_Hardy_(surgeon)	wasBornIn	Alabama
+James_Hardy_(surgeon)	wasBornIn	Alabama
+Don_Siegelman	isPoliticianOf	Alabama
+Don_Siegelman	isPoliticianOf	Alabama
+Don_Siegelman	graduatedFrom	University_of_Alabama
+Don_Siegelman	graduatedFrom	University_of_Alabama
+
+http://dbpedia.org/resource/James_Hardy_(surgeon)	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Alabama
+James_Hardy_(surgeon)	University_of_Alabama
+James_Hardy_(surgeon)	wasBornIn	Alabama
+James_Hardy_(surgeon)	wasBornIn	Alabama
+Richard_Shelby	isPoliticianOf	Alabama
+Richard_Shelby	isPoliticianOf	Alabama
+Richard_Shelby	graduatedFrom	University_of_Alabama
+Richard_Shelby	graduatedFrom	University_of_Alabama
+
+http://dbpedia.org/resource/James_Hardy_(surgeon)	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Alabama
+James_Hardy_(surgeon)	University_of_Alabama
+James_Hardy_(surgeon)	wasBornIn	Alabama
+James_Hardy_(surgeon)	wasBornIn	Alabama
+Jim_Folsom	isPoliticianOf	Alabama
+Jim_Folsom	isPoliticianOf	Alabama
+Jim_Folsom	graduatedFrom	University_of_Alabama
+Jim_Folsom	graduatedFrom	University_of_Alabama
+
+http://dbpedia.org/resource/James_Hardy_(surgeon)	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Alabama
+James_Hardy_(surgeon)	University_of_Alabama
+James_Hardy_(surgeon)	wasBornIn	Alabama
+James_Hardy_(surgeon)	wasBornIn	Alabama
+B._B._Comer	isPoliticianOf	Alabama
+B._B._Comer	isPoliticianOf	Alabama
+B._B._Comer	graduatedFrom	University_of_Alabama
+B._B._Comer	graduatedFrom	University_of_Alabama
+
+http://dbpedia.org/resource/James_Hardy_(surgeon)	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Alabama
+James_Hardy_(surgeon)	University_of_Alabama
+James_Hardy_(surgeon)	worksAt	University_of_Mississippi
+James_Hardy_(surgeon)	worksAt	University_of_Mississippi
+John_Richard_Montgomery	graduatedFrom	University_of_Mississippi
+John_Richard_Montgomery	graduatedFrom	University_of_Mississippi
+John_Richard_Montgomery	graduatedFrom	University_of_Alabama
+John_Richard_Montgomery	graduatedFrom	University_of_Alabama
+
+http://dbpedia.org/resource/James_Hardy_(surgeon)	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Alabama
+James_Hardy_(surgeon)	University_of_Alabama
+James_Hardy_(surgeon)	worksAt	University_of_Mississippi
+James_Hardy_(surgeon)	worksAt	University_of_Mississippi
+Leon_Bramlett	graduatedFrom	University_of_Mississippi
+Leon_Bramlett	graduatedFrom	University_of_Mississippi
+Leon_Bramlett	graduatedFrom	University_of_Alabama
+Leon_Bramlett	graduatedFrom	University_of_Alabama
+
+http://dbpedia.org/resource/Than_Nyein	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Medicine_1,_Yangon
+Than_Nyein	University_of_Medicine_1,_Yangon
+Than_Nyein	diedIn	Yangon
+Than_Nyein	diedIn	Yangon
+Tin_Myo_Win	livesIn	Yangon
+Tin_Myo_Win	livesIn	Yangon
+Tin_Myo_Win	graduatedFrom	University_of_Medicine_1,_Yangon
+Tin_Myo_Win	graduatedFrom	University_of_Medicine_1,_Yangon
+
+http://dbpedia.org/resource/Than_Nyein	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Medicine_1,_Yangon
+Than_Nyein	University_of_Medicine_1,_Yangon
+Than_Nyein	diedIn	Yangon
+Than_Nyein	diedIn	Yangon
+Myint_Swe_(writer)	diedIn	Yangon
+Myint_Swe_(writer)	diedIn	Yangon
+Myint_Swe_(writer)	graduatedFrom	University_of_Medicine_1,_Yangon
+Myint_Swe_(writer)	graduatedFrom	University_of_Medicine_1,_Yangon
+
+http://dbpedia.org/resource/Than_Nyein	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Medicine_1,_Yangon
+Than_Nyein	University_of_Medicine_1,_Yangon
+Than_Nyein	diedIn	Yangon
+Than_Nyein	diedIn	Yangon
+University_of_Medicine_1,_Yangon	isLocatedIn	Yangon
+University_of_Medicine_1,_Yangon	isLocatedIn	Yangon
+
+http://dbpedia.org/resource/Than_Nyein	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Medicine_1,_Yangon
+Than_Nyein	University_of_Medicine_1,_Yangon
+Than_Nyein	isAffiliatedTo	National_League_for_Democracy
+Than_Nyein	isAffiliatedTo	National_League_for_Democracy
+May_Win_Myint	isAffiliatedTo	National_League_for_Democracy
+May_Win_Myint	isAffiliatedTo	National_League_for_Democracy
+May_Win_Myint	graduatedFrom	University_of_Medicine_1,_Yangon
+May_Win_Myint	graduatedFrom	University_of_Medicine_1,_Yangon
+
+http://dbpedia.org/resource/Than_Nyein	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/University_of_Medicine_1,_Yangon
+Than_Nyein	University_of_Medicine_1,_Yangon
+Than_Nyein	isAffiliatedTo	National_League_for_Democracy
+Than_Nyein	isAffiliatedTo	National_League_for_Democracy
+Sein_Myint	isAffiliatedTo	National_League_for_Democracy
+Sein_Myint	isAffiliatedTo	National_League_for_Democracy
+Sein_Myint	graduatedFrom	University_of_Medicine_1,_Yangon
+Sein_Myint	graduatedFrom	University_of_Medicine_1,_Yangon
+

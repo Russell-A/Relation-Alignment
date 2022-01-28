@@ -1,0 +1,14 @@
+http://dbpedia.org/resource/Wowowee	http://dbpedia.org/ontology/channel	http://dbpedia.org/resource/ABS-CBN
+Wowowee	ABS-CBN
+ABS-CBN	created	Wowowee
+ABS-CBN	created	Wowowee
+
+http://dbpedia.org/resource/Wowowee	http://dbpedia.org/ontology/channel	http://dbpedia.org/resource/ABS-CBN
+Wowowee	ABS-CBN
+Wowowee	isLocatedIn	ABS-CBN_Broadcasting_Center
+Wowowee	isLocatedIn	ABS-CBN_Broadcasting_Center
+ABS-CBN	owns	ABS-CBN_Broadcasting_Center
+ABS-CBN	isLocatedIn	ABS-CBN_Broadcasting_Center
+ABS-CBN	owns	ABS-CBN_Broadcasting_Center
+ABS-CBN	isLocatedIn	ABS-CBN_Broadcasting_Center
+

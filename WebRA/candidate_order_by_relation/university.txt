@@ -1,0 +1,38 @@
+http://dbpedia.org/resource/Tony_O'Reilly	http://dbpedia.org/ontology/university	http://dbpedia.org/resource/University_College_Dublin
+Tony_O'Reilly	University_College_Dublin
+Tony_O'Reilly	wasBornIn	Dublin
+Tony_O'Reilly	wasBornIn	Dublin
+Richard_Mulcahy	diedIn	Dublin
+Richard_Mulcahy	diedIn	Dublin
+Richard_Mulcahy	graduatedFrom	University_College_Dublin
+Richard_Mulcahy	graduatedFrom	University_College_Dublin
+
+http://dbpedia.org/resource/Tony_O'Reilly	http://dbpedia.org/ontology/university	http://dbpedia.org/resource/University_College_Dublin
+Tony_O'Reilly	University_College_Dublin
+Tony_O'Reilly	wasBornIn	Dublin
+Tony_O'Reilly	wasBornIn	Dublin
+James_Moriarty_(bishop)	wasBornIn	Dublin
+James_Moriarty_(bishop)	wasBornIn	Dublin
+James_Moriarty_(bishop)	graduatedFrom	University_College_Dublin
+James_Moriarty_(bishop)	graduatedFrom	University_College_Dublin
+
+http://dbpedia.org/resource/Tony_O'Reilly	http://dbpedia.org/ontology/university	http://dbpedia.org/resource/University_College_Dublin
+Tony_O'Reilly	University_College_Dublin
+Tony_O'Reilly	isCitizenOf	Republic_of_Ireland
+Tony_O'Reilly	isCitizenOf	Republic_of_Ireland
+Robbie_Gaffney	isCitizenOf	Republic_of_Ireland
+Robbie_Gaffney	isCitizenOf	Republic_of_Ireland
+Robbie_Gaffney	isAffiliatedTo	University_College_Dublin
+Robbie_Gaffney	playsFor	University_College_Dublin
+Robbie_Gaffney	isAffiliatedTo	University_College_Dublin
+Robbie_Gaffney	playsFor	University_College_Dublin
+
+http://dbpedia.org/resource/Tony_O'Reilly	http://dbpedia.org/ontology/university	http://dbpedia.org/resource/University_College_Dublin
+Tony_O'Reilly	University_College_Dublin
+Tony_O'Reilly	isCitizenOf	Republic_of_Ireland
+Tony_O'Reilly	isCitizenOf	Republic_of_Ireland
+Mairead_McGuinness	isCitizenOf	Republic_of_Ireland
+Mairead_McGuinness	isCitizenOf	Republic_of_Ireland
+Mairead_McGuinness	graduatedFrom	University_College_Dublin
+Mairead_McGuinness	graduatedFrom	University_College_Dublin
+

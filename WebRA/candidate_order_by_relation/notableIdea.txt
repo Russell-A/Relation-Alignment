@@ -1,0 +1,174 @@
+http://dbpedia.org/resource/George_Santayana	http://dbpedia.org/ontology/notableIdea	http://dbpedia.org/resource/Lucretius
+George_Santayana	Lucretius
+George_Santayana	influences	Russell_Kirk
+George_Santayana	influences	Russell_Kirk
+George_Santayana	influences	Russell_Kirk
+George_Santayana	influences	Russell_Kirk
+Lucretius	influences	George_Santayana
+Lucretius	influences	George_Santayana
+
+http://dbpedia.org/resource/George_Santayana	http://dbpedia.org/ontology/notableIdea	http://dbpedia.org/resource/Lucretius
+George_Santayana	Lucretius
+Lucretius	influences	George_Santayana
+Lucretius	influences	George_Santayana
+
+http://dbpedia.org/resource/George_Santayana	http://dbpedia.org/ontology/notableIdea	http://dbpedia.org/resource/Lucretius
+George_Santayana	Lucretius
+George_Santayana	influences	Wallace_Stevens
+George_Santayana	influences	Wallace_Stevens
+George_Santayana	influences	Wallace_Stevens
+George_Santayana	influences	Wallace_Stevens
+Lucretius	influences	George_Santayana
+Lucretius	influences	George_Santayana
+
+http://dbpedia.org/resource/George_Santayana	http://dbpedia.org/ontology/notableIdea	http://dbpedia.org/resource/Lucretius
+George_Santayana	Lucretius
+Democritus	influences	George_Santayana
+Democritus	influences	George_Santayana
+Democritus	influences	Lucretius
+Democritus	influences	Lucretius
+
+http://dbpedia.org/resource/George_Santayana	http://dbpedia.org/ontology/notableIdea	http://dbpedia.org/resource/Lucretius
+George_Santayana	Lucretius
+Democritus	influences	George_Santayana
+Democritus	influences	George_Santayana
+Democritus	influences	George_Santayana
+Democritus	influences	George_Santayana
+Lucretius	influences	George_Santayana
+Lucretius	influences	George_Santayana
+
+http://dbpedia.org/resource/Zaki_al-Arsuzi	http://dbpedia.org/ontology/notableIdea	http://dbpedia.org/resource/Zaki_al-Arsuzi
+Zaki_al-Arsuzi	Zaki_al-Arsuzi
+Michel_Aflaq	isKnownFor	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	influences	Michel_Aflaq
+Michel_Aflaq	isKnownFor	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	influences	Michel_Aflaq
+Michel_Aflaq	isKnownFor	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	influences	Michel_Aflaq
+Michel_Aflaq	isKnownFor	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	influences	Michel_Aflaq
+
+http://dbpedia.org/resource/Zaki_al-Arsuzi	http://dbpedia.org/ontology/notableIdea	http://dbpedia.org/resource/Zaki_al-Arsuzi
+Zaki_al-Arsuzi	Zaki_al-Arsuzi
+Michel_Aflaq	isKnownFor	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	influences	Michel_Aflaq
+Michel_Aflaq	isKnownFor	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	influences	Michel_Aflaq
+Michel_Aflaq	influences	Hafez_al-Assad
+Michel_Aflaq	influences	Hafez_al-Assad
+Zaki_al-Arsuzi	influences	Hafez_al-Assad
+Zaki_al-Arsuzi	influences	Hafez_al-Assad
+
+http://dbpedia.org/resource/Zaki_al-Arsuzi	http://dbpedia.org/ontology/notableIdea	http://dbpedia.org/resource/Zaki_al-Arsuzi
+Zaki_al-Arsuzi	Zaki_al-Arsuzi
+Michel_Aflaq	isKnownFor	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	influences	Michel_Aflaq
+Michel_Aflaq	isKnownFor	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	influences	Michel_Aflaq
+Michel_Aflaq	influences	Salah_Jadid
+Michel_Aflaq	influences	Salah_Jadid
+Zaki_al-Arsuzi	influences	Salah_Jadid
+Zaki_al-Arsuzi	influences	Salah_Jadid
+
+http://dbpedia.org/resource/Zaki_al-Arsuzi	http://dbpedia.org/ontology/notableIdea	http://dbpedia.org/resource/Zaki_al-Arsuzi
+Zaki_al-Arsuzi	Zaki_al-Arsuzi
+Michel_Aflaq	isKnownFor	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	influences	Michel_Aflaq
+Michel_Aflaq	isKnownFor	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	influences	Michel_Aflaq
+Michel_Aflaq	influences	Salah_al-Din_al-Bitar
+Michel_Aflaq	influences	Salah_al-Din_al-Bitar
+Zaki_al-Arsuzi	influences	Salah_al-Din_al-Bitar
+Zaki_al-Arsuzi	isKnownFor	Salah_al-Din_al-Bitar
+Zaki_al-Arsuzi	influences	Salah_al-Din_al-Bitar
+Zaki_al-Arsuzi	isKnownFor	Salah_al-Din_al-Bitar
+
+http://dbpedia.org/resource/Zaki_al-Arsuzi	http://dbpedia.org/ontology/notableIdea	http://dbpedia.org/resource/Zaki_al-Arsuzi
+Zaki_al-Arsuzi	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	influences	Hafez_al-Assad
+Zaki_al-Arsuzi	influences	Hafez_al-Assad
+Zaki_al-Arsuzi	influences	Hafez_al-Assad
+Zaki_al-Arsuzi	influences	Hafez_al-Assad
+
+http://dbpedia.org/resource/Zaki_al-Arsuzi	http://dbpedia.org/ontology/notableIdea	http://dbpedia.org/resource/Zaki_al-Arsuzi
+Zaki_al-Arsuzi	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	influences	Hafez_al-Assad
+Zaki_al-Arsuzi	influences	Hafez_al-Assad
+Michel_Aflaq	influences	Hafez_al-Assad
+Michel_Aflaq	influences	Hafez_al-Assad
+Michel_Aflaq	isKnownFor	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	influences	Michel_Aflaq
+Michel_Aflaq	isKnownFor	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	influences	Michel_Aflaq
+
+http://dbpedia.org/resource/Zaki_al-Arsuzi	http://dbpedia.org/ontology/notableIdea	http://dbpedia.org/resource/Zaki_al-Arsuzi
+Zaki_al-Arsuzi	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	isCitizenOf	Syria
+Zaki_al-Arsuzi	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Zaki_al-Arsuzi	influences	Hafez_al-Assad
+Zaki_al-Arsuzi	influences	Hafez_al-Assad
+
+http://dbpedia.org/resource/Zaki_al-Arsuzi	http://dbpedia.org/ontology/notableIdea	http://dbpedia.org/resource/Zaki_al-Arsuzi
+Zaki_al-Arsuzi	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	isCitizenOf	Syria
+Zaki_al-Arsuzi	isCitizenOf	Syria
+Michel_Aflaq	isCitizenOf	Syria
+Michel_Aflaq	isCitizenOf	Syria
+Michel_Aflaq	isKnownFor	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	influences	Michel_Aflaq
+Michel_Aflaq	isKnownFor	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	influences	Michel_Aflaq
+
+http://dbpedia.org/resource/Zaki_al-Arsuzi	http://dbpedia.org/ontology/notableIdea	http://dbpedia.org/resource/Zaki_al-Arsuzi
+Zaki_al-Arsuzi	Zaki_al-Arsuzi
+Johann_Gottlieb_Fichte	influences	Zaki_al-Arsuzi
+Johann_Gottlieb_Fichte	influences	Zaki_al-Arsuzi
+Johann_Gottlieb_Fichte	influences	Zaki_al-Arsuzi
+Johann_Gottlieb_Fichte	influences	Zaki_al-Arsuzi
+
+http://dbpedia.org/resource/Zaki_al-Arsuzi	http://dbpedia.org/ontology/notableIdea	http://dbpedia.org/resource/Zaki_al-Arsuzi
+Zaki_al-Arsuzi	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	diedIn	Damascus
+Zaki_al-Arsuzi	diedIn	Damascus
+Michel_Aflaq	wasBornIn	Damascus
+Michel_Aflaq	wasBornIn	Damascus
+Michel_Aflaq	isKnownFor	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	influences	Michel_Aflaq
+Michel_Aflaq	isKnownFor	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	influences	Michel_Aflaq
+
+http://dbpedia.org/resource/Zaki_al-Arsuzi	http://dbpedia.org/ontology/notableIdea	http://dbpedia.org/resource/Zaki_al-Arsuzi
+Zaki_al-Arsuzi	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	influences	Salah_al-Din_al-Bitar
+Zaki_al-Arsuzi	isKnownFor	Salah_al-Din_al-Bitar
+Zaki_al-Arsuzi	influences	Salah_al-Din_al-Bitar
+Zaki_al-Arsuzi	isKnownFor	Salah_al-Din_al-Bitar
+Zaki_al-Arsuzi	influences	Salah_al-Din_al-Bitar
+Zaki_al-Arsuzi	isKnownFor	Salah_al-Din_al-Bitar
+Zaki_al-Arsuzi	influences	Salah_al-Din_al-Bitar
+Zaki_al-Arsuzi	isKnownFor	Salah_al-Din_al-Bitar
+
+http://dbpedia.org/resource/Zaki_al-Arsuzi	http://dbpedia.org/ontology/notableIdea	http://dbpedia.org/resource/Zaki_al-Arsuzi
+Zaki_al-Arsuzi	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	influences	Salah_al-Din_al-Bitar
+Zaki_al-Arsuzi	isKnownFor	Salah_al-Din_al-Bitar
+Zaki_al-Arsuzi	influences	Salah_al-Din_al-Bitar
+Zaki_al-Arsuzi	isKnownFor	Salah_al-Din_al-Bitar
+Michel_Aflaq	influences	Salah_al-Din_al-Bitar
+Michel_Aflaq	influences	Salah_al-Din_al-Bitar
+Michel_Aflaq	isKnownFor	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	influences	Michel_Aflaq
+Michel_Aflaq	isKnownFor	Zaki_al-Arsuzi
+Zaki_al-Arsuzi	influences	Michel_Aflaq
+
+http://dbpedia.org/resource/Zaki_al-Arsuzi	http://dbpedia.org/ontology/notableIdea	http://dbpedia.org/resource/Zaki_al-Arsuzi
+Zaki_al-Arsuzi	Zaki_al-Arsuzi
+Friedrich_Nietzsche	influences	Zaki_al-Arsuzi
+Friedrich_Nietzsche	influences	Zaki_al-Arsuzi
+Friedrich_Nietzsche	influences	Zaki_al-Arsuzi
+Friedrich_Nietzsche	influences	Zaki_al-Arsuzi
+

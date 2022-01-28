@@ -1,0 +1,52 @@
+http://dbpedia.org/resource/Lee_Sang-mook	http://dbpedia.org/ontology/employer	http://dbpedia.org/resource/Seoul_National_University
+Lee_Sang-mook	Seoul_National_University
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+
+http://dbpedia.org/resource/Lee_Sang-mook	http://dbpedia.org/ontology/employer	http://dbpedia.org/resource/Seoul_National_University
+Lee_Sang-mook	Seoul_National_University
+Lee_Sang-mook	wasBornIn	Seoul
+Lee_Sang-mook	wasBornIn	Seoul
+Yoon_Kyung-byung	livesIn	Seoul
+Yoon_Kyung-byung	wasBornIn	Seoul
+Yoon_Kyung-byung	livesIn	Seoul
+Yoon_Kyung-byung	wasBornIn	Seoul
+Yoon_Kyung-byung	graduatedFrom	Seoul_National_University
+Yoon_Kyung-byung	graduatedFrom	Seoul_National_University
+
+http://dbpedia.org/resource/Lee_Sang-mook	http://dbpedia.org/ontology/employer	http://dbpedia.org/resource/Seoul_National_University
+Lee_Sang-mook	Seoul_National_University
+Lee_Sang-mook	wasBornIn	Seoul
+Lee_Sang-mook	wasBornIn	Seoul
+Ha-Joon_Chang	wasBornIn	Seoul
+Ha-Joon_Chang	wasBornIn	Seoul
+Ha-Joon_Chang	graduatedFrom	Seoul_National_University
+Ha-Joon_Chang	graduatedFrom	Seoul_National_University
+
+http://dbpedia.org/resource/Lee_Sang-mook	http://dbpedia.org/ontology/employer	http://dbpedia.org/resource/Seoul_National_University
+Lee_Sang-mook	Seoul_National_University
+Lee_Sang-mook	wasBornIn	Seoul
+Lee_Sang-mook	wasBornIn	Seoul
+Hong_Sehwa	wasBornIn	Seoul
+Hong_Sehwa	wasBornIn	Seoul
+Hong_Sehwa	graduatedFrom	Seoul_National_University
+Hong_Sehwa	graduatedFrom	Seoul_National_University
+
+http://dbpedia.org/resource/Lee_Sang-mook	http://dbpedia.org/ontology/employer	http://dbpedia.org/resource/Seoul_National_University
+Lee_Sang-mook	Seoul_National_University
+Lee_Sang-mook	wasBornIn	Seoul
+Lee_Sang-mook	wasBornIn	Seoul
+Lee_Sang-mook	wasBornIn	Seoul
+Lee_Sang-mook	wasBornIn	Seoul
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+
+http://dbpedia.org/resource/Lee_Sang-mook	http://dbpedia.org/ontology/employer	http://dbpedia.org/resource/Seoul_National_University
+Lee_Sang-mook	Seoul_National_University
+Lee_Sang-mook	wasBornIn	Seoul
+Lee_Sang-mook	wasBornIn	Seoul
+Gwanak_District	isLocatedIn	Seoul
+Gwanak_District	isLocatedIn	Seoul
+Seoul_National_University	isLocatedIn	Gwanak_District
+Seoul_National_University	isLocatedIn	Gwanak_District
+

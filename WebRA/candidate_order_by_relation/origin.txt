@@ -1,0 +1,950 @@
+http://dbpedia.org/resource/Oued_Saoura	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Oued_Guir
+Oued_Saoura	Oued_Guir
+Oued_Saoura	isLocatedIn	Béchar_Province
+Oued_Saoura	isLocatedIn	Béchar_Province
+Oued_Guir	isLocatedIn	Béchar_Province
+Oued_Guir	isLocatedIn	Béchar_Province
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Albania
+Aoös	isLocatedIn	Albania
+Alexander's_Balkan_campaign	happenedIn	Albania
+Alexander's_Balkan_campaign	happenedIn	Albania
+Alexander's_Balkan_campaign	happenedIn	Greece
+Alexander's_Balkan_campaign	happenedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Greece
+Aoös	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Greece
+Achelous_River	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Battle_of_Peta	happenedIn	Epirus_(region)
+Battle_of_Peta	happenedIn	Epirus_(region)
+Battle_of_Peta	happenedIn	Greece
+Greece	participatedIn	Battle_of_Peta
+Battle_of_Peta	happenedIn	Greece
+Greece	participatedIn	Battle_of_Peta
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Pindus_National_Park	isLocatedIn	Epirus_(region)
+Pindus_National_Park	isLocatedIn	Epirus_(region)
+Pindus_National_Park	isLocatedIn	Greece
+Pindus_National_Park	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Athamanika	isLocatedIn	Epirus_(region)
+Athamanika	isLocatedIn	Epirus_(region)
+Athamanika	isLocatedIn	Greece
+Athamanika	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Greco-Turkish_War_(1897)	isLocatedIn	Epirus_(region)
+Greco-Turkish_War_(1897)	isLocatedIn	Epirus_(region)
+Greco-Turkish_War_(1897)	isLocatedIn	Greece
+Greco-Turkish_War_(1897)	happenedIn	Greece
+Greco-Turkish_War_(1897)	isLocatedIn	Greece
+Greco-Turkish_War_(1897)	happenedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Epirus_(region)	isLocatedIn	Greece
+Epirus_(region)	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Pindus	isLocatedIn	Epirus_(region)
+Pindus	isLocatedIn	Epirus_(region)
+Pindus	isLocatedIn	Greece
+Pindus	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Greece
+Aoös	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Archaeological_Museum_of_Arta	isLocatedIn	Epirus_(region)
+Archaeological_Museum_of_Arta	isLocatedIn	Epirus_(region)
+Archaeological_Museum_of_Arta	isLocatedIn	Greece
+Archaeological_Museum_of_Arta	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Gramos	isLocatedIn	Epirus_(region)
+Gramos	isLocatedIn	Epirus_(region)
+Gramos	isLocatedIn	Greece
+Gramos	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Black_Creek_(Arizona)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/New_Mexico
+Black_Creek_(Arizona)	New_Mexico
+Black_Creek_(Arizona)	isLocatedIn	Apache_County,_Arizona
+Black_Creek_(Arizona)	isLocatedIn	Apache_County,_Arizona
+Black_Creek_(Arizona)	isLocatedIn	Apache_County,_Arizona
+Black_Creek_(Arizona)	isLocatedIn	Apache_County,_Arizona
+Black_Creek_(Arizona)	isLocatedIn	New_Mexico
+Black_Creek_(Arizona)	isLocatedIn	New_Mexico
+
+http://dbpedia.org/resource/Black_Creek_(Arizona)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/New_Mexico
+Black_Creek_(Arizona)	New_Mexico
+Black_Creek_(Arizona)	isLocatedIn	Apache_County,_Arizona
+Black_Creek_(Arizona)	isLocatedIn	Apache_County,_Arizona
+Puerco_River	isLocatedIn	Apache_County,_Arizona
+Puerco_River	isLocatedIn	Apache_County,_Arizona
+Puerco_River	isLocatedIn	New_Mexico
+Puerco_River	isLocatedIn	New_Mexico
+
+http://dbpedia.org/resource/Black_Creek_(Arizona)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/New_Mexico
+Black_Creek_(Arizona)	New_Mexico
+Black_Creek_(Arizona)	isLocatedIn	Apache_County,_Arizona
+Black_Creek_(Arizona)	isLocatedIn	Apache_County,_Arizona
+Red_Lake_(Arizona_–_New_Mexico)	isLocatedIn	Apache_County,_Arizona
+Red_Lake_(Arizona_–_New_Mexico)	isLocatedIn	Apache_County,_Arizona
+Red_Lake_(Arizona_–_New_Mexico)	isLocatedIn	New_Mexico
+Red_Lake_(Arizona_–_New_Mexico)	isLocatedIn	New_Mexico
+
+http://dbpedia.org/resource/Black_Creek_(Arizona)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/New_Mexico
+Black_Creek_(Arizona)	New_Mexico
+Black_Creek_(Arizona)	isLocatedIn	New_Mexico
+Black_Creek_(Arizona)	isLocatedIn	New_Mexico
+
+http://dbpedia.org/resource/Black_Creek_(Arizona)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/New_Mexico
+Black_Creek_(Arizona)	New_Mexico
+Black_Creek_(Arizona)	isLocatedIn	Arizona
+Black_Creek_(Arizona)	isLocatedIn	Arizona
+Southwest_University_of_Visual_Arts	isLocatedIn	Arizona
+Southwest_University_of_Visual_Arts	isLocatedIn	Arizona
+Southwest_University_of_Visual_Arts	isLocatedIn	New_Mexico
+Southwest_University_of_Visual_Arts	isLocatedIn	New_Mexico
+
+http://dbpedia.org/resource/Black_Creek_(Arizona)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/New_Mexico
+Black_Creek_(Arizona)	New_Mexico
+Black_Creek_(Arizona)	isLocatedIn	Arizona
+Black_Creek_(Arizona)	isLocatedIn	Arizona
+Puerco_River	isLocatedIn	Arizona
+Puerco_River	isLocatedIn	Arizona
+Puerco_River	isLocatedIn	New_Mexico
+Puerco_River	isLocatedIn	New_Mexico
+
+http://dbpedia.org/resource/Peterman_Run	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Peterman_Run	Pennsylvania
+Peterman_Run	isLocatedIn	Pennsylvania
+Peterman_Run	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Peterman_Run	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Peterman_Run	Pennsylvania
+Peterman_Run	isLocatedIn	Columbia_County,_Pennsylvania
+Peterman_Run	isLocatedIn	Columbia_County,_Pennsylvania
+Columbia_County,_Pennsylvania	isLocatedIn	Bloomsburg,_Pennsylvania
+Bloomsburg,_Pennsylvania	isLocatedIn	Columbia_County,_Pennsylvania
+Columbia_County,_Pennsylvania	isLocatedIn	Bloomsburg,_Pennsylvania
+Bloomsburg,_Pennsylvania	isLocatedIn	Columbia_County,_Pennsylvania
+Bloomsburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Bloomsburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Peterman_Run	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Peterman_Run	Pennsylvania
+Peterman_Run	isLocatedIn	Columbia_County,_Pennsylvania
+Peterman_Run	isLocatedIn	Columbia_County,_Pennsylvania
+Conyngham_Township,_Columbia_County,_Pennsylvania	isLocatedIn	Columbia_County,_Pennsylvania
+Conyngham_Township,_Columbia_County,_Pennsylvania	isLocatedIn	Columbia_County,_Pennsylvania
+Conyngham_Township,_Columbia_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Conyngham_Township,_Columbia_County,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Peterman_Run	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Peterman_Run	Pennsylvania
+Peterman_Run	isLocatedIn	Columbia_County,_Pennsylvania
+Peterman_Run	isLocatedIn	Columbia_County,_Pennsylvania
+North_Branch_Shamokin_Creek	isLocatedIn	Columbia_County,_Pennsylvania
+North_Branch_Shamokin_Creek	isLocatedIn	Columbia_County,_Pennsylvania
+North_Branch_Shamokin_Creek	isLocatedIn	Pennsylvania
+North_Branch_Shamokin_Creek	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Peterman_Run	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Peterman_Run	Pennsylvania
+Peterman_Run	isLocatedIn	Columbia_County,_Pennsylvania
+Peterman_Run	isLocatedIn	Columbia_County,_Pennsylvania
+Trexler_Run	isLocatedIn	Columbia_County,_Pennsylvania
+Trexler_Run	isLocatedIn	Columbia_County,_Pennsylvania
+Trexler_Run	isLocatedIn	Pennsylvania
+Trexler_Run	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Peterman_Run	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Peterman_Run	Pennsylvania
+Peterman_Run	isLocatedIn	Columbia_County,_Pennsylvania
+Peterman_Run	isLocatedIn	Columbia_County,_Pennsylvania
+Lightstreet,_Pennsylvania	isLocatedIn	Columbia_County,_Pennsylvania
+Lightstreet,_Pennsylvania	isLocatedIn	Columbia_County,_Pennsylvania
+Lightstreet,_Pennsylvania	isLocatedIn	Pennsylvania
+Lightstreet,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Peterman_Run	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Peterman_Run	Pennsylvania
+Peterman_Run	isLocatedIn	Columbia_County,_Pennsylvania
+Peterman_Run	isLocatedIn	Columbia_County,_Pennsylvania
+Orange_Township,_Columbia_County,_Pennsylvania	isLocatedIn	Columbia_County,_Pennsylvania
+Orange_Township,_Columbia_County,_Pennsylvania	isLocatedIn	Columbia_County,_Pennsylvania
+Orange_Township,_Columbia_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Orange_Township,_Columbia_County,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Peterman_Run	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Peterman_Run	Pennsylvania
+Peterman_Run	isLocatedIn	Columbia_County,_Pennsylvania
+Peterman_Run	isLocatedIn	Columbia_County,_Pennsylvania
+Roaring_Creek_(Pennsylvania)	isLocatedIn	Columbia_County,_Pennsylvania
+Roaring_Creek_(Pennsylvania)	isLocatedIn	Columbia_County,_Pennsylvania
+Roaring_Creek_(Pennsylvania)	isLocatedIn	Pennsylvania
+Roaring_Creek_(Pennsylvania)	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Peterman_Run	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Peterman_Run	Pennsylvania
+Peterman_Run	isLocatedIn	Columbia_County,_Pennsylvania
+Peterman_Run	isLocatedIn	Columbia_County,_Pennsylvania
+Aristes,_Pennsylvania	isLocatedIn	Columbia_County,_Pennsylvania
+Aristes,_Pennsylvania	isLocatedIn	Columbia_County,_Pennsylvania
+Aristes,_Pennsylvania	isLocatedIn	Pennsylvania
+Aristes,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Peterman_Run	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Peterman_Run	Pennsylvania
+Peterman_Run	isLocatedIn	Columbia_County,_Pennsylvania
+Peterman_Run	isLocatedIn	Columbia_County,_Pennsylvania
+Little_Fishing_Creek	isLocatedIn	Columbia_County,_Pennsylvania
+Little_Fishing_Creek	isLocatedIn	Columbia_County,_Pennsylvania
+Little_Fishing_Creek	isLocatedIn	Pennsylvania
+Little_Fishing_Creek	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Peterman_Run	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Peterman_Run	Pennsylvania
+Peterman_Run	isLocatedIn	Sullivan_County,_Pennsylvania
+Peterman_Run	isLocatedIn	Sullivan_County,_Pennsylvania
+Sullivan_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Sullivan_County,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Peterman_Run	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Peterman_Run	Pennsylvania
+Peterman_Run	isLocatedIn	Sullivan_County,_Pennsylvania
+Peterman_Run	isLocatedIn	Sullivan_County,_Pennsylvania
+Peterman_Run	isLocatedIn	Sullivan_County,_Pennsylvania
+Peterman_Run	isLocatedIn	Sullivan_County,_Pennsylvania
+Peterman_Run	isLocatedIn	Pennsylvania
+Peterman_Run	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Peterman_Run	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Peterman_Run	Pennsylvania
+Peterman_Run	isLocatedIn	Sullivan_County,_Pennsylvania
+Peterman_Run	isLocatedIn	Sullivan_County,_Pennsylvania
+Little_Fishing_Creek	isLocatedIn	Sullivan_County,_Pennsylvania
+Little_Fishing_Creek	isLocatedIn	Sullivan_County,_Pennsylvania
+Little_Fishing_Creek	isLocatedIn	Pennsylvania
+Little_Fishing_Creek	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Peterman_Run	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Peterman_Run	Pennsylvania
+Peterman_Run	isLocatedIn	Sullivan_County,_Pennsylvania
+Peterman_Run	isLocatedIn	Sullivan_County,_Pennsylvania
+Muncy_Creek	isLocatedIn	Sullivan_County,_Pennsylvania
+Muncy_Creek	isLocatedIn	Sullivan_County,_Pennsylvania
+Muncy_Creek	isLocatedIn	Pennsylvania
+Muncy_Creek	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Peterman_Run	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Peterman_Run	Pennsylvania
+Peterman_Run	isLocatedIn	Sullivan_County,_Pennsylvania
+Peterman_Run	isLocatedIn	Sullivan_County,_Pennsylvania
+West_Branch_Little_Muncy_Creek	isLocatedIn	Sullivan_County,_Pennsylvania
+West_Branch_Little_Muncy_Creek	isLocatedIn	Sullivan_County,_Pennsylvania
+West_Branch_Little_Muncy_Creek	isLocatedIn	Pennsylvania
+West_Branch_Little_Muncy_Creek	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Butler_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Butler_County,_Pennsylvania
+Butler_County,_Pennsylvania	isLocatedIn	Butler,_Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Butler_County,_Pennsylvania
+Butler_County,_Pennsylvania	isLocatedIn	Butler,_Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Butler_County,_Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Forest_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Forest_County,_Pennsylvania
+Forest_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Forest_County,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Forest_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Forest_County,_Pennsylvania
+Marienville,_Pennsylvania	isLocatedIn	Forest_County,_Pennsylvania
+Marienville,_Pennsylvania	isLocatedIn	Forest_County,_Pennsylvania
+Marienville,_Pennsylvania	isLocatedIn	Pennsylvania
+Marienville,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Forest_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Forest_County,_Pennsylvania
+Tionesta_Creek	isLocatedIn	Forest_County,_Pennsylvania
+Tionesta_Creek	isLocatedIn	Forest_County,_Pennsylvania
+Tionesta_Creek	isLocatedIn	Pennsylvania
+Tionesta_Creek	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Forest_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Forest_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Forest_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Forest_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Forest_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Forest_County,_Pennsylvania
+Allegheny_National_Forest	isLocatedIn	Forest_County,_Pennsylvania
+Allegheny_National_Forest	isLocatedIn	Forest_County,_Pennsylvania
+Allegheny_National_Forest	isLocatedIn	Pennsylvania
+Allegheny_National_Forest	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Forest_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Forest_County,_Pennsylvania
+State_Correctional_Institution_–_Forest	isLocatedIn	Forest_County,_Pennsylvania
+State_Correctional_Institution_–_Forest	isLocatedIn	Forest_County,_Pennsylvania
+State_Correctional_Institution_–_Forest	isLocatedIn	Pennsylvania
+State_Correctional_Institution_–_Forest	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Westmoreland_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Westmoreland_County,_Pennsylvania
+Slickville,_Pennsylvania	isLocatedIn	Westmoreland_County,_Pennsylvania
+Slickville,_Pennsylvania	isLocatedIn	Westmoreland_County,_Pennsylvania
+Slickville,_Pennsylvania	isLocatedIn	Pennsylvania
+Slickville,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Westmoreland_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Westmoreland_County,_Pennsylvania
+Latrobe,_Pennsylvania	isLocatedIn	Westmoreland_County,_Pennsylvania
+Latrobe,_Pennsylvania	isLocatedIn	Westmoreland_County,_Pennsylvania
+Latrobe,_Pennsylvania	isLocatedIn	Pennsylvania
+Latrobe,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Westmoreland_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Westmoreland_County,_Pennsylvania
+Westmoreland_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Westmoreland_County,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Armstrong_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Armstrong_County,_Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Armstrong_County,_Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Armstrong_County,_Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Armstrong_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Armstrong_County,_Pennsylvania
+Armstrong_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Armstrong_County,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Potter_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Potter_County,_Pennsylvania
+Genesee_River	isLocatedIn	Potter_County,_Pennsylvania
+Genesee_River	isLocatedIn	Potter_County,_Pennsylvania
+Genesee_River	isLocatedIn	Pennsylvania
+Genesee_River	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Potter_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Potter_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Potter_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Potter_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Potter_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Potter_County,_Pennsylvania
+Potter_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Potter_County,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Potter_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Potter_County,_Pennsylvania
+Hammersley_Fork	isLocatedIn	Potter_County,_Pennsylvania
+Hammersley_Fork	isLocatedIn	Potter_County,_Pennsylvania
+Hammersley_Fork	isLocatedIn	Pennsylvania
+Hammersley_Fork	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Potter_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Potter_County,_Pennsylvania
+Pine_Creek_(Pennsylvania)	isLocatedIn	Potter_County,_Pennsylvania
+Pine_Creek_(Pennsylvania)	isLocatedIn	Potter_County,_Pennsylvania
+Pine_Creek_(Pennsylvania)	isLocatedIn	Pennsylvania
+Pine_Creek_(Pennsylvania)	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Mount_Washington_(Pittsburgh)	isLocatedIn	Allegheny_County,_Pennsylvania
+Mount_Washington_(Pittsburgh)	isLocatedIn	Allegheny_County,_Pennsylvania
+Mount_Washington_(Pittsburgh)	isLocatedIn	Pennsylvania
+Mount_Washington_(Pittsburgh)	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Serra_Catholic_High_School	isLocatedIn	Allegheny_County,_Pennsylvania
+Serra_Catholic_High_School	isLocatedIn	Allegheny_County,_Pennsylvania
+Serra_Catholic_High_School	isLocatedIn	Pennsylvania
+Serra_Catholic_High_School	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Squirrel_Hill_(Pittsburgh)	isLocatedIn	Allegheny_County,_Pennsylvania
+Squirrel_Hill_(Pittsburgh)	isLocatedIn	Allegheny_County,_Pennsylvania
+Squirrel_Hill_(Pittsburgh)	isLocatedIn	Pennsylvania
+Squirrel_Hill_(Pittsburgh)	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Findlay_Township,_Allegheny_County,_Pennsylvania	isLocatedIn	Allegheny_County,_Pennsylvania
+Findlay_Township,_Allegheny_County,_Pennsylvania	isLocatedIn	Allegheny_County,_Pennsylvania
+Findlay_Township,_Allegheny_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Findlay_Township,_Allegheny_County,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Sturgeon,_Pennsylvania	isLocatedIn	Allegheny_County,_Pennsylvania
+Sturgeon,_Pennsylvania	isLocatedIn	Allegheny_County,_Pennsylvania
+Sturgeon,_Pennsylvania	isLocatedIn	Pennsylvania
+Sturgeon,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Allegheny_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Allegheny_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Pennsylvania
+Breakneck_Creek	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Carrick_(Pittsburgh)	isLocatedIn	Allegheny_County,_Pennsylvania
+Carrick_(Pittsburgh)	isLocatedIn	Allegheny_County,_Pennsylvania
+Carrick_(Pittsburgh)	isLocatedIn	Pennsylvania
+Carrick_(Pittsburgh)	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Wilkinsburg,_Pennsylvania	isLocatedIn	Allegheny_County,_Pennsylvania
+Wilkinsburg,_Pennsylvania	isLocatedIn	Allegheny_County,_Pennsylvania
+Wilkinsburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Wilkinsburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Four_Mile_Run_(Pittsburgh)	isLocatedIn	Allegheny_County,_Pennsylvania
+Four_Mile_Run_(Pittsburgh)	isLocatedIn	Allegheny_County,_Pennsylvania
+Four_Mile_Run_(Pittsburgh)	isLocatedIn	Pennsylvania
+Four_Mile_Run_(Pittsburgh)	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Brighton_Heights_(Pittsburgh)	isLocatedIn	Allegheny_County,_Pennsylvania
+Brighton_Heights_(Pittsburgh)	isLocatedIn	Allegheny_County,_Pennsylvania
+Brighton_Heights_(Pittsburgh)	isLocatedIn	Pennsylvania
+Brighton_Heights_(Pittsburgh)	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	McKean_County,_Pennsylvania
+Allegheny_River	isLocatedIn	McKean_County,_Pennsylvania
+McKean_County,_Pennsylvania	isLocatedIn	Smethport,_Pennsylvania
+Smethport,_Pennsylvania	isLocatedIn	McKean_County,_Pennsylvania
+McKean_County,_Pennsylvania	isLocatedIn	Smethport,_Pennsylvania
+Smethport,_Pennsylvania	isLocatedIn	McKean_County,_Pennsylvania
+Smethport,_Pennsylvania	isLocatedIn	Pennsylvania
+Smethport,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	McKean_County,_Pennsylvania
+Allegheny_River	isLocatedIn	McKean_County,_Pennsylvania
+Tionesta_Creek	isLocatedIn	McKean_County,_Pennsylvania
+Tionesta_Creek	isLocatedIn	McKean_County,_Pennsylvania
+Tionesta_Creek	isLocatedIn	Pennsylvania
+Tionesta_Creek	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	McKean_County,_Pennsylvania
+Allegheny_River	isLocatedIn	McKean_County,_Pennsylvania
+Allegheny_River	isLocatedIn	McKean_County,_Pennsylvania
+Allegheny_River	isLocatedIn	McKean_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	McKean_County,_Pennsylvania
+Allegheny_River	isLocatedIn	McKean_County,_Pennsylvania
+McKean_County,_Pennsylvania	isLocatedIn	Pennsylvania
+McKean_County,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Warren_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Warren_County,_Pennsylvania
+Warren_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Warren_County,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Warren_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Warren_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Warren_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Warren_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Warren_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Warren_County,_Pennsylvania
+Kinzua_Dam	isLocatedIn	Warren_County,_Pennsylvania
+Kinzua_Dam	isLocatedIn	Warren_County,_Pennsylvania
+Kinzua_Dam	isLocatedIn	Pennsylvania
+Kinzua_Dam	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Warren_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Warren_County,_Pennsylvania
+Tionesta_Creek	isLocatedIn	Warren_County,_Pennsylvania
+Tionesta_Creek	isLocatedIn	Warren_County,_Pennsylvania
+Tionesta_Creek	isLocatedIn	Pennsylvania
+Tionesta_Creek	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Clarion_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Clarion_County,_Pennsylvania
+Clarion_County,_Pennsylvania	isLocatedIn	Clarion,_Pennsylvania
+Clarion,_Pennsylvania	isLocatedIn	Clarion_County,_Pennsylvania
+Clarion_County,_Pennsylvania	isLocatedIn	Clarion,_Pennsylvania
+Clarion,_Pennsylvania	isLocatedIn	Clarion_County,_Pennsylvania
+Clarion,_Pennsylvania	isLocatedIn	Pennsylvania
+Clarion,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Allegheny_River	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Allegheny_River	Pennsylvania
+Allegheny_River	isLocatedIn	Clarion_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Clarion_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Clarion_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Clarion_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Albania
+Sarantaporos_(Epirus)	isLocatedIn	Albania
+Alexander's_Balkan_campaign	happenedIn	Albania
+Alexander's_Balkan_campaign	happenedIn	Albania
+Alexander's_Balkan_campaign	happenedIn	Greece
+Alexander's_Balkan_campaign	happenedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Greece
+Achelous_River	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Battle_of_Peta	happenedIn	Epirus_(region)
+Battle_of_Peta	happenedIn	Epirus_(region)
+Battle_of_Peta	happenedIn	Greece
+Greece	participatedIn	Battle_of_Peta
+Battle_of_Peta	happenedIn	Greece
+Greece	participatedIn	Battle_of_Peta
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Pindus_National_Park	isLocatedIn	Epirus_(region)
+Pindus_National_Park	isLocatedIn	Epirus_(region)
+Pindus_National_Park	isLocatedIn	Greece
+Pindus_National_Park	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Athamanika	isLocatedIn	Epirus_(region)
+Athamanika	isLocatedIn	Epirus_(region)
+Athamanika	isLocatedIn	Greece
+Athamanika	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Greco-Turkish_War_(1897)	isLocatedIn	Epirus_(region)
+Greco-Turkish_War_(1897)	isLocatedIn	Epirus_(region)
+Greco-Turkish_War_(1897)	isLocatedIn	Greece
+Greco-Turkish_War_(1897)	happenedIn	Greece
+Greco-Turkish_War_(1897)	isLocatedIn	Greece
+Greco-Turkish_War_(1897)	happenedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Epirus_(region)	isLocatedIn	Greece
+Epirus_(region)	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Pindus	isLocatedIn	Epirus_(region)
+Pindus	isLocatedIn	Epirus_(region)
+Pindus	isLocatedIn	Greece
+Pindus	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Greece
+Aoös	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Archaeological_Museum_of_Arta	isLocatedIn	Epirus_(region)
+Archaeological_Museum_of_Arta	isLocatedIn	Epirus_(region)
+Archaeological_Museum_of_Arta	isLocatedIn	Greece
+Archaeological_Museum_of_Arta	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Gramos	isLocatedIn	Epirus_(region)
+Gramos	isLocatedIn	Epirus_(region)
+Gramos	isLocatedIn	Greece
+Gramos	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Horton_Creek_(Oxbow_Creek)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Horton_Creek_(Oxbow_Creek)	Pennsylvania
+Horton_Creek_(Oxbow_Creek)	isLocatedIn	Wyoming_County,_Pennsylvania
+Horton_Creek_(Oxbow_Creek)	isLocatedIn	Wyoming_County,_Pennsylvania
+Trout_Brook_(South_Branch_Tunkhannock_Creek)	isLocatedIn	Wyoming_County,_Pennsylvania
+Trout_Brook_(South_Branch_Tunkhannock_Creek)	isLocatedIn	Wyoming_County,_Pennsylvania
+Trout_Brook_(South_Branch_Tunkhannock_Creek)	isLocatedIn	Pennsylvania
+Trout_Brook_(South_Branch_Tunkhannock_Creek)	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Horton_Creek_(Oxbow_Creek)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Horton_Creek_(Oxbow_Creek)	Pennsylvania
+Horton_Creek_(Oxbow_Creek)	isLocatedIn	Wyoming_County,_Pennsylvania
+Horton_Creek_(Oxbow_Creek)	isLocatedIn	Wyoming_County,_Pennsylvania
+Horton_Creek_(Oxbow_Creek)	isLocatedIn	Wyoming_County,_Pennsylvania
+Horton_Creek_(Oxbow_Creek)	isLocatedIn	Wyoming_County,_Pennsylvania
+Horton_Creek_(Oxbow_Creek)	isLocatedIn	Pennsylvania
+Horton_Creek_(Oxbow_Creek)	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Horton_Creek_(Oxbow_Creek)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Horton_Creek_(Oxbow_Creek)	Pennsylvania
+Horton_Creek_(Oxbow_Creek)	isLocatedIn	Wyoming_County,_Pennsylvania
+Horton_Creek_(Oxbow_Creek)	isLocatedIn	Wyoming_County,_Pennsylvania
+South_Branch_Tunkhannock_Creek	isLocatedIn	Wyoming_County,_Pennsylvania
+South_Branch_Tunkhannock_Creek	isLocatedIn	Wyoming_County,_Pennsylvania
+South_Branch_Tunkhannock_Creek	isLocatedIn	Pennsylvania
+South_Branch_Tunkhannock_Creek	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Horton_Creek_(Oxbow_Creek)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Horton_Creek_(Oxbow_Creek)	Pennsylvania
+Horton_Creek_(Oxbow_Creek)	isLocatedIn	Wyoming_County,_Pennsylvania
+Horton_Creek_(Oxbow_Creek)	isLocatedIn	Wyoming_County,_Pennsylvania
+Wyoming_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Wyoming_County,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Horton_Creek_(Oxbow_Creek)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Horton_Creek_(Oxbow_Creek)	Pennsylvania
+Horton_Creek_(Oxbow_Creek)	isLocatedIn	Wyoming_County,_Pennsylvania
+Horton_Creek_(Oxbow_Creek)	isLocatedIn	Wyoming_County,_Pennsylvania
+Susquehanna_River	isLocatedIn	Wyoming_County,_Pennsylvania
+Susquehanna_River	isLocatedIn	Wyoming_County,_Pennsylvania
+Susquehanna_River	isLocatedIn	Pennsylvania
+Susquehanna_River	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Horton_Creek_(Oxbow_Creek)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Horton_Creek_(Oxbow_Creek)	Pennsylvania
+Horton_Creek_(Oxbow_Creek)	isLocatedIn	Susquehanna_County,_Pennsylvania
+Horton_Creek_(Oxbow_Creek)	isLocatedIn	Susquehanna_County,_Pennsylvania
+Montrose,_Pennsylvania	isLocatedIn	Susquehanna_County,_Pennsylvania
+Susquehanna_County,_Pennsylvania	isLocatedIn	Montrose,_Pennsylvania
+Montrose,_Pennsylvania	isLocatedIn	Susquehanna_County,_Pennsylvania
+Susquehanna_County,_Pennsylvania	isLocatedIn	Montrose,_Pennsylvania
+Montrose,_Pennsylvania	isLocatedIn	Pennsylvania
+Montrose,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Horton_Creek_(Oxbow_Creek)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Horton_Creek_(Oxbow_Creek)	Pennsylvania
+Horton_Creek_(Oxbow_Creek)	isLocatedIn	Susquehanna_County,_Pennsylvania
+Horton_Creek_(Oxbow_Creek)	isLocatedIn	Susquehanna_County,_Pennsylvania
+Susquehanna_River	isLocatedIn	Susquehanna_County,_Pennsylvania
+Susquehanna_River	isLocatedIn	Susquehanna_County,_Pennsylvania
+Susquehanna_River	isLocatedIn	Pennsylvania
+Susquehanna_River	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Horton_Creek_(Oxbow_Creek)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Horton_Creek_(Oxbow_Creek)	Pennsylvania
+Horton_Creek_(Oxbow_Creek)	isLocatedIn	Pennsylvania
+Horton_Creek_(Oxbow_Creek)	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Glade_Run	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Glade_Run	Pennsylvania
+Glade_Run	isLocatedIn	Northumberland_County,_Pennsylvania
+Glade_Run	isLocatedIn	Northumberland_County,_Pennsylvania
+North_Branch_Shamokin_Creek	isLocatedIn	Northumberland_County,_Pennsylvania
+North_Branch_Shamokin_Creek	isLocatedIn	Northumberland_County,_Pennsylvania
+North_Branch_Shamokin_Creek	isLocatedIn	Pennsylvania
+North_Branch_Shamokin_Creek	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Glade_Run	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Glade_Run	Pennsylvania
+Glade_Run	isLocatedIn	Lycoming_County,_Pennsylvania
+Glade_Run	isLocatedIn	Lycoming_County,_Pennsylvania
+Lycoming_Creek	isLocatedIn	Lycoming_County,_Pennsylvania
+Lycoming_Creek	isLocatedIn	Lycoming_County,_Pennsylvania
+Lycoming_Creek	isLocatedIn	Pennsylvania
+Lycoming_Creek	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Glade_Run	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Glade_Run	Pennsylvania
+Glade_Run	isLocatedIn	Lycoming_County,_Pennsylvania
+Glade_Run	isLocatedIn	Lycoming_County,_Pennsylvania
+Lycoming_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Lycoming_County,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Glade_Run	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Glade_Run	Pennsylvania
+Glade_Run	isLocatedIn	Lycoming_County,_Pennsylvania
+Glade_Run	isLocatedIn	Lycoming_County,_Pennsylvania
+Canton_Area_School_District	isLocatedIn	Lycoming_County,_Pennsylvania
+Canton_Area_School_District	isLocatedIn	Lycoming_County,_Pennsylvania
+Canton_Area_School_District	isLocatedIn	Pennsylvania
+Canton_Area_School_District	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Glade_Run	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Glade_Run	Pennsylvania
+Glade_Run	isLocatedIn	Lycoming_County,_Pennsylvania
+Glade_Run	isLocatedIn	Lycoming_County,_Pennsylvania
+Canton_Junior_Senior_High_School	isLocatedIn	Lycoming_County,_Pennsylvania
+Canton_Junior_Senior_High_School	isLocatedIn	Lycoming_County,_Pennsylvania
+Canton_Junior_Senior_High_School	isLocatedIn	Pennsylvania
+Canton_Junior_Senior_High_School	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Glade_Run	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Glade_Run	Pennsylvania
+Glade_Run	isLocatedIn	Lycoming_County,_Pennsylvania
+Glade_Run	isLocatedIn	Lycoming_County,_Pennsylvania
+Slate_Run	isLocatedIn	Lycoming_County,_Pennsylvania
+Slate_Run	isLocatedIn	Lycoming_County,_Pennsylvania
+Slate_Run	isLocatedIn	Pennsylvania
+Slate_Run	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Glade_Run	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Glade_Run	Pennsylvania
+Glade_Run	isLocatedIn	Pennsylvania
+Glade_Run	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Beaver_Run_(County_Line_Branch)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Beaver_Run_(County_Line_Branch)	Pennsylvania
+Beaver_Run_(County_Line_Branch)	isLocatedIn	Pennsylvania
+Beaver_Run_(County_Line_Branch)	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Beaver_Run_(County_Line_Branch)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Beaver_Run_(County_Line_Branch)	Pennsylvania
+Beaver_Run_(County_Line_Branch)	isLocatedIn	Montour_County,_Pennsylvania
+Beaver_Run_(County_Line_Branch)	isLocatedIn	Montour_County,_Pennsylvania
+Little_Roaring_Creek	isLocatedIn	Montour_County,_Pennsylvania
+Little_Roaring_Creek	isLocatedIn	Montour_County,_Pennsylvania
+Little_Roaring_Creek	isLocatedIn	Pennsylvania
+Little_Roaring_Creek	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Beaver_Run_(County_Line_Branch)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Beaver_Run_(County_Line_Branch)	Pennsylvania
+Beaver_Run_(County_Line_Branch)	isLocatedIn	Montour_County,_Pennsylvania
+Beaver_Run_(County_Line_Branch)	isLocatedIn	Montour_County,_Pennsylvania
+Roaring_Creek_(Pennsylvania)	isLocatedIn	Montour_County,_Pennsylvania
+Roaring_Creek_(Pennsylvania)	isLocatedIn	Montour_County,_Pennsylvania
+Roaring_Creek_(Pennsylvania)	isLocatedIn	Pennsylvania
+Roaring_Creek_(Pennsylvania)	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Beaver_Run_(County_Line_Branch)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Beaver_Run_(County_Line_Branch)	Pennsylvania
+Beaver_Run_(County_Line_Branch)	isLocatedIn	Montour_County,_Pennsylvania
+Beaver_Run_(County_Line_Branch)	isLocatedIn	Montour_County,_Pennsylvania
+Beaver_Run_(County_Line_Branch)	isLocatedIn	Montour_County,_Pennsylvania
+Beaver_Run_(County_Line_Branch)	isLocatedIn	Montour_County,_Pennsylvania
+Beaver_Run_(County_Line_Branch)	isLocatedIn	Pennsylvania
+Beaver_Run_(County_Line_Branch)	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Beaver_Run_(County_Line_Branch)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Beaver_Run_(County_Line_Branch)	Pennsylvania
+Beaver_Run_(County_Line_Branch)	isLocatedIn	Montour_County,_Pennsylvania
+Beaver_Run_(County_Line_Branch)	isLocatedIn	Montour_County,_Pennsylvania
+Montour_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Montour_County,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Beaver_Run_(County_Line_Branch)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Beaver_Run_(County_Line_Branch)	Pennsylvania
+Beaver_Run_(County_Line_Branch)	isLocatedIn	Montour_County,_Pennsylvania
+Beaver_Run_(County_Line_Branch)	isLocatedIn	Montour_County,_Pennsylvania
+Susquehanna_River	isLocatedIn	Montour_County,_Pennsylvania
+Susquehanna_River	isLocatedIn	Montour_County,_Pennsylvania
+Susquehanna_River	isLocatedIn	Pennsylvania
+Susquehanna_River	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Beaver_Run_(County_Line_Branch)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Beaver_Run_(County_Line_Branch)	Pennsylvania
+Beaver_Run_(County_Line_Branch)	isLocatedIn	Montour_County,_Pennsylvania
+Beaver_Run_(County_Line_Branch)	isLocatedIn	Montour_County,_Pennsylvania
+Middle_Branch_Chillisquaque_Creek	isLocatedIn	Montour_County,_Pennsylvania
+Middle_Branch_Chillisquaque_Creek	isLocatedIn	Montour_County,_Pennsylvania
+Middle_Branch_Chillisquaque_Creek	isLocatedIn	Pennsylvania
+Middle_Branch_Chillisquaque_Creek	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Beaver_Run_(County_Line_Branch)	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/Pennsylvania
+Beaver_Run_(County_Line_Branch)	Pennsylvania
+Beaver_Run_(County_Line_Branch)	isLocatedIn	Northumberland_County,_Pennsylvania
+Beaver_Run_(County_Line_Branch)	isLocatedIn	Northumberland_County,_Pennsylvania
+North_Branch_Shamokin_Creek	isLocatedIn	Northumberland_County,_Pennsylvania
+North_Branch_Shamokin_Creek	isLocatedIn	Northumberland_County,_Pennsylvania
+North_Branch_Shamokin_Creek	isLocatedIn	Pennsylvania
+North_Branch_Shamokin_Creek	isLocatedIn	Pennsylvania
+

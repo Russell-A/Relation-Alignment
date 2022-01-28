@@ -1,0 +1,30 @@
+http://dbpedia.org/resource/Savage_Islands	http://dbpedia.org/ontology/highestState	http://dbpedia.org/resource/Madeira
+Savage_Islands	Madeira
+Savage_Islands	isLocatedIn	Funchal
+Savage_Islands	isLocatedIn	Funchal
+Action_of_22_August_1866	happenedIn	Funchal
+Action_of_22_August_1866	happenedIn	Funchal
+Action_of_22_August_1866	happenedIn	Madeira
+Action_of_22_August_1866	happenedIn	Madeira
+
+http://dbpedia.org/resource/Savage_Islands	http://dbpedia.org/ontology/highestState	http://dbpedia.org/resource/Madeira
+Savage_Islands	Madeira
+Savage_Islands	isLocatedIn	Funchal
+Savage_Islands	isLocatedIn	Funchal
+Madeira	hasCapital	Funchal
+Madeira	hasCapital	Funchal
+
+http://dbpedia.org/resource/Savage_Islands	http://dbpedia.org/ontology/highestState	http://dbpedia.org/resource/Madeira
+Savage_Islands	Madeira
+Savage_Islands	isLocatedIn	Funchal
+Savage_Islands	isLocatedIn	Funchal
+Estádio_da_Madeira	isLocatedIn	Funchal
+Estádio_da_Madeira	isLocatedIn	Funchal
+Estádio_da_Madeira	isLocatedIn	Madeira
+Estádio_da_Madeira	isLocatedIn	Madeira
+
+http://dbpedia.org/resource/Savage_Islands	http://dbpedia.org/ontology/highestState	http://dbpedia.org/resource/Madeira
+Savage_Islands	Madeira
+Savage_Islands	isLocatedIn	Madeira
+Savage_Islands	isLocatedIn	Madeira
+

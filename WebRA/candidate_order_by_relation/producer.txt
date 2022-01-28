@@ -1,0 +1,2783 @@
+http://dbpedia.org/resource/The_Twilight_People	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/John_Ashley_(actor)
+The_Twilight_People	John_Ashley_(actor)
+Pam_Grier	actedIn	The_Twilight_People
+Pam_Grier	actedIn	The_Twilight_People
+Pam_Grier	actedIn	The_Twilight_People
+Pam_Grier	actedIn	The_Twilight_People
+John_Ashley_(actor)	actedIn	The_Twilight_People
+John_Ashley_(actor)	actedIn	The_Twilight_People
+
+http://dbpedia.org/resource/The_Twilight_People	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/John_Ashley_(actor)
+The_Twilight_People	John_Ashley_(actor)
+John_Ashley_(actor)	actedIn	The_Twilight_People
+John_Ashley_(actor)	actedIn	The_Twilight_People
+
+http://dbpedia.org/resource/Millionaires_Express	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wu_Ma
+Millionaires_Express	Wu_Ma
+Sammo_Hung	created	Millionaires_Express
+Sammo_Hung	directed	Millionaires_Express
+Sammo_Hung	created	Millionaires_Express
+Sammo_Hung	directed	Millionaires_Express
+Sammo_Hung	actedIn	Painted_Faces
+Sammo_Hung	actedIn	Painted_Faces
+Wu_Ma	actedIn	Painted_Faces
+Wu_Ma	actedIn	Painted_Faces
+
+http://dbpedia.org/resource/Pusher_(film_series)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Nicolas_Winding_Refn
+Pusher_(film_series)	Nicolas_Winding_Refn
+Nicolas_Winding_Refn	directed	Pusher_(film_series)
+Nicolas_Winding_Refn	created	Pusher_(film_series)
+Nicolas_Winding_Refn	directed	Pusher_(film_series)
+Nicolas_Winding_Refn	created	Pusher_(film_series)
+
+http://dbpedia.org/resource/Pusher_(film_series)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Nicolas_Winding_Refn
+Pusher_(film_series)	Nicolas_Winding_Refn
+Mads_Mikkelsen	actedIn	Pusher_(film_series)
+Mads_Mikkelsen	actedIn	Pusher_(film_series)
+Mads_Mikkelsen	actedIn	Pusher_II
+Mads_Mikkelsen	actedIn	Pusher_II
+Nicolas_Winding_Refn	created	Pusher_II
+Nicolas_Winding_Refn	directed	Pusher_II
+Nicolas_Winding_Refn	created	Pusher_II
+Nicolas_Winding_Refn	directed	Pusher_II
+
+http://dbpedia.org/resource/Pusher_(film_series)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Nicolas_Winding_Refn
+Pusher_(film_series)	Nicolas_Winding_Refn
+Mads_Mikkelsen	actedIn	Pusher_(film_series)
+Mads_Mikkelsen	actedIn	Pusher_(film_series)
+Mads_Mikkelsen	actedIn	Pusher_(1996_film)
+Mads_Mikkelsen	actedIn	Pusher_(1996_film)
+Nicolas_Winding_Refn	directed	Pusher_(1996_film)
+Nicolas_Winding_Refn	directed	Pusher_(1996_film)
+
+http://dbpedia.org/resource/Pusher_(film_series)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Nicolas_Winding_Refn
+Pusher_(film_series)	Nicolas_Winding_Refn
+Mads_Mikkelsen	actedIn	Pusher_(film_series)
+Mads_Mikkelsen	actedIn	Pusher_(film_series)
+Mads_Mikkelsen	actedIn	Pusher_(film_series)
+Mads_Mikkelsen	actedIn	Pusher_(film_series)
+Nicolas_Winding_Refn	directed	Pusher_(film_series)
+Nicolas_Winding_Refn	created	Pusher_(film_series)
+Nicolas_Winding_Refn	directed	Pusher_(film_series)
+Nicolas_Winding_Refn	created	Pusher_(film_series)
+
+http://dbpedia.org/resource/Pusher_(film_series)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Nicolas_Winding_Refn
+Pusher_(film_series)	Nicolas_Winding_Refn
+Mads_Mikkelsen	actedIn	Pusher_(film_series)
+Mads_Mikkelsen	actedIn	Pusher_(film_series)
+Mads_Mikkelsen	actedIn	Bleeder_(film)
+Mads_Mikkelsen	actedIn	Bleeder_(film)
+Nicolas_Winding_Refn	directed	Bleeder_(film)
+Nicolas_Winding_Refn	created	Bleeder_(film)
+Nicolas_Winding_Refn	directed	Bleeder_(film)
+Nicolas_Winding_Refn	created	Bleeder_(film)
+
+http://dbpedia.org/resource/Pusher_(film_series)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Nicolas_Winding_Refn
+Pusher_(film_series)	Nicolas_Winding_Refn
+Peter_Peter_(Danish_musician)	wroteMusicFor	Pusher_(film_series)
+Peter_Peter_(Danish_musician)	wroteMusicFor	Pusher_(film_series)
+Peter_Peter_(Danish_musician)	wroteMusicFor	Pusher_II
+Peter_Peter_(Danish_musician)	wroteMusicFor	Pusher_II
+Nicolas_Winding_Refn	created	Pusher_II
+Nicolas_Winding_Refn	directed	Pusher_II
+Nicolas_Winding_Refn	created	Pusher_II
+Nicolas_Winding_Refn	directed	Pusher_II
+
+http://dbpedia.org/resource/Pusher_(film_series)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Nicolas_Winding_Refn
+Pusher_(film_series)	Nicolas_Winding_Refn
+Peter_Peter_(Danish_musician)	wroteMusicFor	Pusher_(film_series)
+Peter_Peter_(Danish_musician)	wroteMusicFor	Pusher_(film_series)
+Peter_Peter_(Danish_musician)	wroteMusicFor	Pusher_(1996_film)
+Peter_Peter_(Danish_musician)	wroteMusicFor	Pusher_(1996_film)
+Nicolas_Winding_Refn	directed	Pusher_(1996_film)
+Nicolas_Winding_Refn	directed	Pusher_(1996_film)
+
+http://dbpedia.org/resource/Pusher_(film_series)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Nicolas_Winding_Refn
+Pusher_(film_series)	Nicolas_Winding_Refn
+Peter_Peter_(Danish_musician)	wroteMusicFor	Pusher_(film_series)
+Peter_Peter_(Danish_musician)	wroteMusicFor	Pusher_(film_series)
+Peter_Peter_(Danish_musician)	wroteMusicFor	Bleeder_(film)
+Peter_Peter_(Danish_musician)	wroteMusicFor	Bleeder_(film)
+Nicolas_Winding_Refn	directed	Bleeder_(film)
+Nicolas_Winding_Refn	created	Bleeder_(film)
+Nicolas_Winding_Refn	directed	Bleeder_(film)
+Nicolas_Winding_Refn	created	Bleeder_(film)
+
+http://dbpedia.org/resource/Pusher_(film_series)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Nicolas_Winding_Refn
+Pusher_(film_series)	Nicolas_Winding_Refn
+Peter_Peter_(Danish_musician)	wroteMusicFor	Pusher_(film_series)
+Peter_Peter_(Danish_musician)	wroteMusicFor	Pusher_(film_series)
+Peter_Peter_(Danish_musician)	wroteMusicFor	Pusher_(film_series)
+Peter_Peter_(Danish_musician)	wroteMusicFor	Pusher_(film_series)
+Nicolas_Winding_Refn	directed	Pusher_(film_series)
+Nicolas_Winding_Refn	created	Pusher_(film_series)
+Nicolas_Winding_Refn	directed	Pusher_(film_series)
+Nicolas_Winding_Refn	created	Pusher_(film_series)
+
+http://dbpedia.org/resource/Pusher_(film_series)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Nicolas_Winding_Refn
+Pusher_(film_series)	Nicolas_Winding_Refn
+Peter_Peter_(Danish_musician)	wroteMusicFor	Pusher_(film_series)
+Peter_Peter_(Danish_musician)	wroteMusicFor	Pusher_(film_series)
+Peter_Peter_(Danish_musician)	wroteMusicFor	Pusher_3
+Peter_Peter_(Danish_musician)	wroteMusicFor	Pusher_3
+Nicolas_Winding_Refn	directed	Pusher_3
+Nicolas_Winding_Refn	created	Pusher_3
+Nicolas_Winding_Refn	directed	Pusher_3
+Nicolas_Winding_Refn	created	Pusher_3
+
+http://dbpedia.org/resource/Turn_Left,_Turn_Right	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Turn_Left,_Turn_Right	Wai_Ka-fai
+Au_Kin-yee	created	Turn_Left,_Turn_Right
+Au_Kin-yee	created	Turn_Left,_Turn_Right
+Au_Kin-yee	created	Himalaya_Singh
+Au_Kin-yee	created	Himalaya_Singh
+Wai_Ka-fai	directed	Himalaya_Singh
+Wai_Ka-fai	directed	Himalaya_Singh
+
+http://dbpedia.org/resource/Turn_Left,_Turn_Right	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Turn_Left,_Turn_Right	Wai_Ka-fai
+Au_Kin-yee	created	Turn_Left,_Turn_Right
+Au_Kin-yee	created	Turn_Left,_Turn_Right
+Au_Kin-yee	created	Mad_Detective
+Au_Kin-yee	created	Mad_Detective
+Wai_Ka-fai	directed	Mad_Detective
+Wai_Ka-fai	directed	Mad_Detective
+
+http://dbpedia.org/resource/Turn_Left,_Turn_Right	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Turn_Left,_Turn_Right	Wai_Ka-fai
+Au_Kin-yee	created	Turn_Left,_Turn_Right
+Au_Kin-yee	created	Turn_Left,_Turn_Right
+Au_Kin-yee	created	The_Shopaholics
+Au_Kin-yee	created	The_Shopaholics
+Wai_Ka-fai	created	The_Shopaholics
+Wai_Ka-fai	directed	The_Shopaholics
+Wai_Ka-fai	created	The_Shopaholics
+Wai_Ka-fai	directed	The_Shopaholics
+
+http://dbpedia.org/resource/Turn_Left,_Turn_Right	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Turn_Left,_Turn_Right	Wai_Ka-fai
+Au_Kin-yee	created	Turn_Left,_Turn_Right
+Au_Kin-yee	created	Turn_Left,_Turn_Right
+Au_Kin-yee	created	Written_By
+Au_Kin-yee	created	Written_By
+Wai_Ka-fai	directed	Written_By
+Wai_Ka-fai	directed	Written_By
+
+http://dbpedia.org/resource/Turn_Left,_Turn_Right	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Turn_Left,_Turn_Right	Wai_Ka-fai
+Au_Kin-yee	created	Turn_Left,_Turn_Right
+Au_Kin-yee	created	Turn_Left,_Turn_Right
+Au_Kin-yee	created	Running_on_Karma
+Au_Kin-yee	created	Running_on_Karma
+Wai_Ka-fai	directed	Running_on_Karma
+Wai_Ka-fai	directed	Running_on_Karma
+
+http://dbpedia.org/resource/Turn_Left,_Turn_Right	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Turn_Left,_Turn_Right	Wai_Ka-fai
+Au_Kin-yee	created	Turn_Left,_Turn_Right
+Au_Kin-yee	created	Turn_Left,_Turn_Right
+Au_Kin-yee	created	Turn_Left,_Turn_Right
+Au_Kin-yee	created	Turn_Left,_Turn_Right
+Wai_Ka-fai	directed	Turn_Left,_Turn_Right
+Wai_Ka-fai	directed	Turn_Left,_Turn_Right
+
+http://dbpedia.org/resource/Turn_Left,_Turn_Right	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Turn_Left,_Turn_Right	Wai_Ka-fai
+Au_Kin-yee	created	Turn_Left,_Turn_Right
+Au_Kin-yee	created	Turn_Left,_Turn_Right
+Au_Kin-yee	created	Fat_Choi_Spirit
+Au_Kin-yee	created	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+
+http://dbpedia.org/resource/Turn_Left,_Turn_Right	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Turn_Left,_Turn_Right	Wai_Ka-fai
+Au_Kin-yee	created	Turn_Left,_Turn_Right
+Au_Kin-yee	created	Turn_Left,_Turn_Right
+Au_Kin-yee	created	My_Left_Eye_Sees_Ghosts
+Au_Kin-yee	created	My_Left_Eye_Sees_Ghosts
+Wai_Ka-fai	directed	My_Left_Eye_Sees_Ghosts
+Wai_Ka-fai	directed	My_Left_Eye_Sees_Ghosts
+
+http://dbpedia.org/resource/Turn_Left,_Turn_Right	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Turn_Left,_Turn_Right	Wai_Ka-fai
+Yau_Nai-hoi	created	Turn_Left,_Turn_Right
+Yau_Nai-hoi	created	Turn_Left,_Turn_Right
+Yau_Nai-hoi	created	Love_on_a_Diet
+Yau_Nai-hoi	created	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+
+http://dbpedia.org/resource/Turn_Left,_Turn_Right	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Turn_Left,_Turn_Right	Wai_Ka-fai
+Yau_Nai-hoi	created	Turn_Left,_Turn_Right
+Yau_Nai-hoi	created	Turn_Left,_Turn_Right
+Yau_Nai-hoi	created	Fat_Choi_Spirit
+Yau_Nai-hoi	created	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+
+http://dbpedia.org/resource/Turn_Left,_Turn_Right	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Turn_Left,_Turn_Right	Wai_Ka-fai
+Wai_Ka-fai	directed	Turn_Left,_Turn_Right
+Wai_Ka-fai	directed	Turn_Left,_Turn_Right
+
+http://dbpedia.org/resource/Turn_Left,_Turn_Right	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Turn_Left,_Turn_Right	Wai_Ka-fai
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Running_on_Karma
+Johnnie_To	directed	Running_on_Karma
+Wai_Ka-fai	directed	Running_on_Karma
+Wai_Ka-fai	directed	Running_on_Karma
+
+http://dbpedia.org/resource/Turn_Left,_Turn_Right	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Turn_Left,_Turn_Right	Wai_Ka-fai
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Romancing_in_Thin_Air
+Wai_Ka-fai	created	Romancing_in_Thin_Air
+Wai_Ka-fai	created	Romancing_in_Thin_Air
+
+http://dbpedia.org/resource/Turn_Left,_Turn_Right	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Turn_Left,_Turn_Right	Wai_Ka-fai
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+
+http://dbpedia.org/resource/Turn_Left,_Turn_Right	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Turn_Left,_Turn_Right	Wai_Ka-fai
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	My_Left_Eye_Sees_Ghosts
+Johnnie_To	directed	My_Left_Eye_Sees_Ghosts
+Wai_Ka-fai	directed	My_Left_Eye_Sees_Ghosts
+Wai_Ka-fai	directed	My_Left_Eye_Sees_Ghosts
+
+http://dbpedia.org/resource/Turn_Left,_Turn_Right	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Turn_Left,_Turn_Right	Wai_Ka-fai
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Wu_yen
+Johnnie_To	directed	Wu_yen
+Wai_Ka-fai	created	Wu_yen
+Wai_Ka-fai	directed	Wu_yen
+Wai_Ka-fai	created	Wu_yen
+Wai_Ka-fai	directed	Wu_yen
+
+http://dbpedia.org/resource/Turn_Left,_Turn_Right	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Turn_Left,_Turn_Right	Wai_Ka-fai
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Don't_Go_Breaking_My_Heart_(film)
+Johnnie_To	directed	Don't_Go_Breaking_My_Heart_(film)
+Wai_Ka-fai	directed	Don't_Go_Breaking_My_Heart_(film)
+Wai_Ka-fai	directed	Don't_Go_Breaking_My_Heart_(film)
+
+http://dbpedia.org/resource/Turn_Left,_Turn_Right	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Turn_Left,_Turn_Right	Wai_Ka-fai
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Fulltime_Killer
+Johnnie_To	directed	Fulltime_Killer
+Wai_Ka-fai	directed	Fulltime_Killer
+Wai_Ka-fai	directed	Fulltime_Killer
+
+http://dbpedia.org/resource/Turn_Left,_Turn_Right	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Turn_Left,_Turn_Right	Wai_Ka-fai
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Fat_Choi_Spirit
+Johnnie_To	directed	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+
+http://dbpedia.org/resource/Turn_Left,_Turn_Right	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Turn_Left,_Turn_Right	Wai_Ka-fai
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Wai_Ka-fai	directed	Turn_Left,_Turn_Right
+Wai_Ka-fai	directed	Turn_Left,_Turn_Right
+
+http://dbpedia.org/resource/Turn_Left,_Turn_Right	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Turn_Left,_Turn_Right	Wai_Ka-fai
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Mad_Detective
+Johnnie_To	directed	Mad_Detective
+Wai_Ka-fai	directed	Mad_Detective
+Wai_Ka-fai	directed	Mad_Detective
+
+http://dbpedia.org/resource/I_Love_Hong_Kong_2012	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+I_Love_Hong_Kong_2012	Eric_Tsang
+Eric_Tsang	actedIn	I_Love_Hong_Kong_2012
+Eric_Tsang	actedIn	I_Love_Hong_Kong_2012
+
+http://dbpedia.org/resource/I_Love_Hong_Kong_2012	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+I_Love_Hong_Kong_2012	Eric_Tsang
+Stanley_Fung	actedIn	I_Love_Hong_Kong_2012
+Stanley_Fung	actedIn	I_Love_Hong_Kong_2012
+Stanley_Fung	actedIn	I_Love_Hong_Kong_2012
+Stanley_Fung	actedIn	I_Love_Hong_Kong_2012
+Eric_Tsang	actedIn	I_Love_Hong_Kong_2012
+Eric_Tsang	actedIn	I_Love_Hong_Kong_2012
+
+http://dbpedia.org/resource/I_Love_Hong_Kong_2012	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+I_Love_Hong_Kong_2012	Eric_Tsang
+Stanley_Fung	actedIn	I_Love_Hong_Kong_2012
+Stanley_Fung	actedIn	I_Love_Hong_Kong_2012
+Stanley_Fung	actedIn	Marrying_Mr._Perfect
+Stanley_Fung	actedIn	Marrying_Mr._Perfect
+Eric_Tsang	actedIn	Marrying_Mr._Perfect
+Eric_Tsang	actedIn	Marrying_Mr._Perfect
+
+http://dbpedia.org/resource/I_Love_Hong_Kong_2012	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+I_Love_Hong_Kong_2012	Eric_Tsang
+Stanley_Fung	actedIn	I_Love_Hong_Kong_2012
+Stanley_Fung	actedIn	I_Love_Hong_Kong_2012
+Stanley_Fung	actedIn	They_Came_to_Rob_Hong_Kong
+Stanley_Fung	actedIn	They_Came_to_Rob_Hong_Kong
+Eric_Tsang	actedIn	They_Came_to_Rob_Hong_Kong
+Eric_Tsang	actedIn	They_Came_to_Rob_Hong_Kong
+
+http://dbpedia.org/resource/A_Hero_Never_Dies	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+A_Hero_Never_Dies	Wai_Ka-fai
+Sean_Lau	actedIn	A_Hero_Never_Dies
+Sean_Lau	actedIn	A_Hero_Never_Dies
+Sean_Lau	actedIn	Himalaya_Singh
+Sean_Lau	actedIn	Himalaya_Singh
+Wai_Ka-fai	directed	Himalaya_Singh
+Wai_Ka-fai	directed	Himalaya_Singh
+
+http://dbpedia.org/resource/A_Hero_Never_Dies	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+A_Hero_Never_Dies	Wai_Ka-fai
+Szeto_Kam-Yuen	created	A_Hero_Never_Dies
+Szeto_Kam-Yuen	created	A_Hero_Never_Dies
+Szeto_Kam-Yuen	created	Too_Many_Ways_to_Be_No._1
+Szeto_Kam-Yuen	created	Too_Many_Ways_to_Be_No._1
+Wai_Ka-fai	directed	Too_Many_Ways_to_Be_No._1
+Wai_Ka-fai	created	Too_Many_Ways_to_Be_No._1
+Wai_Ka-fai	directed	Too_Many_Ways_to_Be_No._1
+Wai_Ka-fai	created	Too_Many_Ways_to_Be_No._1
+
+http://dbpedia.org/resource/A_Hero_Never_Dies	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+A_Hero_Never_Dies	Wai_Ka-fai
+Yau_Nai-hoi	created	A_Hero_Never_Dies
+Yau_Nai-hoi	created	A_Hero_Never_Dies
+Yau_Nai-hoi	created	Love_on_a_Diet
+Yau_Nai-hoi	created	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+
+http://dbpedia.org/resource/A_Hero_Never_Dies	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+A_Hero_Never_Dies	Wai_Ka-fai
+Yau_Nai-hoi	created	A_Hero_Never_Dies
+Yau_Nai-hoi	created	A_Hero_Never_Dies
+Yau_Nai-hoi	created	Fat_Choi_Spirit
+Yau_Nai-hoi	created	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+
+http://dbpedia.org/resource/A_Hero_Never_Dies	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+A_Hero_Never_Dies	Wai_Ka-fai
+Johnnie_To	directed	A_Hero_Never_Dies
+Johnnie_To	directed	A_Hero_Never_Dies
+Johnnie_To	directed	Running_on_Karma
+Johnnie_To	directed	Running_on_Karma
+Wai_Ka-fai	directed	Running_on_Karma
+Wai_Ka-fai	directed	Running_on_Karma
+
+http://dbpedia.org/resource/A_Hero_Never_Dies	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+A_Hero_Never_Dies	Wai_Ka-fai
+Johnnie_To	directed	A_Hero_Never_Dies
+Johnnie_To	directed	A_Hero_Never_Dies
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Romancing_in_Thin_Air
+Wai_Ka-fai	created	Romancing_in_Thin_Air
+Wai_Ka-fai	created	Romancing_in_Thin_Air
+
+http://dbpedia.org/resource/A_Hero_Never_Dies	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+A_Hero_Never_Dies	Wai_Ka-fai
+Johnnie_To	directed	A_Hero_Never_Dies
+Johnnie_To	directed	A_Hero_Never_Dies
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+
+http://dbpedia.org/resource/A_Hero_Never_Dies	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+A_Hero_Never_Dies	Wai_Ka-fai
+Johnnie_To	directed	A_Hero_Never_Dies
+Johnnie_To	directed	A_Hero_Never_Dies
+Johnnie_To	directed	My_Left_Eye_Sees_Ghosts
+Johnnie_To	directed	My_Left_Eye_Sees_Ghosts
+Wai_Ka-fai	directed	My_Left_Eye_Sees_Ghosts
+Wai_Ka-fai	directed	My_Left_Eye_Sees_Ghosts
+
+http://dbpedia.org/resource/A_Hero_Never_Dies	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+A_Hero_Never_Dies	Wai_Ka-fai
+Johnnie_To	directed	A_Hero_Never_Dies
+Johnnie_To	directed	A_Hero_Never_Dies
+Johnnie_To	directed	Wu_yen
+Johnnie_To	directed	Wu_yen
+Wai_Ka-fai	created	Wu_yen
+Wai_Ka-fai	directed	Wu_yen
+Wai_Ka-fai	created	Wu_yen
+Wai_Ka-fai	directed	Wu_yen
+
+http://dbpedia.org/resource/A_Hero_Never_Dies	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+A_Hero_Never_Dies	Wai_Ka-fai
+Johnnie_To	directed	A_Hero_Never_Dies
+Johnnie_To	directed	A_Hero_Never_Dies
+Johnnie_To	directed	Don't_Go_Breaking_My_Heart_(film)
+Johnnie_To	directed	Don't_Go_Breaking_My_Heart_(film)
+Wai_Ka-fai	directed	Don't_Go_Breaking_My_Heart_(film)
+Wai_Ka-fai	directed	Don't_Go_Breaking_My_Heart_(film)
+
+http://dbpedia.org/resource/A_Hero_Never_Dies	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+A_Hero_Never_Dies	Wai_Ka-fai
+Johnnie_To	directed	A_Hero_Never_Dies
+Johnnie_To	directed	A_Hero_Never_Dies
+Johnnie_To	directed	Fulltime_Killer
+Johnnie_To	directed	Fulltime_Killer
+Wai_Ka-fai	directed	Fulltime_Killer
+Wai_Ka-fai	directed	Fulltime_Killer
+
+http://dbpedia.org/resource/A_Hero_Never_Dies	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+A_Hero_Never_Dies	Wai_Ka-fai
+Johnnie_To	directed	A_Hero_Never_Dies
+Johnnie_To	directed	A_Hero_Never_Dies
+Johnnie_To	directed	Fat_Choi_Spirit
+Johnnie_To	directed	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+
+http://dbpedia.org/resource/A_Hero_Never_Dies	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+A_Hero_Never_Dies	Wai_Ka-fai
+Johnnie_To	directed	A_Hero_Never_Dies
+Johnnie_To	directed	A_Hero_Never_Dies
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Wai_Ka-fai	directed	Turn_Left,_Turn_Right
+Wai_Ka-fai	directed	Turn_Left,_Turn_Right
+
+http://dbpedia.org/resource/A_Hero_Never_Dies	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+A_Hero_Never_Dies	Wai_Ka-fai
+Johnnie_To	directed	A_Hero_Never_Dies
+Johnnie_To	directed	A_Hero_Never_Dies
+Johnnie_To	directed	Mad_Detective
+Johnnie_To	directed	Mad_Detective
+Wai_Ka-fai	directed	Mad_Detective
+Wai_Ka-fai	directed	Mad_Detective
+
+http://dbpedia.org/resource/Love_@_First_Note	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Dennis_Law_(film_director)
+Love_@_First_Note	Dennis_Law_(film_director)
+Alex_Fong_(singer)	actedIn	Love_@_First_Note
+Alex_Fong_(singer)	actedIn	Love_@_First_Note
+Alex_Fong_(singer)	actedIn	Love_@_First_Note
+Alex_Fong_(singer)	actedIn	Love_@_First_Note
+Dennis_Law_(film_director)	directed	Love_@_First_Note
+Dennis_Law_(film_director)	directed	Love_@_First_Note
+
+http://dbpedia.org/resource/Love_@_First_Note	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Dennis_Law_(film_director)
+Love_@_First_Note	Dennis_Law_(film_director)
+Mark_Lui	wroteMusicFor	Love_@_First_Note
+Mark_Lui	wroteMusicFor	Love_@_First_Note
+Mark_Lui	wroteMusicFor	Love_@_First_Note
+Mark_Lui	wroteMusicFor	Love_@_First_Note
+Dennis_Law_(film_director)	directed	Love_@_First_Note
+Dennis_Law_(film_director)	directed	Love_@_First_Note
+
+http://dbpedia.org/resource/Love_@_First_Note	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Dennis_Law_(film_director)
+Love_@_First_Note	Dennis_Law_(film_director)
+Dennis_Law_(film_director)	directed	Love_@_First_Note
+Dennis_Law_(film_director)	directed	Love_@_First_Note
+
+http://dbpedia.org/resource/Mr._Vampire_IV	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Mr._Vampire_IV	Sammo_Hung
+Anthony_Chan_(actor)	actedIn	Mr._Vampire_IV
+Anthony_Chan_(actor)	actedIn	Mr._Vampire_IV
+Anthony_Chan_(actor)	actedIn	Lucky_Stars_Go_Places
+Anthony_Chan_(actor)	actedIn	Lucky_Stars_Go_Places
+Sammo_Hung	actedIn	Lucky_Stars_Go_Places
+Sammo_Hung	actedIn	Lucky_Stars_Go_Places
+
+http://dbpedia.org/resource/Mr._Vampire_IV	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Mr._Vampire_IV	Sammo_Hung
+Anthony_Chan_(actor)	actedIn	Mr._Vampire_IV
+Anthony_Chan_(actor)	actedIn	Mr._Vampire_IV
+Anthony_Chan_(actor)	created	Lucky_Stars
+Anthony_Chan_(actor)	actedIn	Lucky_Stars
+Anthony_Chan_(actor)	created	Lucky_Stars
+Anthony_Chan_(actor)	actedIn	Lucky_Stars
+Sammo_Hung	directed	Lucky_Stars
+Sammo_Hung	created	Lucky_Stars
+Sammo_Hung	actedIn	Lucky_Stars
+Sammo_Hung	directed	Lucky_Stars
+Sammo_Hung	created	Lucky_Stars
+Sammo_Hung	actedIn	Lucky_Stars
+
+http://dbpedia.org/resource/Men_Suddenly_in_Black	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Men_Suddenly_in_Black	Eric_Tsang
+Pang_Ho-cheung	directed	Men_Suddenly_in_Black
+Pang_Ho-cheung	created	Men_Suddenly_in_Black
+Pang_Ho-cheung	directed	Men_Suddenly_in_Black
+Pang_Ho-cheung	created	Men_Suddenly_in_Black
+Pang_Ho-cheung	directed	Aberdeen_(2014_film)
+Pang_Ho-cheung	directed	Aberdeen_(2014_film)
+Eric_Tsang	actedIn	Aberdeen_(2014_film)
+Eric_Tsang	actedIn	Aberdeen_(2014_film)
+
+http://dbpedia.org/resource/Days_of_Tomorrow	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Andy_Lau
+Days_of_Tomorrow	Andy_Lau
+Lowell_Lo	wroteMusicFor	Days_of_Tomorrow
+Lowell_Lo	wroteMusicFor	Days_of_Tomorrow
+Lowell_Lo	wroteMusicFor	No_Risk,_No_Gain
+Lowell_Lo	wroteMusicFor	No_Risk,_No_Gain
+Andy_Lau	actedIn	No_Risk,_No_Gain
+Andy_Lau	actedIn	No_Risk,_No_Gain
+
+http://dbpedia.org/resource/Days_of_Tomorrow	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Andy_Lau
+Days_of_Tomorrow	Andy_Lau
+Lowell_Lo	wroteMusicFor	Days_of_Tomorrow
+Lowell_Lo	wroteMusicFor	Days_of_Tomorrow
+Lowell_Lo	wroteMusicFor	Kung_Fu_VS_Acrobatic
+Lowell_Lo	wroteMusicFor	Kung_Fu_VS_Acrobatic
+Andy_Lau	actedIn	Kung_Fu_VS_Acrobatic
+Andy_Lau	actedIn	Kung_Fu_VS_Acrobatic
+
+http://dbpedia.org/resource/Days_of_Tomorrow	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Andy_Lau
+Days_of_Tomorrow	Andy_Lau
+Lowell_Lo	wroteMusicFor	Days_of_Tomorrow
+Lowell_Lo	wroteMusicFor	Days_of_Tomorrow
+Lowell_Lo	wroteMusicFor	Crocodile_Hunter_(film)
+Lowell_Lo	wroteMusicFor	Crocodile_Hunter_(film)
+Andy_Lau	actedIn	Crocodile_Hunter_(film)
+Andy_Lau	actedIn	Crocodile_Hunter_(film)
+
+http://dbpedia.org/resource/Days_of_Tomorrow	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Andy_Lau
+Days_of_Tomorrow	Andy_Lau
+Lowell_Lo	wroteMusicFor	Days_of_Tomorrow
+Lowell_Lo	wroteMusicFor	Days_of_Tomorrow
+Lowell_Lo	wroteMusicFor	The_Banquet_(1991_film)
+Lowell_Lo	wroteMusicFor	The_Banquet_(1991_film)
+Andy_Lau	actedIn	The_Banquet_(1991_film)
+Andy_Lau	actedIn	The_Banquet_(1991_film)
+
+http://dbpedia.org/resource/On_the_Run_(1988_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+On_the_Run_(1988_film)	Sammo_Hung
+Alfred_Cheung	created	On_the_Run_(1988_film)
+Alfred_Cheung	directed	On_the_Run_(1988_film)
+Alfred_Cheung	created	On_the_Run_(1988_film)
+Alfred_Cheung	directed	On_the_Run_(1988_film)
+Alfred_Cheung	created	Paper_Marriage
+Alfred_Cheung	directed	Paper_Marriage
+Alfred_Cheung	created	Paper_Marriage
+Alfred_Cheung	directed	Paper_Marriage
+Sammo_Hung	actedIn	Paper_Marriage
+Sammo_Hung	actedIn	Paper_Marriage
+
+http://dbpedia.org/resource/On_the_Run_(1988_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+On_the_Run_(1988_film)	Sammo_Hung
+Alfred_Cheung	created	On_the_Run_(1988_film)
+Alfred_Cheung	directed	On_the_Run_(1988_film)
+Alfred_Cheung	created	On_the_Run_(1988_film)
+Alfred_Cheung	directed	On_the_Run_(1988_film)
+Alfred_Cheung	directed	The_Banquet_(1991_film)
+Alfred_Cheung	directed	The_Banquet_(1991_film)
+Sammo_Hung	actedIn	The_Banquet_(1991_film)
+Sammo_Hung	actedIn	The_Banquet_(1991_film)
+
+http://dbpedia.org/resource/On_the_Run_(1988_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+On_the_Run_(1988_film)	Sammo_Hung
+Yuen_Biao	actedIn	On_the_Run_(1988_film)
+Yuen_Biao	actedIn	On_the_Run_(1988_film)
+Yuen_Biao	actedIn	My_Lucky_Stars
+Yuen_Biao	actedIn	My_Lucky_Stars
+Sammo_Hung	directed	My_Lucky_Stars
+Sammo_Hung	directed	My_Lucky_Stars
+
+http://dbpedia.org/resource/The_Owl_vs_Bombo	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+The_Owl_vs_Bombo	Sammo_Hung
+Sammo_Hung	actedIn	The_Owl_vs_Bombo
+Sammo_Hung	directed	The_Owl_vs_Bombo
+Sammo_Hung	actedIn	The_Owl_vs_Bombo
+Sammo_Hung	directed	The_Owl_vs_Bombo
+
+http://dbpedia.org/resource/The_Owl_vs_Bombo	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+The_Owl_vs_Bombo	Sammo_Hung
+George_Lam	actedIn	The_Owl_vs_Bombo
+George_Lam	actedIn	The_Owl_vs_Bombo
+George_Lam	actedIn	The_Owl_vs_Bombo
+George_Lam	actedIn	The_Owl_vs_Bombo
+Sammo_Hung	actedIn	The_Owl_vs_Bombo
+Sammo_Hung	directed	The_Owl_vs_Bombo
+Sammo_Hung	actedIn	The_Owl_vs_Bombo
+Sammo_Hung	directed	The_Owl_vs_Bombo
+
+http://dbpedia.org/resource/Eastern_Condors	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wu_Ma
+Eastern_Condors	Wu_Ma
+Sammo_Hung	directed	Eastern_Condors
+Sammo_Hung	directed	Eastern_Condors
+Sammo_Hung	actedIn	Painted_Faces
+Sammo_Hung	actedIn	Painted_Faces
+Wu_Ma	actedIn	Painted_Faces
+Wu_Ma	actedIn	Painted_Faces
+
+http://dbpedia.org/resource/Eastern_Condors	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wu_Ma
+Eastern_Condors	Wu_Ma
+Yuen_Wah	actedIn	Eastern_Condors
+Yuen_Wah	actedIn	Eastern_Condors
+Yuen_Wah	actedIn	The_Magnificent_Scoundrels
+Yuen_Wah	actedIn	The_Magnificent_Scoundrels
+Wu_Ma	actedIn	The_Magnificent_Scoundrels
+Wu_Ma	actedIn	The_Magnificent_Scoundrels
+
+http://dbpedia.org/resource/Eastern_Condors	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wu_Ma
+Eastern_Condors	Wu_Ma
+Yuen_Wah	actedIn	Eastern_Condors
+Yuen_Wah	actedIn	Eastern_Condors
+Yuen_Wah	actedIn	A_Kid_from_Tibet
+Yuen_Wah	actedIn	A_Kid_from_Tibet
+Wu_Ma	actedIn	A_Kid_from_Tibet
+Wu_Ma	actedIn	A_Kid_from_Tibet
+
+http://dbpedia.org/resource/Eastern_Condors	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wu_Ma
+Eastern_Condors	Wu_Ma
+Barry_Wong	created	Eastern_Condors
+Barry_Wong	created	Eastern_Condors
+Barry_Wong	created	A_Kid_from_Tibet
+Barry_Wong	created	A_Kid_from_Tibet
+Wu_Ma	actedIn	A_Kid_from_Tibet
+Wu_Ma	actedIn	A_Kid_from_Tibet
+
+http://dbpedia.org/resource/Nishwartha_Bhalobasa	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Ananta_Jalil
+Nishwartha_Bhalobasa	Ananta_Jalil
+Ananta_Jalil	actedIn	Nishwartha_Bhalobasa
+Ananta_Jalil	created	Nishwartha_Bhalobasa
+Ananta_Jalil	directed	Nishwartha_Bhalobasa
+Ananta_Jalil	actedIn	Nishwartha_Bhalobasa
+Ananta_Jalil	created	Nishwartha_Bhalobasa
+Ananta_Jalil	directed	Nishwartha_Bhalobasa
+
+http://dbpedia.org/resource/Nishwartha_Bhalobasa	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Ananta_Jalil
+Nishwartha_Bhalobasa	Ananta_Jalil
+Sucharita	actedIn	Nishwartha_Bhalobasa
+Sucharita	actedIn	Nishwartha_Bhalobasa
+Sucharita	actedIn	Nishwartha_Bhalobasa
+Sucharita	actedIn	Nishwartha_Bhalobasa
+Ananta_Jalil	actedIn	Nishwartha_Bhalobasa
+Ananta_Jalil	created	Nishwartha_Bhalobasa
+Ananta_Jalil	directed	Nishwartha_Bhalobasa
+Ananta_Jalil	actedIn	Nishwartha_Bhalobasa
+Ananta_Jalil	created	Nishwartha_Bhalobasa
+Ananta_Jalil	directed	Nishwartha_Bhalobasa
+
+http://dbpedia.org/resource/Nishwartha_Bhalobasa	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Ananta_Jalil
+Nishwartha_Bhalobasa	Ananta_Jalil
+Afiea_Nusrat_Barsha	actedIn	Nishwartha_Bhalobasa
+Afiea_Nusrat_Barsha	actedIn	Nishwartha_Bhalobasa
+Ananta_Jalil	isMarriedTo	Afiea_Nusrat_Barsha
+Afiea_Nusrat_Barsha	isMarriedTo	Ananta_Jalil
+Ananta_Jalil	isMarriedTo	Afiea_Nusrat_Barsha
+Afiea_Nusrat_Barsha	isMarriedTo	Ananta_Jalil
+
+http://dbpedia.org/resource/Nishwartha_Bhalobasa	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Ananta_Jalil
+Nishwartha_Bhalobasa	Ananta_Jalil
+Afiea_Nusrat_Barsha	actedIn	Nishwartha_Bhalobasa
+Afiea_Nusrat_Barsha	actedIn	Nishwartha_Bhalobasa
+Afiea_Nusrat_Barsha	actedIn	Most_Welcome
+Afiea_Nusrat_Barsha	actedIn	Most_Welcome
+Ananta_Jalil	actedIn	Most_Welcome
+Ananta_Jalil	actedIn	Most_Welcome
+
+http://dbpedia.org/resource/Nishwartha_Bhalobasa	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Ananta_Jalil
+Nishwartha_Bhalobasa	Ananta_Jalil
+Afiea_Nusrat_Barsha	actedIn	Nishwartha_Bhalobasa
+Afiea_Nusrat_Barsha	actedIn	Nishwartha_Bhalobasa
+Afiea_Nusrat_Barsha	actedIn	Nishwartha_Bhalobasa
+Afiea_Nusrat_Barsha	actedIn	Nishwartha_Bhalobasa
+Ananta_Jalil	actedIn	Nishwartha_Bhalobasa
+Ananta_Jalil	created	Nishwartha_Bhalobasa
+Ananta_Jalil	directed	Nishwartha_Bhalobasa
+Ananta_Jalil	actedIn	Nishwartha_Bhalobasa
+Ananta_Jalil	created	Nishwartha_Bhalobasa
+Ananta_Jalil	directed	Nishwartha_Bhalobasa
+
+http://dbpedia.org/resource/Echoes_of_the_Rainbow	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Mabel_Cheung
+Echoes_of_the_Rainbow	Mabel_Cheung
+Alex_Law	directed	Echoes_of_the_Rainbow
+Alex_Law	directed	Echoes_of_the_Rainbow
+Alex_Law	created	Now_You_See_Love,_Now_You_Don't
+Alex_Law	directed	Now_You_See_Love,_Now_You_Don't
+Alex_Law	created	Now_You_See_Love,_Now_You_Don't
+Alex_Law	directed	Now_You_See_Love,_Now_You_Don't
+Mabel_Cheung	directed	Now_You_See_Love,_Now_You_Don't
+Mabel_Cheung	created	Now_You_See_Love,_Now_You_Don't
+Mabel_Cheung	directed	Now_You_See_Love,_Now_You_Don't
+Mabel_Cheung	created	Now_You_See_Love,_Now_You_Don't
+
+http://dbpedia.org/resource/Echoes_of_the_Rainbow	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Mabel_Cheung
+Echoes_of_the_Rainbow	Mabel_Cheung
+Alex_Law	directed	Echoes_of_the_Rainbow
+Alex_Law	directed	Echoes_of_the_Rainbow
+Alex_Law	graduatedFrom	University_of_Hong_Kong
+Alex_Law	graduatedFrom	University_of_Hong_Kong
+Mabel_Cheung	graduatedFrom	University_of_Hong_Kong
+Mabel_Cheung	graduatedFrom	University_of_Hong_Kong
+
+http://dbpedia.org/resource/Echoes_of_the_Rainbow	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Mabel_Cheung
+Echoes_of_the_Rainbow	Mabel_Cheung
+Alex_Law	directed	Echoes_of_the_Rainbow
+Alex_Law	directed	Echoes_of_the_Rainbow
+Alex_Law	created	City_of_Glass_(film)
+Alex_Law	created	City_of_Glass_(film)
+Mabel_Cheung	directed	City_of_Glass_(film)
+Mabel_Cheung	created	City_of_Glass_(film)
+Mabel_Cheung	directed	City_of_Glass_(film)
+Mabel_Cheung	created	City_of_Glass_(film)
+
+http://dbpedia.org/resource/Oh_Shucks!_Here_Comes_UNTAG	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Leon_Schuster
+Oh_Shucks!_Here_Comes_UNTAG	Leon_Schuster
+Leon_Schuster	created	Oh_Shucks!_Here_Comes_UNTAG
+Leon_Schuster	actedIn	Oh_Shucks!_Here_Comes_UNTAG
+Leon_Schuster	created	Oh_Shucks!_Here_Comes_UNTAG
+Leon_Schuster	actedIn	Oh_Shucks!_Here_Comes_UNTAG
+
+http://dbpedia.org/resource/Oh_Shucks!_Here_Comes_UNTAG	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Leon_Schuster
+Oh_Shucks!_Here_Comes_UNTAG	Leon_Schuster
+Alfred_Ntombela	actedIn	Oh_Shucks!_Here_Comes_UNTAG
+Alfred_Ntombela	actedIn	Oh_Shucks!_Here_Comes_UNTAG
+Alfred_Ntombela	actedIn	Mama_Jack
+Alfred_Ntombela	actedIn	Mama_Jack
+Leon_Schuster	created	Mama_Jack
+Leon_Schuster	actedIn	Mama_Jack
+Leon_Schuster	created	Mama_Jack
+Leon_Schuster	actedIn	Mama_Jack
+
+http://dbpedia.org/resource/Oh_Shucks!_Here_Comes_UNTAG	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Leon_Schuster
+Oh_Shucks!_Here_Comes_UNTAG	Leon_Schuster
+Alfred_Ntombela	actedIn	Oh_Shucks!_Here_Comes_UNTAG
+Alfred_Ntombela	actedIn	Oh_Shucks!_Here_Comes_UNTAG
+Alfred_Ntombela	actedIn	Oh_Shucks!_Here_Comes_UNTAG
+Alfred_Ntombela	actedIn	Oh_Shucks!_Here_Comes_UNTAG
+Leon_Schuster	created	Oh_Shucks!_Here_Comes_UNTAG
+Leon_Schuster	actedIn	Oh_Shucks!_Here_Comes_UNTAG
+Leon_Schuster	created	Oh_Shucks!_Here_Comes_UNTAG
+Leon_Schuster	actedIn	Oh_Shucks!_Here_Comes_UNTAG
+
+http://dbpedia.org/resource/Oh_Shucks!_Here_Comes_UNTAG	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Leon_Schuster
+Oh_Shucks!_Here_Comes_UNTAG	Leon_Schuster
+Alfred_Ntombela	actedIn	Oh_Shucks!_Here_Comes_UNTAG
+Alfred_Ntombela	actedIn	Oh_Shucks!_Here_Comes_UNTAG
+Alfred_Ntombela	actedIn	Sweet_'n_Short
+Alfred_Ntombela	actedIn	Sweet_'n_Short
+Leon_Schuster	created	Sweet_'n_Short
+Leon_Schuster	created	Sweet_'n_Short
+
+http://dbpedia.org/resource/Oh_Shucks!_Here_Comes_UNTAG	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Leon_Schuster
+Oh_Shucks!_Here_Comes_UNTAG	Leon_Schuster
+Bill_Flynn	actedIn	Oh_Shucks!_Here_Comes_UNTAG
+Bill_Flynn	actedIn	Oh_Shucks!_Here_Comes_UNTAG
+Bill_Flynn	actedIn	Oh_Shucks!_Here_Comes_UNTAG
+Bill_Flynn	actedIn	Oh_Shucks!_Here_Comes_UNTAG
+Leon_Schuster	created	Oh_Shucks!_Here_Comes_UNTAG
+Leon_Schuster	actedIn	Oh_Shucks!_Here_Comes_UNTAG
+Leon_Schuster	created	Oh_Shucks!_Here_Comes_UNTAG
+Leon_Schuster	actedIn	Oh_Shucks!_Here_Comes_UNTAG
+
+http://dbpedia.org/resource/Oh_Shucks!_Here_Comes_UNTAG	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Leon_Schuster
+Oh_Shucks!_Here_Comes_UNTAG	Leon_Schuster
+Oh_Shucks!_Here_Comes_UNTAG	isLocatedIn	South_Africa
+Oh_Shucks!_Here_Comes_UNTAG	isLocatedIn	South_Africa
+Mama_Jack	isLocatedIn	South_Africa
+Mama_Jack	isLocatedIn	South_Africa
+Leon_Schuster	created	Mama_Jack
+Leon_Schuster	actedIn	Mama_Jack
+Leon_Schuster	created	Mama_Jack
+Leon_Schuster	actedIn	Mama_Jack
+
+http://dbpedia.org/resource/Oh_Shucks!_Here_Comes_UNTAG	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Leon_Schuster
+Oh_Shucks!_Here_Comes_UNTAG	Leon_Schuster
+Oh_Shucks!_Here_Comes_UNTAG	isLocatedIn	South_Africa
+Oh_Shucks!_Here_Comes_UNTAG	isLocatedIn	South_Africa
+Sweet_'n_Short	isLocatedIn	South_Africa
+Sweet_'n_Short	isLocatedIn	South_Africa
+Leon_Schuster	created	Sweet_'n_Short
+Leon_Schuster	created	Sweet_'n_Short
+
+http://dbpedia.org/resource/Those_Merry_Souls	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Those_Merry_Souls	Sammo_Hung
+Lam_Ching-ying	actedIn	Those_Merry_Souls
+Lam_Ching-ying	actedIn	Those_Merry_Souls
+Lam_Ching-ying	actedIn	Encounters_of_the_Spooky_Kind
+Lam_Ching-ying	actedIn	Encounters_of_the_Spooky_Kind
+Sammo_Hung	created	Encounters_of_the_Spooky_Kind
+Sammo_Hung	directed	Encounters_of_the_Spooky_Kind
+Sammo_Hung	created	Encounters_of_the_Spooky_Kind
+Sammo_Hung	directed	Encounters_of_the_Spooky_Kind
+
+http://dbpedia.org/resource/Those_Merry_Souls	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Those_Merry_Souls	Sammo_Hung
+Lau_Kar-wing	directed	Those_Merry_Souls
+Lau_Kar-wing	directed	Those_Merry_Souls
+Lau_Kar-wing	actedIn	Odd_Couple_(film)
+Lau_Kar-wing	directed	Odd_Couple_(film)
+Lau_Kar-wing	actedIn	Odd_Couple_(film)
+Lau_Kar-wing	directed	Odd_Couple_(film)
+Sammo_Hung	actedIn	Odd_Couple_(film)
+Sammo_Hung	actedIn	Odd_Couple_(film)
+
+http://dbpedia.org/resource/Those_Merry_Souls	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Those_Merry_Souls	Sammo_Hung
+Lau_Kar-wing	directed	Those_Merry_Souls
+Lau_Kar-wing	directed	Those_Merry_Souls
+Lau_Kar-wing	actedIn	Dirty_Tiger,_Crazy_Frog
+Lau_Kar-wing	actedIn	Dirty_Tiger,_Crazy_Frog
+Sammo_Hung	actedIn	Dirty_Tiger,_Crazy_Frog
+Sammo_Hung	actedIn	Dirty_Tiger,_Crazy_Frog
+
+http://dbpedia.org/resource/Those_Merry_Souls	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Those_Merry_Souls	Sammo_Hung
+Stanley_Fung	actedIn	Those_Merry_Souls
+Stanley_Fung	actedIn	Those_Merry_Souls
+Stanley_Fung	directed	Lucky_Stars
+Stanley_Fung	actedIn	Lucky_Stars
+Stanley_Fung	directed	Lucky_Stars
+Stanley_Fung	actedIn	Lucky_Stars
+Sammo_Hung	directed	Lucky_Stars
+Sammo_Hung	created	Lucky_Stars
+Sammo_Hung	actedIn	Lucky_Stars
+Sammo_Hung	directed	Lucky_Stars
+Sammo_Hung	created	Lucky_Stars
+Sammo_Hung	actedIn	Lucky_Stars
+
+http://dbpedia.org/resource/Those_Merry_Souls	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Those_Merry_Souls	Sammo_Hung
+Eric_Tsang	actedIn	Those_Merry_Souls
+Eric_Tsang	actedIn	Those_Merry_Souls
+Eric_Tsang	actedIn	Ghost_Punting
+Eric_Tsang	directed	Ghost_Punting
+Eric_Tsang	actedIn	Ghost_Punting
+Eric_Tsang	directed	Ghost_Punting
+Sammo_Hung	directed	Ghost_Punting
+Sammo_Hung	actedIn	Ghost_Punting
+Sammo_Hung	directed	Ghost_Punting
+Sammo_Hung	actedIn	Ghost_Punting
+
+http://dbpedia.org/resource/Those_Merry_Souls	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Those_Merry_Souls	Sammo_Hung
+Eric_Tsang	actedIn	Those_Merry_Souls
+Eric_Tsang	actedIn	Those_Merry_Souls
+Eric_Tsang	actedIn	The_Banquet_(1991_film)
+Eric_Tsang	actedIn	The_Banquet_(1991_film)
+Sammo_Hung	actedIn	The_Banquet_(1991_film)
+Sammo_Hung	actedIn	The_Banquet_(1991_film)
+
+http://dbpedia.org/resource/Those_Merry_Souls	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Those_Merry_Souls	Sammo_Hung
+Eric_Tsang	actedIn	Those_Merry_Souls
+Eric_Tsang	actedIn	Those_Merry_Souls
+Eric_Tsang	actedIn	My_Lucky_Stars
+Eric_Tsang	actedIn	My_Lucky_Stars
+Sammo_Hung	directed	My_Lucky_Stars
+Sammo_Hung	directed	My_Lucky_Stars
+
+http://dbpedia.org/resource/Those_Merry_Souls	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Those_Merry_Souls	Sammo_Hung
+Eric_Tsang	actedIn	Those_Merry_Souls
+Eric_Tsang	actedIn	Those_Merry_Souls
+Eric_Tsang	wasBornIn	British_Hong_Kong
+Eric_Tsang	wasBornIn	British_Hong_Kong
+Sammo_Hung	wasBornIn	British_Hong_Kong
+Sammo_Hung	wasBornIn	British_Hong_Kong
+
+http://dbpedia.org/resource/Those_Merry_Souls	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Those_Merry_Souls	Sammo_Hung
+Yuen_Biao	actedIn	Those_Merry_Souls
+Yuen_Biao	actedIn	Those_Merry_Souls
+Yuen_Biao	actedIn	My_Lucky_Stars
+Yuen_Biao	actedIn	My_Lucky_Stars
+Sammo_Hung	directed	My_Lucky_Stars
+Sammo_Hung	directed	My_Lucky_Stars
+
+http://dbpedia.org/resource/Game_of_Death	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Bruce_Lee
+Game_of_Death	Bruce_Lee
+Bruce_Lee	created	Game_of_Death
+Bruce_Lee	actedIn	Game_of_Death
+Bruce_Lee	directed	Game_of_Death
+Bruce_Lee	created	Game_of_Death
+Bruce_Lee	actedIn	Game_of_Death
+Bruce_Lee	directed	Game_of_Death
+
+http://dbpedia.org/resource/Game_of_Death	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Bruce_Lee
+Game_of_Death	Bruce_Lee
+John_Barry_(composer)	wroteMusicFor	Game_of_Death
+John_Barry_(composer)	wroteMusicFor	Game_of_Death
+John_Barry_(composer)	wroteMusicFor	Game_of_Death
+John_Barry_(composer)	wroteMusicFor	Game_of_Death
+Bruce_Lee	created	Game_of_Death
+Bruce_Lee	actedIn	Game_of_Death
+Bruce_Lee	directed	Game_of_Death
+Bruce_Lee	created	Game_of_Death
+Bruce_Lee	actedIn	Game_of_Death
+Bruce_Lee	directed	Game_of_Death
+
+http://dbpedia.org/resource/Somebody_Up_There_Likes_Me_(1996_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/John_Woo
+Somebody_Up_There_Likes_Me_(1996_film)	John_Woo
+Sammo_Hung	actedIn	Somebody_Up_There_Likes_Me_(1996_film)
+Sammo_Hung	actedIn	Somebody_Up_There_Likes_Me_(1996_film)
+Sammo_Hung	actedIn	Hand_of_Death
+Sammo_Hung	actedIn	Hand_of_Death
+John_Woo	created	Hand_of_Death
+John_Woo	directed	Hand_of_Death
+John_Woo	created	Hand_of_Death
+John_Woo	directed	Hand_of_Death
+
+http://dbpedia.org/resource/Zodiac_Killers	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Zodiac_Killers	Eric_Tsang
+Cherie_Chung	actedIn	Zodiac_Killers
+Cherie_Chung	actedIn	Zodiac_Killers
+Cherie_Chung	wasBornIn	British_Hong_Kong
+Cherie_Chung	wasBornIn	British_Hong_Kong
+Eric_Tsang	wasBornIn	British_Hong_Kong
+Eric_Tsang	wasBornIn	British_Hong_Kong
+
+http://dbpedia.org/resource/Zodiac_Killers	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Zodiac_Killers	Eric_Tsang
+Andy_Lau	actedIn	Zodiac_Killers
+Andy_Lau	actedIn	Zodiac_Killers
+Andy_Lau	actedIn	Golden_Chicken
+Andy_Lau	actedIn	Golden_Chicken
+Eric_Tsang	actedIn	Golden_Chicken
+Eric_Tsang	actedIn	Golden_Chicken
+
+http://dbpedia.org/resource/Zodiac_Killers	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Zodiac_Killers	Eric_Tsang
+Andy_Lau	actedIn	Zodiac_Killers
+Andy_Lau	actedIn	Zodiac_Killers
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+Eric_Tsang	actedIn	Infernal_Affairs
+Eric_Tsang	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Zodiac_Killers	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Zodiac_Killers	Eric_Tsang
+Andy_Lau	actedIn	Zodiac_Killers
+Andy_Lau	actedIn	Zodiac_Killers
+Andy_Lau	actedIn	News_Attack
+Andy_Lau	actedIn	News_Attack
+Eric_Tsang	actedIn	News_Attack
+Eric_Tsang	actedIn	News_Attack
+
+http://dbpedia.org/resource/Zodiac_Killers	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Zodiac_Killers	Eric_Tsang
+Andy_Lau	actedIn	Zodiac_Killers
+Andy_Lau	actedIn	Zodiac_Killers
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+Eric_Tsang	actedIn	Infernal_Affairs_III
+Eric_Tsang	actedIn	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Himalaya_Singh	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Himalaya_Singh	Wai_Ka-fai
+Au_Kin-yee	created	Himalaya_Singh
+Au_Kin-yee	created	Himalaya_Singh
+Au_Kin-yee	created	Himalaya_Singh
+Au_Kin-yee	created	Himalaya_Singh
+Wai_Ka-fai	directed	Himalaya_Singh
+Wai_Ka-fai	directed	Himalaya_Singh
+
+http://dbpedia.org/resource/Himalaya_Singh	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Himalaya_Singh	Wai_Ka-fai
+Au_Kin-yee	created	Himalaya_Singh
+Au_Kin-yee	created	Himalaya_Singh
+Au_Kin-yee	created	Mad_Detective
+Au_Kin-yee	created	Mad_Detective
+Wai_Ka-fai	directed	Mad_Detective
+Wai_Ka-fai	directed	Mad_Detective
+
+http://dbpedia.org/resource/Himalaya_Singh	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Himalaya_Singh	Wai_Ka-fai
+Au_Kin-yee	created	Himalaya_Singh
+Au_Kin-yee	created	Himalaya_Singh
+Au_Kin-yee	created	The_Shopaholics
+Au_Kin-yee	created	The_Shopaholics
+Wai_Ka-fai	created	The_Shopaholics
+Wai_Ka-fai	directed	The_Shopaholics
+Wai_Ka-fai	created	The_Shopaholics
+Wai_Ka-fai	directed	The_Shopaholics
+
+http://dbpedia.org/resource/Himalaya_Singh	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Himalaya_Singh	Wai_Ka-fai
+Au_Kin-yee	created	Himalaya_Singh
+Au_Kin-yee	created	Himalaya_Singh
+Au_Kin-yee	created	Written_By
+Au_Kin-yee	created	Written_By
+Wai_Ka-fai	directed	Written_By
+Wai_Ka-fai	directed	Written_By
+
+http://dbpedia.org/resource/Himalaya_Singh	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Himalaya_Singh	Wai_Ka-fai
+Au_Kin-yee	created	Himalaya_Singh
+Au_Kin-yee	created	Himalaya_Singh
+Au_Kin-yee	created	Running_on_Karma
+Au_Kin-yee	created	Running_on_Karma
+Wai_Ka-fai	directed	Running_on_Karma
+Wai_Ka-fai	directed	Running_on_Karma
+
+http://dbpedia.org/resource/Himalaya_Singh	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Himalaya_Singh	Wai_Ka-fai
+Au_Kin-yee	created	Himalaya_Singh
+Au_Kin-yee	created	Himalaya_Singh
+Au_Kin-yee	created	Turn_Left,_Turn_Right
+Au_Kin-yee	created	Turn_Left,_Turn_Right
+Wai_Ka-fai	directed	Turn_Left,_Turn_Right
+Wai_Ka-fai	directed	Turn_Left,_Turn_Right
+
+http://dbpedia.org/resource/Himalaya_Singh	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Himalaya_Singh	Wai_Ka-fai
+Au_Kin-yee	created	Himalaya_Singh
+Au_Kin-yee	created	Himalaya_Singh
+Au_Kin-yee	created	Fat_Choi_Spirit
+Au_Kin-yee	created	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+
+http://dbpedia.org/resource/Himalaya_Singh	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Himalaya_Singh	Wai_Ka-fai
+Au_Kin-yee	created	Himalaya_Singh
+Au_Kin-yee	created	Himalaya_Singh
+Au_Kin-yee	created	My_Left_Eye_Sees_Ghosts
+Au_Kin-yee	created	My_Left_Eye_Sees_Ghosts
+Wai_Ka-fai	directed	My_Left_Eye_Sees_Ghosts
+Wai_Ka-fai	directed	My_Left_Eye_Sees_Ghosts
+
+http://dbpedia.org/resource/Himalaya_Singh	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Himalaya_Singh	Wai_Ka-fai
+Sean_Lau	actedIn	Himalaya_Singh
+Sean_Lau	actedIn	Himalaya_Singh
+Sean_Lau	actedIn	Himalaya_Singh
+Sean_Lau	actedIn	Himalaya_Singh
+Wai_Ka-fai	directed	Himalaya_Singh
+Wai_Ka-fai	directed	Himalaya_Singh
+
+http://dbpedia.org/resource/Himalaya_Singh	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Himalaya_Singh	Wai_Ka-fai
+Wai_Ka-fai	directed	Himalaya_Singh
+Wai_Ka-fai	directed	Himalaya_Singh
+
+http://dbpedia.org/resource/Wu_yen	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Wu_yen	Wai_Ka-fai
+Wai_Ka-fai	created	Wu_yen
+Wai_Ka-fai	directed	Wu_yen
+Wai_Ka-fai	created	Wu_yen
+Wai_Ka-fai	directed	Wu_yen
+
+http://dbpedia.org/resource/Womb_Ghosts	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Dennis_Law_(film_director)
+Womb_Ghosts	Dennis_Law_(film_director)
+Dennis_Law_(film_director)	directed	Womb_Ghosts
+Dennis_Law_(film_director)	directed	Womb_Ghosts
+
+http://dbpedia.org/resource/Womb_Ghosts	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Dennis_Law_(film_director)
+Womb_Ghosts	Dennis_Law_(film_director)
+Lam_Suet	actedIn	Womb_Ghosts
+Lam_Suet	actedIn	Womb_Ghosts
+Lam_Suet	actedIn	Womb_Ghosts
+Lam_Suet	actedIn	Womb_Ghosts
+Dennis_Law_(film_director)	directed	Womb_Ghosts
+Dennis_Law_(film_director)	directed	Womb_Ghosts
+
+http://dbpedia.org/resource/Womb_Ghosts	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Dennis_Law_(film_director)
+Womb_Ghosts	Dennis_Law_(film_director)
+Lam_Suet	actedIn	Womb_Ghosts
+Lam_Suet	actedIn	Womb_Ghosts
+Lam_Suet	actedIn	The_Constable
+Lam_Suet	actedIn	The_Constable
+Dennis_Law_(film_director)	directed	The_Constable
+Dennis_Law_(film_director)	directed	The_Constable
+
+http://dbpedia.org/resource/Womb_Ghosts	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Dennis_Law_(film_director)
+Womb_Ghosts	Dennis_Law_(film_director)
+Lam_Suet	actedIn	Womb_Ghosts
+Lam_Suet	actedIn	Womb_Ghosts
+Lam_Suet	actedIn	Bad_Blood_(2010_film)
+Lam_Suet	actedIn	Bad_Blood_(2010_film)
+Dennis_Law_(film_director)	directed	Bad_Blood_(2010_film)
+Dennis_Law_(film_director)	directed	Bad_Blood_(2010_film)
+
+http://dbpedia.org/resource/Womb_Ghosts	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Dennis_Law_(film_director)
+Womb_Ghosts	Dennis_Law_(film_director)
+Lai_Lok-yi	actedIn	Womb_Ghosts
+Lai_Lok-yi	actedIn	Womb_Ghosts
+Lai_Lok-yi	actedIn	Womb_Ghosts
+Lai_Lok-yi	actedIn	Womb_Ghosts
+Dennis_Law_(film_director)	directed	Womb_Ghosts
+Dennis_Law_(film_director)	directed	Womb_Ghosts
+
+http://dbpedia.org/resource/Drunken_Master_II	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Drunken_Master_II	Eric_Tsang
+Ti_Lung	actedIn	Drunken_Master_II
+Ti_Lung	actedIn	Drunken_Master_II
+Ti_Lung	actedIn	7_Assassins
+Ti_Lung	actedIn	7_Assassins
+Eric_Tsang	actedIn	7_Assassins
+Eric_Tsang	actedIn	7_Assassins
+
+http://dbpedia.org/resource/Drunken_Master_II	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Drunken_Master_II	Eric_Tsang
+Andy_Lau	actedIn	Drunken_Master_II
+Andy_Lau	actedIn	Drunken_Master_II
+Andy_Lau	actedIn	Golden_Chicken
+Andy_Lau	actedIn	Golden_Chicken
+Eric_Tsang	actedIn	Golden_Chicken
+Eric_Tsang	actedIn	Golden_Chicken
+
+http://dbpedia.org/resource/Drunken_Master_II	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Drunken_Master_II	Eric_Tsang
+Andy_Lau	actedIn	Drunken_Master_II
+Andy_Lau	actedIn	Drunken_Master_II
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+Eric_Tsang	actedIn	Infernal_Affairs
+Eric_Tsang	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Drunken_Master_II	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Drunken_Master_II	Eric_Tsang
+Andy_Lau	actedIn	Drunken_Master_II
+Andy_Lau	actedIn	Drunken_Master_II
+Andy_Lau	actedIn	News_Attack
+Andy_Lau	actedIn	News_Attack
+Eric_Tsang	actedIn	News_Attack
+Eric_Tsang	actedIn	News_Attack
+
+http://dbpedia.org/resource/Drunken_Master_II	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Drunken_Master_II	Eric_Tsang
+Andy_Lau	actedIn	Drunken_Master_II
+Andy_Lau	actedIn	Drunken_Master_II
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+Eric_Tsang	actedIn	Infernal_Affairs_III
+Eric_Tsang	actedIn	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Drunken_Master_II	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Drunken_Master_II	Eric_Tsang
+Anita_Mui	actedIn	Drunken_Master_II
+Anita_Mui	actedIn	Drunken_Master_II
+Anita_Mui	actedIn	Scared_Stiff_(1987_film)
+Anita_Mui	actedIn	Scared_Stiff_(1987_film)
+Eric_Tsang	actedIn	Scared_Stiff_(1987_film)
+Eric_Tsang	actedIn	Scared_Stiff_(1987_film)
+
+http://dbpedia.org/resource/Drunken_Master_II	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Drunken_Master_II	Eric_Tsang
+Anita_Mui	actedIn	Drunken_Master_II
+Anita_Mui	actedIn	Drunken_Master_II
+Anita_Mui	actedIn	The_Banquet_(1991_film)
+Anita_Mui	actedIn	The_Banquet_(1991_film)
+Eric_Tsang	actedIn	The_Banquet_(1991_film)
+Eric_Tsang	actedIn	The_Banquet_(1991_film)
+
+http://dbpedia.org/resource/Kiss_the_Girls_(1965_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Giannis_Dalianidis
+Kiss_the_Girls_(1965_film)	Giannis_Dalianidis
+Kostas_Voutsas	actedIn	Kiss_the_Girls_(1965_film)
+Kostas_Voutsas	actedIn	Kiss_the_Girls_(1965_film)
+Kostas_Voutsas	actedIn	O_skliros_andras
+Kostas_Voutsas	actedIn	O_skliros_andras
+Giannis_Dalianidis	created	O_skliros_andras
+Giannis_Dalianidis	directed	O_skliros_andras
+Giannis_Dalianidis	created	O_skliros_andras
+Giannis_Dalianidis	directed	O_skliros_andras
+
+http://dbpedia.org/resource/Kiss_the_Girls_(1965_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Giannis_Dalianidis
+Kiss_the_Girls_(1965_film)	Giannis_Dalianidis
+Kostas_Voutsas	actedIn	Kiss_the_Girls_(1965_film)
+Kostas_Voutsas	actedIn	Kiss_the_Girls_(1965_film)
+Kostas_Voutsas	actedIn	Ena_Exypno_Exypno_Moutro
+Kostas_Voutsas	actedIn	Ena_Exypno_Exypno_Moutro
+Giannis_Dalianidis	created	Ena_Exypno_Exypno_Moutro
+Giannis_Dalianidis	created	Ena_Exypno_Exypno_Moutro
+
+http://dbpedia.org/resource/Kiss_the_Girls_(1965_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Giannis_Dalianidis
+Kiss_the_Girls_(1965_film)	Giannis_Dalianidis
+Kostas_Voutsas	actedIn	Kiss_the_Girls_(1965_film)
+Kostas_Voutsas	actedIn	Kiss_the_Girls_(1965_film)
+Kostas_Voutsas	actedIn	Kiss_the_Girls_(1965_film)
+Kostas_Voutsas	actedIn	Kiss_the_Girls_(1965_film)
+Giannis_Dalianidis	directed	Kiss_the_Girls_(1965_film)
+Giannis_Dalianidis	directed	Kiss_the_Girls_(1965_film)
+
+http://dbpedia.org/resource/Kiss_the_Girls_(1965_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Giannis_Dalianidis
+Kiss_the_Girls_(1965_film)	Giannis_Dalianidis
+Kostas_Voutsas	actedIn	Kiss_the_Girls_(1965_film)
+Kostas_Voutsas	actedIn	Kiss_the_Girls_(1965_film)
+Kostas_Voutsas	actedIn	Teddy_Boy_agapi_mou
+Kostas_Voutsas	actedIn	Teddy_Boy_agapi_mou
+Giannis_Dalianidis	directed	Teddy_Boy_agapi_mou
+Giannis_Dalianidis	created	Teddy_Boy_agapi_mou
+Giannis_Dalianidis	directed	Teddy_Boy_agapi_mou
+Giannis_Dalianidis	created	Teddy_Boy_agapi_mou
+
+http://dbpedia.org/resource/Kiss_the_Girls_(1965_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Giannis_Dalianidis
+Kiss_the_Girls_(1965_film)	Giannis_Dalianidis
+Kostas_Voutsas	actedIn	Kiss_the_Girls_(1965_film)
+Kostas_Voutsas	actedIn	Kiss_the_Girls_(1965_film)
+Kostas_Voutsas	actedIn	Law_4000
+Kostas_Voutsas	actedIn	Law_4000
+Giannis_Dalianidis	created	Law_4000
+Giannis_Dalianidis	directed	Law_4000
+Giannis_Dalianidis	created	Law_4000
+Giannis_Dalianidis	directed	Law_4000
+
+http://dbpedia.org/resource/Kiss_the_Girls_(1965_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Giannis_Dalianidis
+Kiss_the_Girls_(1965_film)	Giannis_Dalianidis
+Giannis_Dalianidis	directed	Kiss_the_Girls_(1965_film)
+Giannis_Dalianidis	directed	Kiss_the_Girls_(1965_film)
+
+http://dbpedia.org/resource/Kiss_the_Girls_(1965_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Giannis_Dalianidis
+Kiss_the_Girls_(1965_film)	Giannis_Dalianidis
+Martha_Karagianni	actedIn	Kiss_the_Girls_(1965_film)
+Martha_Karagianni	actedIn	Kiss_the_Girls_(1965_film)
+Martha_Karagianni	actedIn	O_skliros_andras
+Martha_Karagianni	actedIn	O_skliros_andras
+Giannis_Dalianidis	created	O_skliros_andras
+Giannis_Dalianidis	directed	O_skliros_andras
+Giannis_Dalianidis	created	O_skliros_andras
+Giannis_Dalianidis	directed	O_skliros_andras
+
+http://dbpedia.org/resource/Kiss_the_Girls_(1965_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Giannis_Dalianidis
+Kiss_the_Girls_(1965_film)	Giannis_Dalianidis
+Martha_Karagianni	actedIn	Kiss_the_Girls_(1965_film)
+Martha_Karagianni	actedIn	Kiss_the_Girls_(1965_film)
+Martha_Karagianni	actedIn	Liar_Wanted
+Martha_Karagianni	actedIn	Liar_Wanted
+Giannis_Dalianidis	directed	Liar_Wanted
+Giannis_Dalianidis	directed	Liar_Wanted
+
+http://dbpedia.org/resource/Kiss_the_Girls_(1965_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Giannis_Dalianidis
+Kiss_the_Girls_(1965_film)	Giannis_Dalianidis
+Martha_Karagianni	actedIn	Kiss_the_Girls_(1965_film)
+Martha_Karagianni	actedIn	Kiss_the_Girls_(1965_film)
+Martha_Karagianni	actedIn	Kiss_the_Girls_(1965_film)
+Martha_Karagianni	actedIn	Kiss_the_Girls_(1965_film)
+Giannis_Dalianidis	directed	Kiss_the_Girls_(1965_film)
+Giannis_Dalianidis	directed	Kiss_the_Girls_(1965_film)
+
+http://dbpedia.org/resource/Kiss_the_Girls_(1965_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Giannis_Dalianidis
+Kiss_the_Girls_(1965_film)	Giannis_Dalianidis
+Rena_Vlahopoulou	actedIn	Kiss_the_Girls_(1965_film)
+Rena_Vlahopoulou	actedIn	Kiss_the_Girls_(1965_film)
+Rena_Vlahopoulou	actedIn	Fonazei_o_kleftis
+Rena_Vlahopoulou	actedIn	Fonazei_o_kleftis
+Giannis_Dalianidis	directed	Fonazei_o_kleftis
+Giannis_Dalianidis	created	Fonazei_o_kleftis
+Giannis_Dalianidis	directed	Fonazei_o_kleftis
+Giannis_Dalianidis	created	Fonazei_o_kleftis
+
+http://dbpedia.org/resource/Kiss_the_Girls_(1965_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Giannis_Dalianidis
+Kiss_the_Girls_(1965_film)	Giannis_Dalianidis
+Rena_Vlahopoulou	actedIn	Kiss_the_Girls_(1965_film)
+Rena_Vlahopoulou	actedIn	Kiss_the_Girls_(1965_film)
+Rena_Vlahopoulou	actedIn	Kiss_the_Girls_(1965_film)
+Rena_Vlahopoulou	actedIn	Kiss_the_Girls_(1965_film)
+Giannis_Dalianidis	directed	Kiss_the_Girls_(1965_film)
+Giannis_Dalianidis	directed	Kiss_the_Girls_(1965_film)
+
+http://dbpedia.org/resource/Kiss_the_Girls_(1965_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Giannis_Dalianidis
+Kiss_the_Girls_(1965_film)	Giannis_Dalianidis
+Zoe_Laskari	actedIn	Kiss_the_Girls_(1965_film)
+Zoe_Laskari	actedIn	Kiss_the_Girls_(1965_film)
+Zoe_Laskari	actedIn	Iligos
+Zoe_Laskari	actedIn	Iligos
+Giannis_Dalianidis	created	Iligos
+Giannis_Dalianidis	directed	Iligos
+Giannis_Dalianidis	created	Iligos
+Giannis_Dalianidis	directed	Iligos
+
+http://dbpedia.org/resource/Kiss_the_Girls_(1965_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Giannis_Dalianidis
+Kiss_the_Girls_(1965_film)	Giannis_Dalianidis
+Zoe_Laskari	actedIn	Kiss_the_Girls_(1965_film)
+Zoe_Laskari	actedIn	Kiss_the_Girls_(1965_film)
+Zoe_Laskari	actedIn	Erastes_tou_oneirou
+Zoe_Laskari	actedIn	Erastes_tou_oneirou
+Giannis_Dalianidis	created	Erastes_tou_oneirou
+Giannis_Dalianidis	created	Erastes_tou_oneirou
+
+http://dbpedia.org/resource/Kiss_the_Girls_(1965_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Giannis_Dalianidis
+Kiss_the_Girls_(1965_film)	Giannis_Dalianidis
+Zoe_Laskari	actedIn	Kiss_the_Girls_(1965_film)
+Zoe_Laskari	actedIn	Kiss_the_Girls_(1965_film)
+Zoe_Laskari	actedIn	Teddy_Boy_agapi_mou
+Zoe_Laskari	actedIn	Teddy_Boy_agapi_mou
+Giannis_Dalianidis	directed	Teddy_Boy_agapi_mou
+Giannis_Dalianidis	created	Teddy_Boy_agapi_mou
+Giannis_Dalianidis	directed	Teddy_Boy_agapi_mou
+Giannis_Dalianidis	created	Teddy_Boy_agapi_mou
+
+http://dbpedia.org/resource/Kiss_the_Girls_(1965_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Giannis_Dalianidis
+Kiss_the_Girls_(1965_film)	Giannis_Dalianidis
+Zoe_Laskari	actedIn	Kiss_the_Girls_(1965_film)
+Zoe_Laskari	actedIn	Kiss_the_Girls_(1965_film)
+Zoe_Laskari	actedIn	Gymnoi_sto_dromo
+Zoe_Laskari	actedIn	Gymnoi_sto_dromo
+Giannis_Dalianidis	created	Gymnoi_sto_dromo
+Giannis_Dalianidis	directed	Gymnoi_sto_dromo
+Giannis_Dalianidis	created	Gymnoi_sto_dromo
+Giannis_Dalianidis	directed	Gymnoi_sto_dromo
+
+http://dbpedia.org/resource/Kiss_the_Girls_(1965_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Giannis_Dalianidis
+Kiss_the_Girls_(1965_film)	Giannis_Dalianidis
+Zoe_Laskari	actedIn	Kiss_the_Girls_(1965_film)
+Zoe_Laskari	actedIn	Kiss_the_Girls_(1965_film)
+Zoe_Laskari	actedIn	Law_4000
+Zoe_Laskari	actedIn	Law_4000
+Giannis_Dalianidis	created	Law_4000
+Giannis_Dalianidis	directed	Law_4000
+Giannis_Dalianidis	created	Law_4000
+Giannis_Dalianidis	directed	Law_4000
+
+http://dbpedia.org/resource/Kiss_the_Girls_(1965_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Giannis_Dalianidis
+Kiss_the_Girls_(1965_film)	Giannis_Dalianidis
+Zoe_Laskari	actedIn	Kiss_the_Girls_(1965_film)
+Zoe_Laskari	actedIn	Kiss_the_Girls_(1965_film)
+Zoe_Laskari	actedIn	O_atsidas
+Zoe_Laskari	actedIn	O_atsidas
+Giannis_Dalianidis	created	O_atsidas
+Giannis_Dalianidis	directed	O_atsidas
+Giannis_Dalianidis	created	O_atsidas
+Giannis_Dalianidis	directed	O_atsidas
+
+http://dbpedia.org/resource/Kiss_the_Girls_(1965_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Giannis_Dalianidis
+Kiss_the_Girls_(1965_film)	Giannis_Dalianidis
+Zoe_Laskari	actedIn	Kiss_the_Girls_(1965_film)
+Zoe_Laskari	actedIn	Kiss_the_Girls_(1965_film)
+Zoe_Laskari	actedIn	Istoria_mias_zois
+Zoe_Laskari	actedIn	Istoria_mias_zois
+Giannis_Dalianidis	directed	Istoria_mias_zois
+Giannis_Dalianidis	created	Istoria_mias_zois
+Giannis_Dalianidis	directed	Istoria_mias_zois
+Giannis_Dalianidis	created	Istoria_mias_zois
+
+http://dbpedia.org/resource/Kiss_the_Girls_(1965_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Giannis_Dalianidis
+Kiss_the_Girls_(1965_film)	Giannis_Dalianidis
+Zoe_Laskari	actedIn	Kiss_the_Girls_(1965_film)
+Zoe_Laskari	actedIn	Kiss_the_Girls_(1965_film)
+Zoe_Laskari	actedIn	Kiss_the_Girls_(1965_film)
+Zoe_Laskari	actedIn	Kiss_the_Girls_(1965_film)
+Giannis_Dalianidis	directed	Kiss_the_Girls_(1965_film)
+Giannis_Dalianidis	directed	Kiss_the_Girls_(1965_film)
+
+http://dbpedia.org/resource/Scared_Stiff_(1987_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Scared_Stiff_(1987_film)	Sammo_Hung
+Michael_Miu	actedIn	Scared_Stiff_(1987_film)
+Michael_Miu	actedIn	Scared_Stiff_(1987_film)
+Michael_Miu	actedIn	How_to_Meet_the_Lucky_Stars
+Michael_Miu	actedIn	How_to_Meet_the_Lucky_Stars
+Sammo_Hung	actedIn	How_to_Meet_the_Lucky_Stars
+Sammo_Hung	actedIn	How_to_Meet_the_Lucky_Stars
+
+http://dbpedia.org/resource/Scared_Stiff_(1987_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Scared_Stiff_(1987_film)	Sammo_Hung
+Michael_Miu	actedIn	Scared_Stiff_(1987_film)
+Michael_Miu	actedIn	Scared_Stiff_(1987_film)
+Michael_Miu	actedIn	Lucky_Stars
+Michael_Miu	actedIn	Lucky_Stars
+Sammo_Hung	directed	Lucky_Stars
+Sammo_Hung	created	Lucky_Stars
+Sammo_Hung	actedIn	Lucky_Stars
+Sammo_Hung	directed	Lucky_Stars
+Sammo_Hung	created	Lucky_Stars
+Sammo_Hung	actedIn	Lucky_Stars
+
+http://dbpedia.org/resource/Scared_Stiff_(1987_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Scared_Stiff_(1987_film)	Sammo_Hung
+Lau_Kar-wing	directed	Scared_Stiff_(1987_film)
+Lau_Kar-wing	directed	Scared_Stiff_(1987_film)
+Lau_Kar-wing	actedIn	Odd_Couple_(film)
+Lau_Kar-wing	directed	Odd_Couple_(film)
+Lau_Kar-wing	actedIn	Odd_Couple_(film)
+Lau_Kar-wing	directed	Odd_Couple_(film)
+Sammo_Hung	actedIn	Odd_Couple_(film)
+Sammo_Hung	actedIn	Odd_Couple_(film)
+
+http://dbpedia.org/resource/Scared_Stiff_(1987_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Scared_Stiff_(1987_film)	Sammo_Hung
+Lau_Kar-wing	directed	Scared_Stiff_(1987_film)
+Lau_Kar-wing	directed	Scared_Stiff_(1987_film)
+Lau_Kar-wing	actedIn	Dirty_Tiger,_Crazy_Frog
+Lau_Kar-wing	actedIn	Dirty_Tiger,_Crazy_Frog
+Sammo_Hung	actedIn	Dirty_Tiger,_Crazy_Frog
+Sammo_Hung	actedIn	Dirty_Tiger,_Crazy_Frog
+
+http://dbpedia.org/resource/Scared_Stiff_(1987_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Scared_Stiff_(1987_film)	Sammo_Hung
+Anita_Mui	actedIn	Scared_Stiff_(1987_film)
+Anita_Mui	actedIn	Scared_Stiff_(1987_film)
+Anita_Mui	actedIn	The_Fortune_Code
+Anita_Mui	actedIn	The_Fortune_Code
+Sammo_Hung	actedIn	The_Fortune_Code
+Sammo_Hung	actedIn	The_Fortune_Code
+
+http://dbpedia.org/resource/Scared_Stiff_(1987_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Scared_Stiff_(1987_film)	Sammo_Hung
+Anita_Mui	actedIn	Scared_Stiff_(1987_film)
+Anita_Mui	actedIn	Scared_Stiff_(1987_film)
+Anita_Mui	actedIn	Moon_Warriors
+Anita_Mui	actedIn	Moon_Warriors
+Sammo_Hung	directed	Moon_Warriors
+Sammo_Hung	directed	Moon_Warriors
+
+http://dbpedia.org/resource/Scared_Stiff_(1987_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Scared_Stiff_(1987_film)	Sammo_Hung
+Anita_Mui	actedIn	Scared_Stiff_(1987_film)
+Anita_Mui	actedIn	Scared_Stiff_(1987_film)
+Anita_Mui	actedIn	The_Banquet_(1991_film)
+Anita_Mui	actedIn	The_Banquet_(1991_film)
+Sammo_Hung	actedIn	The_Banquet_(1991_film)
+Sammo_Hung	actedIn	The_Banquet_(1991_film)
+
+http://dbpedia.org/resource/Scared_Stiff_(1987_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Scared_Stiff_(1987_film)	Sammo_Hung
+Eric_Tsang	actedIn	Scared_Stiff_(1987_film)
+Eric_Tsang	actedIn	Scared_Stiff_(1987_film)
+Eric_Tsang	actedIn	Ghost_Punting
+Eric_Tsang	directed	Ghost_Punting
+Eric_Tsang	actedIn	Ghost_Punting
+Eric_Tsang	directed	Ghost_Punting
+Sammo_Hung	directed	Ghost_Punting
+Sammo_Hung	actedIn	Ghost_Punting
+Sammo_Hung	directed	Ghost_Punting
+Sammo_Hung	actedIn	Ghost_Punting
+
+http://dbpedia.org/resource/Scared_Stiff_(1987_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Scared_Stiff_(1987_film)	Sammo_Hung
+Eric_Tsang	actedIn	Scared_Stiff_(1987_film)
+Eric_Tsang	actedIn	Scared_Stiff_(1987_film)
+Eric_Tsang	actedIn	The_Banquet_(1991_film)
+Eric_Tsang	actedIn	The_Banquet_(1991_film)
+Sammo_Hung	actedIn	The_Banquet_(1991_film)
+Sammo_Hung	actedIn	The_Banquet_(1991_film)
+
+http://dbpedia.org/resource/Scared_Stiff_(1987_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Scared_Stiff_(1987_film)	Sammo_Hung
+Eric_Tsang	actedIn	Scared_Stiff_(1987_film)
+Eric_Tsang	actedIn	Scared_Stiff_(1987_film)
+Eric_Tsang	actedIn	My_Lucky_Stars
+Eric_Tsang	actedIn	My_Lucky_Stars
+Sammo_Hung	directed	My_Lucky_Stars
+Sammo_Hung	directed	My_Lucky_Stars
+
+http://dbpedia.org/resource/Scared_Stiff_(1987_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Scared_Stiff_(1987_film)	Sammo_Hung
+Eric_Tsang	actedIn	Scared_Stiff_(1987_film)
+Eric_Tsang	actedIn	Scared_Stiff_(1987_film)
+Eric_Tsang	wasBornIn	British_Hong_Kong
+Eric_Tsang	wasBornIn	British_Hong_Kong
+Sammo_Hung	wasBornIn	British_Hong_Kong
+Sammo_Hung	wasBornIn	British_Hong_Kong
+
+http://dbpedia.org/resource/Mr._Vampire	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Mr._Vampire	Sammo_Hung
+Barry_Wong	created	Mr._Vampire
+Barry_Wong	created	Mr._Vampire
+Barry_Wong	created	Eastern_Condors
+Barry_Wong	created	Eastern_Condors
+Sammo_Hung	directed	Eastern_Condors
+Sammo_Hung	directed	Eastern_Condors
+
+http://dbpedia.org/resource/Mr._Vampire	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Mr._Vampire	Sammo_Hung
+Barry_Wong	created	Mr._Vampire
+Barry_Wong	created	Mr._Vampire
+Barry_Wong	created	Twinkle,_Twinkle_Lucky_Stars
+Barry_Wong	created	Twinkle,_Twinkle_Lucky_Stars
+Sammo_Hung	actedIn	Twinkle,_Twinkle_Lucky_Stars
+Sammo_Hung	directed	Twinkle,_Twinkle_Lucky_Stars
+Sammo_Hung	actedIn	Twinkle,_Twinkle_Lucky_Stars
+Sammo_Hung	directed	Twinkle,_Twinkle_Lucky_Stars
+
+http://dbpedia.org/resource/Mr._Vampire	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Mr._Vampire	Sammo_Hung
+Barry_Wong	created	Mr._Vampire
+Barry_Wong	created	Mr._Vampire
+Barry_Wong	created	Carry_On_Pickpocket
+Barry_Wong	created	Carry_On_Pickpocket
+Sammo_Hung	actedIn	Carry_On_Pickpocket
+Sammo_Hung	directed	Carry_On_Pickpocket
+Sammo_Hung	actedIn	Carry_On_Pickpocket
+Sammo_Hung	directed	Carry_On_Pickpocket
+
+http://dbpedia.org/resource/Mr._Vampire	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Mr._Vampire	Sammo_Hung
+Barry_Wong	created	Mr._Vampire
+Barry_Wong	created	Mr._Vampire
+Barry_Wong	created	Ghost_Punting
+Barry_Wong	created	Ghost_Punting
+Sammo_Hung	directed	Ghost_Punting
+Sammo_Hung	actedIn	Ghost_Punting
+Sammo_Hung	directed	Ghost_Punting
+Sammo_Hung	actedIn	Ghost_Punting
+
+http://dbpedia.org/resource/Mr._Vampire	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Mr._Vampire	Sammo_Hung
+Barry_Wong	created	Mr._Vampire
+Barry_Wong	created	Mr._Vampire
+Barry_Wong	created	Lucky_Stars
+Barry_Wong	created	Lucky_Stars
+Sammo_Hung	directed	Lucky_Stars
+Sammo_Hung	created	Lucky_Stars
+Sammo_Hung	actedIn	Lucky_Stars
+Sammo_Hung	directed	Lucky_Stars
+Sammo_Hung	created	Lucky_Stars
+Sammo_Hung	actedIn	Lucky_Stars
+
+http://dbpedia.org/resource/Mr._Vampire	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Mr._Vampire	Sammo_Hung
+Barry_Wong	created	Mr._Vampire
+Barry_Wong	created	Mr._Vampire
+Barry_Wong	created	The_Prodigal_Son_(1981_film)
+Barry_Wong	created	The_Prodigal_Son_(1981_film)
+Sammo_Hung	directed	The_Prodigal_Son_(1981_film)
+Sammo_Hung	actedIn	The_Prodigal_Son_(1981_film)
+Sammo_Hung	directed	The_Prodigal_Son_(1981_film)
+Sammo_Hung	actedIn	The_Prodigal_Son_(1981_film)
+
+http://dbpedia.org/resource/Mr._Vampire	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Mr._Vampire	Sammo_Hung
+Barry_Wong	created	Mr._Vampire
+Barry_Wong	created	Mr._Vampire
+Barry_Wong	created	Pedicab_Driver
+Barry_Wong	created	Pedicab_Driver
+Sammo_Hung	directed	Pedicab_Driver
+Sammo_Hung	directed	Pedicab_Driver
+
+http://dbpedia.org/resource/Mr._Vampire	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Mr._Vampire	Sammo_Hung
+Barry_Wong	created	Mr._Vampire
+Barry_Wong	created	Mr._Vampire
+Barry_Wong	created	My_Lucky_Stars
+Barry_Wong	created	My_Lucky_Stars
+Sammo_Hung	directed	My_Lucky_Stars
+Sammo_Hung	directed	My_Lucky_Stars
+
+http://dbpedia.org/resource/Mr._Vampire	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Mr._Vampire	Sammo_Hung
+Barry_Wong	created	Mr._Vampire
+Barry_Wong	created	Mr._Vampire
+Barry_Wong	created	Heart_of_Dragon
+Barry_Wong	created	Heart_of_Dragon
+Sammo_Hung	actedIn	Heart_of_Dragon
+Sammo_Hung	directed	Heart_of_Dragon
+Sammo_Hung	actedIn	Heart_of_Dragon
+Sammo_Hung	directed	Heart_of_Dragon
+
+http://dbpedia.org/resource/Mr._Vampire	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Mr._Vampire	Sammo_Hung
+Barry_Wong	created	Mr._Vampire
+Barry_Wong	created	Mr._Vampire
+Barry_Wong	created	The_Fortune_Code
+Barry_Wong	created	The_Fortune_Code
+Sammo_Hung	actedIn	The_Fortune_Code
+Sammo_Hung	actedIn	The_Fortune_Code
+
+http://dbpedia.org/resource/Mr._Vampire	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Mr._Vampire	Sammo_Hung
+Barry_Wong	created	Mr._Vampire
+Barry_Wong	created	Mr._Vampire
+Barry_Wong	created	Lucky_Stars_Go_Places
+Barry_Wong	created	Lucky_Stars_Go_Places
+Sammo_Hung	actedIn	Lucky_Stars_Go_Places
+Sammo_Hung	actedIn	Lucky_Stars_Go_Places
+
+http://dbpedia.org/resource/Mr._Vampire	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Mr._Vampire	Sammo_Hung
+Lam_Ching-ying	actedIn	Mr._Vampire
+Lam_Ching-ying	actedIn	Mr._Vampire
+Lam_Ching-ying	actedIn	Encounters_of_the_Spooky_Kind
+Lam_Ching-ying	actedIn	Encounters_of_the_Spooky_Kind
+Sammo_Hung	created	Encounters_of_the_Spooky_Kind
+Sammo_Hung	directed	Encounters_of_the_Spooky_Kind
+Sammo_Hung	created	Encounters_of_the_Spooky_Kind
+Sammo_Hung	directed	Encounters_of_the_Spooky_Kind
+
+http://dbpedia.org/resource/Viva_Riva!	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Djo_Tunda_Wa_Munga
+Viva_Riva!	Djo_Tunda_Wa_Munga
+Djo_Tunda_Wa_Munga	created	Viva_Riva!
+Djo_Tunda_Wa_Munga	directed	Viva_Riva!
+Djo_Tunda_Wa_Munga	created	Viva_Riva!
+Djo_Tunda_Wa_Munga	directed	Viva_Riva!
+
+http://dbpedia.org/resource/Tito_(miniseries)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Antun_Vrdoljak
+Tito_(miniseries)	Antun_Vrdoljak
+Antun_Vrdoljak	directed	Tito_(miniseries)
+Antun_Vrdoljak	directed	Tito_(miniseries)
+
+http://dbpedia.org/resource/Tito_(miniseries)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Antun_Vrdoljak
+Tito_(miniseries)	Antun_Vrdoljak
+Goran_Navojec	actedIn	Tito_(miniseries)
+Goran_Navojec	actedIn	Tito_(miniseries)
+Goran_Navojec	actedIn	Tito_(miniseries)
+Goran_Navojec	actedIn	Tito_(miniseries)
+Antun_Vrdoljak	directed	Tito_(miniseries)
+Antun_Vrdoljak	directed	Tito_(miniseries)
+
+http://dbpedia.org/resource/Tito_(miniseries)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Antun_Vrdoljak
+Tito_(miniseries)	Antun_Vrdoljak
+Goran_Grgić	actedIn	Tito_(miniseries)
+Goran_Grgić	actedIn	Tito_(miniseries)
+Goran_Grgić	actedIn	Tito_(miniseries)
+Goran_Grgić	actedIn	Tito_(miniseries)
+Antun_Vrdoljak	directed	Tito_(miniseries)
+Antun_Vrdoljak	directed	Tito_(miniseries)
+
+http://dbpedia.org/resource/Tito_(miniseries)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Antun_Vrdoljak
+Tito_(miniseries)	Antun_Vrdoljak
+Jadranka_Đokić	actedIn	Tito_(miniseries)
+Jadranka_Đokić	actedIn	Tito_(miniseries)
+Jadranka_Đokić	actedIn	Tito_(miniseries)
+Jadranka_Đokić	actedIn	Tito_(miniseries)
+Antun_Vrdoljak	directed	Tito_(miniseries)
+Antun_Vrdoljak	directed	Tito_(miniseries)
+
+http://dbpedia.org/resource/Tito_(miniseries)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Antun_Vrdoljak
+Tito_(miniseries)	Antun_Vrdoljak
+Goran_Višnjić	actedIn	Tito_(miniseries)
+Goran_Višnjić	actedIn	Tito_(miniseries)
+Goran_Višnjić	actedIn	Long_Dark_Night
+Goran_Višnjić	actedIn	Long_Dark_Night
+Antun_Vrdoljak	directed	Long_Dark_Night
+Antun_Vrdoljak	created	Long_Dark_Night
+Antun_Vrdoljak	directed	Long_Dark_Night
+Antun_Vrdoljak	created	Long_Dark_Night
+
+http://dbpedia.org/resource/Tito_(miniseries)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Antun_Vrdoljak
+Tito_(miniseries)	Antun_Vrdoljak
+Goran_Višnjić	actedIn	Tito_(miniseries)
+Goran_Višnjić	actedIn	Tito_(miniseries)
+Goran_Višnjić	actedIn	Tito_(miniseries)
+Goran_Višnjić	actedIn	Tito_(miniseries)
+Antun_Vrdoljak	directed	Tito_(miniseries)
+Antun_Vrdoljak	directed	Tito_(miniseries)
+
+http://dbpedia.org/resource/Khuddar_(1985_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Pervaiz_Kaleem
+Khuddar_(1985_film)	Pervaiz_Kaleem
+Talish	actedIn	Khuddar_(1985_film)
+Talish	actedIn	Khuddar_(1985_film)
+Talish	diedIn	Lahore
+Talish	diedIn	Lahore
+Pervaiz_Kaleem	wasBornIn	Lahore
+Pervaiz_Kaleem	wasBornIn	Lahore
+
+http://dbpedia.org/resource/Khuddar_(1985_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Pervaiz_Kaleem
+Khuddar_(1985_film)	Pervaiz_Kaleem
+Aslam_Pervaiz	actedIn	Khuddar_(1985_film)
+Aslam_Pervaiz	actedIn	Khuddar_(1985_film)
+Aslam_Pervaiz	wasBornIn	Lahore
+Aslam_Pervaiz	wasBornIn	Lahore
+Pervaiz_Kaleem	wasBornIn	Lahore
+Pervaiz_Kaleem	wasBornIn	Lahore
+
+http://dbpedia.org/resource/Melancholia_(2008_film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Lav_Diaz
+Melancholia_(2008_film)	Lav_Diaz
+Lav_Diaz	wroteMusicFor	Melancholia_(2008_film)
+Lav_Diaz	directed	Melancholia_(2008_film)
+Lav_Diaz	created	Melancholia_(2008_film)
+Lav_Diaz	wroteMusicFor	Melancholia_(2008_film)
+Lav_Diaz	directed	Melancholia_(2008_film)
+Lav_Diaz	created	Melancholia_(2008_film)
+
+http://dbpedia.org/resource/Written_By	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Written_By	Wai_Ka-fai
+Wai_Ka-fai	directed	Written_By
+Wai_Ka-fai	directed	Written_By
+
+http://dbpedia.org/resource/Written_By	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Written_By	Wai_Ka-fai
+Au_Kin-yee	created	Written_By
+Au_Kin-yee	created	Written_By
+Au_Kin-yee	created	Himalaya_Singh
+Au_Kin-yee	created	Himalaya_Singh
+Wai_Ka-fai	directed	Himalaya_Singh
+Wai_Ka-fai	directed	Himalaya_Singh
+
+http://dbpedia.org/resource/Written_By	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Written_By	Wai_Ka-fai
+Au_Kin-yee	created	Written_By
+Au_Kin-yee	created	Written_By
+Au_Kin-yee	created	Mad_Detective
+Au_Kin-yee	created	Mad_Detective
+Wai_Ka-fai	directed	Mad_Detective
+Wai_Ka-fai	directed	Mad_Detective
+
+http://dbpedia.org/resource/Written_By	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Written_By	Wai_Ka-fai
+Au_Kin-yee	created	Written_By
+Au_Kin-yee	created	Written_By
+Au_Kin-yee	created	The_Shopaholics
+Au_Kin-yee	created	The_Shopaholics
+Wai_Ka-fai	created	The_Shopaholics
+Wai_Ka-fai	directed	The_Shopaholics
+Wai_Ka-fai	created	The_Shopaholics
+Wai_Ka-fai	directed	The_Shopaholics
+
+http://dbpedia.org/resource/Written_By	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Written_By	Wai_Ka-fai
+Au_Kin-yee	created	Written_By
+Au_Kin-yee	created	Written_By
+Au_Kin-yee	created	Written_By
+Au_Kin-yee	created	Written_By
+Wai_Ka-fai	directed	Written_By
+Wai_Ka-fai	directed	Written_By
+
+http://dbpedia.org/resource/Written_By	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Written_By	Wai_Ka-fai
+Au_Kin-yee	created	Written_By
+Au_Kin-yee	created	Written_By
+Au_Kin-yee	created	Running_on_Karma
+Au_Kin-yee	created	Running_on_Karma
+Wai_Ka-fai	directed	Running_on_Karma
+Wai_Ka-fai	directed	Running_on_Karma
+
+http://dbpedia.org/resource/Written_By	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Written_By	Wai_Ka-fai
+Au_Kin-yee	created	Written_By
+Au_Kin-yee	created	Written_By
+Au_Kin-yee	created	Turn_Left,_Turn_Right
+Au_Kin-yee	created	Turn_Left,_Turn_Right
+Wai_Ka-fai	directed	Turn_Left,_Turn_Right
+Wai_Ka-fai	directed	Turn_Left,_Turn_Right
+
+http://dbpedia.org/resource/Written_By	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Written_By	Wai_Ka-fai
+Au_Kin-yee	created	Written_By
+Au_Kin-yee	created	Written_By
+Au_Kin-yee	created	Fat_Choi_Spirit
+Au_Kin-yee	created	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+
+http://dbpedia.org/resource/Written_By	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Written_By	Wai_Ka-fai
+Au_Kin-yee	created	Written_By
+Au_Kin-yee	created	Written_By
+Au_Kin-yee	created	My_Left_Eye_Sees_Ghosts
+Au_Kin-yee	created	My_Left_Eye_Sees_Ghosts
+Wai_Ka-fai	directed	My_Left_Eye_Sees_Ghosts
+Wai_Ka-fai	directed	My_Left_Eye_Sees_Ghosts
+
+http://dbpedia.org/resource/Written_By	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Written_By	Wai_Ka-fai
+Sean_Lau	actedIn	Written_By
+Sean_Lau	actedIn	Written_By
+Sean_Lau	actedIn	Himalaya_Singh
+Sean_Lau	actedIn	Himalaya_Singh
+Wai_Ka-fai	directed	Himalaya_Singh
+Wai_Ka-fai	directed	Himalaya_Singh
+
+http://dbpedia.org/resource/Tom-Yum-Goong	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Prachya_Pinkaew
+Tom-Yum-Goong	Prachya_Pinkaew
+Prachya_Pinkaew	directed	Tom-Yum-Goong
+Prachya_Pinkaew	directed	Tom-Yum-Goong
+
+http://dbpedia.org/resource/Tom-Yum-Goong	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Prachya_Pinkaew
+Tom-Yum-Goong	Prachya_Pinkaew
+Mum_Jokmok	actedIn	Tom-Yum-Goong
+Mum_Jokmok	actedIn	Tom-Yum-Goong
+Mum_Jokmok	actedIn	Tom-Yum-Goong
+Mum_Jokmok	actedIn	Tom-Yum-Goong
+Prachya_Pinkaew	directed	Tom-Yum-Goong
+Prachya_Pinkaew	directed	Tom-Yum-Goong
+
+http://dbpedia.org/resource/Tom-Yum-Goong	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Prachya_Pinkaew
+Tom-Yum-Goong	Prachya_Pinkaew
+Tony_Jaa	actedIn	Tom-Yum-Goong
+Tony_Jaa	actedIn	Tom-Yum-Goong
+Tony_Jaa	actedIn	Tom-Yum-Goong
+Tony_Jaa	actedIn	Tom-Yum-Goong
+Prachya_Pinkaew	directed	Tom-Yum-Goong
+Prachya_Pinkaew	directed	Tom-Yum-Goong
+
+http://dbpedia.org/resource/Blind_Detective	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Blind_Detective	Wai_Ka-fai
+Sammi_Cheng	actedIn	Blind_Detective
+Sammi_Cheng	actedIn	Blind_Detective
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+
+http://dbpedia.org/resource/Blind_Detective	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Blind_Detective	Wai_Ka-fai
+Sammi_Cheng	actedIn	Blind_Detective
+Sammi_Cheng	actedIn	Blind_Detective
+Sammi_Cheng	actedIn	Wu_yen
+Sammi_Cheng	actedIn	Wu_yen
+Wai_Ka-fai	created	Wu_yen
+Wai_Ka-fai	directed	Wu_yen
+Wai_Ka-fai	created	Wu_yen
+Wai_Ka-fai	directed	Wu_yen
+
+http://dbpedia.org/resource/Blind_Detective	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Blind_Detective	Wai_Ka-fai
+Johnnie_To	directed	Blind_Detective
+Johnnie_To	directed	Blind_Detective
+Johnnie_To	directed	Running_on_Karma
+Johnnie_To	directed	Running_on_Karma
+Wai_Ka-fai	directed	Running_on_Karma
+Wai_Ka-fai	directed	Running_on_Karma
+
+http://dbpedia.org/resource/Blind_Detective	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Blind_Detective	Wai_Ka-fai
+Johnnie_To	directed	Blind_Detective
+Johnnie_To	directed	Blind_Detective
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Romancing_in_Thin_Air
+Wai_Ka-fai	created	Romancing_in_Thin_Air
+Wai_Ka-fai	created	Romancing_in_Thin_Air
+
+http://dbpedia.org/resource/Blind_Detective	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Blind_Detective	Wai_Ka-fai
+Johnnie_To	directed	Blind_Detective
+Johnnie_To	directed	Blind_Detective
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+
+http://dbpedia.org/resource/Blind_Detective	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Blind_Detective	Wai_Ka-fai
+Johnnie_To	directed	Blind_Detective
+Johnnie_To	directed	Blind_Detective
+Johnnie_To	directed	My_Left_Eye_Sees_Ghosts
+Johnnie_To	directed	My_Left_Eye_Sees_Ghosts
+Wai_Ka-fai	directed	My_Left_Eye_Sees_Ghosts
+Wai_Ka-fai	directed	My_Left_Eye_Sees_Ghosts
+
+http://dbpedia.org/resource/Blind_Detective	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Blind_Detective	Wai_Ka-fai
+Johnnie_To	directed	Blind_Detective
+Johnnie_To	directed	Blind_Detective
+Johnnie_To	directed	Wu_yen
+Johnnie_To	directed	Wu_yen
+Wai_Ka-fai	created	Wu_yen
+Wai_Ka-fai	directed	Wu_yen
+Wai_Ka-fai	created	Wu_yen
+Wai_Ka-fai	directed	Wu_yen
+
+http://dbpedia.org/resource/Blind_Detective	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Blind_Detective	Wai_Ka-fai
+Johnnie_To	directed	Blind_Detective
+Johnnie_To	directed	Blind_Detective
+Johnnie_To	directed	Don't_Go_Breaking_My_Heart_(film)
+Johnnie_To	directed	Don't_Go_Breaking_My_Heart_(film)
+Wai_Ka-fai	directed	Don't_Go_Breaking_My_Heart_(film)
+Wai_Ka-fai	directed	Don't_Go_Breaking_My_Heart_(film)
+
+http://dbpedia.org/resource/Blind_Detective	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Blind_Detective	Wai_Ka-fai
+Johnnie_To	directed	Blind_Detective
+Johnnie_To	directed	Blind_Detective
+Johnnie_To	directed	Fulltime_Killer
+Johnnie_To	directed	Fulltime_Killer
+Wai_Ka-fai	directed	Fulltime_Killer
+Wai_Ka-fai	directed	Fulltime_Killer
+
+http://dbpedia.org/resource/Blind_Detective	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Blind_Detective	Wai_Ka-fai
+Johnnie_To	directed	Blind_Detective
+Johnnie_To	directed	Blind_Detective
+Johnnie_To	directed	Fat_Choi_Spirit
+Johnnie_To	directed	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+
+http://dbpedia.org/resource/Blind_Detective	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Blind_Detective	Wai_Ka-fai
+Johnnie_To	directed	Blind_Detective
+Johnnie_To	directed	Blind_Detective
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Wai_Ka-fai	directed	Turn_Left,_Turn_Right
+Wai_Ka-fai	directed	Turn_Left,_Turn_Right
+
+http://dbpedia.org/resource/Blind_Detective	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Blind_Detective	Wai_Ka-fai
+Johnnie_To	directed	Blind_Detective
+Johnnie_To	directed	Blind_Detective
+Johnnie_To	directed	Mad_Detective
+Johnnie_To	directed	Mad_Detective
+Wai_Ka-fai	directed	Mad_Detective
+Wai_Ka-fai	directed	Mad_Detective
+
+http://dbpedia.org/resource/Dumplings_(film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Dumplings_(film)	Eric_Tsang
+Tony_Leung_Ka-fai	actedIn	Dumplings_(film)
+Tony_Leung_Ka-fai	actedIn	Dumplings_(film)
+Tony_Leung_Ka-fai	actedIn	Horseplay_(2014_film)
+Tony_Leung_Ka-fai	actedIn	Horseplay_(2014_film)
+Eric_Tsang	actedIn	Horseplay_(2014_film)
+Eric_Tsang	actedIn	Horseplay_(2014_film)
+
+http://dbpedia.org/resource/Dumplings_(film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Dumplings_(film)	Eric_Tsang
+Tony_Leung_Ka-fai	actedIn	Dumplings_(film)
+Tony_Leung_Ka-fai	actedIn	Dumplings_(film)
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Eric_Tsang	actedIn	Always_Be_the_Winners
+Eric_Tsang	actedIn	Always_Be_the_Winners
+
+http://dbpedia.org/resource/Dumplings_(film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Dumplings_(film)	Eric_Tsang
+Tony_Leung_Ka-fai	actedIn	Dumplings_(film)
+Tony_Leung_Ka-fai	actedIn	Dumplings_(film)
+Tony_Leung_Ka-fai	actedIn	The_Banquet_(1991_film)
+Tony_Leung_Ka-fai	actedIn	The_Banquet_(1991_film)
+Eric_Tsang	actedIn	The_Banquet_(1991_film)
+Eric_Tsang	actedIn	The_Banquet_(1991_film)
+
+http://dbpedia.org/resource/Attenberg	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Athina_Rachel_Tsangari
+Attenberg	Athina_Rachel_Tsangari
+Athina_Rachel_Tsangari	created	Attenberg
+Athina_Rachel_Tsangari	directed	Attenberg
+Athina_Rachel_Tsangari	created	Attenberg
+Athina_Rachel_Tsangari	directed	Attenberg
+
+http://dbpedia.org/resource/Fatal_Move	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Dennis_Law_(film_director)
+Fatal_Move	Dennis_Law_(film_director)
+Dennis_Law_(film_director)	directed	Fatal_Move
+Dennis_Law_(film_director)	directed	Fatal_Move
+
+http://dbpedia.org/resource/Fatal_Move	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Dennis_Law_(film_director)
+Fatal_Move	Dennis_Law_(film_director)
+Sammo_Hung	actedIn	Fatal_Move
+Sammo_Hung	actedIn	Fatal_Move
+Sammo_Hung	actedIn	Fatal_Move
+Sammo_Hung	actedIn	Fatal_Move
+Dennis_Law_(film_director)	directed	Fatal_Move
+Dennis_Law_(film_director)	directed	Fatal_Move
+
+http://dbpedia.org/resource/Underworld_(film_series)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Len_Wiseman
+Underworld_(film_series)	Len_Wiseman
+Len_Wiseman	directed	Underworld_(film_series)
+Len_Wiseman	directed	Underworld_(film_series)
+
+http://dbpedia.org/resource/Underworld_(film_series)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Len_Wiseman
+Underworld_(film_series)	Len_Wiseman
+Kate_Beckinsale	actedIn	Underworld_(film_series)
+Kate_Beckinsale	actedIn	Underworld_(film_series)
+Kate_Beckinsale	isMarriedTo	Len_Wiseman
+Len_Wiseman	isMarriedTo	Kate_Beckinsale
+Kate_Beckinsale	isMarriedTo	Len_Wiseman
+Len_Wiseman	isMarriedTo	Kate_Beckinsale
+
+http://dbpedia.org/resource/Underworld_(film_series)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Len_Wiseman
+Underworld_(film_series)	Len_Wiseman
+Underworld_(film_series)	isLocatedIn	Hungary
+Underworld_(film_series)	isLocatedIn	Hungary
+Underworld_(film_series)	isLocatedIn	Hungary
+Underworld_(film_series)	isLocatedIn	Hungary
+Len_Wiseman	directed	Underworld_(film_series)
+Len_Wiseman	directed	Underworld_(film_series)
+
+http://dbpedia.org/resource/Lucky_Stars	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Lucky_Stars	Sammo_Hung
+Michael_Miu	actedIn	Lucky_Stars
+Michael_Miu	actedIn	Lucky_Stars
+Michael_Miu	actedIn	How_to_Meet_the_Lucky_Stars
+Michael_Miu	actedIn	How_to_Meet_the_Lucky_Stars
+Sammo_Hung	actedIn	How_to_Meet_the_Lucky_Stars
+Sammo_Hung	actedIn	How_to_Meet_the_Lucky_Stars
+
+http://dbpedia.org/resource/Lucky_Stars	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Lucky_Stars	Sammo_Hung
+Michael_Miu	actedIn	Lucky_Stars
+Michael_Miu	actedIn	Lucky_Stars
+Michael_Miu	actedIn	Lucky_Stars
+Michael_Miu	actedIn	Lucky_Stars
+Sammo_Hung	directed	Lucky_Stars
+Sammo_Hung	created	Lucky_Stars
+Sammo_Hung	actedIn	Lucky_Stars
+Sammo_Hung	directed	Lucky_Stars
+Sammo_Hung	created	Lucky_Stars
+Sammo_Hung	actedIn	Lucky_Stars
+
+http://dbpedia.org/resource/Lucky_Stars	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Lucky_Stars	Sammo_Hung
+Sammo_Hung	directed	Lucky_Stars
+Sammo_Hung	created	Lucky_Stars
+Sammo_Hung	actedIn	Lucky_Stars
+Sammo_Hung	directed	Lucky_Stars
+Sammo_Hung	created	Lucky_Stars
+Sammo_Hung	actedIn	Lucky_Stars
+
+http://dbpedia.org/resource/Lucky_Stars	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Lucky_Stars	Eric_Tsang
+Michael_Miu	actedIn	Lucky_Stars
+Michael_Miu	actedIn	Lucky_Stars
+Michael_Miu	actedIn	Scared_Stiff_(1987_film)
+Michael_Miu	actedIn	Scared_Stiff_(1987_film)
+Eric_Tsang	actedIn	Scared_Stiff_(1987_film)
+Eric_Tsang	actedIn	Scared_Stiff_(1987_film)
+
+http://dbpedia.org/resource/Lucky_Stars	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Lucky_Stars	Eric_Tsang
+Michael_Miu	actedIn	Lucky_Stars
+Michael_Miu	actedIn	Lucky_Stars
+Michael_Miu	actedIn	The_Tigers_(film)
+Michael_Miu	actedIn	The_Tigers_(film)
+Eric_Tsang	directed	The_Tigers_(film)
+Eric_Tsang	directed	The_Tigers_(film)
+
+http://dbpedia.org/resource/Lucky_Stars	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Lucky_Stars	Eric_Tsang
+Michael_Miu	actedIn	Lucky_Stars
+Michael_Miu	actedIn	Lucky_Stars
+Michael_Miu	actedIn	Wo_Hu
+Michael_Miu	actedIn	Wo_Hu
+Eric_Tsang	actedIn	Wo_Hu
+Eric_Tsang	actedIn	Wo_Hu
+
+http://dbpedia.org/resource/Lucky_Stars	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Lucky_Stars	Eric_Tsang
+Michael_Miu	actedIn	Lucky_Stars
+Michael_Miu	actedIn	Lucky_Stars
+Michael_Miu	actedIn	How_to_Meet_the_Lucky_Stars
+Michael_Miu	actedIn	How_to_Meet_the_Lucky_Stars
+Eric_Tsang	actedIn	How_to_Meet_the_Lucky_Stars
+Eric_Tsang	actedIn	How_to_Meet_the_Lucky_Stars
+
+http://dbpedia.org/resource/Lucky_Stars	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Lucky_Stars	Eric_Tsang
+Michael_Miu	actedIn	Lucky_Stars
+Michael_Miu	actedIn	Lucky_Stars
+Michael_Miu	actedIn	Come_Fly_the_Dragon
+Michael_Miu	actedIn	Come_Fly_the_Dragon
+Eric_Tsang	directed	Come_Fly_the_Dragon
+Eric_Tsang	directed	Come_Fly_the_Dragon
+
+http://dbpedia.org/resource/Lucky_Stars	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Lucky_Stars	Eric_Tsang
+Michael_Miu	actedIn	Lucky_Stars
+Michael_Miu	actedIn	Lucky_Stars
+Michael_Miu	actedIn	News_Attack
+Michael_Miu	actedIn	News_Attack
+Eric_Tsang	actedIn	News_Attack
+Eric_Tsang	actedIn	News_Attack
+
+http://dbpedia.org/resource/Romancing_in_Thin_Air	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Romancing_in_Thin_Air	Wai_Ka-fai
+Sammi_Cheng	actedIn	Romancing_in_Thin_Air
+Sammi_Cheng	actedIn	Romancing_in_Thin_Air
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+
+http://dbpedia.org/resource/Romancing_in_Thin_Air	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Romancing_in_Thin_Air	Wai_Ka-fai
+Sammi_Cheng	actedIn	Romancing_in_Thin_Air
+Sammi_Cheng	actedIn	Romancing_in_Thin_Air
+Sammi_Cheng	actedIn	Wu_yen
+Sammi_Cheng	actedIn	Wu_yen
+Wai_Ka-fai	created	Wu_yen
+Wai_Ka-fai	directed	Wu_yen
+Wai_Ka-fai	created	Wu_yen
+Wai_Ka-fai	directed	Wu_yen
+
+http://dbpedia.org/resource/Romancing_in_Thin_Air	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Romancing_in_Thin_Air	Wai_Ka-fai
+Yau_Nai-hoi	created	Romancing_in_Thin_Air
+Yau_Nai-hoi	created	Romancing_in_Thin_Air
+Yau_Nai-hoi	created	Love_on_a_Diet
+Yau_Nai-hoi	created	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+
+http://dbpedia.org/resource/Romancing_in_Thin_Air	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Romancing_in_Thin_Air	Wai_Ka-fai
+Yau_Nai-hoi	created	Romancing_in_Thin_Air
+Yau_Nai-hoi	created	Romancing_in_Thin_Air
+Yau_Nai-hoi	created	Fat_Choi_Spirit
+Yau_Nai-hoi	created	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+
+http://dbpedia.org/resource/Romancing_in_Thin_Air	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Romancing_in_Thin_Air	Wai_Ka-fai
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Running_on_Karma
+Johnnie_To	directed	Running_on_Karma
+Wai_Ka-fai	directed	Running_on_Karma
+Wai_Ka-fai	directed	Running_on_Karma
+
+http://dbpedia.org/resource/Romancing_in_Thin_Air	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Romancing_in_Thin_Air	Wai_Ka-fai
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Romancing_in_Thin_Air
+Wai_Ka-fai	created	Romancing_in_Thin_Air
+Wai_Ka-fai	created	Romancing_in_Thin_Air
+
+http://dbpedia.org/resource/Romancing_in_Thin_Air	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Romancing_in_Thin_Air	Wai_Ka-fai
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+
+http://dbpedia.org/resource/Romancing_in_Thin_Air	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Romancing_in_Thin_Air	Wai_Ka-fai
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	My_Left_Eye_Sees_Ghosts
+Johnnie_To	directed	My_Left_Eye_Sees_Ghosts
+Wai_Ka-fai	directed	My_Left_Eye_Sees_Ghosts
+Wai_Ka-fai	directed	My_Left_Eye_Sees_Ghosts
+
+http://dbpedia.org/resource/Romancing_in_Thin_Air	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Romancing_in_Thin_Air	Wai_Ka-fai
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Wu_yen
+Johnnie_To	directed	Wu_yen
+Wai_Ka-fai	created	Wu_yen
+Wai_Ka-fai	directed	Wu_yen
+Wai_Ka-fai	created	Wu_yen
+Wai_Ka-fai	directed	Wu_yen
+
+http://dbpedia.org/resource/Romancing_in_Thin_Air	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Romancing_in_Thin_Air	Wai_Ka-fai
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Don't_Go_Breaking_My_Heart_(film)
+Johnnie_To	directed	Don't_Go_Breaking_My_Heart_(film)
+Wai_Ka-fai	directed	Don't_Go_Breaking_My_Heart_(film)
+Wai_Ka-fai	directed	Don't_Go_Breaking_My_Heart_(film)
+
+http://dbpedia.org/resource/Romancing_in_Thin_Air	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Romancing_in_Thin_Air	Wai_Ka-fai
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Fulltime_Killer
+Johnnie_To	directed	Fulltime_Killer
+Wai_Ka-fai	directed	Fulltime_Killer
+Wai_Ka-fai	directed	Fulltime_Killer
+
+http://dbpedia.org/resource/Romancing_in_Thin_Air	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Romancing_in_Thin_Air	Wai_Ka-fai
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Fat_Choi_Spirit
+Johnnie_To	directed	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+
+http://dbpedia.org/resource/Romancing_in_Thin_Air	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Romancing_in_Thin_Air	Wai_Ka-fai
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Wai_Ka-fai	directed	Turn_Left,_Turn_Right
+Wai_Ka-fai	directed	Turn_Left,_Turn_Right
+
+http://dbpedia.org/resource/Romancing_in_Thin_Air	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Romancing_in_Thin_Air	Wai_Ka-fai
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Mad_Detective
+Johnnie_To	directed	Mad_Detective
+Wai_Ka-fai	directed	Mad_Detective
+Wai_Ka-fai	directed	Mad_Detective
+
+http://dbpedia.org/resource/Romancing_in_Thin_Air	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Romancing_in_Thin_Air	Wai_Ka-fai
+Wai_Ka-fai	created	Romancing_in_Thin_Air
+Wai_Ka-fai	created	Romancing_in_Thin_Air
+
+http://dbpedia.org/resource/Rise_of_the_Legend	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Rise_of_the_Legend	Sammo_Hung
+Eddie_Peng	actedIn	Rise_of_the_Legend
+Eddie_Peng	actedIn	Rise_of_the_Legend
+Eddie_Peng	actedIn	Rise_of_the_Legend
+Eddie_Peng	actedIn	Rise_of_the_Legend
+Sammo_Hung	actedIn	Rise_of_the_Legend
+Sammo_Hung	actedIn	Rise_of_the_Legend
+
+http://dbpedia.org/resource/Rise_of_the_Legend	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Rise_of_the_Legend	Sammo_Hung
+Sammo_Hung	actedIn	Rise_of_the_Legend
+Sammo_Hung	actedIn	Rise_of_the_Legend
+
+http://dbpedia.org/resource/Rise_of_the_Legend	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Sammo_Hung
+Rise_of_the_Legend	Sammo_Hung
+Shigeru_Umebayashi	wroteMusicFor	Rise_of_the_Legend
+Shigeru_Umebayashi	wroteMusicFor	Rise_of_the_Legend
+Shigeru_Umebayashi	wroteMusicFor	Rise_of_the_Legend
+Shigeru_Umebayashi	wroteMusicFor	Rise_of_the_Legend
+Sammo_Hung	actedIn	Rise_of_the_Legend
+Sammo_Hung	actedIn	Rise_of_the_Legend
+
+http://dbpedia.org/resource/Pusher_II	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Nicolas_Winding_Refn
+Pusher_II	Nicolas_Winding_Refn
+Nicolas_Winding_Refn	created	Pusher_II
+Nicolas_Winding_Refn	directed	Pusher_II
+Nicolas_Winding_Refn	created	Pusher_II
+Nicolas_Winding_Refn	directed	Pusher_II
+
+http://dbpedia.org/resource/Eastern_Condors	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Corey_Yuen
+Eastern_Condors	Corey_Yuen
+Yuen_Wah	actedIn	Eastern_Condors
+Yuen_Wah	actedIn	Eastern_Condors
+Yuen_Wah	actedIn	Hero_(1997_film)
+Yuen_Wah	actedIn	Hero_(1997_film)
+Corey_Yuen	actedIn	Hero_(1997_film)
+Corey_Yuen	directed	Hero_(1997_film)
+Corey_Yuen	actedIn	Hero_(1997_film)
+Corey_Yuen	directed	Hero_(1997_film)
+
+http://dbpedia.org/resource/Eastern_Condors	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Corey_Yuen
+Eastern_Condors	Corey_Yuen
+Yuen_Wah	actedIn	Eastern_Condors
+Yuen_Wah	actedIn	Eastern_Condors
+Yuen_Wah	actedIn	The_Iceman_Cometh_(1989_film)
+Yuen_Wah	actedIn	The_Iceman_Cometh_(1989_film)
+Corey_Yuen	actedIn	The_Iceman_Cometh_(1989_film)
+Corey_Yuen	actedIn	The_Iceman_Cometh_(1989_film)
+
+http://dbpedia.org/resource/Eastern_Condors	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Corey_Yuen
+Eastern_Condors	Corey_Yuen
+Yuen_Wah	actedIn	Eastern_Condors
+Yuen_Wah	actedIn	Eastern_Condors
+Yuen_Wah	actedIn	Dragons_Forever
+Yuen_Wah	actedIn	Dragons_Forever
+Corey_Yuen	directed	Dragons_Forever
+Corey_Yuen	directed	Dragons_Forever
+
+http://dbpedia.org/resource/Eastern_Condors	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Corey_Yuen
+Eastern_Condors	Corey_Yuen
+Yuen_Biao	actedIn	Eastern_Condors
+Yuen_Biao	actedIn	Eastern_Condors
+Yuen_Biao	actedIn	Hero_(1997_film)
+Yuen_Biao	actedIn	Hero_(1997_film)
+Corey_Yuen	actedIn	Hero_(1997_film)
+Corey_Yuen	directed	Hero_(1997_film)
+Corey_Yuen	actedIn	Hero_(1997_film)
+Corey_Yuen	directed	Hero_(1997_film)
+
+http://dbpedia.org/resource/Eastern_Condors	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Corey_Yuen
+Eastern_Condors	Corey_Yuen
+Barry_Wong	created	Eastern_Condors
+Barry_Wong	created	Eastern_Condors
+Barry_Wong	created	Righting_Wrongs
+Barry_Wong	created	Righting_Wrongs
+Corey_Yuen	actedIn	Righting_Wrongs
+Corey_Yuen	directed	Righting_Wrongs
+Corey_Yuen	actedIn	Righting_Wrongs
+Corey_Yuen	directed	Righting_Wrongs
+
+http://dbpedia.org/resource/Eastern_Condors	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Corey_Yuen
+Eastern_Condors	Corey_Yuen
+Barry_Wong	created	Eastern_Condors
+Barry_Wong	created	Eastern_Condors
+Barry_Wong	created	Yes,_Madam
+Barry_Wong	created	Yes,_Madam
+Corey_Yuen	directed	Yes,_Madam
+Corey_Yuen	directed	Yes,_Madam
+
+http://dbpedia.org/resource/Majajan	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Syed_Noor
+Majajan	Syed_Noor
+Saima_Noor	actedIn	Majajan
+Saima_Noor	actedIn	Majajan
+Syed_Noor	isMarriedTo	Saima_Noor
+Saima_Noor	isMarriedTo	Syed_Noor
+Syed_Noor	isMarriedTo	Saima_Noor
+Saima_Noor	isMarriedTo	Syed_Noor
+
+http://dbpedia.org/resource/Majajan	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Syed_Noor
+Majajan	Syed_Noor
+Saima_Noor	actedIn	Majajan
+Saima_Noor	actedIn	Majajan
+Saima_Noor	actedIn	Darinda
+Saima_Noor	actedIn	Darinda
+Syed_Noor	created	Darinda
+Syed_Noor	created	Darinda
+
+http://dbpedia.org/resource/Majajan	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Syed_Noor
+Majajan	Syed_Noor
+Syed_Noor	directed	Majajan
+Syed_Noor	directed	Majajan
+
+http://dbpedia.org/resource/Majajan	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Syed_Noor
+Majajan	Syed_Noor
+Madiha_Shah	actedIn	Majajan
+Madiha_Shah	actedIn	Majajan
+Madiha_Shah	actedIn	Majajan
+Madiha_Shah	actedIn	Majajan
+Syed_Noor	directed	Majajan
+Syed_Noor	directed	Majajan
+
+http://dbpedia.org/resource/Majajan	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Syed_Noor
+Majajan	Syed_Noor
+Majajan	isLocatedIn	Pakistan
+Majajan	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Syed_Noor	hasWonPrize	Nigar_Awards
+Syed_Noor	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Fist_of_Fury_1991	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Corey_Yuen
+Fist_of_Fury_1991	Corey_Yuen
+Corey_Yuen	actedIn	Fist_of_Fury_1991
+Corey_Yuen	actedIn	Fist_of_Fury_1991
+
+http://dbpedia.org/resource/Fist_of_Fury_1991	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Corey_Yuen
+Fist_of_Fury_1991	Corey_Yuen
+Lowell_Lo	wroteMusicFor	Fist_of_Fury_1991
+Lowell_Lo	wroteMusicFor	Fist_of_Fury_1991
+Lowell_Lo	wroteMusicFor	Top_Bet
+Lowell_Lo	wroteMusicFor	Top_Bet
+Corey_Yuen	directed	Top_Bet
+Corey_Yuen	directed	Top_Bet
+
+http://dbpedia.org/resource/Fist_of_Fury_1991	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Corey_Yuen
+Fist_of_Fury_1991	Corey_Yuen
+Lowell_Lo	wroteMusicFor	Fist_of_Fury_1991
+Lowell_Lo	wroteMusicFor	Fist_of_Fury_1991
+Lowell_Lo	wroteMusicFor	Fist_of_Fury_1991
+Lowell_Lo	wroteMusicFor	Fist_of_Fury_1991
+Corey_Yuen	actedIn	Fist_of_Fury_1991
+Corey_Yuen	actedIn	Fist_of_Fury_1991
+
+http://dbpedia.org/resource/Fist_of_Fury_1991	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Corey_Yuen
+Fist_of_Fury_1991	Corey_Yuen
+Lowell_Lo	wroteMusicFor	Fist_of_Fury_1991
+Lowell_Lo	wroteMusicFor	Fist_of_Fury_1991
+Lowell_Lo	wroteMusicFor	Fong_Sai-yuk_II
+Lowell_Lo	wroteMusicFor	Fong_Sai-yuk_II
+Corey_Yuen	directed	Fong_Sai-yuk_II
+Corey_Yuen	directed	Fong_Sai-yuk_II
+
+http://dbpedia.org/resource/Dance_of_a_Dream	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Andy_Lau
+Dance_of_a_Dream	Andy_Lau
+Felix_Chong	created	Dance_of_a_Dream
+Felix_Chong	created	Dance_of_a_Dream
+Felix_Chong	created	Infernal_Affairs_III
+Felix_Chong	created	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Dance_of_a_Dream	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Andy_Lau
+Dance_of_a_Dream	Andy_Lau
+Andrew_Lau	directed	Dance_of_a_Dream
+Andrew_Lau	directed	Dance_of_a_Dream
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Andy_Lau	actedIn	The_Wesley's_Mysterious_File
+Andy_Lau	actedIn	The_Wesley's_Mysterious_File
+
+http://dbpedia.org/resource/Dance_of_a_Dream	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Andy_Lau
+Dance_of_a_Dream	Andy_Lau
+Andrew_Lau	directed	Dance_of_a_Dream
+Andrew_Lau	directed	Dance_of_a_Dream
+Andrew_Lau	directed	Infernal_Affairs
+Andrew_Lau	directed	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Dance_of_a_Dream	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Andy_Lau
+Dance_of_a_Dream	Andy_Lau
+Anita_Mui	actedIn	Dance_of_a_Dream
+Anita_Mui	actedIn	Dance_of_a_Dream
+Anita_Mui	actedIn	Dance_of_a_Dream
+Anita_Mui	actedIn	Dance_of_a_Dream
+Andy_Lau	actedIn	Dance_of_a_Dream
+Andy_Lau	actedIn	Dance_of_a_Dream
+
+http://dbpedia.org/resource/Dance_of_a_Dream	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Andy_Lau
+Dance_of_a_Dream	Andy_Lau
+Anita_Mui	actedIn	Dance_of_a_Dream
+Anita_Mui	actedIn	Dance_of_a_Dream
+Anita_Mui	actedIn	The_Fortune_Code
+Anita_Mui	actedIn	The_Fortune_Code
+Andy_Lau	actedIn	The_Fortune_Code
+Andy_Lau	actedIn	The_Fortune_Code
+
+http://dbpedia.org/resource/Dance_of_a_Dream	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Andy_Lau
+Dance_of_a_Dream	Andy_Lau
+Anita_Mui	actedIn	Dance_of_a_Dream
+Anita_Mui	actedIn	Dance_of_a_Dream
+Anita_Mui	actedIn	Saviour_of_the_Soul
+Anita_Mui	actedIn	Saviour_of_the_Soul
+Andy_Lau	actedIn	Saviour_of_the_Soul
+Andy_Lau	actedIn	Saviour_of_the_Soul
+
+http://dbpedia.org/resource/Dance_of_a_Dream	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Andy_Lau
+Dance_of_a_Dream	Andy_Lau
+Anita_Mui	actedIn	Dance_of_a_Dream
+Anita_Mui	actedIn	Dance_of_a_Dream
+Anita_Mui	actedIn	Moon_Warriors
+Anita_Mui	actedIn	Moon_Warriors
+Andy_Lau	actedIn	Moon_Warriors
+Andy_Lau	actedIn	Moon_Warriors
+
+http://dbpedia.org/resource/Dance_of_a_Dream	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Andy_Lau
+Dance_of_a_Dream	Andy_Lau
+Anita_Mui	actedIn	Dance_of_a_Dream
+Anita_Mui	actedIn	Dance_of_a_Dream
+Anita_Mui	actedIn	The_Banquet_(1991_film)
+Anita_Mui	actedIn	The_Banquet_(1991_film)
+Andy_Lau	actedIn	The_Banquet_(1991_film)
+Andy_Lau	actedIn	The_Banquet_(1991_film)
+
+http://dbpedia.org/resource/Dance_of_a_Dream	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Andy_Lau
+Dance_of_a_Dream	Andy_Lau
+Anita_Mui	actedIn	Dance_of_a_Dream
+Anita_Mui	actedIn	Dance_of_a_Dream
+Anita_Mui	actedIn	Drunken_Master_II
+Anita_Mui	actedIn	Drunken_Master_II
+Andy_Lau	actedIn	Drunken_Master_II
+Andy_Lau	actedIn	Drunken_Master_II
+
+http://dbpedia.org/resource/Dance_of_a_Dream	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Andy_Lau
+Dance_of_a_Dream	Andy_Lau
+Sandra_Ng	actedIn	Dance_of_a_Dream
+Sandra_Ng	actedIn	Dance_of_a_Dream
+Sandra_Ng	actedIn	Dance_of_a_Dream
+Sandra_Ng	actedIn	Dance_of_a_Dream
+Andy_Lau	actedIn	Dance_of_a_Dream
+Andy_Lau	actedIn	Dance_of_a_Dream
+
+http://dbpedia.org/resource/Dance_of_a_Dream	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Andy_Lau
+Dance_of_a_Dream	Andy_Lau
+Sandra_Ng	actedIn	Dance_of_a_Dream
+Sandra_Ng	actedIn	Dance_of_a_Dream
+Sandra_Ng	actedIn	Crocodile_Hunter_(film)
+Sandra_Ng	actedIn	Crocodile_Hunter_(film)
+Andy_Lau	actedIn	Crocodile_Hunter_(film)
+Andy_Lau	actedIn	Crocodile_Hunter_(film)
+
+http://dbpedia.org/resource/Dance_of_a_Dream	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Andy_Lau
+Dance_of_a_Dream	Andy_Lau
+Sandra_Ng	actedIn	Dance_of_a_Dream
+Sandra_Ng	actedIn	Dance_of_a_Dream
+Sandra_Ng	actedIn	Golden_Chicken
+Sandra_Ng	actedIn	Golden_Chicken
+Andy_Lau	actedIn	Golden_Chicken
+Andy_Lau	actedIn	Golden_Chicken
+
+http://dbpedia.org/resource/Dance_of_a_Dream	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Andy_Lau
+Dance_of_a_Dream	Andy_Lau
+Andy_Lau	actedIn	Dance_of_a_Dream
+Andy_Lau	actedIn	Dance_of_a_Dream
+
+http://dbpedia.org/resource/The_Road_from_Elephant_Pass_(film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Chandran_Rutnam
+The_Road_from_Elephant_Pass_(film)	Chandran_Rutnam
+Chandran_Rutnam	directed	The_Road_from_Elephant_Pass_(film)
+Chandran_Rutnam	created	The_Road_from_Elephant_Pass_(film)
+Chandran_Rutnam	edited	The_Road_from_Elephant_Pass_(film)
+Chandran_Rutnam	directed	The_Road_from_Elephant_Pass_(film)
+Chandran_Rutnam	created	The_Road_from_Elephant_Pass_(film)
+Chandran_Rutnam	edited	The_Road_from_Elephant_Pass_(film)
+
+http://dbpedia.org/resource/Madeinusa	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Claudia_Llosa
+Madeinusa	Claudia_Llosa
+Claudia_Llosa	created	Madeinusa
+Claudia_Llosa	directed	Madeinusa
+Claudia_Llosa	created	Madeinusa
+Claudia_Llosa	directed	Madeinusa
+
+http://dbpedia.org/resource/Little_Cop	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Eric_Tsang
+Little_Cop	Eric_Tsang
+Eric_Tsang	directed	Little_Cop
+Eric_Tsang	actedIn	Little_Cop
+Eric_Tsang	directed	Little_Cop
+Eric_Tsang	actedIn	Little_Cop
+
+http://dbpedia.org/resource/Wowowin	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Willie_Revillame
+Wowowin	Willie_Revillame
+Willie_Revillame	created	Wowowin
+Willie_Revillame	created	Wowowin
+
+http://dbpedia.org/resource/Wowowin	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Willie_Revillame
+Wowowin	Willie_Revillame
+GMA_Network	created	Wowowin
+GMA_Network	created	Wowowin
+GMA_Network	created	Wowowin
+GMA_Network	created	Wowowin
+Willie_Revillame	created	Wowowin
+Willie_Revillame	created	Wowowin
+
+http://dbpedia.org/resource/Top_Bet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Corey_Yuen
+Top_Bet	Corey_Yuen
+Anita_Mui	actedIn	Top_Bet
+Anita_Mui	actedIn	Top_Bet
+Anita_Mui	actedIn	My_Father_Is_a_Hero
+Anita_Mui	actedIn	My_Father_Is_a_Hero
+Corey_Yuen	directed	My_Father_Is_a_Hero
+Corey_Yuen	directed	My_Father_Is_a_Hero
+
+http://dbpedia.org/resource/Top_Bet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Corey_Yuen
+Top_Bet	Corey_Yuen
+Anita_Mui	actedIn	Top_Bet
+Anita_Mui	actedIn	Top_Bet
+Anita_Mui	actedIn	Top_Bet
+Anita_Mui	actedIn	Top_Bet
+Corey_Yuen	directed	Top_Bet
+Corey_Yuen	directed	Top_Bet
+
+http://dbpedia.org/resource/Top_Bet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Corey_Yuen
+Top_Bet	Corey_Yuen
+Anita_Mui	actedIn	Top_Bet
+Anita_Mui	actedIn	Top_Bet
+Anita_Mui	actedIn	Saviour_of_the_Soul
+Anita_Mui	actedIn	Saviour_of_the_Soul
+Corey_Yuen	directed	Saviour_of_the_Soul
+Corey_Yuen	directed	Saviour_of_the_Soul
+
+http://dbpedia.org/resource/Top_Bet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Corey_Yuen
+Top_Bet	Corey_Yuen
+Corey_Yuen	directed	Top_Bet
+Corey_Yuen	directed	Top_Bet
+
+http://dbpedia.org/resource/Top_Bet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Corey_Yuen
+Top_Bet	Corey_Yuen
+Lowell_Lo	wroteMusicFor	Top_Bet
+Lowell_Lo	wroteMusicFor	Top_Bet
+Lowell_Lo	wroteMusicFor	Top_Bet
+Lowell_Lo	wroteMusicFor	Top_Bet
+Corey_Yuen	directed	Top_Bet
+Corey_Yuen	directed	Top_Bet
+
+http://dbpedia.org/resource/Top_Bet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Corey_Yuen
+Top_Bet	Corey_Yuen
+Lowell_Lo	wroteMusicFor	Top_Bet
+Lowell_Lo	wroteMusicFor	Top_Bet
+Lowell_Lo	wroteMusicFor	Fist_of_Fury_1991
+Lowell_Lo	wroteMusicFor	Fist_of_Fury_1991
+Corey_Yuen	actedIn	Fist_of_Fury_1991
+Corey_Yuen	actedIn	Fist_of_Fury_1991
+
+http://dbpedia.org/resource/Top_Bet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Corey_Yuen
+Top_Bet	Corey_Yuen
+Lowell_Lo	wroteMusicFor	Top_Bet
+Lowell_Lo	wroteMusicFor	Top_Bet
+Lowell_Lo	wroteMusicFor	Fong_Sai-yuk_II
+Lowell_Lo	wroteMusicFor	Fong_Sai-yuk_II
+Corey_Yuen	directed	Fong_Sai-yuk_II
+Corey_Yuen	directed	Fong_Sai-yuk_II
+
+http://dbpedia.org/resource/Top_Bet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Corey_Yuen
+Top_Bet	Corey_Yuen
+Ng_Man-tat	actedIn	Top_Bet
+Ng_Man-tat	actedIn	Top_Bet
+Ng_Man-tat	actedIn	All_for_the_Winner
+Ng_Man-tat	actedIn	All_for_the_Winner
+Corey_Yuen	directed	All_for_the_Winner
+Corey_Yuen	actedIn	All_for_the_Winner
+Corey_Yuen	directed	All_for_the_Winner
+Corey_Yuen	actedIn	All_for_the_Winner
+
+http://dbpedia.org/resource/Top_Bet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Corey_Yuen
+Top_Bet	Corey_Yuen
+Ng_Man-tat	actedIn	Top_Bet
+Ng_Man-tat	actedIn	Top_Bet
+Ng_Man-tat	actedIn	Top_Bet
+Ng_Man-tat	actedIn	Top_Bet
+Corey_Yuen	directed	Top_Bet
+Corey_Yuen	directed	Top_Bet
+
+http://dbpedia.org/resource/Crazy_Safari	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Barry_Wong
+Crazy_Safari	Barry_Wong
+Lam_Ching-ying	actedIn	Crazy_Safari
+Lam_Ching-ying	actedIn	Crazy_Safari
+Lam_Ching-ying	actedIn	Mr._Vampire_II
+Lam_Ching-ying	actedIn	Mr._Vampire_II
+Barry_Wong	created	Mr._Vampire_II
+Barry_Wong	created	Mr._Vampire_II
+
+http://dbpedia.org/resource/Crazy_Safari	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Barry_Wong
+Crazy_Safari	Barry_Wong
+Nǃxau_ǂToma	actedIn	Crazy_Safari
+Nǃxau_ǂToma	actedIn	Crazy_Safari
+Nǃxau_ǂToma	actedIn	Crazy_Safari
+Nǃxau_ǂToma	actedIn	Crazy_Safari
+Barry_Wong	created	Crazy_Safari
+Barry_Wong	created	Crazy_Safari
+
+http://dbpedia.org/resource/Crazy_Safari	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Barry_Wong
+Crazy_Safari	Barry_Wong
+Barry_Wong	created	Crazy_Safari
+Barry_Wong	created	Crazy_Safari
+
+http://dbpedia.org/resource/Jhoomar	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Syed_Noor
+Jhoomar	Syed_Noor
+Syed_Noor	created	Jhoomar
+Syed_Noor	directed	Jhoomar
+Syed_Noor	created	Jhoomar
+Syed_Noor	directed	Jhoomar
+
+http://dbpedia.org/resource/Jhoomar	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Syed_Noor
+Jhoomar	Syed_Noor
+Saima_Noor	actedIn	Jhoomar
+Saima_Noor	actedIn	Jhoomar
+Syed_Noor	isMarriedTo	Saima_Noor
+Saima_Noor	isMarriedTo	Syed_Noor
+Syed_Noor	isMarriedTo	Saima_Noor
+Saima_Noor	isMarriedTo	Syed_Noor
+
+http://dbpedia.org/resource/Jhoomar	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Syed_Noor
+Jhoomar	Syed_Noor
+Saima_Noor	actedIn	Jhoomar
+Saima_Noor	actedIn	Jhoomar
+Saima_Noor	actedIn	Darinda
+Saima_Noor	actedIn	Darinda
+Syed_Noor	created	Darinda
+Syed_Noor	created	Darinda
+
+http://dbpedia.org/resource/Love_on_a_Diet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Love_on_a_Diet	Wai_Ka-fai
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Running_on_Karma
+Johnnie_To	directed	Running_on_Karma
+Wai_Ka-fai	directed	Running_on_Karma
+Wai_Ka-fai	directed	Running_on_Karma
+
+http://dbpedia.org/resource/Love_on_a_Diet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Love_on_a_Diet	Wai_Ka-fai
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Romancing_in_Thin_Air
+Johnnie_To	directed	Romancing_in_Thin_Air
+Wai_Ka-fai	created	Romancing_in_Thin_Air
+Wai_Ka-fai	created	Romancing_in_Thin_Air
+
+http://dbpedia.org/resource/Love_on_a_Diet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Love_on_a_Diet	Wai_Ka-fai
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+
+http://dbpedia.org/resource/Love_on_a_Diet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Love_on_a_Diet	Wai_Ka-fai
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	My_Left_Eye_Sees_Ghosts
+Johnnie_To	directed	My_Left_Eye_Sees_Ghosts
+Wai_Ka-fai	directed	My_Left_Eye_Sees_Ghosts
+Wai_Ka-fai	directed	My_Left_Eye_Sees_Ghosts
+
+http://dbpedia.org/resource/Love_on_a_Diet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Love_on_a_Diet	Wai_Ka-fai
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Wu_yen
+Johnnie_To	directed	Wu_yen
+Wai_Ka-fai	created	Wu_yen
+Wai_Ka-fai	directed	Wu_yen
+Wai_Ka-fai	created	Wu_yen
+Wai_Ka-fai	directed	Wu_yen
+
+http://dbpedia.org/resource/Love_on_a_Diet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Love_on_a_Diet	Wai_Ka-fai
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Don't_Go_Breaking_My_Heart_(film)
+Johnnie_To	directed	Don't_Go_Breaking_My_Heart_(film)
+Wai_Ka-fai	directed	Don't_Go_Breaking_My_Heart_(film)
+Wai_Ka-fai	directed	Don't_Go_Breaking_My_Heart_(film)
+
+http://dbpedia.org/resource/Love_on_a_Diet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Love_on_a_Diet	Wai_Ka-fai
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Fulltime_Killer
+Johnnie_To	directed	Fulltime_Killer
+Wai_Ka-fai	directed	Fulltime_Killer
+Wai_Ka-fai	directed	Fulltime_Killer
+
+http://dbpedia.org/resource/Love_on_a_Diet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Love_on_a_Diet	Wai_Ka-fai
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Fat_Choi_Spirit
+Johnnie_To	directed	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+
+http://dbpedia.org/resource/Love_on_a_Diet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Love_on_a_Diet	Wai_Ka-fai
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Johnnie_To	directed	Turn_Left,_Turn_Right
+Wai_Ka-fai	directed	Turn_Left,_Turn_Right
+Wai_Ka-fai	directed	Turn_Left,_Turn_Right
+
+http://dbpedia.org/resource/Love_on_a_Diet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Love_on_a_Diet	Wai_Ka-fai
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Mad_Detective
+Johnnie_To	directed	Mad_Detective
+Wai_Ka-fai	directed	Mad_Detective
+Wai_Ka-fai	directed	Mad_Detective
+
+http://dbpedia.org/resource/Love_on_a_Diet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Love_on_a_Diet	Wai_Ka-fai
+Wai_Ka-fai	directed	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+
+http://dbpedia.org/resource/Love_on_a_Diet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Love_on_a_Diet	Wai_Ka-fai
+Yau_Nai-hoi	created	Love_on_a_Diet
+Yau_Nai-hoi	created	Love_on_a_Diet
+Yau_Nai-hoi	created	Love_on_a_Diet
+Yau_Nai-hoi	created	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+
+http://dbpedia.org/resource/Love_on_a_Diet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Love_on_a_Diet	Wai_Ka-fai
+Yau_Nai-hoi	created	Love_on_a_Diet
+Yau_Nai-hoi	created	Love_on_a_Diet
+Yau_Nai-hoi	created	Fat_Choi_Spirit
+Yau_Nai-hoi	created	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+Wai_Ka-fai	directed	Fat_Choi_Spirit
+
+http://dbpedia.org/resource/Love_on_a_Diet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Love_on_a_Diet	Wai_Ka-fai
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+
+http://dbpedia.org/resource/Love_on_a_Diet	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Wai_Ka-fai
+Love_on_a_Diet	Wai_Ka-fai
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Sammi_Cheng	actedIn	Wu_yen
+Sammi_Cheng	actedIn	Wu_yen
+Wai_Ka-fai	created	Wu_yen
+Wai_Ka-fai	directed	Wu_yen
+Wai_Ka-fai	created	Wu_yen
+Wai_Ka-fai	directed	Wu_yen
+

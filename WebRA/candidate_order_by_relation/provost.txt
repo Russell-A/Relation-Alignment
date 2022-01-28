@@ -1,0 +1,537 @@
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Ellen_Silbergeld	worksAt	Johns_Hopkins_University
+Ellen_Silbergeld	graduatedFrom	Johns_Hopkins_University
+Ellen_Silbergeld	worksAt	Johns_Hopkins_University
+Ellen_Silbergeld	graduatedFrom	Johns_Hopkins_University
+Ellen_Silbergeld	worksAt	Johns_Hopkins_University
+Ellen_Silbergeld	graduatedFrom	Johns_Hopkins_University
+Ellen_Silbergeld	worksAt	Johns_Hopkins_University
+Ellen_Silbergeld	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Steven_Salzberg	worksAt	Johns_Hopkins_University
+Steven_Salzberg	worksAt	Johns_Hopkins_University
+Steven_Salzberg	worksAt	Johns_Hopkins_University
+Steven_Salzberg	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Linda_R._Greenstein	graduatedFrom	Johns_Hopkins_University
+Linda_R._Greenstein	graduatedFrom	Johns_Hopkins_University
+Linda_R._Greenstein	graduatedFrom	Johns_Hopkins_University
+Linda_R._Greenstein	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Albert_Gjedde	worksAt	Johns_Hopkins_University
+Albert_Gjedde	worksAt	Johns_Hopkins_University
+Albert_Gjedde	worksAt	Johns_Hopkins_University
+Albert_Gjedde	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Arturo_Sarukhán	graduatedFrom	Johns_Hopkins_University
+Arturo_Sarukhán	graduatedFrom	Johns_Hopkins_University
+Arturo_Sarukhán	graduatedFrom	Johns_Hopkins_University
+Arturo_Sarukhán	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Floyd_Cunningham	graduatedFrom	Johns_Hopkins_University
+Floyd_Cunningham	graduatedFrom	Johns_Hopkins_University
+Floyd_Cunningham	graduatedFrom	Johns_Hopkins_University
+Floyd_Cunningham	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Cornelius_M._Kerwin	graduatedFrom	Johns_Hopkins_University
+Cornelius_M._Kerwin	graduatedFrom	Johns_Hopkins_University
+Cornelius_M._Kerwin	graduatedFrom	Johns_Hopkins_University
+Cornelius_M._Kerwin	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Frederick_Jelinek	worksAt	Johns_Hopkins_University
+Frederick_Jelinek	worksAt	Johns_Hopkins_University
+Frederick_Jelinek	worksAt	Johns_Hopkins_University
+Frederick_Jelinek	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Irving_Stringham	graduatedFrom	Johns_Hopkins_University
+Irving_Stringham	graduatedFrom	Johns_Hopkins_University
+Irving_Stringham	graduatedFrom	Johns_Hopkins_University
+Irving_Stringham	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Ayesha_Siddiqa	worksAt	Johns_Hopkins_University
+Ayesha_Siddiqa	worksAt	Johns_Hopkins_University
+Ayesha_Siddiqa	worksAt	Johns_Hopkins_University
+Ayesha_Siddiqa	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Tom_Conroy	graduatedFrom	Johns_Hopkins_University
+Tom_Conroy	graduatedFrom	Johns_Hopkins_University
+Tom_Conroy	graduatedFrom	Johns_Hopkins_University
+Tom_Conroy	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Joseph_Shalika	worksAt	Johns_Hopkins_University
+Joseph_Shalika	graduatedFrom	Johns_Hopkins_University
+Joseph_Shalika	worksAt	Johns_Hopkins_University
+Joseph_Shalika	graduatedFrom	Johns_Hopkins_University
+Joseph_Shalika	worksAt	Johns_Hopkins_University
+Joseph_Shalika	graduatedFrom	Johns_Hopkins_University
+Joseph_Shalika	worksAt	Johns_Hopkins_University
+Joseph_Shalika	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Lisa_Cooper	graduatedFrom	Johns_Hopkins_University
+Lisa_Cooper	worksAt	Johns_Hopkins_University
+Lisa_Cooper	graduatedFrom	Johns_Hopkins_University
+Lisa_Cooper	worksAt	Johns_Hopkins_University
+Lisa_Cooper	graduatedFrom	Johns_Hopkins_University
+Lisa_Cooper	worksAt	Johns_Hopkins_University
+Lisa_Cooper	graduatedFrom	Johns_Hopkins_University
+Lisa_Cooper	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Cordwainer_Smith	graduatedFrom	Johns_Hopkins_University
+Cordwainer_Smith	graduatedFrom	Johns_Hopkins_University
+Cordwainer_Smith	graduatedFrom	Johns_Hopkins_University
+Cordwainer_Smith	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Daniel_Nathans	graduatedFrom	Johns_Hopkins_University
+Daniel_Nathans	graduatedFrom	Johns_Hopkins_University
+Daniel_Nathans	graduatedFrom	Johns_Hopkins_University
+Daniel_Nathans	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Henry_Augustus_Rowland	worksAt	Johns_Hopkins_University
+Henry_Augustus_Rowland	worksAt	Johns_Hopkins_University
+Henry_Augustus_Rowland	worksAt	Johns_Hopkins_University
+Henry_Augustus_Rowland	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Henry_Gantt	graduatedFrom	Johns_Hopkins_University
+Henry_Gantt	graduatedFrom	Johns_Hopkins_University
+Henry_Gantt	graduatedFrom	Johns_Hopkins_University
+Henry_Gantt	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Daniel_Oerther	graduatedFrom	Johns_Hopkins_University
+Daniel_Oerther	graduatedFrom	Johns_Hopkins_University
+Daniel_Oerther	graduatedFrom	Johns_Hopkins_University
+Daniel_Oerther	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Samuel_T._Francis	graduatedFrom	Johns_Hopkins_University
+Samuel_T._Francis	graduatedFrom	Johns_Hopkins_University
+Samuel_T._Francis	graduatedFrom	Johns_Hopkins_University
+Samuel_T._Francis	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Alice_S._Huang	worksAt	Johns_Hopkins_University
+Alice_S._Huang	graduatedFrom	Johns_Hopkins_University
+Alice_S._Huang	worksAt	Johns_Hopkins_University
+Alice_S._Huang	graduatedFrom	Johns_Hopkins_University
+Alice_S._Huang	worksAt	Johns_Hopkins_University
+Alice_S._Huang	graduatedFrom	Johns_Hopkins_University
+Alice_S._Huang	worksAt	Johns_Hopkins_University
+Alice_S._Huang	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Jillian_Parry_Fry	graduatedFrom	Johns_Hopkins_University
+Jillian_Parry_Fry	graduatedFrom	Johns_Hopkins_University
+Jillian_Parry_Fry	graduatedFrom	Johns_Hopkins_University
+Jillian_Parry_Fry	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+William_H._Dobelle	graduatedFrom	Johns_Hopkins_University
+William_H._Dobelle	graduatedFrom	Johns_Hopkins_University
+William_H._Dobelle	graduatedFrom	Johns_Hopkins_University
+William_H._Dobelle	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Aage_B._Sørensen	graduatedFrom	Johns_Hopkins_University
+Aage_B._Sørensen	graduatedFrom	Johns_Hopkins_University
+Aage_B._Sørensen	graduatedFrom	Johns_Hopkins_University
+Aage_B._Sørensen	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Neil_Wigan	graduatedFrom	Johns_Hopkins_University
+Neil_Wigan	graduatedFrom	Johns_Hopkins_University
+Neil_Wigan	graduatedFrom	Johns_Hopkins_University
+Neil_Wigan	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Stanley_Corrsin	graduatedFrom	Johns_Hopkins_University
+Stanley_Corrsin	graduatedFrom	Johns_Hopkins_University
+Stanley_Corrsin	graduatedFrom	Johns_Hopkins_University
+Stanley_Corrsin	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Samer_Hattar	worksAt	Johns_Hopkins_University
+Samer_Hattar	worksAt	Johns_Hopkins_University
+Samer_Hattar	worksAt	Johns_Hopkins_University
+Samer_Hattar	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+August_Herman_Pfund	graduatedFrom	Johns_Hopkins_University
+August_Herman_Pfund	graduatedFrom	Johns_Hopkins_University
+August_Herman_Pfund	graduatedFrom	Johns_Hopkins_University
+August_Herman_Pfund	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Ira_Remsen	worksAt	Johns_Hopkins_University
+Ira_Remsen	worksAt	Johns_Hopkins_University
+Ira_Remsen	worksAt	Johns_Hopkins_University
+Ira_Remsen	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Alessia_Mosca	graduatedFrom	Johns_Hopkins_University
+Alessia_Mosca	graduatedFrom	Johns_Hopkins_University
+Alessia_Mosca	graduatedFrom	Johns_Hopkins_University
+Alessia_Mosca	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Jennifer_Finney_Boylan	graduatedFrom	Johns_Hopkins_University
+Jennifer_Finney_Boylan	graduatedFrom	Johns_Hopkins_University
+Jennifer_Finney_Boylan	graduatedFrom	Johns_Hopkins_University
+Jennifer_Finney_Boylan	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Frank_Moore_Cross	graduatedFrom	Johns_Hopkins_University
+Frank_Moore_Cross	worksAt	Johns_Hopkins_University
+Frank_Moore_Cross	graduatedFrom	Johns_Hopkins_University
+Frank_Moore_Cross	worksAt	Johns_Hopkins_University
+Frank_Moore_Cross	graduatedFrom	Johns_Hopkins_University
+Frank_Moore_Cross	worksAt	Johns_Hopkins_University
+Frank_Moore_Cross	graduatedFrom	Johns_Hopkins_University
+Frank_Moore_Cross	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+W._Braddock_Hickman	graduatedFrom	Johns_Hopkins_University
+W._Braddock_Hickman	graduatedFrom	Johns_Hopkins_University
+W._Braddock_Hickman	graduatedFrom	Johns_Hopkins_University
+W._Braddock_Hickman	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Thorstein_Veblen	graduatedFrom	Johns_Hopkins_University
+Thorstein_Veblen	graduatedFrom	Johns_Hopkins_University
+Thorstein_Veblen	graduatedFrom	Johns_Hopkins_University
+Thorstein_Veblen	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+G._B._Halsted	graduatedFrom	Johns_Hopkins_University
+G._B._Halsted	graduatedFrom	Johns_Hopkins_University
+G._B._Halsted	graduatedFrom	Johns_Hopkins_University
+G._B._Halsted	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Johns_Hopkins_University	isLocatedIn	Maryland
+Johns_Hopkins_University	isLocatedIn	Maryland
+Johns_Hopkins_University	isLocatedIn	Maryland
+Johns_Hopkins_University	isLocatedIn	Maryland
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Bruce_Friedrich	graduatedFrom	Johns_Hopkins_University
+Bruce_Friedrich	graduatedFrom	Johns_Hopkins_University
+Bruce_Friedrich	graduatedFrom	Johns_Hopkins_University
+Bruce_Friedrich	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+J._A._C._Chandler	graduatedFrom	Johns_Hopkins_University
+J._A._C._Chandler	graduatedFrom	Johns_Hopkins_University
+J._A._C._Chandler	graduatedFrom	Johns_Hopkins_University
+J._A._C._Chandler	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Eugene_Lindsay_Opie	graduatedFrom	Johns_Hopkins_University
+Eugene_Lindsay_Opie	worksAt	Johns_Hopkins_University
+Eugene_Lindsay_Opie	graduatedFrom	Johns_Hopkins_University
+Eugene_Lindsay_Opie	worksAt	Johns_Hopkins_University
+Eugene_Lindsay_Opie	graduatedFrom	Johns_Hopkins_University
+Eugene_Lindsay_Opie	worksAt	Johns_Hopkins_University
+Eugene_Lindsay_Opie	graduatedFrom	Johns_Hopkins_University
+Eugene_Lindsay_Opie	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Nurul_Izzah_Anwar	graduatedFrom	Johns_Hopkins_University
+Nurul_Izzah_Anwar	graduatedFrom	Johns_Hopkins_University
+Nurul_Izzah_Anwar	graduatedFrom	Johns_Hopkins_University
+Nurul_Izzah_Anwar	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Michael_Bloomberg	graduatedFrom	Johns_Hopkins_University
+Michael_Bloomberg	graduatedFrom	Johns_Hopkins_University
+Michael_Bloomberg	graduatedFrom	Johns_Hopkins_University
+Michael_Bloomberg	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+John_Corcoran_(logician)	graduatedFrom	Johns_Hopkins_University
+John_Corcoran_(logician)	graduatedFrom	Johns_Hopkins_University
+John_Corcoran_(logician)	graduatedFrom	Johns_Hopkins_University
+John_Corcoran_(logician)	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Timothy_Naftali	graduatedFrom	Johns_Hopkins_University
+Timothy_Naftali	graduatedFrom	Johns_Hopkins_University
+Timothy_Naftali	graduatedFrom	Johns_Hopkins_University
+Timothy_Naftali	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Arthur_Byron_Coble	worksAt	Johns_Hopkins_University
+Arthur_Byron_Coble	graduatedFrom	Johns_Hopkins_University
+Arthur_Byron_Coble	worksAt	Johns_Hopkins_University
+Arthur_Byron_Coble	graduatedFrom	Johns_Hopkins_University
+Arthur_Byron_Coble	worksAt	Johns_Hopkins_University
+Arthur_Byron_Coble	graduatedFrom	Johns_Hopkins_University
+Arthur_Byron_Coble	worksAt	Johns_Hopkins_University
+Arthur_Byron_Coble	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+James_Joseph_Sylvester	worksAt	Johns_Hopkins_University
+James_Joseph_Sylvester	worksAt	Johns_Hopkins_University
+James_Joseph_Sylvester	worksAt	Johns_Hopkins_University
+James_Joseph_Sylvester	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Jay_Webber	graduatedFrom	Johns_Hopkins_University
+Jay_Webber	graduatedFrom	Johns_Hopkins_University
+Jay_Webber	graduatedFrom	Johns_Hopkins_University
+Jay_Webber	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Dudley_G._Wooten	graduatedFrom	Johns_Hopkins_University
+Dudley_G._Wooten	graduatedFrom	Johns_Hopkins_University
+Dudley_G._Wooten	graduatedFrom	Johns_Hopkins_University
+Dudley_G._Wooten	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+John_Archibald_Wheeler	graduatedFrom	Johns_Hopkins_University
+John_Archibald_Wheeler	graduatedFrom	Johns_Hopkins_University
+John_Archibald_Wheeler	graduatedFrom	Johns_Hopkins_University
+John_Archibald_Wheeler	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Henry_Kautz	graduatedFrom	Johns_Hopkins_University
+Henry_Kautz	graduatedFrom	Johns_Hopkins_University
+Henry_Kautz	graduatedFrom	Johns_Hopkins_University
+Henry_Kautz	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Julia_Anna_Gardner	graduatedFrom	Johns_Hopkins_University
+Julia_Anna_Gardner	graduatedFrom	Johns_Hopkins_University
+Julia_Anna_Gardner	graduatedFrom	Johns_Hopkins_University
+Julia_Anna_Gardner	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Karl_Lashley	graduatedFrom	Johns_Hopkins_University
+Karl_Lashley	graduatedFrom	Johns_Hopkins_University
+Karl_Lashley	graduatedFrom	Johns_Hopkins_University
+Karl_Lashley	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+George_Kempf	graduatedFrom	Johns_Hopkins_University
+George_Kempf	graduatedFrom	Johns_Hopkins_University
+George_Kempf	graduatedFrom	Johns_Hopkins_University
+George_Kempf	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Stephen_Stetler	graduatedFrom	Johns_Hopkins_University
+Stephen_Stetler	graduatedFrom	Johns_Hopkins_University
+Stephen_Stetler	graduatedFrom	Johns_Hopkins_University
+Stephen_Stetler	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+George_Wilton_Field	graduatedFrom	Johns_Hopkins_University
+George_Wilton_Field	graduatedFrom	Johns_Hopkins_University
+George_Wilton_Field	graduatedFrom	Johns_Hopkins_University
+George_Wilton_Field	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Edita_Tahiri	graduatedFrom	Johns_Hopkins_University
+Edita_Tahiri	graduatedFrom	Johns_Hopkins_University
+Edita_Tahiri	graduatedFrom	Johns_Hopkins_University
+Edita_Tahiri	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Arnold_Harberger	graduatedFrom	Johns_Hopkins_University
+Arnold_Harberger	graduatedFrom	Johns_Hopkins_University
+Arnold_Harberger	graduatedFrom	Johns_Hopkins_University
+Arnold_Harberger	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Johns_Hopkins_University	http://dbpedia.org/ontology/provost	http://dbpedia.org/resource/Robert_C._Lieberman
+Johns_Hopkins_University	Robert_C._Lieberman
+Prince_Zeid_bin_Ra'ad	graduatedFrom	Johns_Hopkins_University
+Prince_Zeid_bin_Ra'ad	graduatedFrom	Johns_Hopkins_University
+Prince_Zeid_bin_Ra'ad	graduatedFrom	Johns_Hopkins_University
+Prince_Zeid_bin_Ra'ad	graduatedFrom	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+Robert_C._Lieberman	worksAt	Johns_Hopkins_University
+

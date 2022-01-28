@@ -1,0 +1,847 @@
+http://dbpedia.org/resource/Ponta_Delgada_Football_Association	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Santa_Maria_Island
+Ponta_Delgada_Football_Association	Santa_Maria_Island
+Ponta_Delgada_Football_Association	isLocatedIn	Ponta_Delgada
+Ponta_Delgada_Football_Association	isLocatedIn	Ponta_Delgada
+Azores	hasCapital	Ponta_Delgada
+Ponta_Delgada	isLocatedIn	Azores
+Azores	hasCapital	Ponta_Delgada
+Ponta_Delgada	isLocatedIn	Azores
+Santa_Maria_Island	isLocatedIn	Azores
+Santa_Maria_Island	isLocatedIn	Azores
+
+http://dbpedia.org/resource/Ponta_Delgada_Football_Association	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Santa_Maria_Island
+Ponta_Delgada_Football_Association	Santa_Maria_Island
+Ponta_Delgada_Football_Association	isLocatedIn	Azores
+Ponta_Delgada_Football_Association	isLocatedIn	Azores
+Santa_Maria_Island	isLocatedIn	Azores
+Santa_Maria_Island	isLocatedIn	Azores
+
+http://dbpedia.org/resource/Ponta_Delgada_Football_Association	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Santa_Maria_Island
+Ponta_Delgada_Football_Association	Santa_Maria_Island
+Ponta_Delgada_Football_Association	isLocatedIn	Azores
+Ponta_Delgada_Football_Association	isLocatedIn	Azores
+Santa_Maria_Airport_(Azores)	isLocatedIn	Azores
+Santa_Maria_Airport_(Azores)	isLocatedIn	Azores
+Santa_Maria_Airport_(Azores)	isLocatedIn	Santa_Maria_Island
+Santa_Maria_Airport_(Azores)	isLocatedIn	Santa_Maria_Island
+
+http://dbpedia.org/resource/Kompas_Gramedia_Group	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Indonesia
+Kompas_Gramedia_Group	Indonesia
+Kompas_Gramedia_Group	owns	Kompas_TV
+Kompas_Gramedia_Group	owns	Kompas_TV
+Kompas_TV	isLocatedIn	Indonesia
+Kompas_TV	isLocatedIn	Indonesia
+
+http://dbpedia.org/resource/Kompas_Gramedia_Group	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Indonesia
+Kompas_Gramedia_Group	Indonesia
+Kompas_Gramedia_Group	owns	Trans7
+Kompas_Gramedia_Group	owns	Trans7
+Trans_Corp	owns	Trans7
+Trans_Corp	owns	Trans7
+Trans_Corp	isLocatedIn	Indonesia
+Trans_Corp	isLocatedIn	Indonesia
+
+http://dbpedia.org/resource/Kompas_Gramedia_Group	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Indonesia
+Kompas_Gramedia_Group	Indonesia
+Kompas_Gramedia_Group	owns	Trans7
+Kompas_Gramedia_Group	owns	Trans7
+Trans7	isLocatedIn	Indonesia
+Trans7	isLocatedIn	Indonesia
+
+http://dbpedia.org/resource/Kompas_Gramedia_Group	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Indonesia
+Kompas_Gramedia_Group	Indonesia
+Jakob_Oetama	created	Kompas_Gramedia_Group
+Jakob_Oetama	created	Kompas_Gramedia_Group
+Jakob_Oetama	graduatedFrom	Gadjah_Mada_University
+Jakob_Oetama	graduatedFrom	Gadjah_Mada_University
+Gadjah_Mada_University	isLocatedIn	Indonesia
+Gadjah_Mada_University	isLocatedIn	Indonesia
+
+http://dbpedia.org/resource/Kompas_Gramedia_Group	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Indonesia
+Kompas_Gramedia_Group	Indonesia
+Jakob_Oetama	created	Kompas_Gramedia_Group
+Jakob_Oetama	created	Kompas_Gramedia_Group
+Jakob_Oetama	isCitizenOf	Indonesia
+Jakob_Oetama	isCitizenOf	Indonesia
+
+http://dbpedia.org/resource/Kompas_Gramedia_Group	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Indonesia
+Kompas_Gramedia_Group	Indonesia
+Kompas_Gramedia_Group	isLocatedIn	Jakarta
+Kompas_Gramedia_Group	isLocatedIn	Jakarta
+Pramoedya_Ananta_Toer	diedIn	Jakarta
+Pramoedya_Ananta_Toer	diedIn	Jakarta
+Pramoedya_Ananta_Toer	isCitizenOf	Indonesia
+Pramoedya_Ananta_Toer	isCitizenOf	Indonesia
+
+http://dbpedia.org/resource/Kompas_Gramedia_Group	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Indonesia
+Kompas_Gramedia_Group	Indonesia
+Kompas_Gramedia_Group	isLocatedIn	Jakarta
+Kompas_Gramedia_Group	isLocatedIn	Jakarta
+Widjojo_Nitisastro	diedIn	Jakarta
+Widjojo_Nitisastro	livesIn	Jakarta
+Widjojo_Nitisastro	diedIn	Jakarta
+Widjojo_Nitisastro	livesIn	Jakarta
+Widjojo_Nitisastro	isCitizenOf	Indonesia
+Widjojo_Nitisastro	isPoliticianOf	Indonesia
+Widjojo_Nitisastro	livesIn	Indonesia
+Widjojo_Nitisastro	isCitizenOf	Indonesia
+Widjojo_Nitisastro	isPoliticianOf	Indonesia
+Widjojo_Nitisastro	livesIn	Indonesia
+
+http://dbpedia.org/resource/Kompas_Gramedia_Group	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Indonesia
+Kompas_Gramedia_Group	Indonesia
+Kompas_Gramedia_Group	isLocatedIn	Jakarta
+Kompas_Gramedia_Group	isLocatedIn	Jakarta
+Lion_Air	isLocatedIn	Jakarta
+Lion_Air	isLocatedIn	Jakarta
+Lion_Air	isLocatedIn	Indonesia
+Lion_Air	isLocatedIn	Indonesia
+
+http://dbpedia.org/resource/Kompas_Gramedia_Group	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Indonesia
+Kompas_Gramedia_Group	Indonesia
+Kompas_Gramedia_Group	isLocatedIn	Jakarta
+Kompas_Gramedia_Group	isLocatedIn	Jakarta
+Armida_Alisjahbana	wasBornIn	Jakarta
+Armida_Alisjahbana	wasBornIn	Jakarta
+Armida_Alisjahbana	isCitizenOf	Indonesia
+Armida_Alisjahbana	isPoliticianOf	Indonesia
+Armida_Alisjahbana	isCitizenOf	Indonesia
+Armida_Alisjahbana	isPoliticianOf	Indonesia
+
+http://dbpedia.org/resource/Nahdlatul_Ulama	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Indonesia
+Nahdlatul_Ulama	Indonesia
+Wahib_Wahab	isAffiliatedTo	Nahdlatul_Ulama
+Wahib_Wahab	isAffiliatedTo	Nahdlatul_Ulama
+Wahib_Wahab	isPoliticianOf	Indonesia
+Wahib_Wahab	isCitizenOf	Indonesia
+Wahib_Wahab	wasBornIn	Indonesia
+Wahib_Wahab	isPoliticianOf	Indonesia
+Wahib_Wahab	isCitizenOf	Indonesia
+Wahib_Wahab	wasBornIn	Indonesia
+
+http://dbpedia.org/resource/Nahdlatul_Ulama	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Indonesia
+Nahdlatul_Ulama	Indonesia
+Muhammad_Dahlan_(Minister)	isAffiliatedTo	Nahdlatul_Ulama
+Muhammad_Dahlan_(Minister)	isAffiliatedTo	Nahdlatul_Ulama
+Muhammad_Dahlan_(Minister)	diedIn	Indonesia
+Muhammad_Dahlan_(Minister)	isCitizenOf	Indonesia
+Muhammad_Dahlan_(Minister)	isPoliticianOf	Indonesia
+Muhammad_Dahlan_(Minister)	diedIn	Indonesia
+Muhammad_Dahlan_(Minister)	isCitizenOf	Indonesia
+Muhammad_Dahlan_(Minister)	isPoliticianOf	Indonesia
+
+http://dbpedia.org/resource/Nahdlatul_Ulama	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Indonesia
+Nahdlatul_Ulama	Indonesia
+Nahdlatul_Ulama	isLocatedIn	Indonesia
+Nahdlatul_Ulama	isLocatedIn	Indonesia
+
+http://dbpedia.org/resource/Nahdlatul_Ulama	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Indonesia
+Nahdlatul_Ulama	Indonesia
+Nahdlatul_Ulama	isLocatedIn	Jakarta
+Nahdlatul_Ulama	isLocatedIn	Jakarta
+Pramoedya_Ananta_Toer	diedIn	Jakarta
+Pramoedya_Ananta_Toer	diedIn	Jakarta
+Pramoedya_Ananta_Toer	isCitizenOf	Indonesia
+Pramoedya_Ananta_Toer	isCitizenOf	Indonesia
+
+http://dbpedia.org/resource/Nahdlatul_Ulama	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Indonesia
+Nahdlatul_Ulama	Indonesia
+Nahdlatul_Ulama	isLocatedIn	Jakarta
+Nahdlatul_Ulama	isLocatedIn	Jakarta
+Widjojo_Nitisastro	diedIn	Jakarta
+Widjojo_Nitisastro	livesIn	Jakarta
+Widjojo_Nitisastro	diedIn	Jakarta
+Widjojo_Nitisastro	livesIn	Jakarta
+Widjojo_Nitisastro	isCitizenOf	Indonesia
+Widjojo_Nitisastro	isPoliticianOf	Indonesia
+Widjojo_Nitisastro	livesIn	Indonesia
+Widjojo_Nitisastro	isCitizenOf	Indonesia
+Widjojo_Nitisastro	isPoliticianOf	Indonesia
+Widjojo_Nitisastro	livesIn	Indonesia
+
+http://dbpedia.org/resource/Nahdlatul_Ulama	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Indonesia
+Nahdlatul_Ulama	Indonesia
+Nahdlatul_Ulama	isLocatedIn	Jakarta
+Nahdlatul_Ulama	isLocatedIn	Jakarta
+Lion_Air	isLocatedIn	Jakarta
+Lion_Air	isLocatedIn	Jakarta
+Lion_Air	isLocatedIn	Indonesia
+Lion_Air	isLocatedIn	Indonesia
+
+http://dbpedia.org/resource/Nahdlatul_Ulama	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Indonesia
+Nahdlatul_Ulama	Indonesia
+Nahdlatul_Ulama	isLocatedIn	Jakarta
+Nahdlatul_Ulama	isLocatedIn	Jakarta
+Armida_Alisjahbana	wasBornIn	Jakarta
+Armida_Alisjahbana	wasBornIn	Jakarta
+Armida_Alisjahbana	isCitizenOf	Indonesia
+Armida_Alisjahbana	isPoliticianOf	Indonesia
+Armida_Alisjahbana	isCitizenOf	Indonesia
+Armida_Alisjahbana	isPoliticianOf	Indonesia
+
+http://dbpedia.org/resource/Nahdlatul_Ulama	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Indonesia
+Nahdlatul_Ulama	Indonesia
+Saifuddin_Zuhri	isAffiliatedTo	Nahdlatul_Ulama
+Saifuddin_Zuhri	isAffiliatedTo	Nahdlatul_Ulama
+Saifuddin_Zuhri	diedIn	Indonesia
+Saifuddin_Zuhri	isCitizenOf	Indonesia
+Saifuddin_Zuhri	isPoliticianOf	Indonesia
+Saifuddin_Zuhri	diedIn	Indonesia
+Saifuddin_Zuhri	isCitizenOf	Indonesia
+Saifuddin_Zuhri	isPoliticianOf	Indonesia
+
+http://dbpedia.org/resource/Nahdlatul_Ulama	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Indonesia
+Nahdlatul_Ulama	Indonesia
+Masjkur	isAffiliatedTo	Nahdlatul_Ulama
+Masjkur	isAffiliatedTo	Nahdlatul_Ulama
+Masjkur	diedIn	Indonesia
+Masjkur	isPoliticianOf	Indonesia
+Masjkur	isCitizenOf	Indonesia
+Masjkur	diedIn	Indonesia
+Masjkur	isPoliticianOf	Indonesia
+Masjkur	isCitizenOf	Indonesia
+
+http://dbpedia.org/resource/Robinson_Department_Store	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Vietnam
+Robinson_Department_Store	Vietnam
+Robinson_Department_Store	isLocatedIn	Thailand
+Robinson_Department_Store	isLocatedIn	Thailand
+Laos	dealsWith	Thailand
+Laos	dealsWith	Thailand
+Laos	dealsWith	Vietnam
+Vietnam	hasNeighbor	Laos
+Laos	hasNeighbor	Vietnam
+Laos	dealsWith	Vietnam
+Vietnam	hasNeighbor	Laos
+Laos	hasNeighbor	Vietnam
+
+http://dbpedia.org/resource/Robinson_Department_Store	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Vietnam
+Robinson_Department_Store	Vietnam
+Robinson_Department_Store	isLocatedIn	Thailand
+Robinson_Department_Store	isLocatedIn	Thailand
+Michael_S._Davison	isCitizenOf	Thailand
+Michael_S._Davison	isCitizenOf	Thailand
+Michael_S._Davison	isCitizenOf	Vietnam
+Michael_S._Davison	isCitizenOf	Vietnam
+
+http://dbpedia.org/resource/Big_C	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Laos
+Big_C	Laos
+Central_Group	created	Big_C
+Central_Group	created	Big_C
+Central_Group	isLocatedIn	Thailand
+Central_Group	isLocatedIn	Thailand
+Laos	dealsWith	Thailand
+Laos	dealsWith	Thailand
+
+http://dbpedia.org/resource/Big_C	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Laos
+Big_C	Laos
+Big_C	isLocatedIn	Thailand
+Big_C	isLocatedIn	Thailand
+Dave_Booth	isCitizenOf	Thailand
+Dave_Booth	isCitizenOf	Thailand
+Dave_Booth	isCitizenOf	Laos
+Dave_Booth	isCitizenOf	Laos
+
+http://dbpedia.org/resource/Big_C	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Laos
+Big_C	Laos
+Big_C	isLocatedIn	Thailand
+Big_C	isLocatedIn	Thailand
+Laos	dealsWith	Thailand
+Laos	dealsWith	Thailand
+
+http://dbpedia.org/resource/Ponta_Delgada_Football_Association	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/São_Miguel_Island
+Ponta_Delgada_Football_Association	São_Miguel_Island
+Ponta_Delgada_Football_Association	isLocatedIn	Ponta_Delgada
+Ponta_Delgada_Football_Association	isLocatedIn	Ponta_Delgada
+University_of_the_Azores	isLocatedIn	Ponta_Delgada
+University_of_the_Azores	isLocatedIn	Ponta_Delgada
+University_of_the_Azores	isLocatedIn	São_Miguel_Island
+University_of_the_Azores	isLocatedIn	São_Miguel_Island
+
+http://dbpedia.org/resource/Ponta_Delgada_Football_Association	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/São_Miguel_Island
+Ponta_Delgada_Football_Association	São_Miguel_Island
+Ponta_Delgada_Football_Association	isLocatedIn	Azores
+Ponta_Delgada_Football_Association	isLocatedIn	Azores
+Furnas	isLocatedIn	Azores
+Furnas	isLocatedIn	Azores
+Furnas	isLocatedIn	São_Miguel_Island
+Furnas	isLocatedIn	São_Miguel_Island
+
+http://dbpedia.org/resource/Ponta_Delgada_Football_Association	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/São_Miguel_Island
+Ponta_Delgada_Football_Association	São_Miguel_Island
+Ponta_Delgada_Football_Association	isLocatedIn	Azores
+Ponta_Delgada_Football_Association	isLocatedIn	Azores
+Lagoa_das_Sete_Cidades	isLocatedIn	Azores
+Lagoa_das_Sete_Cidades	isLocatedIn	Azores
+Lagoa_das_Sete_Cidades	isLocatedIn	São_Miguel_Island
+Lagoa_das_Sete_Cidades	isLocatedIn	São_Miguel_Island
+
+http://dbpedia.org/resource/Almacenes_Tía	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Colombia
+Almacenes_Tía	Colombia
+Almacenes_Tía	isLocatedIn	Ecuador
+Almacenes_Tía	isLocatedIn	Ecuador
+Ecuador	hasNeighbor	Colombia
+Colombia	hasNeighbor	Ecuador
+Ecuador	dealsWith	Colombia
+Colombia	dealsWith	Ecuador
+Ecuador	hasNeighbor	Colombia
+Colombia	hasNeighbor	Ecuador
+Ecuador	dealsWith	Colombia
+Colombia	dealsWith	Ecuador
+
+http://dbpedia.org/resource/Almacenes_Tía	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Colombia
+Almacenes_Tía	Colombia
+Almacenes_Tía	isLocatedIn	Uruguay
+Almacenes_Tía	isLocatedIn	Uruguay
+Jairo_Castillo	isCitizenOf	Uruguay
+Jairo_Castillo	isCitizenOf	Uruguay
+Jairo_Castillo	isCitizenOf	Colombia
+Jairo_Castillo	isCitizenOf	Colombia
+
+http://dbpedia.org/resource/Almacenes_Tía	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Colombia
+Almacenes_Tía	Colombia
+Almacenes_Tía	isLocatedIn	Colombia
+Almacenes_Tía	isLocatedIn	Colombia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Malaysia
+Petronas	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	owns	Kerteh_Airport
+Petronas	owns	Kerteh_Airport
+Sultan_Abdul_Aziz_Shah_Airport	isConnectedTo	Kerteh_Airport
+Kerteh_Airport	isConnectedTo	Sultan_Abdul_Aziz_Shah_Airport
+Sultan_Abdul_Aziz_Shah_Airport	isConnectedTo	Kerteh_Airport
+Kerteh_Airport	isConnectedTo	Sultan_Abdul_Aziz_Shah_Airport
+Sultan_Abdul_Aziz_Shah_Airport	isLocatedIn	Malaysia
+Sultan_Abdul_Aziz_Shah_Airport	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	owns	Kerteh_Airport
+Petronas	owns	Kerteh_Airport
+Kerteh_Airport	isLocatedIn	Malaysia
+Kerteh_Airport	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	owns	Kerteh_Airport
+Petronas	owns	Kerteh_Airport
+Petronas	owns	Kerteh_Airport
+Petronas	owns	Kerteh_Airport
+Petronas	isLocatedIn	Malaysia
+Petronas	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Murder_of_Nurin_Jazlin	diedIn	Kuala_Lumpur
+Murder_of_Nurin_Jazlin	livesIn	Kuala_Lumpur
+Murder_of_Nurin_Jazlin	wasBornIn	Kuala_Lumpur
+Murder_of_Nurin_Jazlin	diedIn	Kuala_Lumpur
+Murder_of_Nurin_Jazlin	livesIn	Kuala_Lumpur
+Murder_of_Nurin_Jazlin	wasBornIn	Kuala_Lumpur
+Murder_of_Nurin_Jazlin	isCitizenOf	Malaysia
+Murder_of_Nurin_Jazlin	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+2waytraffic	isLocatedIn	Kuala_Lumpur
+2waytraffic	isLocatedIn	Kuala_Lumpur
+2waytraffic	isLocatedIn	Malaysia
+2waytraffic	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Hamzah_Abu_Samah	diedIn	Kuala_Lumpur
+Hamzah_Abu_Samah	diedIn	Kuala_Lumpur
+Hamzah_Abu_Samah	isPoliticianOf	Malaysia
+Hamzah_Abu_Samah	isCitizenOf	Malaysia
+Hamzah_Abu_Samah	isPoliticianOf	Malaysia
+Hamzah_Abu_Samah	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Weeratunge_Edward_Perera	diedIn	Kuala_Lumpur
+Weeratunge_Edward_Perera	diedIn	Kuala_Lumpur
+Weeratunge_Edward_Perera	isCitizenOf	Malaysia
+Weeratunge_Edward_Perera	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Mohamed_Zahir_Ismail	diedIn	Kuala_Lumpur
+Mohamed_Zahir_Ismail	diedIn	Kuala_Lumpur
+Mohamed_Zahir_Ismail	isCitizenOf	Malaysia
+Mohamed_Zahir_Ismail	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Malaysia_Airlines	isLocatedIn	Kuala_Lumpur
+Malaysia_Airlines	isLocatedIn	Kuala_Lumpur
+Malaysia_Airlines	isLocatedIn	Malaysia
+Malaysia_Airlines	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Ajib_Ahmad	diedIn	Kuala_Lumpur
+Ajib_Ahmad	diedIn	Kuala_Lumpur
+Ajib_Ahmad	isCitizenOf	Malaysia
+Ajib_Ahmad	isPoliticianOf	Malaysia
+Ajib_Ahmad	isCitizenOf	Malaysia
+Ajib_Ahmad	isPoliticianOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Sulaiman_Daud	diedIn	Kuala_Lumpur
+Sulaiman_Daud	diedIn	Kuala_Lumpur
+Sulaiman_Daud	isPoliticianOf	Malaysia
+Sulaiman_Daud	isCitizenOf	Malaysia
+Sulaiman_Daud	isPoliticianOf	Malaysia
+Sulaiman_Daud	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Tan_Siew_Sin	livesIn	Kuala_Lumpur
+Tan_Siew_Sin	diedIn	Kuala_Lumpur
+Tan_Siew_Sin	livesIn	Kuala_Lumpur
+Tan_Siew_Sin	diedIn	Kuala_Lumpur
+Tan_Siew_Sin	isPoliticianOf	Malaysia
+Tan_Siew_Sin	isCitizenOf	Malaysia
+Tan_Siew_Sin	isPoliticianOf	Malaysia
+Tan_Siew_Sin	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Tunku_Abdul_Rahman	diedIn	Kuala_Lumpur
+Tunku_Abdul_Rahman	diedIn	Kuala_Lumpur
+Tunku_Abdul_Rahman	isCitizenOf	Malaysia
+Tunku_Abdul_Rahman	isPoliticianOf	Malaysia
+Tunku_Abdul_Rahman	isCitizenOf	Malaysia
+Tunku_Abdul_Rahman	isPoliticianOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+AirAsia_X	isLocatedIn	Kuala_Lumpur
+AirAsia_X	isLocatedIn	Kuala_Lumpur
+AirAsia_X	isLocatedIn	Malaysia
+AirAsia_X	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Nelydia_Senrose	livesIn	Kuala_Lumpur
+Nelydia_Senrose	livesIn	Kuala_Lumpur
+Nelydia_Senrose	isCitizenOf	Malaysia
+Nelydia_Senrose	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Berjaya_Air	isLocatedIn	Kuala_Lumpur
+Berjaya_Air	isLocatedIn	Kuala_Lumpur
+Berjaya_Air	isLocatedIn	Malaysia
+Berjaya_Air	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Astro_Aruna	isLocatedIn	Kuala_Lumpur
+Astro_Aruna	isLocatedIn	Kuala_Lumpur
+Astro_Aruna	isLocatedIn	Malaysia
+Astro_Aruna	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Jeanne_Abdullah	wasBornIn	Kuala_Lumpur
+Jeanne_Abdullah	wasBornIn	Kuala_Lumpur
+Jeanne_Abdullah	isCitizenOf	Malaysia
+Jeanne_Abdullah	isPoliticianOf	Malaysia
+Jeanne_Abdullah	isCitizenOf	Malaysia
+Jeanne_Abdullah	isPoliticianOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+K._L._Devaser	diedIn	Kuala_Lumpur
+K._L._Devaser	diedIn	Kuala_Lumpur
+K._L._Devaser	livesIn	Malaysia
+K._L._Devaser	isCitizenOf	Malaysia
+K._L._Devaser	livesIn	Malaysia
+K._L._Devaser	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Robert_Lau_Hoi_Chew	diedIn	Kuala_Lumpur
+Robert_Lau_Hoi_Chew	diedIn	Kuala_Lumpur
+Robert_Lau_Hoi_Chew	isCitizenOf	Malaysia
+Robert_Lau_Hoi_Chew	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Raya_Airways	isLocatedIn	Kuala_Lumpur
+Raya_Airways	isLocatedIn	Kuala_Lumpur
+Raya_Airways	isLocatedIn	Malaysia
+Raya_Airways	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Bryan_Loo	livesIn	Kuala_Lumpur
+Bryan_Loo	livesIn	Kuala_Lumpur
+Bryan_Loo	isCitizenOf	Malaysia
+Bryan_Loo	livesIn	Malaysia
+Bryan_Loo	isCitizenOf	Malaysia
+Bryan_Loo	livesIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Ko_Chung_Sen	wasBornIn	Kuala_Lumpur
+Ko_Chung_Sen	wasBornIn	Kuala_Lumpur
+Ko_Chung_Sen	isCitizenOf	Malaysia
+Ko_Chung_Sen	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Bangsar	isLocatedIn	Kuala_Lumpur
+Bangsar	isLocatedIn	Kuala_Lumpur
+Bangsar	isLocatedIn	Malaysia
+Bangsar	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+MASkargo	isLocatedIn	Kuala_Lumpur
+MASkargo	isLocatedIn	Kuala_Lumpur
+MASkargo	isLocatedIn	Malaysia
+MASkargo	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+TV1_(Malaysia)	isLocatedIn	Kuala_Lumpur
+TV1_(Malaysia)	isLocatedIn	Kuala_Lumpur
+TV1_(Malaysia)	isLocatedIn	Malaysia
+TV1_(Malaysia)	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Kuala_Lumpur	isLocatedIn	Selangor
+Kuala_Lumpur	isLocatedIn	Selangor
+Selangor	isLocatedIn	Malaysia
+Selangor	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Ismail_Abdul_Rahman	diedIn	Kuala_Lumpur
+Ismail_Abdul_Rahman	diedIn	Kuala_Lumpur
+Ismail_Abdul_Rahman	isCitizenOf	Malaysia
+Ismail_Abdul_Rahman	isPoliticianOf	Malaysia
+Ismail_Abdul_Rahman	isCitizenOf	Malaysia
+Ismail_Abdul_Rahman	isPoliticianOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Azrinaz_Mazhar_Hakim	wasBornIn	Kuala_Lumpur
+Azrinaz_Mazhar_Hakim	wasBornIn	Kuala_Lumpur
+Azrinaz_Mazhar_Hakim	isCitizenOf	Malaysia
+Azrinaz_Mazhar_Hakim	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Kuala_Lumpur	isLocatedIn	Malaysia
+Kuala_Lumpur	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Putra_of_Perlis	diedIn	Kuala_Lumpur
+Putra_of_Perlis	diedIn	Kuala_Lumpur
+Putra_of_Perlis	isCitizenOf	Malaysia
+Putra_of_Perlis	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Maxis_Tower	isLocatedIn	Kuala_Lumpur
+Maxis_Tower	isLocatedIn	Kuala_Lumpur
+Maxis_Tower	isLocatedIn	Malaysia
+Maxis_Tower	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Robin_Chan_(soccer)	wasBornIn	Kuala_Lumpur
+Robin_Chan_(soccer)	wasBornIn	Kuala_Lumpur
+Robin_Chan_(soccer)	isCitizenOf	Malaysia
+Robin_Chan_(soccer)	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Media_Prima	isLocatedIn	Kuala_Lumpur
+Media_Prima	isLocatedIn	Kuala_Lumpur
+Media_Prima	isLocatedIn	Malaysia
+Media_Prima	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Wangsa_Maju	isLocatedIn	Kuala_Lumpur
+Wangsa_Maju	isLocatedIn	Kuala_Lumpur
+Wangsa_Maju	isLocatedIn	Malaysia
+Wangsa_Maju	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Malaysia
+Petronas	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+ExxonMobil_Tower	isLocatedIn	Kuala_Lumpur
+ExxonMobil_Tower	isLocatedIn	Kuala_Lumpur
+ExxonMobil_Tower	isLocatedIn	Malaysia
+ExxonMobil_Tower	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Karpal_Singh	livesIn	Kuala_Lumpur
+Karpal_Singh	livesIn	Kuala_Lumpur
+Karpal_Singh	isCitizenOf	Malaysia
+Karpal_Singh	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Sardon_Jubir	diedIn	Kuala_Lumpur
+Sardon_Jubir	diedIn	Kuala_Lumpur
+Sardon_Jubir	isCitizenOf	Malaysia
+Sardon_Jubir	isPoliticianOf	Malaysia
+Sardon_Jubir	isCitizenOf	Malaysia
+Sardon_Jubir	isPoliticianOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+M._Kayveas	livesIn	Kuala_Lumpur
+M._Kayveas	livesIn	Kuala_Lumpur
+M._Kayveas	isCitizenOf	Malaysia
+M._Kayveas	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Angkasapuri	isLocatedIn	Kuala_Lumpur
+Angkasapuri	isLocatedIn	Kuala_Lumpur
+Angkasapuri	isLocatedIn	Malaysia
+Angkasapuri	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Firefly_(airline)	isLocatedIn	Kuala_Lumpur
+Firefly_(airline)	isLocatedIn	Kuala_Lumpur
+Firefly_(airline)	isLocatedIn	Malaysia
+Firefly_(airline)	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Henry_Lee_Hau_Shik	diedIn	Kuala_Lumpur
+Henry_Lee_Hau_Shik	livesIn	Kuala_Lumpur
+Henry_Lee_Hau_Shik	diedIn	Kuala_Lumpur
+Henry_Lee_Hau_Shik	livesIn	Kuala_Lumpur
+Henry_Lee_Hau_Shik	isPoliticianOf	Malaysia
+Henry_Lee_Hau_Shik	isCitizenOf	Malaysia
+Henry_Lee_Hau_Shik	isPoliticianOf	Malaysia
+Henry_Lee_Hau_Shik	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Angkatan_Perpaduan_Ummah	isLocatedIn	Kuala_Lumpur
+Angkatan_Perpaduan_Ummah	isLocatedIn	Kuala_Lumpur
+Angkatan_Perpaduan_Ummah	isLocatedIn	Malaysia
+Angkatan_Perpaduan_Ummah	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Ghafar_Baba	diedIn	Kuala_Lumpur
+Ghafar_Baba	diedIn	Kuala_Lumpur
+Ghafar_Baba	isPoliticianOf	Malaysia
+Ghafar_Baba	isCitizenOf	Malaysia
+Ghafar_Baba	isPoliticianOf	Malaysia
+Ghafar_Baba	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Malaysia
+University_of_Malaya	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Usaha_Tegas	isLocatedIn	Kuala_Lumpur
+Usaha_Tegas	isLocatedIn	Kuala_Lumpur
+Usaha_Tegas	isLocatedIn	Malaysia
+Usaha_Tegas	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Lim_Lip_Eng	wasBornIn	Kuala_Lumpur
+Lim_Lip_Eng	wasBornIn	Kuala_Lumpur
+Lim_Lip_Eng	isCitizenOf	Malaysia
+Lim_Lip_Eng	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Malindo_Air	isLocatedIn	Kuala_Lumpur
+Malindo_Air	isLocatedIn	Kuala_Lumpur
+Malindo_Air	isLocatedIn	Malaysia
+Malindo_Air	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Suria_KLCC	isLocatedIn	Kuala_Lumpur
+Suria_KLCC	isLocatedIn	Kuala_Lumpur
+Suria_KLCC	isLocatedIn	Malaysia
+Suria_KLCC	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Petronas	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Malaysia
+Petronas	Malaysia
+Petronas	isLocatedIn	Kuala_Lumpur
+Petronas	isLocatedIn	Kuala_Lumpur
+Nazir_Razak	wasBornIn	Kuala_Lumpur
+Nazir_Razak	wasBornIn	Kuala_Lumpur
+Nazir_Razak	isPoliticianOf	Malaysia
+Nazir_Razak	isCitizenOf	Malaysia
+Nazir_Razak	isPoliticianOf	Malaysia
+Nazir_Razak	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Big_C	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Vietnam
+Big_C	Vietnam
+Big_C	isLocatedIn	Thailand
+Big_C	isLocatedIn	Thailand
+Laos	dealsWith	Thailand
+Laos	dealsWith	Thailand
+Laos	dealsWith	Vietnam
+Vietnam	hasNeighbor	Laos
+Laos	hasNeighbor	Vietnam
+Laos	dealsWith	Vietnam
+Vietnam	hasNeighbor	Laos
+Laos	hasNeighbor	Vietnam
+
+http://dbpedia.org/resource/Big_C	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Vietnam
+Big_C	Vietnam
+Big_C	isLocatedIn	Thailand
+Big_C	isLocatedIn	Thailand
+Michael_S._Davison	isCitizenOf	Thailand
+Michael_S._Davison	isCitizenOf	Thailand
+Michael_S._Davison	isCitizenOf	Vietnam
+Michael_S._Davison	isCitizenOf	Vietnam
+
+http://dbpedia.org/resource/Eversource_Energy	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Connecticut
+Eversource_Energy	Connecticut
+Eversource_Energy	isLocatedIn	Connecticut
+Eversource_Energy	isLocatedIn	Connecticut
+
+http://dbpedia.org/resource/Eversource_Energy	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Connecticut
+Eversource_Energy	Connecticut
+Eversource_Energy	isLocatedIn	Hartford,_Connecticut
+Eversource_Energy	isLocatedIn	Hartford,_Connecticut
+Connecticut	hasCapital	Hartford,_Connecticut
+Connecticut	isLocatedIn	Hartford,_Connecticut
+Hartford,_Connecticut	isLocatedIn	Connecticut
+Connecticut	hasCapital	Hartford,_Connecticut
+Connecticut	isLocatedIn	Hartford,_Connecticut
+Hartford,_Connecticut	isLocatedIn	Connecticut
+
+http://dbpedia.org/resource/Eversource_Energy	http://dbpedia.org/ontology/regionServed	http://dbpedia.org/resource/Connecticut
+Eversource_Energy	Connecticut
+Eversource_Energy	isLocatedIn	Hartford,_Connecticut
+Eversource_Energy	isLocatedIn	Hartford,_Connecticut
+Capital_Community_College	isLocatedIn	Hartford,_Connecticut
+Capital_Community_College	isLocatedIn	Hartford,_Connecticut
+Capital_Community_College	isLocatedIn	Connecticut
+Capital_Community_College	isLocatedIn	Connecticut
+

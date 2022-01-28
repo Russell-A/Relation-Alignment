@@ -1,0 +1,1697 @@
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Pat_Riley	isAffiliatedTo	Phoenix_Suns
+Pat_Riley	isAffiliatedTo	Phoenix_Suns
+Pat_Riley	isAffiliatedTo	Phoenix_Suns
+Pat_Riley	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Luol_Deng	isAffiliatedTo	Phoenix_Suns
+Luol_Deng	isAffiliatedTo	Phoenix_Suns
+Luol_Deng	isAffiliatedTo	Phoenix_Suns
+Luol_Deng	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Greg_Howard_(basketball)	isAffiliatedTo	Phoenix_Suns
+Greg_Howard_(basketball)	isAffiliatedTo	Phoenix_Suns
+Greg_Howard_(basketball)	isAffiliatedTo	Phoenix_Suns
+Greg_Howard_(basketball)	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Mark_Bryant_(basketball)	isAffiliatedTo	Phoenix_Suns
+Mark_Bryant_(basketball)	isAffiliatedTo	Phoenix_Suns
+Mark_Bryant_(basketball)	isAffiliatedTo	Denver_Nuggets
+Mark_Bryant_(basketball)	isAffiliatedTo	Denver_Nuggets
+Earl_Watson	isAffiliatedTo	Denver_Nuggets
+Earl_Watson	isAffiliatedTo	Denver_Nuggets
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Mark_Bryant_(basketball)	isAffiliatedTo	Phoenix_Suns
+Mark_Bryant_(basketball)	isAffiliatedTo	Phoenix_Suns
+Mark_Bryant_(basketball)	isAffiliatedTo	Phoenix_Suns
+Mark_Bryant_(basketball)	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Mark_Bryant_(basketball)	isAffiliatedTo	Phoenix_Suns
+Mark_Bryant_(basketball)	isAffiliatedTo	Phoenix_Suns
+Mark_Bryant_(basketball)	isAffiliatedTo	Portland_Trail_Blazers
+Mark_Bryant_(basketball)	isAffiliatedTo	Portland_Trail_Blazers
+Earl_Watson	isAffiliatedTo	Portland_Trail_Blazers
+Earl_Watson	isAffiliatedTo	Portland_Trail_Blazers
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Mark_Bryant_(basketball)	isAffiliatedTo	Phoenix_Suns
+Mark_Bryant_(basketball)	isAffiliatedTo	Phoenix_Suns
+Mark_Bryant_(basketball)	isAffiliatedTo	Seattle_SuperSonics
+Mark_Bryant_(basketball)	isAffiliatedTo	Seattle_SuperSonics
+Earl_Watson	isAffiliatedTo	Seattle_SuperSonics
+Earl_Watson	isAffiliatedTo	Seattle_SuperSonics
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Mark_Bryant_(basketball)	isAffiliatedTo	Phoenix_Suns
+Mark_Bryant_(basketball)	isAffiliatedTo	Phoenix_Suns
+Mark_Bryant_(basketball)	isAffiliatedTo	Oklahoma_City_Thunder
+Mark_Bryant_(basketball)	isAffiliatedTo	Oklahoma_City_Thunder
+Earl_Watson	isAffiliatedTo	Oklahoma_City_Thunder
+Earl_Watson	isAffiliatedTo	Oklahoma_City_Thunder
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Alvin_Gentry	isAffiliatedTo	Phoenix_Suns
+Alvin_Gentry	isAffiliatedTo	Phoenix_Suns
+Alvin_Gentry	isAffiliatedTo	Phoenix_Suns
+Alvin_Gentry	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Dudley_Bradley	isAffiliatedTo	Phoenix_Suns
+Dudley_Bradley	isAffiliatedTo	Phoenix_Suns
+Dudley_Bradley	isAffiliatedTo	Indiana_Pacers
+Dudley_Bradley	isAffiliatedTo	Indiana_Pacers
+Earl_Watson	isAffiliatedTo	Indiana_Pacers
+Earl_Watson	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Dudley_Bradley	isAffiliatedTo	Phoenix_Suns
+Dudley_Bradley	isAffiliatedTo	Phoenix_Suns
+Dudley_Bradley	isAffiliatedTo	Phoenix_Suns
+Dudley_Bradley	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Scott_Skiles	isAffiliatedTo	Phoenix_Suns
+Scott_Skiles	isAffiliatedTo	Phoenix_Suns
+Scott_Skiles	isAffiliatedTo	Phoenix_Suns
+Scott_Skiles	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Scott_Skiles	isAffiliatedTo	Phoenix_Suns
+Scott_Skiles	isAffiliatedTo	Phoenix_Suns
+Scott_Skiles	isAffiliatedTo	Indiana_Pacers
+Scott_Skiles	isAffiliatedTo	Indiana_Pacers
+Earl_Watson	isAffiliatedTo	Indiana_Pacers
+Earl_Watson	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Kris_Humphries	isAffiliatedTo	Phoenix_Suns
+Kris_Humphries	isAffiliatedTo	Phoenix_Suns
+Kris_Humphries	isAffiliatedTo	Utah_Jazz
+Kris_Humphries	isAffiliatedTo	Utah_Jazz
+Earl_Watson	isAffiliatedTo	Utah_Jazz
+Earl_Watson	isAffiliatedTo	Utah_Jazz
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Daniel_Santiago	isAffiliatedTo	Phoenix_Suns
+Daniel_Santiago	isAffiliatedTo	Phoenix_Suns
+Daniel_Santiago	isAffiliatedTo	Phoenix_Suns
+Daniel_Santiago	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Mike_Sanders_(basketball)	isAffiliatedTo	Phoenix_Suns
+Mike_Sanders_(basketball)	isAffiliatedTo	Phoenix_Suns
+Mike_Sanders_(basketball)	isAffiliatedTo	Phoenix_Suns
+Mike_Sanders_(basketball)	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Mike_Sanders_(basketball)	isAffiliatedTo	Phoenix_Suns
+Mike_Sanders_(basketball)	isAffiliatedTo	Phoenix_Suns
+Mike_Sanders_(basketball)	isAffiliatedTo	Indiana_Pacers
+Mike_Sanders_(basketball)	isAffiliatedTo	Indiana_Pacers
+Earl_Watson	isAffiliatedTo	Indiana_Pacers
+Earl_Watson	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Mike_Sanders_(basketball)	isAffiliatedTo	Phoenix_Suns
+Mike_Sanders_(basketball)	isAffiliatedTo	Phoenix_Suns
+Mike_Sanders_(basketball)	isAffiliatedTo	Utah_Jazz
+Mike_Sanders_(basketball)	isAffiliatedTo	Utah_Jazz
+Earl_Watson	isAffiliatedTo	Utah_Jazz
+Earl_Watson	isAffiliatedTo	Utah_Jazz
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Marcus_Banks	isAffiliatedTo	Phoenix_Suns
+Marcus_Banks	isAffiliatedTo	Phoenix_Suns
+Marcus_Banks	isAffiliatedTo	Phoenix_Suns
+Marcus_Banks	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Marcus_Banks	isAffiliatedTo	Phoenix_Suns
+Marcus_Banks	isAffiliatedTo	Phoenix_Suns
+Marcus_Banks	isAffiliatedTo	Memphis_Grizzlies
+Marcus_Banks	isAffiliatedTo	Memphis_Grizzlies
+Earl_Watson	isAffiliatedTo	Memphis_Grizzlies
+Earl_Watson	isAffiliatedTo	Memphis_Grizzlies
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Otto_Moore	isAffiliatedTo	Phoenix_Suns
+Otto_Moore	isAffiliatedTo	Phoenix_Suns
+Otto_Moore	isAffiliatedTo	Phoenix_Suns
+Otto_Moore	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Otto_Moore	isAffiliatedTo	Phoenix_Suns
+Otto_Moore	isAffiliatedTo	Phoenix_Suns
+Otto_Moore	isAffiliatedTo	Utah_Jazz
+Otto_Moore	isAffiliatedTo	Utah_Jazz
+Earl_Watson	isAffiliatedTo	Utah_Jazz
+Earl_Watson	isAffiliatedTo	Utah_Jazz
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Gordan_Giriček	isAffiliatedTo	Phoenix_Suns
+Gordan_Giriček	isAffiliatedTo	Phoenix_Suns
+Gordan_Giriček	isAffiliatedTo	Utah_Jazz
+Gordan_Giriček	isAffiliatedTo	Utah_Jazz
+Earl_Watson	isAffiliatedTo	Utah_Jazz
+Earl_Watson	isAffiliatedTo	Utah_Jazz
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Gordan_Giriček	isAffiliatedTo	Phoenix_Suns
+Gordan_Giriček	isAffiliatedTo	Phoenix_Suns
+Gordan_Giriček	isAffiliatedTo	Phoenix_Suns
+Gordan_Giriček	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Gordan_Giriček	isAffiliatedTo	Phoenix_Suns
+Gordan_Giriček	isAffiliatedTo	Phoenix_Suns
+Gordan_Giriček	isAffiliatedTo	Memphis_Grizzlies
+Gordan_Giriček	isAffiliatedTo	Memphis_Grizzlies
+Earl_Watson	isAffiliatedTo	Memphis_Grizzlies
+Earl_Watson	isAffiliatedTo	Memphis_Grizzlies
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Garret_Siler	isAffiliatedTo	Phoenix_Suns
+Garret_Siler	isAffiliatedTo	Phoenix_Suns
+Garret_Siler	isAffiliatedTo	Phoenix_Suns
+Garret_Siler	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Ron_Boone	isAffiliatedTo	Phoenix_Suns
+Ron_Boone	isAffiliatedTo	Phoenix_Suns
+Ron_Boone	isAffiliatedTo	Phoenix_Suns
+Ron_Boone	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Ron_Boone	isAffiliatedTo	Phoenix_Suns
+Ron_Boone	isAffiliatedTo	Phoenix_Suns
+Ron_Boone	isAffiliatedTo	Utah_Jazz
+Ron_Boone	isAffiliatedTo	Utah_Jazz
+Earl_Watson	isAffiliatedTo	Utah_Jazz
+Earl_Watson	isAffiliatedTo	Utah_Jazz
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Stan_McKenzie	isAffiliatedTo	Phoenix_Suns
+Stan_McKenzie	isAffiliatedTo	Phoenix_Suns
+Stan_McKenzie	isAffiliatedTo	Phoenix_Suns
+Stan_McKenzie	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Stan_McKenzie	isAffiliatedTo	Phoenix_Suns
+Stan_McKenzie	isAffiliatedTo	Phoenix_Suns
+Stan_McKenzie	isAffiliatedTo	Portland_Trail_Blazers
+Stan_McKenzie	isAffiliatedTo	Portland_Trail_Blazers
+Earl_Watson	isAffiliatedTo	Portland_Trail_Blazers
+Earl_Watson	isAffiliatedTo	Portland_Trail_Blazers
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Sergio_Rodríguez	isAffiliatedTo	Phoenix_Suns
+Sergio_Rodríguez	isAffiliatedTo	Phoenix_Suns
+Sergio_Rodríguez	isAffiliatedTo	Portland_Trail_Blazers
+Sergio_Rodríguez	isAffiliatedTo	Portland_Trail_Blazers
+Earl_Watson	isAffiliatedTo	Portland_Trail_Blazers
+Earl_Watson	isAffiliatedTo	Portland_Trail_Blazers
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Sergio_Rodríguez	isAffiliatedTo	Phoenix_Suns
+Sergio_Rodríguez	isAffiliatedTo	Phoenix_Suns
+Sergio_Rodríguez	isAffiliatedTo	Phoenix_Suns
+Sergio_Rodríguez	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Brandon_Knight_(basketball)	isAffiliatedTo	Phoenix_Suns
+Brandon_Knight_(basketball)	isAffiliatedTo	Phoenix_Suns
+Brandon_Knight_(basketball)	isAffiliatedTo	Phoenix_Suns
+Brandon_Knight_(basketball)	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Luis_Scola	isAffiliatedTo	Phoenix_Suns
+Luis_Scola	isAffiliatedTo	Phoenix_Suns
+Luis_Scola	isAffiliatedTo	Indiana_Pacers
+Luis_Scola	isAffiliatedTo	Indiana_Pacers
+Earl_Watson	isAffiliatedTo	Indiana_Pacers
+Earl_Watson	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Luis_Scola	isAffiliatedTo	Phoenix_Suns
+Luis_Scola	isAffiliatedTo	Phoenix_Suns
+Luis_Scola	isAffiliatedTo	Phoenix_Suns
+Luis_Scola	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Greg_Grant	isAffiliatedTo	Phoenix_Suns
+Greg_Grant	isAffiliatedTo	Phoenix_Suns
+Greg_Grant	isAffiliatedTo	Phoenix_Suns
+Greg_Grant	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Greg_Grant	isAffiliatedTo	Phoenix_Suns
+Greg_Grant	isAffiliatedTo	Phoenix_Suns
+Greg_Grant	isAffiliatedTo	Denver_Nuggets
+Greg_Grant	isAffiliatedTo	Denver_Nuggets
+Earl_Watson	isAffiliatedTo	Denver_Nuggets
+Earl_Watson	isAffiliatedTo	Denver_Nuggets
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Rubén_Garcés	isAffiliatedTo	Phoenix_Suns
+Rubén_Garcés	isAffiliatedTo	Phoenix_Suns
+Rubén_Garcés	isAffiliatedTo	Phoenix_Suns
+Rubén_Garcés	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+James_Jones_(basketball_player)	isAffiliatedTo	Phoenix_Suns
+James_Jones_(basketball_player)	isAffiliatedTo	Phoenix_Suns
+James_Jones_(basketball_player)	isAffiliatedTo	Indiana_Pacers
+James_Jones_(basketball_player)	isAffiliatedTo	Indiana_Pacers
+Earl_Watson	isAffiliatedTo	Indiana_Pacers
+Earl_Watson	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+James_Jones_(basketball_player)	isAffiliatedTo	Phoenix_Suns
+James_Jones_(basketball_player)	isAffiliatedTo	Phoenix_Suns
+James_Jones_(basketball_player)	isAffiliatedTo	Phoenix_Suns
+James_Jones_(basketball_player)	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+James_Jones_(basketball_player)	isAffiliatedTo	Phoenix_Suns
+James_Jones_(basketball_player)	isAffiliatedTo	Phoenix_Suns
+James_Jones_(basketball_player)	isAffiliatedTo	Portland_Trail_Blazers
+James_Jones_(basketball_player)	isAffiliatedTo	Portland_Trail_Blazers
+Earl_Watson	isAffiliatedTo	Portland_Trail_Blazers
+Earl_Watson	isAffiliatedTo	Portland_Trail_Blazers
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Steven_Hunter	isAffiliatedTo	Phoenix_Suns
+Steven_Hunter	isAffiliatedTo	Phoenix_Suns
+Steven_Hunter	isAffiliatedTo	Denver_Nuggets
+Steven_Hunter	isAffiliatedTo	Denver_Nuggets
+Earl_Watson	isAffiliatedTo	Denver_Nuggets
+Earl_Watson	isAffiliatedTo	Denver_Nuggets
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Steven_Hunter	isAffiliatedTo	Phoenix_Suns
+Steven_Hunter	isAffiliatedTo	Phoenix_Suns
+Steven_Hunter	isAffiliatedTo	Memphis_Grizzlies
+Steven_Hunter	isAffiliatedTo	Memphis_Grizzlies
+Earl_Watson	isAffiliatedTo	Memphis_Grizzlies
+Earl_Watson	isAffiliatedTo	Memphis_Grizzlies
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Steven_Hunter	isAffiliatedTo	Phoenix_Suns
+Steven_Hunter	isAffiliatedTo	Phoenix_Suns
+Steven_Hunter	isAffiliatedTo	Phoenix_Suns
+Steven_Hunter	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Joe_Johnson_(basketball)	isAffiliatedTo	Phoenix_Suns
+Joe_Johnson_(basketball)	isAffiliatedTo	Phoenix_Suns
+Joe_Johnson_(basketball)	isAffiliatedTo	Phoenix_Suns
+Joe_Johnson_(basketball)	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Joe_Johnson_(basketball)	isAffiliatedTo	Phoenix_Suns
+Joe_Johnson_(basketball)	isAffiliatedTo	Phoenix_Suns
+Joe_Johnson_(basketball)	isAffiliatedTo	Utah_Jazz
+Joe_Johnson_(basketball)	isAffiliatedTo	Utah_Jazz
+Earl_Watson	isAffiliatedTo	Utah_Jazz
+Earl_Watson	isAffiliatedTo	Utah_Jazz
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Antonio_Lang	isAffiliatedTo	Phoenix_Suns
+Antonio_Lang	isAffiliatedTo	Phoenix_Suns
+Antonio_Lang	isAffiliatedTo	Utah_Jazz
+Antonio_Lang	isAffiliatedTo	Utah_Jazz
+Earl_Watson	isAffiliatedTo	Utah_Jazz
+Earl_Watson	isAffiliatedTo	Utah_Jazz
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Antonio_Lang	isAffiliatedTo	Phoenix_Suns
+Antonio_Lang	isAffiliatedTo	Phoenix_Suns
+Antonio_Lang	isAffiliatedTo	Phoenix_Suns
+Antonio_Lang	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Jason_Kidd	isAffiliatedTo	Phoenix_Suns
+Jason_Kidd	isAffiliatedTo	Phoenix_Suns
+Jason_Kidd	isAffiliatedTo	Phoenix_Suns
+Jason_Kidd	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Phoenix_Suns	isLocatedIn	Phoenix,_Arizona
+Phoenix_Suns	isLocatedIn	Phoenix,_Arizona
+Phoenix_Suns	isLocatedIn	Phoenix,_Arizona
+Phoenix_Suns	isLocatedIn	Phoenix,_Arizona
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Rudy_Fernández_(basketball)	isAffiliatedTo	Phoenix_Suns
+Rudy_Fernández_(basketball)	isAffiliatedTo	Phoenix_Suns
+Rudy_Fernández_(basketball)	isAffiliatedTo	Denver_Nuggets
+Rudy_Fernández_(basketball)	isAffiliatedTo	Denver_Nuggets
+Earl_Watson	isAffiliatedTo	Denver_Nuggets
+Earl_Watson	isAffiliatedTo	Denver_Nuggets
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Rudy_Fernández_(basketball)	isAffiliatedTo	Phoenix_Suns
+Rudy_Fernández_(basketball)	isAffiliatedTo	Phoenix_Suns
+Rudy_Fernández_(basketball)	isAffiliatedTo	Portland_Trail_Blazers
+Rudy_Fernández_(basketball)	isAffiliatedTo	Portland_Trail_Blazers
+Earl_Watson	isAffiliatedTo	Portland_Trail_Blazers
+Earl_Watson	isAffiliatedTo	Portland_Trail_Blazers
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Rudy_Fernández_(basketball)	isAffiliatedTo	Phoenix_Suns
+Rudy_Fernández_(basketball)	isAffiliatedTo	Phoenix_Suns
+Rudy_Fernández_(basketball)	isAffiliatedTo	Phoenix_Suns
+Rudy_Fernández_(basketball)	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Lionel_Hollins	isAffiliatedTo	Phoenix_Suns
+Lionel_Hollins	isAffiliatedTo	Phoenix_Suns
+Lionel_Hollins	isAffiliatedTo	Portland_Trail_Blazers
+Lionel_Hollins	isAffiliatedTo	Portland_Trail_Blazers
+Earl_Watson	isAffiliatedTo	Portland_Trail_Blazers
+Earl_Watson	isAffiliatedTo	Portland_Trail_Blazers
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Lionel_Hollins	isAffiliatedTo	Phoenix_Suns
+Lionel_Hollins	isAffiliatedTo	Phoenix_Suns
+Lionel_Hollins	isAffiliatedTo	Memphis_Grizzlies
+Lionel_Hollins	isAffiliatedTo	Memphis_Grizzlies
+Earl_Watson	isAffiliatedTo	Memphis_Grizzlies
+Earl_Watson	isAffiliatedTo	Memphis_Grizzlies
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Lionel_Hollins	isAffiliatedTo	Phoenix_Suns
+Lionel_Hollins	isAffiliatedTo	Phoenix_Suns
+Lionel_Hollins	isAffiliatedTo	Phoenix_Suns
+Lionel_Hollins	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Kurt_Rambis	isAffiliatedTo	Phoenix_Suns
+Kurt_Rambis	isAffiliatedTo	Phoenix_Suns
+Kurt_Rambis	isAffiliatedTo	Phoenix_Suns
+Kurt_Rambis	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Phoenix_Suns	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Earl_Watson
+Phoenix_Suns	Earl_Watson
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+Earl_Watson	isAffiliatedTo	Phoenix_Suns
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Dudley_Bradley	isAffiliatedTo	Indiana_Pacers
+Dudley_Bradley	isAffiliatedTo	Indiana_Pacers
+Dudley_Bradley	isAffiliatedTo	Indiana_Pacers
+Dudley_Bradley	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Randy_Wittman	isAffiliatedTo	Indiana_Pacers
+Randy_Wittman	isAffiliatedTo	Indiana_Pacers
+Randy_Wittman	isAffiliatedTo	Indiana_Pacers
+Randy_Wittman	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Randy_Wittman	isAffiliatedTo	Indiana_Pacers
+Randy_Wittman	isAffiliatedTo	Indiana_Pacers
+Randy_Wittman	isAffiliatedTo	Orlando_Magic
+Randy_Wittman	isAffiliatedTo	Orlando_Magic
+Frank_Vogel	isAffiliatedTo	Orlando_Magic
+Frank_Vogel	isAffiliatedTo	Orlando_Magic
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Ronald_Murray	isAffiliatedTo	Indiana_Pacers
+Ronald_Murray	isAffiliatedTo	Indiana_Pacers
+Ronald_Murray	isAffiliatedTo	Indiana_Pacers
+Ronald_Murray	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Reggie_Harding	isAffiliatedTo	Indiana_Pacers
+Reggie_Harding	isAffiliatedTo	Indiana_Pacers
+Reggie_Harding	isAffiliatedTo	Indiana_Pacers
+Reggie_Harding	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Primož_Brezec	isAffiliatedTo	Indiana_Pacers
+Primož_Brezec	isAffiliatedTo	Indiana_Pacers
+Primož_Brezec	isAffiliatedTo	Indiana_Pacers
+Primož_Brezec	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Primož_Brezec	isAffiliatedTo	Indiana_Pacers
+Primož_Brezec	isAffiliatedTo	Indiana_Pacers
+Primož_Brezec	isAffiliatedTo	Philadelphia_76ers
+Primož_Brezec	isAffiliatedTo	Philadelphia_76ers
+Frank_Vogel	isAffiliatedTo	Philadelphia_76ers
+Frank_Vogel	isAffiliatedTo	Philadelphia_76ers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Earl_Watson	isAffiliatedTo	Indiana_Pacers
+Earl_Watson	isAffiliatedTo	Indiana_Pacers
+Earl_Watson	isAffiliatedTo	Indiana_Pacers
+Earl_Watson	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Fred_Hoiberg	isAffiliatedTo	Indiana_Pacers
+Fred_Hoiberg	isAffiliatedTo	Indiana_Pacers
+Fred_Hoiberg	isAffiliatedTo	Indiana_Pacers
+Fred_Hoiberg	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Sidney_Lowe	isAffiliatedTo	Indiana_Pacers
+Sidney_Lowe	isAffiliatedTo	Indiana_Pacers
+Sidney_Lowe	isAffiliatedTo	Indiana_Pacers
+Sidney_Lowe	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Mike_Sanders_(basketball)	isAffiliatedTo	Indiana_Pacers
+Mike_Sanders_(basketball)	isAffiliatedTo	Indiana_Pacers
+Mike_Sanders_(basketball)	isAffiliatedTo	Indiana_Pacers
+Mike_Sanders_(basketball)	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Mickey_Johnson	isAffiliatedTo	Indiana_Pacers
+Mickey_Johnson	isAffiliatedTo	Indiana_Pacers
+Mickey_Johnson	isAffiliatedTo	Indiana_Pacers
+Mickey_Johnson	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Jerome_Anderson_(basketball)	isAffiliatedTo	Indiana_Pacers
+Jerome_Anderson_(basketball)	isAffiliatedTo	Indiana_Pacers
+Jerome_Anderson_(basketball)	isAffiliatedTo	Indiana_Pacers
+Jerome_Anderson_(basketball)	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Jerome_Anderson_(basketball)	isAffiliatedTo	Indiana_Pacers
+Jerome_Anderson_(basketball)	isAffiliatedTo	Indiana_Pacers
+Jerome_Anderson_(basketball)	isAffiliatedTo	Boston_Celtics
+Jerome_Anderson_(basketball)	isAffiliatedTo	Boston_Celtics
+Frank_Vogel	isAffiliatedTo	Boston_Celtics
+Frank_Vogel	isAffiliatedTo	Boston_Celtics
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Herbert_Simon_(real_estate)	owns	Indiana_Pacers
+Herbert_Simon_(real_estate)	owns	Indiana_Pacers
+Herbert_Simon_(real_estate)	owns	Indiana_Pacers
+Herbert_Simon_(real_estate)	owns	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Luis_Scola	isAffiliatedTo	Indiana_Pacers
+Luis_Scola	isAffiliatedTo	Indiana_Pacers
+Luis_Scola	isAffiliatedTo	Indiana_Pacers
+Luis_Scola	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Jordan_Hill_(basketball)	isAffiliatedTo	Indiana_Pacers
+Jordan_Hill_(basketball)	isAffiliatedTo	Indiana_Pacers
+Jordan_Hill_(basketball)	isAffiliatedTo	Indiana_Pacers
+Jordan_Hill_(basketball)	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Bobby_Wilson_(basketball,_born_1951)	isAffiliatedTo	Indiana_Pacers
+Bobby_Wilson_(basketball,_born_1951)	isAffiliatedTo	Indiana_Pacers
+Bobby_Wilson_(basketball,_born_1951)	isAffiliatedTo	Indiana_Pacers
+Bobby_Wilson_(basketball,_born_1951)	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Bobby_Wilson_(basketball,_born_1951)	isAffiliatedTo	Indiana_Pacers
+Bobby_Wilson_(basketball,_born_1951)	isAffiliatedTo	Indiana_Pacers
+Bobby_Wilson_(basketball,_born_1951)	isAffiliatedTo	Boston_Celtics
+Bobby_Wilson_(basketball,_born_1951)	isAffiliatedTo	Boston_Celtics
+Frank_Vogel	isAffiliatedTo	Boston_Celtics
+Frank_Vogel	isAffiliatedTo	Boston_Celtics
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+James_Jones_(basketball_player)	isAffiliatedTo	Indiana_Pacers
+James_Jones_(basketball_player)	isAffiliatedTo	Indiana_Pacers
+James_Jones_(basketball_player)	isAffiliatedTo	Indiana_Pacers
+James_Jones_(basketball_player)	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Sam_Mitchell_(basketball)	isAffiliatedTo	Indiana_Pacers
+Sam_Mitchell_(basketball)	isAffiliatedTo	Indiana_Pacers
+Sam_Mitchell_(basketball)	isAffiliatedTo	Indiana_Pacers
+Sam_Mitchell_(basketball)	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Jim_Thomas_(basketball)	isAffiliatedTo	Indiana_Pacers
+Jim_Thomas_(basketball)	isAffiliatedTo	Indiana_Pacers
+Jim_Thomas_(basketball)	isAffiliatedTo	Indiana_Pacers
+Jim_Thomas_(basketball)	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Darrell_Armstrong	isAffiliatedTo	Indiana_Pacers
+Darrell_Armstrong	isAffiliatedTo	Indiana_Pacers
+Darrell_Armstrong	isAffiliatedTo	Orlando_Magic
+Darrell_Armstrong	isAffiliatedTo	Orlando_Magic
+Frank_Vogel	isAffiliatedTo	Orlando_Magic
+Frank_Vogel	isAffiliatedTo	Orlando_Magic
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Darrell_Armstrong	isAffiliatedTo	Indiana_Pacers
+Darrell_Armstrong	isAffiliatedTo	Indiana_Pacers
+Darrell_Armstrong	isAffiliatedTo	Indiana_Pacers
+Darrell_Armstrong	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Al_Jefferson	isAffiliatedTo	Indiana_Pacers
+Al_Jefferson	isAffiliatedTo	Indiana_Pacers
+Al_Jefferson	isAffiliatedTo	Boston_Celtics
+Al_Jefferson	isAffiliatedTo	Boston_Celtics
+Frank_Vogel	isAffiliatedTo	Boston_Celtics
+Frank_Vogel	isAffiliatedTo	Boston_Celtics
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Al_Jefferson	isAffiliatedTo	Indiana_Pacers
+Al_Jefferson	isAffiliatedTo	Indiana_Pacers
+Al_Jefferson	isAffiliatedTo	Indiana_Pacers
+Al_Jefferson	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Bruno_Šundov	isAffiliatedTo	Indiana_Pacers
+Bruno_Šundov	isAffiliatedTo	Indiana_Pacers
+Bruno_Šundov	isAffiliatedTo	Boston_Celtics
+Bruno_Šundov	isAffiliatedTo	Boston_Celtics
+Frank_Vogel	isAffiliatedTo	Boston_Celtics
+Frank_Vogel	isAffiliatedTo	Boston_Celtics
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Bruno_Šundov	isAffiliatedTo	Indiana_Pacers
+Bruno_Šundov	isAffiliatedTo	Indiana_Pacers
+Bruno_Šundov	isAffiliatedTo	Indiana_Pacers
+Bruno_Šundov	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Jerryd_Bayless	isAffiliatedTo	Indiana_Pacers
+Jerryd_Bayless	isAffiliatedTo	Indiana_Pacers
+Jerryd_Bayless	isAffiliatedTo	Philadelphia_76ers
+Jerryd_Bayless	isAffiliatedTo	Philadelphia_76ers
+Frank_Vogel	isAffiliatedTo	Philadelphia_76ers
+Frank_Vogel	isAffiliatedTo	Philadelphia_76ers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Jerryd_Bayless	isAffiliatedTo	Indiana_Pacers
+Jerryd_Bayless	isAffiliatedTo	Indiana_Pacers
+Jerryd_Bayless	isAffiliatedTo	Indiana_Pacers
+Jerryd_Bayless	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Jerryd_Bayless	isAffiliatedTo	Indiana_Pacers
+Jerryd_Bayless	isAffiliatedTo	Indiana_Pacers
+Jerryd_Bayless	isAffiliatedTo	Boston_Celtics
+Jerryd_Bayless	isAffiliatedTo	Boston_Celtics
+Frank_Vogel	isAffiliatedTo	Boston_Celtics
+Frank_Vogel	isAffiliatedTo	Boston_Celtics
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Šarūnas_Jasikevičius	isAffiliatedTo	Indiana_Pacers
+Šarūnas_Jasikevičius	isAffiliatedTo	Indiana_Pacers
+Šarūnas_Jasikevičius	isAffiliatedTo	Indiana_Pacers
+Šarūnas_Jasikevičius	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Ricky_Pierce	isAffiliatedTo	Indiana_Pacers
+Ricky_Pierce	isAffiliatedTo	Indiana_Pacers
+Ricky_Pierce	isAffiliatedTo	Indiana_Pacers
+Ricky_Pierce	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Rick_Carlisle	isAffiliatedTo	Indiana_Pacers
+Rick_Carlisle	isAffiliatedTo	Indiana_Pacers
+Rick_Carlisle	isAffiliatedTo	Indiana_Pacers
+Rick_Carlisle	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Rick_Carlisle	isAffiliatedTo	Indiana_Pacers
+Rick_Carlisle	isAffiliatedTo	Indiana_Pacers
+Rick_Carlisle	isAffiliatedTo	Boston_Celtics
+Rick_Carlisle	isAffiliatedTo	Boston_Celtics
+Frank_Vogel	isAffiliatedTo	Boston_Celtics
+Frank_Vogel	isAffiliatedTo	Boston_Celtics
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Žan_Tabak	isAffiliatedTo	Indiana_Pacers
+Žan_Tabak	isAffiliatedTo	Indiana_Pacers
+Žan_Tabak	isAffiliatedTo	Boston_Celtics
+Žan_Tabak	isAffiliatedTo	Boston_Celtics
+Frank_Vogel	isAffiliatedTo	Boston_Celtics
+Frank_Vogel	isAffiliatedTo	Boston_Celtics
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Žan_Tabak	isAffiliatedTo	Indiana_Pacers
+Žan_Tabak	isAffiliatedTo	Indiana_Pacers
+Žan_Tabak	isAffiliatedTo	Indiana_Pacers
+Žan_Tabak	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Gerald_Paddio	isAffiliatedTo	Indiana_Pacers
+Gerald_Paddio	isAffiliatedTo	Indiana_Pacers
+Gerald_Paddio	isAffiliatedTo	Indiana_Pacers
+Gerald_Paddio	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Scott_Skiles	isAffiliatedTo	Indiana_Pacers
+Scott_Skiles	isAffiliatedTo	Indiana_Pacers
+Scott_Skiles	isAffiliatedTo	Philadelphia_76ers
+Scott_Skiles	isAffiliatedTo	Philadelphia_76ers
+Frank_Vogel	isAffiliatedTo	Philadelphia_76ers
+Frank_Vogel	isAffiliatedTo	Philadelphia_76ers
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Scott_Skiles	isAffiliatedTo	Indiana_Pacers
+Scott_Skiles	isAffiliatedTo	Indiana_Pacers
+Scott_Skiles	isAffiliatedTo	Orlando_Magic
+Scott_Skiles	isAffiliatedTo	Orlando_Magic
+Frank_Vogel	isAffiliatedTo	Orlando_Magic
+Frank_Vogel	isAffiliatedTo	Orlando_Magic
+
+http://dbpedia.org/resource/Indiana_Pacers	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Frank_Vogel
+Indiana_Pacers	Frank_Vogel
+Scott_Skiles	isAffiliatedTo	Indiana_Pacers
+Scott_Skiles	isAffiliatedTo	Indiana_Pacers
+Scott_Skiles	isAffiliatedTo	Indiana_Pacers
+Scott_Skiles	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+Frank_Vogel	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Walter_Sharpe	isAffiliatedTo	Detroit_Pistons
+Walter_Sharpe	isAffiliatedTo	Detroit_Pistons
+Walter_Sharpe	isAffiliatedTo	Detroit_Pistons
+Walter_Sharpe	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Quincy_Miller	isAffiliatedTo	Detroit_Pistons
+Quincy_Miller	isAffiliatedTo	Detroit_Pistons
+Quincy_Miller	isAffiliatedTo	Detroit_Pistons
+Quincy_Miller	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Josh_Harrellson	isAffiliatedTo	Detroit_Pistons
+Josh_Harrellson	isAffiliatedTo	Detroit_Pistons
+Josh_Harrellson	isAffiliatedTo	Detroit_Pistons
+Josh_Harrellson	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Josh_Harrellson	isAffiliatedTo	Detroit_Pistons
+Josh_Harrellson	isAffiliatedTo	Detroit_Pistons
+Josh_Harrellson	isAffiliatedTo	Miami_Heat
+Josh_Harrellson	isAffiliatedTo	Miami_Heat
+Stan_Van_Gundy	isAffiliatedTo	Miami_Heat
+Stan_Van_Gundy	isAffiliatedTo	Miami_Heat
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Ricky_Pierce	isAffiliatedTo	Detroit_Pistons
+Ricky_Pierce	isAffiliatedTo	Detroit_Pistons
+Ricky_Pierce	isAffiliatedTo	Detroit_Pistons
+Ricky_Pierce	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Andre_Wakefield	isAffiliatedTo	Detroit_Pistons
+Andre_Wakefield	isAffiliatedTo	Detroit_Pistons
+Andre_Wakefield	isAffiliatedTo	Detroit_Pistons
+Andre_Wakefield	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Brandon_Knight_(basketball)	isAffiliatedTo	Detroit_Pistons
+Brandon_Knight_(basketball)	isAffiliatedTo	Detroit_Pistons
+Brandon_Knight_(basketball)	isAffiliatedTo	Detroit_Pistons
+Brandon_Knight_(basketball)	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Tom_Gores	owns	Detroit_Pistons
+Tom_Gores	owns	Detroit_Pistons
+Tom_Gores	owns	Detroit_Pistons
+Tom_Gores	owns	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Reggie_Harding	isAffiliatedTo	Detroit_Pistons
+Reggie_Harding	isAffiliatedTo	Detroit_Pistons
+Reggie_Harding	isAffiliatedTo	Detroit_Pistons
+Reggie_Harding	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Lionel_Hollins	isAffiliatedTo	Detroit_Pistons
+Lionel_Hollins	isAffiliatedTo	Detroit_Pistons
+Lionel_Hollins	isAffiliatedTo	Detroit_Pistons
+Lionel_Hollins	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+George_Trapp	isAffiliatedTo	Detroit_Pistons
+George_Trapp	isAffiliatedTo	Detroit_Pistons
+George_Trapp	isAffiliatedTo	Detroit_Pistons
+George_Trapp	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Walter_Dukes	isAffiliatedTo	Detroit_Pistons
+Walter_Dukes	isAffiliatedTo	Detroit_Pistons
+Walter_Dukes	isAffiliatedTo	Detroit_Pistons
+Walter_Dukes	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Kurt_Nimphius	isAffiliatedTo	Detroit_Pistons
+Kurt_Nimphius	isAffiliatedTo	Detroit_Pistons
+Kurt_Nimphius	isAffiliatedTo	Detroit_Pistons
+Kurt_Nimphius	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Alvin_Gentry	isAffiliatedTo	Detroit_Pistons
+Alvin_Gentry	isAffiliatedTo	Detroit_Pistons
+Alvin_Gentry	isAffiliatedTo	Detroit_Pistons
+Alvin_Gentry	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Alvin_Gentry	isAffiliatedTo	Detroit_Pistons
+Alvin_Gentry	isAffiliatedTo	Detroit_Pistons
+Alvin_Gentry	isAffiliatedTo	Miami_Heat
+Alvin_Gentry	isAffiliatedTo	Miami_Heat
+Stan_Van_Gundy	isAffiliatedTo	Miami_Heat
+Stan_Van_Gundy	isAffiliatedTo	Miami_Heat
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Maurice_Cheeks	isAffiliatedTo	Detroit_Pistons
+Maurice_Cheeks	isAffiliatedTo	Detroit_Pistons
+Maurice_Cheeks	isAffiliatedTo	Detroit_Pistons
+Maurice_Cheeks	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Mel_Peterson	isAffiliatedTo	Detroit_Pistons
+Mel_Peterson	isAffiliatedTo	Detroit_Pistons
+Mel_Peterson	isAffiliatedTo	Detroit_Pistons
+Mel_Peterson	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Tobias_Harris	isAffiliatedTo	Detroit_Pistons
+Tobias_Harris	isAffiliatedTo	Detroit_Pistons
+Tobias_Harris	isAffiliatedTo	Detroit_Pistons
+Tobias_Harris	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Tobias_Harris	isAffiliatedTo	Detroit_Pistons
+Tobias_Harris	isAffiliatedTo	Detroit_Pistons
+Tobias_Harris	isAffiliatedTo	Orlando_Magic
+Tobias_Harris	isAffiliatedTo	Orlando_Magic
+Stan_Van_Gundy	isAffiliatedTo	Orlando_Magic
+Stan_Van_Gundy	isAffiliatedTo	Orlando_Magic
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Sidney_Lowe	isAffiliatedTo	Detroit_Pistons
+Sidney_Lowe	isAffiliatedTo	Detroit_Pistons
+Sidney_Lowe	isAffiliatedTo	Detroit_Pistons
+Sidney_Lowe	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Peyton_Siva	isAffiliatedTo	Detroit_Pistons
+Peyton_Siva	isAffiliatedTo	Detroit_Pistons
+Peyton_Siva	isAffiliatedTo	Detroit_Pistons
+Peyton_Siva	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Otto_Moore	isAffiliatedTo	Detroit_Pistons
+Otto_Moore	isAffiliatedTo	Detroit_Pistons
+Otto_Moore	isAffiliatedTo	Detroit_Pistons
+Otto_Moore	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Detroit_Pistons	isLocatedIn	Auburn_Hills,_Michigan
+Detroit_Pistons	isLocatedIn	Auburn_Hills,_Michigan
+Detroit_Pistons	isLocatedIn	Auburn_Hills,_Michigan
+Detroit_Pistons	isLocatedIn	Auburn_Hills,_Michigan
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Steve_Blake	isAffiliatedTo	Detroit_Pistons
+Steve_Blake	isAffiliatedTo	Detroit_Pistons
+Steve_Blake	isAffiliatedTo	Detroit_Pistons
+Steve_Blake	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Primož_Brezec	isAffiliatedTo	Detroit_Pistons
+Primož_Brezec	isAffiliatedTo	Detroit_Pistons
+Primož_Brezec	isAffiliatedTo	Detroit_Pistons
+Primož_Brezec	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Bob_Nash_(basketball)	isAffiliatedTo	Detroit_Pistons
+Bob_Nash_(basketball)	isAffiliatedTo	Detroit_Pistons
+Bob_Nash_(basketball)	isAffiliatedTo	Detroit_Pistons
+Bob_Nash_(basketball)	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Ralph_Lewis_(basketball)	isAffiliatedTo	Detroit_Pistons
+Ralph_Lewis_(basketball)	isAffiliatedTo	Detroit_Pistons
+Ralph_Lewis_(basketball)	isAffiliatedTo	Detroit_Pistons
+Ralph_Lewis_(basketball)	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Larry_Drew	isAffiliatedTo	Detroit_Pistons
+Larry_Drew	isAffiliatedTo	Detroit_Pistons
+Larry_Drew	isAffiliatedTo	Detroit_Pistons
+Larry_Drew	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Aaron_Gray	isAffiliatedTo	Detroit_Pistons
+Aaron_Gray	isAffiliatedTo	Detroit_Pistons
+Aaron_Gray	isAffiliatedTo	Detroit_Pistons
+Aaron_Gray	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Rick_Carlisle	isAffiliatedTo	Detroit_Pistons
+Rick_Carlisle	isAffiliatedTo	Detroit_Pistons
+Rick_Carlisle	isAffiliatedTo	Detroit_Pistons
+Rick_Carlisle	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Dave_Bing	isAffiliatedTo	Detroit_Pistons
+Dave_Bing	isAffiliatedTo	Detroit_Pistons
+Dave_Bing	isAffiliatedTo	Detroit_Pistons
+Dave_Bing	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Andreas_Glyniadakis	isAffiliatedTo	Detroit_Pistons
+Andreas_Glyniadakis	isAffiliatedTo	Detroit_Pistons
+Andreas_Glyniadakis	isAffiliatedTo	Detroit_Pistons
+Andreas_Glyniadakis	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Ronald_Murray	isAffiliatedTo	Detroit_Pistons
+Ronald_Murray	isAffiliatedTo	Detroit_Pistons
+Ronald_Murray	isAffiliatedTo	Detroit_Pistons
+Ronald_Murray	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Detroit_Pistons	isLocatedIn	Michigan
+Detroit_Pistons	isLocatedIn	Michigan
+Detroit_Pistons	isLocatedIn	Michigan
+Detroit_Pistons	isLocatedIn	Michigan
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Tony_Mitchell_(basketball,_born_1992)	isAffiliatedTo	Detroit_Pistons
+Tony_Mitchell_(basketball,_born_1992)	isAffiliatedTo	Detroit_Pistons
+Tony_Mitchell_(basketball,_born_1992)	isAffiliatedTo	Detroit_Pistons
+Tony_Mitchell_(basketball,_born_1992)	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Detroit_Pistons	isLocatedIn	Detroit
+Detroit_Pistons	isLocatedIn	Detroit
+Detroit_Pistons	isLocatedIn	Detroit
+Detroit_Pistons	isLocatedIn	Detroit
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Brandon_Jennings	isAffiliatedTo	Detroit_Pistons
+Brandon_Jennings	isAffiliatedTo	Detroit_Pistons
+Brandon_Jennings	isAffiliatedTo	Orlando_Magic
+Brandon_Jennings	isAffiliatedTo	Orlando_Magic
+Stan_Van_Gundy	isAffiliatedTo	Orlando_Magic
+Stan_Van_Gundy	isAffiliatedTo	Orlando_Magic
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Brandon_Jennings	isAffiliatedTo	Detroit_Pistons
+Brandon_Jennings	isAffiliatedTo	Detroit_Pistons
+Brandon_Jennings	isAffiliatedTo	Detroit_Pistons
+Brandon_Jennings	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Jodie_Meeks	isAffiliatedTo	Detroit_Pistons
+Jodie_Meeks	isAffiliatedTo	Detroit_Pistons
+Jodie_Meeks	isAffiliatedTo	Orlando_Magic
+Jodie_Meeks	isAffiliatedTo	Orlando_Magic
+Stan_Van_Gundy	isAffiliatedTo	Orlando_Magic
+Stan_Van_Gundy	isAffiliatedTo	Orlando_Magic
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Jodie_Meeks	isAffiliatedTo	Detroit_Pistons
+Jodie_Meeks	isAffiliatedTo	Detroit_Pistons
+Jodie_Meeks	isAffiliatedTo	Detroit_Pistons
+Jodie_Meeks	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Saski_Baskonia	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Velimir_Perasović
+Saski_Baskonia	Velimir_Perasović
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+
+http://dbpedia.org/resource/Saski_Baskonia	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Velimir_Perasović
+Saski_Baskonia	Velimir_Perasović
+Martin_Rančík	isAffiliatedTo	Saski_Baskonia
+Martin_Rančík	isAffiliatedTo	Saski_Baskonia
+Martin_Rančík	isAffiliatedTo	CB_Estudiantes
+Martin_Rančík	isAffiliatedTo	CB_Estudiantes
+Velimir_Perasović	isAffiliatedTo	CB_Estudiantes
+Velimir_Perasović	isAffiliatedTo	CB_Estudiantes
+
+http://dbpedia.org/resource/Saski_Baskonia	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Velimir_Perasović
+Saski_Baskonia	Velimir_Perasović
+Martin_Rančík	isAffiliatedTo	Saski_Baskonia
+Martin_Rančík	isAffiliatedTo	Saski_Baskonia
+Martin_Rančík	isAffiliatedTo	Saski_Baskonia
+Martin_Rančík	isAffiliatedTo	Saski_Baskonia
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+
+http://dbpedia.org/resource/Saski_Baskonia	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Velimir_Perasović
+Saski_Baskonia	Velimir_Perasović
+Juan_Alberto_Espil	isAffiliatedTo	Saski_Baskonia
+Juan_Alberto_Espil	isAffiliatedTo	Saski_Baskonia
+Juan_Alberto_Espil	isAffiliatedTo	Saski_Baskonia
+Juan_Alberto_Espil	isAffiliatedTo	Saski_Baskonia
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+
+http://dbpedia.org/resource/Saski_Baskonia	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Velimir_Perasović
+Saski_Baskonia	Velimir_Perasović
+Luis_Scola	isAffiliatedTo	Saski_Baskonia
+Luis_Scola	isAffiliatedTo	Saski_Baskonia
+Luis_Scola	isAffiliatedTo	Saski_Baskonia
+Luis_Scola	isAffiliatedTo	Saski_Baskonia
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+
+http://dbpedia.org/resource/Saski_Baskonia	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Velimir_Perasović
+Saski_Baskonia	Velimir_Perasović
+Saski_Baskonia	isLocatedIn	Fernando_Buesa_Arena
+Saski_Baskonia	isLocatedIn	Fernando_Buesa_Arena
+Saski_Baskonia	isLocatedIn	Fernando_Buesa_Arena
+Saski_Baskonia	isLocatedIn	Fernando_Buesa_Arena
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+
+http://dbpedia.org/resource/Saski_Baskonia	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Velimir_Perasović
+Saski_Baskonia	Velimir_Perasović
+Roko_Ukić	isAffiliatedTo	Saski_Baskonia
+Roko_Ukić	isAffiliatedTo	Saski_Baskonia
+Roko_Ukić	isAffiliatedTo	Saski_Baskonia
+Roko_Ukić	isAffiliatedTo	Saski_Baskonia
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+
+http://dbpedia.org/resource/Saski_Baskonia	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Velimir_Perasović
+Saski_Baskonia	Velimir_Perasović
+Roko_Ukić	isAffiliatedTo	Saski_Baskonia
+Roko_Ukić	isAffiliatedTo	Saski_Baskonia
+Roko_Ukić	isAffiliatedTo	KK_Split
+Roko_Ukić	isAffiliatedTo	KK_Split
+Velimir_Perasović	isAffiliatedTo	KK_Split
+Velimir_Perasović	isAffiliatedTo	KK_Split
+
+http://dbpedia.org/resource/Saski_Baskonia	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Velimir_Perasović
+Saski_Baskonia	Velimir_Perasović
+Fred_House	isAffiliatedTo	Saski_Baskonia
+Fred_House	isAffiliatedTo	Saski_Baskonia
+Fred_House	isAffiliatedTo	Saski_Baskonia
+Fred_House	isAffiliatedTo	Saski_Baskonia
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+
+http://dbpedia.org/resource/Saski_Baskonia	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Velimir_Perasović
+Saski_Baskonia	Velimir_Perasović
+J._J._Anderson	isAffiliatedTo	Saski_Baskonia
+J._J._Anderson	isAffiliatedTo	Saski_Baskonia
+J._J._Anderson	isAffiliatedTo	Saski_Baskonia
+J._J._Anderson	isAffiliatedTo	Saski_Baskonia
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+
+http://dbpedia.org/resource/Saski_Baskonia	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Velimir_Perasović
+Saski_Baskonia	Velimir_Perasović
+Neven_Spahija	isAffiliatedTo	Saski_Baskonia
+Neven_Spahija	isAffiliatedTo	Saski_Baskonia
+Neven_Spahija	isAffiliatedTo	KK_Cibona
+Neven_Spahija	isAffiliatedTo	KK_Cibona
+Velimir_Perasović	isAffiliatedTo	KK_Cibona
+Velimir_Perasović	isAffiliatedTo	KK_Cibona
+
+http://dbpedia.org/resource/Saski_Baskonia	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Velimir_Perasović
+Saski_Baskonia	Velimir_Perasović
+Neven_Spahija	isAffiliatedTo	Saski_Baskonia
+Neven_Spahija	isAffiliatedTo	Saski_Baskonia
+Neven_Spahija	isAffiliatedTo	Saski_Baskonia
+Neven_Spahija	isAffiliatedTo	Saski_Baskonia
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+
+http://dbpedia.org/resource/Saski_Baskonia	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Velimir_Perasović
+Saski_Baskonia	Velimir_Perasović
+Darius_Adams	isAffiliatedTo	Saski_Baskonia
+Darius_Adams	isAffiliatedTo	Saski_Baskonia
+Darius_Adams	isAffiliatedTo	Saski_Baskonia
+Darius_Adams	isAffiliatedTo	Saski_Baskonia
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+
+http://dbpedia.org/resource/Saski_Baskonia	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Velimir_Perasović
+Saski_Baskonia	Velimir_Perasović
+Ioannis_Bourousis	isAffiliatedTo	Saski_Baskonia
+Ioannis_Bourousis	isAffiliatedTo	Saski_Baskonia
+Ioannis_Bourousis	isAffiliatedTo	Saski_Baskonia
+Ioannis_Bourousis	isAffiliatedTo	Saski_Baskonia
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+
+http://dbpedia.org/resource/Saski_Baskonia	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Velimir_Perasović
+Saski_Baskonia	Velimir_Perasović
+Saski_Baskonia	isLocatedIn	Vitoria-Gasteiz
+Saski_Baskonia	isLocatedIn	Vitoria-Gasteiz
+Saski_Baskonia	isLocatedIn	Vitoria-Gasteiz
+Saski_Baskonia	isLocatedIn	Vitoria-Gasteiz
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+Velimir_Perasović	isAffiliatedTo	Saski_Baskonia
+
+http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Žan_Tabak
+Maccabi_Tel_Aviv_B.C.	Žan_Tabak
+Neven_Spahija	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Neven_Spahija	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Neven_Spahija	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Neven_Spahija	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+
+http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Žan_Tabak
+Maccabi_Tel_Aviv_B.C.	Žan_Tabak
+Donald_Royal	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Donald_Royal	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Donald_Royal	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Donald_Royal	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+
+http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Žan_Tabak
+Maccabi_Tel_Aviv_B.C.	Žan_Tabak
+Andrija_Žižić	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Andrija_Žižić	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Andrija_Žižić	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Andrija_Žižić	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+
+http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Žan_Tabak
+Maccabi_Tel_Aviv_B.C.	Žan_Tabak
+Andrija_Žižić	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Andrija_Žižić	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Andrija_Žižić	isAffiliatedTo	KK_Split
+Andrija_Žižić	isAffiliatedTo	KK_Split
+Žan_Tabak	isAffiliatedTo	KK_Split
+Žan_Tabak	isAffiliatedTo	KK_Split
+
+http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Žan_Tabak
+Maccabi_Tel_Aviv_B.C.	Žan_Tabak
+Yuval_Naimy	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Yuval_Naimy	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Yuval_Naimy	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Yuval_Naimy	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+
+http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Žan_Tabak
+Maccabi_Tel_Aviv_B.C.	Žan_Tabak
+Yotam_Halperin	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Yotam_Halperin	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Yotam_Halperin	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Yotam_Halperin	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+
+http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Žan_Tabak
+Maccabi_Tel_Aviv_B.C.	Žan_Tabak
+Quincy_Miller	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Quincy_Miller	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Quincy_Miller	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Quincy_Miller	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+
+http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Žan_Tabak
+Maccabi_Tel_Aviv_B.C.	Žan_Tabak
+Milan_Mačvan	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Milan_Mačvan	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Milan_Mačvan	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Milan_Mačvan	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+
+http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Žan_Tabak
+Maccabi_Tel_Aviv_B.C.	Žan_Tabak
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+
+http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Žan_Tabak
+Maccabi_Tel_Aviv_B.C.	Žan_Tabak
+Tanhum_Cohen-Mintz	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Tanhum_Cohen-Mintz	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Tanhum_Cohen-Mintz	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Tanhum_Cohen-Mintz	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+
+http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Žan_Tabak
+Maccabi_Tel_Aviv_B.C.	Žan_Tabak
+Šarūnas_Jasikevičius	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Šarūnas_Jasikevičius	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Šarūnas_Jasikevičius	isAffiliatedTo	Indiana_Pacers
+Šarūnas_Jasikevičius	isAffiliatedTo	Indiana_Pacers
+Žan_Tabak	isAffiliatedTo	Indiana_Pacers
+Žan_Tabak	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Žan_Tabak
+Maccabi_Tel_Aviv_B.C.	Žan_Tabak
+Šarūnas_Jasikevičius	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Šarūnas_Jasikevičius	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Šarūnas_Jasikevičius	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Šarūnas_Jasikevičius	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+
+http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Žan_Tabak
+Maccabi_Tel_Aviv_B.C.	Žan_Tabak
+Bruno_Šundov	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Bruno_Šundov	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Bruno_Šundov	isAffiliatedTo	Boston_Celtics
+Bruno_Šundov	isAffiliatedTo	Boston_Celtics
+Žan_Tabak	isAffiliatedTo	Boston_Celtics
+Žan_Tabak	isAffiliatedTo	Boston_Celtics
+
+http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Žan_Tabak
+Maccabi_Tel_Aviv_B.C.	Žan_Tabak
+Bruno_Šundov	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Bruno_Šundov	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Bruno_Šundov	isAffiliatedTo	KK_Split
+Bruno_Šundov	isAffiliatedTo	KK_Split
+Žan_Tabak	isAffiliatedTo	KK_Split
+Žan_Tabak	isAffiliatedTo	KK_Split
+
+http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Žan_Tabak
+Maccabi_Tel_Aviv_B.C.	Žan_Tabak
+Bruno_Šundov	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Bruno_Šundov	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Bruno_Šundov	isAffiliatedTo	Indiana_Pacers
+Bruno_Šundov	isAffiliatedTo	Indiana_Pacers
+Žan_Tabak	isAffiliatedTo	Indiana_Pacers
+Žan_Tabak	isAffiliatedTo	Indiana_Pacers
+
+http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Žan_Tabak
+Maccabi_Tel_Aviv_B.C.	Žan_Tabak
+Bruno_Šundov	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Bruno_Šundov	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Bruno_Šundov	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Bruno_Šundov	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+
+http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Žan_Tabak
+Maccabi_Tel_Aviv_B.C.	Žan_Tabak
+Tre_Simmons	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Tre_Simmons	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Tre_Simmons	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Tre_Simmons	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+
+http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Žan_Tabak
+Maccabi_Tel_Aviv_B.C.	Žan_Tabak
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+
+http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Žan_Tabak
+Maccabi_Tel_Aviv_B.C.	Žan_Tabak
+Omri_Casspi	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Omri_Casspi	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Omri_Casspi	isAffiliatedTo	Houston_Rockets
+Omri_Casspi	isAffiliatedTo	Houston_Rockets
+Žan_Tabak	isAffiliatedTo	Houston_Rockets
+Žan_Tabak	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Žan_Tabak
+Maccabi_Tel_Aviv_B.C.	Žan_Tabak
+Omri_Casspi	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Omri_Casspi	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Omri_Casspi	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Omri_Casspi	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Žan_Tabak	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+
+http://dbpedia.org/resource/Seattle_SuperSonics	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Seattle_SuperSonics
+Seattle_SuperSonics	Seattle_SuperSonics
+Moochie_Norris	isAffiliatedTo	Seattle_SuperSonics
+Moochie_Norris	isAffiliatedTo	Seattle_SuperSonics
+Moochie_Norris	isAffiliatedTo	Seattle_SuperSonics
+Moochie_Norris	isAffiliatedTo	Seattle_SuperSonics
+
+http://dbpedia.org/resource/Seattle_SuperSonics	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Seattle_SuperSonics
+Seattle_SuperSonics	Seattle_SuperSonics
+Earl_Watson	isAffiliatedTo	Seattle_SuperSonics
+Earl_Watson	isAffiliatedTo	Seattle_SuperSonics
+Earl_Watson	isAffiliatedTo	Seattle_SuperSonics
+Earl_Watson	isAffiliatedTo	Seattle_SuperSonics
+
+http://dbpedia.org/resource/Seattle_SuperSonics	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Seattle_SuperSonics
+Seattle_SuperSonics	Seattle_SuperSonics
+Carl_Landry	isAffiliatedTo	Seattle_SuperSonics
+Carl_Landry	isAffiliatedTo	Seattle_SuperSonics
+Carl_Landry	isAffiliatedTo	Seattle_SuperSonics
+Carl_Landry	isAffiliatedTo	Seattle_SuperSonics
+
+http://dbpedia.org/resource/Seattle_SuperSonics	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Seattle_SuperSonics
+Seattle_SuperSonics	Seattle_SuperSonics
+Andreas_Glyniadakis	isAffiliatedTo	Seattle_SuperSonics
+Andreas_Glyniadakis	isAffiliatedTo	Seattle_SuperSonics
+Andreas_Glyniadakis	isAffiliatedTo	Seattle_SuperSonics
+Andreas_Glyniadakis	isAffiliatedTo	Seattle_SuperSonics
+
+http://dbpedia.org/resource/Seattle_SuperSonics	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Seattle_SuperSonics
+Seattle_SuperSonics	Seattle_SuperSonics
+Ronald_Murray	isAffiliatedTo	Seattle_SuperSonics
+Ronald_Murray	isAffiliatedTo	Seattle_SuperSonics
+Ronald_Murray	isAffiliatedTo	Seattle_SuperSonics
+Ronald_Murray	isAffiliatedTo	Seattle_SuperSonics
+
+http://dbpedia.org/resource/Seattle_SuperSonics	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Seattle_SuperSonics
+Seattle_SuperSonics	Seattle_SuperSonics
+Bart_Kofoed	isAffiliatedTo	Seattle_SuperSonics
+Bart_Kofoed	isAffiliatedTo	Seattle_SuperSonics
+Bart_Kofoed	isAffiliatedTo	Seattle_SuperSonics
+Bart_Kofoed	isAffiliatedTo	Seattle_SuperSonics
+
+http://dbpedia.org/resource/Seattle_SuperSonics	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Seattle_SuperSonics
+Seattle_SuperSonics	Seattle_SuperSonics
+Gerald_Paddio	isAffiliatedTo	Seattle_SuperSonics
+Gerald_Paddio	isAffiliatedTo	Seattle_SuperSonics
+Gerald_Paddio	isAffiliatedTo	Seattle_SuperSonics
+Gerald_Paddio	isAffiliatedTo	Seattle_SuperSonics
+
+http://dbpedia.org/resource/Seattle_SuperSonics	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Seattle_SuperSonics
+Seattle_SuperSonics	Seattle_SuperSonics
+Mark_Bryant_(basketball)	isAffiliatedTo	Seattle_SuperSonics
+Mark_Bryant_(basketball)	isAffiliatedTo	Seattle_SuperSonics
+Mark_Bryant_(basketball)	isAffiliatedTo	Seattle_SuperSonics
+Mark_Bryant_(basketball)	isAffiliatedTo	Seattle_SuperSonics
+
+http://dbpedia.org/resource/Seattle_SuperSonics	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Seattle_SuperSonics
+Seattle_SuperSonics	Seattle_SuperSonics
+Bobby_Simmons	isAffiliatedTo	Seattle_SuperSonics
+Bobby_Simmons	isAffiliatedTo	Seattle_SuperSonics
+Bobby_Simmons	isAffiliatedTo	Seattle_SuperSonics
+Bobby_Simmons	isAffiliatedTo	Seattle_SuperSonics
+
+http://dbpedia.org/resource/Seattle_SuperSonics	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Seattle_SuperSonics
+Seattle_SuperSonics	Seattle_SuperSonics
+Ervin_Johnson	isAffiliatedTo	Seattle_SuperSonics
+Ervin_Johnson	isAffiliatedTo	Seattle_SuperSonics
+Ervin_Johnson	isAffiliatedTo	Seattle_SuperSonics
+Ervin_Johnson	isAffiliatedTo	Seattle_SuperSonics
+
+http://dbpedia.org/resource/Seattle_SuperSonics	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Seattle_SuperSonics
+Seattle_SuperSonics	Seattle_SuperSonics
+Vitaly_Potapenko	isAffiliatedTo	Seattle_SuperSonics
+Vitaly_Potapenko	isAffiliatedTo	Seattle_SuperSonics
+Vitaly_Potapenko	isAffiliatedTo	Seattle_SuperSonics
+Vitaly_Potapenko	isAffiliatedTo	Seattle_SuperSonics
+
+http://dbpedia.org/resource/Seattle_SuperSonics	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Seattle_SuperSonics
+Seattle_SuperSonics	Seattle_SuperSonics
+Alton_Lister	isAffiliatedTo	Seattle_SuperSonics
+Alton_Lister	isAffiliatedTo	Seattle_SuperSonics
+Alton_Lister	isAffiliatedTo	Seattle_SuperSonics
+Alton_Lister	isAffiliatedTo	Seattle_SuperSonics
+
+http://dbpedia.org/resource/Seattle_SuperSonics	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Seattle_SuperSonics
+Seattle_SuperSonics	Seattle_SuperSonics
+Lee_Winfield	isAffiliatedTo	Seattle_SuperSonics
+Lee_Winfield	isAffiliatedTo	Seattle_SuperSonics
+Lee_Winfield	isAffiliatedTo	Seattle_SuperSonics
+Lee_Winfield	isAffiliatedTo	Seattle_SuperSonics
+
+http://dbpedia.org/resource/Seattle_SuperSonics	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Seattle_SuperSonics
+Seattle_SuperSonics	Seattle_SuperSonics
+Ricky_Pierce	isAffiliatedTo	Seattle_SuperSonics
+Ricky_Pierce	isAffiliatedTo	Seattle_SuperSonics
+Ricky_Pierce	isAffiliatedTo	Seattle_SuperSonics
+Ricky_Pierce	isAffiliatedTo	Seattle_SuperSonics
+
+http://dbpedia.org/resource/Seattle_SuperSonics	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Seattle_SuperSonics
+Seattle_SuperSonics	Seattle_SuperSonics
+Walter_Sharpe	isAffiliatedTo	Seattle_SuperSonics
+Walter_Sharpe	isAffiliatedTo	Seattle_SuperSonics
+Walter_Sharpe	isAffiliatedTo	Seattle_SuperSonics
+Walter_Sharpe	isAffiliatedTo	Seattle_SuperSonics
+
+http://dbpedia.org/resource/Seattle_SuperSonics	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Seattle_SuperSonics
+Seattle_SuperSonics	Seattle_SuperSonics
+Serge_Ibaka	isAffiliatedTo	Seattle_SuperSonics
+Serge_Ibaka	isAffiliatedTo	Seattle_SuperSonics
+Serge_Ibaka	isAffiliatedTo	Seattle_SuperSonics
+Serge_Ibaka	isAffiliatedTo	Seattle_SuperSonics
+
+http://dbpedia.org/resource/Seattle_SuperSonics	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Seattle_SuperSonics
+Seattle_SuperSonics	Seattle_SuperSonics
+Terry_Stotts	isAffiliatedTo	Seattle_SuperSonics
+Terry_Stotts	isAffiliatedTo	Seattle_SuperSonics
+Terry_Stotts	isAffiliatedTo	Seattle_SuperSonics
+Terry_Stotts	isAffiliatedTo	Seattle_SuperSonics
+
+http://dbpedia.org/resource/Seattle_SuperSonics	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Seattle_SuperSonics
+Seattle_SuperSonics	Seattle_SuperSonics
+Yotam_Halperin	isAffiliatedTo	Seattle_SuperSonics
+Yotam_Halperin	isAffiliatedTo	Seattle_SuperSonics
+Yotam_Halperin	isAffiliatedTo	Seattle_SuperSonics
+Yotam_Halperin	isAffiliatedTo	Seattle_SuperSonics
+
+http://dbpedia.org/resource/Seattle_SuperSonics	http://dbpedia.org/ontology/coach	http://dbpedia.org/resource/Seattle_SuperSonics
+Seattle_SuperSonics	Seattle_SuperSonics
+Leon_Smith_(basketball)	isAffiliatedTo	Seattle_SuperSonics
+Leon_Smith_(basketball)	isAffiliatedTo	Seattle_SuperSonics
+Leon_Smith_(basketball)	isAffiliatedTo	Seattle_SuperSonics
+Leon_Smith_(basketball)	isAffiliatedTo	Seattle_SuperSonics
+

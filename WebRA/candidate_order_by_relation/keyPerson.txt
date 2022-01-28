@@ -1,0 +1,454 @@
+http://dbpedia.org/resource/Sun_Group	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Kalanithi_Maran
+Sun_Group	Kalanithi_Maran
+Sun_Group	owns	Sunrisers_Hyderabad
+Sun_Group	owns	Sunrisers_Hyderabad
+Kalanithi_Maran	owns	Sunrisers_Hyderabad
+Kalanithi_Maran	owns	Sunrisers_Hyderabad
+
+http://dbpedia.org/resource/The_Blackstone_Group	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Stephen_A._Schwarzman
+The_Blackstone_Group	Stephen_A._Schwarzman
+The_Blackstone_Group	owns	Weatherscan
+The_Blackstone_Group	owns	Weatherscan
+The_Blackstone_Group	owns	Weatherscan
+The_Blackstone_Group	owns	Weatherscan
+Stephen_A._Schwarzman	created	The_Blackstone_Group
+Stephen_A._Schwarzman	created	The_Blackstone_Group
+
+http://dbpedia.org/resource/The_Blackstone_Group	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Stephen_A._Schwarzman
+The_Blackstone_Group	Stephen_A._Schwarzman
+The_Blackstone_Group	owns	Willis_Tower
+The_Blackstone_Group	owns	Willis_Tower
+The_Blackstone_Group	owns	Willis_Tower
+The_Blackstone_Group	owns	Willis_Tower
+Stephen_A._Schwarzman	created	The_Blackstone_Group
+Stephen_A._Schwarzman	created	The_Blackstone_Group
+
+http://dbpedia.org/resource/The_Blackstone_Group	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Stephen_A._Schwarzman
+The_Blackstone_Group	Stephen_A._Schwarzman
+The_Blackstone_Group	owns	Biomet
+The_Blackstone_Group	owns	Biomet
+The_Blackstone_Group	owns	Biomet
+The_Blackstone_Group	owns	Biomet
+Stephen_A._Schwarzman	created	The_Blackstone_Group
+Stephen_A._Schwarzman	created	The_Blackstone_Group
+
+http://dbpedia.org/resource/The_Blackstone_Group	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Stephen_A._Schwarzman
+The_Blackstone_Group	Stephen_A._Schwarzman
+The_Blackstone_Group	owns	The_Weather_Channel
+The_Blackstone_Group	owns	The_Weather_Channel
+The_Blackstone_Group	owns	The_Weather_Channel
+The_Blackstone_Group	owns	The_Weather_Channel
+Stephen_A._Schwarzman	created	The_Blackstone_Group
+Stephen_A._Schwarzman	created	The_Blackstone_Group
+
+http://dbpedia.org/resource/The_Blackstone_Group	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Stephen_A._Schwarzman
+The_Blackstone_Group	Stephen_A._Schwarzman
+Stephen_A._Schwarzman	created	The_Blackstone_Group
+Stephen_A._Schwarzman	created	The_Blackstone_Group
+
+http://dbpedia.org/resource/The_Blackstone_Group	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Stephen_A._Schwarzman
+The_Blackstone_Group	Stephen_A._Schwarzman
+The_Blackstone_Group	owns	BankUnited
+The_Blackstone_Group	owns	BankUnited
+The_Blackstone_Group	owns	BankUnited
+The_Blackstone_Group	owns	BankUnited
+Stephen_A._Schwarzman	created	The_Blackstone_Group
+Stephen_A._Schwarzman	created	The_Blackstone_Group
+
+http://dbpedia.org/resource/The_Blackstone_Group	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Stephen_A._Schwarzman
+The_Blackstone_Group	Stephen_A._Schwarzman
+The_Blackstone_Group	owns	Boca_Raton_Resort
+The_Blackstone_Group	owns	Boca_Raton_Resort
+The_Blackstone_Group	owns	Boca_Raton_Resort
+The_Blackstone_Group	owns	Boca_Raton_Resort
+Stephen_A._Schwarzman	created	The_Blackstone_Group
+Stephen_A._Schwarzman	created	The_Blackstone_Group
+
+http://dbpedia.org/resource/Rakuten	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Hiroshi_Mikitani
+Rakuten	Hiroshi_Mikitani
+Hiroshi_Mikitani	created	Rakuten
+Hiroshi_Mikitani	created	Rakuten
+
+http://dbpedia.org/resource/Quiñenco	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Andrónico_Luksic_Craig
+Quiñenco	Andrónico_Luksic_Craig
+Quiñenco	isLocatedIn	Santiago_Province,_Chile
+Quiñenco	isLocatedIn	Santiago_Province,_Chile
+Santiago_Province,_Chile	isLocatedIn	Chile
+Santiago_Province,_Chile	isLocatedIn	Chile
+Andrónico_Luksic_Craig	wasBornIn	Chile
+Andrónico_Luksic_Craig	isCitizenOf	Chile
+Andrónico_Luksic_Craig	wasBornIn	Chile
+Andrónico_Luksic_Craig	isCitizenOf	Chile
+
+http://dbpedia.org/resource/Quiñenco	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Andrónico_Luksic_Craig
+Quiñenco	Andrónico_Luksic_Craig
+Quiñenco	isLocatedIn	Las_Condes
+Quiñenco	isLocatedIn	Las_Condes
+Las_Condes	isLocatedIn	Chile
+Las_Condes	isLocatedIn	Chile
+Andrónico_Luksic_Craig	wasBornIn	Chile
+Andrónico_Luksic_Craig	isCitizenOf	Chile
+Andrónico_Luksic_Craig	wasBornIn	Chile
+Andrónico_Luksic_Craig	isCitizenOf	Chile
+
+http://dbpedia.org/resource/Balaji_Telefilms	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Shobha_Kapoor
+Balaji_Telefilms	Shobha_Kapoor
+Jeetendra	created	Balaji_Telefilms
+Jeetendra	created	Balaji_Telefilms
+Shobha_Kapoor	isMarriedTo	Jeetendra
+Jeetendra	isMarriedTo	Shobha_Kapoor
+Shobha_Kapoor	isMarriedTo	Jeetendra
+Jeetendra	isMarriedTo	Shobha_Kapoor
+
+http://dbpedia.org/resource/Red_Chillies_Entertainment	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Shah_Rukh_Khan
+Red_Chillies_Entertainment	Shah_Rukh_Khan
+Gauri_Khan	created	Red_Chillies_Entertainment
+Gauri_Khan	created	Red_Chillies_Entertainment
+Gauri_Khan	isMarriedTo	Shah_Rukh_Khan
+Shah_Rukh_Khan	isMarriedTo	Gauri_Khan
+Gauri_Khan	isMarriedTo	Shah_Rukh_Khan
+Shah_Rukh_Khan	isMarriedTo	Gauri_Khan
+
+http://dbpedia.org/resource/Red_Chillies_Entertainment	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Shah_Rukh_Khan
+Red_Chillies_Entertainment	Shah_Rukh_Khan
+Shah_Rukh_Khan	created	Red_Chillies_Entertainment
+Shah_Rukh_Khan	created	Red_Chillies_Entertainment
+
+http://dbpedia.org/resource/Red_Chillies_Entertainment	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Shah_Rukh_Khan
+Red_Chillies_Entertainment	Shah_Rukh_Khan
+Red_Chillies_Entertainment	owns	Kolkata_Knight_Riders
+Red_Chillies_Entertainment	owns	Kolkata_Knight_Riders
+Shah_Rukh_Khan	owns	Kolkata_Knight_Riders
+Shah_Rukh_Khan	owns	Kolkata_Knight_Riders
+
+http://dbpedia.org/resource/Red_Chillies_Entertainment	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Shah_Rukh_Khan
+Red_Chillies_Entertainment	Shah_Rukh_Khan
+Red_Chillies_Entertainment	owns	Kolkata_Knight_Riders
+Red_Chillies_Entertainment	owns	Kolkata_Knight_Riders
+Red_Chillies_Entertainment	owns	Kolkata_Knight_Riders
+Red_Chillies_Entertainment	owns	Kolkata_Knight_Riders
+Shah_Rukh_Khan	created	Red_Chillies_Entertainment
+Shah_Rukh_Khan	created	Red_Chillies_Entertainment
+
+http://dbpedia.org/resource/Red_Chillies_Entertainment	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Shah_Rukh_Khan
+Red_Chillies_Entertainment	Shah_Rukh_Khan
+Red_Chillies_Entertainment	isLocatedIn	Maharashtra
+Red_Chillies_Entertainment	isLocatedIn	Maharashtra
+Shah_Rukh_Khan	livesIn	Maharashtra
+Shah_Rukh_Khan	livesIn	Maharashtra
+
+http://dbpedia.org/resource/Red_Chillies_Entertainment	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Shah_Rukh_Khan
+Red_Chillies_Entertainment	Shah_Rukh_Khan
+Red_Chillies_Entertainment	isLocatedIn	Maharashtra
+Red_Chillies_Entertainment	isLocatedIn	Maharashtra
+Red_Chillies_Entertainment	isLocatedIn	Maharashtra
+Red_Chillies_Entertainment	isLocatedIn	Maharashtra
+Shah_Rukh_Khan	created	Red_Chillies_Entertainment
+Shah_Rukh_Khan	created	Red_Chillies_Entertainment
+
+http://dbpedia.org/resource/Digicel	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Denis_O'Brien
+Digicel	Denis_O'Brien
+Denis_O'Brien	created	Digicel
+Denis_O'Brien	created	Digicel
+
+http://dbpedia.org/resource/View_Askew_Productions	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Kevin_Smith
+View_Askew_Productions	Kevin_Smith
+View_Askew_Productions	isLocatedIn	Red_Bank,_New_Jersey
+View_Askew_Productions	isLocatedIn	Red_Bank,_New_Jersey
+View_Askew_Productions	isLocatedIn	Red_Bank,_New_Jersey
+View_Askew_Productions	isLocatedIn	Red_Bank,_New_Jersey
+Kevin_Smith	created	View_Askew_Productions
+Kevin_Smith	created	View_Askew_Productions
+
+http://dbpedia.org/resource/View_Askew_Productions	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Kevin_Smith
+View_Askew_Productions	Kevin_Smith
+View_Askew_Productions	isLocatedIn	Red_Bank,_New_Jersey
+View_Askew_Productions	isLocatedIn	Red_Bank,_New_Jersey
+Kevin_Smith	wasBornIn	Red_Bank,_New_Jersey
+Kevin_Smith	wasBornIn	Red_Bank,_New_Jersey
+
+http://dbpedia.org/resource/View_Askew_Productions	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Kevin_Smith
+View_Askew_Productions	Kevin_Smith
+View_Askew_Productions	isLocatedIn	Red_Bank,_New_Jersey
+View_Askew_Productions	isLocatedIn	Red_Bank,_New_Jersey
+Harley_Quinn_Smith	wasBornIn	Red_Bank,_New_Jersey
+Harley_Quinn_Smith	wasBornIn	Red_Bank,_New_Jersey
+Kevin_Smith	hasChild	Harley_Quinn_Smith
+Kevin_Smith	hasChild	Harley_Quinn_Smith
+
+http://dbpedia.org/resource/View_Askew_Productions	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Kevin_Smith
+View_Askew_Productions	Kevin_Smith
+Kevin_Smith	created	View_Askew_Productions
+Kevin_Smith	created	View_Askew_Productions
+
+http://dbpedia.org/resource/Techint	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Paolo_Rocca
+Techint	Paolo_Rocca
+Techint	isLocatedIn	Milan
+Techint	isLocatedIn	Milan
+Paolo_Rocca	wasBornIn	Milan
+Paolo_Rocca	wasBornIn	Milan
+
+http://dbpedia.org/resource/Nike,_Inc.	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Phil_Knight
+Nike,_Inc.	Phil_Knight
+Nike,_Inc.	isLocatedIn	Beaverton,_Oregon
+Nike,_Inc.	isLocatedIn	Beaverton,_Oregon
+Nike,_Inc.	isLocatedIn	Beaverton,_Oregon
+Nike,_Inc.	isLocatedIn	Beaverton,_Oregon
+Phil_Knight	created	Nike,_Inc.
+Phil_Knight	created	Nike,_Inc.
+
+http://dbpedia.org/resource/Nike,_Inc.	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Phil_Knight
+Nike,_Inc.	Phil_Knight
+Phil_Knight	created	Nike,_Inc.
+Phil_Knight	created	Nike,_Inc.
+
+http://dbpedia.org/resource/Nike,_Inc.	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Phil_Knight
+Nike,_Inc.	Phil_Knight
+Nike,_Inc.	isLocatedIn	Oregon
+Nike,_Inc.	isLocatedIn	Oregon
+Nike,_Inc.	isLocatedIn	Oregon
+Nike,_Inc.	isLocatedIn	Oregon
+Phil_Knight	created	Nike,_Inc.
+Phil_Knight	created	Nike,_Inc.
+
+http://dbpedia.org/resource/Nike,_Inc.	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Phil_Knight
+Nike,_Inc.	Phil_Knight
+Bill_Bowerman	created	Nike,_Inc.
+Bill_Bowerman	created	Nike,_Inc.
+Bill_Bowerman	created	Nike,_Inc.
+Bill_Bowerman	created	Nike,_Inc.
+Phil_Knight	created	Nike,_Inc.
+Phil_Knight	created	Nike,_Inc.
+
+http://dbpedia.org/resource/International_Harvester	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Cyrus_McCormick
+International_Harvester	Cyrus_McCormick
+Cyrus_McCormick	created	International_Harvester
+Cyrus_McCormick	created	International_Harvester
+
+http://dbpedia.org/resource/International_Harvester	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Cyrus_McCormick
+International_Harvester	Cyrus_McCormick
+International_Harvester	isLocatedIn	Illinois
+International_Harvester	isLocatedIn	Illinois
+International_Harvester	isLocatedIn	Illinois
+International_Harvester	isLocatedIn	Illinois
+Cyrus_McCormick	created	International_Harvester
+Cyrus_McCormick	created	International_Harvester
+
+http://dbpedia.org/resource/International_Harvester	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Cyrus_McCormick
+International_Harvester	Cyrus_McCormick
+International_Harvester	isLocatedIn	Chicago
+International_Harvester	isLocatedIn	Chicago
+International_Harvester	isLocatedIn	Chicago
+International_Harvester	isLocatedIn	Chicago
+Cyrus_McCormick	created	International_Harvester
+Cyrus_McCormick	created	International_Harvester
+
+http://dbpedia.org/resource/Asia_World	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Lo_Hsing_Han
+Asia_World	Lo_Hsing_Han
+Asia_World	isLocatedIn	Yangon
+Asia_World	isLocatedIn	Yangon
+Lo_Hsing_Han	diedIn	Yangon
+Lo_Hsing_Han	diedIn	Yangon
+
+http://dbpedia.org/resource/Asia_World	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Lo_Hsing_Han
+Asia_World	Lo_Hsing_Han
+Lo_Hsing_Han	created	Asia_World
+Lo_Hsing_Han	created	Asia_World
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/John_O._Merrill
+Skidmore,_Owings_&_Merrill	John_O._Merrill
+Skidmore,_Owings_&_Merrill	created	Autzen_Stadium
+Skidmore,_Owings_&_Merrill	created	Autzen_Stadium
+Skidmore,_Owings_&_Merrill	created	Autzen_Stadium
+Skidmore,_Owings_&_Merrill	created	Autzen_Stadium
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/John_O._Merrill
+Skidmore,_Owings_&_Merrill	John_O._Merrill
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/John_O._Merrill
+Skidmore,_Owings_&_Merrill	John_O._Merrill
+Skidmore,_Owings_&_Merrill	created	One_Bush_Plaza
+Skidmore,_Owings_&_Merrill	created	One_Bush_Plaza
+Skidmore,_Owings_&_Merrill	created	One_Bush_Plaza
+Skidmore,_Owings_&_Merrill	created	One_Bush_Plaza
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/John_O._Merrill
+Skidmore,_Owings_&_Merrill	John_O._Merrill
+Skidmore,_Owings_&_Merrill	created	Hubert_H._Humphrey_Metrodome
+Skidmore,_Owings_&_Merrill	created	Hubert_H._Humphrey_Metrodome
+Skidmore,_Owings_&_Merrill	created	Hubert_H._Humphrey_Metrodome
+Skidmore,_Owings_&_Merrill	created	Hubert_H._Humphrey_Metrodome
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/John_O._Merrill
+Skidmore,_Owings_&_Merrill	John_O._Merrill
+Skidmore,_Owings_&_Merrill	created	AT&T_Midtown_Center
+Skidmore,_Owings_&_Merrill	created	AT&T_Midtown_Center
+Skidmore,_Owings_&_Merrill	created	AT&T_Midtown_Center
+Skidmore,_Owings_&_Merrill	created	AT&T_Midtown_Center
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/John_O._Merrill
+Skidmore,_Owings_&_Merrill	John_O._Merrill
+Skidmore,_Owings_&_Merrill	created	Chase_Tower_(Dallas)
+Skidmore,_Owings_&_Merrill	created	Chase_Tower_(Dallas)
+Skidmore,_Owings_&_Merrill	created	Chase_Tower_(Dallas)
+Skidmore,_Owings_&_Merrill	created	Chase_Tower_(Dallas)
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/John_O._Merrill
+Skidmore,_Owings_&_Merrill	John_O._Merrill
+Skidmore,_Owings_&_Merrill	created	555_17th_Street
+Skidmore,_Owings_&_Merrill	created	555_17th_Street
+Skidmore,_Owings_&_Merrill	created	555_17th_Street
+Skidmore,_Owings_&_Merrill	created	555_17th_Street
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/John_O._Merrill
+Skidmore,_Owings_&_Merrill	John_O._Merrill
+Skidmore,_Owings_&_Merrill	created	One_Shell_Plaza
+Skidmore,_Owings_&_Merrill	created	One_Shell_Plaza
+Skidmore,_Owings_&_Merrill	created	One_Shell_Plaza
+Skidmore,_Owings_&_Merrill	created	One_Shell_Plaza
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/John_O._Merrill
+Skidmore,_Owings_&_Merrill	John_O._Merrill
+Skidmore,_Owings_&_Merrill	created	10_Universal_City_Plaza
+Skidmore,_Owings_&_Merrill	created	10_Universal_City_Plaza
+Skidmore,_Owings_&_Merrill	created	10_Universal_City_Plaza
+Skidmore,_Owings_&_Merrill	created	10_Universal_City_Plaza
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/John_O._Merrill
+Skidmore,_Owings_&_Merrill	John_O._Merrill
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/John_O._Merrill
+Skidmore,_Owings_&_Merrill	John_O._Merrill
+Skidmore,_Owings_&_Merrill	created	Brookfield_Place_(Toronto)
+Skidmore,_Owings_&_Merrill	created	Brookfield_Place_(Toronto)
+Skidmore,_Owings_&_Merrill	created	Brookfield_Place_(Toronto)
+Skidmore,_Owings_&_Merrill	created	Brookfield_Place_(Toronto)
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/John_O._Merrill
+Skidmore,_Owings_&_Merrill	John_O._Merrill
+Skidmore,_Owings_&_Merrill	created	Veterans_Memorial_Coliseum_(Portland,_Oregon)
+Skidmore,_Owings_&_Merrill	created	Veterans_Memorial_Coliseum_(Portland,_Oregon)
+Skidmore,_Owings_&_Merrill	created	Veterans_Memorial_Coliseum_(Portland,_Oregon)
+Skidmore,_Owings_&_Merrill	created	Veterans_Memorial_Coliseum_(Portland,_Oregon)
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/John_O._Merrill
+Skidmore,_Owings_&_Merrill	John_O._Merrill
+Skidmore,_Owings_&_Merrill	created	Inland_Steel_Building
+Skidmore,_Owings_&_Merrill	created	Inland_Steel_Building
+Skidmore,_Owings_&_Merrill	created	Inland_Steel_Building
+Skidmore,_Owings_&_Merrill	created	Inland_Steel_Building
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/John_O._Merrill
+Skidmore,_Owings_&_Merrill	John_O._Merrill
+Skidmore,_Owings_&_Merrill	created	Three_First_National_Plaza
+Skidmore,_Owings_&_Merrill	created	Three_First_National_Plaza
+Skidmore,_Owings_&_Merrill	created	Three_First_National_Plaza
+Skidmore,_Owings_&_Merrill	created	Three_First_National_Plaza
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/John_O._Merrill
+Skidmore,_Owings_&_Merrill	John_O._Merrill
+Skidmore,_Owings_&_Merrill	created	W._R._Grace_Building
+Skidmore,_Owings_&_Merrill	created	W._R._Grace_Building
+Skidmore,_Owings_&_Merrill	created	W._R._Grace_Building
+Skidmore,_Owings_&_Merrill	created	W._R._Grace_Building
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/John_O._Merrill
+Skidmore,_Owings_&_Merrill	John_O._Merrill
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/John_O._Merrill
+Skidmore,_Owings_&_Merrill	John_O._Merrill
+Skidmore,_Owings_&_Merrill	created	Trammell_Crow_Center
+Skidmore,_Owings_&_Merrill	created	Trammell_Crow_Center
+Skidmore,_Owings_&_Merrill	created	Trammell_Crow_Center
+Skidmore,_Owings_&_Merrill	created	Trammell_Crow_Center
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+John_O._Merrill	created	Skidmore,_Owings_&_Merrill
+
+http://dbpedia.org/resource/Control_Data_Corporation	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/William_Norris_(CEO)
+Control_Data_Corporation	William_Norris_(CEO)
+Control_Data_Corporation	isLocatedIn	Bloomington,_Minnesota
+Control_Data_Corporation	isLocatedIn	Bloomington,_Minnesota
+William_Norris_(CEO)	diedIn	Bloomington,_Minnesota
+William_Norris_(CEO)	diedIn	Bloomington,_Minnesota
+
+http://dbpedia.org/resource/Control_Data_Corporation	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/William_Norris_(CEO)
+Control_Data_Corporation	William_Norris_(CEO)
+Control_Data_Corporation	isLocatedIn	Minneapolis
+Control_Data_Corporation	isLocatedIn	Minneapolis
+William_Norris_(CEO)	livesIn	Minneapolis
+William_Norris_(CEO)	livesIn	Minneapolis
+
+http://dbpedia.org/resource/Comcast	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/David_L._Cohen
+Comcast	David_L._Cohen
+Comcast	owns	NBCUniversal_Television_Distribution
+Comcast	owns	NBCUniversal_Television_Distribution
+NBCUniversal_Television_Distribution	isLocatedIn	Pennsylvania
+NBCUniversal_Television_Distribution	isLocatedIn	Pennsylvania
+David_L._Cohen	livesIn	Pennsylvania
+David_L._Cohen	livesIn	Pennsylvania
+
+http://dbpedia.org/resource/Comcast	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/David_L._Cohen
+Comcast	David_L._Cohen
+Comcast	owns	NBCUniversal_Television_Distribution
+Comcast	owns	NBCUniversal_Television_Distribution
+NBCUniversal_Television_Distribution	isLocatedIn	Philadelphia
+NBCUniversal_Television_Distribution	isLocatedIn	Philadelphia
+David_L._Cohen	livesIn	Philadelphia
+David_L._Cohen	livesIn	Philadelphia
+
+http://dbpedia.org/resource/Comcast	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/David_L._Cohen
+Comcast	David_L._Cohen
+Comcast	isLocatedIn	Philadelphia
+Comcast	isLocatedIn	Philadelphia
+David_L._Cohen	livesIn	Philadelphia
+David_L._Cohen	livesIn	Philadelphia
+
+http://dbpedia.org/resource/Tenaris	http://dbpedia.org/ontology/keyPerson	http://dbpedia.org/resource/Paolo_Rocca
+Tenaris	Paolo_Rocca
+Techint	owns	Tenaris
+Techint	owns	Tenaris
+Techint	isLocatedIn	Milan
+Techint	isLocatedIn	Milan
+Paolo_Rocca	wasBornIn	Milan
+Paolo_Rocca	wasBornIn	Milan
+

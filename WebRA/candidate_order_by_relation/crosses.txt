@@ -1,0 +1,23 @@
+http://dbpedia.org/resource/Lake_Pontchartrain_Causeway	http://dbpedia.org/ontology/crosses	http://dbpedia.org/resource/Lake_Pontchartrain
+Lake_Pontchartrain_Causeway	Lake_Pontchartrain
+Lake_Pontchartrain_Causeway	isLocatedIn	New_Orleans
+Lake_Pontchartrain_Causeway	isLocatedIn	New_Orleans
+Lake_Pontchartrain	isLocatedIn	New_Orleans
+Lake_Pontchartrain	isLocatedIn	New_Orleans
+
+http://dbpedia.org/resource/Lake_Pontchartrain_Causeway	http://dbpedia.org/ontology/crosses	http://dbpedia.org/resource/Lake_Pontchartrain
+Lake_Pontchartrain_Causeway	Lake_Pontchartrain
+Lake_Pontchartrain_Causeway	isLocatedIn	St._Tammany_Parish,_Louisiana
+Lake_Pontchartrain_Causeway	isLocatedIn	St._Tammany_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	St._Tammany_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	St._Tammany_Parish,_Louisiana
+
+http://dbpedia.org/resource/Lake_Pontchartrain_Causeway	http://dbpedia.org/ontology/crosses	http://dbpedia.org/resource/Lake_Pontchartrain
+Lake_Pontchartrain_Causeway	Lake_Pontchartrain
+Lake_Pontchartrain_Causeway	isLocatedIn	Mandeville,_Louisiana
+Lake_Pontchartrain_Causeway	isLocatedIn	Mandeville,_Louisiana
+Mandeville,_Louisiana	isLocatedIn	St._Tammany_Parish,_Louisiana
+Mandeville,_Louisiana	isLocatedIn	St._Tammany_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	St._Tammany_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	St._Tammany_Parish,_Louisiana
+

@@ -1,0 +1,27 @@
+http://dbpedia.org/resource/Manipal_Institute_of_Technology	http://dbpedia.org/ontology/head	http://dbpedia.org/resource/T._M._A._Pai
+Manipal_Institute_of_Technology	T._M._A._Pai
+Manipal_Institute_of_Technology	isLocatedIn	Manipal
+Manipal_Institute_of_Technology	isLocatedIn	Manipal
+Ramdas_Pai	livesIn	Manipal
+Ramdas_Pai	livesIn	Manipal
+T._M._A._Pai	hasChild	Ramdas_Pai
+T._M._A._Pai	hasChild	Ramdas_Pai
+
+http://dbpedia.org/resource/Manipal_Institute_of_Technology	http://dbpedia.org/ontology/head	http://dbpedia.org/resource/T._M._A._Pai
+Manipal_Institute_of_Technology	T._M._A._Pai
+Manipal_Institute_of_Technology	isLocatedIn	Manipal
+Manipal_Institute_of_Technology	isLocatedIn	Manipal
+Manipal_University	isLocatedIn	Manipal
+Manipal_University	isLocatedIn	Manipal
+T._M._A._Pai	graduatedFrom	Manipal_University
+T._M._A._Pai	created	Manipal_University
+T._M._A._Pai	graduatedFrom	Manipal_University
+T._M._A._Pai	created	Manipal_University
+
+http://dbpedia.org/resource/Manipal_Institute_of_Technology	http://dbpedia.org/ontology/head	http://dbpedia.org/resource/T._M._A._Pai
+Manipal_Institute_of_Technology	T._M._A._Pai
+Manipal_Institute_of_Technology	isLocatedIn	Manipal
+Manipal_Institute_of_Technology	isLocatedIn	Manipal
+T._M._A._Pai	diedIn	Manipal
+T._M._A._Pai	diedIn	Manipal
+

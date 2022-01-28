@@ -1,0 +1,119 @@
+http://dbpedia.org/resource/Fox_Television_Stations	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Movies!
+Fox_Television_Stations	Movies!
+Fox_Television_Stations	owns	KDFW
+Fox_Television_Stations	owns	KDFW
+Fox_Television_Stations	owns	KDFW
+Fox_Television_Stations	owns	KDFW
+Fox_Television_Stations	owns	Movies!
+Fox_Television_Stations	owns	Movies!
+
+http://dbpedia.org/resource/Fox_Television_Stations	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Movies!
+Fox_Television_Stations	Movies!
+Fox_Television_Stations	owns	WMYT-TV
+Fox_Television_Stations	owns	WMYT-TV
+Fox_Television_Stations	owns	WMYT-TV
+Fox_Television_Stations	owns	WMYT-TV
+Fox_Television_Stations	owns	Movies!
+Fox_Television_Stations	owns	Movies!
+
+http://dbpedia.org/resource/Fox_Television_Stations	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Movies!
+Fox_Television_Stations	Movies!
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Television_Stations	owns	Movies!
+Fox_Television_Stations	owns	Movies!
+
+http://dbpedia.org/resource/Fox_Television_Stations	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Movies!
+Fox_Television_Stations	Movies!
+Fox_Television_Stations	owns	Movies!
+Fox_Television_Stations	owns	Movies!
+
+http://dbpedia.org/resource/Fox_Television_Stations	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Movies!
+Fox_Television_Stations	Movies!
+Fox_Television_Stations	owns	WOFL
+Fox_Television_Stations	owns	WOFL
+Fox_Television_Stations	owns	WOFL
+Fox_Television_Stations	owns	WOFL
+Fox_Television_Stations	owns	Movies!
+Fox_Television_Stations	owns	Movies!
+
+http://dbpedia.org/resource/Honda	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Acura
+Honda	Acura
+Honda	owns	Acura
+Honda	owns	Acura
+
+http://dbpedia.org/resource/Honda	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Acura
+Honda	Acura
+Soichiro_Honda	created	Honda
+Soichiro_Honda	created	Honda
+Soichiro_Honda	created	Honda
+Soichiro_Honda	created	Honda
+Honda	owns	Acura
+Honda	owns	Acura
+
+http://dbpedia.org/resource/Honda	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Acura
+Honda	Acura
+Japan_Trustee_Services_Bank	owns	Honda
+Japan_Trustee_Services_Bank	owns	Honda
+Japan_Trustee_Services_Bank	owns	Honda
+Japan_Trustee_Services_Bank	owns	Honda
+Honda	owns	Acura
+Honda	owns	Acura
+
+http://dbpedia.org/resource/Atresmedia	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Atresmedia
+Atresmedia	Atresmedia
+Atresmedia	owns	Xplora
+Atresmedia	owns	Xplora
+Atresmedia	owns	Xplora
+Atresmedia	owns	Xplora
+
+http://dbpedia.org/resource/Atresmedia	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Atresmedia
+Atresmedia	Atresmedia
+Atresmedia	owns	Xplora
+Atresmedia	owns	Xplora
+Xplora	isLocatedIn	San_Sebastián_de_los_Reyes
+Xplora	isLocatedIn	San_Sebastián_de_los_Reyes
+Atresmedia	isLocatedIn	San_Sebastián_de_los_Reyes
+Atresmedia	isLocatedIn	San_Sebastián_de_los_Reyes
+
+http://dbpedia.org/resource/Atresmedia	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Atresmedia
+Atresmedia	Atresmedia
+Atresmedia	isLocatedIn	San_Sebastián_de_los_Reyes
+Atresmedia	isLocatedIn	San_Sebastián_de_los_Reyes
+Atresmedia	isLocatedIn	San_Sebastián_de_los_Reyes
+Atresmedia	isLocatedIn	San_Sebastián_de_los_Reyes
+
+http://dbpedia.org/resource/Atresmedia	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Atresmedia
+Atresmedia	Atresmedia
+Atresmedia	isLocatedIn	San_Sebastián_de_los_Reyes
+Atresmedia	isLocatedIn	San_Sebastián_de_los_Reyes
+Xplora	isLocatedIn	San_Sebastián_de_los_Reyes
+Xplora	isLocatedIn	San_Sebastián_de_los_Reyes
+Atresmedia	owns	Xplora
+Atresmedia	owns	Xplora
+
+http://dbpedia.org/resource/Red_Chillies_Entertainment	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Red_Chillies_Entertainment
+Red_Chillies_Entertainment	Red_Chillies_Entertainment
+Shah_Rukh_Khan	created	Red_Chillies_Entertainment
+Shah_Rukh_Khan	created	Red_Chillies_Entertainment
+Shah_Rukh_Khan	livesIn	Maharashtra
+Shah_Rukh_Khan	livesIn	Maharashtra
+Red_Chillies_Entertainment	isLocatedIn	Maharashtra
+Red_Chillies_Entertainment	isLocatedIn	Maharashtra
+
+http://dbpedia.org/resource/Red_Chillies_Entertainment	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Red_Chillies_Entertainment
+Red_Chillies_Entertainment	Red_Chillies_Entertainment
+Red_Chillies_Entertainment	owns	Kolkata_Knight_Riders
+Red_Chillies_Entertainment	owns	Kolkata_Knight_Riders
+Red_Chillies_Entertainment	owns	Kolkata_Knight_Riders
+Red_Chillies_Entertainment	owns	Kolkata_Knight_Riders
+
+http://dbpedia.org/resource/Red_Chillies_Entertainment	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Red_Chillies_Entertainment
+Red_Chillies_Entertainment	Red_Chillies_Entertainment
+Red_Chillies_Entertainment	isLocatedIn	Maharashtra
+Red_Chillies_Entertainment	isLocatedIn	Maharashtra
+Red_Chillies_Entertainment	isLocatedIn	Maharashtra
+Red_Chillies_Entertainment	isLocatedIn	Maharashtra
+

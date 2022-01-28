@@ -1,0 +1,189 @@
+http://dbpedia.org/resource/Fist_of_Fury_1991	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/Sammo_Hung
+Fist_of_Fury_1991	Sammo_Hung
+Corey_Yuen	actedIn	Fist_of_Fury_1991
+Corey_Yuen	actedIn	Fist_of_Fury_1991
+Corey_Yuen	directed	Dragons_Forever
+Corey_Yuen	directed	Dragons_Forever
+Sammo_Hung	directed	Dragons_Forever
+Sammo_Hung	actedIn	Dragons_Forever
+Sammo_Hung	directed	Dragons_Forever
+Sammo_Hung	actedIn	Dragons_Forever
+
+http://dbpedia.org/resource/Fist_of_Fury_1991	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/Sammo_Hung
+Fist_of_Fury_1991	Sammo_Hung
+Lowell_Lo	wroteMusicFor	Fist_of_Fury_1991
+Lowell_Lo	wroteMusicFor	Fist_of_Fury_1991
+Lowell_Lo	wroteMusicFor	The_Banquet_(1991_film)
+Lowell_Lo	wroteMusicFor	The_Banquet_(1991_film)
+Sammo_Hung	actedIn	The_Banquet_(1991_film)
+Sammo_Hung	actedIn	The_Banquet_(1991_film)
+
+http://dbpedia.org/resource/Fist_of_Fury_1991	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/Sammo_Hung
+Fist_of_Fury_1991	Sammo_Hung
+Lowell_Lo	wroteMusicFor	Fist_of_Fury_1991
+Lowell_Lo	wroteMusicFor	Fist_of_Fury_1991
+Lowell_Lo	wroteMusicFor	Painted_Faces
+Lowell_Lo	wroteMusicFor	Painted_Faces
+Sammo_Hung	actedIn	Painted_Faces
+Sammo_Hung	actedIn	Painted_Faces
+
+http://dbpedia.org/resource/Fist_of_Fury_1991	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/Sammo_Hung
+Fist_of_Fury_1991	Sammo_Hung
+Lowell_Lo	wroteMusicFor	Fist_of_Fury_1991
+Lowell_Lo	wroteMusicFor	Fist_of_Fury_1991
+Lowell_Lo	wroteMusicFor	Once_Upon_a_Time_in_China_(film_series)
+Lowell_Lo	wroteMusicFor	Once_Upon_a_Time_in_China_(film_series)
+Sammo_Hung	directed	Once_Upon_a_Time_in_China_(film_series)
+Sammo_Hung	directed	Once_Upon_a_Time_in_China_(film_series)
+
+http://dbpedia.org/resource/Double_Fattiness	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/Sammo_Hung
+Double_Fattiness	Sammo_Hung
+Eric_Tsang	actedIn	Double_Fattiness
+Eric_Tsang	actedIn	Double_Fattiness
+Eric_Tsang	actedIn	Ghost_Punting
+Eric_Tsang	directed	Ghost_Punting
+Eric_Tsang	actedIn	Ghost_Punting
+Eric_Tsang	directed	Ghost_Punting
+Sammo_Hung	directed	Ghost_Punting
+Sammo_Hung	actedIn	Ghost_Punting
+Sammo_Hung	directed	Ghost_Punting
+Sammo_Hung	actedIn	Ghost_Punting
+
+http://dbpedia.org/resource/Double_Fattiness	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/Sammo_Hung
+Double_Fattiness	Sammo_Hung
+Eric_Tsang	actedIn	Double_Fattiness
+Eric_Tsang	actedIn	Double_Fattiness
+Eric_Tsang	actedIn	The_Banquet_(1991_film)
+Eric_Tsang	actedIn	The_Banquet_(1991_film)
+Sammo_Hung	actedIn	The_Banquet_(1991_film)
+Sammo_Hung	actedIn	The_Banquet_(1991_film)
+
+http://dbpedia.org/resource/Double_Fattiness	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/Sammo_Hung
+Double_Fattiness	Sammo_Hung
+Eric_Tsang	actedIn	Double_Fattiness
+Eric_Tsang	actedIn	Double_Fattiness
+Eric_Tsang	actedIn	My_Lucky_Stars
+Eric_Tsang	actedIn	My_Lucky_Stars
+Sammo_Hung	directed	My_Lucky_Stars
+Sammo_Hung	directed	My_Lucky_Stars
+
+http://dbpedia.org/resource/Double_Fattiness	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/Sammo_Hung
+Double_Fattiness	Sammo_Hung
+Eric_Tsang	actedIn	Double_Fattiness
+Eric_Tsang	actedIn	Double_Fattiness
+Eric_Tsang	wasBornIn	British_Hong_Kong
+Eric_Tsang	wasBornIn	British_Hong_Kong
+Sammo_Hung	wasBornIn	British_Hong_Kong
+Sammo_Hung	wasBornIn	British_Hong_Kong
+
+http://dbpedia.org/resource/Double_Fattiness	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/Sammo_Hung
+Double_Fattiness	Sammo_Hung
+Maggie_Cheung	actedIn	Double_Fattiness
+Maggie_Cheung	actedIn	Double_Fattiness
+Maggie_Cheung	actedIn	Moon_Warriors
+Maggie_Cheung	actedIn	Moon_Warriors
+Sammo_Hung	directed	Moon_Warriors
+Sammo_Hung	directed	Moon_Warriors
+
+http://dbpedia.org/resource/Odd_Couple_(film)	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/Sammo_Hung
+Odd_Couple_(film)	Sammo_Hung
+Lau_Kar-wing	actedIn	Odd_Couple_(film)
+Lau_Kar-wing	directed	Odd_Couple_(film)
+Lau_Kar-wing	actedIn	Odd_Couple_(film)
+Lau_Kar-wing	directed	Odd_Couple_(film)
+Lau_Kar-wing	actedIn	Odd_Couple_(film)
+Lau_Kar-wing	directed	Odd_Couple_(film)
+Lau_Kar-wing	actedIn	Odd_Couple_(film)
+Lau_Kar-wing	directed	Odd_Couple_(film)
+Sammo_Hung	actedIn	Odd_Couple_(film)
+Sammo_Hung	actedIn	Odd_Couple_(film)
+
+http://dbpedia.org/resource/Odd_Couple_(film)	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/Sammo_Hung
+Odd_Couple_(film)	Sammo_Hung
+Lau_Kar-wing	actedIn	Odd_Couple_(film)
+Lau_Kar-wing	directed	Odd_Couple_(film)
+Lau_Kar-wing	actedIn	Odd_Couple_(film)
+Lau_Kar-wing	directed	Odd_Couple_(film)
+Lau_Kar-wing	actedIn	Dirty_Tiger,_Crazy_Frog
+Lau_Kar-wing	actedIn	Dirty_Tiger,_Crazy_Frog
+Sammo_Hung	actedIn	Dirty_Tiger,_Crazy_Frog
+Sammo_Hung	actedIn	Dirty_Tiger,_Crazy_Frog
+
+http://dbpedia.org/resource/Odd_Couple_(film)	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/Sammo_Hung
+Odd_Couple_(film)	Sammo_Hung
+Sammo_Hung	actedIn	Odd_Couple_(film)
+Sammo_Hung	actedIn	Odd_Couple_(film)
+
+http://dbpedia.org/resource/Double_Tap_(film)	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/Orange_Sky_Golden_Harvest
+Double_Tap_(film)	Orange_Sky_Golden_Harvest
+Leslie_Cheung	actedIn	Double_Tap_(film)
+Leslie_Cheung	actedIn	Double_Tap_(film)
+Leslie_Cheung	wasBornIn	Kowloon
+Leslie_Cheung	wasBornIn	Kowloon
+Orange_Sky_Golden_Harvest	isLocatedIn	Kowloon
+Orange_Sky_Golden_Harvest	isLocatedIn	Kowloon
+
+http://dbpedia.org/resource/The_Owl_vs_Bombo	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/Sammo_Hung
+The_Owl_vs_Bombo	Sammo_Hung
+Sammo_Hung	actedIn	The_Owl_vs_Bombo
+Sammo_Hung	directed	The_Owl_vs_Bombo
+Sammo_Hung	actedIn	The_Owl_vs_Bombo
+Sammo_Hung	directed	The_Owl_vs_Bombo
+
+http://dbpedia.org/resource/The_Owl_vs_Bombo	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/Sammo_Hung
+The_Owl_vs_Bombo	Sammo_Hung
+George_Lam	actedIn	The_Owl_vs_Bombo
+George_Lam	actedIn	The_Owl_vs_Bombo
+George_Lam	actedIn	The_Owl_vs_Bombo
+George_Lam	actedIn	The_Owl_vs_Bombo
+Sammo_Hung	actedIn	The_Owl_vs_Bombo
+Sammo_Hung	directed	The_Owl_vs_Bombo
+Sammo_Hung	actedIn	The_Owl_vs_Bombo
+Sammo_Hung	directed	The_Owl_vs_Bombo
+
+http://dbpedia.org/resource/Womb_Ghosts	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/Dennis_Law_(film_director)
+Womb_Ghosts	Dennis_Law_(film_director)
+Dennis_Law_(film_director)	directed	Womb_Ghosts
+Dennis_Law_(film_director)	directed	Womb_Ghosts
+
+http://dbpedia.org/resource/Womb_Ghosts	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/Dennis_Law_(film_director)
+Womb_Ghosts	Dennis_Law_(film_director)
+Lam_Suet	actedIn	Womb_Ghosts
+Lam_Suet	actedIn	Womb_Ghosts
+Lam_Suet	actedIn	Womb_Ghosts
+Lam_Suet	actedIn	Womb_Ghosts
+Dennis_Law_(film_director)	directed	Womb_Ghosts
+Dennis_Law_(film_director)	directed	Womb_Ghosts
+
+http://dbpedia.org/resource/Womb_Ghosts	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/Dennis_Law_(film_director)
+Womb_Ghosts	Dennis_Law_(film_director)
+Lam_Suet	actedIn	Womb_Ghosts
+Lam_Suet	actedIn	Womb_Ghosts
+Lam_Suet	actedIn	The_Constable
+Lam_Suet	actedIn	The_Constable
+Dennis_Law_(film_director)	directed	The_Constable
+Dennis_Law_(film_director)	directed	The_Constable
+
+http://dbpedia.org/resource/Womb_Ghosts	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/Dennis_Law_(film_director)
+Womb_Ghosts	Dennis_Law_(film_director)
+Lam_Suet	actedIn	Womb_Ghosts
+Lam_Suet	actedIn	Womb_Ghosts
+Lam_Suet	actedIn	Bad_Blood_(2010_film)
+Lam_Suet	actedIn	Bad_Blood_(2010_film)
+Dennis_Law_(film_director)	directed	Bad_Blood_(2010_film)
+Dennis_Law_(film_director)	directed	Bad_Blood_(2010_film)
+
+http://dbpedia.org/resource/Womb_Ghosts	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/Dennis_Law_(film_director)
+Womb_Ghosts	Dennis_Law_(film_director)
+Lai_Lok-yi	actedIn	Womb_Ghosts
+Lai_Lok-yi	actedIn	Womb_Ghosts
+Lai_Lok-yi	actedIn	Womb_Ghosts
+Lai_Lok-yi	actedIn	Womb_Ghosts
+Dennis_Law_(film_director)	directed	Womb_Ghosts
+Dennis_Law_(film_director)	directed	Womb_Ghosts
+
+http://dbpedia.org/resource/By_Hook_or_by_Crook_(1980_film)	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/Sammo_Hung
+By_Hook_or_by_Crook_(1980_film)	Sammo_Hung
+Sammo_Hung	actedIn	By_Hook_or_by_Crook_(1980_film)
+Sammo_Hung	actedIn	By_Hook_or_by_Crook_(1980_film)
+

@@ -1,0 +1,78 @@
+http://dbpedia.org/resource/People's_Party_of_Galicia	http://dbpedia.org/ontology/nationalAffiliation	http://dbpedia.org/resource/People's_Party_(Spain)
+People's_Party_of_Galicia	People's_Party_(Spain)
+Mariano_Rajoy	isLeaderOf	People's_Party_of_Galicia
+Mariano_Rajoy	isLeaderOf	People's_Party_of_Galicia
+Mariano_Rajoy	isAffiliatedTo	People's_Party_(Spain)
+Mariano_Rajoy	isAffiliatedTo	People's_Party_(Spain)
+
+http://dbpedia.org/resource/People's_Party_of_Galicia	http://dbpedia.org/ontology/nationalAffiliation	http://dbpedia.org/resource/People's_Party_(Spain)
+People's_Party_of_Galicia	People's_Party_(Spain)
+People's_Party_of_Galicia	isLocatedIn	Santiago_de_Compostela
+People's_Party_of_Galicia	isLocatedIn	Santiago_de_Compostela
+Mariano_Rajoy	wasBornIn	Santiago_de_Compostela
+Mariano_Rajoy	wasBornIn	Santiago_de_Compostela
+Mariano_Rajoy	isAffiliatedTo	People's_Party_(Spain)
+Mariano_Rajoy	isAffiliatedTo	People's_Party_(Spain)
+
+http://dbpedia.org/resource/People's_Party_of_Galicia	http://dbpedia.org/ontology/nationalAffiliation	http://dbpedia.org/resource/People's_Party_(Spain)
+People's_Party_of_Galicia	People's_Party_(Spain)
+Manuel_Fraga_Iribarne	created	People's_Party_of_Galicia
+Manuel_Fraga_Iribarne	created	People's_Party_of_Galicia
+Manuel_Fraga_Iribarne	isAffiliatedTo	People's_Party_(Spain)
+Manuel_Fraga_Iribarne	created	People's_Party_(Spain)
+Manuel_Fraga_Iribarne	isAffiliatedTo	People's_Party_(Spain)
+Manuel_Fraga_Iribarne	created	People's_Party_(Spain)
+
+http://dbpedia.org/resource/People's_Party_of_Galicia	http://dbpedia.org/ontology/nationalAffiliation	http://dbpedia.org/resource/People's_Party_(Spain)
+People's_Party_of_Galicia	People's_Party_(Spain)
+Corina_Porro	isAffiliatedTo	People's_Party_of_Galicia
+Corina_Porro	isAffiliatedTo	People's_Party_of_Galicia
+Corina_Porro	isAffiliatedTo	People's_Party_(Spain)
+Corina_Porro	isAffiliatedTo	People's_Party_(Spain)
+
+http://dbpedia.org/resource/People's_Party_of_Galicia	http://dbpedia.org/ontology/nationalAffiliation	http://dbpedia.org/resource/People's_Party_(Spain)
+People's_Party_of_Galicia	People's_Party_(Spain)
+Alberto_Núñez_Feijóo	isAffiliatedTo	People's_Party_of_Galicia
+Alberto_Núñez_Feijóo	isAffiliatedTo	People's_Party_of_Galicia
+Alberto_Núñez_Feijóo	isAffiliatedTo	People's_Party_(Spain)
+Alberto_Núñez_Feijóo	isAffiliatedTo	People's_Party_(Spain)
+
+http://dbpedia.org/resource/Popular_Front_for_the_Liberation_of_Palestine	http://dbpedia.org/ontology/nationalAffiliation	http://dbpedia.org/resource/Palestine_Liberation_Organization
+Popular_Front_for_the_Liberation_of_Palestine	Palestine_Liberation_Organization
+Popular_Front_for_the_Liberation_of_Palestine	participatedIn	1973_Israeli_raid_on_Lebanon
+Popular_Front_for_the_Liberation_of_Palestine	participatedIn	1973_Israeli_raid_on_Lebanon
+Palestine_Liberation_Organization	participatedIn	1973_Israeli_raid_on_Lebanon
+Palestine_Liberation_Organization	participatedIn	1973_Israeli_raid_on_Lebanon
+
+http://dbpedia.org/resource/Democratic_Action_Party_(Malaysia)	http://dbpedia.org/ontology/nationalAffiliation	http://dbpedia.org/resource/Pakatan_Harapan
+Democratic_Action_Party_(Malaysia)	Pakatan_Harapan
+Ngeh_Koo_Ham	isLeaderOf	Democratic_Action_Party_(Malaysia)
+Ngeh_Koo_Ham	isAffiliatedTo	Democratic_Action_Party_(Malaysia)
+Ngeh_Koo_Ham	isLeaderOf	Democratic_Action_Party_(Malaysia)
+Ngeh_Koo_Ham	isAffiliatedTo	Democratic_Action_Party_(Malaysia)
+Ngeh_Koo_Ham	isAffiliatedTo	Pakatan_Harapan
+Ngeh_Koo_Ham	isAffiliatedTo	Pakatan_Harapan
+
+http://dbpedia.org/resource/Democratic_Action_Party_(Malaysia)	http://dbpedia.org/ontology/nationalAffiliation	http://dbpedia.org/resource/Pakatan_Harapan
+Democratic_Action_Party_(Malaysia)	Pakatan_Harapan
+Hannah_Yeoh	isAffiliatedTo	Democratic_Action_Party_(Malaysia)
+Hannah_Yeoh	isAffiliatedTo	Democratic_Action_Party_(Malaysia)
+Hannah_Yeoh	isAffiliatedTo	Pakatan_Harapan
+Hannah_Yeoh	isAffiliatedTo	Pakatan_Harapan
+
+http://dbpedia.org/resource/Democratic_Action_Party_(Malaysia)	http://dbpedia.org/ontology/nationalAffiliation	http://dbpedia.org/resource/Pakatan_Harapan
+Democratic_Action_Party_(Malaysia)	Pakatan_Harapan
+Lim_Kit_Siang	isAffiliatedTo	Democratic_Action_Party_(Malaysia)
+Lim_Kit_Siang	isAffiliatedTo	Democratic_Action_Party_(Malaysia)
+Lim_Kit_Siang	hasChild	Lim_Guan_Eng
+Lim_Kit_Siang	hasChild	Lim_Guan_Eng
+Lim_Guan_Eng	isLeaderOf	Pakatan_Harapan
+Lim_Guan_Eng	isLeaderOf	Pakatan_Harapan
+
+http://dbpedia.org/resource/Democratic_Action_Party_(Malaysia)	http://dbpedia.org/ontology/nationalAffiliation	http://dbpedia.org/resource/Pakatan_Harapan
+Democratic_Action_Party_(Malaysia)	Pakatan_Harapan
+Er_Teck_Hwa	isAffiliatedTo	Democratic_Action_Party_(Malaysia)
+Er_Teck_Hwa	isAffiliatedTo	Democratic_Action_Party_(Malaysia)
+Er_Teck_Hwa	isAffiliatedTo	Pakatan_Harapan
+Er_Teck_Hwa	isAffiliatedTo	Pakatan_Harapan
+

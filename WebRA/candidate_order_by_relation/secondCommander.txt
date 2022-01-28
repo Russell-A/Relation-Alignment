@@ -1,0 +1,14 @@
+http://dbpedia.org/resource/Rashidun_army	http://dbpedia.org/ontology/secondCommander	http://dbpedia.org/resource/'Amr_ibn_al-'As
+Rashidun_army	'Amr_ibn_al-'As
+Khalid_ibn_al-Walid	isLeaderOf	Rashidun_army
+Khalid_ibn_al-Walid	isLeaderOf	Rashidun_army
+Khalid_ibn_al-Walid	isLeaderOf	Rashidun_army
+Khalid_ibn_al-Walid	isLeaderOf	Rashidun_army
+'Amr_ibn_al-'As	isLeaderOf	Rashidun_army
+'Amr_ibn_al-'As	isLeaderOf	Rashidun_army
+
+http://dbpedia.org/resource/Rashidun_army	http://dbpedia.org/ontology/secondCommander	http://dbpedia.org/resource/'Amr_ibn_al-'As
+Rashidun_army	'Amr_ibn_al-'As
+'Amr_ibn_al-'As	isLeaderOf	Rashidun_army
+'Amr_ibn_al-'As	isLeaderOf	Rashidun_army
+

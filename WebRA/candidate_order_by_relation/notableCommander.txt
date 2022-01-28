@@ -1,0 +1,16 @@
+http://dbpedia.org/resource/National_Republican_Army_(Italian_Socialist_Republic)	http://dbpedia.org/ontology/notableCommander	http://dbpedia.org/resource/Rodolfo_Graziani
+National_Republican_Army_(Italian_Socialist_Republic)	Rodolfo_Graziani
+National_Republican_Army_(Italian_Socialist_Republic)	isLocatedIn	Rome
+National_Republican_Army_(Italian_Socialist_Republic)	isLocatedIn	Rome
+Rodolfo_Graziani	diedIn	Rome
+Rodolfo_Graziani	diedIn	Rome
+
+http://dbpedia.org/resource/National_Republican_Army_(Italian_Socialist_Republic)	http://dbpedia.org/ontology/notableCommander	http://dbpedia.org/resource/Rodolfo_Graziani
+National_Republican_Army_(Italian_Socialist_Republic)	Rodolfo_Graziani
+National_Republican_Army_(Italian_Socialist_Republic)	isLocatedIn	Italian_Social_Republic
+National_Republican_Army_(Italian_Socialist_Republic)	isLocatedIn	Italian_Social_Republic
+Italian_Social_Republic	hasCapital	Rome
+Italian_Social_Republic	hasCapital	Rome
+Rodolfo_Graziani	diedIn	Rome
+Rodolfo_Graziani	diedIn	Rome
+

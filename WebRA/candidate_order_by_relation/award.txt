@@ -1,0 +1,3579 @@
+http://dbpedia.org/resource/Anthony_Wong_(Hong_Kong_actor)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Anthony_Wong_(Hong_Kong_actor)	Infernal_Affairs
+Anthony_Wong_(Hong_Kong_actor)	actedIn	Love_Under_the_Sun
+Anthony_Wong_(Hong_Kong_actor)	actedIn	Love_Under_the_Sun
+Andy_Lau	directed	Love_Under_the_Sun
+Andy_Lau	actedIn	Love_Under_the_Sun
+Andy_Lau	directed	Love_Under_the_Sun
+Andy_Lau	actedIn	Love_Under_the_Sun
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Anthony_Wong_(Hong_Kong_actor)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Anthony_Wong_(Hong_Kong_actor)	Infernal_Affairs
+Anthony_Wong_(Hong_Kong_actor)	actedIn	No_Risk,_No_Gain
+Anthony_Wong_(Hong_Kong_actor)	actedIn	No_Risk,_No_Gain
+Andy_Lau	actedIn	No_Risk,_No_Gain
+Andy_Lau	actedIn	No_Risk,_No_Gain
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Anthony_Wong_(Hong_Kong_actor)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Anthony_Wong_(Hong_Kong_actor)	Infernal_Affairs
+Anthony_Wong_(Hong_Kong_actor)	actedIn	Hard_Boiled
+Anthony_Wong_(Hong_Kong_actor)	actedIn	Hard_Boiled
+Tony_Leung_Chiu-wai	actedIn	Hard_Boiled
+Tony_Leung_Chiu-wai	actedIn	Hard_Boiled
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Milwaukee_Bucks
+Tom_Nissalke	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Sam_Mitchell_(basketball)	isAffiliatedTo	Houston_Rockets
+Sam_Mitchell_(basketball)	isAffiliatedTo	Houston_Rockets
+Sam_Mitchell_(basketball)	isAffiliatedTo	Milwaukee_Bucks
+Sam_Mitchell_(basketball)	isAffiliatedTo	Milwaukee_Bucks
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Milwaukee_Bucks
+Tom_Nissalke	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Milwaukee_Bucks
+Tom_Nissalke	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Tyronn_Lue	isAffiliatedTo	Houston_Rockets
+Tyronn_Lue	isAffiliatedTo	Houston_Rockets
+Tyronn_Lue	isAffiliatedTo	Milwaukee_Bucks
+Tyronn_Lue	isAffiliatedTo	Milwaukee_Bucks
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Milwaukee_Bucks
+Tom_Nissalke	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Lionel_Hollins	isAffiliatedTo	Houston_Rockets
+Lionel_Hollins	isAffiliatedTo	Houston_Rockets
+Lionel_Hollins	isAffiliatedTo	Milwaukee_Bucks
+Lionel_Hollins	isAffiliatedTo	Milwaukee_Bucks
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Milwaukee_Bucks
+Tom_Nissalke	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Terry_Stotts	isAffiliatedTo	Houston_Rockets
+Terry_Stotts	isAffiliatedTo	Houston_Rockets
+Terry_Stotts	isAffiliatedTo	Milwaukee_Bucks
+Terry_Stotts	isAffiliatedTo	Milwaukee_Bucks
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Milwaukee_Bucks
+Tom_Nissalke	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Milwaukee_Bucks
+Tom_Nissalke	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Utah_Jazz
+Tom_Nissalke	isAffiliatedTo	Utah_Jazz
+Tom_Nissalke	isAffiliatedTo	Utah_Jazz
+Tom_Nissalke	isAffiliatedTo	Utah_Jazz
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Milwaukee_Bucks
+Tom_Nissalke	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Milwaukee_Bucks
+Tom_Nissalke	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+Bobby_Simmons	isAffiliatedTo	San_Antonio_Spurs
+Bobby_Simmons	isAffiliatedTo	San_Antonio_Spurs
+Bobby_Simmons	isAffiliatedTo	Milwaukee_Bucks
+Bobby_Simmons	isAffiliatedTo	Milwaukee_Bucks
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Milwaukee_Bucks
+Tom_Nissalke	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Jerryd_Bayless	isAffiliatedTo	New_Orleans_Pelicans
+Jerryd_Bayless	isAffiliatedTo	New_Orleans_Pelicans
+Jerryd_Bayless	isAffiliatedTo	Milwaukee_Bucks
+Jerryd_Bayless	isAffiliatedTo	Milwaukee_Bucks
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Milwaukee_Bucks
+Tom_Nissalke	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Milwaukee_Bucks
+Tom_Nissalke	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Ricky_Pierce	isAffiliatedTo	New_Orleans_Pelicans
+Ricky_Pierce	isAffiliatedTo	New_Orleans_Pelicans
+Ricky_Pierce	isAffiliatedTo	Milwaukee_Bucks
+Ricky_Pierce	isAffiliatedTo	Milwaukee_Bucks
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Milwaukee_Bucks
+Tom_Nissalke	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Ervin_Johnson	isAffiliatedTo	Denver_Nuggets
+Ervin_Johnson	isAffiliatedTo	Denver_Nuggets
+Ervin_Johnson	isAffiliatedTo	Milwaukee_Bucks
+Ervin_Johnson	isAffiliatedTo	Milwaukee_Bucks
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Milwaukee_Bucks
+Tom_Nissalke	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Steve_Blake	isAffiliatedTo	Denver_Nuggets
+Steve_Blake	isAffiliatedTo	Denver_Nuggets
+Steve_Blake	isAffiliatedTo	Milwaukee_Bucks
+Steve_Blake	isAffiliatedTo	Milwaukee_Bucks
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Milwaukee_Bucks
+Tom_Nissalke	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Milwaukee_Bucks
+Tom_Nissalke	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Ricky_Pierce	isAffiliatedTo	Denver_Nuggets
+Ricky_Pierce	isAffiliatedTo	Denver_Nuggets
+Ricky_Pierce	isAffiliatedTo	Milwaukee_Bucks
+Ricky_Pierce	isAffiliatedTo	Milwaukee_Bucks
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Milwaukee_Bucks
+Tom_Nissalke	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tyronn_Lue	isAffiliatedTo	Denver_Nuggets
+Tyronn_Lue	isAffiliatedTo	Denver_Nuggets
+Tyronn_Lue	isAffiliatedTo	Milwaukee_Bucks
+Tyronn_Lue	isAffiliatedTo	Milwaukee_Bucks
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Milwaukee_Bucks
+Tom_Nissalke	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Ronald_Murray	isAffiliatedTo	Cleveland_Cavaliers
+Ronald_Murray	isAffiliatedTo	Cleveland_Cavaliers
+Ronald_Murray	isAffiliatedTo	Milwaukee_Bucks
+Ronald_Murray	isAffiliatedTo	Milwaukee_Bucks
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Milwaukee_Bucks
+Tom_Nissalke	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tyronn_Lue	isAffiliatedTo	Cleveland_Cavaliers
+Tyronn_Lue	isAffiliatedTo	Cleveland_Cavaliers
+Tyronn_Lue	isAffiliatedTo	Milwaukee_Bucks
+Tyronn_Lue	isAffiliatedTo	Milwaukee_Bucks
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Milwaukee_Bucks
+Tom_Nissalke	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Milwaukee_Bucks
+Tom_Nissalke	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Larry_Drew	isAffiliatedTo	Cleveland_Cavaliers
+Larry_Drew	isAffiliatedTo	Cleveland_Cavaliers
+Larry_Drew	isAffiliatedTo	Milwaukee_Bucks
+Larry_Drew	isAffiliatedTo	Milwaukee_Bucks
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/San_Antonio_Spurs
+Tom_Nissalke	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/San_Antonio_Spurs
+Tom_Nissalke	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Luis_Scola	isAffiliatedTo	Houston_Rockets
+Luis_Scola	isAffiliatedTo	Houston_Rockets
+Luis_Scola	isAffiliatedTo	San_Antonio_Spurs
+Luis_Scola	isAffiliatedTo	San_Antonio_Spurs
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/San_Antonio_Spurs
+Tom_Nissalke	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Mark_Bryant_(basketball)	isAffiliatedTo	Houston_Rockets
+Mark_Bryant_(basketball)	isAffiliatedTo	Houston_Rockets
+Mark_Bryant_(basketball)	isAffiliatedTo	San_Antonio_Spurs
+Mark_Bryant_(basketball)	isAffiliatedTo	San_Antonio_Spurs
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/San_Antonio_Spurs
+Tom_Nissalke	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/San_Antonio_Spurs
+Tom_Nissalke	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Bobby_Simmons	isAffiliatedTo	Milwaukee_Bucks
+Bobby_Simmons	isAffiliatedTo	Milwaukee_Bucks
+Bobby_Simmons	isAffiliatedTo	San_Antonio_Spurs
+Bobby_Simmons	isAffiliatedTo	San_Antonio_Spurs
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/San_Antonio_Spurs
+Tom_Nissalke	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	Utah_Jazz
+Tom_Nissalke	isAffiliatedTo	Utah_Jazz
+Tom_Nissalke	isAffiliatedTo	Utah_Jazz
+Tom_Nissalke	isAffiliatedTo	Utah_Jazz
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/San_Antonio_Spurs
+Tom_Nissalke	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	Utah_Jazz
+Tom_Nissalke	isAffiliatedTo	Utah_Jazz
+Jeff_Wilkins_(basketball)	isAffiliatedTo	Utah_Jazz
+Jeff_Wilkins_(basketball)	isAffiliatedTo	Utah_Jazz
+Jeff_Wilkins_(basketball)	isAffiliatedTo	San_Antonio_Spurs
+Jeff_Wilkins_(basketball)	isAffiliatedTo	San_Antonio_Spurs
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/San_Antonio_Spurs
+Tom_Nissalke	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	Utah_Jazz
+Tom_Nissalke	isAffiliatedTo	Utah_Jazz
+Ron_Boone	isAffiliatedTo	Utah_Jazz
+Ron_Boone	isAffiliatedTo	Utah_Jazz
+Ron_Boone	isAffiliatedTo	San_Antonio_Spurs
+Ron_Boone	isAffiliatedTo	San_Antonio_Spurs
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/San_Antonio_Spurs
+Tom_Nissalke	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	Utah_Jazz
+Tom_Nissalke	isAffiliatedTo	Utah_Jazz
+Mike_Sanders_(basketball)	isAffiliatedTo	Utah_Jazz
+Mike_Sanders_(basketball)	isAffiliatedTo	Utah_Jazz
+Mike_Sanders_(basketball)	isAffiliatedTo	San_Antonio_Spurs
+Mike_Sanders_(basketball)	isAffiliatedTo	San_Antonio_Spurs
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/San_Antonio_Spurs
+Tom_Nissalke	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/San_Antonio_Spurs
+Tom_Nissalke	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/San_Antonio_Spurs
+Tom_Nissalke	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Pete_Myers	isAffiliatedTo	New_Orleans_Pelicans
+Pete_Myers	isAffiliatedTo	New_Orleans_Pelicans
+Pete_Myers	isAffiliatedTo	San_Antonio_Spurs
+Pete_Myers	isAffiliatedTo	San_Antonio_Spurs
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/San_Antonio_Spurs
+Tom_Nissalke	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Monty_Williams	isAffiliatedTo	New_Orleans_Pelicans
+Monty_Williams	isAffiliatedTo	New_Orleans_Pelicans
+Monty_Williams	isAffiliatedTo	San_Antonio_Spurs
+Monty_Williams	isAffiliatedTo	San_Antonio_Spurs
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/San_Antonio_Spurs
+Tom_Nissalke	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Alvin_Gentry	isAffiliatedTo	New_Orleans_Pelicans
+Alvin_Gentry	isAffiliatedTo	New_Orleans_Pelicans
+Alvin_Gentry	isAffiliatedTo	San_Antonio_Spurs
+Alvin_Gentry	isAffiliatedTo	San_Antonio_Spurs
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/San_Antonio_Spurs
+Tom_Nissalke	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Mark_Bryant_(basketball)	isAffiliatedTo	Denver_Nuggets
+Mark_Bryant_(basketball)	isAffiliatedTo	Denver_Nuggets
+Mark_Bryant_(basketball)	isAffiliatedTo	San_Antonio_Spurs
+Mark_Bryant_(basketball)	isAffiliatedTo	San_Antonio_Spurs
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/San_Antonio_Spurs
+Tom_Nissalke	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Monty_Williams	isAffiliatedTo	Denver_Nuggets
+Monty_Williams	isAffiliatedTo	Denver_Nuggets
+Monty_Williams	isAffiliatedTo	San_Antonio_Spurs
+Monty_Williams	isAffiliatedTo	San_Antonio_Spurs
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/San_Antonio_Spurs
+Tom_Nissalke	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/San_Antonio_Spurs
+Tom_Nissalke	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Kurt_Nimphius	isAffiliatedTo	Denver_Nuggets
+Kurt_Nimphius	isAffiliatedTo	Denver_Nuggets
+Kurt_Nimphius	isAffiliatedTo	San_Antonio_Spurs
+Kurt_Nimphius	isAffiliatedTo	San_Antonio_Spurs
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/San_Antonio_Spurs
+Tom_Nissalke	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Mark_Bryant_(basketball)	isAffiliatedTo	Cleveland_Cavaliers
+Mark_Bryant_(basketball)	isAffiliatedTo	Cleveland_Cavaliers
+Mark_Bryant_(basketball)	isAffiliatedTo	San_Antonio_Spurs
+Mark_Bryant_(basketball)	isAffiliatedTo	San_Antonio_Spurs
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/San_Antonio_Spurs
+Tom_Nissalke	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Mike_Sanders_(basketball)	isAffiliatedTo	Cleveland_Cavaliers
+Mike_Sanders_(basketball)	isAffiliatedTo	Cleveland_Cavaliers
+Mike_Sanders_(basketball)	isAffiliatedTo	San_Antonio_Spurs
+Mike_Sanders_(basketball)	isAffiliatedTo	San_Antonio_Spurs
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/San_Antonio_Spurs
+Tom_Nissalke	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+
+http://dbpedia.org/resource/Karena_Lam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/July_Rhapsody
+Karena_Lam	July_Rhapsody
+Karena_Lam	actedIn	Inner_Senses
+Karena_Lam	actedIn	Inner_Senses
+Karena_Lam	actedIn	Inner_Senses
+Karena_Lam	actedIn	Inner_Senses
+Karena_Lam	actedIn	July_Rhapsody
+Karena_Lam	actedIn	July_Rhapsody
+
+http://dbpedia.org/resource/Karena_Lam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/July_Rhapsody
+Karena_Lam	July_Rhapsody
+Karena_Lam	actedIn	Claustrophobia_(2008_film)
+Karena_Lam	actedIn	Claustrophobia_(2008_film)
+Ivy_Ho	created	Claustrophobia_(2008_film)
+Ivy_Ho	directed	Claustrophobia_(2008_film)
+Ivy_Ho	created	Claustrophobia_(2008_film)
+Ivy_Ho	directed	Claustrophobia_(2008_film)
+Ivy_Ho	created	July_Rhapsody
+Ivy_Ho	created	July_Rhapsody
+
+http://dbpedia.org/resource/Karena_Lam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/July_Rhapsody
+Karena_Lam	July_Rhapsody
+Karena_Lam	actedIn	Home_Sweet_Home_(2005_film)
+Karena_Lam	actedIn	Home_Sweet_Home_(2005_film)
+Karena_Lam	actedIn	Home_Sweet_Home_(2005_film)
+Karena_Lam	actedIn	Home_Sweet_Home_(2005_film)
+Karena_Lam	actedIn	July_Rhapsody
+Karena_Lam	actedIn	July_Rhapsody
+
+http://dbpedia.org/resource/Karena_Lam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/July_Rhapsody
+Karena_Lam	July_Rhapsody
+Karena_Lam	actedIn	July_Rhapsody
+Karena_Lam	actedIn	July_Rhapsody
+
+http://dbpedia.org/resource/Karena_Lam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/July_Rhapsody
+Karena_Lam	July_Rhapsody
+Karena_Lam	actedIn	It_Had_to_Be_You!
+Karena_Lam	actedIn	It_Had_to_Be_You!
+Karena_Lam	actedIn	It_Had_to_Be_You!
+Karena_Lam	actedIn	It_Had_to_Be_You!
+Karena_Lam	actedIn	July_Rhapsody
+Karena_Lam	actedIn	July_Rhapsody
+
+http://dbpedia.org/resource/Karena_Lam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/July_Rhapsody
+Karena_Lam	July_Rhapsody
+Karena_Lam	actedIn	Mob_Sister
+Karena_Lam	actedIn	Mob_Sister
+Karena_Lam	actedIn	Mob_Sister
+Karena_Lam	actedIn	Mob_Sister
+Karena_Lam	actedIn	July_Rhapsody
+Karena_Lam	actedIn	July_Rhapsody
+
+http://dbpedia.org/resource/Sammi_Cheng	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Love_on_a_Diet
+Sammi_Cheng	Love_on_a_Diet
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Sammi_Cheng	actedIn	Love_on_a_Diet
+
+http://dbpedia.org/resource/Sammi_Cheng	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Love_on_a_Diet
+Sammi_Cheng	Love_on_a_Diet
+Sammi_Cheng	actedIn	The_Lucky_Guy
+Sammi_Cheng	actedIn	The_Lucky_Guy
+Sammi_Cheng	actedIn	The_Lucky_Guy
+Sammi_Cheng	actedIn	The_Lucky_Guy
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Sammi_Cheng	actedIn	Love_on_a_Diet
+
+http://dbpedia.org/resource/Sammi_Cheng	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Love_on_a_Diet
+Sammi_Cheng	Love_on_a_Diet
+Sammi_Cheng	actedIn	Best_of_the_Best_(1992_film)
+Sammi_Cheng	actedIn	Best_of_the_Best_(1992_film)
+Sammi_Cheng	actedIn	Best_of_the_Best_(1992_film)
+Sammi_Cheng	actedIn	Best_of_the_Best_(1992_film)
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Sammi_Cheng	actedIn	Love_on_a_Diet
+
+http://dbpedia.org/resource/Sammi_Cheng	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Love_on_a_Diet
+Sammi_Cheng	Love_on_a_Diet
+Sammi_Cheng	actedIn	Good_Times,_Bed_Times
+Sammi_Cheng	actedIn	Good_Times,_Bed_Times
+Sammi_Cheng	actedIn	Good_Times,_Bed_Times
+Sammi_Cheng	actedIn	Good_Times,_Bed_Times
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Sammi_Cheng	actedIn	Love_on_a_Diet
+
+http://dbpedia.org/resource/Sammi_Cheng	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Love_on_a_Diet
+Sammi_Cheng	Love_on_a_Diet
+Sammi_Cheng	influences	Edison_Chen
+Sammi_Cheng	influences	Edison_Chen
+Sammi_Cheng	influences	Edison_Chen
+Sammi_Cheng	influences	Edison_Chen
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Sammi_Cheng	actedIn	Love_on_a_Diet
+
+http://dbpedia.org/resource/Yuen_Qiu	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Kung_Fu_Hustle
+Yuen_Qiu	Kung_Fu_Hustle
+Yuen_Qiu	actedIn	Kung_Fu_Mahjong_2
+Yuen_Qiu	actedIn	Kung_Fu_Mahjong_2
+Yuen_Wah	actedIn	Kung_Fu_Mahjong_2
+Yuen_Wah	actedIn	Kung_Fu_Mahjong_2
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+
+http://dbpedia.org/resource/Yuen_Qiu	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Kung_Fu_Hustle
+Yuen_Qiu	Kung_Fu_Hustle
+Yuen_Qiu	actedIn	Kung_Fu_Mahjong_2
+Yuen_Qiu	actedIn	Kung_Fu_Mahjong_2
+Yuen_Qiu	actedIn	Kung_Fu_Mahjong_2
+Yuen_Qiu	actedIn	Kung_Fu_Mahjong_2
+Yuen_Qiu	actedIn	Kung_Fu_Hustle
+Yuen_Qiu	actedIn	Kung_Fu_Hustle
+
+http://dbpedia.org/resource/Yuen_Qiu	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Kung_Fu_Hustle
+Yuen_Qiu	Kung_Fu_Hustle
+Yuen_Qiu	actedIn	Kung_Fu_Hustle
+Yuen_Qiu	actedIn	Kung_Fu_Hustle
+
+http://dbpedia.org/resource/Lowell_Lo	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Echoes_of_the_Rainbow
+Lowell_Lo	Echoes_of_the_Rainbow
+Lowell_Lo	wroteMusicFor	Crocodile_Hunter_(film)
+Lowell_Lo	wroteMusicFor	Crocodile_Hunter_(film)
+Sandra_Ng	actedIn	Crocodile_Hunter_(film)
+Sandra_Ng	actedIn	Crocodile_Hunter_(film)
+Sandra_Ng	actedIn	Echoes_of_the_Rainbow
+Sandra_Ng	actedIn	Echoes_of_the_Rainbow
+
+http://dbpedia.org/resource/Lowell_Lo	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Echoes_of_the_Rainbow
+Lowell_Lo	Echoes_of_the_Rainbow
+Lowell_Lo	wroteMusicFor	Gameboy_Kids
+Lowell_Lo	wroteMusicFor	Gameboy_Kids
+Sandra_Ng	actedIn	Gameboy_Kids
+Sandra_Ng	actedIn	Gameboy_Kids
+Sandra_Ng	actedIn	Echoes_of_the_Rainbow
+Sandra_Ng	actedIn	Echoes_of_the_Rainbow
+
+http://dbpedia.org/resource/Noman_Ijaz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/PTV_Awards
+Noman_Ijaz	PTV_Awards
+Noman_Ijaz	actedIn	Ramchand_Pakistani
+Noman_Ijaz	actedIn	Ramchand_Pakistani
+Noman_Ijaz	actedIn	Ramchand_Pakistani
+Noman_Ijaz	actedIn	Ramchand_Pakistani
+Noman_Ijaz	hasWonPrize	PTV_Awards
+Noman_Ijaz	hasWonPrize	PTV_Awards
+
+http://dbpedia.org/resource/Noman_Ijaz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/PTV_Awards
+Noman_Ijaz	PTV_Awards
+Noman_Ijaz	actedIn	Hijrat_(film)
+Noman_Ijaz	actedIn	Hijrat_(film)
+Noman_Ijaz	actedIn	Hijrat_(film)
+Noman_Ijaz	actedIn	Hijrat_(film)
+Noman_Ijaz	hasWonPrize	PTV_Awards
+Noman_Ijaz	hasWonPrize	PTV_Awards
+
+http://dbpedia.org/resource/Noman_Ijaz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/PTV_Awards
+Noman_Ijaz	PTV_Awards
+Noman_Ijaz	hasWonPrize	PTV_Awards
+Noman_Ijaz	hasWonPrize	PTV_Awards
+
+http://dbpedia.org/resource/Noman_Ijaz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/PTV_Awards
+Noman_Ijaz	PTV_Awards
+Noman_Ijaz	wasBornIn	Lahore
+Noman_Ijaz	wasBornIn	Lahore
+Noman_Ijaz	wasBornIn	Lahore
+Noman_Ijaz	wasBornIn	Lahore
+Noman_Ijaz	hasWonPrize	PTV_Awards
+Noman_Ijaz	hasWonPrize	PTV_Awards
+
+http://dbpedia.org/resource/Noman_Ijaz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/PTV_Awards
+Noman_Ijaz	PTV_Awards
+Noman_Ijaz	hasWonPrize	Lux_Style_Awards
+Noman_Ijaz	hasWonPrize	Lux_Style_Awards
+Noman_Ijaz	hasWonPrize	Lux_Style_Awards
+Noman_Ijaz	hasWonPrize	Lux_Style_Awards
+Noman_Ijaz	hasWonPrize	PTV_Awards
+Noman_Ijaz	hasWonPrize	PTV_Awards
+
+http://dbpedia.org/resource/Noman_Ijaz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/PTV_Awards
+Noman_Ijaz	PTV_Awards
+Noman_Ijaz	actedIn	Virsa
+Noman_Ijaz	actedIn	Virsa
+Noman_Ijaz	actedIn	Virsa
+Noman_Ijaz	actedIn	Virsa
+Noman_Ijaz	hasWonPrize	PTV_Awards
+Noman_Ijaz	hasWonPrize	PTV_Awards
+
+http://dbpedia.org/resource/Tanit_Jitnukul	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Bang_Rajan_(film)
+Tanit_Jitnukul	Bang_Rajan_(film)
+Tanit_Jitnukul	directed	Bang_Rajan_(film)
+Tanit_Jitnukul	created	Bang_Rajan_(film)
+Tanit_Jitnukul	directed	Bang_Rajan_(film)
+Tanit_Jitnukul	created	Bang_Rajan_(film)
+
+http://dbpedia.org/resource/Tanit_Jitnukul	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Bang_Rajan_(film)
+Tanit_Jitnukul	Bang_Rajan_(film)
+Tanit_Jitnukul	wasBornIn	Songkhla_Province
+Tanit_Jitnukul	wasBornIn	Songkhla_Province
+Tanit_Jitnukul	wasBornIn	Songkhla_Province
+Tanit_Jitnukul	wasBornIn	Songkhla_Province
+Tanit_Jitnukul	directed	Bang_Rajan_(film)
+Tanit_Jitnukul	created	Bang_Rajan_(film)
+Tanit_Jitnukul	directed	Bang_Rajan_(film)
+Tanit_Jitnukul	created	Bang_Rajan_(film)
+
+http://dbpedia.org/resource/César_Keiser	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/César_Keiser
+César_Keiser	César_Keiser
+César_Keiser	isMarriedTo	Margrit_Läubli
+Margrit_Läubli	isMarriedTo	César_Keiser
+César_Keiser	isMarriedTo	Margrit_Läubli
+Margrit_Läubli	isMarriedTo	César_Keiser
+César_Keiser	isMarriedTo	Margrit_Läubli
+Margrit_Läubli	isMarriedTo	César_Keiser
+César_Keiser	isMarriedTo	Margrit_Läubli
+Margrit_Läubli	isMarriedTo	César_Keiser
+
+http://dbpedia.org/resource/Yuen_Wah	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Kung_Fu_Hustle
+Yuen_Wah	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Eastern_Condors
+Yuen_Wah	actedIn	Eastern_Condors
+Yuen_Wah	actedIn	Eastern_Condors
+Yuen_Wah	actedIn	Eastern_Condors
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+
+http://dbpedia.org/resource/Yuen_Wah	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Kung_Fu_Hustle
+Yuen_Wah	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Hero_(1997_film)
+Yuen_Wah	actedIn	Hero_(1997_film)
+Yuen_Wah	actedIn	Hero_(1997_film)
+Yuen_Wah	actedIn	Hero_(1997_film)
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+
+http://dbpedia.org/resource/Yuen_Wah	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Kung_Fu_Hustle
+Yuen_Wah	Kung_Fu_Hustle
+Yuen_Wah	actedIn	The_Iceman_Cometh_(1989_film)
+Yuen_Wah	actedIn	The_Iceman_Cometh_(1989_film)
+Yuen_Wah	actedIn	The_Iceman_Cometh_(1989_film)
+Yuen_Wah	actedIn	The_Iceman_Cometh_(1989_film)
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+
+http://dbpedia.org/resource/Yuen_Wah	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Kung_Fu_Hustle
+Yuen_Wah	Kung_Fu_Hustle
+Yuen_Wah	actedIn	The_Magnificent_Scoundrels
+Yuen_Wah	actedIn	The_Magnificent_Scoundrels
+Yuen_Wah	actedIn	The_Magnificent_Scoundrels
+Yuen_Wah	actedIn	The_Magnificent_Scoundrels
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+
+http://dbpedia.org/resource/Yuen_Wah	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Kung_Fu_Hustle
+Yuen_Wah	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Police_Story_(film_series)
+Yuen_Wah	actedIn	Police_Story_(film_series)
+Yuen_Wah	actedIn	Police_Story_(film_series)
+Yuen_Wah	actedIn	Police_Story_(film_series)
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+
+http://dbpedia.org/resource/Yuen_Wah	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Kung_Fu_Hustle
+Yuen_Wah	Kung_Fu_Hustle
+Yuen_Wah	actedIn	A_Kid_from_Tibet
+Yuen_Wah	actedIn	A_Kid_from_Tibet
+Yuen_Wah	actedIn	A_Kid_from_Tibet
+Yuen_Wah	actedIn	A_Kid_from_Tibet
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+
+http://dbpedia.org/resource/Yuen_Wah	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Kung_Fu_Hustle
+Yuen_Wah	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Heart_of_Dragon
+Yuen_Wah	actedIn	Heart_of_Dragon
+Yuen_Wah	actedIn	Heart_of_Dragon
+Yuen_Wah	actedIn	Heart_of_Dragon
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+
+http://dbpedia.org/resource/Yuen_Wah	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Kung_Fu_Hustle
+Yuen_Wah	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Kung_Fu_Mahjong_2
+Yuen_Wah	actedIn	Kung_Fu_Mahjong_2
+Yuen_Wah	actedIn	Kung_Fu_Mahjong_2
+Yuen_Wah	actedIn	Kung_Fu_Mahjong_2
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+
+http://dbpedia.org/resource/Yuen_Wah	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Kung_Fu_Hustle
+Yuen_Wah	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Kung_Fu_Mahjong_2
+Yuen_Wah	actedIn	Kung_Fu_Mahjong_2
+Yuen_Qiu	actedIn	Kung_Fu_Mahjong_2
+Yuen_Qiu	actedIn	Kung_Fu_Mahjong_2
+Yuen_Qiu	actedIn	Kung_Fu_Hustle
+Yuen_Qiu	actedIn	Kung_Fu_Hustle
+
+http://dbpedia.org/resource/Yuen_Wah	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Kung_Fu_Hustle
+Yuen_Wah	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Legend_of_the_Dragon_(film)
+Yuen_Wah	actedIn	Legend_of_the_Dragon_(film)
+Yuen_Wah	actedIn	Legend_of_the_Dragon_(film)
+Yuen_Wah	actedIn	Legend_of_the_Dragon_(film)
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+
+http://dbpedia.org/resource/Yuen_Wah	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Kung_Fu_Hustle
+Yuen_Wah	Kung_Fu_Hustle
+Yuen_Wah	actedIn	The_Black_Panther_Warriors
+Yuen_Wah	actedIn	The_Black_Panther_Warriors
+Yuen_Wah	actedIn	The_Black_Panther_Warriors
+Yuen_Wah	actedIn	The_Black_Panther_Warriors
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+
+http://dbpedia.org/resource/Yuen_Wah	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Kung_Fu_Hustle
+Yuen_Wah	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Dragons_Forever
+Yuen_Wah	actedIn	Dragons_Forever
+Yuen_Wah	actedIn	Dragons_Forever
+Yuen_Wah	actedIn	Dragons_Forever
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+
+http://dbpedia.org/resource/Yuen_Wah	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Kung_Fu_Hustle
+Yuen_Wah	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Vampire_Controller
+Yuen_Wah	actedIn	Vampire_Controller
+Yuen_Wah	actedIn	Vampire_Controller
+Yuen_Wah	actedIn	Vampire_Controller
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+
+http://dbpedia.org/resource/Yuen_Wah	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Kung_Fu_Hustle
+Yuen_Wah	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+Yuen_Wah	actedIn	Kung_Fu_Hustle
+
+http://dbpedia.org/resource/Deanie_Ip	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Venice_Film_Festival
+Deanie_Ip	Venice_Film_Festival
+Deanie_Ip	hasWonPrize	Venice_Film_Festival
+Deanie_Ip	hasWonPrize	Venice_Film_Festival
+
+http://dbpedia.org/resource/Deanie_Ip	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Venice_Film_Festival
+Deanie_Ip	Venice_Film_Festival
+Deanie_Ip	actedIn	Carry_On_Pickpocket
+Deanie_Ip	actedIn	Carry_On_Pickpocket
+Deanie_Ip	actedIn	Carry_On_Pickpocket
+Deanie_Ip	actedIn	Carry_On_Pickpocket
+Deanie_Ip	hasWonPrize	Venice_Film_Festival
+Deanie_Ip	hasWonPrize	Venice_Film_Festival
+
+http://dbpedia.org/resource/Deanie_Ip	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Venice_Film_Festival
+Deanie_Ip	Venice_Film_Festival
+Deanie_Ip	actedIn	Pom_Pom_(film)
+Deanie_Ip	actedIn	Pom_Pom_(film)
+Deanie_Ip	actedIn	Pom_Pom_(film)
+Deanie_Ip	actedIn	Pom_Pom_(film)
+Deanie_Ip	hasWonPrize	Venice_Film_Festival
+Deanie_Ip	hasWonPrize	Venice_Film_Festival
+
+http://dbpedia.org/resource/Deanie_Ip	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Venice_Film_Festival
+Deanie_Ip	Venice_Film_Festival
+Deanie_Ip	actedIn	A_Simple_Life
+Deanie_Ip	actedIn	A_Simple_Life
+Deanie_Ip	actedIn	A_Simple_Life
+Deanie_Ip	actedIn	A_Simple_Life
+Deanie_Ip	hasWonPrize	Venice_Film_Festival
+Deanie_Ip	hasWonPrize	Venice_Film_Festival
+
+http://dbpedia.org/resource/Deanie_Ip	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Venice_Film_Festival
+Deanie_Ip	Venice_Film_Festival
+Deanie_Ip	actedIn	The_Truth_(1988_film)
+Deanie_Ip	actedIn	The_Truth_(1988_film)
+Deanie_Ip	actedIn	The_Truth_(1988_film)
+Deanie_Ip	actedIn	The_Truth_(1988_film)
+Deanie_Ip	hasWonPrize	Venice_Film_Festival
+Deanie_Ip	hasWonPrize	Venice_Film_Festival
+
+http://dbpedia.org/resource/Deanie_Ip	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Venice_Film_Festival
+Deanie_Ip	Venice_Film_Festival
+Deanie_Ip	actedIn	Spiritual_Love_(film)
+Deanie_Ip	actedIn	Spiritual_Love_(film)
+Deanie_Ip	actedIn	Spiritual_Love_(film)
+Deanie_Ip	actedIn	Spiritual_Love_(film)
+Deanie_Ip	hasWonPrize	Venice_Film_Festival
+Deanie_Ip	hasWonPrize	Venice_Film_Festival
+
+http://dbpedia.org/resource/Deanie_Ip	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Venice_Film_Festival
+Deanie_Ip	Venice_Film_Festival
+Deanie_Ip	actedIn	Dragons_Forever
+Deanie_Ip	actedIn	Dragons_Forever
+Deanie_Ip	actedIn	Dragons_Forever
+Deanie_Ip	actedIn	Dragons_Forever
+Deanie_Ip	hasWonPrize	Venice_Film_Festival
+Deanie_Ip	hasWonPrize	Venice_Film_Festival
+
+http://dbpedia.org/resource/Deanie_Ip	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Venice_Film_Festival
+Deanie_Ip	Venice_Film_Festival
+Deanie_Ip	actedIn	The_New_Legend_of_Shaolin
+Deanie_Ip	actedIn	The_New_Legend_of_Shaolin
+Deanie_Ip	actedIn	The_New_Legend_of_Shaolin
+Deanie_Ip	actedIn	The_New_Legend_of_Shaolin
+Deanie_Ip	hasWonPrize	Venice_Film_Festival
+Deanie_Ip	hasWonPrize	Venice_Film_Festival
+
+http://dbpedia.org/resource/Deanie_Ip	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Venice_Film_Festival
+Deanie_Ip	Venice_Film_Festival
+Deanie_Ip	actedIn	Fantasy_Romance
+Deanie_Ip	actedIn	Fantasy_Romance
+Deanie_Ip	actedIn	Fantasy_Romance
+Deanie_Ip	actedIn	Fantasy_Romance
+Deanie_Ip	hasWonPrize	Venice_Film_Festival
+Deanie_Ip	hasWonPrize	Venice_Film_Festival
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/2046_(film)
+Tony_Leung_Chiu-wai	2046_(film)
+Tony_Leung_Chiu-wai	actedIn	The_Grandmaster_(film)
+Tony_Leung_Chiu-wai	actedIn	The_Grandmaster_(film)
+Zhang_Ziyi	actedIn	The_Grandmaster_(film)
+Zhang_Ziyi	actedIn	The_Grandmaster_(film)
+Zhang_Ziyi	actedIn	2046_(film)
+Zhang_Ziyi	actedIn	2046_(film)
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/2046_(film)
+Tony_Leung_Chiu-wai	2046_(film)
+Tony_Leung_Chiu-wai	actedIn	The_Grandmaster_(film)
+Tony_Leung_Chiu-wai	actedIn	The_Grandmaster_(film)
+Wong_Kar-wai	directed	The_Grandmaster_(film)
+Wong_Kar-wai	directed	The_Grandmaster_(film)
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	directed	2046_(film)
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/2046_(film)
+Tony_Leung_Chiu-wai	2046_(film)
+Tony_Leung_Chiu-wai	actedIn	The_Grandmaster_(film)
+Tony_Leung_Chiu-wai	actedIn	The_Grandmaster_(film)
+Shigeru_Umebayashi	wroteMusicFor	The_Grandmaster_(film)
+Shigeru_Umebayashi	wroteMusicFor	The_Grandmaster_(film)
+Shigeru_Umebayashi	wroteMusicFor	2046_(film)
+Shigeru_Umebayashi	wroteMusicFor	2046_(film)
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/2046_(film)
+Tony_Leung_Chiu-wai	2046_(film)
+Tony_Leung_Chiu-wai	actedIn	The_Grandmaster_(film)
+Tony_Leung_Chiu-wai	actedIn	The_Grandmaster_(film)
+William_Chang	edited	The_Grandmaster_(film)
+William_Chang	edited	The_Grandmaster_(film)
+William_Chang	edited	2046_(film)
+William_Chang	edited	2046_(film)
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/2046_(film)
+Tony_Leung_Chiu-wai	2046_(film)
+Tony_Leung_Chiu-wai	actedIn	Happy_Together_(1997_film)
+Tony_Leung_Chiu-wai	actedIn	Happy_Together_(1997_film)
+William_Chang	edited	Happy_Together_(1997_film)
+William_Chang	edited	Happy_Together_(1997_film)
+William_Chang	edited	2046_(film)
+William_Chang	edited	2046_(film)
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/2046_(film)
+Tony_Leung_Chiu-wai	2046_(film)
+Tony_Leung_Chiu-wai	actedIn	Happy_Together_(1997_film)
+Tony_Leung_Chiu-wai	actedIn	Happy_Together_(1997_film)
+Wong_Kar-wai	created	Happy_Together_(1997_film)
+Wong_Kar-wai	created	Happy_Together_(1997_film)
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	directed	2046_(film)
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/2046_(film)
+Tony_Leung_Chiu-wai	2046_(film)
+Tony_Leung_Chiu-wai	actedIn	In_the_Mood_for_Love
+Tony_Leung_Chiu-wai	actedIn	In_the_Mood_for_Love
+William_Chang	edited	In_the_Mood_for_Love
+William_Chang	edited	In_the_Mood_for_Love
+William_Chang	edited	2046_(film)
+William_Chang	edited	2046_(film)
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/2046_(film)
+Tony_Leung_Chiu-wai	2046_(film)
+Tony_Leung_Chiu-wai	actedIn	In_the_Mood_for_Love
+Tony_Leung_Chiu-wai	actedIn	In_the_Mood_for_Love
+Shigeru_Umebayashi	wroteMusicFor	In_the_Mood_for_Love
+Shigeru_Umebayashi	wroteMusicFor	In_the_Mood_for_Love
+Shigeru_Umebayashi	wroteMusicFor	2046_(film)
+Shigeru_Umebayashi	wroteMusicFor	2046_(film)
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/2046_(film)
+Tony_Leung_Chiu-wai	2046_(film)
+Tony_Leung_Chiu-wai	actedIn	In_the_Mood_for_Love
+Tony_Leung_Chiu-wai	actedIn	In_the_Mood_for_Love
+Wong_Kar-wai	directed	In_the_Mood_for_Love
+Wong_Kar-wai	directed	In_the_Mood_for_Love
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	directed	2046_(film)
+
+http://dbpedia.org/resource/Sammo_Hung	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Painted_Faces
+Sammo_Hung	Painted_Faces
+Sammo_Hung	created	Encounters_of_the_Spooky_Kind
+Sammo_Hung	directed	Encounters_of_the_Spooky_Kind
+Sammo_Hung	created	Encounters_of_the_Spooky_Kind
+Sammo_Hung	directed	Encounters_of_the_Spooky_Kind
+Sammo_Hung	created	Encounters_of_the_Spooky_Kind
+Sammo_Hung	directed	Encounters_of_the_Spooky_Kind
+Sammo_Hung	created	Encounters_of_the_Spooky_Kind
+Sammo_Hung	directed	Encounters_of_the_Spooky_Kind
+Sammo_Hung	actedIn	Painted_Faces
+Sammo_Hung	actedIn	Painted_Faces
+
+http://dbpedia.org/resource/Sammo_Hung	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Painted_Faces
+Sammo_Hung	Painted_Faces
+Sammo_Hung	actedIn	Fatal_Move
+Sammo_Hung	actedIn	Fatal_Move
+Sammo_Hung	actedIn	Fatal_Move
+Sammo_Hung	actedIn	Fatal_Move
+Sammo_Hung	actedIn	Painted_Faces
+Sammo_Hung	actedIn	Painted_Faces
+
+http://dbpedia.org/resource/Sammo_Hung	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Painted_Faces
+Sammo_Hung	Painted_Faces
+Sammo_Hung	created	Hong_Kong_1941
+Sammo_Hung	created	Hong_Kong_1941
+Sammo_Hung	created	Hong_Kong_1941
+Sammo_Hung	created	Hong_Kong_1941
+Sammo_Hung	actedIn	Painted_Faces
+Sammo_Hung	actedIn	Painted_Faces
+
+http://dbpedia.org/resource/Sammo_Hung	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Painted_Faces
+Sammo_Hung	Painted_Faces
+Sammo_Hung	actedIn	The_Owl_vs_Bombo
+Sammo_Hung	directed	The_Owl_vs_Bombo
+Sammo_Hung	actedIn	The_Owl_vs_Bombo
+Sammo_Hung	directed	The_Owl_vs_Bombo
+Sammo_Hung	actedIn	The_Owl_vs_Bombo
+Sammo_Hung	directed	The_Owl_vs_Bombo
+Sammo_Hung	actedIn	The_Owl_vs_Bombo
+Sammo_Hung	directed	The_Owl_vs_Bombo
+Sammo_Hung	actedIn	Painted_Faces
+Sammo_Hung	actedIn	Painted_Faces
+
+http://dbpedia.org/resource/Sammo_Hung	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Painted_Faces
+Sammo_Hung	Painted_Faces
+Sammo_Hung	actedIn	Pantyhose_Hero
+Sammo_Hung	directed	Pantyhose_Hero
+Sammo_Hung	actedIn	Pantyhose_Hero
+Sammo_Hung	directed	Pantyhose_Hero
+Sammo_Hung	actedIn	Pantyhose_Hero
+Sammo_Hung	directed	Pantyhose_Hero
+Sammo_Hung	actedIn	Pantyhose_Hero
+Sammo_Hung	directed	Pantyhose_Hero
+Sammo_Hung	actedIn	Painted_Faces
+Sammo_Hung	actedIn	Painted_Faces
+
+http://dbpedia.org/resource/Sammo_Hung	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Painted_Faces
+Sammo_Hung	Painted_Faces
+Sammo_Hung	actedIn	Hand_of_Death
+Sammo_Hung	actedIn	Hand_of_Death
+Sammo_Hung	actedIn	Hand_of_Death
+Sammo_Hung	actedIn	Hand_of_Death
+Sammo_Hung	actedIn	Painted_Faces
+Sammo_Hung	actedIn	Painted_Faces
+
+http://dbpedia.org/resource/Sammo_Hung	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Painted_Faces
+Sammo_Hung	Painted_Faces
+Sammo_Hung	actedIn	Painted_Faces
+Sammo_Hung	actedIn	Painted_Faces
+
+http://dbpedia.org/resource/Sammo_Hung	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Painted_Faces
+Sammo_Hung	Painted_Faces
+Sammo_Hung	directed	Lucky_Stars
+Sammo_Hung	created	Lucky_Stars
+Sammo_Hung	actedIn	Lucky_Stars
+Sammo_Hung	directed	Lucky_Stars
+Sammo_Hung	created	Lucky_Stars
+Sammo_Hung	actedIn	Lucky_Stars
+Sammo_Hung	directed	Lucky_Stars
+Sammo_Hung	created	Lucky_Stars
+Sammo_Hung	actedIn	Lucky_Stars
+Sammo_Hung	directed	Lucky_Stars
+Sammo_Hung	created	Lucky_Stars
+Sammo_Hung	actedIn	Lucky_Stars
+Sammo_Hung	actedIn	Painted_Faces
+Sammo_Hung	actedIn	Painted_Faces
+
+http://dbpedia.org/resource/Movses_Silikyan	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Movses_Silikyan
+Movses_Silikyan	Movses_Silikyan
+Movses_Silikyan	isCitizenOf	Azerbaijan
+Movses_Silikyan	isCitizenOf	Azerbaijan
+Movses_Silikyan	isCitizenOf	Azerbaijan
+Movses_Silikyan	isCitizenOf	Azerbaijan
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Tokyo_Raiders
+Tony_Leung_Chiu-wai	actedIn	Tokyo_Raiders
+Tony_Leung_Chiu-wai	actedIn	Tokyo_Raiders
+Tony_Leung_Chiu-wai	actedIn	Tokyo_Raiders
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	The_Grandmaster_(film)
+Tony_Leung_Chiu-wai	actedIn	The_Grandmaster_(film)
+Tony_Leung_Chiu-wai	actedIn	The_Grandmaster_(film)
+Tony_Leung_Chiu-wai	actedIn	The_Grandmaster_(film)
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	The_Days_of_Being_Dumb
+Tony_Leung_Chiu-wai	actedIn	The_Days_of_Being_Dumb
+Tony_Leung_Chiu-wai	actedIn	The_Days_of_Being_Dumb
+Tony_Leung_Chiu-wai	actedIn	The_Days_of_Being_Dumb
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs_III
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs_III
+Andrew_Lau	directed	Infernal_Affairs_III
+Andrew_Lau	directed	Infernal_Affairs_III
+Andrew_Lau	directed	Infernal_Affairs
+Andrew_Lau	directed	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs_III
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs_III
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs_III
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs_III
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs_III
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Confession_of_Pain
+Tony_Leung_Chiu-wai	actedIn	Confession_of_Pain
+Tony_Leung_Chiu-wai	actedIn	Confession_of_Pain
+Tony_Leung_Chiu-wai	actedIn	Confession_of_Pain
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Confession_of_Pain
+Tony_Leung_Chiu-wai	actedIn	Confession_of_Pain
+Andrew_Lau	directed	Confession_of_Pain
+Andrew_Lau	directed	Confession_of_Pain
+Andrew_Lau	directed	Infernal_Affairs
+Andrew_Lau	directed	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	isMarriedTo	Carina_Lau
+Carina_Lau	isMarriedTo	Tony_Leung_Chiu-wai
+Tony_Leung_Chiu-wai	isMarriedTo	Carina_Lau
+Carina_Lau	isMarriedTo	Tony_Leung_Chiu-wai
+Tony_Leung_Chiu-wai	isMarriedTo	Carina_Lau
+Carina_Lau	isMarriedTo	Tony_Leung_Chiu-wai
+Tony_Leung_Chiu-wai	isMarriedTo	Carina_Lau
+Carina_Lau	isMarriedTo	Tony_Leung_Chiu-wai
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Timeless_Romance
+Tony_Leung_Chiu-wai	actedIn	Timeless_Romance
+Tony_Leung_Chiu-wai	actedIn	Timeless_Romance
+Tony_Leung_Chiu-wai	actedIn	Timeless_Romance
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	A_Chinese_Ghost_Story_III
+Tony_Leung_Chiu-wai	actedIn	A_Chinese_Ghost_Story_III
+Tony_Leung_Chiu-wai	actedIn	A_Chinese_Ghost_Story_III
+Tony_Leung_Chiu-wai	actedIn	A_Chinese_Ghost_Story_III
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	I_Love_Maria
+Tony_Leung_Chiu-wai	actedIn	I_Love_Maria
+Tony_Leung_Chiu-wai	actedIn	I_Love_Maria
+Tony_Leung_Chiu-wai	actedIn	I_Love_Maria
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	The_Tigers_(film)
+Tony_Leung_Chiu-wai	actedIn	The_Tigers_(film)
+Andy_Lau	actedIn	The_Tigers_(film)
+Andy_Lau	actedIn	The_Tigers_(film)
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	The_Tigers_(film)
+Tony_Leung_Chiu-wai	actedIn	The_Tigers_(film)
+Tony_Leung_Chiu-wai	actedIn	The_Tigers_(film)
+Tony_Leung_Chiu-wai	actedIn	The_Tigers_(film)
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Seven_Warriors
+Tony_Leung_Chiu-wai	actedIn	Seven_Warriors
+Tony_Leung_Chiu-wai	actedIn	Seven_Warriors
+Tony_Leung_Chiu-wai	actedIn	Seven_Warriors
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Always_Be_the_Winners
+Tony_Leung_Chiu-wai	actedIn	Always_Be_the_Winners
+Tony_Leung_Chiu-wai	actedIn	Always_Be_the_Winners
+Tony_Leung_Chiu-wai	actedIn	Always_Be_the_Winners
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Don't_Fool_Me
+Tony_Leung_Chiu-wai	actedIn	Don't_Fool_Me
+Andy_Lau	actedIn	Don't_Fool_Me
+Andy_Lau	actedIn	Don't_Fool_Me
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Don't_Fool_Me
+Tony_Leung_Chiu-wai	actedIn	Don't_Fool_Me
+Tony_Leung_Chiu-wai	actedIn	Don't_Fool_Me
+Tony_Leung_Chiu-wai	actedIn	Don't_Fool_Me
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	The_Longest_Nite
+Tony_Leung_Chiu-wai	actedIn	The_Longest_Nite
+Tony_Leung_Chiu-wai	actedIn	The_Longest_Nite
+Tony_Leung_Chiu-wai	actedIn	The_Longest_Nite
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	The_Eagle_Shooting_Heroes
+Tony_Leung_Chiu-wai	actedIn	The_Eagle_Shooting_Heroes
+Tony_Leung_Chiu-wai	actedIn	The_Eagle_Shooting_Heroes
+Tony_Leung_Chiu-wai	actedIn	The_Eagle_Shooting_Heroes
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Happy_Together_(1997_film)
+Tony_Leung_Chiu-wai	actedIn	Happy_Together_(1997_film)
+Tony_Leung_Chiu-wai	actedIn	Happy_Together_(1997_film)
+Tony_Leung_Chiu-wai	actedIn	Happy_Together_(1997_film)
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Mack_the_Knife_(1995_film)
+Tony_Leung_Chiu-wai	actedIn	Mack_the_Knife_(1995_film)
+Tony_Leung_Chiu-wai	actedIn	Mack_the_Knife_(1995_film)
+Tony_Leung_Chiu-wai	actedIn	Mack_the_Knife_(1995_film)
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Hard_Boiled
+Tony_Leung_Chiu-wai	actedIn	Hard_Boiled
+Tony_Leung_Chiu-wai	actedIn	Hard_Boiled
+Tony_Leung_Chiu-wai	actedIn	Hard_Boiled
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Fantasy_Romance
+Tony_Leung_Chiu-wai	actedIn	Fantasy_Romance
+Tony_Leung_Chiu-wai	actedIn	Fantasy_Romance
+Tony_Leung_Chiu-wai	actedIn	Fantasy_Romance
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	In_the_Mood_for_Love
+Tony_Leung_Chiu-wai	actedIn	In_the_Mood_for_Love
+Tony_Leung_Chiu-wai	actedIn	In_the_Mood_for_Love
+Tony_Leung_Chiu-wai	actedIn	In_the_Mood_for_Love
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	The_Silent_War_(film)
+Tony_Leung_Chiu-wai	actedIn	The_Silent_War_(film)
+Tony_Leung_Chiu-wai	actedIn	The_Silent_War_(film)
+Tony_Leung_Chiu-wai	actedIn	The_Silent_War_(film)
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Tony_Leung_Chiu-wai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Tony_Leung_Chiu-wai	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Gorgeous_(film)
+Tony_Leung_Chiu-wai	actedIn	Gorgeous_(film)
+Tony_Leung_Chiu-wai	actedIn	Gorgeous_(film)
+Tony_Leung_Chiu-wai	actedIn	Gorgeous_(film)
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/William_Chang	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Days_of_Being_Wild
+William_Chang	Days_of_Being_Wild
+William_Chang	edited	Happy_Together_(1997_film)
+William_Chang	edited	Happy_Together_(1997_film)
+Wong_Kar-wai	created	Happy_Together_(1997_film)
+Wong_Kar-wai	created	Happy_Together_(1997_film)
+Wong_Kar-wai	directed	Days_of_Being_Wild
+Wong_Kar-wai	directed	Days_of_Being_Wild
+
+http://dbpedia.org/resource/William_Chang	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Days_of_Being_Wild
+William_Chang	Days_of_Being_Wild
+William_Chang	edited	Happy_Together_(1997_film)
+William_Chang	edited	Happy_Together_(1997_film)
+Leslie_Cheung	actedIn	Happy_Together_(1997_film)
+Leslie_Cheung	actedIn	Happy_Together_(1997_film)
+Leslie_Cheung	actedIn	Days_of_Being_Wild
+Leslie_Cheung	actedIn	Days_of_Being_Wild
+
+http://dbpedia.org/resource/William_Chang	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Days_of_Being_Wild
+William_Chang	Days_of_Being_Wild
+William_Chang	edited	The_Grandmaster_(film)
+William_Chang	edited	The_Grandmaster_(film)
+Wong_Kar-wai	directed	The_Grandmaster_(film)
+Wong_Kar-wai	directed	The_Grandmaster_(film)
+Wong_Kar-wai	directed	Days_of_Being_Wild
+Wong_Kar-wai	directed	Days_of_Being_Wild
+
+http://dbpedia.org/resource/William_Chang	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Days_of_Being_Wild
+William_Chang	Days_of_Being_Wild
+William_Chang	edited	2046_(film)
+William_Chang	edited	2046_(film)
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	directed	Days_of_Being_Wild
+Wong_Kar-wai	directed	Days_of_Being_Wild
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs_III
+Andy_Lau	Infernal_Affairs_III
+Andy_Lau	directed	Love_Under_the_Sun
+Andy_Lau	actedIn	Love_Under_the_Sun
+Andy_Lau	directed	Love_Under_the_Sun
+Andy_Lau	actedIn	Love_Under_the_Sun
+Andy_Lau	directed	Love_Under_the_Sun
+Andy_Lau	actedIn	Love_Under_the_Sun
+Andy_Lau	directed	Love_Under_the_Sun
+Andy_Lau	actedIn	Love_Under_the_Sun
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs_III
+Andy_Lau	Infernal_Affairs_III
+Andy_Lau	actedIn	Tragic_Hero_(film)
+Andy_Lau	actedIn	Tragic_Hero_(film)
+Andy_Lau	actedIn	Tragic_Hero_(film)
+Andy_Lau	actedIn	Tragic_Hero_(film)
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs_III
+Andy_Lau	Infernal_Affairs_III
+Andy_Lau	actedIn	Golden_Chicken
+Andy_Lau	actedIn	Golden_Chicken
+Andy_Lau	actedIn	Golden_Chicken
+Andy_Lau	actedIn	Golden_Chicken
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs_III
+Andy_Lau	Infernal_Affairs_III
+Andy_Lau	actedIn	Golden_Chicken
+Andy_Lau	actedIn	Golden_Chicken
+Eric_Tsang	actedIn	Golden_Chicken
+Eric_Tsang	actedIn	Golden_Chicken
+Eric_Tsang	actedIn	Infernal_Affairs_III
+Eric_Tsang	actedIn	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs_III
+Andy_Lau	Infernal_Affairs_III
+Andy_Lau	actedIn	Island_of_Fire
+Andy_Lau	actedIn	Island_of_Fire
+Andy_Lau	actedIn	Island_of_Fire
+Andy_Lau	actedIn	Island_of_Fire
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs_III
+Andy_Lau	Infernal_Affairs_III
+Andy_Lau	actedIn	My_Mother_Is_a_Belly_Dancer
+Andy_Lau	actedIn	My_Mother_Is_a_Belly_Dancer
+Andy_Lau	actedIn	My_Mother_Is_a_Belly_Dancer
+Andy_Lau	actedIn	My_Mother_Is_a_Belly_Dancer
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs_III
+Andy_Lau	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+Eric_Tsang	actedIn	Infernal_Affairs
+Eric_Tsang	actedIn	Infernal_Affairs
+Eric_Tsang	actedIn	Infernal_Affairs_III
+Eric_Tsang	actedIn	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs_III
+Andy_Lau	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+Felix_Chong	created	Infernal_Affairs
+Felix_Chong	created	Infernal_Affairs
+Felix_Chong	created	Infernal_Affairs_III
+Felix_Chong	created	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs_III
+Andy_Lau	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs_III
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs_III
+Andy_Lau	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs_III
+Andy_Lau	Infernal_Affairs_III
+Andy_Lau	actedIn	News_Attack
+Andy_Lau	actedIn	News_Attack
+Eric_Tsang	actedIn	News_Attack
+Eric_Tsang	actedIn	News_Attack
+Eric_Tsang	actedIn	Infernal_Affairs_III
+Eric_Tsang	actedIn	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs_III
+Andy_Lau	Infernal_Affairs_III
+Andy_Lau	actedIn	News_Attack
+Andy_Lau	actedIn	News_Attack
+Andy_Lau	actedIn	News_Attack
+Andy_Lau	actedIn	News_Attack
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs_III
+Andy_Lau	Infernal_Affairs_III
+Andy_Lau	actedIn	Cold_War_(film)
+Andy_Lau	actedIn	Cold_War_(film)
+Andy_Lau	actedIn	Cold_War_(film)
+Andy_Lau	actedIn	Cold_War_(film)
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs_III
+Andy_Lau	Infernal_Affairs_III
+Andy_Lau	actedIn	The_Magic_Crystal
+Andy_Lau	actedIn	The_Magic_Crystal
+Andy_Lau	actedIn	The_Magic_Crystal
+Andy_Lau	actedIn	The_Magic_Crystal
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs_III
+Andy_Lau	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs_III
+Andy_Lau	Infernal_Affairs_III
+Andy_Lau	actedIn	Dance_of_a_Dream
+Andy_Lau	actedIn	Dance_of_a_Dream
+Felix_Chong	created	Dance_of_a_Dream
+Felix_Chong	created	Dance_of_a_Dream
+Felix_Chong	created	Infernal_Affairs_III
+Felix_Chong	created	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs_III
+Andy_Lau	Infernal_Affairs_III
+Andy_Lau	actedIn	Dance_of_a_Dream
+Andy_Lau	actedIn	Dance_of_a_Dream
+Andy_Lau	actedIn	Dance_of_a_Dream
+Andy_Lau	actedIn	Dance_of_a_Dream
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Jaycee_Chan	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Jaycee_Chan	The_Drummer_(2007_film)
+Jaycee_Chan	actedIn	The_Drummer_(2007_film)
+Jaycee_Chan	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Jaycee_Chan	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Jaycee_Chan	The_Drummer_(2007_film)
+Jaycee_Chan	actedIn	Break_Up_Club
+Jaycee_Chan	actedIn	Break_Up_Club
+Jaycee_Chan	actedIn	Break_Up_Club
+Jaycee_Chan	actedIn	Break_Up_Club
+Jaycee_Chan	actedIn	The_Drummer_(2007_film)
+Jaycee_Chan	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Jaycee_Chan	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Jaycee_Chan	The_Drummer_(2007_film)
+Jaycee_Chan	actedIn	Tracing_Shadow
+Jaycee_Chan	actedIn	Tracing_Shadow
+Jaycee_Chan	actedIn	Tracing_Shadow
+Jaycee_Chan	actedIn	Tracing_Shadow
+Jaycee_Chan	actedIn	The_Drummer_(2007_film)
+Jaycee_Chan	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Jaycee_Chan	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Jaycee_Chan	The_Drummer_(2007_film)
+Jaycee_Chan	actedIn	The_Twins_Effect_II
+Jaycee_Chan	actedIn	The_Twins_Effect_II
+Jaycee_Chan	actedIn	The_Twins_Effect_II
+Jaycee_Chan	actedIn	The_Twins_Effect_II
+Jaycee_Chan	actedIn	The_Drummer_(2007_film)
+Jaycee_Chan	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Jaycee_Chan	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Jaycee_Chan	The_Drummer_(2007_film)
+Jaycee_Chan	actedIn	The_Twins_Effect_II
+Jaycee_Chan	actedIn	The_Twins_Effect_II
+Tony_Leung_Ka-fai	actedIn	The_Twins_Effect_II
+Tony_Leung_Ka-fai	actedIn	The_Twins_Effect_II
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Jaycee_Chan	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Jaycee_Chan	The_Drummer_(2007_film)
+Jaycee_Chan	actedIn	East_Meets_West_(2011_film)
+Jaycee_Chan	actedIn	East_Meets_West_(2011_film)
+Jaycee_Chan	actedIn	East_Meets_West_(2011_film)
+Jaycee_Chan	actedIn	East_Meets_West_(2011_film)
+Jaycee_Chan	actedIn	The_Drummer_(2007_film)
+Jaycee_Chan	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Jaycee_Chan	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Jaycee_Chan	The_Drummer_(2007_film)
+Jaycee_Chan	actedIn	2_Young
+Jaycee_Chan	actedIn	2_Young
+Jaycee_Chan	actedIn	2_Young
+Jaycee_Chan	actedIn	2_Young
+Jaycee_Chan	actedIn	The_Drummer_(2007_film)
+Jaycee_Chan	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Zhang_Ziyi	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/2046_(film)
+Zhang_Ziyi	2046_(film)
+Zhang_Ziyi	actedIn	The_Grandmaster_(film)
+Zhang_Ziyi	actedIn	The_Grandmaster_(film)
+Zhang_Ziyi	actedIn	The_Grandmaster_(film)
+Zhang_Ziyi	actedIn	The_Grandmaster_(film)
+Zhang_Ziyi	actedIn	2046_(film)
+Zhang_Ziyi	actedIn	2046_(film)
+
+http://dbpedia.org/resource/Zhang_Ziyi	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/2046_(film)
+Zhang_Ziyi	2046_(film)
+Zhang_Ziyi	actedIn	The_Grandmaster_(film)
+Zhang_Ziyi	actedIn	The_Grandmaster_(film)
+Wong_Kar-wai	directed	The_Grandmaster_(film)
+Wong_Kar-wai	directed	The_Grandmaster_(film)
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	directed	2046_(film)
+
+http://dbpedia.org/resource/Zhang_Ziyi	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/2046_(film)
+Zhang_Ziyi	2046_(film)
+Zhang_Ziyi	actedIn	The_Grandmaster_(film)
+Zhang_Ziyi	actedIn	The_Grandmaster_(film)
+Shigeru_Umebayashi	wroteMusicFor	The_Grandmaster_(film)
+Shigeru_Umebayashi	wroteMusicFor	The_Grandmaster_(film)
+Shigeru_Umebayashi	wroteMusicFor	2046_(film)
+Shigeru_Umebayashi	wroteMusicFor	2046_(film)
+
+http://dbpedia.org/resource/Zhang_Ziyi	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/2046_(film)
+Zhang_Ziyi	2046_(film)
+Zhang_Ziyi	actedIn	The_Grandmaster_(film)
+Zhang_Ziyi	actedIn	The_Grandmaster_(film)
+William_Chang	edited	The_Grandmaster_(film)
+William_Chang	edited	The_Grandmaster_(film)
+William_Chang	edited	2046_(film)
+William_Chang	edited	2046_(film)
+
+http://dbpedia.org/resource/Zhang_Ziyi	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/2046_(film)
+Zhang_Ziyi	2046_(film)
+Zhang_Ziyi	actedIn	2046_(film)
+Zhang_Ziyi	actedIn	2046_(film)
+
+http://dbpedia.org/resource/Zhang_Ziyi	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/2046_(film)
+Zhang_Ziyi	2046_(film)
+Zhang_Ziyi	actedIn	The_Crossing_(2014_film)
+Zhang_Ziyi	actedIn	The_Crossing_(2014_film)
+Zhang_Ziyi	actedIn	The_Crossing_(2014_film)
+Zhang_Ziyi	actedIn	The_Crossing_(2014_film)
+Zhang_Ziyi	actedIn	2046_(film)
+Zhang_Ziyi	actedIn	2046_(film)
+
+http://dbpedia.org/resource/Sammi_Cheng	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Wu_yen
+Sammi_Cheng	Wu_yen
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Love_on_a_Diet
+Johnnie_To	directed	Wu_yen
+Johnnie_To	directed	Wu_yen
+
+http://dbpedia.org/resource/Sammi_Cheng	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Wu_yen
+Sammi_Cheng	Wu_yen
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+Wai_Ka-fai	directed	Love_on_a_Diet
+Wai_Ka-fai	created	Wu_yen
+Wai_Ka-fai	directed	Wu_yen
+Wai_Ka-fai	created	Wu_yen
+Wai_Ka-fai	directed	Wu_yen
+
+http://dbpedia.org/resource/Sammi_Cheng	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Wu_yen
+Sammi_Cheng	Wu_yen
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Sammi_Cheng	actedIn	Love_on_a_Diet
+Sammi_Cheng	actedIn	Wu_yen
+Sammi_Cheng	actedIn	Wu_yen
+
+http://dbpedia.org/resource/Sammi_Cheng	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Wu_yen
+Sammi_Cheng	Wu_yen
+Sammi_Cheng	actedIn	Wu_yen
+Sammi_Cheng	actedIn	Wu_yen
+
+http://dbpedia.org/resource/Sammi_Cheng	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Wu_yen
+Sammi_Cheng	Wu_yen
+Sammi_Cheng	actedIn	The_Lucky_Guy
+Sammi_Cheng	actedIn	The_Lucky_Guy
+Sammi_Cheng	actedIn	The_Lucky_Guy
+Sammi_Cheng	actedIn	The_Lucky_Guy
+Sammi_Cheng	actedIn	Wu_yen
+Sammi_Cheng	actedIn	Wu_yen
+
+http://dbpedia.org/resource/Sammi_Cheng	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Wu_yen
+Sammi_Cheng	Wu_yen
+Sammi_Cheng	actedIn	Best_of_the_Best_(1992_film)
+Sammi_Cheng	actedIn	Best_of_the_Best_(1992_film)
+Sammi_Cheng	actedIn	Best_of_the_Best_(1992_film)
+Sammi_Cheng	actedIn	Best_of_the_Best_(1992_film)
+Sammi_Cheng	actedIn	Wu_yen
+Sammi_Cheng	actedIn	Wu_yen
+
+http://dbpedia.org/resource/Sammi_Cheng	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Wu_yen
+Sammi_Cheng	Wu_yen
+Sammi_Cheng	actedIn	Good_Times,_Bed_Times
+Sammi_Cheng	actedIn	Good_Times,_Bed_Times
+Sammi_Cheng	actedIn	Good_Times,_Bed_Times
+Sammi_Cheng	actedIn	Good_Times,_Bed_Times
+Sammi_Cheng	actedIn	Wu_yen
+Sammi_Cheng	actedIn	Wu_yen
+
+http://dbpedia.org/resource/Sammi_Cheng	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Wu_yen
+Sammi_Cheng	Wu_yen
+Sammi_Cheng	influences	Edison_Chen
+Sammi_Cheng	influences	Edison_Chen
+Sammi_Cheng	influences	Edison_Chen
+Sammi_Cheng	influences	Edison_Chen
+Sammi_Cheng	actedIn	Wu_yen
+Sammi_Cheng	actedIn	Wu_yen
+
+http://dbpedia.org/resource/Mohammad_Malas	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Dreams_of_the_City
+Mohammad_Malas	Dreams_of_the_City
+Mohammad_Malas	created	Dreams_of_the_City
+Mohammad_Malas	directed	Dreams_of_the_City
+Mohammad_Malas	created	Dreams_of_the_City
+Mohammad_Malas	directed	Dreams_of_the_City
+
+http://dbpedia.org/resource/Mohammad_Malas	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Dreams_of_the_City
+Mohammad_Malas	Dreams_of_the_City
+Mohammad_Malas	wasBornIn	Quneitra
+Mohammad_Malas	wasBornIn	Quneitra
+Mohammad_Malas	wasBornIn	Quneitra
+Mohammad_Malas	wasBornIn	Quneitra
+Mohammad_Malas	created	Dreams_of_the_City
+Mohammad_Malas	directed	Dreams_of_the_City
+Mohammad_Malas	created	Dreams_of_the_City
+Mohammad_Malas	directed	Dreams_of_the_City
+
+http://dbpedia.org/resource/Gong_Li	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Venice_Film_Festival
+Gong_Li	Venice_Film_Festival
+Gong_Li	actedIn	2046_(film)
+Gong_Li	actedIn	2046_(film)
+Gong_Li	actedIn	2046_(film)
+Gong_Li	actedIn	2046_(film)
+Gong_Li	hasWonPrize	Venice_Film_Festival
+Gong_Li	hasWonPrize	Venice_Film_Festival
+
+http://dbpedia.org/resource/Gong_Li	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Venice_Film_Festival
+Gong_Li	Venice_Film_Festival
+Gong_Li	actedIn	The_Banquet_(1991_film)
+Gong_Li	actedIn	The_Banquet_(1991_film)
+Gong_Li	actedIn	The_Banquet_(1991_film)
+Gong_Li	actedIn	The_Banquet_(1991_film)
+Gong_Li	hasWonPrize	Venice_Film_Festival
+Gong_Li	hasWonPrize	Venice_Film_Festival
+
+http://dbpedia.org/resource/Gong_Li	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Venice_Film_Festival
+Gong_Li	Venice_Film_Festival
+Gong_Li	hasWonPrize	Venice_Film_Festival
+Gong_Li	hasWonPrize	Venice_Film_Festival
+
+http://dbpedia.org/resource/Gong_Li	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Venice_Film_Festival
+Gong_Li	Venice_Film_Festival
+Gong_Li	actedIn	The_Great_Conqueror's_Concubine
+Gong_Li	actedIn	The_Great_Conqueror's_Concubine
+Gong_Li	actedIn	The_Great_Conqueror's_Concubine
+Gong_Li	actedIn	The_Great_Conqueror's_Concubine
+Gong_Li	hasWonPrize	Venice_Film_Festival
+Gong_Li	hasWonPrize	Venice_Film_Festival
+
+http://dbpedia.org/resource/Gong_Li	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Venice_Film_Festival
+Gong_Li	Venice_Film_Festival
+Gong_Li	actedIn	Flirting_Scholar
+Gong_Li	actedIn	Flirting_Scholar
+Gong_Li	actedIn	Flirting_Scholar
+Gong_Li	actedIn	Flirting_Scholar
+Gong_Li	hasWonPrize	Venice_Film_Festival
+Gong_Li	hasWonPrize	Venice_Film_Festival
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Bruce_Lee,_My_Brother
+Tony_Leung_Ka-fai	actedIn	Bruce_Lee,_My_Brother
+Tony_Leung_Ka-fai	actedIn	Bruce_Lee,_My_Brother
+Tony_Leung_Ka-fai	actedIn	Bruce_Lee,_My_Brother
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Everlasting_Regret
+Tony_Leung_Ka-fai	actedIn	Everlasting_Regret
+Tony_Leung_Ka-fai	actedIn	Everlasting_Regret
+Tony_Leung_Ka-fai	actedIn	Everlasting_Regret
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Horseplay_(2014_film)
+Tony_Leung_Ka-fai	actedIn	Horseplay_(2014_film)
+Tony_Leung_Ka-fai	actedIn	Horseplay_(2014_film)
+Tony_Leung_Ka-fai	actedIn	Horseplay_(2014_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Rose_Rose_I_Love_You_(film)
+Tony_Leung_Ka-fai	actedIn	Rose_Rose_I_Love_You_(film)
+Tony_Leung_Ka-fai	actedIn	Rose_Rose_I_Love_You_(film)
+Tony_Leung_Ka-fai	actedIn	Rose_Rose_I_Love_You_(film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Rose_Rose_I_Love_You_(film)
+Tony_Leung_Ka-fai	actedIn	Rose_Rose_I_Love_You_(film)
+Simon_Yam	actedIn	Rose_Rose_I_Love_You_(film)
+Simon_Yam	actedIn	Rose_Rose_I_Love_You_(film)
+Simon_Yam	actedIn	Eye_in_the_Sky_(2007_film)
+Simon_Yam	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Election_(2005_film)
+Tony_Leung_Ka-fai	actedIn	Election_(2005_film)
+Tony_Leung_Ka-fai	actedIn	Election_(2005_film)
+Tony_Leung_Ka-fai	actedIn	Election_(2005_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Election_(2005_film)
+Tony_Leung_Ka-fai	actedIn	Election_(2005_film)
+Simon_Yam	actedIn	Election_(2005_film)
+Simon_Yam	actedIn	Election_(2005_film)
+Simon_Yam	actedIn	Eye_in_the_Sky_(2007_film)
+Simon_Yam	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	I_Corrupt_All_Cops
+Tony_Leung_Ka-fai	actedIn	I_Corrupt_All_Cops
+Tony_Leung_Ka-fai	actedIn	I_Corrupt_All_Cops
+Tony_Leung_Ka-fai	actedIn	I_Corrupt_All_Cops
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Tales_from_the_Dark_1
+Tony_Leung_Ka-fai	actedIn	Tales_from_the_Dark_1
+Simon_Yam	actedIn	Tales_from_the_Dark_1
+Simon_Yam	directed	Tales_from_the_Dark_1
+Simon_Yam	actedIn	Tales_from_the_Dark_1
+Simon_Yam	directed	Tales_from_the_Dark_1
+Simon_Yam	actedIn	Eye_in_the_Sky_(2007_film)
+Simon_Yam	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Gunmen_(1988_film)
+Tony_Leung_Ka-fai	actedIn	Gunmen_(1988_film)
+Tony_Leung_Ka-fai	actedIn	Gunmen_(1988_film)
+Tony_Leung_Ka-fai	actedIn	Gunmen_(1988_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Island_of_Fire
+Tony_Leung_Ka-fai	actedIn	Island_of_Fire
+Tony_Leung_Ka-fai	actedIn	Island_of_Fire
+Tony_Leung_Ka-fai	actedIn	Island_of_Fire
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Island_of_Greed
+Tony_Leung_Ka-fai	actedIn	Island_of_Greed
+Tony_Leung_Ka-fai	actedIn	Island_of_Greed
+Tony_Leung_Ka-fai	actedIn	Island_of_Greed
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Eagle_Shooting_Heroes
+Tony_Leung_Ka-fai	actedIn	The_Eagle_Shooting_Heroes
+Tony_Leung_Ka-fai	actedIn	The_Eagle_Shooting_Heroes
+Tony_Leung_Ka-fai	actedIn	The_Eagle_Shooting_Heroes
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Spy_Dad
+Tony_Leung_Ka-fai	actedIn	The_Spy_Dad
+Tony_Leung_Ka-fai	actedIn	The_Spy_Dad
+Tony_Leung_Ka-fai	actedIn	The_Spy_Dad
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Banquet_(1991_film)
+Tony_Leung_Ka-fai	actedIn	The_Banquet_(1991_film)
+Tony_Leung_Ka-fai	actedIn	The_Banquet_(1991_film)
+Tony_Leung_Ka-fai	actedIn	The_Banquet_(1991_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Tai_Chi_Hero
+Tony_Leung_Ka-fai	actedIn	Tai_Chi_Hero
+Tony_Leung_Ka-fai	actedIn	Tai_Chi_Hero
+Tony_Leung_Ka-fai	actedIn	Tai_Chi_Hero
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Dumplings_(film)
+Tony_Leung_Ka-fai	actedIn	Dumplings_(film)
+Tony_Leung_Ka-fai	actedIn	Dumplings_(film)
+Tony_Leung_Ka-fai	actedIn	Dumplings_(film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	92_Legendary_La_Rose_Noire
+Tony_Leung_Ka-fai	actedIn	92_Legendary_La_Rose_Noire
+Tony_Leung_Ka-fai	actedIn	92_Legendary_La_Rose_Noire
+Tony_Leung_Ka-fai	actedIn	92_Legendary_La_Rose_Noire
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Throw_Down_(film)
+Tony_Leung_Ka-fai	actedIn	Throw_Down_(film)
+Tony_Leung_Ka-fai	actedIn	Throw_Down_(film)
+Tony_Leung_Ka-fai	actedIn	Throw_Down_(film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Throw_Down_(film)
+Tony_Leung_Ka-fai	actedIn	Throw_Down_(film)
+Au_Kin-yee	created	Throw_Down_(film)
+Au_Kin-yee	created	Throw_Down_(film)
+Au_Kin-yee	created	Eye_in_the_Sky_(2007_film)
+Au_Kin-yee	created	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	New_Dragon_Gate_Inn
+Tony_Leung_Ka-fai	actedIn	New_Dragon_Gate_Inn
+Tony_Leung_Ka-fai	actedIn	New_Dragon_Gate_Inn
+Tony_Leung_Ka-fai	actedIn	New_Dragon_Gate_Inn
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Twins_Effect_II
+Tony_Leung_Ka-fai	actedIn	The_Twins_Effect_II
+Tony_Leung_Ka-fai	actedIn	The_Twins_Effect_II
+Tony_Leung_Ka-fai	actedIn	The_Twins_Effect_II
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Good_Times,_Bed_Times
+Tony_Leung_Ka-fai	actedIn	Good_Times,_Bed_Times
+Tony_Leung_Ka-fai	actedIn	Good_Times,_Bed_Times
+Tony_Leung_Ka-fai	actedIn	Good_Times,_Bed_Times
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Black_Panther_Warriors
+Tony_Leung_Ka-fai	actedIn	The_Black_Panther_Warriors
+Simon_Yam	actedIn	The_Black_Panther_Warriors
+Simon_Yam	actedIn	The_Black_Panther_Warriors
+Simon_Yam	actedIn	Eye_in_the_Sky_(2007_film)
+Simon_Yam	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Black_Panther_Warriors
+Tony_Leung_Ka-fai	actedIn	The_Black_Panther_Warriors
+Tony_Leung_Ka-fai	actedIn	The_Black_Panther_Warriors
+Tony_Leung_Ka-fai	actedIn	The_Black_Panther_Warriors
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Flying_Dagger
+Tony_Leung_Ka-fai	actedIn	Flying_Dagger
+Tony_Leung_Ka-fai	actedIn	Flying_Dagger
+Tony_Leung_Ka-fai	actedIn	Flying_Dagger
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Andy_Lau	Infernal_Affairs
+Andy_Lau	directed	Love_Under_the_Sun
+Andy_Lau	actedIn	Love_Under_the_Sun
+Andy_Lau	directed	Love_Under_the_Sun
+Andy_Lau	actedIn	Love_Under_the_Sun
+Andy_Lau	directed	Love_Under_the_Sun
+Andy_Lau	actedIn	Love_Under_the_Sun
+Andy_Lau	directed	Love_Under_the_Sun
+Andy_Lau	actedIn	Love_Under_the_Sun
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Andy_Lau	Infernal_Affairs
+Andy_Lau	actedIn	Tragic_Hero_(film)
+Andy_Lau	actedIn	Tragic_Hero_(film)
+Andy_Lau	actedIn	Tragic_Hero_(film)
+Andy_Lau	actedIn	Tragic_Hero_(film)
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Andy_Lau	Infernal_Affairs
+Andy_Lau	actedIn	Golden_Chicken
+Andy_Lau	actedIn	Golden_Chicken
+Andy_Lau	actedIn	Golden_Chicken
+Andy_Lau	actedIn	Golden_Chicken
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Andy_Lau	Infernal_Affairs
+Andy_Lau	actedIn	Island_of_Fire
+Andy_Lau	actedIn	Island_of_Fire
+Andy_Lau	actedIn	Island_of_Fire
+Andy_Lau	actedIn	Island_of_Fire
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Andy_Lau	Infernal_Affairs
+Andy_Lau	actedIn	My_Mother_Is_a_Belly_Dancer
+Andy_Lau	actedIn	My_Mother_Is_a_Belly_Dancer
+Andy_Lau	actedIn	My_Mother_Is_a_Belly_Dancer
+Andy_Lau	actedIn	My_Mother_Is_a_Belly_Dancer
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Andy_Lau	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Andy_Lau	Infernal_Affairs
+Andy_Lau	actedIn	News_Attack
+Andy_Lau	actedIn	News_Attack
+Andy_Lau	actedIn	News_Attack
+Andy_Lau	actedIn	News_Attack
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Andy_Lau	Infernal_Affairs
+Andy_Lau	actedIn	Cold_War_(film)
+Andy_Lau	actedIn	Cold_War_(film)
+Andy_Lau	actedIn	Cold_War_(film)
+Andy_Lau	actedIn	Cold_War_(film)
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Andy_Lau	Infernal_Affairs
+Andy_Lau	actedIn	The_Magic_Crystal
+Andy_Lau	actedIn	The_Magic_Crystal
+Andy_Lau	actedIn	The_Magic_Crystal
+Andy_Lau	actedIn	The_Magic_Crystal
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Andy_Lau	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andrew_Lau	directed	Infernal_Affairs_III
+Andrew_Lau	directed	Infernal_Affairs_III
+Andrew_Lau	directed	Infernal_Affairs
+Andrew_Lau	directed	Infernal_Affairs
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Andy_Lau	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs_III
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs_III
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Andy_Lau	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Andy_Lau	Infernal_Affairs
+Andy_Lau	actedIn	Dance_of_a_Dream
+Andy_Lau	actedIn	Dance_of_a_Dream
+Andrew_Lau	directed	Dance_of_a_Dream
+Andrew_Lau	directed	Dance_of_a_Dream
+Andrew_Lau	directed	Infernal_Affairs
+Andrew_Lau	directed	Infernal_Affairs
+
+http://dbpedia.org/resource/Andy_Lau	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Infernal_Affairs
+Andy_Lau	Infernal_Affairs
+Andy_Lau	actedIn	Dance_of_a_Dream
+Andy_Lau	actedIn	Dance_of_a_Dream
+Andy_Lau	actedIn	Dance_of_a_Dream
+Andy_Lau	actedIn	Dance_of_a_Dream
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+
+http://dbpedia.org/resource/Deanie_Ip	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/A_Simple_Life
+Deanie_Ip	A_Simple_Life
+Deanie_Ip	hasWonPrize	Venice_Film_Festival
+Deanie_Ip	hasWonPrize	Venice_Film_Festival
+Deanie_Ip	hasWonPrize	Venice_Film_Festival
+Deanie_Ip	hasWonPrize	Venice_Film_Festival
+Deanie_Ip	actedIn	A_Simple_Life
+Deanie_Ip	actedIn	A_Simple_Life
+
+http://dbpedia.org/resource/Deanie_Ip	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/A_Simple_Life
+Deanie_Ip	A_Simple_Life
+Deanie_Ip	actedIn	Carry_On_Pickpocket
+Deanie_Ip	actedIn	Carry_On_Pickpocket
+Deanie_Ip	actedIn	Carry_On_Pickpocket
+Deanie_Ip	actedIn	Carry_On_Pickpocket
+Deanie_Ip	actedIn	A_Simple_Life
+Deanie_Ip	actedIn	A_Simple_Life
+
+http://dbpedia.org/resource/Deanie_Ip	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/A_Simple_Life
+Deanie_Ip	A_Simple_Life
+Deanie_Ip	actedIn	Pom_Pom_(film)
+Deanie_Ip	actedIn	Pom_Pom_(film)
+Deanie_Ip	actedIn	Pom_Pom_(film)
+Deanie_Ip	actedIn	Pom_Pom_(film)
+Deanie_Ip	actedIn	A_Simple_Life
+Deanie_Ip	actedIn	A_Simple_Life
+
+http://dbpedia.org/resource/Deanie_Ip	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/A_Simple_Life
+Deanie_Ip	A_Simple_Life
+Deanie_Ip	actedIn	A_Simple_Life
+Deanie_Ip	actedIn	A_Simple_Life
+
+http://dbpedia.org/resource/Deanie_Ip	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/A_Simple_Life
+Deanie_Ip	A_Simple_Life
+Deanie_Ip	actedIn	The_Truth_(1988_film)
+Deanie_Ip	actedIn	The_Truth_(1988_film)
+Deanie_Ip	actedIn	The_Truth_(1988_film)
+Deanie_Ip	actedIn	The_Truth_(1988_film)
+Deanie_Ip	actedIn	A_Simple_Life
+Deanie_Ip	actedIn	A_Simple_Life
+
+http://dbpedia.org/resource/Deanie_Ip	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/A_Simple_Life
+Deanie_Ip	A_Simple_Life
+Deanie_Ip	actedIn	Spiritual_Love_(film)
+Deanie_Ip	actedIn	Spiritual_Love_(film)
+Deanie_Ip	actedIn	Spiritual_Love_(film)
+Deanie_Ip	actedIn	Spiritual_Love_(film)
+Deanie_Ip	actedIn	A_Simple_Life
+Deanie_Ip	actedIn	A_Simple_Life
+
+http://dbpedia.org/resource/Deanie_Ip	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/A_Simple_Life
+Deanie_Ip	A_Simple_Life
+Deanie_Ip	actedIn	Dragons_Forever
+Deanie_Ip	actedIn	Dragons_Forever
+Deanie_Ip	actedIn	Dragons_Forever
+Deanie_Ip	actedIn	Dragons_Forever
+Deanie_Ip	actedIn	A_Simple_Life
+Deanie_Ip	actedIn	A_Simple_Life
+
+http://dbpedia.org/resource/Deanie_Ip	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/A_Simple_Life
+Deanie_Ip	A_Simple_Life
+Deanie_Ip	actedIn	The_New_Legend_of_Shaolin
+Deanie_Ip	actedIn	The_New_Legend_of_Shaolin
+Deanie_Ip	actedIn	The_New_Legend_of_Shaolin
+Deanie_Ip	actedIn	The_New_Legend_of_Shaolin
+Deanie_Ip	actedIn	A_Simple_Life
+Deanie_Ip	actedIn	A_Simple_Life
+
+http://dbpedia.org/resource/Deanie_Ip	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/A_Simple_Life
+Deanie_Ip	A_Simple_Life
+Deanie_Ip	actedIn	Fantasy_Romance
+Deanie_Ip	actedIn	Fantasy_Romance
+Deanie_Ip	actedIn	Fantasy_Romance
+Deanie_Ip	actedIn	Fantasy_Romance
+Deanie_Ip	actedIn	A_Simple_Life
+Deanie_Ip	actedIn	A_Simple_Life
+
+http://dbpedia.org/resource/Alexander_Lubotzky	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Hebrew_University_of_Jerusalem
+Alexander_Lubotzky	Hebrew_University_of_Jerusalem
+Alexander_Lubotzky	livesIn	Israel
+Alexander_Lubotzky	isCitizenOf	Israel
+Alexander_Lubotzky	livesIn	Israel
+Alexander_Lubotzky	isCitizenOf	Israel
+Michael_Silbermann	isCitizenOf	Israel
+Michael_Silbermann	isCitizenOf	Israel
+Michael_Silbermann	graduatedFrom	Hebrew_University_of_Jerusalem
+Michael_Silbermann	graduatedFrom	Hebrew_University_of_Jerusalem
+
+http://dbpedia.org/resource/Alexander_Lubotzky	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Hebrew_University_of_Jerusalem
+Alexander_Lubotzky	Hebrew_University_of_Jerusalem
+Alexander_Lubotzky	livesIn	Israel
+Alexander_Lubotzky	isCitizenOf	Israel
+Alexander_Lubotzky	livesIn	Israel
+Alexander_Lubotzky	isCitizenOf	Israel
+Aharon_Razin	isCitizenOf	Israel
+Aharon_Razin	isCitizenOf	Israel
+Aharon_Razin	graduatedFrom	Hebrew_University_of_Jerusalem
+Aharon_Razin	worksAt	Hebrew_University_of_Jerusalem
+Aharon_Razin	graduatedFrom	Hebrew_University_of_Jerusalem
+Aharon_Razin	worksAt	Hebrew_University_of_Jerusalem
+
+http://dbpedia.org/resource/Alexander_Lubotzky	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Hebrew_University_of_Jerusalem
+Alexander_Lubotzky	Hebrew_University_of_Jerusalem
+Alexander_Lubotzky	livesIn	Israel
+Alexander_Lubotzky	isCitizenOf	Israel
+Alexander_Lubotzky	livesIn	Israel
+Alexander_Lubotzky	isCitizenOf	Israel
+Michael_O._Rabin	isCitizenOf	Israel
+Michael_O._Rabin	isCitizenOf	Israel
+Michael_O._Rabin	graduatedFrom	Hebrew_University_of_Jerusalem
+Michael_O._Rabin	graduatedFrom	Hebrew_University_of_Jerusalem
+
+http://dbpedia.org/resource/Alexander_Lubotzky	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Hebrew_University_of_Jerusalem
+Alexander_Lubotzky	Hebrew_University_of_Jerusalem
+Alexander_Lubotzky	worksAt	Institute_for_Advanced_Study
+Alexander_Lubotzky	worksAt	Institute_for_Advanced_Study
+Ernst_G._Straus	worksAt	Institute_for_Advanced_Study
+Ernst_G._Straus	worksAt	Institute_for_Advanced_Study
+Ernst_G._Straus	graduatedFrom	Hebrew_University_of_Jerusalem
+Ernst_G._Straus	graduatedFrom	Hebrew_University_of_Jerusalem
+
+http://dbpedia.org/resource/Alexander_Lubotzky	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Hebrew_University_of_Jerusalem
+Alexander_Lubotzky	Hebrew_University_of_Jerusalem
+Alexander_Lubotzky	hasAcademicAdvisor	Hillel_Furstenberg
+Alexander_Lubotzky	hasAcademicAdvisor	Hillel_Furstenberg
+Yuval_Peres	hasAcademicAdvisor	Hillel_Furstenberg
+Yuval_Peres	hasAcademicAdvisor	Hillel_Furstenberg
+Yuval_Peres	graduatedFrom	Hebrew_University_of_Jerusalem
+Yuval_Peres	graduatedFrom	Hebrew_University_of_Jerusalem
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	graduatedFrom	Murray_College
+Faiz_Ahmad_Faiz	graduatedFrom	Murray_College
+Faiz_Ahmad_Faiz	graduatedFrom	Murray_College
+Faiz_Ahmad_Faiz	graduatedFrom	Murray_College
+Faiz_Ahmad_Faiz	hasWonPrize	Nigar_Awards
+Faiz_Ahmad_Faiz	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	graduatedFrom	Murray_College
+Faiz_Ahmad_Faiz	graduatedFrom	Murray_College
+Murray_College	isLocatedIn	Pakistan
+Murray_College	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	influences	Ahmad_Faraz
+Faiz_Ahmad_Faiz	influences	Ahmad_Faraz
+Faiz_Ahmad_Faiz	influences	Ahmad_Faraz
+Faiz_Ahmad_Faiz	influences	Ahmad_Faraz
+Faiz_Ahmad_Faiz	hasWonPrize	Nigar_Awards
+Faiz_Ahmad_Faiz	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	influences	Ahmad_Faraz
+Faiz_Ahmad_Faiz	influences	Ahmad_Faraz
+Ahmad_Faraz	hasWonPrize	Nigar_Awards
+Ahmad_Faraz	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	influences	Ahmad_Faraz
+Faiz_Ahmad_Faiz	influences	Ahmad_Faraz
+Ahmad_Faraz	isCitizenOf	Pakistan
+Ahmad_Faraz	isCitizenOf	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	isCitizenOf	Pakistan
+Faiz_Ahmad_Faiz	isCitizenOf	Pakistan
+Mujeeb_Aalam	isCitizenOf	Pakistan
+Mujeeb_Aalam	isCitizenOf	Pakistan
+Mujeeb_Aalam	hasWonPrize	Nigar_Awards
+Mujeeb_Aalam	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	isCitizenOf	Pakistan
+Faiz_Ahmad_Faiz	isCitizenOf	Pakistan
+Sabiha_Khanum	isCitizenOf	Pakistan
+Sabiha_Khanum	isCitizenOf	Pakistan
+Sabiha_Khanum	hasWonPrize	Nigar_Awards
+Sabiha_Khanum	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	isCitizenOf	Pakistan
+Faiz_Ahmad_Faiz	isCitizenOf	Pakistan
+Masood_Rana	isCitizenOf	Pakistan
+Masood_Rana	isCitizenOf	Pakistan
+Masood_Rana	hasWonPrize	Nigar_Awards
+Masood_Rana	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	isCitizenOf	Pakistan
+Faiz_Ahmad_Faiz	isCitizenOf	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	hasWonPrize	Nigar_Awards
+Faiz_Ahmad_Faiz	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	diedIn	Lahore
+Faiz_Ahmad_Faiz	diedIn	Lahore
+Munawar_Zarif	diedIn	Lahore
+Munawar_Zarif	diedIn	Lahore
+Munawar_Zarif	hasWonPrize	Nigar_Awards
+Munawar_Zarif	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	diedIn	Lahore
+Faiz_Ahmad_Faiz	diedIn	Lahore
+Aslam_Azhar	wasBornIn	Lahore
+Aslam_Azhar	wasBornIn	Lahore
+Aslam_Azhar	hasWonPrize	Nigar_Awards
+Aslam_Azhar	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	diedIn	Lahore
+Faiz_Ahmad_Faiz	diedIn	Lahore
+Yousuf_Khan_(actor)	diedIn	Lahore
+Yousuf_Khan_(actor)	diedIn	Lahore
+Yousuf_Khan_(actor)	hasWonPrize	Nigar_Awards
+Yousuf_Khan_(actor)	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	diedIn	Lahore
+Faiz_Ahmad_Faiz	diedIn	Lahore
+Amjad_Bobby	diedIn	Lahore
+Amjad_Bobby	diedIn	Lahore
+Amjad_Bobby	hasWonPrize	Nigar_Awards
+Amjad_Bobby	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	diedIn	Lahore
+Faiz_Ahmad_Faiz	diedIn	Lahore
+Lahore	isLocatedIn	Pakistan
+Lahore	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	graduatedFrom	University_of_the_Punjab
+Faiz_Ahmad_Faiz	graduatedFrom	University_of_the_Punjab
+Faiz_Ahmad_Faiz	graduatedFrom	University_of_the_Punjab
+Faiz_Ahmad_Faiz	graduatedFrom	University_of_the_Punjab
+Faiz_Ahmad_Faiz	hasWonPrize	Nigar_Awards
+Faiz_Ahmad_Faiz	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	graduatedFrom	University_of_the_Punjab
+Faiz_Ahmad_Faiz	graduatedFrom	University_of_the_Punjab
+University_of_the_Punjab	isLocatedIn	Pakistan
+University_of_the_Punjab	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Muhammad_Iqbal	influences	Faiz_Ahmad_Faiz
+Muhammad_Iqbal	influences	Faiz_Ahmad_Faiz
+Muhammad_Iqbal	influences	Faiz_Ahmad_Faiz
+Muhammad_Iqbal	influences	Faiz_Ahmad_Faiz
+Faiz_Ahmad_Faiz	hasWonPrize	Nigar_Awards
+Faiz_Ahmad_Faiz	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Muhammad_Iqbal	influences	Faiz_Ahmad_Faiz
+Muhammad_Iqbal	influences	Faiz_Ahmad_Faiz
+Muhammad_Iqbal	isCitizenOf	Pakistan
+Muhammad_Iqbal	isCitizenOf	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Ghalib	influences	Faiz_Ahmad_Faiz
+Ghalib	influences	Faiz_Ahmad_Faiz
+Ghalib	influences	Faiz_Ahmad_Faiz
+Ghalib	influences	Faiz_Ahmad_Faiz
+Faiz_Ahmad_Faiz	hasWonPrize	Nigar_Awards
+Faiz_Ahmad_Faiz	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Ghalib	influences	Faiz_Ahmad_Faiz
+Ghalib	influences	Faiz_Ahmad_Faiz
+Ghalib	influences	Ahmad_Faraz
+Ghalib	influences	Ahmad_Faraz
+Ahmad_Faraz	hasWonPrize	Nigar_Awards
+Ahmad_Faraz	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	wasBornIn	Narowal_District
+Faiz_Ahmad_Faiz	wasBornIn	Narowal_District
+Narowal_District	isLocatedIn	Pakistan
+Narowal_District	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	wasBornIn	Narowal_District
+Faiz_Ahmad_Faiz	wasBornIn	Narowal_District
+Faiz_Ahmad_Faiz	wasBornIn	Narowal_District
+Faiz_Ahmad_Faiz	wasBornIn	Narowal_District
+Faiz_Ahmad_Faiz	hasWonPrize	Nigar_Awards
+Faiz_Ahmad_Faiz	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	influences	Ashfaq_Hussain
+Faiz_Ahmad_Faiz	influences	Ashfaq_Hussain
+Ahmad_Faraz	influences	Ashfaq_Hussain
+Ahmad_Faraz	influences	Ashfaq_Hussain
+Ahmad_Faraz	hasWonPrize	Nigar_Awards
+Ahmad_Faraz	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	influences	Ashfaq_Hussain
+Faiz_Ahmad_Faiz	influences	Ashfaq_Hussain
+Ashfaq_Hussain	isCitizenOf	Pakistan
+Ashfaq_Hussain	isCitizenOf	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	influences	Ashfaq_Hussain
+Faiz_Ahmad_Faiz	influences	Ashfaq_Hussain
+Faiz_Ahmad_Faiz	influences	Ashfaq_Hussain
+Faiz_Ahmad_Faiz	influences	Ashfaq_Hussain
+Faiz_Ahmad_Faiz	hasWonPrize	Nigar_Awards
+Faiz_Ahmad_Faiz	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	hasChild	Salima_Hashmi
+Faiz_Ahmad_Faiz	hasChild	Salima_Hashmi
+Salima_Hashmi	isCitizenOf	Pakistan
+Salima_Hashmi	isCitizenOf	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Faiz_Ahmad_Faiz	Nigar_Awards
+Faiz_Ahmad_Faiz	hasChild	Salima_Hashmi
+Faiz_Ahmad_Faiz	hasChild	Salima_Hashmi
+Faiz_Ahmad_Faiz	hasChild	Salima_Hashmi
+Faiz_Ahmad_Faiz	hasChild	Salima_Hashmi
+Faiz_Ahmad_Faiz	hasWonPrize	Nigar_Awards
+Faiz_Ahmad_Faiz	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	isMarriedTo	Robin_Ghosh
+Robin_Ghosh	isMarriedTo	Shabnam
+Shabnam	isMarriedTo	Robin_Ghosh
+Robin_Ghosh	isMarriedTo	Shabnam
+Shabnam	isMarriedTo	Robin_Ghosh
+Robin_Ghosh	isMarriedTo	Shabnam
+Shabnam	isMarriedTo	Robin_Ghosh
+Robin_Ghosh	isMarriedTo	Shabnam
+Shabnam	hasWonPrize	Nigar_Awards
+Shabnam	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	isMarriedTo	Robin_Ghosh
+Robin_Ghosh	isMarriedTo	Shabnam
+Shabnam	isMarriedTo	Robin_Ghosh
+Robin_Ghosh	isMarriedTo	Shabnam
+Robin_Ghosh	isCitizenOf	Pakistan
+Robin_Ghosh	isCitizenOf	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	isMarriedTo	Robin_Ghosh
+Robin_Ghosh	isMarriedTo	Shabnam
+Shabnam	isMarriedTo	Robin_Ghosh
+Robin_Ghosh	isMarriedTo	Shabnam
+Robin_Ghosh	hasWonPrize	Nigar_Awards
+Robin_Ghosh	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	actedIn	Aina_(1977_film)
+Shabnam	actedIn	Aina_(1977_film)
+Aina_(1977_film)	isLocatedIn	Pakistan
+Aina_(1977_film)	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	actedIn	Aina_(1977_film)
+Shabnam	actedIn	Aina_(1977_film)
+Nadeem_Baig_(actor)	actedIn	Aina_(1977_film)
+Nadeem_Baig_(actor)	actedIn	Aina_(1977_film)
+Nadeem_Baig_(actor)	hasWonPrize	Nigar_Awards
+Nadeem_Baig_(actor)	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	actedIn	Aina_(1977_film)
+Shabnam	actedIn	Aina_(1977_film)
+Shabnam	actedIn	Aina_(1977_film)
+Shabnam	actedIn	Aina_(1977_film)
+Shabnam	hasWonPrize	Nigar_Awards
+Shabnam	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	actedIn	Aina_(1977_film)
+Shabnam	actedIn	Aina_(1977_film)
+Robin_Ghosh	wroteMusicFor	Aina_(1977_film)
+Robin_Ghosh	wroteMusicFor	Aina_(1977_film)
+Robin_Ghosh	hasWonPrize	Nigar_Awards
+Robin_Ghosh	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	actedIn	Awaz_(1978_film)
+Shabnam	actedIn	Awaz_(1978_film)
+Awaz_(1978_film)	isLocatedIn	Pakistan
+Awaz_(1978_film)	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	actedIn	Awaz_(1978_film)
+Shabnam	actedIn	Awaz_(1978_film)
+Shabnam	actedIn	Awaz_(1978_film)
+Shabnam	actedIn	Awaz_(1978_film)
+Shabnam	hasWonPrize	Nigar_Awards
+Shabnam	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	actedIn	Awaz_(1978_film)
+Shabnam	actedIn	Awaz_(1978_film)
+Ghulam_Mohiuddin_(actor)	actedIn	Awaz_(1978_film)
+Ghulam_Mohiuddin_(actor)	actedIn	Awaz_(1978_film)
+Ghulam_Mohiuddin_(actor)	hasWonPrize	Nigar_Awards
+Ghulam_Mohiuddin_(actor)	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	actedIn	Naseeb_Apna_Apna_(1970_film)
+Shabnam	actedIn	Naseeb_Apna_Apna_(1970_film)
+Tamanna_(actress)	actedIn	Naseeb_Apna_Apna_(1970_film)
+Tamanna_(actress)	actedIn	Naseeb_Apna_Apna_(1970_film)
+Tamanna_(actress)	hasWonPrize	Nigar_Awards
+Tamanna_(actress)	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	actedIn	Naseeb_Apna_Apna_(1970_film)
+Shabnam	actedIn	Naseeb_Apna_Apna_(1970_film)
+Nirala	actedIn	Naseeb_Apna_Apna_(1970_film)
+Nirala	actedIn	Naseeb_Apna_Apna_(1970_film)
+Nirala	hasWonPrize	Nigar_Awards
+Nirala	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	actedIn	Naseeb_Apna_Apna_(1970_film)
+Shabnam	actedIn	Naseeb_Apna_Apna_(1970_film)
+Naseeb_Apna_Apna_(1970_film)	isLocatedIn	Pakistan
+Naseeb_Apna_Apna_(1970_film)	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	actedIn	Naseeb_Apna_Apna_(1970_film)
+Shabnam	actedIn	Naseeb_Apna_Apna_(1970_film)
+Shabnam	actedIn	Naseeb_Apna_Apna_(1970_film)
+Shabnam	actedIn	Naseeb_Apna_Apna_(1970_film)
+Shabnam	hasWonPrize	Nigar_Awards
+Shabnam	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	hasWonPrize	Nigar_Awards
+Shabnam	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	actedIn	Jahan_tum_wahan_hum_(1968_film)
+Shabnam	actedIn	Jahan_tum_wahan_hum_(1968_film)
+Jahan_tum_wahan_hum_(1968_film)	isLocatedIn	Pakistan
+Jahan_tum_wahan_hum_(1968_film)	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	actedIn	Jahan_tum_wahan_hum_(1968_film)
+Shabnam	actedIn	Jahan_tum_wahan_hum_(1968_film)
+Robin_Ghosh	wroteMusicFor	Jahan_tum_wahan_hum_(1968_film)
+Robin_Ghosh	wroteMusicFor	Jahan_tum_wahan_hum_(1968_film)
+Robin_Ghosh	hasWonPrize	Nigar_Awards
+Robin_Ghosh	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	actedIn	Jahan_tum_wahan_hum_(1968_film)
+Shabnam	actedIn	Jahan_tum_wahan_hum_(1968_film)
+Nirala	actedIn	Jahan_tum_wahan_hum_(1968_film)
+Nirala	actedIn	Jahan_tum_wahan_hum_(1968_film)
+Nirala	hasWonPrize	Nigar_Awards
+Nirala	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	actedIn	Jahan_tum_wahan_hum_(1968_film)
+Shabnam	actedIn	Jahan_tum_wahan_hum_(1968_film)
+Shabnam	actedIn	Jahan_tum_wahan_hum_(1968_film)
+Shabnam	actedIn	Jahan_tum_wahan_hum_(1968_film)
+Shabnam	hasWonPrize	Nigar_Awards
+Shabnam	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	actedIn	Andleeb
+Shabnam	actedIn	Andleeb
+Talish	actedIn	Andleeb
+Talish	actedIn	Andleeb
+Talish	hasWonPrize	Nigar_Awards
+Talish	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	actedIn	Andleeb
+Shabnam	actedIn	Andleeb
+Mustafa_Qureshi	actedIn	Andleeb
+Mustafa_Qureshi	actedIn	Andleeb
+Mustafa_Qureshi	hasWonPrize	Nigar_Awards
+Mustafa_Qureshi	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	actedIn	Andleeb
+Shabnam	actedIn	Andleeb
+Nisar_Bazmi	wroteMusicFor	Andleeb
+Nisar_Bazmi	wroteMusicFor	Andleeb
+Nisar_Bazmi	hasWonPrize	Nigar_Awards
+Nisar_Bazmi	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	actedIn	Andleeb
+Shabnam	actedIn	Andleeb
+Lehri_(actor)	actedIn	Andleeb
+Lehri_(actor)	actedIn	Andleeb
+Lehri_(actor)	hasWonPrize	Nigar_Awards
+Lehri_(actor)	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	actedIn	Andleeb
+Shabnam	actedIn	Andleeb
+Andleeb	isLocatedIn	Pakistan
+Andleeb	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+
+http://dbpedia.org/resource/Shabnam	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Shabnam	Nigar_Awards
+Shabnam	actedIn	Andleeb
+Shabnam	actedIn	Andleeb
+Shabnam	actedIn	Andleeb
+Shabnam	actedIn	Andleeb
+Shabnam	hasWonPrize	Nigar_Awards
+Shabnam	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Marcello_Mastroianni	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Venice_Film_Festival
+Marcello_Mastroianni	Venice_Film_Festival
+Marcello_Mastroianni	hasWonPrize	Venice_Film_Festival
+Marcello_Mastroianni	hasWonPrize	Venice_Film_Festival
+
+http://dbpedia.org/resource/Marcello_Mastroianni	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Venice_Film_Festival
+Marcello_Mastroianni	Venice_Film_Festival
+Marcello_Mastroianni	actedIn	Sostiene_Pereira
+Marcello_Mastroianni	actedIn	Sostiene_Pereira
+Marcello_Mastroianni	actedIn	Sostiene_Pereira
+Marcello_Mastroianni	actedIn	Sostiene_Pereira
+Marcello_Mastroianni	hasWonPrize	Venice_Film_Festival
+Marcello_Mastroianni	hasWonPrize	Venice_Film_Festival
+
+http://dbpedia.org/resource/Marcello_Mastroianni	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Venice_Film_Festival
+Marcello_Mastroianni	Venice_Film_Festival
+Marcello_Mastroianni	actedIn	Everybody's_Fine_(1990_film)
+Marcello_Mastroianni	actedIn	Everybody's_Fine_(1990_film)
+Marcello_Mastroianni	actedIn	Everybody's_Fine_(1990_film)
+Marcello_Mastroianni	actedIn	Everybody's_Fine_(1990_film)
+Marcello_Mastroianni	hasWonPrize	Venice_Film_Festival
+Marcello_Mastroianni	hasWonPrize	Venice_Film_Festival
+
+http://dbpedia.org/resource/Kelly_D._Brownell	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Purdue_University
+Kelly_D._Brownell	Purdue_University
+Kelly_D._Brownell	graduatedFrom	Purdue_University
+Kelly_D._Brownell	graduatedFrom	Purdue_University
+
+http://dbpedia.org/resource/Kelly_D._Brownell	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Purdue_University
+Kelly_D._Brownell	Purdue_University
+Kelly_D._Brownell	wasBornIn	Indiana
+Kelly_D._Brownell	wasBornIn	Indiana
+Kelly_D._Brownell	wasBornIn	Indiana
+Kelly_D._Brownell	wasBornIn	Indiana
+Kelly_D._Brownell	graduatedFrom	Purdue_University
+Kelly_D._Brownell	graduatedFrom	Purdue_University
+
+http://dbpedia.org/resource/Kelly_D._Brownell	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Purdue_University
+Kelly_D._Brownell	Purdue_University
+Kelly_D._Brownell	graduatedFrom	Rutgers_University
+Kelly_D._Brownell	graduatedFrom	Rutgers_University
+Kelly_D._Brownell	graduatedFrom	Rutgers_University
+Kelly_D._Brownell	graduatedFrom	Rutgers_University
+Kelly_D._Brownell	graduatedFrom	Purdue_University
+Kelly_D._Brownell	graduatedFrom	Purdue_University
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Bruce_Lee,_My_Brother
+Tony_Leung_Ka-fai	actedIn	Bruce_Lee,_My_Brother
+Tony_Leung_Ka-fai	actedIn	Bruce_Lee,_My_Brother
+Tony_Leung_Ka-fai	actedIn	Bruce_Lee,_My_Brother
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Everlasting_Regret
+Tony_Leung_Ka-fai	actedIn	Everlasting_Regret
+Tony_Leung_Ka-fai	actedIn	Everlasting_Regret
+Tony_Leung_Ka-fai	actedIn	Everlasting_Regret
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Horseplay_(2014_film)
+Tony_Leung_Ka-fai	actedIn	Horseplay_(2014_film)
+Tony_Leung_Ka-fai	actedIn	Horseplay_(2014_film)
+Tony_Leung_Ka-fai	actedIn	Horseplay_(2014_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Rose_Rose_I_Love_You_(film)
+Tony_Leung_Ka-fai	actedIn	Rose_Rose_I_Love_You_(film)
+Tony_Leung_Ka-fai	actedIn	Rose_Rose_I_Love_You_(film)
+Tony_Leung_Ka-fai	actedIn	Rose_Rose_I_Love_You_(film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Election_(2005_film)
+Tony_Leung_Ka-fai	actedIn	Election_(2005_film)
+Tony_Leung_Ka-fai	actedIn	Election_(2005_film)
+Tony_Leung_Ka-fai	actedIn	Election_(2005_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	I_Corrupt_All_Cops
+Tony_Leung_Ka-fai	actedIn	I_Corrupt_All_Cops
+Tony_Leung_Ka-fai	actedIn	I_Corrupt_All_Cops
+Tony_Leung_Ka-fai	actedIn	I_Corrupt_All_Cops
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Gunmen_(1988_film)
+Tony_Leung_Ka-fai	actedIn	Gunmen_(1988_film)
+Tony_Leung_Ka-fai	actedIn	Gunmen_(1988_film)
+Tony_Leung_Ka-fai	actedIn	Gunmen_(1988_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Island_of_Fire
+Tony_Leung_Ka-fai	actedIn	Island_of_Fire
+Tony_Leung_Ka-fai	actedIn	Island_of_Fire
+Tony_Leung_Ka-fai	actedIn	Island_of_Fire
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Island_of_Greed
+Tony_Leung_Ka-fai	actedIn	Island_of_Greed
+Tony_Leung_Ka-fai	actedIn	Island_of_Greed
+Tony_Leung_Ka-fai	actedIn	Island_of_Greed
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Eagle_Shooting_Heroes
+Tony_Leung_Ka-fai	actedIn	The_Eagle_Shooting_Heroes
+Tony_Leung_Ka-fai	actedIn	The_Eagle_Shooting_Heroes
+Tony_Leung_Ka-fai	actedIn	The_Eagle_Shooting_Heroes
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Spy_Dad
+Tony_Leung_Ka-fai	actedIn	The_Spy_Dad
+Tony_Leung_Ka-fai	actedIn	The_Spy_Dad
+Tony_Leung_Ka-fai	actedIn	The_Spy_Dad
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Banquet_(1991_film)
+Tony_Leung_Ka-fai	actedIn	The_Banquet_(1991_film)
+Tony_Leung_Ka-fai	actedIn	The_Banquet_(1991_film)
+Tony_Leung_Ka-fai	actedIn	The_Banquet_(1991_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Tai_Chi_Hero
+Tony_Leung_Ka-fai	actedIn	Tai_Chi_Hero
+Tony_Leung_Ka-fai	actedIn	Tai_Chi_Hero
+Tony_Leung_Ka-fai	actedIn	Tai_Chi_Hero
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Eye_in_the_Sky_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Dumplings_(film)
+Tony_Leung_Ka-fai	actedIn	Dumplings_(film)
+Tony_Leung_Ka-fai	actedIn	Dumplings_(film)
+Tony_Leung_Ka-fai	actedIn	Dumplings_(film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	92_Legendary_La_Rose_Noire
+Tony_Leung_Ka-fai	actedIn	92_Legendary_La_Rose_Noire
+Tony_Leung_Ka-fai	actedIn	92_Legendary_La_Rose_Noire
+Tony_Leung_Ka-fai	actedIn	92_Legendary_La_Rose_Noire
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Throw_Down_(film)
+Tony_Leung_Ka-fai	actedIn	Throw_Down_(film)
+Tony_Leung_Ka-fai	actedIn	Throw_Down_(film)
+Tony_Leung_Ka-fai	actedIn	Throw_Down_(film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	New_Dragon_Gate_Inn
+Tony_Leung_Ka-fai	actedIn	New_Dragon_Gate_Inn
+Tony_Leung_Ka-fai	actedIn	New_Dragon_Gate_Inn
+Tony_Leung_Ka-fai	actedIn	New_Dragon_Gate_Inn
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Twins_Effect_II
+Tony_Leung_Ka-fai	actedIn	The_Twins_Effect_II
+Jaycee_Chan	actedIn	The_Twins_Effect_II
+Jaycee_Chan	actedIn	The_Twins_Effect_II
+Jaycee_Chan	actedIn	The_Drummer_(2007_film)
+Jaycee_Chan	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Twins_Effect_II
+Tony_Leung_Ka-fai	actedIn	The_Twins_Effect_II
+Tony_Leung_Ka-fai	actedIn	The_Twins_Effect_II
+Tony_Leung_Ka-fai	actedIn	The_Twins_Effect_II
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Good_Times,_Bed_Times
+Tony_Leung_Ka-fai	actedIn	Good_Times,_Bed_Times
+Tony_Leung_Ka-fai	actedIn	Good_Times,_Bed_Times
+Tony_Leung_Ka-fai	actedIn	Good_Times,_Bed_Times
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Black_Panther_Warriors
+Tony_Leung_Ka-fai	actedIn	The_Black_Panther_Warriors
+Tony_Leung_Ka-fai	actedIn	The_Black_Panther_Warriors
+Tony_Leung_Ka-fai	actedIn	The_Black_Panther_Warriors
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Tony_Leung_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	Flying_Dagger
+Tony_Leung_Ka-fai	actedIn	Flying_Dagger
+Tony_Leung_Ka-fai	actedIn	Flying_Dagger
+Tony_Leung_Ka-fai	actedIn	Flying_Dagger
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+Tony_Leung_Ka-fai	actedIn	The_Drummer_(2007_film)
+
+http://dbpedia.org/resource/Noman_Ijaz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Lux_Style_Awards
+Noman_Ijaz	Lux_Style_Awards
+Noman_Ijaz	actedIn	Ramchand_Pakistani
+Noman_Ijaz	actedIn	Ramchand_Pakistani
+Noman_Ijaz	actedIn	Ramchand_Pakistani
+Noman_Ijaz	actedIn	Ramchand_Pakistani
+Noman_Ijaz	hasWonPrize	Lux_Style_Awards
+Noman_Ijaz	hasWonPrize	Lux_Style_Awards
+
+http://dbpedia.org/resource/Noman_Ijaz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Lux_Style_Awards
+Noman_Ijaz	Lux_Style_Awards
+Noman_Ijaz	actedIn	Hijrat_(film)
+Noman_Ijaz	actedIn	Hijrat_(film)
+Noman_Ijaz	actedIn	Hijrat_(film)
+Noman_Ijaz	actedIn	Hijrat_(film)
+Noman_Ijaz	hasWonPrize	Lux_Style_Awards
+Noman_Ijaz	hasWonPrize	Lux_Style_Awards
+
+http://dbpedia.org/resource/Noman_Ijaz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Lux_Style_Awards
+Noman_Ijaz	Lux_Style_Awards
+Noman_Ijaz	actedIn	Hijrat_(film)
+Noman_Ijaz	actedIn	Hijrat_(film)
+Rabia_Butt	actedIn	Hijrat_(film)
+Rabia_Butt	actedIn	Hijrat_(film)
+Rabia_Butt	hasWonPrize	Lux_Style_Awards
+Rabia_Butt	hasWonPrize	Lux_Style_Awards
+
+http://dbpedia.org/resource/Noman_Ijaz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Lux_Style_Awards
+Noman_Ijaz	Lux_Style_Awards
+Noman_Ijaz	hasWonPrize	PTV_Awards
+Noman_Ijaz	hasWonPrize	PTV_Awards
+Noman_Ijaz	hasWonPrize	PTV_Awards
+Noman_Ijaz	hasWonPrize	PTV_Awards
+Noman_Ijaz	hasWonPrize	Lux_Style_Awards
+Noman_Ijaz	hasWonPrize	Lux_Style_Awards
+
+http://dbpedia.org/resource/Noman_Ijaz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Lux_Style_Awards
+Noman_Ijaz	Lux_Style_Awards
+Noman_Ijaz	wasBornIn	Lahore
+Noman_Ijaz	wasBornIn	Lahore
+Noman_Ijaz	wasBornIn	Lahore
+Noman_Ijaz	wasBornIn	Lahore
+Noman_Ijaz	hasWonPrize	Lux_Style_Awards
+Noman_Ijaz	hasWonPrize	Lux_Style_Awards
+
+http://dbpedia.org/resource/Noman_Ijaz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Lux_Style_Awards
+Noman_Ijaz	Lux_Style_Awards
+Noman_Ijaz	hasWonPrize	Lux_Style_Awards
+Noman_Ijaz	hasWonPrize	Lux_Style_Awards
+
+http://dbpedia.org/resource/Noman_Ijaz	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Lux_Style_Awards
+Noman_Ijaz	Lux_Style_Awards
+Noman_Ijaz	actedIn	Virsa
+Noman_Ijaz	actedIn	Virsa
+Noman_Ijaz	actedIn	Virsa
+Noman_Ijaz	actedIn	Virsa
+Noman_Ijaz	hasWonPrize	Lux_Style_Awards
+Noman_Ijaz	hasWonPrize	Lux_Style_Awards
+
+http://dbpedia.org/resource/Sami_Michael	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Hebrew_University_of_Jerusalem
+Sami_Michael	Hebrew_University_of_Jerusalem
+Sami_Michael	isCitizenOf	Israel
+Sami_Michael	isCitizenOf	Israel
+Michael_Silbermann	isCitizenOf	Israel
+Michael_Silbermann	isCitizenOf	Israel
+Michael_Silbermann	graduatedFrom	Hebrew_University_of_Jerusalem
+Michael_Silbermann	graduatedFrom	Hebrew_University_of_Jerusalem
+
+http://dbpedia.org/resource/Sami_Michael	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Hebrew_University_of_Jerusalem
+Sami_Michael	Hebrew_University_of_Jerusalem
+Sami_Michael	isCitizenOf	Israel
+Sami_Michael	isCitizenOf	Israel
+Aharon_Razin	isCitizenOf	Israel
+Aharon_Razin	isCitizenOf	Israel
+Aharon_Razin	graduatedFrom	Hebrew_University_of_Jerusalem
+Aharon_Razin	worksAt	Hebrew_University_of_Jerusalem
+Aharon_Razin	graduatedFrom	Hebrew_University_of_Jerusalem
+Aharon_Razin	worksAt	Hebrew_University_of_Jerusalem
+
+http://dbpedia.org/resource/Sami_Michael	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Hebrew_University_of_Jerusalem
+Sami_Michael	Hebrew_University_of_Jerusalem
+Sami_Michael	isCitizenOf	Israel
+Sami_Michael	isCitizenOf	Israel
+Michael_O._Rabin	isCitizenOf	Israel
+Michael_O._Rabin	isCitizenOf	Israel
+Michael_O._Rabin	graduatedFrom	Hebrew_University_of_Jerusalem
+Michael_O._Rabin	graduatedFrom	Hebrew_University_of_Jerusalem
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Sam_Mitchell_(basketball)	isAffiliatedTo	Milwaukee_Bucks
+Sam_Mitchell_(basketball)	isAffiliatedTo	Milwaukee_Bucks
+Sam_Mitchell_(basketball)	isAffiliatedTo	Houston_Rockets
+Sam_Mitchell_(basketball)	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Terry_Stotts	isAffiliatedTo	Milwaukee_Bucks
+Terry_Stotts	isAffiliatedTo	Milwaukee_Bucks
+Terry_Stotts	isAffiliatedTo	Houston_Rockets
+Terry_Stotts	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Tyronn_Lue	isAffiliatedTo	Milwaukee_Bucks
+Tyronn_Lue	isAffiliatedTo	Milwaukee_Bucks
+Tyronn_Lue	isAffiliatedTo	Houston_Rockets
+Tyronn_Lue	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Tom_Nissalke	isAffiliatedTo	Milwaukee_Bucks
+Lionel_Hollins	isAffiliatedTo	Milwaukee_Bucks
+Lionel_Hollins	isAffiliatedTo	Milwaukee_Bucks
+Lionel_Hollins	isAffiliatedTo	Houston_Rockets
+Lionel_Hollins	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Utah_Jazz
+Tom_Nissalke	isAffiliatedTo	Utah_Jazz
+Tom_Nissalke	isAffiliatedTo	Utah_Jazz
+Tom_Nissalke	isAffiliatedTo	Utah_Jazz
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Utah_Jazz
+Tom_Nissalke	isAffiliatedTo	Utah_Jazz
+Otto_Moore	isAffiliatedTo	Utah_Jazz
+Otto_Moore	isAffiliatedTo	Utah_Jazz
+Otto_Moore	isAffiliatedTo	Houston_Rockets
+Otto_Moore	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+Mark_Bryant_(basketball)	isAffiliatedTo	San_Antonio_Spurs
+Mark_Bryant_(basketball)	isAffiliatedTo	San_Antonio_Spurs
+Mark_Bryant_(basketball)	isAffiliatedTo	Houston_Rockets
+Mark_Bryant_(basketball)	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+Tom_Nissalke	isAffiliatedTo	San_Antonio_Spurs
+Luis_Scola	isAffiliatedTo	San_Antonio_Spurs
+Luis_Scola	isAffiliatedTo	San_Antonio_Spurs
+Luis_Scola	isAffiliatedTo	Houston_Rockets
+Luis_Scola	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Carl_Landry	isAffiliatedTo	New_Orleans_Pelicans
+Carl_Landry	isAffiliatedTo	New_Orleans_Pelicans
+Carl_Landry	isAffiliatedTo	Houston_Rockets
+Carl_Landry	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Trevor_Ariza	isAffiliatedTo	New_Orleans_Pelicans
+Trevor_Ariza	isAffiliatedTo	New_Orleans_Pelicans
+Trevor_Ariza	isAffiliatedTo	Houston_Rockets
+Trevor_Ariza	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Robert_Reid_(basketball)	isAffiliatedTo	New_Orleans_Pelicans
+Robert_Reid_(basketball)	isAffiliatedTo	New_Orleans_Pelicans
+Robert_Reid_(basketball)	isAffiliatedTo	Houston_Rockets
+Robert_Reid_(basketball)	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Moochie_Norris	isAffiliatedTo	New_Orleans_Pelicans
+Moochie_Norris	isAffiliatedTo	New_Orleans_Pelicans
+Moochie_Norris	isAffiliatedTo	Houston_Rockets
+Moochie_Norris	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Tom_Nissalke	isAffiliatedTo	New_Orleans_Pelicans
+Omri_Casspi	isAffiliatedTo	New_Orleans_Pelicans
+Omri_Casspi	isAffiliatedTo	New_Orleans_Pelicans
+Omri_Casspi	isAffiliatedTo	Houston_Rockets
+Omri_Casspi	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Mark_Bryant_(basketball)	isAffiliatedTo	Denver_Nuggets
+Mark_Bryant_(basketball)	isAffiliatedTo	Denver_Nuggets
+Mark_Bryant_(basketball)	isAffiliatedTo	Houston_Rockets
+Mark_Bryant_(basketball)	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+John_Trapp_(basketball)	isAffiliatedTo	Denver_Nuggets
+John_Trapp_(basketball)	isAffiliatedTo	Denver_Nuggets
+John_Trapp_(basketball)	isAffiliatedTo	Houston_Rockets
+John_Trapp_(basketball)	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tom_Nissalke	isAffiliatedTo	Denver_Nuggets
+Tyronn_Lue	isAffiliatedTo	Denver_Nuggets
+Tyronn_Lue	isAffiliatedTo	Denver_Nuggets
+Tyronn_Lue	isAffiliatedTo	Houston_Rockets
+Tyronn_Lue	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+World_B._Free	isAffiliatedTo	Cleveland_Cavaliers
+World_B._Free	isAffiliatedTo	Cleveland_Cavaliers
+World_B._Free	isAffiliatedTo	Houston_Rockets
+World_B._Free	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Mark_Bryant_(basketball)	isAffiliatedTo	Cleveland_Cavaliers
+Mark_Bryant_(basketball)	isAffiliatedTo	Cleveland_Cavaliers
+Mark_Bryant_(basketball)	isAffiliatedTo	Houston_Rockets
+Mark_Bryant_(basketball)	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tyronn_Lue	isAffiliatedTo	Cleveland_Cavaliers
+Tyronn_Lue	isAffiliatedTo	Cleveland_Cavaliers
+Tyronn_Lue	isAffiliatedTo	Houston_Rockets
+Tyronn_Lue	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Tom_Nissalke	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Houston_Rockets
+Tom_Nissalke	Houston_Rockets
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Tom_Nissalke	isAffiliatedTo	Cleveland_Cavaliers
+Omri_Casspi	isAffiliatedTo	Cleveland_Cavaliers
+Omri_Casspi	isAffiliatedTo	Cleveland_Cavaliers
+Omri_Casspi	isAffiliatedTo	Houston_Rockets
+Omri_Casspi	isAffiliatedTo	Houston_Rockets
+
+http://dbpedia.org/resource/Wai_Ka-fai	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Written_By
+Wai_Ka-fai	Written_By
+Wai_Ka-fai	directed	Himalaya_Singh
+Wai_Ka-fai	directed	Himalaya_Singh
+Au_Kin-yee	created	Himalaya_Singh
+Au_Kin-yee	created	Himalaya_Singh
+Au_Kin-yee	created	Written_By
+Au_Kin-yee	created	Written_By
+
+http://dbpedia.org/resource/Corey_Yuen	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Fong_Sai-yuk_(film)
+Corey_Yuen	Fong_Sai-yuk_(film)
+Corey_Yuen	directed	Fong_Sai-yuk_II
+Corey_Yuen	directed	Fong_Sai-yuk_II
+Josephine_Siao	actedIn	Fong_Sai-yuk_II
+Josephine_Siao	actedIn	Fong_Sai-yuk_II
+Josephine_Siao	actedIn	Fong_Sai-yuk_(film)
+Josephine_Siao	actedIn	Fong_Sai-yuk_(film)
+
+http://dbpedia.org/resource/Sully_Bonnelly	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Chicago
+Sully_Bonnelly	Chicago
+Sully_Bonnelly	isCitizenOf	Puerto_Rico
+Sully_Bonnelly	isCitizenOf	Puerto_Rico
+Jay_Fonseca	isCitizenOf	Puerto_Rico
+Jay_Fonseca	isCitizenOf	Puerto_Rico
+Jay_Fonseca	wasBornIn	Chicago
+Jay_Fonseca	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Meera_(actress)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Meera_(actress)	Nigar_Awards
+Meera_(actress)	actedIn	Khoey_Ho_Tum_Kahan
+Meera_(actress)	actedIn	Khoey_Ho_Tum_Kahan
+Meera_(actress)	actedIn	Khoey_Ho_Tum_Kahan
+Meera_(actress)	actedIn	Khoey_Ho_Tum_Kahan
+Meera_(actress)	hasWonPrize	Nigar_Awards
+Meera_(actress)	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Meera_(actress)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Meera_(actress)	Nigar_Awards
+Meera_(actress)	actedIn	Khoey_Ho_Tum_Kahan
+Meera_(actress)	actedIn	Khoey_Ho_Tum_Kahan
+Babar_Ali	actedIn	Khoey_Ho_Tum_Kahan
+Babar_Ali	actedIn	Khoey_Ho_Tum_Kahan
+Babar_Ali	hasWonPrize	Nigar_Awards
+Babar_Ali	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Meera_(actress)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Meera_(actress)	Nigar_Awards
+Meera_(actress)	actedIn	Khoey_Ho_Tum_Kahan
+Meera_(actress)	actedIn	Khoey_Ho_Tum_Kahan
+Deeba	actedIn	Khoey_Ho_Tum_Kahan
+Deeba	actedIn	Khoey_Ho_Tum_Kahan
+Deeba	hasWonPrize	Nigar_Awards
+Deeba	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Meera_(actress)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Meera_(actress)	Nigar_Awards
+Meera_(actress)	actedIn	Khoey_Ho_Tum_Kahan
+Meera_(actress)	actedIn	Khoey_Ho_Tum_Kahan
+Khoey_Ho_Tum_Kahan	isLocatedIn	Pakistan
+Khoey_Ho_Tum_Kahan	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+
+http://dbpedia.org/resource/Meera_(actress)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Meera_(actress)	Nigar_Awards
+Meera_(actress)	actedIn	Billi
+Meera_(actress)	actedIn	Billi
+Billi	isLocatedIn	Pakistan
+Billi	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+
+http://dbpedia.org/resource/Meera_(actress)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Meera_(actress)	Nigar_Awards
+Meera_(actress)	hasWonPrize	Nigar_Awards
+Meera_(actress)	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Meera_(actress)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Meera_(actress)	Nigar_Awards
+Meera_(actress)	isCitizenOf	Pakistan
+Meera_(actress)	isCitizenOf	Pakistan
+Mujeeb_Aalam	isCitizenOf	Pakistan
+Mujeeb_Aalam	isCitizenOf	Pakistan
+Mujeeb_Aalam	hasWonPrize	Nigar_Awards
+Mujeeb_Aalam	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Meera_(actress)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Meera_(actress)	Nigar_Awards
+Meera_(actress)	isCitizenOf	Pakistan
+Meera_(actress)	isCitizenOf	Pakistan
+Sabiha_Khanum	isCitizenOf	Pakistan
+Sabiha_Khanum	isCitizenOf	Pakistan
+Sabiha_Khanum	hasWonPrize	Nigar_Awards
+Sabiha_Khanum	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Meera_(actress)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Meera_(actress)	Nigar_Awards
+Meera_(actress)	isCitizenOf	Pakistan
+Meera_(actress)	isCitizenOf	Pakistan
+Masood_Rana	isCitizenOf	Pakistan
+Masood_Rana	isCitizenOf	Pakistan
+Masood_Rana	hasWonPrize	Nigar_Awards
+Masood_Rana	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Meera_(actress)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Meera_(actress)	Nigar_Awards
+Meera_(actress)	isCitizenOf	Pakistan
+Meera_(actress)	isCitizenOf	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+
+http://dbpedia.org/resource/Meera_(actress)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Meera_(actress)	Nigar_Awards
+Meera_(actress)	actedIn	Inteha_(1999_film)
+Meera_(actress)	actedIn	Inteha_(1999_film)
+Inteha_(1999_film)	isLocatedIn	Pakistan
+Inteha_(1999_film)	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+
+http://dbpedia.org/resource/Meera_(actress)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Meera_(actress)	Nigar_Awards
+Meera_(actress)	actedIn	Inteha_(1999_film)
+Meera_(actress)	actedIn	Inteha_(1999_film)
+Meera_(actress)	actedIn	Inteha_(1999_film)
+Meera_(actress)	actedIn	Inteha_(1999_film)
+Meera_(actress)	hasWonPrize	Nigar_Awards
+Meera_(actress)	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Meera_(actress)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Meera_(actress)	Nigar_Awards
+Meera_(actress)	wasBornIn	Sheikhupura
+Meera_(actress)	wasBornIn	Sheikhupura
+Sheikhupura	isLocatedIn	Pakistan
+Sheikhupura	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+
+http://dbpedia.org/resource/Meera_(actress)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Meera_(actress)	Nigar_Awards
+Meera_(actress)	wasBornIn	Sheikhupura
+Meera_(actress)	wasBornIn	Sheikhupura
+Meera_(actress)	wasBornIn	Sheikhupura
+Meera_(actress)	wasBornIn	Sheikhupura
+Meera_(actress)	hasWonPrize	Nigar_Awards
+Meera_(actress)	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Meera_(actress)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Meera_(actress)	Nigar_Awards
+Meera_(actress)	livesIn	Lahore
+Meera_(actress)	livesIn	Lahore
+Munawar_Zarif	diedIn	Lahore
+Munawar_Zarif	diedIn	Lahore
+Munawar_Zarif	hasWonPrize	Nigar_Awards
+Munawar_Zarif	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Meera_(actress)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Meera_(actress)	Nigar_Awards
+Meera_(actress)	livesIn	Lahore
+Meera_(actress)	livesIn	Lahore
+Aslam_Azhar	wasBornIn	Lahore
+Aslam_Azhar	wasBornIn	Lahore
+Aslam_Azhar	hasWonPrize	Nigar_Awards
+Aslam_Azhar	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Meera_(actress)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Meera_(actress)	Nigar_Awards
+Meera_(actress)	livesIn	Lahore
+Meera_(actress)	livesIn	Lahore
+Yousuf_Khan_(actor)	diedIn	Lahore
+Yousuf_Khan_(actor)	diedIn	Lahore
+Yousuf_Khan_(actor)	hasWonPrize	Nigar_Awards
+Yousuf_Khan_(actor)	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Meera_(actress)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Meera_(actress)	Nigar_Awards
+Meera_(actress)	livesIn	Lahore
+Meera_(actress)	livesIn	Lahore
+Amjad_Bobby	diedIn	Lahore
+Amjad_Bobby	diedIn	Lahore
+Amjad_Bobby	hasWonPrize	Nigar_Awards
+Amjad_Bobby	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Meera_(actress)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Meera_(actress)	Nigar_Awards
+Meera_(actress)	livesIn	Lahore
+Meera_(actress)	livesIn	Lahore
+Lahore	isLocatedIn	Pakistan
+Lahore	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+
+http://dbpedia.org/resource/Meera_(actress)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Meera_(actress)	Nigar_Awards
+Meera_(actress)	actedIn	Salakhain
+Meera_(actress)	actedIn	Salakhain
+Salakhain	isLocatedIn	Pakistan
+Salakhain	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+
+http://dbpedia.org/resource/Meera_(actress)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Meera_(actress)	Nigar_Awards
+Meera_(actress)	actedIn	Salakhain
+Meera_(actress)	actedIn	Salakhain
+Amjad_Islam_Amjad	created	Salakhain
+Amjad_Islam_Amjad	created	Salakhain
+Amjad_Islam_Amjad	hasWonPrize	Nigar_Awards
+Amjad_Islam_Amjad	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Meera_(actress)	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Nigar_Awards
+Meera_(actress)	Nigar_Awards
+Meera_(actress)	actedIn	Salakhain
+Meera_(actress)	actedIn	Salakhain
+Meera_(actress)	actedIn	Salakhain
+Meera_(actress)	actedIn	Salakhain
+Meera_(actress)	hasWonPrize	Nigar_Awards
+Meera_(actress)	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/William_Chang	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/2046_(film)
+William_Chang	2046_(film)
+William_Chang	edited	Happy_Together_(1997_film)
+William_Chang	edited	Happy_Together_(1997_film)
+William_Chang	edited	Happy_Together_(1997_film)
+William_Chang	edited	Happy_Together_(1997_film)
+William_Chang	edited	2046_(film)
+William_Chang	edited	2046_(film)
+
+http://dbpedia.org/resource/William_Chang	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/2046_(film)
+William_Chang	2046_(film)
+William_Chang	edited	Happy_Together_(1997_film)
+William_Chang	edited	Happy_Together_(1997_film)
+Wong_Kar-wai	created	Happy_Together_(1997_film)
+Wong_Kar-wai	created	Happy_Together_(1997_film)
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	directed	2046_(film)
+
+http://dbpedia.org/resource/William_Chang	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/2046_(film)
+William_Chang	2046_(film)
+William_Chang	edited	The_Grandmaster_(film)
+William_Chang	edited	The_Grandmaster_(film)
+Zhang_Ziyi	actedIn	The_Grandmaster_(film)
+Zhang_Ziyi	actedIn	The_Grandmaster_(film)
+Zhang_Ziyi	actedIn	2046_(film)
+Zhang_Ziyi	actedIn	2046_(film)
+
+http://dbpedia.org/resource/William_Chang	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/2046_(film)
+William_Chang	2046_(film)
+William_Chang	edited	The_Grandmaster_(film)
+William_Chang	edited	The_Grandmaster_(film)
+Wong_Kar-wai	directed	The_Grandmaster_(film)
+Wong_Kar-wai	directed	The_Grandmaster_(film)
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	directed	2046_(film)
+
+http://dbpedia.org/resource/William_Chang	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/2046_(film)
+William_Chang	2046_(film)
+William_Chang	edited	The_Grandmaster_(film)
+William_Chang	edited	The_Grandmaster_(film)
+Shigeru_Umebayashi	wroteMusicFor	The_Grandmaster_(film)
+Shigeru_Umebayashi	wroteMusicFor	The_Grandmaster_(film)
+Shigeru_Umebayashi	wroteMusicFor	2046_(film)
+Shigeru_Umebayashi	wroteMusicFor	2046_(film)
+
+http://dbpedia.org/resource/William_Chang	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/2046_(film)
+William_Chang	2046_(film)
+William_Chang	edited	The_Grandmaster_(film)
+William_Chang	edited	The_Grandmaster_(film)
+William_Chang	edited	The_Grandmaster_(film)
+William_Chang	edited	The_Grandmaster_(film)
+William_Chang	edited	2046_(film)
+William_Chang	edited	2046_(film)
+
+http://dbpedia.org/resource/William_Chang	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/2046_(film)
+William_Chang	2046_(film)
+William_Chang	edited	2046_(film)
+William_Chang	edited	2046_(film)
+
+http://dbpedia.org/resource/Julieta_Castellanos	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/International_Women_of_Courage_Award
+Julieta_Castellanos	International_Women_of_Courage_Award
+Julieta_Castellanos	graduatedFrom	Universidad_Nacional_Autónoma_de_Honduras
+Julieta_Castellanos	graduatedFrom	Universidad_Nacional_Autónoma_de_Honduras
+Julieta_Castellanos	graduatedFrom	Universidad_Nacional_Autónoma_de_Honduras
+Julieta_Castellanos	graduatedFrom	Universidad_Nacional_Autónoma_de_Honduras
+Julieta_Castellanos	hasWonPrize	International_Women_of_Courage_Award
+Julieta_Castellanos	hasWonPrize	International_Women_of_Courage_Award
+
+http://dbpedia.org/resource/Julieta_Castellanos	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/International_Women_of_Courage_Award
+Julieta_Castellanos	International_Women_of_Courage_Award
+Julieta_Castellanos	hasWonPrize	International_Women_of_Courage_Award
+Julieta_Castellanos	hasWonPrize	International_Women_of_Courage_Award
+
+http://dbpedia.org/resource/Julieta_Castellanos	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/International_Women_of_Courage_Award
+Julieta_Castellanos	International_Women_of_Courage_Award
+Julieta_Castellanos	livesIn	Tegucigalpa
+Julieta_Castellanos	livesIn	Tegucigalpa
+Julieta_Castellanos	livesIn	Tegucigalpa
+Julieta_Castellanos	livesIn	Tegucigalpa
+Julieta_Castellanos	hasWonPrize	International_Women_of_Courage_Award
+Julieta_Castellanos	hasWonPrize	International_Women_of_Courage_Award
+
+http://dbpedia.org/resource/Lawrence_B._Schook	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Albion_College
+Lawrence_B._Schook	Albion_College
+Lawrence_B._Schook	graduatedFrom	Wayne_State_University
+Lawrence_B._Schook	graduatedFrom	Wayne_State_University
+Lawrence_B._Schook	graduatedFrom	Wayne_State_University
+Lawrence_B._Schook	graduatedFrom	Wayne_State_University
+Lawrence_B._Schook	graduatedFrom	Albion_College
+Lawrence_B._Schook	graduatedFrom	Albion_College
+
+http://dbpedia.org/resource/Lawrence_B._Schook	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Albion_College
+Lawrence_B._Schook	Albion_College
+Lawrence_B._Schook	graduatedFrom	Albion_College
+Lawrence_B._Schook	graduatedFrom	Albion_College
+
+http://dbpedia.org/resource/Lawrence_B._Schook	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/Albion_College
+Lawrence_B._Schook	Albion_College
+Lawrence_B._Schook	worksAt	University_of_Illinois_at_Urbana–Champaign
+Lawrence_B._Schook	worksAt	University_of_Illinois_at_Urbana–Champaign
+Lawrence_B._Schook	worksAt	University_of_Illinois_at_Urbana–Champaign
+Lawrence_B._Schook	worksAt	University_of_Illinois_at_Urbana–Champaign
+Lawrence_B._Schook	graduatedFrom	Albion_College
+Lawrence_B._Schook	graduatedFrom	Albion_College
+

@@ -1,0 +1,14 @@
+http://dbpedia.org/resource/Leopold_Mandić	http://dbpedia.org/ontology/majorShrine	http://dbpedia.org/resource/Padua
+Leopold_Mandić	Padua
+Leopold_Mandić	diedIn	Padua
+Leopold_Mandić	diedIn	Padua
+
+http://dbpedia.org/resource/Leopold_Mandić	http://dbpedia.org/ontology/majorShrine	http://dbpedia.org/resource/Padua
+Leopold_Mandić	Padua
+Leopold_Mandić	wasBornIn	Herceg_Novi
+Leopold_Mandić	wasBornIn	Herceg_Novi
+Leopold_Mandić	wasBornIn	Herceg_Novi
+Leopold_Mandić	wasBornIn	Herceg_Novi
+Leopold_Mandić	diedIn	Padua
+Leopold_Mandić	diedIn	Padua
+

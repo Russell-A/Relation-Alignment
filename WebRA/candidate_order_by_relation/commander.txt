@@ -1,0 +1,783 @@
+http://dbpedia.org/resource/Final_War_of_the_Roman_Republic	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Augustus
+Final_War_of_the_Roman_Republic	Augustus
+Final_War_of_the_Roman_Republic	happenedIn	Roman_Republic
+Roman_Republic	participatedIn	Final_War_of_the_Roman_Republic
+Final_War_of_the_Roman_Republic	happenedIn	Roman_Republic
+Roman_Republic	participatedIn	Final_War_of_the_Roman_Republic
+Roman_Republic	participatedIn	Sicilian_revolt
+Roman_Republic	participatedIn	Sicilian_revolt
+Augustus	participatedIn	Sicilian_revolt
+Augustus	participatedIn	Sicilian_revolt
+
+http://dbpedia.org/resource/2012_Guinea-Bissau_coup_d'état	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Kumba_Ialá
+2012_Guinea-Bissau_coup_d'état	Kumba_Ialá
+2012_Guinea-Bissau_coup_d'état	happenedIn	Bissau
+2012_Guinea-Bissau_coup_d'état	happenedIn	Bissau
+Kumba_Ialá	diedIn	Bissau
+Kumba_Ialá	diedIn	Bissau
+
+http://dbpedia.org/resource/Karen_conflict	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Karen_National_Union
+Karen_conflict	Karen_National_Union
+Karen_conflict	happenedIn	Myanmar
+Myanmar	participatedIn	Karen_conflict
+Karen_conflict	happenedIn	Myanmar
+Myanmar	participatedIn	Karen_conflict
+David_Tharckabaw	isCitizenOf	Myanmar
+David_Tharckabaw	isCitizenOf	Myanmar
+David_Tharckabaw	isAffiliatedTo	Karen_National_Union
+David_Tharckabaw	isAffiliatedTo	Karen_National_Union
+
+http://dbpedia.org/resource/Taungoo–Hanthawaddy_War_(1534–41)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Minkhaung_of_Prome
+Taungoo–Hanthawaddy_War_(1534–41)	Minkhaung_of_Prome
+Taungoo–Hanthawaddy_War_(1534–41)	happenedIn	Pyay
+Taungoo–Hanthawaddy_War_(1534–41)	happenedIn	Pyay
+Minkhaung_of_Prome	wasBornIn	Pyay
+Minkhaung_of_Prome	wasBornIn	Pyay
+
+http://dbpedia.org/resource/Taungoo–Hanthawaddy_War_(1534–41)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Minkhaung_of_Prome
+Taungoo–Hanthawaddy_War_(1534–41)	Minkhaung_of_Prome
+Taungoo–Hanthawaddy_War_(1534–41)	happenedIn	Pyay
+Taungoo–Hanthawaddy_War_(1534–41)	happenedIn	Pyay
+Bayin_Htwe	diedIn	Pyay
+Bayin_Htwe	diedIn	Pyay
+Bayin_Htwe	hasChild	Minkhaung_of_Prome
+Bayin_Htwe	hasChild	Minkhaung_of_Prome
+
+http://dbpedia.org/resource/Taungoo–Hanthawaddy_War_(1534–41)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Minkhaung_of_Prome
+Taungoo–Hanthawaddy_War_(1534–41)	Minkhaung_of_Prome
+Taungoo–Hanthawaddy_War_(1534–41)	happenedIn	Pyay
+Taungoo–Hanthawaddy_War_(1534–41)	happenedIn	Pyay
+Pyay	isLocatedIn	Myanmar
+Pyay	isLocatedIn	Myanmar
+Minkhaung_of_Prome	isCitizenOf	Myanmar
+Minkhaung_of_Prome	isCitizenOf	Myanmar
+
+http://dbpedia.org/resource/Rif_Dimashq_offensive_(September–November_2013)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bashar_al-Assad
+Rif_Dimashq_offensive_(September–November_2013)	Bashar_al-Assad
+Rif_Dimashq_offensive_(September–November_2013)	happenedIn	Syria
+Syria	participatedIn	Rif_Dimashq_offensive_(September–November_2013)
+Rif_Dimashq_offensive_(September–November_2013)	happenedIn	Syria
+Syria	participatedIn	Rif_Dimashq_offensive_(September–November_2013)
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Rif_Dimashq_offensive_(September–November_2013)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bashar_al-Assad
+Rif_Dimashq_offensive_(September–November_2013)	Bashar_al-Assad
+Rif_Dimashq_offensive_(September–November_2013)	happenedIn	Syria
+Syria	participatedIn	Rif_Dimashq_offensive_(September–November_2013)
+Rif_Dimashq_offensive_(September–November_2013)	happenedIn	Syria
+Syria	participatedIn	Rif_Dimashq_offensive_(September–November_2013)
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Rif_Dimashq_offensive_(September–November_2013)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bashar_al-Assad
+Rif_Dimashq_offensive_(September–November_2013)	Bashar_al-Assad
+Syrian_Armed_Forces	participatedIn	Rif_Dimashq_offensive_(September–November_2013)
+Syrian_Armed_Forces	participatedIn	Rif_Dimashq_offensive_(September–November_2013)
+Syrian_Armed_Forces	isLocatedIn	Damascus
+Syrian_Armed_Forces	isLocatedIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+
+http://dbpedia.org/resource/Rif_Dimashq_offensive_(September–November_2013)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bashar_al-Assad
+Rif_Dimashq_offensive_(September–November_2013)	Bashar_al-Assad
+Syrian_Armed_Forces	participatedIn	Rif_Dimashq_offensive_(September–November_2013)
+Syrian_Armed_Forces	participatedIn	Rif_Dimashq_offensive_(September–November_2013)
+Bashar_al-Assad	isLeaderOf	Syrian_Armed_Forces
+Bashar_al-Assad	isLeaderOf	Syrian_Armed_Forces
+
+http://dbpedia.org/resource/Battle_of_Philippi	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Augustus
+Battle_of_Philippi	Augustus
+Battle_of_Philippi	happenedIn	Roman_Republic
+Battle_of_Philippi	happenedIn	Roman_Republic
+Roman_Republic	participatedIn	Sicilian_revolt
+Roman_Republic	participatedIn	Sicilian_revolt
+Augustus	participatedIn	Sicilian_revolt
+Augustus	participatedIn	Sicilian_revolt
+
+http://dbpedia.org/resource/1963_Syrian_coup_d'état	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Khalid_al-Azm
+1963_Syrian_coup_d'état	Khalid_al-Azm
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	participatedIn	1963_Syrian_coup_d'état
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	participatedIn	1963_Syrian_coup_d'état
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Khalid_al-Azm	isPoliticianOf	Syria
+Khalid_al-Azm	isCitizenOf	Syria
+Khalid_al-Azm	isPoliticianOf	Syria
+Khalid_al-Azm	isCitizenOf	Syria
+
+http://dbpedia.org/resource/1963_Syrian_coup_d'état	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Khalid_al-Azm
+1963_Syrian_coup_d'état	Khalid_al-Azm
+Nazim_al-Kudsi	participatedIn	1963_Syrian_coup_d'état
+Nazim_al-Kudsi	participatedIn	1963_Syrian_coup_d'état
+Nazim_al-Kudsi	isCitizenOf	Syria
+Nazim_al-Kudsi	isPoliticianOf	Syria
+Nazim_al-Kudsi	isCitizenOf	Syria
+Nazim_al-Kudsi	isPoliticianOf	Syria
+Khalid_al-Azm	isPoliticianOf	Syria
+Khalid_al-Azm	isCitizenOf	Syria
+Khalid_al-Azm	isPoliticianOf	Syria
+Khalid_al-Azm	isCitizenOf	Syria
+
+http://dbpedia.org/resource/1963_Syrian_coup_d'état	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Khalid_al-Azm
+1963_Syrian_coup_d'état	Khalid_al-Azm
+1963_Syrian_coup_d'état	happenedIn	Syria
+1963_Syrian_coup_d'état	happenedIn	Syria
+Khalid_al-Azm	isPoliticianOf	Syria
+Khalid_al-Azm	isCitizenOf	Syria
+Khalid_al-Azm	isPoliticianOf	Syria
+Khalid_al-Azm	isCitizenOf	Syria
+
+http://dbpedia.org/resource/Siege_of_Khartoum	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Muhammad_Ahmad
+Siege_of_Khartoum	Muhammad_Ahmad
+Siege_of_Khartoum	happenedIn	Khartoum
+Siege_of_Khartoum	isLocatedIn	Khartoum
+Siege_of_Khartoum	happenedIn	Khartoum
+Siege_of_Khartoum	isLocatedIn	Khartoum
+Muhammad_Ahmad	diedIn	Khartoum
+Muhammad_Ahmad	diedIn	Khartoum
+
+http://dbpedia.org/resource/Battle_of_Salta	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Manuel_Belgrano
+Battle_of_Salta	Manuel_Belgrano
+United_Provinces_of_the_Rio_de_la_Plata	participatedIn	Battle_of_Salta
+Battle_of_Salta	happenedIn	United_Provinces_of_the_Rio_de_la_Plata
+United_Provinces_of_the_Rio_de_la_Plata	participatedIn	Battle_of_Salta
+Battle_of_Salta	happenedIn	United_Provinces_of_the_Rio_de_la_Plata
+Manuel_Belgrano	diedIn	United_Provinces_of_the_Rio_de_la_Plata
+Manuel_Belgrano	diedIn	United_Provinces_of_the_Rio_de_la_Plata
+
+http://dbpedia.org/resource/Iraqi_Kurdish_Civil_War	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Rowsch_Shaways
+Iraqi_Kurdish_Civil_War	Rowsch_Shaways
+Iraqi_National_Congress	participatedIn	Iraqi_Kurdish_Civil_War
+Iraqi_National_Congress	participatedIn	Iraqi_Kurdish_Civil_War
+Iraqi_National_Congress	isLocatedIn	Iraq
+Iraqi_National_Congress	isLocatedIn	Iraq
+Rowsch_Shaways	isCitizenOf	Iraq
+Rowsch_Shaways	isPoliticianOf	Iraq
+Rowsch_Shaways	isCitizenOf	Iraq
+Rowsch_Shaways	isPoliticianOf	Iraq
+
+http://dbpedia.org/resource/Serbian_Campaign_of_World_War_I	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Nikola_I_Petrović-Njegoš
+Serbian_Campaign_of_World_War_I	Nikola_I_Petrović-Njegoš
+Serbian_Campaign_of_World_War_I	happenedIn	Montenegro
+Serbian_Campaign_of_World_War_I	happenedIn	Montenegro
+Milena_Vukotić	isCitizenOf	Montenegro
+Milena_Vukotić	isCitizenOf	Montenegro
+Milena_Vukotić	isMarriedTo	Nikola_I_Petrović-Njegoš
+Nikola_I_Petrović-Njegoš	isMarriedTo	Milena_Vukotić
+Milena_Vukotić	isMarriedTo	Nikola_I_Petrović-Njegoš
+Nikola_I_Petrović-Njegoš	isMarriedTo	Milena_Vukotić
+
+http://dbpedia.org/resource/Serbian_Campaign_of_World_War_I	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Nikola_I_Petrović-Njegoš
+Serbian_Campaign_of_World_War_I	Nikola_I_Petrović-Njegoš
+Serbian_Campaign_of_World_War_I	happenedIn	Montenegro
+Serbian_Campaign_of_World_War_I	happenedIn	Montenegro
+Prince_Mirko_of_Montenegro	isCitizenOf	Montenegro
+Prince_Mirko_of_Montenegro	isCitizenOf	Montenegro
+Nikola_I_Petrović-Njegoš	hasChild	Prince_Mirko_of_Montenegro
+Nikola_I_Petrović-Njegoš	hasChild	Prince_Mirko_of_Montenegro
+
+http://dbpedia.org/resource/Papua_conflict	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Jusuf_Kalla
+Papua_conflict	Jusuf_Kalla
+Indonesia	participatedIn	Papua_conflict
+Papua_conflict	happenedIn	Indonesia
+Indonesia	participatedIn	Papua_conflict
+Papua_conflict	happenedIn	Indonesia
+Hasanuddin_University	isLocatedIn	Indonesia
+Hasanuddin_University	isLocatedIn	Indonesia
+Jusuf_Kalla	graduatedFrom	Hasanuddin_University
+Jusuf_Kalla	graduatedFrom	Hasanuddin_University
+
+http://dbpedia.org/resource/Conquest_of_the_Azores	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/António,_Prior_of_Crato
+Conquest_of_the_Azores	António,_Prior_of_Crato
+António,_Prior_of_Crato	participatedIn	Conquest_of_the_Azores
+António,_Prior_of_Crato	participatedIn	Conquest_of_the_Azores
+
+http://dbpedia.org/resource/Conquest_of_the_Azores	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/António,_Prior_of_Crato
+Conquest_of_the_Azores	António,_Prior_of_Crato
+Conquest_of_the_Azores	happenedIn	Terceira_Island
+Conquest_of_the_Azores	happenedIn	Terceira_Island
+Conquest_of_the_Azores	happenedIn	Terceira_Island
+Conquest_of_the_Azores	happenedIn	Terceira_Island
+António,_Prior_of_Crato	participatedIn	Conquest_of_the_Azores
+António,_Prior_of_Crato	participatedIn	Conquest_of_the_Azores
+
+http://dbpedia.org/resource/Conquest_of_the_Azores	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/António,_Prior_of_Crato
+Conquest_of_the_Azores	António,_Prior_of_Crato
+Conquest_of_the_Azores	happenedIn	Azores
+Conquest_of_the_Azores	happenedIn	Azores
+War_of_the_Portuguese_Succession	happenedIn	Azores
+War_of_the_Portuguese_Succession	happenedIn	Azores
+António,_Prior_of_Crato	participatedIn	War_of_the_Portuguese_Succession
+António,_Prior_of_Crato	participatedIn	War_of_the_Portuguese_Succession
+
+http://dbpedia.org/resource/Conquest_of_the_Azores	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/António,_Prior_of_Crato
+Conquest_of_the_Azores	António,_Prior_of_Crato
+Conquest_of_the_Azores	happenedIn	Azores
+Conquest_of_the_Azores	happenedIn	Azores
+Conquest_of_the_Azores	happenedIn	Azores
+Conquest_of_the_Azores	happenedIn	Azores
+António,_Prior_of_Crato	participatedIn	Conquest_of_the_Azores
+António,_Prior_of_Crato	participatedIn	Conquest_of_the_Azores
+
+http://dbpedia.org/resource/Conquest_of_the_Azores	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/António,_Prior_of_Crato
+Conquest_of_the_Azores	António,_Prior_of_Crato
+Philip_II_of_Spain	participatedIn	Conquest_of_the_Azores
+Philip_II_of_Spain	participatedIn	Conquest_of_the_Azores
+Philip_II_of_Spain	participatedIn	Conquest_of_the_Azores
+Philip_II_of_Spain	participatedIn	Conquest_of_the_Azores
+António,_Prior_of_Crato	participatedIn	Conquest_of_the_Azores
+António,_Prior_of_Crato	participatedIn	Conquest_of_the_Azores
+
+http://dbpedia.org/resource/Indonesia–Malaysia_confrontation	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Abdul_Razak_Hussein
+Indonesia–Malaysia_confrontation	Abdul_Razak_Hussein
+Indonesia–Malaysia_confrontation	isLocatedIn	Malaysia
+Malaysia	participatedIn	Indonesia–Malaysia_confrontation
+Indonesia–Malaysia_confrontation	happenedIn	Malaysia
+Indonesia–Malaysia_confrontation	isLocatedIn	Malaysia
+Malaysia	participatedIn	Indonesia–Malaysia_confrontation
+Indonesia–Malaysia_confrontation	happenedIn	Malaysia
+Rahah_Noah	isCitizenOf	Malaysia
+Rahah_Noah	isPoliticianOf	Malaysia
+Rahah_Noah	isCitizenOf	Malaysia
+Rahah_Noah	isPoliticianOf	Malaysia
+Rahah_Noah	isMarriedTo	Abdul_Razak_Hussein
+Abdul_Razak_Hussein	isMarriedTo	Rahah_Noah
+Rahah_Noah	isMarriedTo	Abdul_Razak_Hussein
+Abdul_Razak_Hussein	isMarriedTo	Rahah_Noah
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bashar_al-Assad
+Syrian_Army	Bashar_al-Assad
+Syrian_Army	participatedIn	Hundred_Days'_War
+Syrian_Army	participatedIn	Hundred_Days'_War
+Syrian_Army	participatedIn	Hundred_Days'_War
+Syrian_Army	participatedIn	Hundred_Days'_War
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bashar_al-Assad
+Syrian_Army	Bashar_al-Assad
+Syrian_Army	participatedIn	Battle_of_Taftanaz
+Syrian_Army	participatedIn	Battle_of_Taftanaz
+Syrian_Army	participatedIn	Battle_of_Taftanaz
+Syrian_Army	participatedIn	Battle_of_Taftanaz
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bashar_al-Assad
+Syrian_Army	Bashar_al-Assad
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bashar_al-Assad
+Syrian_Army	Bashar_al-Assad
+Syrian_Army	isLocatedIn	Damascus
+Syrian_Army	isLocatedIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bashar_al-Assad
+Syrian_Army	Bashar_al-Assad
+Syrian_Army	isLocatedIn	Damascus
+Syrian_Army	isLocatedIn	Damascus
+Damascus_University	isLocatedIn	Damascus
+Damascus_University	isLocatedIn	Damascus
+Bashar_al-Assad	graduatedFrom	Damascus_University
+Bashar_al-Assad	graduatedFrom	Damascus_University
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bashar_al-Assad
+Syrian_Army	Bashar_al-Assad
+Fahd_Jassem_al-Freij	isLeaderOf	Syrian_Army
+Fahd_Jassem_al-Freij	isLeaderOf	Syrian_Army
+Fahd_Jassem_al-Freij	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Fahd_Jassem_al-Freij	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bashar_al-Assad
+Syrian_Army	Bashar_al-Assad
+Fahd_Jassem_al-Freij	isLeaderOf	Syrian_Army
+Fahd_Jassem_al-Freij	isLeaderOf	Syrian_Army
+Fahd_Jassem_al-Freij	isLeaderOf	Syrian_Army
+Fahd_Jassem_al-Freij	isLeaderOf	Syrian_Army
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bashar_al-Assad
+Syrian_Army	Bashar_al-Assad
+Syrian_Army	participatedIn	Battle_of_Rastan_(2011)
+Syrian_Army	participatedIn	Battle_of_Rastan_(2011)
+Syrian_Army	participatedIn	Battle_of_Rastan_(2011)
+Syrian_Army	participatedIn	Battle_of_Rastan_(2011)
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bashar_al-Assad
+Syrian_Army	Bashar_al-Assad
+Syrian_Army	participatedIn	Mountain_War_(Lebanon)
+Syrian_Army	participatedIn	Mountain_War_(Lebanon)
+Syrian_Army	participatedIn	Mountain_War_(Lebanon)
+Syrian_Army	participatedIn	Mountain_War_(Lebanon)
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bashar_al-Assad
+Syrian_Army	Bashar_al-Assad
+Syrian_Army	participatedIn	Battle_of_Douma
+Syrian_Army	participatedIn	Battle_of_Douma
+Syrian_Army	participatedIn	Battle_of_Douma
+Syrian_Army	participatedIn	Battle_of_Douma
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bashar_al-Assad
+Syrian_Army	Bashar_al-Assad
+Syrian_Army	participatedIn	War_of_the_Camps
+Syrian_Army	participatedIn	War_of_the_Camps
+Syrian_Army	participatedIn	War_of_the_Camps
+Syrian_Army	participatedIn	War_of_the_Camps
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bashar_al-Assad
+Syrian_Army	Bashar_al-Assad
+Syrian_Army	participatedIn	2016_Khanasir_offensive
+Syrian_Army	participatedIn	2016_Khanasir_offensive
+Syrian_Army	participatedIn	2016_Khanasir_offensive
+Syrian_Army	participatedIn	2016_Khanasir_offensive
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+
+http://dbpedia.org/resource/Sri_Lankan_Civil_War	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/J._R._Jayewardene
+Sri_Lankan_Civil_War	J._R._Jayewardene
+Sri_Lanka	participatedIn	Sri_Lankan_Civil_War
+Sri_Lankan_Civil_War	happenedIn	Sri_Lanka
+Sri_Lankan_Civil_War	isLocatedIn	Sri_Lanka
+Sri_Lanka	participatedIn	Sri_Lankan_Civil_War
+Sri_Lankan_Civil_War	happenedIn	Sri_Lanka
+Sri_Lankan_Civil_War	isLocatedIn	Sri_Lanka
+J._R._Jayewardene	diedIn	Sri_Lanka
+J._R._Jayewardene	isCitizenOf	Sri_Lanka
+J._R._Jayewardene	isPoliticianOf	Sri_Lanka
+J._R._Jayewardene	diedIn	Sri_Lanka
+J._R._Jayewardene	isCitizenOf	Sri_Lanka
+J._R._Jayewardene	isPoliticianOf	Sri_Lanka
+
+http://dbpedia.org/resource/Iraqi–Kurdish_conflict	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Ali_Hassan_al-Majid
+Iraqi–Kurdish_conflict	Ali_Hassan_al-Majid
+National_Defense_Battalions_(Iraq)	participatedIn	Iraqi–Kurdish_conflict
+National_Defense_Battalions_(Iraq)	participatedIn	Iraqi–Kurdish_conflict
+Ali_Hassan_al-Majid	isLeaderOf	National_Defense_Battalions_(Iraq)
+Ali_Hassan_al-Majid	isLeaderOf	National_Defense_Battalions_(Iraq)
+
+http://dbpedia.org/resource/War_of_the_Portuguese_Succession	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/António,_Prior_of_Crato
+War_of_the_Portuguese_Succession	António,_Prior_of_Crato
+Philip_II_of_Spain	participatedIn	War_of_the_Portuguese_Succession
+Philip_II_of_Spain	participatedIn	War_of_the_Portuguese_Succession
+Philip_II_of_Spain	participatedIn	Conquest_of_the_Azores
+Philip_II_of_Spain	participatedIn	Conquest_of_the_Azores
+António,_Prior_of_Crato	participatedIn	Conquest_of_the_Azores
+António,_Prior_of_Crato	participatedIn	Conquest_of_the_Azores
+
+http://dbpedia.org/resource/War_of_the_Portuguese_Succession	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/António,_Prior_of_Crato
+War_of_the_Portuguese_Succession	António,_Prior_of_Crato
+António,_Prior_of_Crato	participatedIn	War_of_the_Portuguese_Succession
+António,_Prior_of_Crato	participatedIn	War_of_the_Portuguese_Succession
+
+http://dbpedia.org/resource/War_of_the_Portuguese_Succession	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/António,_Prior_of_Crato
+War_of_the_Portuguese_Succession	António,_Prior_of_Crato
+War_of_the_Portuguese_Succession	happenedIn	Azores
+War_of_the_Portuguese_Succession	happenedIn	Azores
+War_of_the_Portuguese_Succession	happenedIn	Azores
+War_of_the_Portuguese_Succession	happenedIn	Azores
+António,_Prior_of_Crato	participatedIn	War_of_the_Portuguese_Succession
+António,_Prior_of_Crato	participatedIn	War_of_the_Portuguese_Succession
+
+http://dbpedia.org/resource/War_of_the_Portuguese_Succession	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/António,_Prior_of_Crato
+War_of_the_Portuguese_Succession	António,_Prior_of_Crato
+War_of_the_Portuguese_Succession	happenedIn	Azores
+War_of_the_Portuguese_Succession	happenedIn	Azores
+Conquest_of_the_Azores	happenedIn	Azores
+Conquest_of_the_Azores	happenedIn	Azores
+António,_Prior_of_Crato	participatedIn	Conquest_of_the_Azores
+António,_Prior_of_Crato	participatedIn	Conquest_of_the_Azores
+
+http://dbpedia.org/resource/Military_intervention_against_ISIL	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bashar_al-Assad
+Military_intervention_against_ISIL	Bashar_al-Assad
+Military_intervention_against_ISIL	happenedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Military_intervention_against_ISIL	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bashar_al-Assad
+Military_intervention_against_ISIL	Bashar_al-Assad
+Military_intervention_against_ISIL	happenedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Afghan_Civil_War_(1996–2001)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bismillah_Khan_Mohammadi
+Afghan_Civil_War_(1996–2001)	Bismillah_Khan_Mohammadi
+Afghan_Civil_War_(1996–2001)	happenedIn	Afghanistan
+Afghan_Civil_War_(1996–2001)	isLocatedIn	Afghanistan
+Afghanistan	participatedIn	Afghan_Civil_War_(1996–2001)
+Afghan_Civil_War_(1996–2001)	happenedIn	Afghanistan
+Afghan_Civil_War_(1996–2001)	isLocatedIn	Afghanistan
+Afghanistan	participatedIn	Afghan_Civil_War_(1996–2001)
+Bismillah_Khan_Mohammadi	isPoliticianOf	Afghanistan
+Bismillah_Khan_Mohammadi	isCitizenOf	Afghanistan
+Bismillah_Khan_Mohammadi	isPoliticianOf	Afghanistan
+Bismillah_Khan_Mohammadi	isCitizenOf	Afghanistan
+
+http://dbpedia.org/resource/Afghan_Civil_War_(1996–2001)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bismillah_Khan_Mohammadi
+Afghan_Civil_War_(1996–2001)	Bismillah_Khan_Mohammadi
+Afghan_Civil_War_(1996–2001)	happenedIn	Uzbekistan
+Uzbekistan	participatedIn	Afghan_Civil_War_(1996–2001)
+Afghan_Civil_War_(1996–2001)	happenedIn	Uzbekistan
+Uzbekistan	participatedIn	Afghan_Civil_War_(1996–2001)
+Afghanistan	hasNeighbor	Uzbekistan
+Uzbekistan	hasNeighbor	Afghanistan
+Afghanistan	hasNeighbor	Uzbekistan
+Uzbekistan	hasNeighbor	Afghanistan
+Bismillah_Khan_Mohammadi	isPoliticianOf	Afghanistan
+Bismillah_Khan_Mohammadi	isCitizenOf	Afghanistan
+Bismillah_Khan_Mohammadi	isPoliticianOf	Afghanistan
+Bismillah_Khan_Mohammadi	isCitizenOf	Afghanistan
+
+http://dbpedia.org/resource/Operation_Autumn_Clouds	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Mohammed_Deif
+Operation_Autumn_Clouds	Mohammed_Deif
+Hamas	participatedIn	Operation_Autumn_Clouds
+Hamas	participatedIn	Operation_Autumn_Clouds
+Hamas	isLocatedIn	Gaza_City
+Hamas	isLocatedIn	Gaza_City
+Mohammed_Deif	livesIn	Gaza_City
+Mohammed_Deif	livesIn	Gaza_City
+
+http://dbpedia.org/resource/Black_January	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Abulfaz_Elchibey
+Black_January	Abulfaz_Elchibey
+Azerbaijani_Popular_Front_Party	participatedIn	Black_January
+Azerbaijani_Popular_Front_Party	participatedIn	Black_January
+Abulfaz_Elchibey	isAffiliatedTo	Azerbaijani_Popular_Front_Party
+Abulfaz_Elchibey	isLeaderOf	Azerbaijani_Popular_Front_Party
+Abulfaz_Elchibey	isAffiliatedTo	Azerbaijani_Popular_Front_Party
+Abulfaz_Elchibey	isLeaderOf	Azerbaijani_Popular_Front_Party
+
+http://dbpedia.org/resource/Rif_Dimashq_clashes_(November_2011–March_2012)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Maher_al-Assad
+Rif_Dimashq_clashes_(November_2011–March_2012)	Maher_al-Assad
+Syria	participatedIn	Rif_Dimashq_clashes_(November_2011–March_2012)
+Rif_Dimashq_clashes_(November_2011–March_2012)	happenedIn	Syria
+Syria	participatedIn	Rif_Dimashq_clashes_(November_2011–March_2012)
+Rif_Dimashq_clashes_(November_2011–March_2012)	happenedIn	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Maher_al-Assad
+Hafez_al-Assad	hasChild	Maher_al-Assad
+
+http://dbpedia.org/resource/Saudi_Arabian-led_intervention_in_Yemen	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Ali_Mohsen_al-Ahmar
+Saudi_Arabian-led_intervention_in_Yemen	Ali_Mohsen_al-Ahmar
+Saudi_Arabian-led_intervention_in_Yemen	happenedIn	Yemen
+Saudi_Arabian-led_intervention_in_Yemen	happenedIn	Yemen
+Al-Islah_(Yemen)	isLocatedIn	Yemen
+Al-Islah_(Yemen)	isLocatedIn	Yemen
+Ali_Mohsen_al-Ahmar	isAffiliatedTo	Al-Islah_(Yemen)
+Ali_Mohsen_al-Ahmar	isAffiliatedTo	Al-Islah_(Yemen)
+
+http://dbpedia.org/resource/Russian_military_intervention_in_the_Syrian_Civil_War	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bashar_al-Assad
+Russian_military_intervention_in_the_Syrian_Civil_War	Bashar_al-Assad
+Russian_military_intervention_in_the_Syrian_Civil_War	isLocatedIn	Syria
+Syria	participatedIn	Russian_military_intervention_in_the_Syrian_Civil_War
+Russian_military_intervention_in_the_Syrian_Civil_War	happenedIn	Syria
+Russian_military_intervention_in_the_Syrian_Civil_War	isLocatedIn	Syria
+Syria	participatedIn	Russian_military_intervention_in_the_Syrian_Civil_War
+Russian_military_intervention_in_the_Syrian_Civil_War	happenedIn	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Russian_military_intervention_in_the_Syrian_Civil_War	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bashar_al-Assad
+Russian_military_intervention_in_the_Syrian_Civil_War	Bashar_al-Assad
+Russian_military_intervention_in_the_Syrian_Civil_War	isLocatedIn	Syria
+Syria	participatedIn	Russian_military_intervention_in_the_Syrian_Civil_War
+Russian_military_intervention_in_the_Syrian_Civil_War	happenedIn	Syria
+Russian_military_intervention_in_the_Syrian_Civil_War	isLocatedIn	Syria
+Syria	participatedIn	Russian_military_intervention_in_the_Syrian_Civil_War
+Russian_military_intervention_in_the_Syrian_Civil_War	happenedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Argentine_War_of_Independence	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Manuel_Belgrano
+Argentine_War_of_Independence	Manuel_Belgrano
+Argentine_War_of_Independence	happenedIn	United_Provinces_of_the_Rio_de_la_Plata
+United_Provinces_of_the_Rio_de_la_Plata	participatedIn	Argentine_War_of_Independence
+Argentine_War_of_Independence	happenedIn	United_Provinces_of_the_Rio_de_la_Plata
+United_Provinces_of_the_Rio_de_la_Plata	participatedIn	Argentine_War_of_Independence
+Manuel_Belgrano	diedIn	United_Provinces_of_the_Rio_de_la_Plata
+Manuel_Belgrano	diedIn	United_Provinces_of_the_Rio_de_la_Plata
+
+http://dbpedia.org/resource/1991_Yugoslav_campaign_in_Croatia	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Martin_Špegelj
+1991_Yugoslav_campaign_in_Croatia	Martin_Špegelj
+Croatian_Defence_Forces	participatedIn	1991_Yugoslav_campaign_in_Croatia
+Croatian_Defence_Forces	participatedIn	1991_Yugoslav_campaign_in_Croatia
+Croatian_Defence_Forces	isLocatedIn	Zagreb
+Croatian_Defence_Forces	isLocatedIn	Zagreb
+Martin_Špegelj	diedIn	Zagreb
+Martin_Špegelj	diedIn	Zagreb
+
+http://dbpedia.org/resource/Turkish_involvement_in_the_Syrian_Civil_War	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Maher_al-Assad
+Turkish_involvement_in_the_Syrian_Civil_War	Maher_al-Assad
+Syria	participatedIn	Turkish_involvement_in_the_Syrian_Civil_War
+Turkish_involvement_in_the_Syrian_Civil_War	happenedIn	Syria
+Syria	participatedIn	Turkish_involvement_in_the_Syrian_Civil_War
+Turkish_involvement_in_the_Syrian_Civil_War	happenedIn	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Maher_al-Assad
+Hafez_al-Assad	hasChild	Maher_al-Assad
+
+http://dbpedia.org/resource/Battle_of_Berestechko	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Stefan_Czarniecki
+Battle_of_Berestechko	Stefan_Czarniecki
+Battle_of_Berestechko	isLocatedIn	Ukraine
+Battle_of_Berestechko	happenedIn	Ukraine
+Battle_of_Berestechko	isLocatedIn	Ukraine
+Battle_of_Berestechko	happenedIn	Ukraine
+Stefan_Czarniecki	isCitizenOf	Ukraine
+Stefan_Czarniecki	isCitizenOf	Ukraine
+
+http://dbpedia.org/resource/Turkish_involvement_in_the_Syrian_Civil_War	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bashar_al-Assad
+Turkish_involvement_in_the_Syrian_Civil_War	Bashar_al-Assad
+Syria	participatedIn	Turkish_involvement_in_the_Syrian_Civil_War
+Turkish_involvement_in_the_Syrian_Civil_War	happenedIn	Syria
+Syria	participatedIn	Turkish_involvement_in_the_Syrian_Civil_War
+Turkish_involvement_in_the_Syrian_Civil_War	happenedIn	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Turkish_involvement_in_the_Syrian_Civil_War	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bashar_al-Assad
+Turkish_involvement_in_the_Syrian_Civil_War	Bashar_al-Assad
+Syria	participatedIn	Turkish_involvement_in_the_Syrian_Civil_War
+Turkish_involvement_in_the_Syrian_Civil_War	happenedIn	Syria
+Syria	participatedIn	Turkish_involvement_in_the_Syrian_Civil_War
+Turkish_involvement_in_the_Syrian_Civil_War	happenedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Taliban_insurgency	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Bismillah_Khan_Mohammadi
+Taliban_insurgency	Bismillah_Khan_Mohammadi
+Taliban_insurgency	happenedIn	Afghanistan
+Afghanistan	participatedIn	Taliban_insurgency
+Taliban_insurgency	happenedIn	Afghanistan
+Afghanistan	participatedIn	Taliban_insurgency
+Bismillah_Khan_Mohammadi	isPoliticianOf	Afghanistan
+Bismillah_Khan_Mohammadi	isCitizenOf	Afghanistan
+Bismillah_Khan_Mohammadi	isPoliticianOf	Afghanistan
+Bismillah_Khan_Mohammadi	isCitizenOf	Afghanistan
+
+http://dbpedia.org/resource/Battle_of_Sarrin_(March–April_2015)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Salih_Muslim_Muhammad
+Battle_of_Sarrin_(March–April_2015)	Salih_Muslim_Muhammad
+Battle_of_Sarrin_(March–April_2015)	happenedIn	Sarrin
+Battle_of_Sarrin_(March–April_2015)	happenedIn	Sarrin
+Sarrin	isLocatedIn	Syria
+Sarrin	isLocatedIn	Syria
+Salih_Muslim_Muhammad	livesIn	Syria
+Salih_Muslim_Muhammad	isCitizenOf	Syria
+Salih_Muslim_Muhammad	livesIn	Syria
+Salih_Muslim_Muhammad	isCitizenOf	Syria
+
+http://dbpedia.org/resource/Battle_of_Sarrin_(March–April_2015)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Salih_Muslim_Muhammad
+Battle_of_Sarrin_(March–April_2015)	Salih_Muslim_Muhammad
+People's_Protection_Units	participatedIn	Battle_of_Sarrin_(March–April_2015)
+People's_Protection_Units	participatedIn	Battle_of_Sarrin_(March–April_2015)
+People's_Protection_Units	isLocatedIn	Syria
+People's_Protection_Units	isLocatedIn	Syria
+Salih_Muslim_Muhammad	livesIn	Syria
+Salih_Muslim_Muhammad	isCitizenOf	Syria
+Salih_Muslim_Muhammad	livesIn	Syria
+Salih_Muslim_Muhammad	isCitizenOf	Syria
+
+http://dbpedia.org/resource/Battle_of_Sarrin_(March–April_2015)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Salih_Muslim_Muhammad
+Battle_of_Sarrin_(March–April_2015)	Salih_Muslim_Muhammad
+Rojava	participatedIn	Battle_of_Sarrin_(March–April_2015)
+Rojava	participatedIn	Battle_of_Sarrin_(March–April_2015)
+Rojava	dealsWith	Syria
+Rojava	isLocatedIn	Syria
+Rojava	dealsWith	Syria
+Rojava	isLocatedIn	Syria
+Salih_Muslim_Muhammad	livesIn	Syria
+Salih_Muslim_Muhammad	isCitizenOf	Syria
+Salih_Muslim_Muhammad	livesIn	Syria
+Salih_Muslim_Muhammad	isCitizenOf	Syria
+
+http://dbpedia.org/resource/Battle_of_Sarrin_(March–April_2015)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Salih_Muslim_Muhammad
+Battle_of_Sarrin_(March–April_2015)	Salih_Muslim_Muhammad
+Rojava	participatedIn	Battle_of_Sarrin_(March–April_2015)
+Rojava	participatedIn	Battle_of_Sarrin_(March–April_2015)
+Democratic_Union_Party_(Syria)	isLocatedIn	Rojava
+Democratic_Union_Party_(Syria)	isLocatedIn	Rojava
+Salih_Muslim_Muhammad	isAffiliatedTo	Democratic_Union_Party_(Syria)
+Salih_Muslim_Muhammad	isAffiliatedTo	Democratic_Union_Party_(Syria)
+
+http://dbpedia.org/resource/Battle_of_Sarrin_(March–April_2015)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Salih_Muslim_Muhammad
+Battle_of_Sarrin_(March–April_2015)	Salih_Muslim_Muhammad
+Rojava	participatedIn	Battle_of_Sarrin_(March–April_2015)
+Rojava	participatedIn	Battle_of_Sarrin_(March–April_2015)
+Kobanî	isLocatedIn	Rojava
+Kobanî	isLocatedIn	Rojava
+Salih_Muslim_Muhammad	wasBornIn	Kobanî
+Salih_Muslim_Muhammad	wasBornIn	Kobanî
+
+http://dbpedia.org/resource/Battle_of_Sarrin_(March–April_2015)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Salih_Muslim_Muhammad
+Battle_of_Sarrin_(March–April_2015)	Salih_Muslim_Muhammad
+Women's_Protection_Units	participatedIn	Battle_of_Sarrin_(March–April_2015)
+Women's_Protection_Units	participatedIn	Battle_of_Sarrin_(March–April_2015)
+Women's_Protection_Units	isLocatedIn	Syria
+Women's_Protection_Units	isLocatedIn	Syria
+Salih_Muslim_Muhammad	livesIn	Syria
+Salih_Muslim_Muhammad	isCitizenOf	Syria
+Salih_Muslim_Muhammad	livesIn	Syria
+Salih_Muslim_Muhammad	isCitizenOf	Syria
+
+http://dbpedia.org/resource/Battle_of_Sarrin_(March–April_2015)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Salih_Muslim_Muhammad
+Battle_of_Sarrin_(March–April_2015)	Salih_Muslim_Muhammad
+Battle_of_Sarrin_(March–April_2015)	happenedIn	Syria
+Battle_of_Sarrin_(March–April_2015)	happenedIn	Syria
+Salih_Muslim_Muhammad	livesIn	Syria
+Salih_Muslim_Muhammad	isCitizenOf	Syria
+Salih_Muslim_Muhammad	livesIn	Syria
+Salih_Muslim_Muhammad	isCitizenOf	Syria
+
+http://dbpedia.org/resource/War_of_the_Camps	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Michel_Aoun
+War_of_the_Camps	Michel_Aoun
+As-Sa'iqa	participatedIn	War_of_the_Camps
+As-Sa'iqa	participatedIn	War_of_the_Camps
+As-Sa'iqa	isLocatedIn	Lebanon
+As-Sa'iqa	isLocatedIn	Lebanon
+Michel_Aoun	isLeaderOf	Lebanon
+Michel_Aoun	isCitizenOf	Lebanon
+Michel_Aoun	isPoliticianOf	Lebanon
+Michel_Aoun	isLeaderOf	Lebanon
+Michel_Aoun	isCitizenOf	Lebanon
+Michel_Aoun	isPoliticianOf	Lebanon
+
+http://dbpedia.org/resource/War_of_the_Camps	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Michel_Aoun
+War_of_the_Camps	Michel_Aoun
+Lebanese_Armed_Forces	participatedIn	War_of_the_Camps
+Lebanese_Armed_Forces	participatedIn	War_of_the_Camps
+Lebanese_Armed_Forces	isLocatedIn	Lebanon
+Lebanese_Armed_Forces	isLocatedIn	Lebanon
+Michel_Aoun	isLeaderOf	Lebanon
+Michel_Aoun	isCitizenOf	Lebanon
+Michel_Aoun	isPoliticianOf	Lebanon
+Michel_Aoun	isLeaderOf	Lebanon
+Michel_Aoun	isCitizenOf	Lebanon
+Michel_Aoun	isPoliticianOf	Lebanon
+
+http://dbpedia.org/resource/Australian_Army	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Elizabeth_II
+Australian_Army	Elizabeth_II
+Elizabeth_II	isLeaderOf	Australian_Army
+Elizabeth_II	isLeaderOf	Australian_Army
+
+http://dbpedia.org/resource/Australian_Army	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Elizabeth_II
+Australian_Army	Elizabeth_II
+Australian_Army	participatedIn	Operation_Mountain_Thrust
+Australian_Army	participatedIn	Operation_Mountain_Thrust
+Australian_Army	participatedIn	Operation_Mountain_Thrust
+Australian_Army	participatedIn	Operation_Mountain_Thrust
+Elizabeth_II	isLeaderOf	Australian_Army
+Elizabeth_II	isLeaderOf	Australian_Army
+
+http://dbpedia.org/resource/Australian_Army	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Elizabeth_II
+Australian_Army	Elizabeth_II
+Peter_Cosgrove	isLeaderOf	Australian_Army
+Peter_Cosgrove	isLeaderOf	Australian_Army
+Peter_Cosgrove	isLeaderOf	Australian_Army
+Peter_Cosgrove	isLeaderOf	Australian_Army
+Elizabeth_II	isLeaderOf	Australian_Army
+Elizabeth_II	isLeaderOf	Australian_Army
+
+http://dbpedia.org/resource/1963_Syrian_coup_d'état	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Muhammad_Umran
+1963_Syrian_coup_d'état	Muhammad_Umran
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	participatedIn	1963_Syrian_coup_d'état
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	participatedIn	1963_Syrian_coup_d'état
+Muhammad_Umran	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Muhammad_Umran	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/1963_Syrian_coup_d'état	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Muhammad_Umran
+1963_Syrian_coup_d'état	Muhammad_Umran
+1963_Syrian_coup_d'état	happenedIn	Syria
+1963_Syrian_coup_d'état	happenedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Muhammad_Umran	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Muhammad_Umran	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Battle_of_Sana'a_(2011)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Ali_Mohsen_al-Ahmar
+Battle_of_Sana'a_(2011)	Ali_Mohsen_al-Ahmar
+Al-Islah_(Yemen)	participatedIn	Battle_of_Sana'a_(2011)
+Al-Islah_(Yemen)	participatedIn	Battle_of_Sana'a_(2011)
+Ali_Mohsen_al-Ahmar	isAffiliatedTo	Al-Islah_(Yemen)
+Ali_Mohsen_al-Ahmar	isAffiliatedTo	Al-Islah_(Yemen)
+
+http://dbpedia.org/resource/Battle_of_Sana'a_(2011)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Ali_Mohsen_al-Ahmar
+Battle_of_Sana'a_(2011)	Ali_Mohsen_al-Ahmar
+Battle_of_Sana'a_(2011)	happenedIn	Yemen
+Battle_of_Sana'a_(2011)	happenedIn	Yemen
+Al-Islah_(Yemen)	isLocatedIn	Yemen
+Al-Islah_(Yemen)	isLocatedIn	Yemen
+Ali_Mohsen_al-Ahmar	isAffiliatedTo	Al-Islah_(Yemen)
+Ali_Mohsen_al-Ahmar	isAffiliatedTo	Al-Islah_(Yemen)
+
+http://dbpedia.org/resource/Angolan_War_of_Independence	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/José_Eduardo_dos_Santos
+Angolan_War_of_Independence	José_Eduardo_dos_Santos
+MPLA	participatedIn	Angolan_War_of_Independence
+MPLA	participatedIn	Angolan_War_of_Independence
+José_Eduardo_dos_Santos	isAffiliatedTo	MPLA
+José_Eduardo_dos_Santos	isAffiliatedTo	MPLA
+
+http://dbpedia.org/resource/Battle_of_Al-Malihah	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Adnan_Omran
+Battle_of_Al-Malihah	Adnan_Omran
+Battle_of_Al-Malihah	happenedIn	Syria
+Syria	participatedIn	Battle_of_Al-Malihah
+Battle_of_Al-Malihah	happenedIn	Syria
+Syria	participatedIn	Battle_of_Al-Malihah
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Adnan_Omran	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Adnan_Omran	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+

@@ -1,0 +1,72 @@
+http://dbpedia.org/resource/Westport,_Kansas_City,_Missouri	http://dbpedia.org/ontology/municipality	http://dbpedia.org/resource/Kansas_City,_Missouri
+Westport,_Kansas_City,_Missouri	Kansas_City,_Missouri
+Westport,_Kansas_City,_Missouri	isLocatedIn	Jackson_County,_Missouri
+Westport,_Kansas_City,_Missouri	isLocatedIn	Jackson_County,_Missouri
+Jackson_County,_Missouri	isLocatedIn	Missouri
+Jackson_County,_Missouri	isLocatedIn	Missouri
+Kansas_City,_Missouri	isLocatedIn	Missouri
+Missouri	hasCapital	Kansas_City,_Missouri
+Kansas_City,_Missouri	isLocatedIn	Missouri
+Missouri	hasCapital	Kansas_City,_Missouri
+
+http://dbpedia.org/resource/Westport,_Kansas_City,_Missouri	http://dbpedia.org/ontology/municipality	http://dbpedia.org/resource/Kansas_City,_Missouri
+Westport,_Kansas_City,_Missouri	Kansas_City,_Missouri
+Westport,_Kansas_City,_Missouri	isLocatedIn	Jackson_County,_Missouri
+Westport,_Kansas_City,_Missouri	isLocatedIn	Jackson_County,_Missouri
+Kansas_City,_Missouri	isLocatedIn	Jackson_County,_Missouri
+Jackson_County,_Missouri	isLocatedIn	Kansas_City,_Missouri
+Kansas_City,_Missouri	isLocatedIn	Jackson_County,_Missouri
+Jackson_County,_Missouri	isLocatedIn	Kansas_City,_Missouri
+
+http://dbpedia.org/resource/Westport,_Kansas_City,_Missouri	http://dbpedia.org/ontology/municipality	http://dbpedia.org/resource/Kansas_City,_Missouri
+Westport,_Kansas_City,_Missouri	Kansas_City,_Missouri
+Westport,_Kansas_City,_Missouri	isLocatedIn	Jackson_County,_Missouri
+Westport,_Kansas_City,_Missouri	isLocatedIn	Jackson_County,_Missouri
+Rockhurst_High_School	isLocatedIn	Jackson_County,_Missouri
+Rockhurst_High_School	isLocatedIn	Jackson_County,_Missouri
+Rockhurst_High_School	isLocatedIn	Kansas_City,_Missouri
+Rockhurst_High_School	isLocatedIn	Kansas_City,_Missouri
+
+http://dbpedia.org/resource/Westport,_Kansas_City,_Missouri	http://dbpedia.org/ontology/municipality	http://dbpedia.org/resource/Kansas_City,_Missouri
+Westport,_Kansas_City,_Missouri	Kansas_City,_Missouri
+Westport,_Kansas_City,_Missouri	isLocatedIn	Kansas_City,_Missouri
+Westport,_Kansas_City,_Missouri	isLocatedIn	Kansas_City,_Missouri
+
+http://dbpedia.org/resource/Westport,_Kansas_City,_Missouri	http://dbpedia.org/ontology/municipality	http://dbpedia.org/resource/Kansas_City,_Missouri
+Westport,_Kansas_City,_Missouri	Kansas_City,_Missouri
+Battle_of_Westport	happenedIn	Westport,_Kansas_City,_Missouri
+Battle_of_Westport	happenedIn	Westport,_Kansas_City,_Missouri
+Battle_of_Westport	happenedIn	Missouri
+Battle_of_Westport	happenedIn	Missouri
+Kansas_City,_Missouri	isLocatedIn	Missouri
+Missouri	hasCapital	Kansas_City,_Missouri
+Kansas_City,_Missouri	isLocatedIn	Missouri
+Missouri	hasCapital	Kansas_City,_Missouri
+
+http://dbpedia.org/resource/Westport,_Kansas_City,_Missouri	http://dbpedia.org/ontology/municipality	http://dbpedia.org/resource/Kansas_City,_Missouri
+Westport,_Kansas_City,_Missouri	Kansas_City,_Missouri
+Battle_of_Westport	happenedIn	Westport,_Kansas_City,_Missouri
+Battle_of_Westport	happenedIn	Westport,_Kansas_City,_Missouri
+Battle_of_Westport	happenedIn	Jackson_County,_Missouri
+Battle_of_Westport	happenedIn	Jackson_County,_Missouri
+Kansas_City,_Missouri	isLocatedIn	Jackson_County,_Missouri
+Jackson_County,_Missouri	isLocatedIn	Kansas_City,_Missouri
+Kansas_City,_Missouri	isLocatedIn	Jackson_County,_Missouri
+Jackson_County,_Missouri	isLocatedIn	Kansas_City,_Missouri
+
+http://dbpedia.org/resource/Westport,_Kansas_City,_Missouri	http://dbpedia.org/ontology/municipality	http://dbpedia.org/resource/Kansas_City,_Missouri
+Westport,_Kansas_City,_Missouri	Kansas_City,_Missouri
+Battle_of_Westport	happenedIn	Westport,_Kansas_City,_Missouri
+Battle_of_Westport	happenedIn	Westport,_Kansas_City,_Missouri
+Battle_of_Westport	happenedIn	Kansas_City,_Missouri
+Battle_of_Westport	happenedIn	Kansas_City,_Missouri
+
+http://dbpedia.org/resource/Westport,_Kansas_City,_Missouri	http://dbpedia.org/ontology/municipality	http://dbpedia.org/resource/Kansas_City,_Missouri
+Westport,_Kansas_City,_Missouri	Kansas_City,_Missouri
+Battle_of_Westport	happenedIn	Westport,_Kansas_City,_Missouri
+Battle_of_Westport	happenedIn	Westport,_Kansas_City,_Missouri
+Battle_of_Westport	happenedIn	Westport,_Kansas_City,_Missouri
+Battle_of_Westport	happenedIn	Westport,_Kansas_City,_Missouri
+Westport,_Kansas_City,_Missouri	isLocatedIn	Kansas_City,_Missouri
+Westport,_Kansas_City,_Missouri	isLocatedIn	Kansas_City,_Missouri
+

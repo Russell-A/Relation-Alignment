@@ -1,0 +1,37 @@
+http://dbpedia.org/resource/Limpopo_River	http://dbpedia.org/ontology/mouthCountry	http://dbpedia.org/resource/Mozambique
+Limpopo_River	Mozambique
+Limpopo_River	isLocatedIn	Mozambique
+Limpopo_River	isLocatedIn	Mozambique
+
+http://dbpedia.org/resource/Zambezi	http://dbpedia.org/ontology/mouthCountry	http://dbpedia.org/resource/Mozambique
+Zambezi	Mozambique
+Zambezi	isLocatedIn	Zambia
+Zambezi	isLocatedIn	Zambia
+Zambia	hasNeighbor	Mozambique
+Mozambique	hasNeighbor	Zambia
+Zambia	hasNeighbor	Mozambique
+Mozambique	hasNeighbor	Zambia
+
+http://dbpedia.org/resource/Zambezi	http://dbpedia.org/ontology/mouthCountry	http://dbpedia.org/resource/Mozambique
+Zambezi	Mozambique
+Zambezi	isLocatedIn	Zambia
+Zambezi	isLocatedIn	Zambia
+African_theatre_of_World_War_I	happenedIn	Zambia
+African_theatre_of_World_War_I	happenedIn	Zambia
+African_theatre_of_World_War_I	happenedIn	Mozambique
+African_theatre_of_World_War_I	happenedIn	Mozambique
+
+http://dbpedia.org/resource/Zambezi	http://dbpedia.org/ontology/mouthCountry	http://dbpedia.org/resource/Mozambique
+Zambezi	Mozambique
+Zambezi	isLocatedIn	Angola
+Zambezi	isLocatedIn	Angola
+Cartoon_Network_(Portugal)	isLocatedIn	Angola
+Cartoon_Network_(Portugal)	isLocatedIn	Angola
+Cartoon_Network_(Portugal)	isLocatedIn	Mozambique
+Cartoon_Network_(Portugal)	isLocatedIn	Mozambique
+
+http://dbpedia.org/resource/Zambezi	http://dbpedia.org/ontology/mouthCountry	http://dbpedia.org/resource/Mozambique
+Zambezi	Mozambique
+Zambezi	isLocatedIn	Mozambique
+Zambezi	isLocatedIn	Mozambique
+

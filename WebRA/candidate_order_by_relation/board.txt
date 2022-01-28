@@ -1,0 +1,85 @@
+http://dbpedia.org/resource/Dimitris_Melissanidis	http://dbpedia.org/ontology/board	http://dbpedia.org/resource/AEK_Athens_F.C.
+Dimitris_Melissanidis	AEK_Athens_F.C.
+Dimitris_Melissanidis	livesIn	Greece
+Dimitris_Melissanidis	isCitizenOf	Greece
+Dimitris_Melissanidis	livesIn	Greece
+Dimitris_Melissanidis	isCitizenOf	Greece
+Elias_Atmatsidis	isCitizenOf	Greece
+Elias_Atmatsidis	isCitizenOf	Greece
+Elias_Atmatsidis	playsFor	AEK_Athens_F.C.
+Elias_Atmatsidis	isAffiliatedTo	AEK_Athens_F.C.
+Elias_Atmatsidis	playsFor	AEK_Athens_F.C.
+Elias_Atmatsidis	isAffiliatedTo	AEK_Athens_F.C.
+
+http://dbpedia.org/resource/Dimitris_Melissanidis	http://dbpedia.org/ontology/board	http://dbpedia.org/resource/AEK_Athens_F.C.
+Dimitris_Melissanidis	AEK_Athens_F.C.
+Dimitris_Melissanidis	livesIn	Greece
+Dimitris_Melissanidis	isCitizenOf	Greece
+Dimitris_Melissanidis	livesIn	Greece
+Dimitris_Melissanidis	isCitizenOf	Greece
+Miltiadis_Sapanis	isCitizenOf	Greece
+Miltiadis_Sapanis	wasBornIn	Greece
+Miltiadis_Sapanis	isCitizenOf	Greece
+Miltiadis_Sapanis	wasBornIn	Greece
+Miltiadis_Sapanis	isAffiliatedTo	AEK_Athens_F.C.
+Miltiadis_Sapanis	playsFor	AEK_Athens_F.C.
+Miltiadis_Sapanis	isAffiliatedTo	AEK_Athens_F.C.
+Miltiadis_Sapanis	playsFor	AEK_Athens_F.C.
+
+http://dbpedia.org/resource/Dimitris_Melissanidis	http://dbpedia.org/ontology/board	http://dbpedia.org/resource/AEK_Athens_F.C.
+Dimitris_Melissanidis	AEK_Athens_F.C.
+Dimitris_Melissanidis	livesIn	Greece
+Dimitris_Melissanidis	isCitizenOf	Greece
+Dimitris_Melissanidis	livesIn	Greece
+Dimitris_Melissanidis	isCitizenOf	Greece
+Éder_Luiz_Lima_de_Souza	isCitizenOf	Greece
+Éder_Luiz_Lima_de_Souza	isCitizenOf	Greece
+Éder_Luiz_Lima_de_Souza	playsFor	AEK_Athens_F.C.
+Éder_Luiz_Lima_de_Souza	isAffiliatedTo	AEK_Athens_F.C.
+Éder_Luiz_Lima_de_Souza	playsFor	AEK_Athens_F.C.
+Éder_Luiz_Lima_de_Souza	isAffiliatedTo	AEK_Athens_F.C.
+
+http://dbpedia.org/resource/Dimitris_Melissanidis	http://dbpedia.org/ontology/board	http://dbpedia.org/resource/AEK_Athens_F.C.
+Dimitris_Melissanidis	AEK_Athens_F.C.
+Dimitris_Melissanidis	livesIn	Greece
+Dimitris_Melissanidis	isCitizenOf	Greece
+Dimitris_Melissanidis	livesIn	Greece
+Dimitris_Melissanidis	isCitizenOf	Greece
+Vangelis_Vlachos	isCitizenOf	Greece
+Vangelis_Vlachos	isCitizenOf	Greece
+Vangelis_Vlachos	isAffiliatedTo	AEK_Athens_F.C.
+Vangelis_Vlachos	playsFor	AEK_Athens_F.C.
+Vangelis_Vlachos	isAffiliatedTo	AEK_Athens_F.C.
+Vangelis_Vlachos	playsFor	AEK_Athens_F.C.
+
+http://dbpedia.org/resource/Dimitris_Melissanidis	http://dbpedia.org/ontology/board	http://dbpedia.org/resource/AEK_Athens_F.C.
+Dimitris_Melissanidis	AEK_Athens_F.C.
+Dimitris_Melissanidis	livesIn	Greece
+Dimitris_Melissanidis	isCitizenOf	Greece
+Dimitris_Melissanidis	livesIn	Greece
+Dimitris_Melissanidis	isCitizenOf	Greece
+Refik_Šabanadžović	isCitizenOf	Greece
+Refik_Šabanadžović	isCitizenOf	Greece
+Refik_Šabanadžović	playsFor	AEK_Athens_F.C.
+Refik_Šabanadžović	isAffiliatedTo	AEK_Athens_F.C.
+Refik_Šabanadžović	playsFor	AEK_Athens_F.C.
+Refik_Šabanadžović	isAffiliatedTo	AEK_Athens_F.C.
+
+http://dbpedia.org/resource/Dimitris_Melissanidis	http://dbpedia.org/ontology/board	http://dbpedia.org/resource/AEK_Athens_F.C.
+Dimitris_Melissanidis	AEK_Athens_F.C.
+Dimitris_Melissanidis	livesIn	Greece
+Dimitris_Melissanidis	isCitizenOf	Greece
+Dimitris_Melissanidis	livesIn	Greece
+Dimitris_Melissanidis	isCitizenOf	Greece
+Ilias_Makryonitis	isCitizenOf	Greece
+Ilias_Makryonitis	isCitizenOf	Greece
+Ilias_Makryonitis	isAffiliatedTo	AEK_Athens_F.C.
+Ilias_Makryonitis	playsFor	AEK_Athens_F.C.
+Ilias_Makryonitis	isAffiliatedTo	AEK_Athens_F.C.
+Ilias_Makryonitis	playsFor	AEK_Athens_F.C.
+
+http://dbpedia.org/resource/Dimitris_Melissanidis	http://dbpedia.org/ontology/board	http://dbpedia.org/resource/AEK_Athens_F.C.
+Dimitris_Melissanidis	AEK_Athens_F.C.
+Dimitris_Melissanidis	owns	AEK_Athens_F.C.
+Dimitris_Melissanidis	owns	AEK_Athens_F.C.
+

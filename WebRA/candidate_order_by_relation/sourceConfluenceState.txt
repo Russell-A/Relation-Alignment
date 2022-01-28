@@ -1,0 +1,123 @@
+http://dbpedia.org/resource/Juniata_River	http://dbpedia.org/ontology/sourceConfluenceState	http://dbpedia.org/resource/Pennsylvania
+Juniata_River	Pennsylvania
+Juniata_River	isLocatedIn	Mifflin_County,_Pennsylvania
+Juniata_River	isLocatedIn	Mifflin_County,_Pennsylvania
+Lewistown,_Pennsylvania	isLocatedIn	Mifflin_County,_Pennsylvania
+Mifflin_County,_Pennsylvania	isLocatedIn	Lewistown,_Pennsylvania
+Lewistown,_Pennsylvania	isLocatedIn	Mifflin_County,_Pennsylvania
+Mifflin_County,_Pennsylvania	isLocatedIn	Lewistown,_Pennsylvania
+Lewistown,_Pennsylvania	isLocatedIn	Pennsylvania
+Lewistown,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Juniata_River	http://dbpedia.org/ontology/sourceConfluenceState	http://dbpedia.org/resource/Pennsylvania
+Juniata_River	Pennsylvania
+Juniata_River	isLocatedIn	Juniata_County,_Pennsylvania
+Juniata_River	isLocatedIn	Juniata_County,_Pennsylvania
+Juniata_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Juniata_County,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Juniata_River	http://dbpedia.org/ontology/sourceConfluenceState	http://dbpedia.org/resource/Pennsylvania
+Juniata_River	Pennsylvania
+Juniata_River	isLocatedIn	Juniata_County,_Pennsylvania
+Juniata_River	isLocatedIn	Juniata_County,_Pennsylvania
+Mifflintown,_Pennsylvania	isLocatedIn	Juniata_County,_Pennsylvania
+Mifflintown,_Pennsylvania	isLocatedIn	Juniata_County,_Pennsylvania
+Mifflintown,_Pennsylvania	isLocatedIn	Pennsylvania
+Mifflintown,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Juniata_River	http://dbpedia.org/ontology/sourceConfluenceState	http://dbpedia.org/resource/Pennsylvania
+Juniata_River	Pennsylvania
+Juniata_River	isLocatedIn	Juniata_County,_Pennsylvania
+Juniata_River	isLocatedIn	Juniata_County,_Pennsylvania
+Juniata_River	isLocatedIn	Juniata_County,_Pennsylvania
+Juniata_River	isLocatedIn	Juniata_County,_Pennsylvania
+Juniata_River	isLocatedIn	Pennsylvania
+Juniata_River	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Juniata_River	http://dbpedia.org/ontology/sourceConfluenceState	http://dbpedia.org/resource/Pennsylvania
+Juniata_River	Pennsylvania
+Juniata_River	isLocatedIn	Juniata_County,_Pennsylvania
+Juniata_River	isLocatedIn	Juniata_County,_Pennsylvania
+Susquehanna_River	isLocatedIn	Juniata_County,_Pennsylvania
+Susquehanna_River	isLocatedIn	Juniata_County,_Pennsylvania
+Susquehanna_River	isLocatedIn	Pennsylvania
+Susquehanna_River	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Juniata_River	http://dbpedia.org/ontology/sourceConfluenceState	http://dbpedia.org/resource/Pennsylvania
+Juniata_River	Pennsylvania
+Juniata_River	isLocatedIn	Pennsylvania
+Juniata_River	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Juniata_River	http://dbpedia.org/ontology/sourceConfluenceState	http://dbpedia.org/resource/Pennsylvania
+Juniata_River	Pennsylvania
+Juniata_River	isLocatedIn	Perry_County,_Pennsylvania
+Juniata_River	isLocatedIn	Perry_County,_Pennsylvania
+Perry_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Perry_County,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Juniata_River	http://dbpedia.org/ontology/sourceConfluenceState	http://dbpedia.org/resource/Pennsylvania
+Juniata_River	Pennsylvania
+Juniata_River	isLocatedIn	Perry_County,_Pennsylvania
+Juniata_River	isLocatedIn	Perry_County,_Pennsylvania
+Susquehanna_River	isLocatedIn	Perry_County,_Pennsylvania
+Susquehanna_River	isLocatedIn	Perry_County,_Pennsylvania
+Susquehanna_River	isLocatedIn	Pennsylvania
+Susquehanna_River	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Juniata_River	http://dbpedia.org/ontology/sourceConfluenceState	http://dbpedia.org/resource/Pennsylvania
+Juniata_River	Pennsylvania
+Juniata_River	isLocatedIn	Perry_County,_Pennsylvania
+Juniata_River	isLocatedIn	Perry_County,_Pennsylvania
+Juniata_River	isLocatedIn	Perry_County,_Pennsylvania
+Juniata_River	isLocatedIn	Perry_County,_Pennsylvania
+Juniata_River	isLocatedIn	Pennsylvania
+Juniata_River	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Ohio_River	http://dbpedia.org/ontology/sourceConfluenceState	http://dbpedia.org/resource/Pennsylvania
+Ohio_River	Pennsylvania
+Ohio_River_Islands_National_Wildlife_Refuge	isLocatedIn	Ohio_River
+Ohio_River_Islands_National_Wildlife_Refuge	isLocatedIn	Ohio_River
+Ohio_River_Islands_National_Wildlife_Refuge	isLocatedIn	Ohio_River
+Ohio_River_Islands_National_Wildlife_Refuge	isLocatedIn	Ohio_River
+Ohio_River	isLocatedIn	Pennsylvania
+Ohio_River	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Ohio_River	http://dbpedia.org/ontology/sourceConfluenceState	http://dbpedia.org/resource/Pennsylvania
+Ohio_River	Pennsylvania
+Ohio_River_Islands_National_Wildlife_Refuge	isLocatedIn	Ohio_River
+Ohio_River_Islands_National_Wildlife_Refuge	isLocatedIn	Ohio_River
+Ohio_River_Islands_National_Wildlife_Refuge	isLocatedIn	Pennsylvania
+Ohio_River_Islands_National_Wildlife_Refuge	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Ohio_River	http://dbpedia.org/ontology/sourceConfluenceState	http://dbpedia.org/resource/Pennsylvania
+Ohio_River	Pennsylvania
+Ohio_River	isLocatedIn	Illinois
+Ohio_River	isLocatedIn	Illinois
+Interstate_70	isLocatedIn	Illinois
+Interstate_70	isLocatedIn	Illinois
+Interstate_70	isLocatedIn	Pennsylvania
+Interstate_70	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Ohio_River	http://dbpedia.org/ontology/sourceConfluenceState	http://dbpedia.org/resource/Pennsylvania
+Ohio_River	Pennsylvania
+Ohio_River	isLocatedIn	Illinois
+Ohio_River	isLocatedIn	Illinois
+U.S._Route_40	isLocatedIn	Illinois
+U.S._Route_40	isLocatedIn	Illinois
+U.S._Route_40	isLocatedIn	Pennsylvania
+U.S._Route_40	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Ohio_River	http://dbpedia.org/ontology/sourceConfluenceState	http://dbpedia.org/resource/Pennsylvania
+Ohio_River	Pennsylvania
+Rockport_Generating_Station	isLocatedIn	Ohio_River
+Rockport_Generating_Station	isLocatedIn	Ohio_River
+Rockport_Generating_Station	isLocatedIn	Ohio_River
+Rockport_Generating_Station	isLocatedIn	Ohio_River
+Ohio_River	isLocatedIn	Pennsylvania
+Ohio_River	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Ohio_River	http://dbpedia.org/ontology/sourceConfluenceState	http://dbpedia.org/resource/Pennsylvania
+Ohio_River	Pennsylvania
+Ohio_River	isLocatedIn	Pennsylvania
+Ohio_River	isLocatedIn	Pennsylvania
+

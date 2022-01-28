@@ -1,0 +1,297 @@
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Westchester_County,_New_York	isLocatedIn	White_Plains,_New_York
+White_Plains,_New_York	isLocatedIn	Westchester_County,_New_York
+Westchester_County,_New_York	isLocatedIn	White_Plains,_New_York
+White_Plains,_New_York	isLocatedIn	Westchester_County,_New_York
+Westchester_County,_New_York	isLocatedIn	White_Plains,_New_York
+White_Plains,_New_York	isLocatedIn	Westchester_County,_New_York
+Westchester_County,_New_York	isLocatedIn	White_Plains,_New_York
+White_Plains,_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Harrison,_New_York	isLocatedIn	Westchester_County,_New_York
+Harrison,_New_York	isLocatedIn	Westchester_County,_New_York
+Harrison,_New_York	isLocatedIn	Westchester_County,_New_York
+Harrison,_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Pelham_Manor,_New_York	isLocatedIn	Westchester_County,_New_York
+Pelham_Manor,_New_York	isLocatedIn	Westchester_County,_New_York
+Pelham_Manor,_New_York	isLocatedIn	Westchester_County,_New_York
+Pelham_Manor,_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Tarrytown,_New_York	isLocatedIn	Westchester_County,_New_York
+Tarrytown,_New_York	isLocatedIn	Westchester_County,_New_York
+Tarrytown,_New_York	isLocatedIn	Westchester_County,_New_York
+Tarrytown,_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Pound_Ridge,_New_York	isLocatedIn	Westchester_County,_New_York
+Pound_Ridge,_New_York	isLocatedIn	Westchester_County,_New_York
+Pound_Ridge,_New_York	isLocatedIn	Westchester_County,_New_York
+Pound_Ridge,_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Katonah,_New_York	isLocatedIn	Westchester_County,_New_York
+Katonah,_New_York	isLocatedIn	Westchester_County,_New_York
+Katonah,_New_York	isLocatedIn	Westchester_County,_New_York
+Katonah,_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Purchase,_New_York	isLocatedIn	Westchester_County,_New_York
+Purchase,_New_York	isLocatedIn	Westchester_County,_New_York
+Purchase,_New_York	isLocatedIn	Westchester_County,_New_York
+Purchase,_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Dobbs_Ferry,_New_York	isLocatedIn	Westchester_County,_New_York
+Dobbs_Ferry,_New_York	isLocatedIn	Westchester_County,_New_York
+Dobbs_Ferry,_New_York	isLocatedIn	Westchester_County,_New_York
+Dobbs_Ferry,_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Mount_Kisco,_New_York	isLocatedIn	Westchester_County,_New_York
+Mount_Kisco,_New_York	isLocatedIn	Westchester_County,_New_York
+Mount_Kisco,_New_York	isLocatedIn	Westchester_County,_New_York
+Mount_Kisco,_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Ossining_(town),_New_York	isLocatedIn	Westchester_County,_New_York
+Ossining_(town),_New_York	isLocatedIn	Westchester_County,_New_York
+Ossining_(town),_New_York	isLocatedIn	Westchester_County,_New_York
+Ossining_(town),_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Ossining_(village),_New_York	isLocatedIn	Westchester_County,_New_York
+Ossining_(village),_New_York	isLocatedIn	Westchester_County,_New_York
+Ossining_(village),_New_York	isLocatedIn	Westchester_County,_New_York
+Ossining_(village),_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Valhalla,_New_York	isLocatedIn	Westchester_County,_New_York
+Valhalla,_New_York	isLocatedIn	Westchester_County,_New_York
+Valhalla,_New_York	isLocatedIn	Westchester_County,_New_York
+Valhalla,_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Bedford_(town),_New_York	isLocatedIn	Westchester_County,_New_York
+Bedford_(town),_New_York	isLocatedIn	Westchester_County,_New_York
+Bedford_(town),_New_York	isLocatedIn	Westchester_County,_New_York
+Bedford_(town),_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Charles_E_Milander	livesIn	Westchester_County,_New_York
+Charles_E_Milander	livesIn	Westchester_County,_New_York
+Charles_E_Milander	livesIn	Westchester_County,_New_York
+Charles_E_Milander	livesIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Bronxville,_New_York	isLocatedIn	Westchester_County,_New_York
+Bronxville,_New_York	isLocatedIn	Westchester_County,_New_York
+Bronxville,_New_York	isLocatedIn	Westchester_County,_New_York
+Bronxville,_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Irvington,_New_York	isLocatedIn	Westchester_County,_New_York
+Irvington,_New_York	isLocatedIn	Westchester_County,_New_York
+Irvington,_New_York	isLocatedIn	Westchester_County,_New_York
+Irvington,_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Chappaqua,_New_York	isLocatedIn	Westchester_County,_New_York
+Chappaqua,_New_York	isLocatedIn	Westchester_County,_New_York
+Chappaqua,_New_York	isLocatedIn	Westchester_County,_New_York
+Chappaqua,_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Broadway_(Manhattan)	isLocatedIn	Westchester_County,_New_York
+Broadway_(Manhattan)	isLocatedIn	Westchester_County,_New_York
+Broadway_(Manhattan)	isLocatedIn	Westchester_County,_New_York
+Broadway_(Manhattan)	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+New_Rochelle,_New_York	isLocatedIn	Westchester_County,_New_York
+New_Rochelle,_New_York	isLocatedIn	Westchester_County,_New_York
+New_Rochelle,_New_York	isLocatedIn	Westchester_County,_New_York
+New_Rochelle,_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Armonk,_New_York	isLocatedIn	Westchester_County,_New_York
+Armonk,_New_York	isLocatedIn	Westchester_County,_New_York
+Armonk,_New_York	isLocatedIn	Westchester_County,_New_York
+Armonk,_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Scarsdale,_New_York	isLocatedIn	Westchester_County,_New_York
+Scarsdale,_New_York	isLocatedIn	Westchester_County,_New_York
+Scarsdale,_New_York	isLocatedIn	Westchester_County,_New_York
+Scarsdale,_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Pleasantville,_New_York	isLocatedIn	Westchester_County,_New_York
+Pleasantville,_New_York	isLocatedIn	Westchester_County,_New_York
+Pleasantville,_New_York	isLocatedIn	Westchester_County,_New_York
+Pleasantville,_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Mamaroneck,_New_York	isLocatedIn	Westchester_County,_New_York
+Mamaroneck,_New_York	isLocatedIn	Westchester_County,_New_York
+Mamaroneck,_New_York	isLocatedIn	Westchester_County,_New_York
+Mamaroneck,_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Albert_A._Ultcht	livesIn	Westchester_County,_New_York
+Albert_A._Ultcht	livesIn	Westchester_County,_New_York
+Albert_A._Ultcht	livesIn	Dutchess_County,_New_York
+Albert_A._Ultcht	livesIn	Dutchess_County,_New_York
+Hudson_River	isLocatedIn	Dutchess_County,_New_York
+Hudson_River	isLocatedIn	Dutchess_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Albert_A._Ultcht	livesIn	Westchester_County,_New_York
+Albert_A._Ultcht	livesIn	Westchester_County,_New_York
+Albert_A._Ultcht	livesIn	Westchester_County,_New_York
+Albert_A._Ultcht	livesIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Yorktown_Heights,_New_York	isLocatedIn	Westchester_County,_New_York
+Yorktown_Heights,_New_York	isLocatedIn	Westchester_County,_New_York
+Yorktown_Heights,_New_York	isLocatedIn	Westchester_County,_New_York
+Yorktown_Heights,_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Port_Chester,_New_York	isLocatedIn	Westchester_County,_New_York
+Port_Chester,_New_York	isLocatedIn	Westchester_County,_New_York
+Port_Chester,_New_York	isLocatedIn	Westchester_County,_New_York
+Port_Chester,_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Mount_Vernon,_New_York	isLocatedIn	Westchester_County,_New_York
+Mount_Vernon,_New_York	isLocatedIn	Westchester_County,_New_York
+Mount_Vernon,_New_York	isLocatedIn	Westchester_County,_New_York
+Mount_Vernon,_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Mary_Calvi	wasBornIn	Westchester_County,_New_York
+Mary_Calvi	wasBornIn	Westchester_County,_New_York
+Mary_Calvi	wasBornIn	Westchester_County,_New_York
+Mary_Calvi	wasBornIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Westchester_County,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Westchester_County,_New_York	Hudson_River
+Briarcliff_Manor,_New_York	isLocatedIn	Westchester_County,_New_York
+Briarcliff_Manor,_New_York	isLocatedIn	Westchester_County,_New_York
+Briarcliff_Manor,_New_York	isLocatedIn	Westchester_County,_New_York
+Briarcliff_Manor,_New_York	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Tivoli,_New_York	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Hudson_River
+Tivoli,_New_York	Hudson_River
+Tivoli,_New_York	isLocatedIn	Dutchess_County,_New_York
+Tivoli,_New_York	isLocatedIn	Dutchess_County,_New_York
+Hudson_River	isLocatedIn	Dutchess_County,_New_York
+Hudson_River	isLocatedIn	Dutchess_County,_New_York
+
+http://dbpedia.org/resource/Kittanning,_Pennsylvania	http://dbpedia.org/ontology/river	http://dbpedia.org/resource/Allegheny_River
+Kittanning,_Pennsylvania	Allegheny_River
+Armstrong_County,_Pennsylvania	isLocatedIn	Kittanning,_Pennsylvania
+Kittanning,_Pennsylvania	isLocatedIn	Armstrong_County,_Pennsylvania
+Armstrong_County,_Pennsylvania	isLocatedIn	Kittanning,_Pennsylvania
+Kittanning,_Pennsylvania	isLocatedIn	Armstrong_County,_Pennsylvania
+Armstrong_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Armstrong_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+

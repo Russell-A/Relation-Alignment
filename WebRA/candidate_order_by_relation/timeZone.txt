@@ -1,0 +1,742 @@
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Kep_Chuktema	isPoliticianOf	Phnom_Penh
+Kep_Chuktema	wasBornIn	Phnom_Penh
+Kep_Chuktema	isPoliticianOf	Phnom_Penh
+Kep_Chuktema	wasBornIn	Phnom_Penh
+Kep_Chuktema	isPoliticianOf	Phnom_Penh
+Kep_Chuktema	wasBornIn	Phnom_Penh
+Kep_Chuktema	isPoliticianOf	Phnom_Penh
+Kep_Chuktema	wasBornIn	Phnom_Penh
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Long_Boret	diedIn	Phnom_Penh
+Long_Boret	diedIn	Phnom_Penh
+Long_Boret	isCitizenOf	Cambodia
+Long_Boret	isPoliticianOf	Cambodia
+Long_Boret	isCitizenOf	Cambodia
+Long_Boret	isPoliticianOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Khemara_Keila_FC	isLocatedIn	Phnom_Penh
+Khemara_Keila_FC	isLocatedIn	Phnom_Penh
+Ouk_Mic	playsFor	Khemara_Keila_FC
+Ouk_Mic	isAffiliatedTo	Khemara_Keila_FC
+Ouk_Mic	playsFor	Khemara_Keila_FC
+Ouk_Mic	isAffiliatedTo	Khemara_Keila_FC
+Ouk_Mic	wasBornIn	Cambodia
+Ouk_Mic	isCitizenOf	Cambodia
+Ouk_Mic	wasBornIn	Cambodia
+Ouk_Mic	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Khemara_Keila_FC	isLocatedIn	Phnom_Penh
+Khemara_Keila_FC	isLocatedIn	Phnom_Penh
+Chan_Dara	isAffiliatedTo	Khemara_Keila_FC
+Chan_Dara	playsFor	Khemara_Keila_FC
+Chan_Dara	isAffiliatedTo	Khemara_Keila_FC
+Chan_Dara	playsFor	Khemara_Keila_FC
+Chan_Dara	isCitizenOf	Cambodia
+Chan_Dara	wasBornIn	Cambodia
+Chan_Dara	isCitizenOf	Cambodia
+Chan_Dara	wasBornIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Ke_Sovannaroth	wasBornIn	Phnom_Penh
+Ke_Sovannaroth	wasBornIn	Phnom_Penh
+Ke_Sovannaroth	wasBornIn	Phnom_Penh
+Ke_Sovannaroth	wasBornIn	Phnom_Penh
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Phnom_Penh_International_Airport	isLocatedIn	Phnom_Penh
+Phnom_Penh_International_Airport	isLocatedIn	Phnom_Penh
+Phnom_Penh_International_Airport	isLocatedIn	Phnom_Penh
+Phnom_Penh_International_Airport	isLocatedIn	Phnom_Penh
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Phnom_Penh_International_Airport	isLocatedIn	Phnom_Penh
+Phnom_Penh_International_Airport	isLocatedIn	Phnom_Penh
+PMTair	isLocatedIn	Phnom_Penh_International_Airport
+PMTair	isLocatedIn	Phnom_Penh_International_Airport
+PMTair	isLocatedIn	Cambodia
+PMTair	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Norodom_Chakrapong	wasBornIn	Phnom_Penh
+Norodom_Chakrapong	wasBornIn	Phnom_Penh
+Norodom_Chakrapong	isPoliticianOf	Cambodia
+Norodom_Chakrapong	isCitizenOf	Cambodia
+Norodom_Chakrapong	isPoliticianOf	Cambodia
+Norodom_Chakrapong	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Norodom_Chakrapong	wasBornIn	Phnom_Penh
+Norodom_Chakrapong	wasBornIn	Phnom_Penh
+Norodom_Chakrapong	wasBornIn	Phnom_Penh
+Norodom_Chakrapong	wasBornIn	Phnom_Penh
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Sisowath_Monivong	wasBornIn	Phnom_Penh
+Sisowath_Monivong	wasBornIn	Phnom_Penh
+Sisowath_Monivong	hasChild	Sisowath_Monireth
+Sisowath_Monivong	hasChild	Sisowath_Monireth
+Sisowath_Monireth	isPoliticianOf	Cambodia
+Sisowath_Monireth	isCitizenOf	Cambodia
+Sisowath_Monireth	isPoliticianOf	Cambodia
+Sisowath_Monireth	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Sisowath_Monivong	wasBornIn	Phnom_Penh
+Sisowath_Monivong	wasBornIn	Phnom_Penh
+Sisowath_Monivong	hasChild	Sisowath_Monipong
+Sisowath_Monivong	hasChild	Sisowath_Monipong
+Sisowath_Monipong	isCitizenOf	Cambodia
+Sisowath_Monipong	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Sisowath_Monivong	wasBornIn	Phnom_Penh
+Sisowath_Monivong	wasBornIn	Phnom_Penh
+Sisowath_Monivong	isCitizenOf	Cambodia
+Sisowath_Monivong	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Sisowath_Monivong	wasBornIn	Phnom_Penh
+Sisowath_Monivong	wasBornIn	Phnom_Penh
+Sisowath_Monivong	wasBornIn	Phnom_Penh
+Sisowath_Monivong	wasBornIn	Phnom_Penh
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Ieng_Sary	diedIn	Phnom_Penh
+Ieng_Sary	diedIn	Phnom_Penh
+Ieng_Sary	isMarriedTo	Ieng_Thirith
+Ieng_Thirith	isMarriedTo	Ieng_Sary
+Ieng_Sary	isMarriedTo	Ieng_Thirith
+Ieng_Thirith	isMarriedTo	Ieng_Sary
+Ieng_Thirith	isCitizenOf	Cambodia
+Ieng_Thirith	isPoliticianOf	Cambodia
+Ieng_Thirith	isCitizenOf	Cambodia
+Ieng_Thirith	isPoliticianOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Human_Rights_Party_(Cambodia)	isLocatedIn	Phnom_Penh
+Human_Rights_Party_(Cambodia)	isLocatedIn	Phnom_Penh
+Human_Rights_Party_(Cambodia)	isLocatedIn	Phnom_Penh
+Human_Rights_Party_(Cambodia)	isLocatedIn	Phnom_Penh
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Human_Rights_Party_(Cambodia)	isLocatedIn	Phnom_Penh
+Human_Rights_Party_(Cambodia)	isLocatedIn	Phnom_Penh
+Human_Rights_Party_(Cambodia)	isLocatedIn	Cambodia
+Human_Rights_Party_(Cambodia)	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Sisowath_Sirik_Matak	wasBornIn	Phnom_Penh
+Sisowath_Sirik_Matak	diedIn	Phnom_Penh
+Sisowath_Sirik_Matak	wasBornIn	Phnom_Penh
+Sisowath_Sirik_Matak	diedIn	Phnom_Penh
+Sisowath_Sirik_Matak	isPoliticianOf	Cambodia
+Sisowath_Sirik_Matak	isCitizenOf	Cambodia
+Sisowath_Sirik_Matak	isPoliticianOf	Cambodia
+Sisowath_Sirik_Matak	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Sisowath_Sirik_Matak	wasBornIn	Phnom_Penh
+Sisowath_Sirik_Matak	diedIn	Phnom_Penh
+Sisowath_Sirik_Matak	wasBornIn	Phnom_Penh
+Sisowath_Sirik_Matak	diedIn	Phnom_Penh
+Sisowath_Sirik_Matak	wasBornIn	Phnom_Penh
+Sisowath_Sirik_Matak	diedIn	Phnom_Penh
+Sisowath_Sirik_Matak	wasBornIn	Phnom_Penh
+Sisowath_Sirik_Matak	diedIn	Phnom_Penh
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+1997_clashes_in_Cambodia	happenedIn	Phnom_Penh
+1997_clashes_in_Cambodia	happenedIn	Phnom_Penh
+1997_clashes_in_Cambodia	happenedIn	Cambodia
+1997_clashes_in_Cambodia	happenedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+1997_clashes_in_Cambodia	happenedIn	Phnom_Penh
+1997_clashes_in_Cambodia	happenedIn	Phnom_Penh
+1997_clashes_in_Cambodia	happenedIn	Phnom_Penh
+1997_clashes_in_Cambodia	happenedIn	Phnom_Penh
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Cham_Prasidh	wasBornIn	Phnom_Penh
+Cham_Prasidh	wasBornIn	Phnom_Penh
+Cham_Prasidh	isPoliticianOf	Cambodia
+Cham_Prasidh	isCitizenOf	Cambodia
+Cham_Prasidh	isPoliticianOf	Cambodia
+Cham_Prasidh	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Norodom_Vichara	wasBornIn	Phnom_Penh
+Norodom_Vichara	wasBornIn	Phnom_Penh
+Norodom_Vichara	isCitizenOf	Cambodia
+Norodom_Vichara	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Norodom_Vichara	wasBornIn	Phnom_Penh
+Norodom_Vichara	wasBornIn	Phnom_Penh
+Norodom_Suramarit	hasChild	Norodom_Vichara
+Norodom_Suramarit	hasChild	Norodom_Vichara
+Norodom_Suramarit	isCitizenOf	Cambodia
+Norodom_Suramarit	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Norodom_Vichara	wasBornIn	Phnom_Penh
+Norodom_Vichara	wasBornIn	Phnom_Penh
+Norodom_Vichara	wasBornIn	Phnom_Penh
+Norodom_Vichara	wasBornIn	Phnom_Penh
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Cambodia_Angkor_Air	isLocatedIn	Phnom_Penh
+Cambodia_Angkor_Air	isLocatedIn	Phnom_Penh
+Cambodia_Angkor_Air	isLocatedIn	Cambodia
+Cambodia_Angkor_Air	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Cambodia_Angkor_Air	isLocatedIn	Phnom_Penh
+Cambodia_Angkor_Air	isLocatedIn	Phnom_Penh
+Cambodia_Angkor_Air	isLocatedIn	Phnom_Penh
+Cambodia_Angkor_Air	isLocatedIn	Phnom_Penh
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Yim_Sovann	wasBornIn	Phnom_Penh
+Yim_Sovann	wasBornIn	Phnom_Penh
+Yim_Sovann	wasBornIn	Phnom_Penh
+Yim_Sovann	wasBornIn	Phnom_Penh
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Norodom_Sihamoni	wasBornIn	Phnom_Penh
+Norodom_Sihamoni	wasBornIn	Phnom_Penh
+Norodom_Sihamoni	isLeaderOf	Cambodia
+Norodom_Sihamoni	isCitizenOf	Cambodia
+Norodom_Sihamoni	isPoliticianOf	Cambodia
+Norodom_Sihamoni	isLeaderOf	Cambodia
+Norodom_Sihamoni	isCitizenOf	Cambodia
+Norodom_Sihamoni	isPoliticianOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Norodom_Sihamoni	wasBornIn	Phnom_Penh
+Norodom_Sihamoni	wasBornIn	Phnom_Penh
+Norodom_Sihamoni	wasBornIn	Phnom_Penh
+Norodom_Sihamoni	wasBornIn	Phnom_Penh
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Hor_Namhong	wasBornIn	Phnom_Penh
+Hor_Namhong	wasBornIn	Phnom_Penh
+Hor_Namhong	isPoliticianOf	Cambodia
+Hor_Namhong	isCitizenOf	Cambodia
+Hor_Namhong	isPoliticianOf	Cambodia
+Hor_Namhong	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Hun_Manith	wasBornIn	Phnom_Penh
+Hun_Manith	wasBornIn	Phnom_Penh
+Hun_Manith	isPoliticianOf	Cambodia
+Hun_Manith	isCitizenOf	Cambodia
+Hun_Manith	isPoliticianOf	Cambodia
+Hun_Manith	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Hun_Manith	wasBornIn	Phnom_Penh
+Hun_Manith	wasBornIn	Phnom_Penh
+Bun_Rany	hasChild	Hun_Manith
+Bun_Rany	hasChild	Hun_Manith
+Bun_Rany	isCitizenOf	Cambodia
+Bun_Rany	livesIn	Cambodia
+Bun_Rany	isPoliticianOf	Cambodia
+Bun_Rany	isCitizenOf	Cambodia
+Bun_Rany	livesIn	Cambodia
+Bun_Rany	isPoliticianOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Hun_Manith	wasBornIn	Phnom_Penh
+Hun_Manith	wasBornIn	Phnom_Penh
+Hun_Sen	hasChild	Hun_Manith
+Hun_Sen	hasChild	Hun_Manith
+Hun_Sen	isPoliticianOf	Cambodia
+Hun_Sen	isCitizenOf	Cambodia
+Hun_Sen	isLeaderOf	Cambodia
+Hun_Sen	isPoliticianOf	Cambodia
+Hun_Sen	isCitizenOf	Cambodia
+Hun_Sen	isLeaderOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Hun_Manith	wasBornIn	Phnom_Penh
+Hun_Manith	wasBornIn	Phnom_Penh
+Hun_Manith	wasBornIn	Phnom_Penh
+Hun_Manith	wasBornIn	Phnom_Penh
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+FUNCINPEC	isLocatedIn	Phnom_Penh
+FUNCINPEC	isLocatedIn	Phnom_Penh
+Norodom_Marie	isAffiliatedTo	FUNCINPEC
+Norodom_Marie	isAffiliatedTo	FUNCINPEC
+Norodom_Marie	isCitizenOf	Cambodia
+Norodom_Marie	isPoliticianOf	Cambodia
+Norodom_Marie	isCitizenOf	Cambodia
+Norodom_Marie	isPoliticianOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+FUNCINPEC	isLocatedIn	Phnom_Penh
+FUNCINPEC	isLocatedIn	Phnom_Penh
+Norodom_Ranariddh	isAffiliatedTo	FUNCINPEC
+Norodom_Ranariddh	isAffiliatedTo	FUNCINPEC
+Norodom_Ranariddh	isPoliticianOf	Cambodia
+Norodom_Ranariddh	isCitizenOf	Cambodia
+Norodom_Ranariddh	isPoliticianOf	Cambodia
+Norodom_Ranariddh	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+FUNCINPEC	isLocatedIn	Phnom_Penh
+FUNCINPEC	isLocatedIn	Phnom_Penh
+Norodom_Sihanouk	created	FUNCINPEC
+Norodom_Sihanouk	created	FUNCINPEC
+Norodom_Sihanouk	isCitizenOf	Cambodia
+Norodom_Sihanouk	isPoliticianOf	Cambodia
+Norodom_Sihanouk	isCitizenOf	Cambodia
+Norodom_Sihanouk	isPoliticianOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+FUNCINPEC	isLocatedIn	Phnom_Penh
+FUNCINPEC	isLocatedIn	Phnom_Penh
+Norodom_Vichara	isAffiliatedTo	FUNCINPEC
+Norodom_Vichara	isAffiliatedTo	FUNCINPEC
+Norodom_Vichara	isCitizenOf	Cambodia
+Norodom_Vichara	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+FUNCINPEC	isLocatedIn	Phnom_Penh
+FUNCINPEC	isLocatedIn	Phnom_Penh
+FUNCINPEC	participatedIn	1997_clashes_in_Cambodia
+FUNCINPEC	participatedIn	1997_clashes_in_Cambodia
+1997_clashes_in_Cambodia	happenedIn	Cambodia
+1997_clashes_in_Cambodia	happenedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+FUNCINPEC	isLocatedIn	Phnom_Penh
+FUNCINPEC	isLocatedIn	Phnom_Penh
+Nhiek_Tioulong	isAffiliatedTo	FUNCINPEC
+Nhiek_Tioulong	isAffiliatedTo	FUNCINPEC
+Nhiek_Tioulong	isCitizenOf	Cambodia
+Nhiek_Tioulong	isPoliticianOf	Cambodia
+Nhiek_Tioulong	isCitizenOf	Cambodia
+Nhiek_Tioulong	isPoliticianOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+FUNCINPEC	isLocatedIn	Phnom_Penh
+FUNCINPEC	isLocatedIn	Phnom_Penh
+Ung_Huot	isAffiliatedTo	FUNCINPEC
+Ung_Huot	isAffiliatedTo	FUNCINPEC
+Ung_Huot	isCitizenOf	Cambodia
+Ung_Huot	isPoliticianOf	Cambodia
+Ung_Huot	isCitizenOf	Cambodia
+Ung_Huot	isPoliticianOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+FUNCINPEC	isLocatedIn	Phnom_Penh
+FUNCINPEC	isLocatedIn	Phnom_Penh
+Norodom_Chakrapong	isAffiliatedTo	FUNCINPEC
+Norodom_Chakrapong	isAffiliatedTo	FUNCINPEC
+Norodom_Chakrapong	isPoliticianOf	Cambodia
+Norodom_Chakrapong	isCitizenOf	Cambodia
+Norodom_Chakrapong	isPoliticianOf	Cambodia
+Norodom_Chakrapong	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+FUNCINPEC	isLocatedIn	Phnom_Penh
+FUNCINPEC	isLocatedIn	Phnom_Penh
+FUNCINPEC	isLocatedIn	Phnom_Penh
+FUNCINPEC	isLocatedIn	Phnom_Penh
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Royal_University_of_Phnom_Penh	isLocatedIn	Phnom_Penh
+Royal_University_of_Phnom_Penh	isLocatedIn	Phnom_Penh
+Royal_University_of_Phnom_Penh	isLocatedIn	Cambodia
+Royal_University_of_Phnom_Penh	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Royal_University_of_Phnom_Penh	isLocatedIn	Phnom_Penh
+Royal_University_of_Phnom_Penh	isLocatedIn	Phnom_Penh
+Cham_Prasidh	graduatedFrom	Royal_University_of_Phnom_Penh
+Cham_Prasidh	graduatedFrom	Royal_University_of_Phnom_Penh
+Cham_Prasidh	isPoliticianOf	Cambodia
+Cham_Prasidh	isCitizenOf	Cambodia
+Cham_Prasidh	isPoliticianOf	Cambodia
+Cham_Prasidh	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Royal_University_of_Phnom_Penh	isLocatedIn	Phnom_Penh
+Royal_University_of_Phnom_Penh	isLocatedIn	Phnom_Penh
+Sok_An	graduatedFrom	Royal_University_of_Phnom_Penh
+Sok_An	graduatedFrom	Royal_University_of_Phnom_Penh
+Sok_An	isPoliticianOf	Cambodia
+Sok_An	isCitizenOf	Cambodia
+Sok_An	isPoliticianOf	Cambodia
+Sok_An	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Royal_University_of_Phnom_Penh	isLocatedIn	Phnom_Penh
+Royal_University_of_Phnom_Penh	isLocatedIn	Phnom_Penh
+Royal_University_of_Phnom_Penh	isLocatedIn	Phnom_Penh
+Royal_University_of_Phnom_Penh	isLocatedIn	Phnom_Penh
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Theavy_Mok	wasBornIn	Phnom_Penh
+Theavy_Mok	livesIn	Phnom_Penh
+Theavy_Mok	wasBornIn	Phnom_Penh
+Theavy_Mok	livesIn	Phnom_Penh
+Theavy_Mok	isCitizenOf	Cambodia
+Theavy_Mok	livesIn	Cambodia
+Theavy_Mok	isCitizenOf	Cambodia
+Theavy_Mok	livesIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Theavy_Mok	wasBornIn	Phnom_Penh
+Theavy_Mok	livesIn	Phnom_Penh
+Theavy_Mok	wasBornIn	Phnom_Penh
+Theavy_Mok	livesIn	Phnom_Penh
+Theavy_Mok	wasBornIn	Phnom_Penh
+Theavy_Mok	livesIn	Phnom_Penh
+Theavy_Mok	wasBornIn	Phnom_Penh
+Theavy_Mok	livesIn	Phnom_Penh
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Sisowath_Monipong	wasBornIn	Phnom_Penh
+Sisowath_Monipong	wasBornIn	Phnom_Penh
+Sisowath_Monipong	isCitizenOf	Cambodia
+Sisowath_Monipong	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Sisowath_Monipong	wasBornIn	Phnom_Penh
+Sisowath_Monipong	wasBornIn	Phnom_Penh
+Sisowath_Monivong	hasChild	Sisowath_Monipong
+Sisowath_Monivong	hasChild	Sisowath_Monipong
+Sisowath_Monivong	isCitizenOf	Cambodia
+Sisowath_Monivong	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Sisowath_Monipong	wasBornIn	Phnom_Penh
+Sisowath_Monipong	wasBornIn	Phnom_Penh
+Sisowath_Monipong	wasBornIn	Phnom_Penh
+Sisowath_Monipong	wasBornIn	Phnom_Penh
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Kith_Meng	livesIn	Phnom_Penh
+Kith_Meng	livesIn	Phnom_Penh
+Kith_Meng	livesIn	Cambodia
+Kith_Meng	isCitizenOf	Cambodia
+Kith_Meng	livesIn	Cambodia
+Kith_Meng	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Phnom_Penh	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Phnom_Penh	Cambodia
+Kith_Meng	livesIn	Phnom_Penh
+Kith_Meng	livesIn	Phnom_Penh
+Kith_Meng	livesIn	Phnom_Penh
+Kith_Meng	livesIn	Phnom_Penh
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Siem_Reap	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Siem_Reap	Cambodia
+Siem_Reap	isLocatedIn	Cambodia
+Siem_Reap	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Siem_Reap	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Siem_Reap	Cambodia
+Be_My_Lady	isLocatedIn	Siem_Reap
+Be_My_Lady	isLocatedIn	Siem_Reap
+Be_My_Lady	isLocatedIn	Siem_Reap
+Be_My_Lady	isLocatedIn	Siem_Reap
+Siem_Reap	isLocatedIn	Cambodia
+Siem_Reap	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Siem_Reap	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Siem_Reap	Cambodia
+Be_My_Lady	isLocatedIn	Siem_Reap
+Be_My_Lady	isLocatedIn	Siem_Reap
+Be_My_Lady	isLocatedIn	Cambodia
+Be_My_Lady	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Siem_Reap	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Siem_Reap	Cambodia
+Siem_Reap_International_Airport	isLocatedIn	Siem_Reap
+Siem_Reap_International_Airport	isLocatedIn	Siem_Reap
+Siem_Reap_International_Airport	isLocatedIn	Siem_Reap
+Siem_Reap_International_Airport	isLocatedIn	Siem_Reap
+Siem_Reap	isLocatedIn	Cambodia
+Siem_Reap	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Siem_Reap	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Siem_Reap	Cambodia
+Tieng_Tiny	wasBornIn	Siem_Reap
+Tieng_Tiny	wasBornIn	Siem_Reap
+Tieng_Tiny	playsFor	Nagaworld_FC
+Tieng_Tiny	isAffiliatedTo	Nagaworld_FC
+Tieng_Tiny	playsFor	Nagaworld_FC
+Tieng_Tiny	isAffiliatedTo	Nagaworld_FC
+Nagaworld_FC	isLocatedIn	Cambodia
+Nagaworld_FC	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Siem_Reap	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Siem_Reap	Cambodia
+Tieng_Tiny	wasBornIn	Siem_Reap
+Tieng_Tiny	wasBornIn	Siem_Reap
+Tieng_Tiny	wasBornIn	Siem_Reap
+Tieng_Tiny	wasBornIn	Siem_Reap
+Siem_Reap	isLocatedIn	Cambodia
+Siem_Reap	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Siem_Reap	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Siem_Reap	Cambodia
+PMTair	isLocatedIn	Siem_Reap
+PMTair	isLocatedIn	Siem_Reap
+PMTair	isLocatedIn	Cambodia
+PMTair	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Siem_Reap	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Siem_Reap	Cambodia
+PMTair	isLocatedIn	Siem_Reap
+PMTair	isLocatedIn	Siem_Reap
+PMTair	isLocatedIn	Phnom_Penh
+PMTair	isLocatedIn	Phnom_Penh
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+Cambodia	hasCapital	Phnom_Penh
+Phnom_Penh	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Siem_Reap	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Siem_Reap	Cambodia
+PMTair	isLocatedIn	Siem_Reap
+PMTair	isLocatedIn	Siem_Reap
+PMTair	isLocatedIn	Siem_Reap
+PMTair	isLocatedIn	Siem_Reap
+Siem_Reap	isLocatedIn	Cambodia
+Siem_Reap	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Siem_Reap	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Siem_Reap	Cambodia
+Dith_Pran	wasBornIn	Siem_Reap
+Dith_Pran	wasBornIn	Siem_Reap
+Dith_Pran	isCitizenOf	Cambodia
+Dith_Pran	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Siem_Reap	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Cambodia
+Siem_Reap	Cambodia
+Dith_Pran	wasBornIn	Siem_Reap
+Dith_Pran	wasBornIn	Siem_Reap
+Dith_Pran	wasBornIn	Siem_Reap
+Dith_Pran	wasBornIn	Siem_Reap
+Siem_Reap	isLocatedIn	Cambodia
+Siem_Reap	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Đồng_Hới	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Vietnam
+Đồng_Hới	Vietnam
+Quảng_Bình_Province	hasCapital	Đồng_Hới
+Quảng_Bình_Province	isLocatedIn	Đồng_Hới
+Đồng_Hới	isLocatedIn	Quảng_Bình_Province
+Quảng_Bình_Province	hasCapital	Đồng_Hới
+Quảng_Bình_Province	isLocatedIn	Đồng_Hới
+Đồng_Hới	isLocatedIn	Quảng_Bình_Province
+Quảng_Phúc	isLocatedIn	Quảng_Bình_Province
+Quảng_Phúc	isLocatedIn	Quảng_Bình_Province
+Quảng_Phúc	isLocatedIn	Vietnam
+Quảng_Phúc	isLocatedIn	Vietnam
+
+http://dbpedia.org/resource/Đồng_Hới	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Vietnam
+Đồng_Hới	Vietnam
+Quảng_Bình_Province	hasCapital	Đồng_Hới
+Quảng_Bình_Province	isLocatedIn	Đồng_Hới
+Đồng_Hới	isLocatedIn	Quảng_Bình_Province
+Quảng_Bình_Province	hasCapital	Đồng_Hới
+Quảng_Bình_Province	isLocatedIn	Đồng_Hới
+Đồng_Hới	isLocatedIn	Quảng_Bình_Province
+Quảng_Hợp	isLocatedIn	Quảng_Bình_Province
+Quảng_Hợp	isLocatedIn	Quảng_Bình_Province
+Quảng_Hợp	isLocatedIn	Vietnam
+Quảng_Hợp	isLocatedIn	Vietnam
+
+http://dbpedia.org/resource/Đồng_Hới	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Vietnam
+Đồng_Hới	Vietnam
+Quảng_Bình_Province	hasCapital	Đồng_Hới
+Quảng_Bình_Province	isLocatedIn	Đồng_Hới
+Đồng_Hới	isLocatedIn	Quảng_Bình_Province
+Quảng_Bình_Province	hasCapital	Đồng_Hới
+Quảng_Bình_Province	isLocatedIn	Đồng_Hới
+Đồng_Hới	isLocatedIn	Quảng_Bình_Province
+An_Ninh	isLocatedIn	Quảng_Bình_Province
+An_Ninh	isLocatedIn	Quảng_Bình_Province
+An_Ninh	isLocatedIn	Vietnam
+An_Ninh	isLocatedIn	Vietnam
+
+http://dbpedia.org/resource/Đồng_Hới	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Vietnam
+Đồng_Hới	Vietnam
+Quảng_Bình_Province	hasCapital	Đồng_Hới
+Quảng_Bình_Province	isLocatedIn	Đồng_Hới
+Đồng_Hới	isLocatedIn	Quảng_Bình_Province
+Quảng_Bình_Province	hasCapital	Đồng_Hới
+Quảng_Bình_Province	isLocatedIn	Đồng_Hới
+Đồng_Hới	isLocatedIn	Quảng_Bình_Province
+Thanh_Thạch	isLocatedIn	Quảng_Bình_Province
+Thanh_Thạch	isLocatedIn	Quảng_Bình_Province
+Thanh_Thạch	isLocatedIn	Vietnam
+Thanh_Thạch	isLocatedIn	Vietnam
+
+http://dbpedia.org/resource/Đồng_Hới	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Vietnam
+Đồng_Hới	Vietnam
+Quảng_Bình_Province	hasCapital	Đồng_Hới
+Quảng_Bình_Province	isLocatedIn	Đồng_Hới
+Đồng_Hới	isLocatedIn	Quảng_Bình_Province
+Quảng_Bình_Province	hasCapital	Đồng_Hới
+Quảng_Bình_Province	isLocatedIn	Đồng_Hới
+Đồng_Hới	isLocatedIn	Quảng_Bình_Province
+Kim_Hóa	isLocatedIn	Quảng_Bình_Province
+Kim_Hóa	isLocatedIn	Quảng_Bình_Province
+Kim_Hóa	isLocatedIn	Vietnam
+Kim_Hóa	isLocatedIn	Vietnam
+
+http://dbpedia.org/resource/Đồng_Hới	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Vietnam
+Đồng_Hới	Vietnam
+Quảng_Bình_Province	hasCapital	Đồng_Hới
+Quảng_Bình_Province	isLocatedIn	Đồng_Hới
+Đồng_Hới	isLocatedIn	Quảng_Bình_Province
+Quảng_Bình_Province	hasCapital	Đồng_Hới
+Quảng_Bình_Province	isLocatedIn	Đồng_Hới
+Đồng_Hới	isLocatedIn	Quảng_Bình_Province
+Bắc_Trạch	isLocatedIn	Quảng_Bình_Province
+Bắc_Trạch	isLocatedIn	Quảng_Bình_Province
+Bắc_Trạch	isLocatedIn	Vietnam
+Bắc_Trạch	isLocatedIn	Vietnam
+

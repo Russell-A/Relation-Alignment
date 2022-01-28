@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/Devin_Hester	http://dbpedia.org/ontology/highschool	http://dbpedia.org/resource/Suncoast_Community_High_School
+Devin_Hester	Suncoast_Community_High_School
+Devin_Hester	wasBornIn	Riviera_Beach,_Florida
+Devin_Hester	wasBornIn	Riviera_Beach,_Florida
+Suncoast_Community_High_School	isLocatedIn	Riviera_Beach,_Florida
+Suncoast_Community_High_School	isLocatedIn	Riviera_Beach,_Florida
+

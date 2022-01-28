@@ -1,0 +1,50 @@
+http://dbpedia.org/resource/Utkal_University	http://dbpedia.org/ontology/chancellor	http://dbpedia.org/resource/S._C._Jamir
+Utkal_University	S._C._Jamir
+Jagannath_Prasad_Das	graduatedFrom	Utkal_University
+Jagannath_Prasad_Das	graduatedFrom	Utkal_University
+Jagannath_Prasad_Das	graduatedFrom	University_of_Allahabad
+Jagannath_Prasad_Das	graduatedFrom	University_of_Allahabad
+S._C._Jamir	graduatedFrom	University_of_Allahabad
+S._C._Jamir	graduatedFrom	University_of_Allahabad
+
+http://dbpedia.org/resource/University_of_Mississippi	http://dbpedia.org/ontology/chancellor	http://dbpedia.org/resource/Jeffrey_Vitter
+University_of_Mississippi	Jeffrey_Vitter
+William_David_McCain	graduatedFrom	University_of_Mississippi
+William_David_McCain	graduatedFrom	University_of_Mississippi
+William_David_McCain	graduatedFrom	Duke_University
+William_David_McCain	graduatedFrom	Duke_University
+Jeffrey_Vitter	graduatedFrom	Duke_University
+Jeffrey_Vitter	graduatedFrom	Duke_University
+
+http://dbpedia.org/resource/University_of_Macau	http://dbpedia.org/ontology/chancellor	http://dbpedia.org/resource/Fernando_Chui
+University_of_Macau	Fernando_Chui
+Francis_Tam	graduatedFrom	University_of_Macau
+Francis_Tam	graduatedFrom	University_of_Macau
+Francis_Tam	wasBornIn	Portuguese_Macau
+Francis_Tam	wasBornIn	Portuguese_Macau
+Fernando_Chui	wasBornIn	Portuguese_Macau
+Fernando_Chui	wasBornIn	Portuguese_Macau
+
+http://dbpedia.org/resource/VIT_University	http://dbpedia.org/ontology/chancellor	http://dbpedia.org/resource/G._Viswanathan
+VIT_University	G._Viswanathan
+G._Viswanathan	created	VIT_University
+G._Viswanathan	created	VIT_University
+
+http://dbpedia.org/resource/VIT_University	http://dbpedia.org/ontology/chancellor	http://dbpedia.org/resource/G._Viswanathan
+VIT_University	G._Viswanathan
+VIT_University	isLocatedIn	Vellore
+VIT_University	isLocatedIn	Vellore
+VIT_University	isLocatedIn	Vellore
+VIT_University	isLocatedIn	Vellore
+G._Viswanathan	created	VIT_University
+G._Viswanathan	created	VIT_University
+
+http://dbpedia.org/resource/University_of_Calcutta	http://dbpedia.org/ontology/chancellor	http://dbpedia.org/resource/Keshari_Nath_Tripathi
+University_of_Calcutta	Keshari_Nath_Tripathi
+Madan_Mohan_Malaviya	graduatedFrom	University_of_Calcutta
+Madan_Mohan_Malaviya	graduatedFrom	University_of_Calcutta
+Madan_Mohan_Malaviya	wasBornIn	Allahabad
+Madan_Mohan_Malaviya	wasBornIn	Allahabad
+Keshari_Nath_Tripathi	wasBornIn	Allahabad
+Keshari_Nath_Tripathi	wasBornIn	Allahabad
+

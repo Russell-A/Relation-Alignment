@@ -1,0 +1,36 @@
+http://dbpedia.org/resource/Bartolo_Longo	http://dbpedia.org/ontology/beatifiedPlace	http://dbpedia.org/resource/Rome
+Bartolo_Longo	Rome
+Bartolo_Longo	isCitizenOf	Dominica
+Bartolo_Longo	isCitizenOf	Dominica
+Jacob_Palaeologus	isCitizenOf	Dominica
+Jacob_Palaeologus	isCitizenOf	Dominica
+Jacob_Palaeologus	diedIn	Rome
+Jacob_Palaeologus	diedIn	Rome
+
+http://dbpedia.org/resource/Mary_Magdalene_de'_Pazzi	http://dbpedia.org/ontology/beatifiedPlace	http://dbpedia.org/resource/Rome
+Mary_Magdalene_de'_Pazzi	Rome
+Mary_Magdalene_de'_Pazzi	wasBornIn	Florence
+Mary_Magdalene_de'_Pazzi	wasBornIn	Florence
+Istituto_Europeo_di_Design	isLocatedIn	Florence
+Istituto_Europeo_di_Design	isLocatedIn	Florence
+Istituto_Europeo_di_Design	isLocatedIn	Rome
+Istituto_Europeo_di_Design	isLocatedIn	Rome
+
+http://dbpedia.org/resource/Mary_Magdalene_de'_Pazzi	http://dbpedia.org/ontology/beatifiedPlace	http://dbpedia.org/resource/Rome
+Mary_Magdalene_de'_Pazzi	Rome
+Mary_Magdalene_de'_Pazzi	wasBornIn	Florence
+Mary_Magdalene_de'_Pazzi	wasBornIn	Florence
+The_Stendhal_Syndrome	isLocatedIn	Florence
+The_Stendhal_Syndrome	isLocatedIn	Florence
+The_Stendhal_Syndrome	isLocatedIn	Rome
+The_Stendhal_Syndrome	isLocatedIn	Rome
+
+http://dbpedia.org/resource/Mary_Magdalene_de'_Pazzi	http://dbpedia.org/ontology/beatifiedPlace	http://dbpedia.org/resource/Rome
+Mary_Magdalene_de'_Pazzi	Rome
+Mary_Magdalene_de'_Pazzi	influences	Francisca_Josefa_de_la_Concepción
+Mary_Magdalene_de'_Pazzi	influences	Francisca_Josefa_de_la_Concepción
+Ignatius_of_Loyola	influences	Francisca_Josefa_de_la_Concepción
+Ignatius_of_Loyola	influences	Francisca_Josefa_de_la_Concepción
+Ignatius_of_Loyola	diedIn	Rome
+Ignatius_of_Loyola	diedIn	Rome
+

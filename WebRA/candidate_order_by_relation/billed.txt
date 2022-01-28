@@ -1,0 +1,323 @@
+http://dbpedia.org/resource/Angelo_Poffo	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Chicago
+Angelo_Poffo	Chicago
+Angelo_Poffo	graduatedFrom	DePaul_University
+Angelo_Poffo	graduatedFrom	DePaul_University
+Roderick_Sawyer	graduatedFrom	DePaul_University
+Roderick_Sawyer	graduatedFrom	DePaul_University
+Roderick_Sawyer	livesIn	Chicago
+Roderick_Sawyer	wasBornIn	Chicago
+Roderick_Sawyer	livesIn	Chicago
+Roderick_Sawyer	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Angelo_Poffo	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Chicago
+Angelo_Poffo	Chicago
+Angelo_Poffo	graduatedFrom	DePaul_University
+Angelo_Poffo	graduatedFrom	DePaul_University
+Valya_Dudycz_Lupescu	graduatedFrom	DePaul_University
+Valya_Dudycz_Lupescu	graduatedFrom	DePaul_University
+Valya_Dudycz_Lupescu	wasBornIn	Chicago
+Valya_Dudycz_Lupescu	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Angelo_Poffo	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Chicago
+Angelo_Poffo	Chicago
+Angelo_Poffo	graduatedFrom	DePaul_University
+Angelo_Poffo	graduatedFrom	DePaul_University
+Richard_M._Daley	graduatedFrom	DePaul_University
+Richard_M._Daley	graduatedFrom	DePaul_University
+Richard_M._Daley	wasBornIn	Chicago
+Richard_M._Daley	livesIn	Chicago
+Richard_M._Daley	wasBornIn	Chicago
+Richard_M._Daley	livesIn	Chicago
+
+http://dbpedia.org/resource/Angelo_Poffo	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Chicago
+Angelo_Poffo	Chicago
+Angelo_Poffo	graduatedFrom	DePaul_University
+Angelo_Poffo	graduatedFrom	DePaul_University
+Richard_J._Daley	graduatedFrom	DePaul_University
+Richard_J._Daley	graduatedFrom	DePaul_University
+Richard_J._Daley	diedIn	Chicago
+Richard_J._Daley	wasBornIn	Chicago
+Richard_J._Daley	diedIn	Chicago
+Richard_J._Daley	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Angelo_Poffo	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Chicago
+Angelo_Poffo	Chicago
+Angelo_Poffo	graduatedFrom	DePaul_University
+Angelo_Poffo	graduatedFrom	DePaul_University
+Kwame_Raoul	graduatedFrom	DePaul_University
+Kwame_Raoul	graduatedFrom	DePaul_University
+Kwame_Raoul	wasBornIn	Chicago
+Kwame_Raoul	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Angelo_Poffo	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Chicago
+Angelo_Poffo	Chicago
+Angelo_Poffo	graduatedFrom	DePaul_University
+Angelo_Poffo	graduatedFrom	DePaul_University
+DePaul_University	isLocatedIn	Chicago
+DePaul_University	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Angelo_Poffo	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Chicago
+Angelo_Poffo	Chicago
+Angelo_Poffo	graduatedFrom	DePaul_University
+Angelo_Poffo	graduatedFrom	DePaul_University
+Michael_C._Murphy_(Michigan_politician)	graduatedFrom	DePaul_University
+Michael_C._Murphy_(Michigan_politician)	graduatedFrom	DePaul_University
+Michael_C._Murphy_(Michigan_politician)	wasBornIn	Chicago
+Michael_C._Murphy_(Michigan_politician)	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Angelo_Poffo	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Chicago
+Angelo_Poffo	Chicago
+Angelo_Poffo	graduatedFrom	DePaul_University
+Angelo_Poffo	graduatedFrom	DePaul_University
+Tom_Bosley	graduatedFrom	DePaul_University
+Tom_Bosley	graduatedFrom	DePaul_University
+Tom_Bosley	wasBornIn	Chicago
+Tom_Bosley	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Angelo_Poffo	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Chicago
+Angelo_Poffo	Chicago
+Angelo_Poffo	graduatedFrom	DePaul_University
+Angelo_Poffo	graduatedFrom	DePaul_University
+Latasha_Thomas	graduatedFrom	DePaul_University
+Latasha_Thomas	graduatedFrom	DePaul_University
+Latasha_Thomas	wasBornIn	Chicago
+Latasha_Thomas	livesIn	Chicago
+Latasha_Thomas	wasBornIn	Chicago
+Latasha_Thomas	livesIn	Chicago
+
+http://dbpedia.org/resource/Angelo_Poffo	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Chicago
+Angelo_Poffo	Chicago
+Angelo_Poffo	graduatedFrom	DePaul_University
+Angelo_Poffo	graduatedFrom	DePaul_University
+John_C._Reilly	graduatedFrom	DePaul_University
+John_C._Reilly	graduatedFrom	DePaul_University
+John_C._Reilly	wasBornIn	Chicago
+John_C._Reilly	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Angelo_Poffo	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Chicago
+Angelo_Poffo	Chicago
+Angelo_Poffo	graduatedFrom	DePaul_University
+Angelo_Poffo	graduatedFrom	DePaul_University
+Joe_Moore_(politician)	graduatedFrom	DePaul_University
+Joe_Moore_(politician)	graduatedFrom	DePaul_University
+Joe_Moore_(politician)	wasBornIn	Chicago
+Joe_Moore_(politician)	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Angelo_Poffo	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Chicago
+Angelo_Poffo	Chicago
+Angelo_Poffo	graduatedFrom	DePaul_University
+Angelo_Poffo	graduatedFrom	DePaul_University
+Marty_Block	graduatedFrom	DePaul_University
+Marty_Block	graduatedFrom	DePaul_University
+Marty_Block	wasBornIn	Chicago
+Marty_Block	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Angelo_Poffo	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Chicago
+Angelo_Poffo	Chicago
+Angelo_Poffo	graduatedFrom	DePaul_University
+Angelo_Poffo	graduatedFrom	DePaul_University
+Dave_Heaton_(Wisconsin_politician)	graduatedFrom	DePaul_University
+Dave_Heaton_(Wisconsin_politician)	graduatedFrom	DePaul_University
+Dave_Heaton_(Wisconsin_politician)	wasBornIn	Chicago
+Dave_Heaton_(Wisconsin_politician)	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Angelo_Poffo	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Chicago
+Angelo_Poffo	Chicago
+Angelo_Poffo	graduatedFrom	DePaul_University
+Angelo_Poffo	graduatedFrom	DePaul_University
+Howard_P._Savage	graduatedFrom	DePaul_University
+Howard_P._Savage	graduatedFrom	DePaul_University
+Howard_P._Savage	diedIn	Chicago
+Howard_P._Savage	diedIn	Chicago
+
+http://dbpedia.org/resource/Angelo_Poffo	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Chicago
+Angelo_Poffo	Chicago
+Angelo_Poffo	graduatedFrom	DePaul_University
+Angelo_Poffo	graduatedFrom	DePaul_University
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Bill_Granger_(author)	livesIn	Chicago
+Bill_Granger_(author)	livesIn	Chicago
+
+http://dbpedia.org/resource/Angelo_Poffo	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Chicago
+Angelo_Poffo	Chicago
+Angelo_Poffo	wasBornIn	Downers_Grove,_Illinois
+Angelo_Poffo	wasBornIn	Downers_Grove,_Illinois
+Beatrice_Foods	isLocatedIn	Downers_Grove,_Illinois
+Beatrice_Foods	isLocatedIn	Downers_Grove,_Illinois
+Beatrice_Foods	isLocatedIn	Chicago
+Beatrice_Foods	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Ib_Solvang_Hansen	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Denmark
+Ib_Solvang_Hansen	Denmark
+Ib_Solvang_Hansen	isCitizenOf	Denmark
+Ib_Solvang_Hansen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Ib_Solvang_Hansen	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Denmark
+Ib_Solvang_Hansen	Denmark
+Ib_Solvang_Hansen	wasBornIn	Odense
+Ib_Solvang_Hansen	wasBornIn	Odense
+Caroline_Wozniacki	wasBornIn	Odense
+Caroline_Wozniacki	wasBornIn	Odense
+Caroline_Wozniacki	isCitizenOf	Denmark
+Caroline_Wozniacki	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Ib_Solvang_Hansen	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Denmark
+Ib_Solvang_Hansen	Denmark
+Ib_Solvang_Hansen	wasBornIn	Odense
+Ib_Solvang_Hansen	wasBornIn	Odense
+Trine_Dyrholm	wasBornIn	Odense
+Trine_Dyrholm	wasBornIn	Odense
+Trine_Dyrholm	isCitizenOf	Denmark
+Trine_Dyrholm	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Ib_Solvang_Hansen	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Denmark
+Ib_Solvang_Hansen	Denmark
+Ib_Solvang_Hansen	wasBornIn	Odense
+Ib_Solvang_Hansen	wasBornIn	Odense
+Niels_Helveg_Petersen	wasBornIn	Odense
+Niels_Helveg_Petersen	wasBornIn	Odense
+Niels_Helveg_Petersen	isCitizenOf	Denmark
+Niels_Helveg_Petersen	isPoliticianOf	Denmark
+Niels_Helveg_Petersen	isCitizenOf	Denmark
+Niels_Helveg_Petersen	isPoliticianOf	Denmark
+
+http://dbpedia.org/resource/Ib_Solvang_Hansen	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Denmark
+Ib_Solvang_Hansen	Denmark
+Ib_Solvang_Hansen	wasBornIn	Odense
+Ib_Solvang_Hansen	wasBornIn	Odense
+Ove_Sprogøe	wasBornIn	Odense
+Ove_Sprogøe	wasBornIn	Odense
+Ove_Sprogøe	isCitizenOf	Denmark
+Ove_Sprogøe	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Ib_Solvang_Hansen	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Denmark
+Ib_Solvang_Hansen	Denmark
+Ib_Solvang_Hansen	wasBornIn	Odense
+Ib_Solvang_Hansen	wasBornIn	Odense
+Dan_Petersen	wasBornIn	Odense
+Dan_Petersen	wasBornIn	Odense
+Dan_Petersen	isCitizenOf	Denmark
+Dan_Petersen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Ib_Solvang_Hansen	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Denmark
+Ib_Solvang_Hansen	Denmark
+Ib_Solvang_Hansen	wasBornIn	Odense
+Ib_Solvang_Hansen	wasBornIn	Odense
+Jesper_Christiansen_(footballer,_born_1980)	wasBornIn	Odense
+Jesper_Christiansen_(footballer,_born_1980)	wasBornIn	Odense
+Jesper_Christiansen_(footballer,_born_1980)	isCitizenOf	Denmark
+Jesper_Christiansen_(footballer,_born_1980)	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Ib_Solvang_Hansen	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Denmark
+Ib_Solvang_Hansen	Denmark
+Ib_Solvang_Hansen	wasBornIn	Odense
+Ib_Solvang_Hansen	wasBornIn	Odense
+Claus_Madsen	wasBornIn	Odense
+Claus_Madsen	wasBornIn	Odense
+Claus_Madsen	isCitizenOf	Denmark
+Claus_Madsen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Ib_Solvang_Hansen	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Denmark
+Ib_Solvang_Hansen	Denmark
+Ib_Solvang_Hansen	wasBornIn	Odense
+Ib_Solvang_Hansen	wasBornIn	Odense
+Dines_Bjørner	wasBornIn	Odense
+Dines_Bjørner	wasBornIn	Odense
+Dines_Bjørner	isCitizenOf	Denmark
+Dines_Bjørner	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Ib_Solvang_Hansen	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Denmark
+Ib_Solvang_Hansen	Denmark
+Ib_Solvang_Hansen	wasBornIn	Odense
+Ib_Solvang_Hansen	wasBornIn	Odense
+Line_Hansen	livesIn	Odense
+Line_Hansen	wasBornIn	Odense
+Line_Hansen	livesIn	Odense
+Line_Hansen	wasBornIn	Odense
+Line_Hansen	isCitizenOf	Denmark
+Line_Hansen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Ib_Solvang_Hansen	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Denmark
+Ib_Solvang_Hansen	Denmark
+Ib_Solvang_Hansen	wasBornIn	Odense
+Ib_Solvang_Hansen	wasBornIn	Odense
+Odense	isLocatedIn	Funen
+Odense	isLocatedIn	Funen
+Funen	isLocatedIn	Denmark
+Funen	isLocatedIn	Denmark
+
+http://dbpedia.org/resource/Ib_Solvang_Hansen	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Denmark
+Ib_Solvang_Hansen	Denmark
+Ib_Solvang_Hansen	wasBornIn	Odense
+Ib_Solvang_Hansen	wasBornIn	Odense
+Roald_Poulsen	wasBornIn	Odense
+Roald_Poulsen	wasBornIn	Odense
+Roald_Poulsen	isCitizenOf	Denmark
+Roald_Poulsen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Ib_Solvang_Hansen	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Denmark
+Ib_Solvang_Hansen	Denmark
+Ib_Solvang_Hansen	wasBornIn	Odense
+Ib_Solvang_Hansen	wasBornIn	Odense
+Michael_Pedersen_Friis	wasBornIn	Odense
+Michael_Pedersen_Friis	wasBornIn	Odense
+Michael_Pedersen_Friis	isCitizenOf	Denmark
+Michael_Pedersen_Friis	isPoliticianOf	Denmark
+Michael_Pedersen_Friis	isCitizenOf	Denmark
+Michael_Pedersen_Friis	isPoliticianOf	Denmark
+
+http://dbpedia.org/resource/Ib_Solvang_Hansen	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Denmark
+Ib_Solvang_Hansen	Denmark
+Ib_Solvang_Hansen	wasBornIn	Odense
+Ib_Solvang_Hansen	wasBornIn	Odense
+Lisbeth_Movin	wasBornIn	Odense
+Lisbeth_Movin	wasBornIn	Odense
+Lisbeth_Movin	isCitizenOf	Denmark
+Lisbeth_Movin	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Ib_Solvang_Hansen	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Denmark
+Ib_Solvang_Hansen	Denmark
+Ib_Solvang_Hansen	wasBornIn	Odense
+Ib_Solvang_Hansen	wasBornIn	Odense
+Ulrich_Thomsen	wasBornIn	Odense
+Ulrich_Thomsen	wasBornIn	Odense
+Ulrich_Thomsen	isCitizenOf	Denmark
+Ulrich_Thomsen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Ib_Solvang_Hansen	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Denmark
+Ib_Solvang_Hansen	Denmark
+Ib_Solvang_Hansen	wasBornIn	Odense
+Ib_Solvang_Hansen	wasBornIn	Odense
+Dan_Jørgensen	wasBornIn	Odense
+Dan_Jørgensen	wasBornIn	Odense
+Dan_Jørgensen	isCitizenOf	Denmark
+Dan_Jørgensen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Ib_Solvang_Hansen	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Denmark
+Ib_Solvang_Hansen	Denmark
+Ib_Solvang_Hansen	wasBornIn	Odense
+Ib_Solvang_Hansen	wasBornIn	Odense
+Birgitte_Federspiel	diedIn	Odense
+Birgitte_Federspiel	diedIn	Odense
+Birgitte_Federspiel	isCitizenOf	Denmark
+Birgitte_Federspiel	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Ib_Solvang_Hansen	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Denmark
+Ib_Solvang_Hansen	Denmark
+Ib_Solvang_Hansen	wasBornIn	Odense
+Ib_Solvang_Hansen	wasBornIn	Odense
+Hjalmar_Kjær	diedIn	Odense
+Hjalmar_Kjær	diedIn	Odense
+Hjalmar_Kjær	isCitizenOf	Denmark
+Hjalmar_Kjær	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Ib_Solvang_Hansen	http://dbpedia.org/ontology/billed	http://dbpedia.org/resource/Denmark
+Ib_Solvang_Hansen	Denmark
+Ib_Solvang_Hansen	wasBornIn	Odense
+Ib_Solvang_Hansen	wasBornIn	Odense
+University_College_Lillebaelt	isLocatedIn	Odense
+University_College_Lillebaelt	isLocatedIn	Odense
+University_College_Lillebaelt	isLocatedIn	Denmark
+University_College_Lillebaelt	isLocatedIn	Denmark
+

@@ -1,0 +1,1152 @@
+http://dbpedia.org/resource/Harvard_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/New_England_Patriots
+Harvard_Stadium	New_England_Patriots
+New_England_Patriots	isLocatedIn	Harvard_Stadium
+New_England_Patriots	isLocatedIn	Harvard_Stadium
+
+http://dbpedia.org/resource/Johnny_Unitas_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Towson_University
+Johnny_Unitas_Stadium	Towson_University
+Johnny_Unitas_Stadium	isLocatedIn	Towson,_Maryland
+Johnny_Unitas_Stadium	isLocatedIn	Towson,_Maryland
+Towson_University	isLocatedIn	Towson,_Maryland
+Towson_University	isLocatedIn	Towson,_Maryland
+
+http://dbpedia.org/resource/Johnny_Unitas_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Towson_University
+Johnny_Unitas_Stadium	Towson_University
+Towson_University	owns	Johnny_Unitas_Stadium
+Towson_University	owns	Johnny_Unitas_Stadium
+
+http://dbpedia.org/resource/Johnny_Unitas_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Towson_University
+Johnny_Unitas_Stadium	Towson_University
+Ellerbe_Becket	created	Johnny_Unitas_Stadium
+Ellerbe_Becket	created	Johnny_Unitas_Stadium
+Ellerbe_Becket	created	Johnny_Unitas_Stadium
+Ellerbe_Becket	created	Johnny_Unitas_Stadium
+Towson_University	owns	Johnny_Unitas_Stadium
+Towson_University	owns	Johnny_Unitas_Stadium
+
+http://dbpedia.org/resource/Estádio_do_Dragão	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FC_Porto
+Estádio_do_Dragão	FC_Porto
+Estádio_do_Dragão	isLocatedIn	Porto
+Estádio_do_Dragão	isLocatedIn	Porto
+André_Correia	wasBornIn	Porto
+André_Correia	wasBornIn	Porto
+André_Correia	playsFor	FC_Porto
+André_Correia	isAffiliatedTo	FC_Porto
+André_Correia	playsFor	FC_Porto
+André_Correia	isAffiliatedTo	FC_Porto
+
+http://dbpedia.org/resource/Estádio_do_Dragão	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FC_Porto
+Estádio_do_Dragão	FC_Porto
+Estádio_do_Dragão	isLocatedIn	Porto
+Estádio_do_Dragão	isLocatedIn	Porto
+Ricardo_Emídio_Ramalho_Silva	wasBornIn	Porto
+Ricardo_Emídio_Ramalho_Silva	wasBornIn	Porto
+Ricardo_Emídio_Ramalho_Silva	playsFor	FC_Porto
+Ricardo_Emídio_Ramalho_Silva	isAffiliatedTo	FC_Porto
+Ricardo_Emídio_Ramalho_Silva	playsFor	FC_Porto
+Ricardo_Emídio_Ramalho_Silva	isAffiliatedTo	FC_Porto
+
+http://dbpedia.org/resource/Estádio_do_Dragão	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FC_Porto
+Estádio_do_Dragão	FC_Porto
+Estádio_do_Dragão	isLocatedIn	Porto
+Estádio_do_Dragão	isLocatedIn	Porto
+Acácio_Mesquita	wasBornIn	Porto
+Acácio_Mesquita	wasBornIn	Porto
+Acácio_Mesquita	isAffiliatedTo	FC_Porto
+Acácio_Mesquita	playsFor	FC_Porto
+Acácio_Mesquita	isAffiliatedTo	FC_Porto
+Acácio_Mesquita	playsFor	FC_Porto
+
+http://dbpedia.org/resource/Estádio_do_Dragão	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FC_Porto
+Estádio_do_Dragão	FC_Porto
+Estádio_do_Dragão	isLocatedIn	Porto
+Estádio_do_Dragão	isLocatedIn	Porto
+Jorge_Filipe_Monteiro	wasBornIn	Porto
+Jorge_Filipe_Monteiro	wasBornIn	Porto
+Jorge_Filipe_Monteiro	isAffiliatedTo	FC_Porto
+Jorge_Filipe_Monteiro	playsFor	FC_Porto
+Jorge_Filipe_Monteiro	isAffiliatedTo	FC_Porto
+Jorge_Filipe_Monteiro	playsFor	FC_Porto
+
+http://dbpedia.org/resource/Estádio_do_Dragão	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FC_Porto
+Estádio_do_Dragão	FC_Porto
+FC_Porto	owns	Estádio_do_Dragão
+FC_Porto	owns	Estádio_do_Dragão
+
+http://dbpedia.org/resource/Estadio_Alejandro_Villanueva	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Alianza_Lima
+Estadio_Alejandro_Villanueva	Alianza_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Lima
+Martín_Hidalgo	wasBornIn	Lima
+Martín_Hidalgo	wasBornIn	Lima
+Martín_Hidalgo	playsFor	Alianza_Lima
+Martín_Hidalgo	isAffiliatedTo	Alianza_Lima
+Martín_Hidalgo	playsFor	Alianza_Lima
+Martín_Hidalgo	isAffiliatedTo	Alianza_Lima
+
+http://dbpedia.org/resource/Estadio_Alejandro_Villanueva	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Alianza_Lima
+Estadio_Alejandro_Villanueva	Alianza_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Lima
+Waldir_Sáenz	wasBornIn	Lima
+Waldir_Sáenz	wasBornIn	Lima
+Waldir_Sáenz	playsFor	Alianza_Lima
+Waldir_Sáenz	isAffiliatedTo	Alianza_Lima
+Waldir_Sáenz	playsFor	Alianza_Lima
+Waldir_Sáenz	isAffiliatedTo	Alianza_Lima
+
+http://dbpedia.org/resource/Estadio_Alejandro_Villanueva	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Alianza_Lima
+Estadio_Alejandro_Villanueva	Alianza_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Lima
+Alianza_Lima	isLocatedIn	Lima
+Alianza_Lima	isLocatedIn	Lima
+
+http://dbpedia.org/resource/Estadio_Alejandro_Villanueva	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Alianza_Lima
+Estadio_Alejandro_Villanueva	Alianza_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Lima
+Salomón_Libman	wasBornIn	Lima
+Salomón_Libman	wasBornIn	Lima
+Salomón_Libman	playsFor	Alianza_Lima
+Salomón_Libman	isAffiliatedTo	Alianza_Lima
+Salomón_Libman	playsFor	Alianza_Lima
+Salomón_Libman	isAffiliatedTo	Alianza_Lima
+
+http://dbpedia.org/resource/Estadio_Alejandro_Villanueva	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Alianza_Lima
+Estadio_Alejandro_Villanueva	Alianza_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Lima
+Alejandro_Hohberg	wasBornIn	Lima
+Alejandro_Hohberg	wasBornIn	Lima
+Alejandro_Hohberg	playsFor	Alianza_Lima
+Alejandro_Hohberg	isAffiliatedTo	Alianza_Lima
+Alejandro_Hohberg	playsFor	Alianza_Lima
+Alejandro_Hohberg	isAffiliatedTo	Alianza_Lima
+
+http://dbpedia.org/resource/Estadio_Alejandro_Villanueva	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Alianza_Lima
+Estadio_Alejandro_Villanueva	Alianza_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Peru
+Estadio_Alejandro_Villanueva	isLocatedIn	Peru
+Augusto_Palacios	isCitizenOf	Peru
+Augusto_Palacios	isCitizenOf	Peru
+Augusto_Palacios	isAffiliatedTo	Alianza_Lima
+Augusto_Palacios	playsFor	Alianza_Lima
+Augusto_Palacios	isAffiliatedTo	Alianza_Lima
+Augusto_Palacios	playsFor	Alianza_Lima
+
+http://dbpedia.org/resource/Estadio_Alejandro_Villanueva	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Alianza_Lima
+Estadio_Alejandro_Villanueva	Alianza_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Peru
+Estadio_Alejandro_Villanueva	isLocatedIn	Peru
+Jorge_Sarmiento	isCitizenOf	Peru
+Jorge_Sarmiento	isCitizenOf	Peru
+Jorge_Sarmiento	isAffiliatedTo	Alianza_Lima
+Jorge_Sarmiento	playsFor	Alianza_Lima
+Jorge_Sarmiento	isAffiliatedTo	Alianza_Lima
+Jorge_Sarmiento	playsFor	Alianza_Lima
+
+http://dbpedia.org/resource/Estadio_Alejandro_Villanueva	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Alianza_Lima
+Estadio_Alejandro_Villanueva	Alianza_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	La_Victoria_District,_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	La_Victoria_District,_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	La_Victoria_District,_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	La_Victoria_District,_Lima
+Alianza_Lima	owns	Estadio_Alejandro_Villanueva
+Alianza_Lima	owns	Estadio_Alejandro_Villanueva
+
+http://dbpedia.org/resource/Estadio_Alejandro_Villanueva	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Alianza_Lima
+Estadio_Alejandro_Villanueva	Alianza_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	La_Victoria_District,_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	La_Victoria_District,_Lima
+Johnny_Watson_(footballer)	wasBornIn	La_Victoria_District,_Lima
+Johnny_Watson_(footballer)	wasBornIn	La_Victoria_District,_Lima
+Johnny_Watson_(footballer)	isAffiliatedTo	Alianza_Lima
+Johnny_Watson_(footballer)	playsFor	Alianza_Lima
+Johnny_Watson_(footballer)	isAffiliatedTo	Alianza_Lima
+Johnny_Watson_(footballer)	playsFor	Alianza_Lima
+
+http://dbpedia.org/resource/Estadio_Alejandro_Villanueva	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Alianza_Lima
+Estadio_Alejandro_Villanueva	Alianza_Lima
+Alianza_Lima	owns	Estadio_Alejandro_Villanueva
+Alianza_Lima	owns	Estadio_Alejandro_Villanueva
+
+http://dbpedia.org/resource/Texas_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Dallas_Tornado
+Texas_Stadium	Dallas_Tornado
+Texas_Stadium	isLocatedIn	Irving,_Texas
+Irving,_Texas	owns	Texas_Stadium
+Texas_Stadium	isLocatedIn	Irving,_Texas
+Irving,_Texas	owns	Texas_Stadium
+Irving,_Texas	isLocatedIn	Texas
+Irving,_Texas	isLocatedIn	Texas
+Dallas_Tornado	isLocatedIn	Texas
+Dallas_Tornado	isLocatedIn	Texas
+
+http://dbpedia.org/resource/Tampa_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Tampa_Bay_Rowdies_(1975–93)
+Tampa_Stadium	Tampa_Bay_Rowdies_(1975–93)
+Tampa_Stadium	isLocatedIn	Florida
+Tampa_Stadium	isLocatedIn	Florida
+Tampa,_Florida	isLocatedIn	Florida
+Tampa,_Florida	isLocatedIn	Florida
+Tampa_Bay_Rowdies_(1975–93)	isLocatedIn	Tampa,_Florida
+Tampa_Bay_Rowdies_(1975–93)	isLocatedIn	Tampa,_Florida
+
+http://dbpedia.org/resource/Tampa_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Tampa_Bay_Rowdies_(1975–93)
+Tampa_Stadium	Tampa_Bay_Rowdies_(1975–93)
+Tampa_Stadium	isLocatedIn	Tampa,_Florida
+Tampa_Stadium	isLocatedIn	Tampa,_Florida
+Tampa_Bay_Rowdies_(1975–93)	isLocatedIn	Tampa,_Florida
+Tampa_Bay_Rowdies_(1975–93)	isLocatedIn	Tampa,_Florida
+
+http://dbpedia.org/resource/Tampa_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Tampa_Bay_Rowdies_(1975–93)
+Tampa_Stadium	Tampa_Bay_Rowdies_(1975–93)
+Tampa_Bay_Buccaneers	isLocatedIn	Tampa_Stadium
+Tampa_Bay_Buccaneers	isLocatedIn	Tampa_Stadium
+Tampa_Bay_Buccaneers	isLocatedIn	Tampa,_Florida
+Tampa_Bay_Buccaneers	isLocatedIn	Tampa,_Florida
+Tampa_Bay_Rowdies_(1975–93)	isLocatedIn	Tampa,_Florida
+Tampa_Bay_Rowdies_(1975–93)	isLocatedIn	Tampa,_Florida
+
+http://dbpedia.org/resource/Gillette_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/New_England_Patriots
+Gillette_Stadium	New_England_Patriots
+Gillette_Stadium	isLocatedIn	Foxborough,_Massachusetts
+Gillette_Stadium	isLocatedIn	Foxborough,_Massachusetts
+Foxboro_Stadium	isLocatedIn	Foxborough,_Massachusetts
+Foxboro_Stadium	isLocatedIn	Foxborough,_Massachusetts
+New_England_Patriots	isLocatedIn	Foxboro_Stadium
+New_England_Patriots	owns	Foxboro_Stadium
+New_England_Patriots	isLocatedIn	Foxboro_Stadium
+New_England_Patriots	owns	Foxboro_Stadium
+
+http://dbpedia.org/resource/Gillette_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/New_England_Patriots
+Gillette_Stadium	New_England_Patriots
+Gillette_Stadium	isLocatedIn	Foxborough,_Massachusetts
+Gillette_Stadium	isLocatedIn	Foxborough,_Massachusetts
+Gillette_Stadium	isLocatedIn	Foxborough,_Massachusetts
+Gillette_Stadium	isLocatedIn	Foxborough,_Massachusetts
+New_England_Patriots	isLocatedIn	Gillette_Stadium
+New_England_Patriots	isLocatedIn	Gillette_Stadium
+
+http://dbpedia.org/resource/Gillette_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/New_England_Patriots
+Gillette_Stadium	New_England_Patriots
+Gillette_Stadium	isLocatedIn	Foxborough,_Massachusetts
+Gillette_Stadium	isLocatedIn	Foxborough,_Massachusetts
+New_England_Patriots	isLocatedIn	Foxborough,_Massachusetts
+New_England_Patriots	isLocatedIn	Foxborough,_Massachusetts
+
+http://dbpedia.org/resource/Gillette_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/New_England_Patriots
+Gillette_Stadium	New_England_Patriots
+New_England_Patriots	isLocatedIn	Gillette_Stadium
+New_England_Patriots	isLocatedIn	Gillette_Stadium
+
+http://dbpedia.org/resource/Foxboro_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/New_England_Revolution
+Foxboro_Stadium	New_England_Revolution
+New_England_Patriots	isLocatedIn	Foxboro_Stadium
+New_England_Patriots	owns	Foxboro_Stadium
+New_England_Patriots	isLocatedIn	Foxboro_Stadium
+New_England_Patriots	owns	Foxboro_Stadium
+New_England_Patriots	isLocatedIn	Foxborough,_Massachusetts
+New_England_Patriots	isLocatedIn	Foxborough,_Massachusetts
+New_England_Revolution	isLocatedIn	Foxborough,_Massachusetts
+New_England_Revolution	isLocatedIn	Foxborough,_Massachusetts
+
+http://dbpedia.org/resource/Azersun_Arena	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Qarabağ_FK
+Azersun_Arena	Qarabağ_FK
+Qarabağ_FK	owns	Azersun_Arena
+Qarabağ_FK	owns	Azersun_Arena
+
+http://dbpedia.org/resource/Azersun_Arena	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Qarabağ_FK
+Azersun_Arena	Qarabağ_FK
+Azersun_Arena	isLocatedIn	Azerbaijan
+Azersun_Arena	isLocatedIn	Azerbaijan
+Agil_Mammadov_(footballer,_born_1972)	isCitizenOf	Azerbaijan
+Agil_Mammadov_(footballer,_born_1972)	isCitizenOf	Azerbaijan
+Agil_Mammadov_(footballer,_born_1972)	isAffiliatedTo	Qarabağ_FK
+Agil_Mammadov_(footballer,_born_1972)	playsFor	Qarabağ_FK
+Agil_Mammadov_(footballer,_born_1972)	isAffiliatedTo	Qarabağ_FK
+Agil_Mammadov_(footballer,_born_1972)	playsFor	Qarabağ_FK
+
+http://dbpedia.org/resource/Azersun_Arena	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Qarabağ_FK
+Azersun_Arena	Qarabağ_FK
+Azersun_Arena	isLocatedIn	Azerbaijan
+Azersun_Arena	isLocatedIn	Azerbaijan
+Samir_Abbasov	isCitizenOf	Azerbaijan
+Samir_Abbasov	isCitizenOf	Azerbaijan
+Samir_Abbasov	playsFor	Qarabağ_FK
+Samir_Abbasov	isAffiliatedTo	Qarabağ_FK
+Samir_Abbasov	playsFor	Qarabağ_FK
+Samir_Abbasov	isAffiliatedTo	Qarabağ_FK
+
+http://dbpedia.org/resource/Azersun_Arena	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Qarabağ_FK
+Azersun_Arena	Qarabağ_FK
+Azersun_Arena	isLocatedIn	Azerbaijan
+Azersun_Arena	isLocatedIn	Azerbaijan
+Afran_Ismayilov	isCitizenOf	Azerbaijan
+Afran_Ismayilov	isCitizenOf	Azerbaijan
+Afran_Ismayilov	playsFor	Qarabağ_FK
+Afran_Ismayilov	isAffiliatedTo	Qarabağ_FK
+Afran_Ismayilov	playsFor	Qarabağ_FK
+Afran_Ismayilov	isAffiliatedTo	Qarabağ_FK
+
+http://dbpedia.org/resource/Azersun_Arena	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Qarabağ_FK
+Azersun_Arena	Qarabağ_FK
+Azersun_Arena	isLocatedIn	Azerbaijan
+Azersun_Arena	isLocatedIn	Azerbaijan
+Farid_Guliyev	isCitizenOf	Azerbaijan
+Farid_Guliyev	isCitizenOf	Azerbaijan
+Farid_Guliyev	playsFor	Qarabağ_FK
+Farid_Guliyev	isAffiliatedTo	Qarabağ_FK
+Farid_Guliyev	playsFor	Qarabağ_FK
+Farid_Guliyev	isAffiliatedTo	Qarabağ_FK
+
+http://dbpedia.org/resource/Azersun_Arena	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Qarabağ_FK
+Azersun_Arena	Qarabağ_FK
+Azersun_Arena	isLocatedIn	Azerbaijan
+Azersun_Arena	isLocatedIn	Azerbaijan
+Bakhtiyar_Musayev	isCitizenOf	Azerbaijan
+Bakhtiyar_Musayev	isCitizenOf	Azerbaijan
+Bakhtiyar_Musayev	isAffiliatedTo	Qarabağ_FK
+Bakhtiyar_Musayev	playsFor	Qarabağ_FK
+Bakhtiyar_Musayev	isAffiliatedTo	Qarabağ_FK
+Bakhtiyar_Musayev	playsFor	Qarabağ_FK
+
+http://dbpedia.org/resource/Azersun_Arena	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Qarabağ_FK
+Azersun_Arena	Qarabağ_FK
+Azersun_Arena	isLocatedIn	Azerbaijan
+Azersun_Arena	isLocatedIn	Azerbaijan
+Elvin_Yunuszade	isCitizenOf	Azerbaijan
+Elvin_Yunuszade	isCitizenOf	Azerbaijan
+Elvin_Yunuszade	isAffiliatedTo	Qarabağ_FK
+Elvin_Yunuszade	playsFor	Qarabağ_FK
+Elvin_Yunuszade	isAffiliatedTo	Qarabağ_FK
+Elvin_Yunuszade	playsFor	Qarabağ_FK
+
+http://dbpedia.org/resource/Azersun_Arena	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Qarabağ_FK
+Azersun_Arena	Qarabağ_FK
+Azersun_Arena	isLocatedIn	Yeni_Suraxanı
+Azersun_Arena	isLocatedIn	Yeni_Suraxanı
+Azersun_Arena	isLocatedIn	Yeni_Suraxanı
+Azersun_Arena	isLocatedIn	Yeni_Suraxanı
+Qarabağ_FK	owns	Azersun_Arena
+Qarabağ_FK	owns	Azersun_Arena
+
+http://dbpedia.org/resource/San_Marino_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/San_Marino_Calcio
+San_Marino_Stadium	San_Marino_Calcio
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+Davide_Marchini	isCitizenOf	San_Marino
+Davide_Marchini	isCitizenOf	San_Marino
+Davide_Marchini	playsFor	San_Marino_Calcio
+Davide_Marchini	isAffiliatedTo	San_Marino_Calcio
+Davide_Marchini	playsFor	San_Marino_Calcio
+Davide_Marchini	isAffiliatedTo	San_Marino_Calcio
+
+http://dbpedia.org/resource/San_Marino_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/San_Marino_Calcio
+San_Marino_Stadium	San_Marino_Calcio
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+Federico_Capece	isCitizenOf	San_Marino
+Federico_Capece	isCitizenOf	San_Marino
+Federico_Capece	playsFor	San_Marino_Calcio
+Federico_Capece	isAffiliatedTo	San_Marino_Calcio
+Federico_Capece	playsFor	San_Marino_Calcio
+Federico_Capece	isAffiliatedTo	San_Marino_Calcio
+
+http://dbpedia.org/resource/San_Marino_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/San_Marino_Calcio
+San_Marino_Stadium	San_Marino_Calcio
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+Nicola_Napolitano_(footballer)	isCitizenOf	San_Marino
+Nicola_Napolitano_(footballer)	isCitizenOf	San_Marino
+Nicola_Napolitano_(footballer)	playsFor	San_Marino_Calcio
+Nicola_Napolitano_(footballer)	isAffiliatedTo	San_Marino_Calcio
+Nicola_Napolitano_(footballer)	playsFor	San_Marino_Calcio
+Nicola_Napolitano_(footballer)	isAffiliatedTo	San_Marino_Calcio
+
+http://dbpedia.org/resource/San_Marino_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/San_Marino_Calcio
+San_Marino_Stadium	San_Marino_Calcio
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+Luca_Ceccarelli_(footballer,_born_in_Gambettola)	isCitizenOf	San_Marino
+Luca_Ceccarelli_(footballer,_born_in_Gambettola)	isCitizenOf	San_Marino
+Luca_Ceccarelli_(footballer,_born_in_Gambettola)	isAffiliatedTo	San_Marino_Calcio
+Luca_Ceccarelli_(footballer,_born_in_Gambettola)	playsFor	San_Marino_Calcio
+Luca_Ceccarelli_(footballer,_born_in_Gambettola)	isAffiliatedTo	San_Marino_Calcio
+Luca_Ceccarelli_(footballer,_born_in_Gambettola)	playsFor	San_Marino_Calcio
+
+http://dbpedia.org/resource/San_Marino_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/San_Marino_Calcio
+San_Marino_Stadium	San_Marino_Calcio
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+Juan_Cruz_Armada	isCitizenOf	San_Marino
+Juan_Cruz_Armada	isCitizenOf	San_Marino
+Juan_Cruz_Armada	playsFor	San_Marino_Calcio
+Juan_Cruz_Armada	isAffiliatedTo	San_Marino_Calcio
+Juan_Cruz_Armada	playsFor	San_Marino_Calcio
+Juan_Cruz_Armada	isAffiliatedTo	San_Marino_Calcio
+
+http://dbpedia.org/resource/San_Marino_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/San_Marino_Calcio
+San_Marino_Stadium	San_Marino_Calcio
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+Andrea_Bracaletti	isCitizenOf	San_Marino
+Andrea_Bracaletti	isCitizenOf	San_Marino
+Andrea_Bracaletti	isAffiliatedTo	San_Marino_Calcio
+Andrea_Bracaletti	playsFor	San_Marino_Calcio
+Andrea_Bracaletti	isAffiliatedTo	San_Marino_Calcio
+Andrea_Bracaletti	playsFor	San_Marino_Calcio
+
+http://dbpedia.org/resource/San_Marino_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/San_Marino_Calcio
+San_Marino_Stadium	San_Marino_Calcio
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+Alessio_Cossu	isCitizenOf	San_Marino
+Alessio_Cossu	isCitizenOf	San_Marino
+Alessio_Cossu	isAffiliatedTo	San_Marino_Calcio
+Alessio_Cossu	playsFor	San_Marino_Calcio
+Alessio_Cossu	isAffiliatedTo	San_Marino_Calcio
+Alessio_Cossu	playsFor	San_Marino_Calcio
+
+http://dbpedia.org/resource/San_Marino_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/San_Marino_Calcio
+San_Marino_Stadium	San_Marino_Calcio
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+Milan_Đurić	isCitizenOf	San_Marino
+Milan_Đurić	isCitizenOf	San_Marino
+Milan_Đurić	isAffiliatedTo	San_Marino_Calcio
+Milan_Đurić	playsFor	San_Marino_Calcio
+Milan_Đurić	isAffiliatedTo	San_Marino_Calcio
+Milan_Đurić	playsFor	San_Marino_Calcio
+
+http://dbpedia.org/resource/San_Marino_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/San_Marino_Calcio
+San_Marino_Stadium	San_Marino_Calcio
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+Aldo_Junior_Simoncini	isCitizenOf	San_Marino
+Aldo_Junior_Simoncini	isCitizenOf	San_Marino
+Aldo_Junior_Simoncini	playsFor	San_Marino_Calcio
+Aldo_Junior_Simoncini	isAffiliatedTo	San_Marino_Calcio
+Aldo_Junior_Simoncini	playsFor	San_Marino_Calcio
+Aldo_Junior_Simoncini	isAffiliatedTo	San_Marino_Calcio
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+Estadio_Victor_Della_Valle	isLocatedIn	Uruguay
+Estadio_Victor_Della_Valle	isLocatedIn	Uruguay
+Alejandro_Mello	isCitizenOf	Uruguay
+Alejandro_Mello	isCitizenOf	Uruguay
+Alejandro_Mello	isAffiliatedTo	El_Tanque_Sisley
+Alejandro_Mello	playsFor	El_Tanque_Sisley
+Alejandro_Mello	isAffiliatedTo	El_Tanque_Sisley
+Alejandro_Mello	playsFor	El_Tanque_Sisley
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+Estadio_Victor_Della_Valle	isLocatedIn	Uruguay
+Estadio_Victor_Della_Valle	isLocatedIn	Uruguay
+Sebastián_Gaitán	isCitizenOf	Uruguay
+Sebastián_Gaitán	isCitizenOf	Uruguay
+Sebastián_Gaitán	playsFor	El_Tanque_Sisley
+Sebastián_Gaitán	isAffiliatedTo	El_Tanque_Sisley
+Sebastián_Gaitán	playsFor	El_Tanque_Sisley
+Sebastián_Gaitán	isAffiliatedTo	El_Tanque_Sisley
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+Estadio_Victor_Della_Valle	isLocatedIn	Uruguay
+Estadio_Victor_Della_Valle	isLocatedIn	Uruguay
+Leandro_Ezquerra	isCitizenOf	Uruguay
+Leandro_Ezquerra	wasBornIn	Uruguay
+Leandro_Ezquerra	isCitizenOf	Uruguay
+Leandro_Ezquerra	wasBornIn	Uruguay
+Leandro_Ezquerra	isAffiliatedTo	El_Tanque_Sisley
+Leandro_Ezquerra	playsFor	El_Tanque_Sisley
+Leandro_Ezquerra	isAffiliatedTo	El_Tanque_Sisley
+Leandro_Ezquerra	playsFor	El_Tanque_Sisley
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+Estadio_Victor_Della_Valle	isLocatedIn	Uruguay
+Estadio_Victor_Della_Valle	isLocatedIn	Uruguay
+Iván_Pailós	isCitizenOf	Uruguay
+Iván_Pailós	isCitizenOf	Uruguay
+Iván_Pailós	playsFor	El_Tanque_Sisley
+Iván_Pailós	isAffiliatedTo	El_Tanque_Sisley
+Iván_Pailós	playsFor	El_Tanque_Sisley
+Iván_Pailós	isAffiliatedTo	El_Tanque_Sisley
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+Estadio_Victor_Della_Valle	isLocatedIn	Uruguay
+Estadio_Victor_Della_Valle	isLocatedIn	Uruguay
+Hugo_Guerra	isCitizenOf	Uruguay
+Hugo_Guerra	isCitizenOf	Uruguay
+Hugo_Guerra	playsFor	El_Tanque_Sisley
+Hugo_Guerra	isAffiliatedTo	El_Tanque_Sisley
+Hugo_Guerra	playsFor	El_Tanque_Sisley
+Hugo_Guerra	isAffiliatedTo	El_Tanque_Sisley
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+El_Tanque_Sisley	owns	Estadio_Victor_Della_Valle
+El_Tanque_Sisley	owns	Estadio_Victor_Della_Valle
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+Estadio_Victor_Della_Valle	isLocatedIn	Carrasco,_Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Carrasco,_Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Carrasco,_Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Carrasco,_Montevideo
+El_Tanque_Sisley	owns	Estadio_Victor_Della_Valle
+El_Tanque_Sisley	owns	Estadio_Victor_Della_Valle
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+El_Tanque_Sisley	owns	Estadio_Victor_Della_Valle
+El_Tanque_Sisley	owns	Estadio_Victor_Della_Valle
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Sebastián_Gaitán	wasBornIn	Montevideo
+Sebastián_Gaitán	wasBornIn	Montevideo
+Sebastián_Gaitán	playsFor	El_Tanque_Sisley
+Sebastián_Gaitán	isAffiliatedTo	El_Tanque_Sisley
+Sebastián_Gaitán	playsFor	El_Tanque_Sisley
+Sebastián_Gaitán	isAffiliatedTo	El_Tanque_Sisley
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Juan_Toya	wasBornIn	Montevideo
+Juan_Toya	wasBornIn	Montevideo
+Juan_Toya	isAffiliatedTo	El_Tanque_Sisley
+Juan_Toya	playsFor	El_Tanque_Sisley
+Juan_Toya	isAffiliatedTo	El_Tanque_Sisley
+Juan_Toya	playsFor	El_Tanque_Sisley
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Alejandro_Mello	wasBornIn	Montevideo
+Alejandro_Mello	wasBornIn	Montevideo
+Alejandro_Mello	isAffiliatedTo	El_Tanque_Sisley
+Alejandro_Mello	playsFor	El_Tanque_Sisley
+Alejandro_Mello	isAffiliatedTo	El_Tanque_Sisley
+Alejandro_Mello	playsFor	El_Tanque_Sisley
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Julio_Ferrón	wasBornIn	Montevideo
+Julio_Ferrón	wasBornIn	Montevideo
+Julio_Ferrón	playsFor	El_Tanque_Sisley
+Julio_Ferrón	isAffiliatedTo	El_Tanque_Sisley
+Julio_Ferrón	playsFor	El_Tanque_Sisley
+Julio_Ferrón	isAffiliatedTo	El_Tanque_Sisley
+
+http://dbpedia.org/resource/Scottrade_Center	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Saint_Louis_University
+Scottrade_Center	Saint_Louis_University
+Scottrade_Center	isLocatedIn	Missouri
+Scottrade_Center	isLocatedIn	Missouri
+George_A._Killenberg	livesIn	Missouri
+George_A._Killenberg	livesIn	Missouri
+George_A._Killenberg	graduatedFrom	Saint_Louis_University
+George_A._Killenberg	graduatedFrom	Saint_Louis_University
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Zoran_Švonja	wasBornIn	Novi_Sad
+Zoran_Švonja	wasBornIn	Novi_Sad
+Zoran_Švonja	isAffiliatedTo	FK_Vojvodina
+Zoran_Švonja	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Jovo_Bosančić	wasBornIn	Novi_Sad
+Jovo_Bosančić	wasBornIn	Novi_Sad
+Jovo_Bosančić	isAffiliatedTo	FK_Vojvodina
+Jovo_Bosančić	playsFor	FK_Vojvodina
+Jovo_Bosančić	isAffiliatedTo	FK_Vojvodina
+Jovo_Bosančić	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+FK_Vojvodina	isLocatedIn	Novi_Sad
+FK_Vojvodina	isLocatedIn	Novi_Sad
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Nemanja_Čović	wasBornIn	Novi_Sad
+Nemanja_Čović	wasBornIn	Novi_Sad
+Nemanja_Čović	playsFor	FK_Vojvodina
+Nemanja_Čović	isAffiliatedTo	FK_Vojvodina
+Nemanja_Čović	playsFor	FK_Vojvodina
+Nemanja_Čović	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Janko_Sanković	wasBornIn	Novi_Sad
+Janko_Sanković	wasBornIn	Novi_Sad
+Janko_Sanković	playsFor	FK_Vojvodina
+Janko_Sanković	isAffiliatedTo	FK_Vojvodina
+Janko_Sanković	playsFor	FK_Vojvodina
+Janko_Sanković	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Vojo_Ubiparip	wasBornIn	Novi_Sad
+Vojo_Ubiparip	wasBornIn	Novi_Sad
+Vojo_Ubiparip	playsFor	FK_Vojvodina
+Vojo_Ubiparip	isAffiliatedTo	FK_Vojvodina
+Vojo_Ubiparip	playsFor	FK_Vojvodina
+Vojo_Ubiparip	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Milan_Spremo	wasBornIn	Novi_Sad
+Milan_Spremo	wasBornIn	Novi_Sad
+Milan_Spremo	playsFor	FK_Vojvodina
+Milan_Spremo	isAffiliatedTo	FK_Vojvodina
+Milan_Spremo	playsFor	FK_Vojvodina
+Milan_Spremo	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Nino_Pekarić	wasBornIn	Novi_Sad
+Nino_Pekarić	wasBornIn	Novi_Sad
+Nino_Pekarić	isAffiliatedTo	FK_Vojvodina
+Nino_Pekarić	playsFor	FK_Vojvodina
+Nino_Pekarić	isAffiliatedTo	FK_Vojvodina
+Nino_Pekarić	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Vojin_Prole	wasBornIn	Novi_Sad
+Vojin_Prole	wasBornIn	Novi_Sad
+Vojin_Prole	playsFor	FK_Vojvodina
+Vojin_Prole	isAffiliatedTo	FK_Vojvodina
+Vojin_Prole	playsFor	FK_Vojvodina
+Vojin_Prole	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Petar_Nikezić	diedIn	Novi_Sad
+Petar_Nikezić	diedIn	Novi_Sad
+Petar_Nikezić	playsFor	FK_Vojvodina
+Petar_Nikezić	isAffiliatedTo	FK_Vojvodina
+Petar_Nikezić	playsFor	FK_Vojvodina
+Petar_Nikezić	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Todor_Veselinović	wasBornIn	Novi_Sad
+Todor_Veselinović	wasBornIn	Novi_Sad
+Todor_Veselinović	isAffiliatedTo	FK_Vojvodina
+Todor_Veselinović	playsFor	FK_Vojvodina
+Todor_Veselinović	isAffiliatedTo	FK_Vojvodina
+Todor_Veselinović	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Slaviša_Jokanović	wasBornIn	Novi_Sad
+Slaviša_Jokanović	wasBornIn	Novi_Sad
+Slaviša_Jokanović	isAffiliatedTo	FK_Vojvodina
+Slaviša_Jokanović	playsFor	FK_Vojvodina
+Slaviša_Jokanović	isAffiliatedTo	FK_Vojvodina
+Slaviša_Jokanović	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Vuk_Mitošević	wasBornIn	Novi_Sad
+Vuk_Mitošević	wasBornIn	Novi_Sad
+Vuk_Mitošević	isAffiliatedTo	FK_Vojvodina
+Vuk_Mitošević	playsFor	FK_Vojvodina
+Vuk_Mitošević	isAffiliatedTo	FK_Vojvodina
+Vuk_Mitošević	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Dušan_Mićić	wasBornIn	Novi_Sad
+Dušan_Mićić	wasBornIn	Novi_Sad
+Dušan_Mićić	isAffiliatedTo	FK_Vojvodina
+Dušan_Mićić	playsFor	FK_Vojvodina
+Dušan_Mićić	isAffiliatedTo	FK_Vojvodina
+Dušan_Mićić	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+FK_Vojvodina	owns	Karađorđe_Stadium
+FK_Vojvodina	owns	Karađorđe_Stadium
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Vujadin_Boškov	diedIn	Novi_Sad
+Vujadin_Boškov	diedIn	Novi_Sad
+Vujadin_Boškov	playsFor	FK_Vojvodina
+Vujadin_Boškov	isAffiliatedTo	FK_Vojvodina
+Vujadin_Boškov	playsFor	FK_Vojvodina
+Vujadin_Boškov	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Saša_Savić	wasBornIn	Novi_Sad
+Saša_Savić	wasBornIn	Novi_Sad
+Saša_Savić	isAffiliatedTo	FK_Vojvodina
+Saša_Savić	playsFor	FK_Vojvodina
+Saša_Savić	isAffiliatedTo	FK_Vojvodina
+Saša_Savić	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Ljubiša_Vukelja	wasBornIn	Novi_Sad
+Ljubiša_Vukelja	wasBornIn	Novi_Sad
+Ljubiša_Vukelja	isAffiliatedTo	FK_Vojvodina
+Ljubiša_Vukelja	playsFor	FK_Vojvodina
+Ljubiša_Vukelja	isAffiliatedTo	FK_Vojvodina
+Ljubiša_Vukelja	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Žarko_Nikolić	diedIn	Novi_Sad
+Žarko_Nikolić	wasBornIn	Novi_Sad
+Žarko_Nikolić	diedIn	Novi_Sad
+Žarko_Nikolić	wasBornIn	Novi_Sad
+Žarko_Nikolić	playsFor	FK_Vojvodina
+Žarko_Nikolić	isAffiliatedTo	FK_Vojvodina
+Žarko_Nikolić	playsFor	FK_Vojvodina
+Žarko_Nikolić	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Ivica_Brzić	diedIn	Novi_Sad
+Ivica_Brzić	wasBornIn	Novi_Sad
+Ivica_Brzić	diedIn	Novi_Sad
+Ivica_Brzić	wasBornIn	Novi_Sad
+Ivica_Brzić	playsFor	FK_Vojvodina
+Ivica_Brzić	isAffiliatedTo	FK_Vojvodina
+Ivica_Brzić	playsFor	FK_Vojvodina
+Ivica_Brzić	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Mario_Maslać	wasBornIn	Novi_Sad
+Mario_Maslać	wasBornIn	Novi_Sad
+Mario_Maslać	playsFor	FK_Vojvodina
+Mario_Maslać	isAffiliatedTo	FK_Vojvodina
+Mario_Maslać	playsFor	FK_Vojvodina
+Mario_Maslać	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+FK_Vojvodina	owns	Karađorđe_Stadium
+FK_Vojvodina	owns	Karađorđe_Stadium
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Vojvodina
+Karađorđe_Stadium	isLocatedIn	Vojvodina
+Novi_Sad	isLocatedIn	Vojvodina
+Vojvodina	hasCapital	Novi_Sad
+Novi_Sad	isLocatedIn	Vojvodina
+Vojvodina	hasCapital	Novi_Sad
+FK_Vojvodina	isLocatedIn	Novi_Sad
+FK_Vojvodina	isLocatedIn	Novi_Sad
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Vojvodina
+Karađorđe_Stadium	isLocatedIn	Vojvodina
+Karađorđe_Stadium	isLocatedIn	Vojvodina
+Karađorđe_Stadium	isLocatedIn	Vojvodina
+FK_Vojvodina	owns	Karađorđe_Stadium
+FK_Vojvodina	owns	Karađorđe_Stadium
+
+http://dbpedia.org/resource/Tampa_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Tampa_Bay_Buccaneers
+Tampa_Stadium	Tampa_Bay_Buccaneers
+Tampa_Bay_Buccaneers	isLocatedIn	Tampa_Stadium
+Tampa_Bay_Buccaneers	isLocatedIn	Tampa_Stadium
+
+http://dbpedia.org/resource/Estadio_Sergio_León_Chávez	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Irapuato_F.C.
+Estadio_Sergio_León_Chávez	Irapuato_F.C.
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Irapuato_F.C.	owns	Estadio_Sergio_León_Chávez
+Irapuato_F.C.	owns	Estadio_Sergio_León_Chávez
+
+http://dbpedia.org/resource/Estadio_Sergio_León_Chávez	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Irapuato_F.C.
+Estadio_Sergio_León_Chávez	Irapuato_F.C.
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Jaime_Belmonte	diedIn	Irapuato
+Jaime_Belmonte	diedIn	Irapuato
+Jaime_Belmonte	isAffiliatedTo	Irapuato_F.C.
+Jaime_Belmonte	playsFor	Irapuato_F.C.
+Jaime_Belmonte	isAffiliatedTo	Irapuato_F.C.
+Jaime_Belmonte	playsFor	Irapuato_F.C.
+
+http://dbpedia.org/resource/Estadio_Sergio_León_Chávez	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Irapuato_F.C.
+Estadio_Sergio_León_Chávez	Irapuato_F.C.
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Irapuato_F.C.	isLocatedIn	Irapuato
+Irapuato_F.C.	isLocatedIn	Irapuato
+
+http://dbpedia.org/resource/Estadio_Sergio_León_Chávez	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Irapuato_F.C.
+Estadio_Sergio_León_Chávez	Irapuato_F.C.
+Irapuato_F.C.	owns	Estadio_Sergio_León_Chávez
+Irapuato_F.C.	owns	Estadio_Sergio_León_Chávez
+
+http://dbpedia.org/resource/Foxboro_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/New_England_Patriots
+Foxboro_Stadium	New_England_Patriots
+New_England_Patriots	isLocatedIn	Foxboro_Stadium
+New_England_Patriots	owns	Foxboro_Stadium
+New_England_Patriots	isLocatedIn	Foxboro_Stadium
+New_England_Patriots	owns	Foxboro_Stadium
+
+http://dbpedia.org/resource/Texas_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Dallas_Mavericks
+Texas_Stadium	Dallas_Mavericks
+Texas_Stadium	isLocatedIn	Irving,_Texas
+Irving,_Texas	owns	Texas_Stadium
+Texas_Stadium	isLocatedIn	Irving,_Texas
+Irving,_Texas	owns	Texas_Stadium
+Irving,_Texas	isLocatedIn	Texas
+Irving,_Texas	isLocatedIn	Texas
+Dallas_Mavericks	isLocatedIn	Texas
+Dallas_Mavericks	isLocatedIn	Texas
+
+http://dbpedia.org/resource/The_Palace_of_Auburn_Hills	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Detroit_Pistons
+The_Palace_of_Auburn_Hills	Detroit_Pistons
+The_Palace_of_Auburn_Hills	isLocatedIn	Michigan
+The_Palace_of_Auburn_Hills	isLocatedIn	Michigan
+Auburn_Hills,_Michigan	isLocatedIn	Michigan
+Auburn_Hills,_Michigan	isLocatedIn	Michigan
+Detroit_Pistons	isLocatedIn	Auburn_Hills,_Michigan
+Detroit_Pistons	isLocatedIn	Auburn_Hills,_Michigan
+
+http://dbpedia.org/resource/The_Palace_of_Auburn_Hills	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Detroit_Pistons
+The_Palace_of_Auburn_Hills	Detroit_Pistons
+The_Palace_of_Auburn_Hills	isLocatedIn	Michigan
+The_Palace_of_Auburn_Hills	isLocatedIn	Michigan
+Detroit_Pistons	isLocatedIn	Michigan
+Detroit_Pistons	isLocatedIn	Michigan
+
+http://dbpedia.org/resource/The_Palace_of_Auburn_Hills	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Detroit_Pistons
+The_Palace_of_Auburn_Hills	Detroit_Pistons
+Tom_Gores	owns	The_Palace_of_Auburn_Hills
+Tom_Gores	owns	The_Palace_of_Auburn_Hills
+Tom_Gores	owns	Detroit_Pistons
+Tom_Gores	owns	Detroit_Pistons
+
+http://dbpedia.org/resource/The_Palace_of_Auburn_Hills	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Detroit_Pistons
+The_Palace_of_Auburn_Hills	Detroit_Pistons
+The_Palace_of_Auburn_Hills	isLocatedIn	Auburn_Hills,_Michigan
+The_Palace_of_Auburn_Hills	isLocatedIn	Auburn_Hills,_Michigan
+Auburn_Hills,_Michigan	isLocatedIn	Michigan
+Auburn_Hills,_Michigan	isLocatedIn	Michigan
+Detroit_Pistons	isLocatedIn	Michigan
+Detroit_Pistons	isLocatedIn	Michigan
+
+http://dbpedia.org/resource/The_Palace_of_Auburn_Hills	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Detroit_Pistons
+The_Palace_of_Auburn_Hills	Detroit_Pistons
+The_Palace_of_Auburn_Hills	isLocatedIn	Auburn_Hills,_Michigan
+The_Palace_of_Auburn_Hills	isLocatedIn	Auburn_Hills,_Michigan
+Detroit_Pistons	isLocatedIn	Auburn_Hills,_Michigan
+Detroit_Pistons	isLocatedIn	Auburn_Hills,_Michigan
+
+http://dbpedia.org/resource/Gillette_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/New_England_Revolution
+Gillette_Stadium	New_England_Revolution
+Gillette_Stadium	isLocatedIn	Foxborough,_Massachusetts
+Gillette_Stadium	isLocatedIn	Foxborough,_Massachusetts
+New_England_Revolution	isLocatedIn	Foxborough,_Massachusetts
+New_England_Revolution	isLocatedIn	Foxborough,_Massachusetts
+
+http://dbpedia.org/resource/Gillette_Stadium	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/New_England_Revolution
+Gillette_Stadium	New_England_Revolution
+New_England_Patriots	isLocatedIn	Gillette_Stadium
+New_England_Patriots	isLocatedIn	Gillette_Stadium
+New_England_Patriots	isLocatedIn	Foxborough,_Massachusetts
+New_England_Patriots	isLocatedIn	Foxborough,_Massachusetts
+New_England_Revolution	isLocatedIn	Foxborough,_Massachusetts
+New_England_Revolution	isLocatedIn	Foxborough,_Massachusetts
+
+http://dbpedia.org/resource/Cotton_Bowl_(stadium)	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Dallas_Tornado
+Cotton_Bowl_(stadium)	Dallas_Tornado
+Dallas_Cowboys	isLocatedIn	Cotton_Bowl_(stadium)
+Dallas_Cowboys	isLocatedIn	Cotton_Bowl_(stadium)
+Dallas_Cowboys	isLocatedIn	Texas
+Dallas_Cowboys	isLocatedIn	Texas
+Dallas_Tornado	isLocatedIn	Texas
+Dallas_Tornado	isLocatedIn	Texas
+
+http://dbpedia.org/resource/Cotton_Bowl_(stadium)	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Dallas_Tornado
+Cotton_Bowl_(stadium)	Dallas_Tornado
+Dallas_Cowboys	isLocatedIn	Cotton_Bowl_(stadium)
+Dallas_Cowboys	isLocatedIn	Cotton_Bowl_(stadium)
+Dallas_Cowboys	isLocatedIn	Arlington,_Texas
+Dallas_Cowboys	isLocatedIn	Arlington,_Texas
+Dallas_Tornado	isLocatedIn	Arlington,_Texas
+Dallas_Tornado	isLocatedIn	Arlington,_Texas
+
+http://dbpedia.org/resource/IWireless_Center	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Quad_City_Thunder
+IWireless_Center	Quad_City_Thunder
+IWireless_Center	isLocatedIn	Rock_Island_County,_Illinois
+IWireless_Center	isLocatedIn	Rock_Island_County,_Illinois
+Moline,_Illinois	isLocatedIn	Rock_Island_County,_Illinois
+Moline,_Illinois	isLocatedIn	Rock_Island_County,_Illinois
+Quad_City_Thunder	isLocatedIn	Moline,_Illinois
+Quad_City_Thunder	isLocatedIn	Moline,_Illinois
+
+http://dbpedia.org/resource/IWireless_Center	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Quad_City_Thunder
+IWireless_Center	Quad_City_Thunder
+IWireless_Center	isLocatedIn	Moline,_Illinois
+IWireless_Center	isLocatedIn	Moline,_Illinois
+Quad_City_Thunder	isLocatedIn	Moline,_Illinois
+Quad_City_Thunder	isLocatedIn	Moline,_Illinois
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Rónald_Chaves	isCitizenOf	Costa_Rica
+Rónald_Chaves	isCitizenOf	Costa_Rica
+Rónald_Chaves	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Rónald_Chaves	playsFor	Liga_Deportiva_Alajuelense
+Rónald_Chaves	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Rónald_Chaves	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Giancarlo_González	isCitizenOf	Costa_Rica
+Giancarlo_González	isCitizenOf	Costa_Rica
+Giancarlo_González	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Giancarlo_González	playsFor	Liga_Deportiva_Alajuelense
+Giancarlo_González	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Giancarlo_González	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Pablo_Salazar	isCitizenOf	Costa_Rica
+Pablo_Salazar	isCitizenOf	Costa_Rica
+Pablo_Salazar	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Pablo_Salazar	playsFor	Liga_Deportiva_Alajuelense
+Pablo_Salazar	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Pablo_Salazar	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Luis_Diego_Arnáez	isCitizenOf	Costa_Rica
+Luis_Diego_Arnáez	isCitizenOf	Costa_Rica
+Luis_Diego_Arnáez	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Luis_Diego_Arnáez	playsFor	Liga_Deportiva_Alajuelense
+Luis_Diego_Arnáez	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Luis_Diego_Arnáez	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Marvin_Rodríguez	isCitizenOf	Costa_Rica
+Marvin_Rodríguez	isCitizenOf	Costa_Rica
+Marvin_Rodríguez	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Marvin_Rodríguez	playsFor	Liga_Deportiva_Alajuelense
+Marvin_Rodríguez	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Marvin_Rodríguez	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Daniel_Juárez	isCitizenOf	Costa_Rica
+Daniel_Juárez	isCitizenOf	Costa_Rica
+Daniel_Juárez	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Daniel_Juárez	playsFor	Liga_Deportiva_Alajuelense
+Daniel_Juárez	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Daniel_Juárez	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Armando_Alonso	isCitizenOf	Costa_Rica
+Armando_Alonso	isCitizenOf	Costa_Rica
+Armando_Alonso	playsFor	Liga_Deportiva_Alajuelense
+Armando_Alonso	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Armando_Alonso	playsFor	Liga_Deportiva_Alajuelense
+Armando_Alonso	isAffiliatedTo	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Omar_Arroyo	isCitizenOf	Costa_Rica
+Omar_Arroyo	isCitizenOf	Costa_Rica
+Omar_Arroyo	playsFor	Liga_Deportiva_Alajuelense
+Omar_Arroyo	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Omar_Arroyo	playsFor	Liga_Deportiva_Alajuelense
+Omar_Arroyo	isAffiliatedTo	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Liga_Deportiva_Alajuelense	owns	Estadio_Alejandro_Morera_Soto
+Liga_Deportiva_Alajuelense	owns	Estadio_Alejandro_Morera_Soto
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Esteban_Sirias	wasBornIn	Alajuela
+Esteban_Sirias	wasBornIn	Alajuela
+Esteban_Sirias	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Esteban_Sirias	playsFor	Liga_Deportiva_Alajuelense
+Esteban_Sirias	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Esteban_Sirias	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Javier_Jiménez_(Costa_Rican_footballer)	wasBornIn	Alajuela
+Javier_Jiménez_(Costa_Rican_footballer)	wasBornIn	Alajuela
+Javier_Jiménez_(Costa_Rican_footballer)	playsFor	Liga_Deportiva_Alajuelense
+Javier_Jiménez_(Costa_Rican_footballer)	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Javier_Jiménez_(Costa_Rican_footballer)	playsFor	Liga_Deportiva_Alajuelense
+Javier_Jiménez_(Costa_Rican_footballer)	isAffiliatedTo	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Liga_Deportiva_Alajuelense	isLocatedIn	Alajuela
+Liga_Deportiva_Alajuelense	isLocatedIn	Alajuela
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Alejandro_Morera_Soto	wasBornIn	Alajuela
+Alejandro_Morera_Soto	wasBornIn	Alajuela
+Alejandro_Morera_Soto	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Alejandro_Morera_Soto	playsFor	Liga_Deportiva_Alajuelense
+Alejandro_Morera_Soto	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Alejandro_Morera_Soto	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Javier_Delgado_Prado	wasBornIn	Alajuela
+Javier_Delgado_Prado	wasBornIn	Alajuela
+Javier_Delgado_Prado	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Javier_Delgado_Prado	playsFor	Liga_Deportiva_Alajuelense
+Javier_Delgado_Prado	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Javier_Delgado_Prado	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Liga_Deportiva_Alajuelense	owns	Estadio_Alejandro_Morera_Soto
+Liga_Deportiva_Alajuelense	owns	Estadio_Alejandro_Morera_Soto
+
+http://dbpedia.org/resource/EverBank_Field	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Jacksonville_Jaguars
+EverBank_Field	Jacksonville_Jaguars
+Jacksonville_Jaguars	isLocatedIn	EverBank_Field
+Jacksonville_Jaguars	isLocatedIn	EverBank_Field
+
+http://dbpedia.org/resource/EverBank_Field	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Jacksonville_Jaguars
+EverBank_Field	Jacksonville_Jaguars
+EverBank_Field	isLocatedIn	Florida
+EverBank_Field	isLocatedIn	Florida
+Jacksonville_Jaguars	isLocatedIn	Florida
+Jacksonville_Jaguars	isLocatedIn	Florida
+
+http://dbpedia.org/resource/EverBank_Field	http://dbpedia.org/ontology/tenant	http://dbpedia.org/resource/Jacksonville_Jaguars
+EverBank_Field	Jacksonville_Jaguars
+EverBank_Field	isLocatedIn	Florida
+EverBank_Field	isLocatedIn	Florida
+EverBank_Field	isLocatedIn	Florida
+EverBank_Field	isLocatedIn	Florida
+Jacksonville_Jaguars	isLocatedIn	EverBank_Field
+Jacksonville_Jaguars	isLocatedIn	EverBank_Field
+

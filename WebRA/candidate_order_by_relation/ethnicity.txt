@@ -1,0 +1,32 @@
+http://dbpedia.org/resource/Sydney,_Lady_Morgan	http://dbpedia.org/ontology/ethnicity	http://dbpedia.org/resource/Kingdom_of_Ireland
+Sydney,_Lady_Morgan	Kingdom_of_Ireland
+Sydney,_Lady_Morgan	isCitizenOf	Kingdom_of_Ireland
+Sydney,_Lady_Morgan	isCitizenOf	Kingdom_of_Ireland
+
+http://dbpedia.org/resource/Samuel_Gebru	http://dbpedia.org/ontology/ethnicity	http://dbpedia.org/resource/Ethiopia
+Samuel_Gebru	Ethiopia
+Samuel_Gebru	isCitizenOf	Ethiopia
+Samuel_Gebru	isCitizenOf	Ethiopia
+
+http://dbpedia.org/resource/Samuel_Gebru	http://dbpedia.org/ontology/ethnicity	http://dbpedia.org/resource/Ethiopia
+Samuel_Gebru	Ethiopia
+Samuel_Gebru	wasBornIn	Khartoum
+Samuel_Gebru	wasBornIn	Khartoum
+Sudan	hasCapital	Khartoum
+Khartoum	isLocatedIn	Sudan
+Sudan	hasCapital	Khartoum
+Khartoum	isLocatedIn	Sudan
+Sudan	hasNeighbor	Ethiopia
+Ethiopia	hasNeighbor	Sudan
+Sudan	hasNeighbor	Ethiopia
+Ethiopia	hasNeighbor	Sudan
+
+http://dbpedia.org/resource/Samuel_Gebru	http://dbpedia.org/ontology/ethnicity	http://dbpedia.org/resource/Ethiopia
+Samuel_Gebru	Ethiopia
+Samuel_Gebru	wasBornIn	Khartoum
+Samuel_Gebru	wasBornIn	Khartoum
+Samuel_Gebru	wasBornIn	Khartoum
+Samuel_Gebru	wasBornIn	Khartoum
+Samuel_Gebru	isCitizenOf	Ethiopia
+Samuel_Gebru	isCitizenOf	Ethiopia
+

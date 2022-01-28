@@ -1,0 +1,1542 @@
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Kapampangan_News
+Nine_Media_Corporation	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	News.PH
+Nine_Media_Corporation	created	News.PH
+Radio_Philippines_Network	created	News.PH
+Radio_Philippines_Network	created	News.PH
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Radio_Philippines_Network	owns	DXXX-TV
+Radio_Philippines_Network	owns	DXXX-TV
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	CNN_Philippines_Newsroom
+Nine_Media_Corporation	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Radio_Philippines_Network	created	News_Café
+Radio_Philippines_Network	created	News_Café
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	owns	CNN_Philippines
+Nine_Media_Corporation	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	owns	DZBS-TV
+Nine_Media_Corporation	owns	DZBS-TV
+Radio_Philippines_Network	owns	DZBS-TV
+Radio_Philippines_Network	owns	DZBS-TV
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Updates_(CNN_Philippines)
+Nine_Media_Corporation	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Newsday_(9News)
+Nine_Media_Corporation	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	owns	DYKC-TV
+Nine_Media_Corporation	owns	DYKC-TV
+Radio_Philippines_Network	owns	DYKC-TV
+Radio_Philippines_Network	owns	DYKC-TV
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	CNN_Philippines_Nightly_News
+Nine_Media_Corporation	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Cebuano_News
+Nine_Media_Corporation	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	owns	Radio_Philippines_Network
+Nine_Media_Corporation	owns	Radio_Philippines_Network
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	isLocatedIn	Mandaluyong
+Daybreak_(Philippine_TV_program)	isLocatedIn	Mandaluyong
+Legal_Help_Desk	isLocatedIn	Mandaluyong
+Legal_Help_Desk	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	isLocatedIn	Mandaluyong
+Daybreak_(Philippine_TV_program)	isLocatedIn	Mandaluyong
+CNN_Philippines	isLocatedIn	Mandaluyong
+CNN_Philippines	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	isLocatedIn	Mandaluyong
+Daybreak_(Philippine_TV_program)	isLocatedIn	Mandaluyong
+Newsday_(9News)	isLocatedIn	Mandaluyong
+Newsday_(9News)	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+
+http://dbpedia.org/resource/Daybreak_(Philippine_TV_program)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	Radio_Philippines_Network
+Daybreak_(Philippine_TV_program)	isLocatedIn	Mandaluyong
+Daybreak_(Philippine_TV_program)	isLocatedIn	Mandaluyong
+CNN_Philippines_Nightly_News	isLocatedIn	Mandaluyong
+CNN_Philippines_Nightly_News	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+CNN	created	Serbisyo_All_Access
+CNN	created	Serbisyo_All_Access
+CNN	created	Serbisyo_All_Access
+CNN	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+CNN	created	Serbisyo_All_Access
+CNN	created	Serbisyo_All_Access
+CNN	created	CNN_Philippines_Network_News
+CNN	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+CNN	created	Serbisyo_All_Access
+CNN	created	Serbisyo_All_Access
+CNN	created	Cebuano_News
+CNN	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+CNN	created	Serbisyo_All_Access
+CNN	created	Serbisyo_All_Access
+CNN	created	CNN_Philippines_Newsroom
+CNN	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+CNN	created	Serbisyo_All_Access
+CNN	created	Serbisyo_All_Access
+CNN	created	CNN_Philippines_Nightly_News
+CNN	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+CNN	created	Serbisyo_All_Access
+CNN	created	Serbisyo_All_Access
+CNN	created	Updates_(CNN_Philippines)
+CNN	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+CNN	created	Serbisyo_All_Access
+CNN	created	Serbisyo_All_Access
+CNN	created	Kapampangan_News
+CNN	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Serbisyo_All_Access	isLocatedIn	Mandaluyong
+Serbisyo_All_Access	isLocatedIn	Mandaluyong
+Legal_Help_Desk	isLocatedIn	Mandaluyong
+Legal_Help_Desk	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Serbisyo_All_Access	isLocatedIn	Mandaluyong
+Serbisyo_All_Access	isLocatedIn	Mandaluyong
+CNN_Philippines	isLocatedIn	Mandaluyong
+CNN_Philippines	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Serbisyo_All_Access	isLocatedIn	Mandaluyong
+Serbisyo_All_Access	isLocatedIn	Mandaluyong
+Newsday_(9News)	isLocatedIn	Mandaluyong
+Newsday_(9News)	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Serbisyo_All_Access	isLocatedIn	Mandaluyong
+Serbisyo_All_Access	isLocatedIn	Mandaluyong
+CNN_Philippines_Nightly_News	isLocatedIn	Mandaluyong
+CNN_Philippines_Nightly_News	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Kapampangan_News
+Nine_Media_Corporation	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	News.PH
+Nine_Media_Corporation	created	News.PH
+Radio_Philippines_Network	created	News.PH
+Radio_Philippines_Network	created	News.PH
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Radio_Philippines_Network	owns	DXXX-TV
+Radio_Philippines_Network	owns	DXXX-TV
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	CNN_Philippines_Newsroom
+Nine_Media_Corporation	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Radio_Philippines_Network	created	News_Café
+Radio_Philippines_Network	created	News_Café
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	owns	CNN_Philippines
+Nine_Media_Corporation	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	owns	DZBS-TV
+Nine_Media_Corporation	owns	DZBS-TV
+Radio_Philippines_Network	owns	DZBS-TV
+Radio_Philippines_Network	owns	DZBS-TV
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Updates_(CNN_Philippines)
+Nine_Media_Corporation	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Newsday_(9News)
+Nine_Media_Corporation	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	owns	DYKC-TV
+Nine_Media_Corporation	owns	DYKC-TV
+Radio_Philippines_Network	owns	DYKC-TV
+Radio_Philippines_Network	owns	DYKC-TV
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	CNN_Philippines_Nightly_News
+Nine_Media_Corporation	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Cebuano_News
+Nine_Media_Corporation	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	owns	Radio_Philippines_Network
+Nine_Media_Corporation	owns	Radio_Philippines_Network
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+
+http://dbpedia.org/resource/Serbisyo_All_Access	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Serbisyo_All_Access	Radio_Philippines_Network
+Radio_Philippines_Network	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+
+http://dbpedia.org/resource/Sleepy_Hollow_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Len_Wiseman
+Sleepy_Hollow_(TV_series)	Len_Wiseman
+Len_Wiseman	created	Sleepy_Hollow_(TV_series)
+Len_Wiseman	created	Sleepy_Hollow_(TV_series)
+
+http://dbpedia.org/resource/Sleepy_Hollow_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Len_Wiseman
+Sleepy_Hollow_(TV_series)	Len_Wiseman
+Roberto_Orci	created	Sleepy_Hollow_(TV_series)
+Roberto_Orci	created	Sleepy_Hollow_(TV_series)
+Roberto_Orci	created	Sleepy_Hollow_(TV_series)
+Roberto_Orci	created	Sleepy_Hollow_(TV_series)
+Len_Wiseman	created	Sleepy_Hollow_(TV_series)
+Len_Wiseman	created	Sleepy_Hollow_(TV_series)
+
+http://dbpedia.org/resource/Sleepy_Hollow_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Len_Wiseman
+Sleepy_Hollow_(TV_series)	Len_Wiseman
+Sleepy_Hollow_(TV_series)	isLocatedIn	New_Bern,_North_Carolina
+Sleepy_Hollow_(TV_series)	isLocatedIn	New_Bern,_North_Carolina
+Sleepy_Hollow_(TV_series)	isLocatedIn	New_Bern,_North_Carolina
+Sleepy_Hollow_(TV_series)	isLocatedIn	New_Bern,_North_Carolina
+Len_Wiseman	created	Sleepy_Hollow_(TV_series)
+Len_Wiseman	created	Sleepy_Hollow_(TV_series)
+
+http://dbpedia.org/resource/Wowowin	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Willie_Revillame
+Wowowin	Willie_Revillame
+Willie_Revillame	created	Wowowin
+Willie_Revillame	created	Wowowin
+
+http://dbpedia.org/resource/Wowowin	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Willie_Revillame
+Wowowin	Willie_Revillame
+GMA_Network	created	Wowowin
+GMA_Network	created	Wowowin
+GMA_Network	created	Wowowin
+GMA_Network	created	Wowowin
+Willie_Revillame	created	Wowowin
+Willie_Revillame	created	Wowowin
+
+http://dbpedia.org/resource/Home_Along_Da_Riles	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/ABS-CBN
+Home_Along_Da_Riles	ABS-CBN
+Johnny_Manahan	directed	Home_Along_Da_Riles
+Johnny_Manahan	directed	Home_Along_Da_Riles
+Johnny_Manahan	directed	Wansapanataym
+Johnny_Manahan	directed	Wansapanataym
+ABS-CBN	created	Wansapanataym
+ABS-CBN	created	Wansapanataym
+
+http://dbpedia.org/resource/Home_Along_Da_Riles	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/ABS-CBN
+Home_Along_Da_Riles	ABS-CBN
+Johnny_Manahan	directed	Home_Along_Da_Riles
+Johnny_Manahan	directed	Home_Along_Da_Riles
+Johnny_Manahan	directed	Home_Along_Da_Riles
+Johnny_Manahan	directed	Home_Along_Da_Riles
+ABS-CBN	created	Home_Along_Da_Riles
+ABS-CBN	created	Home_Along_Da_Riles
+
+http://dbpedia.org/resource/Home_Along_Da_Riles	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/ABS-CBN
+Home_Along_Da_Riles	ABS-CBN
+Johnny_Manahan	directed	Home_Along_Da_Riles
+Johnny_Manahan	directed	Home_Along_Da_Riles
+Johnny_Manahan	directed	Oki_Doki_Doc
+Johnny_Manahan	directed	Oki_Doki_Doc
+ABS-CBN	created	Oki_Doki_Doc
+ABS-CBN	created	Oki_Doki_Doc
+
+http://dbpedia.org/resource/Home_Along_Da_Riles	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/ABS-CBN
+Home_Along_Da_Riles	ABS-CBN
+Eddie_Gutierrez_(actor)	actedIn	Home_Along_Da_Riles
+Eddie_Gutierrez_(actor)	actedIn	Home_Along_Da_Riles
+Eddie_Gutierrez_(actor)	actedIn	Home_Along_Da_Riles
+Eddie_Gutierrez_(actor)	actedIn	Home_Along_Da_Riles
+ABS-CBN	created	Home_Along_Da_Riles
+ABS-CBN	created	Home_Along_Da_Riles
+
+http://dbpedia.org/resource/Home_Along_Da_Riles	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/ABS-CBN
+Home_Along_Da_Riles	ABS-CBN
+ABS-CBN	created	Home_Along_Da_Riles
+ABS-CBN	created	Home_Along_Da_Riles
+
+http://dbpedia.org/resource/Home_Along_Da_Riles	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/ABS-CBN
+Home_Along_Da_Riles	ABS-CBN
+Claudine_Barretto	actedIn	Home_Along_Da_Riles
+Claudine_Barretto	actedIn	Home_Along_Da_Riles
+Claudine_Barretto	actedIn	Home_Along_Da_Riles
+Claudine_Barretto	actedIn	Home_Along_Da_Riles
+ABS-CBN	created	Home_Along_Da_Riles
+ABS-CBN	created	Home_Along_Da_Riles
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+Radio_Philippines_Network	created	News_Café
+Radio_Philippines_Network	created	News_Café
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	Kapampangan_News
+Nine_Media_Corporation	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News.PH
+Nine_Media_Corporation	created	News.PH
+Radio_Philippines_Network	created	News.PH
+Radio_Philippines_Network	created	News.PH
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Radio_Philippines_Network	owns	DXXX-TV
+Radio_Philippines_Network	owns	DXXX-TV
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	CNN_Philippines_Newsroom
+Nine_Media_Corporation	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Radio_Philippines_Network	created	News_Café
+Radio_Philippines_Network	created	News_Café
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	owns	CNN_Philippines
+Nine_Media_Corporation	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	owns	DZBS-TV
+Nine_Media_Corporation	owns	DZBS-TV
+Radio_Philippines_Network	owns	DZBS-TV
+Radio_Philippines_Network	owns	DZBS-TV
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	Updates_(CNN_Philippines)
+Nine_Media_Corporation	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	Newsday_(9News)
+Nine_Media_Corporation	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	owns	DYKC-TV
+Nine_Media_Corporation	owns	DYKC-TV
+Radio_Philippines_Network	owns	DYKC-TV
+Radio_Philippines_Network	owns	DYKC-TV
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	CNN_Philippines_Nightly_News
+Nine_Media_Corporation	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	Cebuano_News
+Nine_Media_Corporation	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	owns	Radio_Philippines_Network
+Nine_Media_Corporation	owns	Radio_Philippines_Network
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+News_Café	isLocatedIn	Mandaluyong
+News_Café	isLocatedIn	Mandaluyong
+Legal_Help_Desk	isLocatedIn	Mandaluyong
+Legal_Help_Desk	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+News_Café	isLocatedIn	Mandaluyong
+News_Café	isLocatedIn	Mandaluyong
+CNN_Philippines	isLocatedIn	Mandaluyong
+CNN_Philippines	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+News_Café	isLocatedIn	Mandaluyong
+News_Café	isLocatedIn	Mandaluyong
+Newsday_(9News)	isLocatedIn	Mandaluyong
+Newsday_(9News)	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+
+http://dbpedia.org/resource/News_Café	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+News_Café	Radio_Philippines_Network
+News_Café	isLocatedIn	Mandaluyong
+News_Café	isLocatedIn	Mandaluyong
+CNN_Philippines_Nightly_News	isLocatedIn	Mandaluyong
+CNN_Philippines_Nightly_News	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Opposing_Views_(TV_series)	isLocatedIn	Mandaluyong
+Opposing_Views_(TV_series)	isLocatedIn	Mandaluyong
+Legal_Help_Desk	isLocatedIn	Mandaluyong
+Legal_Help_Desk	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Opposing_Views_(TV_series)	isLocatedIn	Mandaluyong
+Opposing_Views_(TV_series)	isLocatedIn	Mandaluyong
+CNN_Philippines	isLocatedIn	Mandaluyong
+CNN_Philippines	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Opposing_Views_(TV_series)	isLocatedIn	Mandaluyong
+Opposing_Views_(TV_series)	isLocatedIn	Mandaluyong
+Newsday_(9News)	isLocatedIn	Mandaluyong
+Newsday_(9News)	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Opposing_Views_(TV_series)	isLocatedIn	Mandaluyong
+Opposing_Views_(TV_series)	isLocatedIn	Mandaluyong
+CNN_Philippines_Nightly_News	isLocatedIn	Mandaluyong
+CNN_Philippines_Nightly_News	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Kapampangan_News
+Nine_Media_Corporation	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	News.PH
+Nine_Media_Corporation	created	News.PH
+Radio_Philippines_Network	created	News.PH
+Radio_Philippines_Network	created	News.PH
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Radio_Philippines_Network	owns	DXXX-TV
+Radio_Philippines_Network	owns	DXXX-TV
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	CNN_Philippines_Newsroom
+Nine_Media_Corporation	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Radio_Philippines_Network	created	News_Café
+Radio_Philippines_Network	created	News_Café
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	owns	CNN_Philippines
+Nine_Media_Corporation	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	owns	DZBS-TV
+Nine_Media_Corporation	owns	DZBS-TV
+Radio_Philippines_Network	owns	DZBS-TV
+Radio_Philippines_Network	owns	DZBS-TV
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Updates_(CNN_Philippines)
+Nine_Media_Corporation	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Newsday_(9News)
+Nine_Media_Corporation	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	owns	DYKC-TV
+Nine_Media_Corporation	owns	DYKC-TV
+Radio_Philippines_Network	owns	DYKC-TV
+Radio_Philippines_Network	owns	DYKC-TV
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	CNN_Philippines_Nightly_News
+Nine_Media_Corporation	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Cebuano_News
+Nine_Media_Corporation	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	owns	Radio_Philippines_Network
+Nine_Media_Corporation	owns	Radio_Philippines_Network
+
+http://dbpedia.org/resource/Opposing_Views_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Opposing_Views_(TV_series)	Radio_Philippines_Network
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+
+http://dbpedia.org/resource/Vikings_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Michael_Hirst_(writer)
+Vikings_(TV_series)	Michael_Hirst_(writer)
+Vikings_(TV_series)	isLocatedIn	County_Wicklow
+Vikings_(TV_series)	isLocatedIn	County_Wicklow
+Vikings_(TV_series)	isLocatedIn	County_Wicklow
+Vikings_(TV_series)	isLocatedIn	County_Wicklow
+Michael_Hirst_(writer)	created	Vikings_(TV_series)
+Michael_Hirst_(writer)	created	Vikings_(TV_series)
+
+http://dbpedia.org/resource/Vikings_(TV_series)	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Michael_Hirst_(writer)
+Vikings_(TV_series)	Michael_Hirst_(writer)
+Michael_Hirst_(writer)	created	Vikings_(TV_series)
+Michael_Hirst_(writer)	created	Vikings_(TV_series)
+
+http://dbpedia.org/resource/Wowowee	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Willie_Revillame
+Wowowee	Willie_Revillame
+Willie_Revillame	created	Wowowee
+Willie_Revillame	created	Wowowee
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	Kapampangan_News
+Nine_Media_Corporation	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	News.PH
+Nine_Media_Corporation	created	News.PH
+Radio_Philippines_Network	created	News.PH
+Radio_Philippines_Network	created	News.PH
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Radio_Philippines_Network	owns	DXXX-TV
+Radio_Philippines_Network	owns	DXXX-TV
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Newsroom
+Nine_Media_Corporation	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Radio_Philippines_Network	created	News_Café
+Radio_Philippines_Network	created	News_Café
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	owns	CNN_Philippines
+Nine_Media_Corporation	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	owns	DZBS-TV
+Nine_Media_Corporation	owns	DZBS-TV
+Radio_Philippines_Network	owns	DZBS-TV
+Radio_Philippines_Network	owns	DZBS-TV
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	Updates_(CNN_Philippines)
+Nine_Media_Corporation	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	Newsday_(9News)
+Nine_Media_Corporation	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	owns	DYKC-TV
+Nine_Media_Corporation	owns	DYKC-TV
+Radio_Philippines_Network	owns	DYKC-TV
+Radio_Philippines_Network	owns	DYKC-TV
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Nightly_News
+Nine_Media_Corporation	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	Cebuano_News
+Nine_Media_Corporation	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	owns	Radio_Philippines_Network
+Nine_Media_Corporation	owns	Radio_Philippines_Network
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+CNN	created	CNN_Philippines_Network_News
+CNN	created	CNN_Philippines_Network_News
+CNN	created	Serbisyo_All_Access
+CNN	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+CNN	created	CNN_Philippines_Network_News
+CNN	created	CNN_Philippines_Network_News
+CNN	created	CNN_Philippines_Network_News
+CNN	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+CNN	created	CNN_Philippines_Network_News
+CNN	created	CNN_Philippines_Network_News
+CNN	created	Cebuano_News
+CNN	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+CNN	created	CNN_Philippines_Network_News
+CNN	created	CNN_Philippines_Network_News
+CNN	created	CNN_Philippines_Newsroom
+CNN	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+CNN	created	CNN_Philippines_Network_News
+CNN	created	CNN_Philippines_Network_News
+CNN	created	CNN_Philippines_Nightly_News
+CNN	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+CNN	created	CNN_Philippines_Network_News
+CNN	created	CNN_Philippines_Network_News
+CNN	created	Updates_(CNN_Philippines)
+CNN	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+CNN	created	CNN_Philippines_Network_News
+CNN	created	CNN_Philippines_Network_News
+CNN	created	Kapampangan_News
+CNN	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+CNN_Philippines_Network_News	isLocatedIn	Mandaluyong
+CNN_Philippines_Network_News	isLocatedIn	Mandaluyong
+Legal_Help_Desk	isLocatedIn	Mandaluyong
+Legal_Help_Desk	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+CNN_Philippines_Network_News	isLocatedIn	Mandaluyong
+CNN_Philippines_Network_News	isLocatedIn	Mandaluyong
+CNN_Philippines	isLocatedIn	Mandaluyong
+CNN_Philippines	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+CNN_Philippines_Network_News	isLocatedIn	Mandaluyong
+CNN_Philippines_Network_News	isLocatedIn	Mandaluyong
+Newsday_(9News)	isLocatedIn	Mandaluyong
+Newsday_(9News)	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+CNN_Philippines_Network_News	isLocatedIn	Mandaluyong
+CNN_Philippines_Network_News	isLocatedIn	Mandaluyong
+CNN_Philippines_Nightly_News	isLocatedIn	Mandaluyong
+CNN_Philippines_Nightly_News	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+
+http://dbpedia.org/resource/CNN_Philippines_Network_News	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+CNN_Philippines_Network_News	Radio_Philippines_Network
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+
+http://dbpedia.org/resource/Oki_Doki_Doc	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/ABS-CBN
+Oki_Doki_Doc	ABS-CBN
+Johnny_Manahan	directed	Oki_Doki_Doc
+Johnny_Manahan	directed	Oki_Doki_Doc
+Johnny_Manahan	directed	Wansapanataym
+Johnny_Manahan	directed	Wansapanataym
+ABS-CBN	created	Wansapanataym
+ABS-CBN	created	Wansapanataym
+
+http://dbpedia.org/resource/Oki_Doki_Doc	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/ABS-CBN
+Oki_Doki_Doc	ABS-CBN
+Johnny_Manahan	directed	Oki_Doki_Doc
+Johnny_Manahan	directed	Oki_Doki_Doc
+Johnny_Manahan	directed	Home_Along_Da_Riles
+Johnny_Manahan	directed	Home_Along_Da_Riles
+ABS-CBN	created	Home_Along_Da_Riles
+ABS-CBN	created	Home_Along_Da_Riles
+
+http://dbpedia.org/resource/Oki_Doki_Doc	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/ABS-CBN
+Oki_Doki_Doc	ABS-CBN
+Johnny_Manahan	directed	Oki_Doki_Doc
+Johnny_Manahan	directed	Oki_Doki_Doc
+Johnny_Manahan	directed	Oki_Doki_Doc
+Johnny_Manahan	directed	Oki_Doki_Doc
+ABS-CBN	created	Oki_Doki_Doc
+ABS-CBN	created	Oki_Doki_Doc
+
+http://dbpedia.org/resource/Oki_Doki_Doc	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/ABS-CBN
+Oki_Doki_Doc	ABS-CBN
+Claudine_Barretto	actedIn	Oki_Doki_Doc
+Claudine_Barretto	actedIn	Oki_Doki_Doc
+Claudine_Barretto	actedIn	Home_Along_Da_Riles
+Claudine_Barretto	actedIn	Home_Along_Da_Riles
+ABS-CBN	created	Home_Along_Da_Riles
+ABS-CBN	created	Home_Along_Da_Riles
+
+http://dbpedia.org/resource/Oki_Doki_Doc	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/ABS-CBN
+Oki_Doki_Doc	ABS-CBN
+Aga_Muhlach	actedIn	Oki_Doki_Doc
+Aga_Muhlach	actedIn	Oki_Doki_Doc
+Aga_Muhlach	actedIn	Oki_Doki_Doc
+Aga_Muhlach	actedIn	Oki_Doki_Doc
+ABS-CBN	created	Oki_Doki_Doc
+ABS-CBN	created	Oki_Doki_Doc
+
+http://dbpedia.org/resource/Oki_Doki_Doc	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/ABS-CBN
+Oki_Doki_Doc	ABS-CBN
+ABS-CBN	created	Oki_Doki_Doc
+ABS-CBN	created	Oki_Doki_Doc
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Kapampangan_News
+Nine_Media_Corporation	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	News.PH
+Nine_Media_Corporation	created	News.PH
+Radio_Philippines_Network	created	News.PH
+Radio_Philippines_Network	created	News.PH
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Radio_Philippines_Network	owns	DXXX-TV
+Radio_Philippines_Network	owns	DXXX-TV
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	CNN_Philippines_Newsroom
+Nine_Media_Corporation	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Radio_Philippines_Network	created	News_Café
+Radio_Philippines_Network	created	News_Café
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	owns	CNN_Philippines
+Nine_Media_Corporation	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	owns	DZBS-TV
+Nine_Media_Corporation	owns	DZBS-TV
+Radio_Philippines_Network	owns	DZBS-TV
+Radio_Philippines_Network	owns	DZBS-TV
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Updates_(CNN_Philippines)
+Nine_Media_Corporation	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Newsday_(9News)
+Nine_Media_Corporation	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	owns	DYKC-TV
+Nine_Media_Corporation	owns	DYKC-TV
+Radio_Philippines_Network	owns	DYKC-TV
+Radio_Philippines_Network	owns	DYKC-TV
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	CNN_Philippines_Nightly_News
+Nine_Media_Corporation	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Cebuano_News
+Nine_Media_Corporation	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	owns	Radio_Philippines_Network
+Nine_Media_Corporation	owns	Radio_Philippines_Network
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Radio_Philippines_Network	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Legal_Help_Desk	isLocatedIn	Mandaluyong
+Legal_Help_Desk	isLocatedIn	Mandaluyong
+Legal_Help_Desk	isLocatedIn	Mandaluyong
+Legal_Help_Desk	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Legal_Help_Desk	isLocatedIn	Mandaluyong
+Legal_Help_Desk	isLocatedIn	Mandaluyong
+CNN_Philippines	isLocatedIn	Mandaluyong
+CNN_Philippines	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Legal_Help_Desk	isLocatedIn	Mandaluyong
+Legal_Help_Desk	isLocatedIn	Mandaluyong
+Newsday_(9News)	isLocatedIn	Mandaluyong
+Newsday_(9News)	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+
+http://dbpedia.org/resource/Legal_Help_Desk	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/Radio_Philippines_Network
+Legal_Help_Desk	Radio_Philippines_Network
+Legal_Help_Desk	isLocatedIn	Mandaluyong
+Legal_Help_Desk	isLocatedIn	Mandaluyong
+CNN_Philippines_Nightly_News	isLocatedIn	Mandaluyong
+CNN_Philippines_Nightly_News	isLocatedIn	Mandaluyong
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+

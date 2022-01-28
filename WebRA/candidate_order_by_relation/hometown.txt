@@ -1,0 +1,1615 @@
+http://dbpedia.org/resource/Bill_Granger_(author)	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Chicago
+Bill_Granger_(author)	Chicago
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Roderick_Sawyer	graduatedFrom	DePaul_University
+Roderick_Sawyer	graduatedFrom	DePaul_University
+Roderick_Sawyer	livesIn	Chicago
+Roderick_Sawyer	wasBornIn	Chicago
+Roderick_Sawyer	livesIn	Chicago
+Roderick_Sawyer	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Bill_Granger_(author)	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Chicago
+Bill_Granger_(author)	Chicago
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Valya_Dudycz_Lupescu	graduatedFrom	DePaul_University
+Valya_Dudycz_Lupescu	graduatedFrom	DePaul_University
+Valya_Dudycz_Lupescu	wasBornIn	Chicago
+Valya_Dudycz_Lupescu	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Bill_Granger_(author)	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Chicago
+Bill_Granger_(author)	Chicago
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Richard_M._Daley	graduatedFrom	DePaul_University
+Richard_M._Daley	graduatedFrom	DePaul_University
+Richard_M._Daley	wasBornIn	Chicago
+Richard_M._Daley	livesIn	Chicago
+Richard_M._Daley	wasBornIn	Chicago
+Richard_M._Daley	livesIn	Chicago
+
+http://dbpedia.org/resource/Bill_Granger_(author)	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Chicago
+Bill_Granger_(author)	Chicago
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Richard_J._Daley	graduatedFrom	DePaul_University
+Richard_J._Daley	graduatedFrom	DePaul_University
+Richard_J._Daley	diedIn	Chicago
+Richard_J._Daley	wasBornIn	Chicago
+Richard_J._Daley	diedIn	Chicago
+Richard_J._Daley	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Bill_Granger_(author)	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Chicago
+Bill_Granger_(author)	Chicago
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Kwame_Raoul	graduatedFrom	DePaul_University
+Kwame_Raoul	graduatedFrom	DePaul_University
+Kwame_Raoul	wasBornIn	Chicago
+Kwame_Raoul	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Bill_Granger_(author)	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Chicago
+Bill_Granger_(author)	Chicago
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+DePaul_University	isLocatedIn	Chicago
+DePaul_University	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Bill_Granger_(author)	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Chicago
+Bill_Granger_(author)	Chicago
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Michael_C._Murphy_(Michigan_politician)	graduatedFrom	DePaul_University
+Michael_C._Murphy_(Michigan_politician)	graduatedFrom	DePaul_University
+Michael_C._Murphy_(Michigan_politician)	wasBornIn	Chicago
+Michael_C._Murphy_(Michigan_politician)	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Bill_Granger_(author)	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Chicago
+Bill_Granger_(author)	Chicago
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Tom_Bosley	graduatedFrom	DePaul_University
+Tom_Bosley	graduatedFrom	DePaul_University
+Tom_Bosley	wasBornIn	Chicago
+Tom_Bosley	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Bill_Granger_(author)	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Chicago
+Bill_Granger_(author)	Chicago
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Latasha_Thomas	graduatedFrom	DePaul_University
+Latasha_Thomas	graduatedFrom	DePaul_University
+Latasha_Thomas	wasBornIn	Chicago
+Latasha_Thomas	livesIn	Chicago
+Latasha_Thomas	wasBornIn	Chicago
+Latasha_Thomas	livesIn	Chicago
+
+http://dbpedia.org/resource/Bill_Granger_(author)	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Chicago
+Bill_Granger_(author)	Chicago
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+John_C._Reilly	graduatedFrom	DePaul_University
+John_C._Reilly	graduatedFrom	DePaul_University
+John_C._Reilly	wasBornIn	Chicago
+John_C._Reilly	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Bill_Granger_(author)	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Chicago
+Bill_Granger_(author)	Chicago
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Joe_Moore_(politician)	graduatedFrom	DePaul_University
+Joe_Moore_(politician)	graduatedFrom	DePaul_University
+Joe_Moore_(politician)	wasBornIn	Chicago
+Joe_Moore_(politician)	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Bill_Granger_(author)	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Chicago
+Bill_Granger_(author)	Chicago
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Marty_Block	graduatedFrom	DePaul_University
+Marty_Block	graduatedFrom	DePaul_University
+Marty_Block	wasBornIn	Chicago
+Marty_Block	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Bill_Granger_(author)	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Chicago
+Bill_Granger_(author)	Chicago
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Dave_Heaton_(Wisconsin_politician)	graduatedFrom	DePaul_University
+Dave_Heaton_(Wisconsin_politician)	graduatedFrom	DePaul_University
+Dave_Heaton_(Wisconsin_politician)	wasBornIn	Chicago
+Dave_Heaton_(Wisconsin_politician)	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Bill_Granger_(author)	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Chicago
+Bill_Granger_(author)	Chicago
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Howard_P._Savage	graduatedFrom	DePaul_University
+Howard_P._Savage	graduatedFrom	DePaul_University
+Howard_P._Savage	diedIn	Chicago
+Howard_P._Savage	diedIn	Chicago
+
+http://dbpedia.org/resource/Bill_Granger_(author)	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Chicago
+Bill_Granger_(author)	Chicago
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Bill_Granger_(author)	graduatedFrom	DePaul_University
+Bill_Granger_(author)	livesIn	Chicago
+Bill_Granger_(author)	livesIn	Chicago
+
+http://dbpedia.org/resource/Bill_Granger_(author)	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Chicago
+Bill_Granger_(author)	Chicago
+Bill_Granger_(author)	livesIn	Chicago
+Bill_Granger_(author)	livesIn	Chicago
+
+http://dbpedia.org/resource/Lee_Sang-mook	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Seoul
+Lee_Sang-mook	Seoul
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+Lee_Sang-mook	wasBornIn	Seoul
+Lee_Sang-mook	wasBornIn	Seoul
+
+http://dbpedia.org/resource/Lee_Sang-mook	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Seoul
+Lee_Sang-mook	Seoul
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+Hong_Sehwa	graduatedFrom	Seoul_National_University
+Hong_Sehwa	graduatedFrom	Seoul_National_University
+Hong_Sehwa	wasBornIn	Seoul
+Hong_Sehwa	wasBornIn	Seoul
+
+http://dbpedia.org/resource/Lee_Sang-mook	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Seoul
+Lee_Sang-mook	Seoul
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+Seoul_National_University	isLocatedIn	Gwanak_District
+Seoul_National_University	isLocatedIn	Gwanak_District
+Gwanak_District	isLocatedIn	Seoul
+Gwanak_District	isLocatedIn	Seoul
+
+http://dbpedia.org/resource/Lee_Sang-mook	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Seoul
+Lee_Sang-mook	Seoul
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+Seoul_National_University	isLocatedIn	Seoul
+Seoul_National_University	isLocatedIn	Seoul
+
+http://dbpedia.org/resource/Lee_Sang-mook	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Seoul
+Lee_Sang-mook	Seoul
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+Lee_Hui-ho	graduatedFrom	Seoul_National_University
+Lee_Hui-ho	graduatedFrom	Seoul_National_University
+Lee_Hui-ho	wasBornIn	Seoul
+Lee_Hui-ho	wasBornIn	Seoul
+
+http://dbpedia.org/resource/Lee_Sang-mook	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Seoul
+Lee_Sang-mook	Seoul
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+Minhyong_Kim	graduatedFrom	Seoul_National_University
+Minhyong_Kim	graduatedFrom	Seoul_National_University
+Minhyong_Kim	wasBornIn	Seoul
+Minhyong_Kim	wasBornIn	Seoul
+
+http://dbpedia.org/resource/Lee_Sang-mook	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Seoul
+Lee_Sang-mook	Seoul
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+Kim_Byoung-chul	graduatedFrom	Seoul_National_University
+Kim_Byoung-chul	graduatedFrom	Seoul_National_University
+Kim_Byoung-chul	wasBornIn	Seoul
+Kim_Byoung-chul	wasBornIn	Seoul
+
+http://dbpedia.org/resource/Lee_Sang-mook	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Seoul
+Lee_Sang-mook	Seoul
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+Yoon_Kyung-byung	graduatedFrom	Seoul_National_University
+Yoon_Kyung-byung	graduatedFrom	Seoul_National_University
+Yoon_Kyung-byung	livesIn	Seoul
+Yoon_Kyung-byung	wasBornIn	Seoul
+Yoon_Kyung-byung	livesIn	Seoul
+Yoon_Kyung-byung	wasBornIn	Seoul
+
+http://dbpedia.org/resource/Lee_Sang-mook	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Seoul
+Lee_Sang-mook	Seoul
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+Lee_Sang-mook	graduatedFrom	Seoul_National_University
+Ha-Joon_Chang	graduatedFrom	Seoul_National_University
+Ha-Joon_Chang	graduatedFrom	Seoul_National_University
+Ha-Joon_Chang	wasBornIn	Seoul
+Ha-Joon_Chang	wasBornIn	Seoul
+
+http://dbpedia.org/resource/Lee_Sang-mook	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Seoul
+Lee_Sang-mook	Seoul
+Lee_Sang-mook	wasBornIn	Seoul
+Lee_Sang-mook	wasBornIn	Seoul
+
+http://dbpedia.org/resource/Francis_Joseph_Reitz	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Evansville,_Indiana
+Francis_Joseph_Reitz	Evansville,_Indiana
+Francis_Joseph_Reitz	wasBornIn	Evansville,_Indiana
+Francis_Joseph_Reitz	diedIn	Evansville,_Indiana
+Francis_Joseph_Reitz	wasBornIn	Evansville,_Indiana
+Francis_Joseph_Reitz	diedIn	Evansville,_Indiana
+
+http://dbpedia.org/resource/Francis_Joseph_Reitz	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Evansville,_Indiana
+Francis_Joseph_Reitz	Evansville,_Indiana
+Francis_Joseph_Reitz	created	Reitz_Memorial_High_School
+Francis_Joseph_Reitz	created	Reitz_Memorial_High_School
+Reitz_Memorial_High_School	isLocatedIn	Vanderburgh_County,_Indiana
+Reitz_Memorial_High_School	isLocatedIn	Vanderburgh_County,_Indiana
+Vanderburgh_County,_Indiana	isLocatedIn	Evansville,_Indiana
+Evansville,_Indiana	isLocatedIn	Vanderburgh_County,_Indiana
+Vanderburgh_County,_Indiana	isLocatedIn	Evansville,_Indiana
+Evansville,_Indiana	isLocatedIn	Vanderburgh_County,_Indiana
+
+http://dbpedia.org/resource/Francis_Joseph_Reitz	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Evansville,_Indiana
+Francis_Joseph_Reitz	Evansville,_Indiana
+Francis_Joseph_Reitz	created	Reitz_Memorial_High_School
+Francis_Joseph_Reitz	created	Reitz_Memorial_High_School
+Reitz_Memorial_High_School	isLocatedIn	Evansville,_Indiana
+Reitz_Memorial_High_School	isLocatedIn	Evansville,_Indiana
+
+http://dbpedia.org/resource/Francis_Joseph_Reitz	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Evansville,_Indiana
+Francis_Joseph_Reitz	Evansville,_Indiana
+Francis_Joseph_Reitz	created	Reitz_Memorial_High_School
+Francis_Joseph_Reitz	created	Reitz_Memorial_High_School
+Francis_Joseph_Reitz	created	Reitz_Memorial_High_School
+Francis_Joseph_Reitz	created	Reitz_Memorial_High_School
+Francis_Joseph_Reitz	wasBornIn	Evansville,_Indiana
+Francis_Joseph_Reitz	diedIn	Evansville,_Indiana
+Francis_Joseph_Reitz	wasBornIn	Evansville,_Indiana
+Francis_Joseph_Reitz	diedIn	Evansville,_Indiana
+
+http://dbpedia.org/resource/Ken_May	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Memphis,_Tennessee
+Ken_May	Memphis,_Tennessee
+Ken_May	wasBornIn	Memphis,_Tennessee
+Ken_May	wasBornIn	Memphis,_Tennessee
+
+http://dbpedia.org/resource/Ken_May	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Memphis,_Tennessee
+Ken_May	Memphis,_Tennessee
+Ken_May	graduatedFrom	University_of_Memphis
+Ken_May	graduatedFrom	University_of_Memphis
+Ken_May	graduatedFrom	University_of_Memphis
+Ken_May	graduatedFrom	University_of_Memphis
+Ken_May	wasBornIn	Memphis,_Tennessee
+Ken_May	wasBornIn	Memphis,_Tennessee
+
+http://dbpedia.org/resource/Ken_May	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Memphis,_Tennessee
+Ken_May	Memphis,_Tennessee
+Ken_May	graduatedFrom	University_of_Tennessee
+Ken_May	graduatedFrom	University_of_Tennessee
+Ken_May	graduatedFrom	University_of_Tennessee
+Ken_May	graduatedFrom	University_of_Tennessee
+Ken_May	wasBornIn	Memphis,_Tennessee
+Ken_May	wasBornIn	Memphis,_Tennessee
+
+http://dbpedia.org/resource/Ken_May	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Memphis,_Tennessee
+Ken_May	Memphis,_Tennessee
+Ken_May	graduatedFrom	University_of_Tennessee
+Ken_May	graduatedFrom	University_of_Tennessee
+Johnnie_Turner	graduatedFrom	University_of_Tennessee
+Johnnie_Turner	graduatedFrom	University_of_Tennessee
+Johnnie_Turner	livesIn	Memphis,_Tennessee
+Johnnie_Turner	livesIn	Memphis,_Tennessee
+
+http://dbpedia.org/resource/Bharat_Bhushan	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Uttar_Pradesh
+Bharat_Bhushan	Uttar_Pradesh
+Bharat_Bhushan	wasBornIn	Meerut
+Bharat_Bhushan	wasBornIn	Meerut
+Chaudhary_Charan_Singh_University	isLocatedIn	Meerut
+Chaudhary_Charan_Singh_University	isLocatedIn	Meerut
+Chaudhary_Charan_Singh_University	isLocatedIn	Uttar_Pradesh
+Chaudhary_Charan_Singh_University	isLocatedIn	Uttar_Pradesh
+
+http://dbpedia.org/resource/Puran_Appu	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Western_Province,_Sri_Lanka
+Puran_Appu	Western_Province,_Sri_Lanka
+Puran_Appu	isCitizenOf	Sri_Lanka
+Puran_Appu	isCitizenOf	Sri_Lanka
+National_Hospital_of_Sri_Lanka	isLocatedIn	Sri_Lanka
+National_Hospital_of_Sri_Lanka	isLocatedIn	Sri_Lanka
+National_Hospital_of_Sri_Lanka	isLocatedIn	Western_Province,_Sri_Lanka
+National_Hospital_of_Sri_Lanka	isLocatedIn	Western_Province,_Sri_Lanka
+
+http://dbpedia.org/resource/Puran_Appu	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Western_Province,_Sri_Lanka
+Puran_Appu	Western_Province,_Sri_Lanka
+Puran_Appu	wasBornIn	Moratuwa
+Puran_Appu	wasBornIn	Moratuwa
+Moratuwa	isLocatedIn	Colombo_District
+Moratuwa	isLocatedIn	Colombo_District
+Colombo_District	isLocatedIn	Western_Province,_Sri_Lanka
+Colombo_District	isLocatedIn	Western_Province,_Sri_Lanka
+
+http://dbpedia.org/resource/Puran_Appu	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Western_Province,_Sri_Lanka
+Puran_Appu	Western_Province,_Sri_Lanka
+Puran_Appu	wasBornIn	Moratuwa
+Puran_Appu	wasBornIn	Moratuwa
+Moratuwa	isLocatedIn	Western_Province,_Sri_Lanka
+Moratuwa	isLocatedIn	Western_Province,_Sri_Lanka
+
+http://dbpedia.org/resource/Armando_Gama	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Armando_Gama	Portugal
+Armando_Gama	isCitizenOf	Angola
+Armando_Gama	isCitizenOf	Angola
+Jacinto_João	isCitizenOf	Angola
+Jacinto_João	isCitizenOf	Angola
+Jacinto_João	isCitizenOf	Portugal
+Jacinto_João	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Armando_Gama	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Armando_Gama	Portugal
+Armando_Gama	isCitizenOf	Angola
+Armando_Gama	isCitizenOf	Angola
+Fábio_Paím	isCitizenOf	Angola
+Fábio_Paím	isCitizenOf	Angola
+Fábio_Paím	isCitizenOf	Portugal
+Fábio_Paím	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Armando_Gama	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Armando_Gama	Portugal
+Armando_Gama	isCitizenOf	Angola
+Armando_Gama	isCitizenOf	Angola
+Cartoon_Network_(Portugal)	isLocatedIn	Angola
+Cartoon_Network_(Portugal)	isLocatedIn	Angola
+Cartoon_Network_(Portugal)	isLocatedIn	Portugal
+Cartoon_Network_(Portugal)	isLocatedIn	Portugal
+
+http://dbpedia.org/resource/Armando_Gama	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Armando_Gama	Portugal
+Armando_Gama	isCitizenOf	Angola
+Armando_Gama	isCitizenOf	Angola
+Wilson_Constantino_Novo_Estrela	isCitizenOf	Angola
+Wilson_Constantino_Novo_Estrela	isCitizenOf	Angola
+Wilson_Constantino_Novo_Estrela	isCitizenOf	Portugal
+Wilson_Constantino_Novo_Estrela	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Armando_Gama	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Armando_Gama	Portugal
+Armando_Gama	isCitizenOf	Angola
+Armando_Gama	isCitizenOf	Angola
+José_Luís_Vidigal	isCitizenOf	Angola
+José_Luís_Vidigal	isCitizenOf	Angola
+José_Luís_Vidigal	isCitizenOf	Portugal
+José_Luís_Vidigal	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Armando_Gama	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Armando_Gama	Portugal
+Armando_Gama	isCitizenOf	Angola
+Armando_Gama	isCitizenOf	Angola
+Francisca_Van_Dunem	isCitizenOf	Angola
+Francisca_Van_Dunem	isCitizenOf	Angola
+Francisca_Van_Dunem	livesIn	Portugal
+Francisca_Van_Dunem	isCitizenOf	Portugal
+Francisca_Van_Dunem	isPoliticianOf	Portugal
+Francisca_Van_Dunem	livesIn	Portugal
+Francisca_Van_Dunem	isCitizenOf	Portugal
+Francisca_Van_Dunem	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/Armando_Gama	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Armando_Gama	Portugal
+Armando_Gama	wasBornIn	Luanda
+Armando_Gama	wasBornIn	Luanda
+Assunção_Cristas	wasBornIn	Luanda
+Assunção_Cristas	wasBornIn	Luanda
+Assunção_Cristas	isPoliticianOf	Portugal
+Assunção_Cristas	isCitizenOf	Portugal
+Assunção_Cristas	isPoliticianOf	Portugal
+Assunção_Cristas	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Armando_Gama	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Armando_Gama	Portugal
+Armando_Gama	wasBornIn	Luanda
+Armando_Gama	wasBornIn	Luanda
+Joaquim_Alberto_Silva	wasBornIn	Luanda
+Joaquim_Alberto_Silva	wasBornIn	Luanda
+Joaquim_Alberto_Silva	isCitizenOf	Portugal
+Joaquim_Alberto_Silva	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Armando_Gama	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Armando_Gama	Portugal
+Armando_Gama	wasBornIn	Luanda
+Armando_Gama	wasBornIn	Luanda
+Estrela_(footballer)	wasBornIn	Luanda
+Estrela_(footballer)	wasBornIn	Luanda
+Estrela_(footballer)	isCitizenOf	Portugal
+Estrela_(footballer)	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Armando_Gama	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Armando_Gama	Portugal
+Armando_Gama	wasBornIn	Luanda
+Armando_Gama	wasBornIn	Luanda
+José_Baptista_Pinheiro_de_Azevedo	wasBornIn	Luanda
+José_Baptista_Pinheiro_de_Azevedo	wasBornIn	Luanda
+José_Baptista_Pinheiro_de_Azevedo	isPoliticianOf	Portugal
+José_Baptista_Pinheiro_de_Azevedo	isCitizenOf	Portugal
+José_Baptista_Pinheiro_de_Azevedo	isPoliticianOf	Portugal
+José_Baptista_Pinheiro_de_Azevedo	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Armando_Gama	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Armando_Gama	Portugal
+Armando_Gama	isCitizenOf	Portugal
+Armando_Gama	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	isCitizenOf	Portugal
+Bernardo_Sassetti	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wroteMusicFor	Alice_(2005_film)
+Bernardo_Sassetti	wroteMusicFor	Alice_(2005_film)
+Alice_(2005_film)	isLocatedIn	Portugal
+Alice_(2005_film)	isLocatedIn	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Conchita_Cintrón	diedIn	Lisbon
+Conchita_Cintrón	diedIn	Lisbon
+Conchita_Cintrón	isCitizenOf	Portugal
+Conchita_Cintrón	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Artur_Ivens_Ferraz	wasBornIn	Lisbon
+Artur_Ivens_Ferraz	diedIn	Lisbon
+Artur_Ivens_Ferraz	wasBornIn	Lisbon
+Artur_Ivens_Ferraz	diedIn	Lisbon
+Artur_Ivens_Ferraz	isPoliticianOf	Portugal
+Artur_Ivens_Ferraz	isCitizenOf	Portugal
+Artur_Ivens_Ferraz	isPoliticianOf	Portugal
+Artur_Ivens_Ferraz	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Miguel_Monteiro	wasBornIn	Lisbon
+Miguel_Monteiro	wasBornIn	Lisbon
+Miguel_Monteiro	isCitizenOf	Portugal
+Miguel_Monteiro	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Fininho_(Portuguese_footballer)	wasBornIn	Lisbon
+Fininho_(Portuguese_footballer)	wasBornIn	Lisbon
+Fininho_(Portuguese_footballer)	isCitizenOf	Portugal
+Fininho_(Portuguese_footballer)	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Jaime_Montestrela	wasBornIn	Lisbon
+Jaime_Montestrela	wasBornIn	Lisbon
+Jaime_Montestrela	isCitizenOf	Portugal
+Jaime_Montestrela	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Anselmo_José_Braamcamp	diedIn	Lisbon
+Anselmo_José_Braamcamp	wasBornIn	Lisbon
+Anselmo_José_Braamcamp	diedIn	Lisbon
+Anselmo_José_Braamcamp	wasBornIn	Lisbon
+Anselmo_José_Braamcamp	isPoliticianOf	Portugal
+Anselmo_José_Braamcamp	isCitizenOf	Portugal
+Anselmo_José_Braamcamp	isPoliticianOf	Portugal
+Anselmo_José_Braamcamp	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Beatrice_of_Castile_(1293–1359)	diedIn	Lisbon
+Beatrice_of_Castile_(1293–1359)	diedIn	Lisbon
+Beatrice_of_Castile_(1293–1359)	isCitizenOf	Portugal
+Beatrice_of_Castile_(1293–1359)	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Pedro_I_of_Brazil	diedIn	Lisbon
+Pedro_I_of_Brazil	diedIn	Lisbon
+Pedro_I_of_Brazil	isCitizenOf	Portugal
+Pedro_I_of_Brazil	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Afonso_IV_of_Portugal	wasBornIn	Lisbon
+Afonso_IV_of_Portugal	diedIn	Lisbon
+Afonso_IV_of_Portugal	wasBornIn	Lisbon
+Afonso_IV_of_Portugal	diedIn	Lisbon
+Afonso_IV_of_Portugal	isCitizenOf	Portugal
+Afonso_IV_of_Portugal	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Vasco_da_Gama_Fernandes	diedIn	Lisbon
+Vasco_da_Gama_Fernandes	diedIn	Lisbon
+Vasco_da_Gama_Fernandes	isCitizenOf	Portugal
+Vasco_da_Gama_Fernandes	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Álvaro_de_Campos	diedIn	Lisbon
+Álvaro_de_Campos	diedIn	Lisbon
+Álvaro_de_Campos	isCitizenOf	Portugal
+Álvaro_de_Campos	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bruno_Simão	wasBornIn	Lisbon
+Bruno_Simão	wasBornIn	Lisbon
+Bruno_Simão	isCitizenOf	Portugal
+Bruno_Simão	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+Mário_Soares	isCitizenOf	Portugal
+Mário_Soares	isPoliticianOf	Portugal
+Mário_Soares	isCitizenOf	Portugal
+Mário_Soares	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Luís_of_Portugal,_Duke_of_Beja	diedIn	Lisbon
+Luís_of_Portugal,_Duke_of_Beja	diedIn	Lisbon
+Luís_of_Portugal,_Duke_of_Beja	isCitizenOf	Portugal
+Luís_of_Portugal,_Duke_of_Beja	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+José_Bernardino_de_Portugal_e_Castro	diedIn	Lisbon
+José_Bernardino_de_Portugal_e_Castro	diedIn	Lisbon
+José_Bernardino_de_Portugal_e_Castro	isPoliticianOf	Portugal
+José_Bernardino_de_Portugal_e_Castro	isCitizenOf	Portugal
+José_Bernardino_de_Portugal_e_Castro	isPoliticianOf	Portugal
+José_Bernardino_de_Portugal_e_Castro	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Said_Baaghil	livesIn	Lisbon
+Said_Baaghil	livesIn	Lisbon
+Said_Baaghil	livesIn	Portugal
+Said_Baaghil	livesIn	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+José_Couceiro	wasBornIn	Lisbon
+José_Couceiro	wasBornIn	Lisbon
+José_Couceiro	isCitizenOf	Portugal
+José_Couceiro	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Pina_Manique	wasBornIn	Lisbon
+Pina_Manique	diedIn	Lisbon
+Pina_Manique	wasBornIn	Lisbon
+Pina_Manique	diedIn	Lisbon
+Pina_Manique	isCitizenOf	Portugal
+Pina_Manique	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Henry,_King_of_Portugal	wasBornIn	Lisbon
+Henry,_King_of_Portugal	wasBornIn	Lisbon
+Henry,_King_of_Portugal	isCitizenOf	Portugal
+Henry,_King_of_Portugal	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+First_Portuguese_Republic	hasCapital	Lisbon
+First_Portuguese_Republic	hasCapital	Lisbon
+First_Portuguese_Republic	isLocatedIn	Portugal
+First_Portuguese_Republic	isLocatedIn	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Infanta_Maria_Doroteia_of_Portugal	diedIn	Lisbon
+Infanta_Maria_Doroteia_of_Portugal	wasBornIn	Lisbon
+Infanta_Maria_Doroteia_of_Portugal	diedIn	Lisbon
+Infanta_Maria_Doroteia_of_Portugal	wasBornIn	Lisbon
+Infanta_Maria_Doroteia_of_Portugal	isCitizenOf	Portugal
+Infanta_Maria_Doroteia_of_Portugal	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Alfredo_Abrantes	wasBornIn	Lisbon
+Alfredo_Abrantes	wasBornIn	Lisbon
+Alfredo_Abrantes	isCitizenOf	Portugal
+Alfredo_Abrantes	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Universidade_Nova_de_Lisboa	isLocatedIn	Lisbon
+Universidade_Nova_de_Lisboa	isLocatedIn	Lisbon
+Universidade_Nova_de_Lisboa	isLocatedIn	Portugal
+Universidade_Nova_de_Lisboa	isLocatedIn	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Soledad_Miranda	diedIn	Lisbon
+Soledad_Miranda	diedIn	Lisbon
+Soledad_Miranda	isCitizenOf	Portugal
+Soledad_Miranda	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+António_de_Sousa_Franco	wasBornIn	Lisbon
+António_de_Sousa_Franco	wasBornIn	Lisbon
+António_de_Sousa_Franco	isCitizenOf	Portugal
+António_de_Sousa_Franco	isPoliticianOf	Portugal
+António_de_Sousa_Franco	isCitizenOf	Portugal
+António_de_Sousa_Franco	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+João_Crisóstomo_de_Abreu_e_Sousa	wasBornIn	Lisbon
+João_Crisóstomo_de_Abreu_e_Sousa	diedIn	Lisbon
+João_Crisóstomo_de_Abreu_e_Sousa	wasBornIn	Lisbon
+João_Crisóstomo_de_Abreu_e_Sousa	diedIn	Lisbon
+João_Crisóstomo_de_Abreu_e_Sousa	isPoliticianOf	Portugal
+João_Crisóstomo_de_Abreu_e_Sousa	isCitizenOf	Portugal
+João_Crisóstomo_de_Abreu_e_Sousa	isPoliticianOf	Portugal
+João_Crisóstomo_de_Abreu_e_Sousa	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Infanta_Maria_Ana_Francisca_of_Portugal	wasBornIn	Lisbon
+Infanta_Maria_Ana_Francisca_of_Portugal	wasBornIn	Lisbon
+Infanta_Maria_Ana_Francisca_of_Portugal	isCitizenOf	Portugal
+Infanta_Maria_Ana_Francisca_of_Portugal	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bruno_Nogueira	wasBornIn	Lisbon
+Bruno_Nogueira	wasBornIn	Lisbon
+Bruno_Nogueira	isCitizenOf	Portugal
+Bruno_Nogueira	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Mile_Mrkšić	diedIn	Lisbon
+Mile_Mrkšić	diedIn	Lisbon
+Mile_Mrkšić	isCitizenOf	Portugal
+Mile_Mrkšić	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Teresa_Patrício_de_Gouveia	wasBornIn	Lisbon
+Teresa_Patrício_de_Gouveia	wasBornIn	Lisbon
+Teresa_Patrício_de_Gouveia	isPoliticianOf	Portugal
+Teresa_Patrício_de_Gouveia	isCitizenOf	Portugal
+Teresa_Patrício_de_Gouveia	isPoliticianOf	Portugal
+Teresa_Patrício_de_Gouveia	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Nuno_Manuel_Soares_Gomes	wasBornIn	Lisbon
+Nuno_Manuel_Soares_Gomes	wasBornIn	Lisbon
+Nuno_Manuel_Soares_Gomes	isCitizenOf	Portugal
+Nuno_Manuel_Soares_Gomes	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+António_de_Spínola	diedIn	Lisbon
+António_de_Spínola	diedIn	Lisbon
+António_de_Spínola	isCitizenOf	Portugal
+António_de_Spínola	isPoliticianOf	Portugal
+António_de_Spínola	isCitizenOf	Portugal
+António_de_Spínola	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Antão_de_Almada,_12th_Count_of_Avranches	diedIn	Lisbon
+Antão_de_Almada,_12th_Count_of_Avranches	diedIn	Lisbon
+Antão_de_Almada,_12th_Count_of_Avranches	isCitizenOf	Portugal
+Antão_de_Almada,_12th_Count_of_Avranches	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Vítor_Constâncio	wasBornIn	Lisbon
+Vítor_Constâncio	wasBornIn	Lisbon
+Vítor_Constâncio	isCitizenOf	Portugal
+Vítor_Constâncio	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Vasco_de_Almeida_e_Costa	wasBornIn	Lisbon
+Vasco_de_Almeida_e_Costa	diedIn	Lisbon
+Vasco_de_Almeida_e_Costa	wasBornIn	Lisbon
+Vasco_de_Almeida_e_Costa	diedIn	Lisbon
+Vasco_de_Almeida_e_Costa	isCitizenOf	Portugal
+Vasco_de_Almeida_e_Costa	isPoliticianOf	Portugal
+Vasco_de_Almeida_e_Costa	isCitizenOf	Portugal
+Vasco_de_Almeida_e_Costa	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Teófilo_Braga	diedIn	Lisbon
+Teófilo_Braga	diedIn	Lisbon
+Teófilo_Braga	isCitizenOf	Portugal
+Teófilo_Braga	isPoliticianOf	Portugal
+Teófilo_Braga	isCitizenOf	Portugal
+Teófilo_Braga	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+José_of_Braganza,_Archbishop_of_Braga	wasBornIn	Lisbon
+José_of_Braganza,_Archbishop_of_Braga	wasBornIn	Lisbon
+José_of_Braganza,_Archbishop_of_Braga	isCitizenOf	Portugal
+José_of_Braganza,_Archbishop_of_Braga	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Lisbon	isLocatedIn	Lisboa_Region
+Lisbon	isLocatedIn	Lisboa_Region
+Lisboa_Region	isLocatedIn	Portugal
+Lisboa_Region	isLocatedIn	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Salvador_de_Sá	diedIn	Lisbon
+Salvador_de_Sá	diedIn	Lisbon
+Salvador_de_Sá	isCitizenOf	Portugal
+Salvador_de_Sá	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Pedro_Mota_Soares	wasBornIn	Lisbon
+Pedro_Mota_Soares	wasBornIn	Lisbon
+Pedro_Mota_Soares	isCitizenOf	Portugal
+Pedro_Mota_Soares	isPoliticianOf	Portugal
+Pedro_Mota_Soares	isCitizenOf	Portugal
+Pedro_Mota_Soares	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Joaquim_Pedro_de_Oliveira_Martins	wasBornIn	Lisbon
+Joaquim_Pedro_de_Oliveira_Martins	diedIn	Lisbon
+Joaquim_Pedro_de_Oliveira_Martins	wasBornIn	Lisbon
+Joaquim_Pedro_de_Oliveira_Martins	diedIn	Lisbon
+Joaquim_Pedro_de_Oliveira_Martins	isPoliticianOf	Portugal
+Joaquim_Pedro_de_Oliveira_Martins	isCitizenOf	Portugal
+Joaquim_Pedro_de_Oliveira_Martins	isPoliticianOf	Portugal
+Joaquim_Pedro_de_Oliveira_Martins	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+José_Travassos_Valdez,_1st_Count_of_Bonfim	diedIn	Lisbon
+José_Travassos_Valdez,_1st_Count_of_Bonfim	diedIn	Lisbon
+José_Travassos_Valdez,_1st_Count_of_Bonfim	isCitizenOf	Portugal
+José_Travassos_Valdez,_1st_Count_of_Bonfim	isPoliticianOf	Portugal
+José_Travassos_Valdez,_1st_Count_of_Bonfim	isCitizenOf	Portugal
+José_Travassos_Valdez,_1st_Count_of_Bonfim	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Sidónio_Pais	diedIn	Lisbon
+Sidónio_Pais	diedIn	Lisbon
+Sidónio_Pais	isCitizenOf	Portugal
+Sidónio_Pais	isPoliticianOf	Portugal
+Sidónio_Pais	isCitizenOf	Portugal
+Sidónio_Pais	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Luís_Boa_Morte	wasBornIn	Lisbon
+Luís_Boa_Morte	wasBornIn	Lisbon
+Luís_Boa_Morte	isCitizenOf	Portugal
+Luís_Boa_Morte	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Pedro_Jorge_Ramos_Moreira	wasBornIn	Lisbon
+Pedro_Jorge_Ramos_Moreira	wasBornIn	Lisbon
+Pedro_Jorge_Ramos_Moreira	isCitizenOf	Portugal
+Pedro_Jorge_Ramos_Moreira	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+António_Morato	wasBornIn	Lisbon
+António_Morato	wasBornIn	Lisbon
+António_Morato	isCitizenOf	Portugal
+António_Morato	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Liberato_Pinto	diedIn	Lisbon
+Liberato_Pinto	wasBornIn	Lisbon
+Liberato_Pinto	diedIn	Lisbon
+Liberato_Pinto	wasBornIn	Lisbon
+Liberato_Pinto	isPoliticianOf	Portugal
+Liberato_Pinto	isCitizenOf	Portugal
+Liberato_Pinto	isPoliticianOf	Portugal
+Liberato_Pinto	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Lisbon	isLocatedIn	Portugal
+Portugal	hasCapital	Lisbon
+Lisbon	isLocatedIn	Portugal
+Portugal	hasCapital	Lisbon
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Global_Media_Group	isLocatedIn	Lisbon
+Global_Media_Group	isLocatedIn	Lisbon
+Global_Media_Group	isLocatedIn	Portugal
+Global_Media_Group	isLocatedIn	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Maria_of_Portugal,_Duchess_of_Viseu	wasBornIn	Lisbon
+Maria_of_Portugal,_Duchess_of_Viseu	diedIn	Lisbon
+Maria_of_Portugal,_Duchess_of_Viseu	wasBornIn	Lisbon
+Maria_of_Portugal,_Duchess_of_Viseu	diedIn	Lisbon
+Maria_of_Portugal,_Duchess_of_Viseu	isCitizenOf	Portugal
+Maria_of_Portugal,_Duchess_of_Viseu	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+José_Sebastião_e_Silva	diedIn	Lisbon
+José_Sebastião_e_Silva	diedIn	Lisbon
+José_Sebastião_e_Silva	isCitizenOf	Portugal
+José_Sebastião_e_Silva	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Cafú_(footballer,_born_1977)	wasBornIn	Lisbon
+Cafú_(footballer,_born_1977)	wasBornIn	Lisbon
+Cafú_(footballer,_born_1977)	isCitizenOf	Portugal
+Cafú_(footballer,_born_1977)	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+António_Vitorino	wasBornIn	Lisbon
+António_Vitorino	wasBornIn	Lisbon
+António_Vitorino	isCitizenOf	Portugal
+António_Vitorino	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Luís_Marques_Guedes	wasBornIn	Lisbon
+Luís_Marques_Guedes	wasBornIn	Lisbon
+Luís_Marques_Guedes	isCitizenOf	Portugal
+Luís_Marques_Guedes	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Camilo_Castelo_Branco	wasBornIn	Lisbon
+Camilo_Castelo_Branco	wasBornIn	Lisbon
+Camilo_Castelo_Branco	isCitizenOf	Portugal
+Camilo_Castelo_Branco	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Jorge_Sampaio	wasBornIn	Lisbon
+Jorge_Sampaio	wasBornIn	Lisbon
+Jorge_Sampaio	isCitizenOf	Portugal
+Jorge_Sampaio	isPoliticianOf	Portugal
+Jorge_Sampaio	isCitizenOf	Portugal
+Jorge_Sampaio	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Manuel_de_Arriaga	diedIn	Lisbon
+Manuel_de_Arriaga	diedIn	Lisbon
+Manuel_de_Arriaga	isPoliticianOf	Portugal
+Manuel_de_Arriaga	isCitizenOf	Portugal
+Manuel_de_Arriaga	isPoliticianOf	Portugal
+Manuel_de_Arriaga	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Fontes_Pereira_de_Melo	diedIn	Lisbon
+Fontes_Pereira_de_Melo	wasBornIn	Lisbon
+Fontes_Pereira_de_Melo	diedIn	Lisbon
+Fontes_Pereira_de_Melo	wasBornIn	Lisbon
+Fontes_Pereira_de_Melo	isCitizenOf	Portugal
+Fontes_Pereira_de_Melo	isPoliticianOf	Portugal
+Fontes_Pereira_de_Melo	isCitizenOf	Portugal
+Fontes_Pereira_de_Melo	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/Bernardo_Sassetti	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Portugal
+Bernardo_Sassetti	Portugal
+Bernardo_Sassetti	wasBornIn	Lisbon
+Bernardo_Sassetti	wasBornIn	Lisbon
+Siege_of_Lisbon_(1384)	happenedIn	Lisbon
+Siege_of_Lisbon_(1384)	happenedIn	Lisbon
+Siege_of_Lisbon_(1384)	happenedIn	Portugal
+Siege_of_Lisbon_(1384)	happenedIn	Portugal
+
+http://dbpedia.org/resource/Christopher_Langan	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Bozeman,_Montana
+Christopher_Langan	Bozeman,_Montana
+Christopher_Langan	graduatedFrom	Montana_State_University
+Christopher_Langan	graduatedFrom	Montana_State_University
+Montana_State_University	isLocatedIn	Bozeman,_Montana
+Montana_State_University	isLocatedIn	Bozeman,_Montana
+
+http://dbpedia.org/resource/Tiwa_Savage	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Lagos_Island
+Tiwa_Savage	Lagos_Island
+Tiwa_Savage	isCitizenOf	Nigeria
+Tiwa_Savage	isCitizenOf	Nigeria
+George_N._Alily	isCitizenOf	Nigeria
+George_N._Alily	isCitizenOf	Nigeria
+George_N._Alily	wasBornIn	Lagos_Island
+George_N._Alily	wasBornIn	Lagos_Island
+
+http://dbpedia.org/resource/Ponnusamy_Venugopal	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Tiruvallur
+Ponnusamy_Venugopal	Tiruvallur
+Ponnusamy_Venugopal	wasBornIn	Tiruvallur
+Ponnusamy_Venugopal	wasBornIn	Tiruvallur
+
+http://dbpedia.org/resource/Aloke_Lohia	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Kolkata
+Aloke_Lohia	Kolkata
+Aloke_Lohia	graduatedFrom	University_of_Delhi
+Aloke_Lohia	graduatedFrom	University_of_Delhi
+Sumantra_Ghoshal	graduatedFrom	University_of_Delhi
+Sumantra_Ghoshal	graduatedFrom	University_of_Delhi
+Sumantra_Ghoshal	wasBornIn	Kolkata
+Sumantra_Ghoshal	wasBornIn	Kolkata
+
+http://dbpedia.org/resource/Aloke_Lohia	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Kolkata
+Aloke_Lohia	Kolkata
+Aloke_Lohia	graduatedFrom	University_of_Delhi
+Aloke_Lohia	graduatedFrom	University_of_Delhi
+Aloke_Lohia	graduatedFrom	University_of_Delhi
+Aloke_Lohia	graduatedFrom	University_of_Delhi
+Aloke_Lohia	wasBornIn	Kolkata
+Aloke_Lohia	wasBornIn	Kolkata
+
+http://dbpedia.org/resource/Aloke_Lohia	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Kolkata
+Aloke_Lohia	Kolkata
+Aloke_Lohia	graduatedFrom	University_of_Delhi
+Aloke_Lohia	graduatedFrom	University_of_Delhi
+Amitava_Raychaudhuri	graduatedFrom	University_of_Delhi
+Amitava_Raychaudhuri	graduatedFrom	University_of_Delhi
+Amitava_Raychaudhuri	wasBornIn	Kolkata
+Amitava_Raychaudhuri	livesIn	Kolkata
+Amitava_Raychaudhuri	wasBornIn	Kolkata
+Amitava_Raychaudhuri	livesIn	Kolkata
+
+http://dbpedia.org/resource/Aloke_Lohia	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Kolkata
+Aloke_Lohia	Kolkata
+Aloke_Lohia	graduatedFrom	University_of_Delhi
+Aloke_Lohia	graduatedFrom	University_of_Delhi
+Sabyasachi_Chakrabarty	graduatedFrom	University_of_Delhi
+Sabyasachi_Chakrabarty	graduatedFrom	University_of_Delhi
+Sabyasachi_Chakrabarty	wasBornIn	Kolkata
+Sabyasachi_Chakrabarty	wasBornIn	Kolkata
+
+http://dbpedia.org/resource/Aloke_Lohia	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Kolkata
+Aloke_Lohia	Kolkata
+Aloke_Lohia	graduatedFrom	University_of_Delhi
+Aloke_Lohia	graduatedFrom	University_of_Delhi
+Kaushik_Basu	graduatedFrom	University_of_Delhi
+Kaushik_Basu	graduatedFrom	University_of_Delhi
+Kaushik_Basu	wasBornIn	Kolkata
+Kaushik_Basu	wasBornIn	Kolkata
+
+http://dbpedia.org/resource/Aloke_Lohia	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Kolkata
+Aloke_Lohia	Kolkata
+Aloke_Lohia	wasBornIn	Kolkata
+Aloke_Lohia	wasBornIn	Kolkata
+
+http://dbpedia.org/resource/Tiwa_Savage	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Lagos_State
+Tiwa_Savage	Lagos_State
+Tiwa_Savage	isCitizenOf	Nigeria
+Tiwa_Savage	isCitizenOf	Nigeria
+Mike_Adenuga	isCitizenOf	Nigeria
+Mike_Adenuga	isCitizenOf	Nigeria
+Mike_Adenuga	livesIn	Lagos_State
+Mike_Adenuga	livesIn	Lagos_State
+
+http://dbpedia.org/resource/Tiwa_Savage	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Lagos_State
+Tiwa_Savage	Lagos_State
+Tiwa_Savage	isCitizenOf	Nigeria
+Tiwa_Savage	isCitizenOf	Nigeria
+Oladosun_Oshinowo	isCitizenOf	Nigeria
+Oladosun_Oshinowo	isCitizenOf	Nigeria
+Oladosun_Oshinowo	livesIn	Lagos_State
+Oladosun_Oshinowo	wasBornIn	Lagos_State
+Oladosun_Oshinowo	livesIn	Lagos_State
+Oladosun_Oshinowo	wasBornIn	Lagos_State
+
+http://dbpedia.org/resource/Tiwa_Savage	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Lagos_State
+Tiwa_Savage	Lagos_State
+Tiwa_Savage	isCitizenOf	Niger
+Tiwa_Savage	isCitizenOf	Niger
+Jadesola_Akande	isCitizenOf	Niger
+Jadesola_Akande	isCitizenOf	Niger
+Jadesola_Akande	diedIn	Lagos_State
+Jadesola_Akande	diedIn	Lagos_State
+
+http://dbpedia.org/resource/Tiwa_Savage	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Lagos_State
+Tiwa_Savage	Lagos_State
+Tiwa_Savage	wasBornIn	Ikeja
+Tiwa_Savage	wasBornIn	Ikeja
+Lagos_State	isLocatedIn	Ikeja
+Ikeja	isLocatedIn	Lagos_State
+Lagos_State	hasCapital	Ikeja
+Lagos_State	isLocatedIn	Ikeja
+Ikeja	isLocatedIn	Lagos_State
+Lagos_State	hasCapital	Ikeja
+
+http://dbpedia.org/resource/Tiwa_Savage	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Lagos_State
+Tiwa_Savage	Lagos_State
+Tiwa_Savage	wasBornIn	Ikeja
+Tiwa_Savage	wasBornIn	Ikeja
+Aero_Contractors_(Nigeria)	isLocatedIn	Ikeja
+Aero_Contractors_(Nigeria)	isLocatedIn	Ikeja
+Aero_Contractors_(Nigeria)	isLocatedIn	Lagos_State
+Aero_Contractors_(Nigeria)	isLocatedIn	Lagos_State
+
+http://dbpedia.org/resource/Tiwa_Savage	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Lagos_State
+Tiwa_Savage	Lagos_State
+Tiwa_Savage	wasBornIn	Ikeja
+Tiwa_Savage	wasBornIn	Ikeja
+Kunle_Afolayan	livesIn	Ikeja
+Kunle_Afolayan	livesIn	Ikeja
+Kunle_Afolayan	livesIn	Lagos_State
+Kunle_Afolayan	livesIn	Lagos_State
+
+http://dbpedia.org/resource/Tiwa_Savage	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Lagos_State
+Tiwa_Savage	Lagos_State
+Tiwa_Savage	wasBornIn	Ikeja
+Tiwa_Savage	wasBornIn	Ikeja
+Sosoliso_Airlines	isLocatedIn	Ikeja
+Sosoliso_Airlines	isLocatedIn	Ikeja
+Sosoliso_Airlines	isLocatedIn	Lagos_State
+Sosoliso_Airlines	isLocatedIn	Lagos_State
+
+http://dbpedia.org/resource/Tiwa_Savage	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Lagos_State
+Tiwa_Savage	Lagos_State
+Tiwa_Savage	wasBornIn	Ikeja
+Tiwa_Savage	wasBornIn	Ikeja
+Bellview_Airlines	isLocatedIn	Ikeja
+Bellview_Airlines	isLocatedIn	Ikeja
+Bellview_Airlines	isLocatedIn	Lagos_State
+Bellview_Airlines	isLocatedIn	Lagos_State
+
+http://dbpedia.org/resource/Tiwa_Savage	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Lagos_State
+Tiwa_Savage	Lagos_State
+Tiwa_Savage	wasBornIn	Ikeja
+Tiwa_Savage	wasBornIn	Ikeja
+Federal_Airports_Authority_of_Nigeria	isLocatedIn	Ikeja
+Federal_Airports_Authority_of_Nigeria	isLocatedIn	Ikeja
+Federal_Airports_Authority_of_Nigeria	isLocatedIn	Lagos_State
+Federal_Airports_Authority_of_Nigeria	isLocatedIn	Lagos_State
+
+http://dbpedia.org/resource/Tiwa_Savage	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Lagos_State
+Tiwa_Savage	Lagos_State
+Tiwa_Savage	wasBornIn	Ikeja
+Tiwa_Savage	wasBornIn	Ikeja
+Air_Nigeria	isLocatedIn	Ikeja
+Air_Nigeria	isLocatedIn	Ikeja
+Air_Nigeria	isLocatedIn	Lagos_State
+Air_Nigeria	isLocatedIn	Lagos_State
+
+http://dbpedia.org/resource/Tiwa_Savage	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Lagos_State
+Tiwa_Savage	Lagos_State
+Tiwa_Savage	wasBornIn	Ikeja
+Tiwa_Savage	wasBornIn	Ikeja
+Associated_Aviation	isLocatedIn	Ikeja
+Associated_Aviation	isLocatedIn	Ikeja
+Associated_Aviation	isLocatedIn	Lagos_State
+Associated_Aviation	isLocatedIn	Lagos_State
+
+http://dbpedia.org/resource/O._S._Manian	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Nagapattinam
+O._S._Manian	Nagapattinam
+O._S._Manian	wasBornIn	Nagapattinam
+O._S._Manian	livesIn	Nagapattinam
+O._S._Manian	wasBornIn	Nagapattinam
+O._S._Manian	livesIn	Nagapattinam
+
+http://dbpedia.org/resource/Laura_Gonçalves	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Caracas
+Laura_Gonçalves	Caracas
+Laura_Gonçalves	isCitizenOf	Venezuela
+Laura_Gonçalves	isCitizenOf	Venezuela
+Admirable_Campaign	happenedIn	Venezuela
+Admirable_Campaign	happenedIn	Venezuela
+Admirable_Campaign	happenedIn	Caracas
+Admirable_Campaign	happenedIn	Caracas
+
+http://dbpedia.org/resource/Laura_Gonçalves	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Caracas
+Laura_Gonçalves	Caracas
+Laura_Gonçalves	isCitizenOf	Venezuela
+Laura_Gonçalves	isCitizenOf	Venezuela
+Caracas	isLocatedIn	Venezuela
+Venezuela	hasCapital	Caracas
+Caracas	isLocatedIn	Venezuela
+Venezuela	hasCapital	Caracas
+
+http://dbpedia.org/resource/Laura_Gonçalves	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Caracas
+Laura_Gonçalves	Caracas
+Laura_Gonçalves	isCitizenOf	Venezuela
+Laura_Gonçalves	isCitizenOf	Venezuela
+Bolivarian_Military_University_of_Venezuela	isLocatedIn	Venezuela
+Bolivarian_Military_University_of_Venezuela	isLocatedIn	Venezuela
+Bolivarian_Military_University_of_Venezuela	isLocatedIn	Caracas
+Bolivarian_Military_University_of_Venezuela	isLocatedIn	Caracas
+
+http://dbpedia.org/resource/Laura_Gonçalves	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Caracas
+Laura_Gonçalves	Caracas
+Laura_Gonçalves	wasBornIn	Baruta
+Laura_Gonçalves	wasBornIn	Baruta
+Baruta	isLocatedIn	Venezuela
+Baruta	isLocatedIn	Venezuela
+Caracas	isLocatedIn	Venezuela
+Venezuela	hasCapital	Caracas
+Caracas	isLocatedIn	Venezuela
+Venezuela	hasCapital	Caracas
+
+http://dbpedia.org/resource/Laura_Gonçalves	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Caracas
+Laura_Gonçalves	Caracas
+Laura_Gonçalves	wasBornIn	Baruta
+Laura_Gonçalves	wasBornIn	Baruta
+Metropolitan_Region_of_Caracas	isLocatedIn	Baruta
+Metropolitan_Region_of_Caracas	isLocatedIn	Baruta
+Metropolitan_Region_of_Caracas	isLocatedIn	Caracas
+Metropolitan_Region_of_Caracas	isLocatedIn	Caracas
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	diedIn	Denmark
+Birgit_Brüel	isCitizenOf	Denmark
+Birgit_Brüel	diedIn	Denmark
+Birgit_Brüel	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Danisco	isLocatedIn	Copenhagen
+Danisco	isLocatedIn	Copenhagen
+Danisco	isLocatedIn	Denmark
+Danisco	isLocatedIn	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Svend_Auken	diedIn	Copenhagen
+Svend_Auken	diedIn	Copenhagen
+Svend_Auken	isCitizenOf	Denmark
+Svend_Auken	isPoliticianOf	Denmark
+Svend_Auken	isCitizenOf	Denmark
+Svend_Auken	isPoliticianOf	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Søren_Kierkegaard	wasBornIn	Copenhagen
+Søren_Kierkegaard	diedIn	Copenhagen
+Søren_Kierkegaard	wasBornIn	Copenhagen
+Søren_Kierkegaard	diedIn	Copenhagen
+Søren_Kierkegaard	isCitizenOf	Denmark
+Søren_Kierkegaard	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Henning_Bahs	wasBornIn	Copenhagen
+Henning_Bahs	wasBornIn	Copenhagen
+Henning_Bahs	isCitizenOf	Denmark
+Henning_Bahs	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Godthaab_Church,_Copenhagen	isLocatedIn	Copenhagen
+Godthaab_Church,_Copenhagen	isLocatedIn	Copenhagen
+Godthaab_Church,_Copenhagen	isLocatedIn	Denmark
+Godthaab_Church,_Copenhagen	isLocatedIn	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Claus_Hjort_Frederiksen	wasBornIn	Copenhagen
+Claus_Hjort_Frederiksen	wasBornIn	Copenhagen
+Claus_Hjort_Frederiksen	isPoliticianOf	Denmark
+Claus_Hjort_Frederiksen	isCitizenOf	Denmark
+Claus_Hjort_Frederiksen	isPoliticianOf	Denmark
+Claus_Hjort_Frederiksen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+John_of_Denmark_(1518–1532)	wasBornIn	Copenhagen
+John_of_Denmark_(1518–1532)	wasBornIn	Copenhagen
+John_of_Denmark_(1518–1532)	isCitizenOf	Denmark
+John_of_Denmark_(1518–1532)	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Kris_Stadsgaard	wasBornIn	Copenhagen
+Kris_Stadsgaard	wasBornIn	Copenhagen
+Kris_Stadsgaard	isCitizenOf	Denmark
+Kris_Stadsgaard	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Sven_Methling	wasBornIn	Copenhagen
+Sven_Methling	wasBornIn	Copenhagen
+Sven_Methling	isCitizenOf	Denmark
+Sven_Methling	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Bashkim_Kadrii	wasBornIn	Copenhagen
+Bashkim_Kadrii	wasBornIn	Copenhagen
+Bashkim_Kadrii	isCitizenOf	Denmark
+Bashkim_Kadrii	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	livesIn	Denmark
+Agnete_Bræstrup	isCitizenOf	Denmark
+Agnete_Bræstrup	livesIn	Denmark
+Agnete_Bræstrup	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Thomas_Madsen-Mygdal	diedIn	Copenhagen
+Thomas_Madsen-Mygdal	diedIn	Copenhagen
+Thomas_Madsen-Mygdal	isPoliticianOf	Denmark
+Thomas_Madsen-Mygdal	isCitizenOf	Denmark
+Thomas_Madsen-Mygdal	isPoliticianOf	Denmark
+Thomas_Madsen-Mygdal	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Mads_Bødker	wasBornIn	Copenhagen
+Mads_Bødker	wasBornIn	Copenhagen
+Mads_Bødker	isCitizenOf	Denmark
+Mads_Bødker	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Patrick_Banggaard	wasBornIn	Copenhagen
+Patrick_Banggaard	wasBornIn	Copenhagen
+Patrick_Banggaard	isCitizenOf	Denmark
+Patrick_Banggaard	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Thorkild_Jacobsen	wasBornIn	Copenhagen
+Thorkild_Jacobsen	wasBornIn	Copenhagen
+Thorkild_Jacobsen	isCitizenOf	Denmark
+Thorkild_Jacobsen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Knud_Rasmussen	diedIn	Copenhagen
+Knud_Rasmussen	diedIn	Copenhagen
+Knud_Rasmussen	isCitizenOf	Denmark
+Knud_Rasmussen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Copenhagen	isLocatedIn	Denmark
+Denmark	hasCapital	Copenhagen
+Copenhagen	isLocatedIn	Denmark
+Denmark	hasCapital	Copenhagen
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Prince_George_Valdemar_of_Denmark	diedIn	Copenhagen
+Prince_George_Valdemar_of_Denmark	diedIn	Copenhagen
+Prince_George_Valdemar_of_Denmark	isCitizenOf	Denmark
+Prince_George_Valdemar_of_Denmark	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Princess_Sophia_Hedwig_of_Denmark	wasBornIn	Copenhagen
+Princess_Sophia_Hedwig_of_Denmark	wasBornIn	Copenhagen
+Princess_Sophia_Hedwig_of_Denmark	isCitizenOf	Denmark
+Princess_Sophia_Hedwig_of_Denmark	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Hinrich_Johannes_Rink	wasBornIn	Copenhagen
+Hinrich_Johannes_Rink	wasBornIn	Copenhagen
+Hinrich_Johannes_Rink	isCitizenOf	Denmark
+Hinrich_Johannes_Rink	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Lars_Brygmann	wasBornIn	Copenhagen
+Lars_Brygmann	wasBornIn	Copenhagen
+Lars_Brygmann	isCitizenOf	Denmark
+Lars_Brygmann	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Nicolas_Bro	wasBornIn	Copenhagen
+Nicolas_Bro	wasBornIn	Copenhagen
+Nicolas_Bro	isCitizenOf	Denmark
+Nicolas_Bro	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Thorvald_Sørensen	diedIn	Copenhagen
+Thorvald_Sørensen	diedIn	Copenhagen
+Thorvald_Sørensen	isCitizenOf	Denmark
+Thorvald_Sørensen	wasBornIn	Denmark
+Thorvald_Sørensen	isCitizenOf	Denmark
+Thorvald_Sørensen	wasBornIn	Denmark
+
+http://dbpedia.org/resource/Birgit_Brüel	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Birgit_Brüel	Denmark
+Birgit_Brüel	wasBornIn	Copenhagen
+Birgit_Brüel	wasBornIn	Copenhagen
+Princess_Marie_of_Orléans_(1865–1909)	diedIn	Copenhagen
+Princess_Marie_of_Orléans_(1865–1909)	diedIn	Copenhagen
+Princess_Marie_of_Orléans_(1865–1909)	isCitizenOf	Denmark
+Princess_Marie_of_Orléans_(1865–1909)	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Larry_Thompson_(humorist)	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Stillwater,_Oklahoma
+Larry_Thompson_(humorist)	Stillwater,_Oklahoma
+Larry_Thompson_(humorist)	graduatedFrom	Oklahoma_State_University–Stillwater
+Larry_Thompson_(humorist)	graduatedFrom	Oklahoma_State_University–Stillwater
+William_Jaco	worksAt	Oklahoma_State_University–Stillwater
+William_Jaco	worksAt	Oklahoma_State_University–Stillwater
+William_Jaco	livesIn	Stillwater,_Oklahoma
+William_Jaco	livesIn	Stillwater,_Oklahoma
+
+http://dbpedia.org/resource/Larry_Thompson_(humorist)	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Stillwater,_Oklahoma
+Larry_Thompson_(humorist)	Stillwater,_Oklahoma
+Larry_Thompson_(humorist)	graduatedFrom	Oklahoma_State_University–Stillwater
+Larry_Thompson_(humorist)	graduatedFrom	Oklahoma_State_University–Stillwater
+Oklahoma_State_University–Stillwater	isLocatedIn	Stillwater,_Oklahoma
+Oklahoma_State_University–Stillwater	isLocatedIn	Stillwater,_Oklahoma
+
+http://dbpedia.org/resource/Larry_Thompson_(humorist)	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Stillwater,_Oklahoma
+Larry_Thompson_(humorist)	Stillwater,_Oklahoma
+Larry_Thompson_(humorist)	graduatedFrom	Oklahoma_State_University–Stillwater
+Larry_Thompson_(humorist)	graduatedFrom	Oklahoma_State_University–Stillwater
+Cory_T._Williams	graduatedFrom	Oklahoma_State_University–Stillwater
+Cory_T._Williams	graduatedFrom	Oklahoma_State_University–Stillwater
+Cory_T._Williams	wasBornIn	Stillwater,_Oklahoma
+Cory_T._Williams	livesIn	Stillwater,_Oklahoma
+Cory_T._Williams	wasBornIn	Stillwater,_Oklahoma
+Cory_T._Williams	livesIn	Stillwater,_Oklahoma
+
+http://dbpedia.org/resource/Max_Ehrmann	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Terre_Haute,_Indiana
+Max_Ehrmann	Terre_Haute,_Indiana
+Max_Ehrmann	wasBornIn	Terre_Haute,_Indiana
+Max_Ehrmann	diedIn	Terre_Haute,_Indiana
+Max_Ehrmann	wasBornIn	Terre_Haute,_Indiana
+Max_Ehrmann	diedIn	Terre_Haute,_Indiana
+
+http://dbpedia.org/resource/Joan_Bennett_Kennedy	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Bronxville,_New_York
+Joan_Bennett_Kennedy	Bronxville,_New_York
+Joan_Bennett_Kennedy	hasChild	Kara_Kennedy
+Joan_Bennett_Kennedy	hasChild	Kara_Kennedy
+Kara_Kennedy	wasBornIn	Bronxville,_New_York
+Kara_Kennedy	wasBornIn	Bronxville,_New_York
+
+http://dbpedia.org/resource/Alfred_I._du_Pont	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Wilmington,_Delaware
+Alfred_I._du_Pont	Wilmington,_Delaware
+Jessie_Ball_duPont	isMarriedTo	Alfred_I._du_Pont
+Alfred_I._du_Pont	isMarriedTo	Jessie_Ball_duPont
+Jessie_Ball_duPont	isMarriedTo	Alfred_I._du_Pont
+Alfred_I._du_Pont	isMarriedTo	Jessie_Ball_duPont
+Jessie_Ball_duPont	diedIn	Wilmington,_Delaware
+Jessie_Ball_duPont	diedIn	Wilmington,_Delaware
+
+http://dbpedia.org/resource/WondaGurl	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Toronto
+WondaGurl	Toronto
+WondaGurl	wasBornIn	Toronto
+WondaGurl	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Thomas_Knak	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Thomas_Knak	Denmark
+Thomas_Knak	isCitizenOf	Denmark
+Thomas_Knak	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Thomas_Knak	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Thomas_Knak	Denmark
+Thomas_Knak	wroteMusicFor	Allegro_(film)
+Thomas_Knak	wroteMusicFor	Allegro_(film)
+Thomas_Knak	wroteMusicFor	Allegro_(film)
+Thomas_Knak	wroteMusicFor	Allegro_(film)
+Thomas_Knak	isCitizenOf	Denmark
+Thomas_Knak	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Thomas_Knak	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Thomas_Knak	Denmark
+Thomas_Knak	wroteMusicFor	Allegro_(film)
+Thomas_Knak	wroteMusicFor	Allegro_(film)
+Helena_Christensen	actedIn	Allegro_(film)
+Helena_Christensen	actedIn	Allegro_(film)
+Helena_Christensen	isCitizenOf	Denmark
+Helena_Christensen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Thomas_Knak	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Denmark
+Thomas_Knak	Denmark
+Thomas_Knak	wroteMusicFor	Allegro_(film)
+Thomas_Knak	wroteMusicFor	Allegro_(film)
+Ulrich_Thomsen	actedIn	Allegro_(film)
+Ulrich_Thomsen	actedIn	Allegro_(film)
+Ulrich_Thomsen	isCitizenOf	Denmark
+Ulrich_Thomsen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Pradeep_Kumar_Dubey	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Uttar_Pradesh
+Pradeep_Kumar_Dubey	Uttar_Pradesh
+Pradeep_Kumar_Dubey	livesIn	Lucknow
+Pradeep_Kumar_Dubey	livesIn	Lucknow
+King_George's_Medical_University	isLocatedIn	Lucknow
+King_George's_Medical_University	isLocatedIn	Lucknow
+King_George's_Medical_University	isLocatedIn	Uttar_Pradesh
+King_George's_Medical_University	isLocatedIn	Uttar_Pradesh
+
+http://dbpedia.org/resource/Pradeep_Kumar_Dubey	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Uttar_Pradesh
+Pradeep_Kumar_Dubey	Uttar_Pradesh
+Pradeep_Kumar_Dubey	livesIn	Lucknow
+Pradeep_Kumar_Dubey	livesIn	Lucknow
+Shivpal_Singh_Yadav	livesIn	Lucknow
+Shivpal_Singh_Yadav	livesIn	Lucknow
+Shivpal_Singh_Yadav	livesIn	Uttar_Pradesh
+Shivpal_Singh_Yadav	livesIn	Uttar_Pradesh
+
+http://dbpedia.org/resource/Pradeep_Kumar_Dubey	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/Uttar_Pradesh
+Pradeep_Kumar_Dubey	Uttar_Pradesh
+Pradeep_Kumar_Dubey	livesIn	Uttar_Pradesh
+Pradeep_Kumar_Dubey	livesIn	Uttar_Pradesh
+

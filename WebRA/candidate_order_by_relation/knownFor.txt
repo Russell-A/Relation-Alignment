@@ -1,0 +1,559 @@
+http://dbpedia.org/resource/Lo_Hsing_Han	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Asia_World
+Lo_Hsing_Han	Asia_World
+Lo_Hsing_Han	created	Asia_World
+Lo_Hsing_Han	created	Asia_World
+
+http://dbpedia.org/resource/Lo_Hsing_Han	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Asia_World
+Lo_Hsing_Han	Asia_World
+Lo_Hsing_Han	livesIn	Mayangon_Township
+Lo_Hsing_Han	livesIn	Mayangon_Township
+Lo_Hsing_Han	livesIn	Mayangon_Township
+Lo_Hsing_Han	livesIn	Mayangon_Township
+Lo_Hsing_Han	created	Asia_World
+Lo_Hsing_Han	created	Asia_World
+
+http://dbpedia.org/resource/Lo_Hsing_Han	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Asia_World
+Lo_Hsing_Han	Asia_World
+Lo_Hsing_Han	diedIn	Yangon
+Lo_Hsing_Han	diedIn	Yangon
+Lo_Hsing_Han	diedIn	Yangon
+Lo_Hsing_Han	diedIn	Yangon
+Lo_Hsing_Han	created	Asia_World
+Lo_Hsing_Han	created	Asia_World
+
+http://dbpedia.org/resource/Antoni_Kępiński	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Antoni_Kępiński
+Antoni_Kępiński	Antoni_Kępiński
+Otto_Rank	influences	Antoni_Kępiński
+Otto_Rank	influences	Antoni_Kępiński
+Otto_Rank	influences	Antoni_Kępiński
+Otto_Rank	influences	Antoni_Kępiński
+
+http://dbpedia.org/resource/Antoni_Kępiński	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Antoni_Kępiński
+Antoni_Kępiński	Antoni_Kępiński
+Ludwig_von_Bertalanffy	influences	Antoni_Kępiński
+Ludwig_von_Bertalanffy	influences	Antoni_Kępiński
+Ludwig_von_Bertalanffy	influences	Antoni_Kępiński
+Ludwig_von_Bertalanffy	influences	Antoni_Kępiński
+
+http://dbpedia.org/resource/Hugo_Steinhaus	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Hugo_Steinhaus
+Hugo_Steinhaus	Hugo_Steinhaus
+Zygmunt_Wilhelm_Birnbaum	hasAcademicAdvisor	Hugo_Steinhaus
+Zygmunt_Wilhelm_Birnbaum	hasAcademicAdvisor	Hugo_Steinhaus
+Zygmunt_Wilhelm_Birnbaum	hasAcademicAdvisor	Hugo_Steinhaus
+Zygmunt_Wilhelm_Birnbaum	hasAcademicAdvisor	Hugo_Steinhaus
+
+http://dbpedia.org/resource/Hugo_Steinhaus	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Hugo_Steinhaus
+Hugo_Steinhaus	Hugo_Steinhaus
+Zygmunt_Wilhelm_Birnbaum	hasAcademicAdvisor	Hugo_Steinhaus
+Zygmunt_Wilhelm_Birnbaum	hasAcademicAdvisor	Hugo_Steinhaus
+Stefan_Banach	influences	Zygmunt_Wilhelm_Birnbaum
+Stefan_Banach	influences	Zygmunt_Wilhelm_Birnbaum
+Stefan_Banach	hasAcademicAdvisor	Hugo_Steinhaus
+Stefan_Banach	hasAcademicAdvisor	Hugo_Steinhaus
+
+http://dbpedia.org/resource/Hugo_Steinhaus	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Hugo_Steinhaus
+Hugo_Steinhaus	Hugo_Steinhaus
+Hugo_Steinhaus	hasAcademicAdvisor	David_Hilbert
+Hugo_Steinhaus	hasAcademicAdvisor	David_Hilbert
+Hugo_Steinhaus	hasAcademicAdvisor	David_Hilbert
+Hugo_Steinhaus	hasAcademicAdvisor	David_Hilbert
+
+http://dbpedia.org/resource/Hugo_Steinhaus	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Hugo_Steinhaus
+Hugo_Steinhaus	Hugo_Steinhaus
+Hugo_Steinhaus	hasAcademicAdvisor	David_Hilbert
+Hugo_Steinhaus	hasAcademicAdvisor	David_Hilbert
+David_Hilbert	worksAt	University_of_Göttingen
+David_Hilbert	worksAt	University_of_Göttingen
+Hugo_Steinhaus	graduatedFrom	University_of_Göttingen
+Hugo_Steinhaus	graduatedFrom	University_of_Göttingen
+
+http://dbpedia.org/resource/Hugo_Steinhaus	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Hugo_Steinhaus
+Hugo_Steinhaus	Hugo_Steinhaus
+Mark_Kac	hasAcademicAdvisor	Hugo_Steinhaus
+Mark_Kac	hasAcademicAdvisor	Hugo_Steinhaus
+Mark_Kac	hasAcademicAdvisor	Hugo_Steinhaus
+Mark_Kac	hasAcademicAdvisor	Hugo_Steinhaus
+
+http://dbpedia.org/resource/Hugo_Steinhaus	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Hugo_Steinhaus
+Hugo_Steinhaus	Hugo_Steinhaus
+Stefan_Banach	hasAcademicAdvisor	Hugo_Steinhaus
+Stefan_Banach	hasAcademicAdvisor	Hugo_Steinhaus
+Stefan_Banach	influences	Zygmunt_Wilhelm_Birnbaum
+Stefan_Banach	influences	Zygmunt_Wilhelm_Birnbaum
+Zygmunt_Wilhelm_Birnbaum	hasAcademicAdvisor	Hugo_Steinhaus
+Zygmunt_Wilhelm_Birnbaum	hasAcademicAdvisor	Hugo_Steinhaus
+
+http://dbpedia.org/resource/Hugo_Steinhaus	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Hugo_Steinhaus
+Hugo_Steinhaus	Hugo_Steinhaus
+Stefan_Banach	hasAcademicAdvisor	Hugo_Steinhaus
+Stefan_Banach	hasAcademicAdvisor	Hugo_Steinhaus
+Stefan_Banach	hasAcademicAdvisor	Hugo_Steinhaus
+Stefan_Banach	hasAcademicAdvisor	Hugo_Steinhaus
+
+http://dbpedia.org/resource/Hugo_Steinhaus	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Hugo_Steinhaus
+Hugo_Steinhaus	Hugo_Steinhaus
+Hugo_Steinhaus	graduatedFrom	University_of_Göttingen
+Hugo_Steinhaus	graduatedFrom	University_of_Göttingen
+Hugo_Steinhaus	graduatedFrom	University_of_Göttingen
+Hugo_Steinhaus	graduatedFrom	University_of_Göttingen
+
+http://dbpedia.org/resource/David_Robinson_(horticulturist)	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/County_Dublin
+David_Robinson_(horticulturist)	County_Dublin
+David_Robinson_(horticulturist)	diedIn	Dublin
+David_Robinson_(horticulturist)	livesIn	Dublin
+David_Robinson_(horticulturist)	diedIn	Dublin
+David_Robinson_(horticulturist)	livesIn	Dublin
+Bluebell,_Dublin	isLocatedIn	Dublin
+Bluebell,_Dublin	isLocatedIn	Dublin
+Bluebell,_Dublin	isLocatedIn	County_Dublin
+Bluebell,_Dublin	isLocatedIn	County_Dublin
+
+http://dbpedia.org/resource/David_Robinson_(horticulturist)	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/County_Dublin
+David_Robinson_(horticulturist)	County_Dublin
+David_Robinson_(horticulturist)	diedIn	Dublin
+David_Robinson_(horticulturist)	livesIn	Dublin
+David_Robinson_(horticulturist)	diedIn	Dublin
+David_Robinson_(horticulturist)	livesIn	Dublin
+Blanchardstown	isLocatedIn	Dublin
+Blanchardstown	isLocatedIn	Dublin
+Blanchardstown	isLocatedIn	County_Dublin
+Blanchardstown	isLocatedIn	County_Dublin
+
+http://dbpedia.org/resource/David_Robinson_(horticulturist)	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/County_Dublin
+David_Robinson_(horticulturist)	County_Dublin
+David_Robinson_(horticulturist)	diedIn	Dublin
+David_Robinson_(horticulturist)	livesIn	Dublin
+David_Robinson_(horticulturist)	diedIn	Dublin
+David_Robinson_(horticulturist)	livesIn	Dublin
+Raheny	isLocatedIn	Dublin
+Raheny	isLocatedIn	Dublin
+Raheny	isLocatedIn	County_Dublin
+Raheny	isLocatedIn	County_Dublin
+
+http://dbpedia.org/resource/David_Robinson_(horticulturist)	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/County_Dublin
+David_Robinson_(horticulturist)	County_Dublin
+David_Robinson_(horticulturist)	diedIn	Dublin
+David_Robinson_(horticulturist)	livesIn	Dublin
+David_Robinson_(horticulturist)	diedIn	Dublin
+David_Robinson_(horticulturist)	livesIn	Dublin
+Dublin_Business_School	isLocatedIn	Dublin
+Dublin_Business_School	isLocatedIn	Dublin
+Dublin_Business_School	isLocatedIn	County_Dublin
+Dublin_Business_School	isLocatedIn	County_Dublin
+
+http://dbpedia.org/resource/David_Robinson_(horticulturist)	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/County_Dublin
+David_Robinson_(horticulturist)	County_Dublin
+David_Robinson_(horticulturist)	diedIn	Dublin
+David_Robinson_(horticulturist)	livesIn	Dublin
+David_Robinson_(horticulturist)	diedIn	Dublin
+David_Robinson_(horticulturist)	livesIn	Dublin
+Drumcondra,_Dublin	isLocatedIn	Dublin
+Drumcondra,_Dublin	isLocatedIn	Dublin
+Drumcondra,_Dublin	isLocatedIn	County_Dublin
+Drumcondra,_Dublin	isLocatedIn	County_Dublin
+
+http://dbpedia.org/resource/Nazo_Tokhi	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Mirwais_Hotak
+Nazo_Tokhi	Mirwais_Hotak
+Nazo_Tokhi	wasBornIn	Kandahar_Province
+Nazo_Tokhi	wasBornIn	Kandahar_Province
+Kandahar_Province	isLocatedIn	Kandahar
+Kandahar_Province	hasCapital	Kandahar
+Kandahar	isLocatedIn	Kandahar_Province
+Kandahar_Province	isLocatedIn	Kandahar
+Kandahar_Province	hasCapital	Kandahar
+Kandahar	isLocatedIn	Kandahar_Province
+Mirwais_Hotak	diedIn	Kandahar
+Mirwais_Hotak	diedIn	Kandahar
+
+http://dbpedia.org/resource/Nazo_Tokhi	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Mirwais_Hotak
+Nazo_Tokhi	Mirwais_Hotak
+Nazo_Tokhi	wasBornIn	Kandahar_Province
+Nazo_Tokhi	wasBornIn	Kandahar_Province
+Hussain_Hotak	wasBornIn	Kandahar_Province
+Hussain_Hotak	wasBornIn	Kandahar_Province
+Mirwais_Hotak	hasChild	Hussain_Hotak
+Mirwais_Hotak	hasChild	Hussain_Hotak
+
+http://dbpedia.org/resource/Nazo_Tokhi	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Mirwais_Hotak
+Nazo_Tokhi	Mirwais_Hotak
+Nazo_Tokhi	diedIn	Kandahar
+Nazo_Tokhi	diedIn	Kandahar
+Mirwais_Hotak	diedIn	Kandahar
+Mirwais_Hotak	diedIn	Kandahar
+
+http://dbpedia.org/resource/Nazo_Tokhi	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Mirwais_Hotak
+Nazo_Tokhi	Mirwais_Hotak
+Nazo_Tokhi	isCitizenOf	Afghanistan
+Nazo_Tokhi	isCitizenOf	Afghanistan
+Hussain_Hotak	isCitizenOf	Afghanistan
+Hussain_Hotak	isCitizenOf	Afghanistan
+Mirwais_Hotak	hasChild	Hussain_Hotak
+Mirwais_Hotak	hasChild	Hussain_Hotak
+
+http://dbpedia.org/resource/Nazo_Tokhi	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Mirwais_Hotak
+Nazo_Tokhi	Mirwais_Hotak
+Nazo_Tokhi	hasChild	Abdul_Aziz_Hotak
+Nazo_Tokhi	hasChild	Abdul_Aziz_Hotak
+Salim_Khan	hasChild	Abdul_Aziz_Hotak
+Salim_Khan	hasChild	Abdul_Aziz_Hotak
+Salim_Khan	hasChild	Mirwais_Hotak
+Salim_Khan	hasChild	Mirwais_Hotak
+
+http://dbpedia.org/resource/Nazo_Tokhi	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Mirwais_Hotak
+Nazo_Tokhi	Mirwais_Hotak
+Nazo_Tokhi	hasChild	Abdul_Aziz_Hotak
+Nazo_Tokhi	hasChild	Abdul_Aziz_Hotak
+Abdul_Aziz_Hotak	diedIn	Kandahar
+Abdul_Aziz_Hotak	diedIn	Kandahar
+Mirwais_Hotak	diedIn	Kandahar
+Mirwais_Hotak	diedIn	Kandahar
+
+http://dbpedia.org/resource/Nazo_Tokhi	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Mirwais_Hotak
+Nazo_Tokhi	Mirwais_Hotak
+Nazo_Tokhi	hasChild	Abdul_Aziz_Hotak
+Nazo_Tokhi	hasChild	Abdul_Aziz_Hotak
+Nazo_Tokhi	hasChild	Abdul_Aziz_Hotak
+Nazo_Tokhi	hasChild	Abdul_Aziz_Hotak
+Nazo_Tokhi	hasChild	Mirwais_Hotak
+Nazo_Tokhi	hasChild	Mirwais_Hotak
+
+http://dbpedia.org/resource/Nazo_Tokhi	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Mirwais_Hotak
+Nazo_Tokhi	Mirwais_Hotak
+Nazo_Tokhi	hasChild	Mirwais_Hotak
+Nazo_Tokhi	hasChild	Mirwais_Hotak
+
+http://dbpedia.org/resource/Zaynab_bint_Ali	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Karbala
+Zaynab_bint_Ali	Karbala
+Ali	hasChild	Zaynab_bint_Ali
+Ali	hasChild	Zaynab_bint_Ali
+Ali	hasChild	Abbas_ibn_Ali
+Ali	hasChild	Abbas_ibn_Ali
+Abbas_ibn_Ali	diedIn	Karbala
+Abbas_ibn_Ali	diedIn	Karbala
+
+http://dbpedia.org/resource/Leonidas_D._Marinelli	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Leonidas_D._Marinelli
+Leonidas_D._Marinelli	Leonidas_D._Marinelli
+Leonidas_D._Marinelli	hasAcademicAdvisor	Gioacchino_Failla
+Leonidas_D._Marinelli	hasAcademicAdvisor	Gioacchino_Failla
+Leonidas_D._Marinelli	hasAcademicAdvisor	Gioacchino_Failla
+Leonidas_D._Marinelli	hasAcademicAdvisor	Gioacchino_Failla
+
+http://dbpedia.org/resource/Leonidas_D._Marinelli	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Leonidas_D._Marinelli
+Leonidas_D._Marinelli	Leonidas_D._Marinelli
+Leonidas_D._Marinelli	diedIn	Hinsdale,_Illinois
+Leonidas_D._Marinelli	diedIn	Hinsdale,_Illinois
+Leonidas_D._Marinelli	diedIn	Hinsdale,_Illinois
+Leonidas_D._Marinelli	diedIn	Hinsdale,_Illinois
+
+http://dbpedia.org/resource/Leonidas_D._Marinelli	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Leonidas_D._Marinelli
+Leonidas_D._Marinelli	Leonidas_D._Marinelli
+Leonidas_D._Marinelli	graduatedFrom	Cooper_Union
+Leonidas_D._Marinelli	graduatedFrom	Cooper_Union
+Leonidas_D._Marinelli	graduatedFrom	Cooper_Union
+Leonidas_D._Marinelli	graduatedFrom	Cooper_Union
+
+http://dbpedia.org/resource/Cyrus_McCormick	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/International_Harvester
+Cyrus_McCormick	International_Harvester
+Cyrus_McCormick	hasChild	Harold_Fowler_McCormick
+Cyrus_McCormick	hasChild	Harold_Fowler_McCormick
+Harold_Fowler_McCormick	wasBornIn	Chicago
+Harold_Fowler_McCormick	wasBornIn	Chicago
+International_Harvester	isLocatedIn	Chicago
+International_Harvester	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Cyrus_McCormick	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/International_Harvester
+Cyrus_McCormick	International_Harvester
+Cyrus_McCormick	created	International_Harvester
+Cyrus_McCormick	created	International_Harvester
+
+http://dbpedia.org/resource/Cyrus_McCormick	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/International_Harvester
+Cyrus_McCormick	International_Harvester
+Cyrus_McCormick	diedIn	Illinois
+Cyrus_McCormick	diedIn	Illinois
+International_Harvester	isLocatedIn	Illinois
+International_Harvester	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Kalanithi_Maran	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Sun_Group
+Kalanithi_Maran	Sun_Group
+Kalanithi_Maran	owns	Sunrisers_Hyderabad
+Kalanithi_Maran	owns	Sunrisers_Hyderabad
+Sun_Group	owns	Sunrisers_Hyderabad
+Sun_Group	owns	Sunrisers_Hyderabad
+
+http://dbpedia.org/resource/Guru_Har_Krishan	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Delhi
+Guru_Har_Krishan	Delhi
+Guru_Har_Krishan	diedIn	Delhi
+Guru_Har_Krishan	diedIn	Delhi
+
+http://dbpedia.org/resource/María_Josefa_Lastiri	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Costa_Rica
+María_Josefa_Lastiri	Costa_Rica
+María_Josefa_Lastiri	isMarriedTo	Francisco_Morazán
+Francisco_Morazán	isMarriedTo	María_Josefa_Lastiri
+María_Josefa_Lastiri	isMarriedTo	Francisco_Morazán
+Francisco_Morazán	isMarriedTo	María_Josefa_Lastiri
+Francisco_Morazán	isCitizenOf	Costa_Rica
+Francisco_Morazán	isPoliticianOf	Costa_Rica
+Francisco_Morazán	isCitizenOf	Costa_Rica
+Francisco_Morazán	isPoliticianOf	Costa_Rica
+
+http://dbpedia.org/resource/María_Josefa_Lastiri	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Costa_Rica
+María_Josefa_Lastiri	Costa_Rica
+María_Josefa_Lastiri	isCitizenOf	Costa_Rica
+María_Josefa_Lastiri	isCitizenOf	Costa_Rica
+
+http://dbpedia.org/resource/Michael_Wayne	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/John_Wayne
+Michael_Wayne	John_Wayne
+Patrick_Wayne	hasChild	Michael_Wayne
+Patrick_Wayne	hasChild	Michael_Wayne
+Josephine_Wayne	hasChild	Patrick_Wayne
+Josephine_Wayne	hasChild	Patrick_Wayne
+Josephine_Wayne	isMarriedTo	John_Wayne
+John_Wayne	isMarriedTo	Josephine_Wayne
+Josephine_Wayne	isMarriedTo	John_Wayne
+John_Wayne	isMarriedTo	Josephine_Wayne
+
+http://dbpedia.org/resource/Michael_Wayne	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/John_Wayne
+Michael_Wayne	John_Wayne
+Patrick_Wayne	hasChild	Michael_Wayne
+Patrick_Wayne	hasChild	Michael_Wayne
+Patrick_Wayne	hasChild	Michael_Wayne
+Patrick_Wayne	hasChild	Michael_Wayne
+John_Wayne	hasChild	Michael_Wayne
+John_Wayne	hasChild	Michael_Wayne
+
+http://dbpedia.org/resource/Michael_Wayne	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/John_Wayne
+Michael_Wayne	John_Wayne
+Patrick_Wayne	hasChild	Michael_Wayne
+Patrick_Wayne	hasChild	Michael_Wayne
+John_Wayne	hasChild	Patrick_Wayne
+John_Wayne	hasChild	Patrick_Wayne
+
+http://dbpedia.org/resource/Michael_Wayne	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/John_Wayne
+Michael_Wayne	John_Wayne
+Josephine_Wayne	hasChild	Michael_Wayne
+Josephine_Wayne	hasChild	Michael_Wayne
+Josephine_Wayne	isMarriedTo	John_Wayne
+John_Wayne	isMarriedTo	Josephine_Wayne
+Josephine_Wayne	isMarriedTo	John_Wayne
+John_Wayne	isMarriedTo	Josephine_Wayne
+
+http://dbpedia.org/resource/Michael_Wayne	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/John_Wayne
+Michael_Wayne	John_Wayne
+John_Wayne	hasChild	Michael_Wayne
+John_Wayne	hasChild	Michael_Wayne
+
+http://dbpedia.org/resource/Michael_Wayne	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/John_Wayne
+Michael_Wayne	John_Wayne
+Michael_Wayne	diedIn	Burbank,_California
+Michael_Wayne	diedIn	Burbank,_California
+Michael_Wayne	diedIn	Burbank,_California
+Michael_Wayne	diedIn	Burbank,_California
+John_Wayne	hasChild	Michael_Wayne
+John_Wayne	hasChild	Michael_Wayne
+
+http://dbpedia.org/resource/Yeram_S._Touloukian	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Purdue_University
+Yeram_S._Touloukian	Purdue_University
+Yeram_S._Touloukian	worksAt	Purdue_University
+Yeram_S._Touloukian	graduatedFrom	Purdue_University
+Yeram_S._Touloukian	worksAt	Purdue_University
+Yeram_S._Touloukian	graduatedFrom	Purdue_University
+
+http://dbpedia.org/resource/Yeram_S._Touloukian	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Purdue_University
+Yeram_S._Touloukian	Purdue_University
+Yeram_S._Touloukian	diedIn	Bethesda,_Maryland
+Yeram_S._Touloukian	diedIn	Bethesda,_Maryland
+Yeram_S._Touloukian	diedIn	Bethesda,_Maryland
+Yeram_S._Touloukian	diedIn	Bethesda,_Maryland
+Yeram_S._Touloukian	worksAt	Purdue_University
+Yeram_S._Touloukian	graduatedFrom	Purdue_University
+Yeram_S._Touloukian	worksAt	Purdue_University
+Yeram_S._Touloukian	graduatedFrom	Purdue_University
+
+http://dbpedia.org/resource/Peter_Madsen_Peel	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Mount_Pleasant,_Utah
+Peter_Madsen_Peel	Mount_Pleasant,_Utah
+Peter_Madsen_Peel	wasBornIn	Aakirkeby
+Peter_Madsen_Peel	wasBornIn	Aakirkeby
+Peter_Madsen_Peel	wasBornIn	Aakirkeby
+Peter_Madsen_Peel	wasBornIn	Aakirkeby
+Peter_Madsen_Peel	diedIn	Mount_Pleasant,_Utah
+Peter_Madsen_Peel	diedIn	Mount_Pleasant,_Utah
+
+http://dbpedia.org/resource/Peter_Madsen_Peel	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Mount_Pleasant,_Utah
+Peter_Madsen_Peel	Mount_Pleasant,_Utah
+Peter_Madsen_Peel	diedIn	Mount_Pleasant,_Utah
+Peter_Madsen_Peel	diedIn	Mount_Pleasant,_Utah
+
+http://dbpedia.org/resource/Dorabji_Tata	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Tata_Power
+Dorabji_Tata	Tata_Power
+Jamsetji_Tata	hasChild	Dorabji_Tata
+Jamsetji_Tata	hasChild	Dorabji_Tata
+Jamsetji_Tata	created	Tata_Group
+Jamsetji_Tata	created	Tata_Group
+Tata_Group	owns	Tata_Power
+Tata_Group	owns	Tata_Power
+
+http://dbpedia.org/resource/Dorabji_Tata	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Tata_Power
+Dorabji_Tata	Tata_Power
+Jamsetji_Tata	hasChild	Dorabji_Tata
+Jamsetji_Tata	hasChild	Dorabji_Tata
+Jamsetji_Tata	hasChild	Dorabji_Tata
+Jamsetji_Tata	hasChild	Dorabji_Tata
+Dorabji_Tata	created	Tata_Power
+Dorabji_Tata	created	Tata_Power
+
+http://dbpedia.org/resource/Dorabji_Tata	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Tata_Power
+Dorabji_Tata	Tata_Power
+Dorabji_Tata	created	Tata_Steel
+Dorabji_Tata	created	Tata_Steel
+Dorabji_Tata	created	Tata_Steel
+Dorabji_Tata	created	Tata_Steel
+Dorabji_Tata	created	Tata_Power
+Dorabji_Tata	created	Tata_Power
+
+http://dbpedia.org/resource/Dorabji_Tata	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Tata_Power
+Dorabji_Tata	Tata_Power
+Dorabji_Tata	created	Tata_Steel
+Dorabji_Tata	created	Tata_Steel
+Tata_Group	owns	Tata_Steel
+Tata_Group	owns	Tata_Steel
+Tata_Group	owns	Tata_Power
+Tata_Group	owns	Tata_Power
+
+http://dbpedia.org/resource/Dorabji_Tata	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Tata_Power
+Dorabji_Tata	Tata_Power
+Dorabji_Tata	created	Tata_Power
+Dorabji_Tata	created	Tata_Power
+
+http://dbpedia.org/resource/Dorabji_Tata	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Tata_Power
+Dorabji_Tata	Tata_Power
+Dorabji_Tata	graduatedFrom	University_of_Mumbai
+Dorabji_Tata	graduatedFrom	University_of_Mumbai
+Dorabji_Tata	graduatedFrom	University_of_Mumbai
+Dorabji_Tata	graduatedFrom	University_of_Mumbai
+Dorabji_Tata	created	Tata_Power
+Dorabji_Tata	created	Tata_Power
+
+http://dbpedia.org/resource/Dorabji_Tata	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Tata_Power
+Dorabji_Tata	Tata_Power
+Dorabji_Tata	wasBornIn	Mumbai
+Dorabji_Tata	wasBornIn	Mumbai
+Tata_Group	isLocatedIn	Mumbai
+Tata_Group	isLocatedIn	Mumbai
+Tata_Group	owns	Tata_Power
+Tata_Group	owns	Tata_Power
+
+http://dbpedia.org/resource/David_T._Abercrombie	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Abercrombie_&_Fitch
+David_T._Abercrombie	Abercrombie_&_Fitch
+David_T._Abercrombie	created	Abercrombie_&_Fitch
+David_T._Abercrombie	created	Abercrombie_&_Fitch
+
+http://dbpedia.org/resource/David_T._Abercrombie	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Abercrombie_&_Fitch
+David_T._Abercrombie	Abercrombie_&_Fitch
+David_T._Abercrombie	diedIn	Ossining_(village),_New_York
+David_T._Abercrombie	diedIn	Ossining_(village),_New_York
+David_T._Abercrombie	diedIn	Ossining_(village),_New_York
+David_T._Abercrombie	diedIn	Ossining_(village),_New_York
+David_T._Abercrombie	created	Abercrombie_&_Fitch
+David_T._Abercrombie	created	Abercrombie_&_Fitch
+
+http://dbpedia.org/resource/John_Langalibalele_Dube	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/African_National_Congress
+John_Langalibalele_Dube	African_National_Congress
+John_Langalibalele_Dube	diedIn	Durban
+John_Langalibalele_Dube	diedIn	Durban
+Billy_Nair	diedIn	Durban
+Billy_Nair	wasBornIn	Durban
+Billy_Nair	diedIn	Durban
+Billy_Nair	wasBornIn	Durban
+Billy_Nair	isAffiliatedTo	African_National_Congress
+Billy_Nair	isAffiliatedTo	African_National_Congress
+
+http://dbpedia.org/resource/John_Langalibalele_Dube	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/African_National_Congress
+John_Langalibalele_Dube	African_National_Congress
+John_Langalibalele_Dube	diedIn	Durban
+John_Langalibalele_Dube	diedIn	Durban
+Thoko_Didiza	wasBornIn	Durban
+Thoko_Didiza	wasBornIn	Durban
+Thoko_Didiza	isAffiliatedTo	African_National_Congress
+Thoko_Didiza	isAffiliatedTo	African_National_Congress
+
+http://dbpedia.org/resource/John_Langalibalele_Dube	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/African_National_Congress
+John_Langalibalele_Dube	African_National_Congress
+John_Langalibalele_Dube	diedIn	Durban
+John_Langalibalele_Dube	diedIn	Durban
+Pravin_Gordhan	wasBornIn	Durban
+Pravin_Gordhan	wasBornIn	Durban
+Pravin_Gordhan	isAffiliatedTo	African_National_Congress
+Pravin_Gordhan	isAffiliatedTo	African_National_Congress
+
+http://dbpedia.org/resource/Dimitri_Tsafendas	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Hendrik_Verwoerd
+Dimitri_Tsafendas	Hendrik_Verwoerd
+Dimitri_Tsafendas	isCitizenOf	South_Africa
+Dimitri_Tsafendas	isCitizenOf	South_Africa
+Hendrik_Verwoerd	isCitizenOf	South_Africa
+Hendrik_Verwoerd	isPoliticianOf	South_Africa
+Hendrik_Verwoerd	isCitizenOf	South_Africa
+Hendrik_Verwoerd	isPoliticianOf	South_Africa
+
+http://dbpedia.org/resource/Colleen_Howe	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Gordie_Howe
+Colleen_Howe	Gordie_Howe
+Gordie_Howe	isMarriedTo	Colleen_Howe
+Colleen_Howe	isMarriedTo	Gordie_Howe
+Gordie_Howe	isMarriedTo	Colleen_Howe
+Colleen_Howe	isMarriedTo	Gordie_Howe
+
+http://dbpedia.org/resource/Colleen_Howe	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Gordie_Howe
+Colleen_Howe	Gordie_Howe
+Colleen_Howe	hasChild	Mark_Howe
+Colleen_Howe	hasChild	Mark_Howe
+Mark_Howe	isAffiliatedTo	Detroit_Red_Wings
+Mark_Howe	isAffiliatedTo	Detroit_Red_Wings
+Gordie_Howe	isAffiliatedTo	Detroit_Red_Wings
+Gordie_Howe	isAffiliatedTo	Detroit_Red_Wings
+
+http://dbpedia.org/resource/Colleen_Howe	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Gordie_Howe
+Colleen_Howe	Gordie_Howe
+Colleen_Howe	hasChild	Mark_Howe
+Colleen_Howe	hasChild	Mark_Howe
+Mark_Howe	isAffiliatedTo	Hartford_Whalers
+Mark_Howe	isAffiliatedTo	Hartford_Whalers
+Gordie_Howe	isAffiliatedTo	Hartford_Whalers
+Gordie_Howe	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Colleen_Howe	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/Gordie_Howe
+Colleen_Howe	Gordie_Howe
+Colleen_Howe	hasChild	Mark_Howe
+Colleen_Howe	hasChild	Mark_Howe
+Colleen_Howe	hasChild	Mark_Howe
+Colleen_Howe	hasChild	Mark_Howe
+Gordie_Howe	isMarriedTo	Colleen_Howe
+Colleen_Howe	isMarriedTo	Gordie_Howe
+Gordie_Howe	isMarriedTo	Colleen_Howe
+Colleen_Howe	isMarriedTo	Gordie_Howe
+
+http://dbpedia.org/resource/Jonathan_Kraft	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/New_England_Patriots
+Jonathan_Kraft	New_England_Patriots
+Myra_Kraft	hasChild	Jonathan_Kraft
+Myra_Kraft	hasChild	Jonathan_Kraft
+Robert_Kraft	isMarriedTo	Myra_Kraft
+Myra_Kraft	isMarriedTo	Robert_Kraft
+Robert_Kraft	isMarriedTo	Myra_Kraft
+Myra_Kraft	isMarriedTo	Robert_Kraft
+Robert_Kraft	owns	New_England_Patriots
+Robert_Kraft	owns	New_England_Patriots
+
+http://dbpedia.org/resource/Jonathan_Kraft	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/New_England_Patriots
+Jonathan_Kraft	New_England_Patriots
+Jonathan_Kraft	wasBornIn	Brookline,_Massachusetts
+Jonathan_Kraft	wasBornIn	Brookline,_Massachusetts
+Robert_Kraft	wasBornIn	Brookline,_Massachusetts
+Robert_Kraft	wasBornIn	Brookline,_Massachusetts
+Robert_Kraft	owns	New_England_Patriots
+Robert_Kraft	owns	New_England_Patriots
+
+http://dbpedia.org/resource/Jonathan_Kraft	http://dbpedia.org/ontology/knownFor	http://dbpedia.org/resource/New_England_Patriots
+Jonathan_Kraft	New_England_Patriots
+Robert_Kraft	hasChild	Jonathan_Kraft
+Robert_Kraft	hasChild	Jonathan_Kraft
+Robert_Kraft	owns	New_England_Patriots
+Robert_Kraft	owns	New_England_Patriots
+

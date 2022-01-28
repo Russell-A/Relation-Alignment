@@ -1,0 +1,110 @@
+http://dbpedia.org/resource/Madeira	http://dbpedia.org/ontology/border	http://dbpedia.org/resource/Madeira
+Madeira	Madeira
+Campo_da_Imaculada_Conceição	isLocatedIn	Madeira
+Campo_da_Imaculada_Conceição	isLocatedIn	Madeira
+Campo_da_Imaculada_Conceição	isLocatedIn	Madeira
+Campo_da_Imaculada_Conceição	isLocatedIn	Madeira
+
+http://dbpedia.org/resource/Madeira	http://dbpedia.org/ontology/border	http://dbpedia.org/resource/Madeira
+Madeira	Madeira
+Campo_da_Imaculada_Conceição	isLocatedIn	Madeira
+Campo_da_Imaculada_Conceição	isLocatedIn	Madeira
+Campo_da_Imaculada_Conceição	isLocatedIn	Funchal
+Campo_da_Imaculada_Conceição	isLocatedIn	Funchal
+Madeira	hasCapital	Funchal
+Madeira	hasCapital	Funchal
+
+http://dbpedia.org/resource/Madeira	http://dbpedia.org/ontology/border	http://dbpedia.org/resource/Madeira
+Madeira	Madeira
+Rubina_Berardo	wasBornIn	Madeira
+Rubina_Berardo	wasBornIn	Madeira
+Rubina_Berardo	wasBornIn	Madeira
+Rubina_Berardo	wasBornIn	Madeira
+
+http://dbpedia.org/resource/Madeira	http://dbpedia.org/ontology/border	http://dbpedia.org/resource/Madeira
+Madeira	Madeira
+Estádio_da_Madeira	isLocatedIn	Madeira
+Estádio_da_Madeira	isLocatedIn	Madeira
+Estádio_da_Madeira	isLocatedIn	Madeira
+Estádio_da_Madeira	isLocatedIn	Madeira
+
+http://dbpedia.org/resource/Madeira	http://dbpedia.org/ontology/border	http://dbpedia.org/resource/Madeira
+Madeira	Madeira
+Estádio_da_Madeira	isLocatedIn	Madeira
+Estádio_da_Madeira	isLocatedIn	Madeira
+Estádio_da_Madeira	isLocatedIn	Funchal
+Estádio_da_Madeira	isLocatedIn	Funchal
+Madeira	hasCapital	Funchal
+Madeira	hasCapital	Funchal
+
+http://dbpedia.org/resource/Madeira	http://dbpedia.org/ontology/border	http://dbpedia.org/resource/Madeira
+Madeira	Madeira
+William_Kingdon_Clifford	diedIn	Madeira
+William_Kingdon_Clifford	diedIn	Madeira
+William_Kingdon_Clifford	diedIn	Madeira
+William_Kingdon_Clifford	diedIn	Madeira
+
+http://dbpedia.org/resource/Madeira	http://dbpedia.org/ontology/border	http://dbpedia.org/resource/Madeira
+Madeira	Madeira
+Savage_Islands	isLocatedIn	Madeira
+Savage_Islands	isLocatedIn	Madeira
+Savage_Islands	isLocatedIn	Funchal
+Savage_Islands	isLocatedIn	Funchal
+Madeira	hasCapital	Funchal
+Madeira	hasCapital	Funchal
+
+http://dbpedia.org/resource/Madeira	http://dbpedia.org/ontology/border	http://dbpedia.org/resource/Madeira
+Madeira	Madeira
+Savage_Islands	isLocatedIn	Madeira
+Savage_Islands	isLocatedIn	Madeira
+Savage_Islands	isLocatedIn	Madeira
+Savage_Islands	isLocatedIn	Madeira
+
+http://dbpedia.org/resource/Madeira	http://dbpedia.org/ontology/border	http://dbpedia.org/resource/Madeira
+Madeira	Madeira
+Action_of_22_August_1866	happenedIn	Madeira
+Action_of_22_August_1866	happenedIn	Madeira
+Action_of_22_August_1866	happenedIn	Madeira
+Action_of_22_August_1866	happenedIn	Madeira
+
+http://dbpedia.org/resource/Madeira	http://dbpedia.org/ontology/border	http://dbpedia.org/resource/Madeira
+Madeira	Madeira
+Action_of_22_August_1866	happenedIn	Madeira
+Action_of_22_August_1866	happenedIn	Madeira
+Action_of_22_August_1866	happenedIn	Funchal
+Action_of_22_August_1866	happenedIn	Funchal
+Madeira	hasCapital	Funchal
+Madeira	hasCapital	Funchal
+
+http://dbpedia.org/resource/Madeira	http://dbpedia.org/ontology/border	http://dbpedia.org/resource/Madeira
+Madeira	Madeira
+Madeira	hasCapital	Funchal
+Madeira	hasCapital	Funchal
+Action_of_22_August_1866	happenedIn	Funchal
+Action_of_22_August_1866	happenedIn	Funchal
+Action_of_22_August_1866	happenedIn	Madeira
+Action_of_22_August_1866	happenedIn	Madeira
+
+http://dbpedia.org/resource/Madeira	http://dbpedia.org/ontology/border	http://dbpedia.org/resource/Madeira
+Madeira	Madeira
+Madeira	hasCapital	Funchal
+Madeira	hasCapital	Funchal
+Madeira	hasCapital	Funchal
+Madeira	hasCapital	Funchal
+
+http://dbpedia.org/resource/Madeira	http://dbpedia.org/ontology/border	http://dbpedia.org/resource/Madeira
+Madeira	Madeira
+Madeira	hasCapital	Funchal
+Madeira	hasCapital	Funchal
+Estádio_da_Madeira	isLocatedIn	Funchal
+Estádio_da_Madeira	isLocatedIn	Funchal
+Estádio_da_Madeira	isLocatedIn	Madeira
+Estádio_da_Madeira	isLocatedIn	Madeira
+
+http://dbpedia.org/resource/Madeira	http://dbpedia.org/ontology/border	http://dbpedia.org/resource/Madeira
+Madeira	Madeira
+António_de_Abreu	wasBornIn	Madeira
+António_de_Abreu	wasBornIn	Madeira
+António_de_Abreu	wasBornIn	Madeira
+António_de_Abreu	wasBornIn	Madeira
+

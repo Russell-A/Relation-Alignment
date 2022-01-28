@@ -1,0 +1,240 @@
+http://dbpedia.org/resource/Resistencia,_Chaco	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/Radical_Civic_Union
+Resistencia,_Chaco	Radical_Civic_Union
+Elisa_Carrió	wasBornIn	Resistencia,_Chaco
+Elisa_Carrió	wasBornIn	Resistencia,_Chaco
+Elisa_Carrió	isAffiliatedTo	Radical_Civic_Union
+Elisa_Carrió	isAffiliatedTo	Radical_Civic_Union
+
+http://dbpedia.org/resource/Ingolstadt	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/Christian_Social_Union_in_Bavaria
+Ingolstadt	Christian_Social_Union_in_Bavaria
+Reinhard_Brandl	wasBornIn	Ingolstadt
+Reinhard_Brandl	wasBornIn	Ingolstadt
+Reinhard_Brandl	isAffiliatedTo	Christian_Social_Union_in_Bavaria
+Reinhard_Brandl	isAffiliatedTo	Christian_Social_Union_in_Bavaria
+
+http://dbpedia.org/resource/Leganés	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/People's_Party_(Spain)
+Leganés	People's_Party_(Spain)
+Leganés	isLocatedIn	Community_of_Madrid
+Leganés	isLocatedIn	Community_of_Madrid
+Ignacio_González_González	isPoliticianOf	Community_of_Madrid
+Ignacio_González_González	isPoliticianOf	Community_of_Madrid
+Ignacio_González_González	isAffiliatedTo	People's_Party_(Spain)
+Ignacio_González_González	isAffiliatedTo	People's_Party_(Spain)
+
+http://dbpedia.org/resource/Leganés	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/People's_Party_(Spain)
+Leganés	People's_Party_(Spain)
+Leganés	isLocatedIn	Community_of_Madrid
+Leganés	isLocatedIn	Community_of_Madrid
+Esperanza_Aguirre	isPoliticianOf	Community_of_Madrid
+Esperanza_Aguirre	isPoliticianOf	Community_of_Madrid
+Esperanza_Aguirre	isAffiliatedTo	People's_Party_(Spain)
+Esperanza_Aguirre	isAffiliatedTo	People's_Party_(Spain)
+
+http://dbpedia.org/resource/Leganés	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/People's_Party_(Spain)
+Leganés	People's_Party_(Spain)
+Leganés	isLocatedIn	Community_of_Madrid
+Leganés	isLocatedIn	Community_of_Madrid
+Cristina_Cifuentes	isPoliticianOf	Community_of_Madrid
+Cristina_Cifuentes	isLeaderOf	Community_of_Madrid
+Cristina_Cifuentes	isPoliticianOf	Community_of_Madrid
+Cristina_Cifuentes	isLeaderOf	Community_of_Madrid
+Cristina_Cifuentes	isAffiliatedTo	People's_Party_(Spain)
+Cristina_Cifuentes	isAffiliatedTo	People's_Party_(Spain)
+
+http://dbpedia.org/resource/Las_Rozas_de_Madrid	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/People's_Party_(Spain)
+Las_Rozas_de_Madrid	People's_Party_(Spain)
+Las_Rozas_de_Madrid	isLocatedIn	Community_of_Madrid
+Las_Rozas_de_Madrid	isLocatedIn	Community_of_Madrid
+Ignacio_González_González	isPoliticianOf	Community_of_Madrid
+Ignacio_González_González	isPoliticianOf	Community_of_Madrid
+Ignacio_González_González	isAffiliatedTo	People's_Party_(Spain)
+Ignacio_González_González	isAffiliatedTo	People's_Party_(Spain)
+
+http://dbpedia.org/resource/Las_Rozas_de_Madrid	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/People's_Party_(Spain)
+Las_Rozas_de_Madrid	People's_Party_(Spain)
+Las_Rozas_de_Madrid	isLocatedIn	Community_of_Madrid
+Las_Rozas_de_Madrid	isLocatedIn	Community_of_Madrid
+Esperanza_Aguirre	isPoliticianOf	Community_of_Madrid
+Esperanza_Aguirre	isPoliticianOf	Community_of_Madrid
+Esperanza_Aguirre	isAffiliatedTo	People's_Party_(Spain)
+Esperanza_Aguirre	isAffiliatedTo	People's_Party_(Spain)
+
+http://dbpedia.org/resource/Las_Rozas_de_Madrid	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/People's_Party_(Spain)
+Las_Rozas_de_Madrid	People's_Party_(Spain)
+Las_Rozas_de_Madrid	isLocatedIn	Community_of_Madrid
+Las_Rozas_de_Madrid	isLocatedIn	Community_of_Madrid
+Cristina_Cifuentes	isPoliticianOf	Community_of_Madrid
+Cristina_Cifuentes	isLeaderOf	Community_of_Madrid
+Cristina_Cifuentes	isPoliticianOf	Community_of_Madrid
+Cristina_Cifuentes	isLeaderOf	Community_of_Madrid
+Cristina_Cifuentes	isAffiliatedTo	People's_Party_(Spain)
+Cristina_Cifuentes	isAffiliatedTo	People's_Party_(Spain)
+
+http://dbpedia.org/resource/Las_Rozas_de_Madrid	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/People's_Party_(Spain)
+Las_Rozas_de_Madrid	People's_Party_(Spain)
+Las_Rozas_de_Madrid	isLocatedIn	Madrid
+Las_Rozas_de_Madrid	isLocatedIn	Madrid
+José_Ignacio_Wert	wasBornIn	Madrid
+José_Ignacio_Wert	wasBornIn	Madrid
+José_Ignacio_Wert	isAffiliatedTo	People's_Party_(Spain)
+José_Ignacio_Wert	isAffiliatedTo	People's_Party_(Spain)
+
+http://dbpedia.org/resource/Las_Rozas_de_Madrid	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/People's_Party_(Spain)
+Las_Rozas_de_Madrid	People's_Party_(Spain)
+Las_Rozas_de_Madrid	isLocatedIn	Madrid
+Las_Rozas_de_Madrid	isLocatedIn	Madrid
+Manuel_Fraga_Iribarne	diedIn	Madrid
+Manuel_Fraga_Iribarne	livesIn	Madrid
+Manuel_Fraga_Iribarne	diedIn	Madrid
+Manuel_Fraga_Iribarne	livesIn	Madrid
+Manuel_Fraga_Iribarne	isAffiliatedTo	People's_Party_(Spain)
+Manuel_Fraga_Iribarne	created	People's_Party_(Spain)
+Manuel_Fraga_Iribarne	isAffiliatedTo	People's_Party_(Spain)
+Manuel_Fraga_Iribarne	created	People's_Party_(Spain)
+
+http://dbpedia.org/resource/West_Nusa_Tenggara	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/Democratic_Party_(Indonesia)
+West_Nusa_Tenggara	Democratic_Party_(Indonesia)
+Muhammad_Zainul_Majdi	isPoliticianOf	West_Nusa_Tenggara
+Muhammad_Zainul_Majdi	isLeaderOf	West_Nusa_Tenggara
+Muhammad_Zainul_Majdi	isPoliticianOf	West_Nusa_Tenggara
+Muhammad_Zainul_Majdi	isLeaderOf	West_Nusa_Tenggara
+Muhammad_Zainul_Majdi	isAffiliatedTo	Democratic_Party_(Indonesia)
+Muhammad_Zainul_Majdi	isAffiliatedTo	Democratic_Party_(Indonesia)
+
+http://dbpedia.org/resource/Coyoacán	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/Party_of_the_Democratic_Revolution
+Coyoacán	Party_of_the_Democratic_Revolution
+Coyoacán	isLocatedIn	Mexico_City
+Mexico_City	isLocatedIn	Coyoacán
+Coyoacán	isLocatedIn	Mexico_City
+Mexico_City	isLocatedIn	Coyoacán
+Gilberto_Rincón_Gallardo	diedIn	Mexico_City
+Gilberto_Rincón_Gallardo	livesIn	Mexico_City
+Gilberto_Rincón_Gallardo	wasBornIn	Mexico_City
+Gilberto_Rincón_Gallardo	diedIn	Mexico_City
+Gilberto_Rincón_Gallardo	livesIn	Mexico_City
+Gilberto_Rincón_Gallardo	wasBornIn	Mexico_City
+Gilberto_Rincón_Gallardo	isAffiliatedTo	Party_of_the_Democratic_Revolution
+Gilberto_Rincón_Gallardo	isAffiliatedTo	Party_of_the_Democratic_Revolution
+
+http://dbpedia.org/resource/San_Felipe_de_Aconcagua	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/Christian_Democratic_Party_(Chile)
+San_Felipe_de_Aconcagua	Christian_Democratic_Party_(Chile)
+San_Felipe_de_Aconcagua	isLocatedIn	Valparaíso
+San_Felipe_de_Aconcagua	isLocatedIn	Valparaíso
+John_Biehl	wasBornIn	Valparaíso
+John_Biehl	wasBornIn	Valparaíso
+John_Biehl	isAffiliatedTo	Christian_Democratic_Party_(Chile)
+John_Biehl	isAffiliatedTo	Christian_Democratic_Party_(Chile)
+
+http://dbpedia.org/resource/Torrejón_de_Ardoz	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/People's_Party_(Spain)
+Torrejón_de_Ardoz	People's_Party_(Spain)
+Torrejón_de_Ardoz	isLocatedIn	Community_of_Madrid
+Torrejón_de_Ardoz	isLocatedIn	Community_of_Madrid
+Ignacio_González_González	isPoliticianOf	Community_of_Madrid
+Ignacio_González_González	isPoliticianOf	Community_of_Madrid
+Ignacio_González_González	isAffiliatedTo	People's_Party_(Spain)
+Ignacio_González_González	isAffiliatedTo	People's_Party_(Spain)
+
+http://dbpedia.org/resource/Torrejón_de_Ardoz	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/People's_Party_(Spain)
+Torrejón_de_Ardoz	People's_Party_(Spain)
+Torrejón_de_Ardoz	isLocatedIn	Community_of_Madrid
+Torrejón_de_Ardoz	isLocatedIn	Community_of_Madrid
+Esperanza_Aguirre	isPoliticianOf	Community_of_Madrid
+Esperanza_Aguirre	isPoliticianOf	Community_of_Madrid
+Esperanza_Aguirre	isAffiliatedTo	People's_Party_(Spain)
+Esperanza_Aguirre	isAffiliatedTo	People's_Party_(Spain)
+
+http://dbpedia.org/resource/Torrejón_de_Ardoz	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/People's_Party_(Spain)
+Torrejón_de_Ardoz	People's_Party_(Spain)
+Torrejón_de_Ardoz	isLocatedIn	Community_of_Madrid
+Torrejón_de_Ardoz	isLocatedIn	Community_of_Madrid
+Cristina_Cifuentes	isPoliticianOf	Community_of_Madrid
+Cristina_Cifuentes	isLeaderOf	Community_of_Madrid
+Cristina_Cifuentes	isPoliticianOf	Community_of_Madrid
+Cristina_Cifuentes	isLeaderOf	Community_of_Madrid
+Cristina_Cifuentes	isAffiliatedTo	People's_Party_(Spain)
+Cristina_Cifuentes	isAffiliatedTo	People's_Party_(Spain)
+
+http://dbpedia.org/resource/Copenhagen_Municipality	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/Social_Democrats_(Denmark)
+Copenhagen_Municipality	Social_Democrats_(Denmark)
+Copenhagen_Municipality	isLocatedIn	Copenhagen
+Copenhagen_Municipality	isLocatedIn	Copenhagen
+Social_Democrats_(Denmark)	isLocatedIn	Copenhagen
+Social_Democrats_(Denmark)	isLocatedIn	Copenhagen
+
+http://dbpedia.org/resource/Copenhagen_Municipality	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/Social_Democrats_(Denmark)
+Copenhagen_Municipality	Social_Democrats_(Denmark)
+Frank_Jensen	isLeaderOf	Copenhagen_Municipality
+Frank_Jensen	isLeaderOf	Copenhagen_Municipality
+Frank_Jensen	isAffiliatedTo	Social_Democrats_(Denmark)
+Frank_Jensen	isLeaderOf	Social_Democrats_(Denmark)
+Frank_Jensen	isAffiliatedTo	Social_Democrats_(Denmark)
+Frank_Jensen	isLeaderOf	Social_Democrats_(Denmark)
+
+http://dbpedia.org/resource/Galicia_(Spain)	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/People's_Party_of_Galicia
+Galicia_(Spain)	People's_Party_of_Galicia
+Santiago_de_Compostela	isLocatedIn	Galicia_(Spain)
+Galicia_(Spain)	isLocatedIn	Santiago_de_Compostela
+Galicia_(Spain)	hasCapital	Santiago_de_Compostela
+Santiago_de_Compostela	isLocatedIn	Galicia_(Spain)
+Galicia_(Spain)	isLocatedIn	Santiago_de_Compostela
+Galicia_(Spain)	hasCapital	Santiago_de_Compostela
+Mariano_Rajoy	wasBornIn	Santiago_de_Compostela
+Mariano_Rajoy	wasBornIn	Santiago_de_Compostela
+Mariano_Rajoy	isLeaderOf	People's_Party_of_Galicia
+Mariano_Rajoy	isLeaderOf	People's_Party_of_Galicia
+
+http://dbpedia.org/resource/Galicia_(Spain)	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/People's_Party_of_Galicia
+Galicia_(Spain)	People's_Party_of_Galicia
+Santiago_de_Compostela	isLocatedIn	Galicia_(Spain)
+Galicia_(Spain)	isLocatedIn	Santiago_de_Compostela
+Galicia_(Spain)	hasCapital	Santiago_de_Compostela
+Santiago_de_Compostela	isLocatedIn	Galicia_(Spain)
+Galicia_(Spain)	isLocatedIn	Santiago_de_Compostela
+Galicia_(Spain)	hasCapital	Santiago_de_Compostela
+People's_Party_of_Galicia	isLocatedIn	Santiago_de_Compostela
+People's_Party_of_Galicia	isLocatedIn	Santiago_de_Compostela
+
+http://dbpedia.org/resource/Galicia_(Spain)	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/People's_Party_of_Galicia
+Galicia_(Spain)	People's_Party_of_Galicia
+Alberto_Núñez_Feijóo	isLeaderOf	Galicia_(Spain)
+Alberto_Núñez_Feijóo	isLeaderOf	Galicia_(Spain)
+Alberto_Núñez_Feijóo	isAffiliatedTo	People's_Party_of_Galicia
+Alberto_Núñez_Feijóo	isAffiliatedTo	People's_Party_of_Galicia
+
+http://dbpedia.org/resource/Province_of_Ourense	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/People's_Party_of_Galicia
+Province_of_Ourense	People's_Party_of_Galicia
+Ourense	isLocatedIn	Province_of_Ourense
+Province_of_Ourense	isLocatedIn	Ourense
+Ourense	isLocatedIn	Province_of_Ourense
+Province_of_Ourense	isLocatedIn	Ourense
+Alberto_Núñez_Feijóo	wasBornIn	Ourense
+Alberto_Núñez_Feijóo	wasBornIn	Ourense
+Alberto_Núñez_Feijóo	isAffiliatedTo	People's_Party_of_Galicia
+Alberto_Núñez_Feijóo	isAffiliatedTo	People's_Party_of_Galicia
+
+http://dbpedia.org/resource/Province_of_Ourense	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/People's_Party_of_Galicia
+Province_of_Ourense	People's_Party_of_Galicia
+Province_of_Ourense	isLocatedIn	Galicia_(Spain)
+Galicia_(Spain)	isLocatedIn	Province_of_Ourense
+Province_of_Ourense	isLocatedIn	Galicia_(Spain)
+Galicia_(Spain)	isLocatedIn	Province_of_Ourense
+Santiago_de_Compostela	isLocatedIn	Galicia_(Spain)
+Galicia_(Spain)	isLocatedIn	Santiago_de_Compostela
+Galicia_(Spain)	hasCapital	Santiago_de_Compostela
+Santiago_de_Compostela	isLocatedIn	Galicia_(Spain)
+Galicia_(Spain)	isLocatedIn	Santiago_de_Compostela
+Galicia_(Spain)	hasCapital	Santiago_de_Compostela
+People's_Party_of_Galicia	isLocatedIn	Santiago_de_Compostela
+People's_Party_of_Galicia	isLocatedIn	Santiago_de_Compostela
+
+http://dbpedia.org/resource/Province_of_Ourense	http://dbpedia.org/ontology/leaderParty	http://dbpedia.org/resource/People's_Party_of_Galicia
+Province_of_Ourense	People's_Party_of_Galicia
+Province_of_Ourense	isLocatedIn	Galicia_(Spain)
+Galicia_(Spain)	isLocatedIn	Province_of_Ourense
+Province_of_Ourense	isLocatedIn	Galicia_(Spain)
+Galicia_(Spain)	isLocatedIn	Province_of_Ourense
+Alberto_Núñez_Feijóo	isLeaderOf	Galicia_(Spain)
+Alberto_Núñez_Feijóo	isLeaderOf	Galicia_(Spain)
+Alberto_Núñez_Feijóo	isAffiliatedTo	People's_Party_of_Galicia
+Alberto_Núñez_Feijóo	isAffiliatedTo	People's_Party_of_Galicia
+

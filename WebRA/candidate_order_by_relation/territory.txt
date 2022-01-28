@@ -1,0 +1,235 @@
+http://dbpedia.org/resource/Israeli–Palestinian_conflict	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/Gaza_Strip
+Israeli–Palestinian_conflict	Gaza_Strip
+Israeli–Palestinian_conflict	happenedIn	Israel
+Israel	participatedIn	Israeli–Palestinian_conflict
+Israeli–Palestinian_conflict	happenedIn	Israel
+Israel	participatedIn	Israeli–Palestinian_conflict
+Israel	participatedIn	Suez_Crisis
+Suez_Crisis	happenedIn	Israel
+Israel	participatedIn	Suez_Crisis
+Suez_Crisis	happenedIn	Israel
+Suez_Crisis	happenedIn	Gaza_Strip
+Suez_Crisis	isLocatedIn	Gaza_Strip
+Suez_Crisis	happenedIn	Gaza_Strip
+Suez_Crisis	isLocatedIn	Gaza_Strip
+
+http://dbpedia.org/resource/Israeli–Palestinian_conflict	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/Gaza_Strip
+Israeli–Palestinian_conflict	Gaza_Strip
+Israeli–Palestinian_conflict	happenedIn	Gaza_Strip
+Israeli–Palestinian_conflict	happenedIn	Gaza_Strip
+
+http://dbpedia.org/resource/Israeli–Palestinian_conflict	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/Gaza_Strip
+Israeli–Palestinian_conflict	Gaza_Strip
+Palestine_Liberation_Organization	participatedIn	Israeli–Palestinian_conflict
+Palestine_Liberation_Organization	participatedIn	Israeli–Palestinian_conflict
+Palestine_Liberation_Organization	participatedIn	Six-Day_War
+Palestine_Liberation_Organization	participatedIn	Six-Day_War
+Six-Day_War	happenedIn	Gaza_Strip
+Six-Day_War	happenedIn	Gaza_Strip
+
+http://dbpedia.org/resource/Israeli–Palestinian_conflict	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/Gaza_Strip
+Israeli–Palestinian_conflict	Gaza_Strip
+Palestine_Liberation_Organization	participatedIn	Israeli–Palestinian_conflict
+Palestine_Liberation_Organization	participatedIn	Israeli–Palestinian_conflict
+Palestine_Liberation_Organization	participatedIn	Israeli–Palestinian_conflict
+Palestine_Liberation_Organization	participatedIn	Israeli–Palestinian_conflict
+Israeli–Palestinian_conflict	happenedIn	Gaza_Strip
+Israeli–Palestinian_conflict	happenedIn	Gaza_Strip
+
+http://dbpedia.org/resource/Israeli–Palestinian_conflict	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/Gaza_Strip
+Israeli–Palestinian_conflict	Gaza_Strip
+Israeli–Palestinian_conflict	isLocatedIn	State_of_Palestine
+Israeli–Palestinian_conflict	isLocatedIn	State_of_Palestine
+Rashad_al-Shawwa	isCitizenOf	State_of_Palestine
+Rashad_al-Shawwa	isCitizenOf	State_of_Palestine
+Rashad_al-Shawwa	diedIn	Gaza_Strip
+Rashad_al-Shawwa	wasBornIn	Gaza_Strip
+Rashad_al-Shawwa	diedIn	Gaza_Strip
+Rashad_al-Shawwa	wasBornIn	Gaza_Strip
+
+http://dbpedia.org/resource/Israeli–Palestinian_conflict	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/Gaza_Strip
+Israeli–Palestinian_conflict	Gaza_Strip
+Israeli–Palestinian_conflict	isLocatedIn	State_of_Palestine
+Israeli–Palestinian_conflict	isLocatedIn	State_of_Palestine
+2014_Israel–Gaza_conflict	isLocatedIn	State_of_Palestine
+2014_Israel–Gaza_conflict	isLocatedIn	State_of_Palestine
+2014_Israel–Gaza_conflict	isLocatedIn	Gaza_Strip
+2014_Israel–Gaza_conflict	happenedIn	Gaza_Strip
+2014_Israel–Gaza_conflict	isLocatedIn	Gaza_Strip
+2014_Israel–Gaza_conflict	happenedIn	Gaza_Strip
+
+http://dbpedia.org/resource/Israeli–Palestinian_conflict	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/Gaza_Strip
+Israeli–Palestinian_conflict	Gaza_Strip
+Israeli–Palestinian_conflict	isLocatedIn	State_of_Palestine
+Israeli–Palestinian_conflict	isLocatedIn	State_of_Palestine
+Israeli–Palestinian_conflict	isLocatedIn	State_of_Palestine
+Israeli–Palestinian_conflict	isLocatedIn	State_of_Palestine
+Israeli–Palestinian_conflict	happenedIn	Gaza_Strip
+Israeli–Palestinian_conflict	happenedIn	Gaza_Strip
+
+http://dbpedia.org/resource/Chinese_Spring_Offensive	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/North_Korea
+Chinese_Spring_Offensive	North_Korea
+North_Korea	participatedIn	Chinese_Spring_Offensive
+North_Korea	participatedIn	Chinese_Spring_Offensive
+
+http://dbpedia.org/resource/Chinese_Spring_Offensive	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/North_Korea
+Chinese_Spring_Offensive	North_Korea
+Chinese_Spring_Offensive	happenedIn	Korean_Peninsula
+Chinese_Spring_Offensive	happenedIn	Korean_Peninsula
+Chinese_Spring_Offensive	happenedIn	Korean_Peninsula
+Chinese_Spring_Offensive	happenedIn	Korean_Peninsula
+North_Korea	participatedIn	Chinese_Spring_Offensive
+North_Korea	participatedIn	Chinese_Spring_Offensive
+
+http://dbpedia.org/resource/Chinese_Spring_Offensive	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/North_Korea
+Chinese_Spring_Offensive	North_Korea
+Chinese_Spring_Offensive	happenedIn	Korean_Peninsula
+Chinese_Spring_Offensive	happenedIn	Korean_Peninsula
+Korean_War	happenedIn	Korean_Peninsula
+Korean_War	happenedIn	Korean_Peninsula
+North_Korea	participatedIn	Korean_War
+North_Korea	participatedIn	Korean_War
+
+http://dbpedia.org/resource/Battle_of_Basra_(1914)	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/Basra
+Battle_of_Basra_(1914)	Basra
+Battle_of_Basra_(1914)	isLocatedIn	Basra
+Battle_of_Basra_(1914)	happenedIn	Basra
+Battle_of_Basra_(1914)	isLocatedIn	Basra
+Battle_of_Basra_(1914)	happenedIn	Basra
+
+http://dbpedia.org/resource/Third_Italian_War_of_Independence	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/Kingdom_of_Lombardy–Venetia
+Third_Italian_War_of_Independence	Kingdom_of_Lombardy–Venetia
+Third_Italian_War_of_Independence	happenedIn	Kingdom_of_Lombardy–Venetia
+Third_Italian_War_of_Independence	happenedIn	Kingdom_of_Lombardy–Venetia
+
+http://dbpedia.org/resource/Balkan_Campaign_(World_War_II)	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/Albania
+Balkan_Campaign_(World_War_II)	Albania
+Balkan_Campaign_(World_War_II)	happenedIn	Albania
+Balkan_Campaign_(World_War_II)	isLocatedIn	Albania
+Balkan_Campaign_(World_War_II)	happenedIn	Albania
+Balkan_Campaign_(World_War_II)	isLocatedIn	Albania
+
+http://dbpedia.org/resource/Balkan_Campaign_(World_War_II)	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/Albania
+Balkan_Campaign_(World_War_II)	Albania
+Balkan_Campaign_(World_War_II)	happenedIn	Kingdom_of_Greece
+Kingdom_of_Greece	participatedIn	Balkan_Campaign_(World_War_II)
+Balkan_Campaign_(World_War_II)	happenedIn	Kingdom_of_Greece
+Kingdom_of_Greece	participatedIn	Balkan_Campaign_(World_War_II)
+Balkan_Campaign_(World_War_II)	happenedIn	Kingdom_of_Greece
+Kingdom_of_Greece	participatedIn	Balkan_Campaign_(World_War_II)
+Balkan_Campaign_(World_War_II)	happenedIn	Kingdom_of_Greece
+Kingdom_of_Greece	participatedIn	Balkan_Campaign_(World_War_II)
+Balkan_Campaign_(World_War_II)	happenedIn	Albania
+Balkan_Campaign_(World_War_II)	isLocatedIn	Albania
+Balkan_Campaign_(World_War_II)	happenedIn	Albania
+Balkan_Campaign_(World_War_II)	isLocatedIn	Albania
+
+http://dbpedia.org/resource/Balkan_Campaign_(World_War_II)	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/Albania
+Balkan_Campaign_(World_War_II)	Albania
+Balkan_Campaign_(World_War_II)	happenedIn	Kingdom_of_Greece
+Kingdom_of_Greece	participatedIn	Balkan_Campaign_(World_War_II)
+Balkan_Campaign_(World_War_II)	happenedIn	Kingdom_of_Greece
+Kingdom_of_Greece	participatedIn	Balkan_Campaign_(World_War_II)
+Kingdom_of_Greece	participatedIn	Greco-Italian_War
+Kingdom_of_Greece	participatedIn	Greco-Italian_War
+Greco-Italian_War	happenedIn	Albania
+Greco-Italian_War	isLocatedIn	Albania
+Greco-Italian_War	happenedIn	Albania
+Greco-Italian_War	isLocatedIn	Albania
+
+http://dbpedia.org/resource/Zamboanga_City_crisis	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/Zamboanga_City
+Zamboanga_City_crisis	Zamboanga_City
+Philippines	participatedIn	Zamboanga_City_crisis
+Zamboanga_City_crisis	happenedIn	Philippines
+Philippines	participatedIn	Zamboanga_City_crisis
+Zamboanga_City_crisis	happenedIn	Philippines
+Mario_O'Hara	isCitizenOf	Philippines
+Mario_O'Hara	isCitizenOf	Philippines
+Mario_O'Hara	wasBornIn	Zamboanga_City
+Mario_O'Hara	wasBornIn	Zamboanga_City
+
+http://dbpedia.org/resource/Zamboanga_City_crisis	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/Zamboanga_City
+Zamboanga_City_crisis	Zamboanga_City
+Zamboanga_City_crisis	happenedIn	Zamboanga_City
+Zamboanga_City_crisis	happenedIn	Zamboanga_City
+
+http://dbpedia.org/resource/Capture_of_Bougie	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/Béjaïa
+Capture_of_Bougie	Béjaïa
+Capture_of_Bougie	happenedIn	Béjaïa
+Capture_of_Bougie	isLocatedIn	Béjaïa
+Capture_of_Bougie	happenedIn	Béjaïa
+Capture_of_Bougie	isLocatedIn	Béjaïa
+
+http://dbpedia.org/resource/Capture_of_Bougie	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/Béjaïa
+Capture_of_Bougie	Béjaïa
+Capture_of_Bougie	isLocatedIn	Algeria
+Capture_of_Bougie	happenedIn	Algeria
+Capture_of_Bougie	isLocatedIn	Algeria
+Capture_of_Bougie	happenedIn	Algeria
+Béjaïa_Province	isLocatedIn	Algeria
+Béjaïa_Province	isLocatedIn	Algeria
+Béjaïa_Province	isLocatedIn	Béjaïa
+Béjaïa	isLocatedIn	Béjaïa_Province
+Béjaïa_Province	isLocatedIn	Béjaïa
+Béjaïa	isLocatedIn	Béjaïa_Province
+
+http://dbpedia.org/resource/Capture_of_Bougie	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/Béjaïa
+Capture_of_Bougie	Béjaïa
+Capture_of_Bougie	isLocatedIn	Algeria
+Capture_of_Bougie	happenedIn	Algeria
+Capture_of_Bougie	isLocatedIn	Algeria
+Capture_of_Bougie	happenedIn	Algeria
+Capture_of_Bougie	isLocatedIn	Algeria
+Capture_of_Bougie	happenedIn	Algeria
+Capture_of_Bougie	isLocatedIn	Algeria
+Capture_of_Bougie	happenedIn	Algeria
+Capture_of_Bougie	happenedIn	Béjaïa
+Capture_of_Bougie	isLocatedIn	Béjaïa
+Capture_of_Bougie	happenedIn	Béjaïa
+Capture_of_Bougie	isLocatedIn	Béjaïa
+
+http://dbpedia.org/resource/Italian_War_of_1536–38	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/Piedmont
+Italian_War_of_1536–38	Piedmont
+Italian_War_of_1536–38	isLocatedIn	Piedmont
+Italian_War_of_1536–38	happenedIn	Piedmont
+Italian_War_of_1536–38	isLocatedIn	Piedmont
+Italian_War_of_1536–38	happenedIn	Piedmont
+
+http://dbpedia.org/resource/Italian_War_of_1536–38	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/Piedmont
+Italian_War_of_1536–38	Piedmont
+Italian_War_of_1536–38	happenedIn	Lombardy
+Italian_War_of_1536–38	happenedIn	Lombardy
+Italian_War_of_1536–38	happenedIn	Lombardy
+Italian_War_of_1536–38	happenedIn	Lombardy
+Italian_War_of_1536–38	isLocatedIn	Piedmont
+Italian_War_of_1536–38	happenedIn	Piedmont
+Italian_War_of_1536–38	isLocatedIn	Piedmont
+Italian_War_of_1536–38	happenedIn	Piedmont
+
+http://dbpedia.org/resource/Italian_War_of_1536–38	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/Piedmont
+Italian_War_of_1536–38	Piedmont
+Habsburg_Spain	participatedIn	Italian_War_of_1536–38
+Habsburg_Spain	participatedIn	Italian_War_of_1536–38
+Habsburg_Spain	participatedIn	Battle_of_Ceresole
+Habsburg_Spain	participatedIn	Battle_of_Ceresole
+Battle_of_Ceresole	isLocatedIn	Piedmont
+Battle_of_Ceresole	isLocatedIn	Piedmont
+
+http://dbpedia.org/resource/Italian_War_of_1536–38	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/Piedmont
+Italian_War_of_1536–38	Piedmont
+Habsburg_Spain	participatedIn	Italian_War_of_1536–38
+Habsburg_Spain	participatedIn	Italian_War_of_1536–38
+Habsburg_Spain	participatedIn	Italian_War_of_1536–38
+Habsburg_Spain	participatedIn	Italian_War_of_1536–38
+Italian_War_of_1536–38	isLocatedIn	Piedmont
+Italian_War_of_1536–38	happenedIn	Piedmont
+Italian_War_of_1536–38	isLocatedIn	Piedmont
+Italian_War_of_1536–38	happenedIn	Piedmont
+
+http://dbpedia.org/resource/Sino-French_War	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/Tonkin
+Sino-French_War	Tonkin
+Sino-French_War	isLocatedIn	Tonkin
+Sino-French_War	happenedIn	Tonkin
+Sino-French_War	isLocatedIn	Tonkin
+Sino-French_War	happenedIn	Tonkin
+

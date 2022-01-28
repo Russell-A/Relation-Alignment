@@ -1,0 +1,1825 @@
+http://dbpedia.org/resource/RSI_La_1	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radiotelevisione_svizzera
+RSI_La_1	Radiotelevisione_svizzera
+Radiotelevisione_svizzera	owns	RSI_La_1
+Radiotelevisione_svizzera	owns	RSI_La_1
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+Boomerang_(Latin_America)	Turner_Broadcasting_System_Latin_America
+Boomerang_(Latin_America)	isLocatedIn	Georgia_(U.S._state)
+Boomerang_(Latin_America)	isLocatedIn	Georgia_(U.S._state)
+Tooncast	isLocatedIn	Georgia_(U.S._state)
+Tooncast	isLocatedIn	Georgia_(U.S._state)
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+Boomerang_(Latin_America)	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Tooncast
+Time_Warner	owns	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+Boomerang_(Latin_America)	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Cartoon_Network_(Latin_America)
+Time_Warner	owns	Cartoon_Network_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Cartoon_Network_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Cartoon_Network_(Latin_America)
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+Boomerang_(Latin_America)	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Boomerang_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+Boomerang_(Latin_America)	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	TNT_Series
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+Boomerang_(Latin_America)	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+Boomerang_(Latin_America)	Turner_Broadcasting_System_Latin_America
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+Boomerang_(Latin_America)	Turner_Broadcasting_System_Latin_America
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+Cartoon_Network_(Latin_America)	isLocatedIn	Atlanta
+Cartoon_Network_(Latin_America)	isLocatedIn	Atlanta
+Turner_Broadcasting_System_Latin_America	owns	Cartoon_Network_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Cartoon_Network_(Latin_America)
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+Boomerang_(Latin_America)	Turner_Broadcasting_System_Latin_America
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+Tooncast	isLocatedIn	Atlanta
+Tooncast	isLocatedIn	Atlanta
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+Boomerang_(Latin_America)	Turner_Broadcasting_System_Latin_America
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+TNT_Series	isLocatedIn	Atlanta
+TNT_Series	isLocatedIn	Atlanta
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+Boomerang_(Latin_America)	Turner_Broadcasting_System_Latin_America
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Jerry_Reinsdorf
+Comcast_SportsNet_Chicago	Jerry_Reinsdorf
+Joe_Ricketts	owns	Comcast_SportsNet_Chicago
+Joe_Ricketts	owns	Comcast_SportsNet_Chicago
+Joe_Ricketts	owns	Comcast_SportsNet_Chicago
+Joe_Ricketts	owns	Comcast_SportsNet_Chicago
+Jerry_Reinsdorf	owns	Comcast_SportsNet_Chicago
+Jerry_Reinsdorf	owns	Comcast_SportsNet_Chicago
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Jerry_Reinsdorf
+Comcast_SportsNet_Chicago	Jerry_Reinsdorf
+Rocky_Wirtz	owns	Comcast_SportsNet_Chicago
+Rocky_Wirtz	owns	Comcast_SportsNet_Chicago
+Rocky_Wirtz	owns	Comcast_SportsNet_Chicago
+Rocky_Wirtz	owns	Comcast_SportsNet_Chicago
+Jerry_Reinsdorf	owns	Comcast_SportsNet_Chicago
+Jerry_Reinsdorf	owns	Comcast_SportsNet_Chicago
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Jerry_Reinsdorf
+Comcast_SportsNet_Chicago	Jerry_Reinsdorf
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+FSN_Chicago	isLocatedIn	Chicago
+FSN_Chicago	isLocatedIn	Chicago
+Jerry_Reinsdorf	owns	FSN_Chicago
+Jerry_Reinsdorf	owns	FSN_Chicago
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Jerry_Reinsdorf
+Comcast_SportsNet_Chicago	Jerry_Reinsdorf
+Jerry_Reinsdorf	owns	Comcast_SportsNet_Chicago
+Jerry_Reinsdorf	owns	Comcast_SportsNet_Chicago
+
+http://dbpedia.org/resource/Movies!	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Fox_Television_Stations
+Movies!	Fox_Television_Stations
+Fox_Television_Stations	owns	Movies!
+Fox_Television_Stations	owns	Movies!
+
+http://dbpedia.org/resource/Movies!	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Fox_Television_Stations
+Movies!	Fox_Television_Stations
+Weigel_Broadcasting	owns	Movies!
+Weigel_Broadcasting	owns	Movies!
+Weigel_Broadcasting	owns	Movies!
+Weigel_Broadcasting	owns	Movies!
+Fox_Television_Stations	owns	Movies!
+Fox_Television_Stations	owns	Movies!
+
+http://dbpedia.org/resource/Movies!	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Fox_Television_Stations
+Movies!	Fox_Television_Stations
+Movies!	isLocatedIn	Chicago
+Movies!	isLocatedIn	Chicago
+Movies!	isLocatedIn	Chicago
+Movies!	isLocatedIn	Chicago
+Fox_Television_Stations	owns	Movies!
+Fox_Television_Stations	owns	Movies!
+
+http://dbpedia.org/resource/Cero_(TV_channel)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Telefónica
+Cero_(TV_channel)	Telefónica
+Cero_(TV_channel)	isLocatedIn	Community_of_Madrid
+Cero_(TV_channel)	isLocatedIn	Community_of_Madrid
+Cero_(TV_channel)	isLocatedIn	Community_of_Madrid
+Cero_(TV_channel)	isLocatedIn	Community_of_Madrid
+Telefónica	owns	Cero_(TV_channel)
+Telefónica	owns	Cero_(TV_channel)
+
+http://dbpedia.org/resource/Cero_(TV_channel)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Telefónica
+Cero_(TV_channel)	Telefónica
+Cero_(TV_channel)	isLocatedIn	Tres_Cantos
+Cero_(TV_channel)	isLocatedIn	Tres_Cantos
+Canal+_(Spanish_TV_channel)	isLocatedIn	Tres_Cantos
+Canal+_(Spanish_TV_channel)	isLocatedIn	Tres_Cantos
+Telefónica	owns	Canal+_(Spanish_TV_channel)
+Telefónica	owns	Canal+_(Spanish_TV_channel)
+
+http://dbpedia.org/resource/Cero_(TV_channel)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Telefónica
+Cero_(TV_channel)	Telefónica
+Cero_(TV_channel)	isLocatedIn	Tres_Cantos
+Cero_(TV_channel)	isLocatedIn	Tres_Cantos
+Cero_(TV_channel)	isLocatedIn	Tres_Cantos
+Cero_(TV_channel)	isLocatedIn	Tres_Cantos
+Telefónica	owns	Cero_(TV_channel)
+Telefónica	owns	Cero_(TV_channel)
+
+http://dbpedia.org/resource/Cero_(TV_channel)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Telefónica
+Cero_(TV_channel)	Telefónica
+Telefónica	owns	Cero_(TV_channel)
+Telefónica	owns	Cero_(TV_channel)
+
+http://dbpedia.org/resource/Boing_(Spain)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Europe
+Boing_(Spain)	Turner_Broadcasting_System_Europe
+Turner_Broadcasting_System	owns	Boing_(Spain)
+Turner_Broadcasting_System	owns	Boing_(Spain)
+Time_Warner	owns	Turner_Broadcasting_System
+Time_Warner	owns	Turner_Broadcasting_System
+Time_Warner	owns	Turner_Broadcasting_System_Europe
+Time_Warner	owns	Turner_Broadcasting_System_Europe
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+TNT_Series	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	Tooncast
+Time_Warner	owns	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+TNT_Series	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	Cartoon_Network_(Latin_America)
+Time_Warner	owns	Cartoon_Network_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Cartoon_Network_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Cartoon_Network_(Latin_America)
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+TNT_Series	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Boomerang_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+TNT_Series	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	TNT_Series
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+TNT_Series	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+TNT_Series	Turner_Broadcasting_System_Latin_America
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+TNT_Series	Turner_Broadcasting_System_Latin_America
+TNT_Series	isLocatedIn	Atlanta
+TNT_Series	isLocatedIn	Atlanta
+Cartoon_Network_(Latin_America)	isLocatedIn	Atlanta
+Cartoon_Network_(Latin_America)	isLocatedIn	Atlanta
+Turner_Broadcasting_System_Latin_America	owns	Cartoon_Network_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Cartoon_Network_(Latin_America)
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+TNT_Series	Turner_Broadcasting_System_Latin_America
+TNT_Series	isLocatedIn	Atlanta
+TNT_Series	isLocatedIn	Atlanta
+Tooncast	isLocatedIn	Atlanta
+Tooncast	isLocatedIn	Atlanta
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+TNT_Series	Turner_Broadcasting_System_Latin_America
+TNT_Series	isLocatedIn	Atlanta
+TNT_Series	isLocatedIn	Atlanta
+TNT_Series	isLocatedIn	Atlanta
+TNT_Series	isLocatedIn	Atlanta
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+TNT_Series	Turner_Broadcasting_System_Latin_America
+TNT_Series	isLocatedIn	Atlanta
+TNT_Series	isLocatedIn	Atlanta
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+
+http://dbpedia.org/resource/KXII	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Gray_Television
+KXII	Gray_Television
+Gray_Television	owns	KXII
+Gray_Television	owns	KXII
+
+http://dbpedia.org/resource/KXII	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Gray_Television
+KXII	Gray_Television
+KXII	isLocatedIn	Ardmore,_Oklahoma
+KXII	isLocatedIn	Ardmore,_Oklahoma
+KXII	isLocatedIn	Ardmore,_Oklahoma
+KXII	isLocatedIn	Ardmore,_Oklahoma
+Gray_Television	owns	KXII
+Gray_Television	owns	KXII
+
+http://dbpedia.org/resource/KXII	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Gray_Television
+KXII	Gray_Television
+KXII	isLocatedIn	Denison,_Texas
+KXII	isLocatedIn	Denison,_Texas
+KXII	isLocatedIn	Denison,_Texas
+KXII	isLocatedIn	Denison,_Texas
+Gray_Television	owns	KXII
+Gray_Television	owns	KXII
+
+http://dbpedia.org/resource/Eusko_Trenbideak_–_Ferrocarriles_Vascos	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Basque_Government
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	Basque_Government
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	isLocatedIn	Bilbao
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	isLocatedIn	Bilbao
+Basque_Country_(greater_region)	hasCapital	Bilbao
+Basque_Country_(greater_region)	hasCapital	Bilbao
+Basque_Government	isLocatedIn	Basque_Country_(greater_region)
+Basque_Government	isLocatedIn	Basque_Country_(greater_region)
+
+http://dbpedia.org/resource/Eusko_Trenbideak_–_Ferrocarriles_Vascos	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Basque_Government
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	Basque_Government
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	owns	Euskotren_Tranbia
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	owns	Euskotren_Tranbia
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	owns	Euskotren_Tranbia
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	owns	Euskotren_Tranbia
+Basque_Government	owns	Eusko_Trenbideak_–_Ferrocarriles_Vascos
+Basque_Government	owns	Eusko_Trenbideak_–_Ferrocarriles_Vascos
+
+http://dbpedia.org/resource/Eusko_Trenbideak_–_Ferrocarriles_Vascos	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Basque_Government
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	Basque_Government
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	owns	Euskotren_Trena
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	owns	Euskotren_Trena
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	owns	Euskotren_Trena
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	owns	Euskotren_Trena
+Basque_Government	owns	Eusko_Trenbideak_–_Ferrocarriles_Vascos
+Basque_Government	owns	Eusko_Trenbideak_–_Ferrocarriles_Vascos
+
+http://dbpedia.org/resource/Eusko_Trenbideak_–_Ferrocarriles_Vascos	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Basque_Government
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	Basque_Government
+Basque_Government	owns	Eusko_Trenbideak_–_Ferrocarriles_Vascos
+Basque_Government	owns	Eusko_Trenbideak_–_Ferrocarriles_Vascos
+
+http://dbpedia.org/resource/Ilitch_Holdings	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Mike_Ilitch
+Ilitch_Holdings	Mike_Ilitch
+Marian_Ilitch	owns	Ilitch_Holdings
+Marian_Ilitch	created	Ilitch_Holdings
+Marian_Ilitch	owns	Ilitch_Holdings
+Marian_Ilitch	created	Ilitch_Holdings
+Mike_Ilitch	isMarriedTo	Marian_Ilitch
+Marian_Ilitch	isMarriedTo	Mike_Ilitch
+Mike_Ilitch	isMarriedTo	Marian_Ilitch
+Marian_Ilitch	isMarriedTo	Mike_Ilitch
+
+http://dbpedia.org/resource/Teledos	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Telecorporación_Salvadoreña
+Teledos	Telecorporación_Salvadoreña
+Telecorporación_Salvadoreña	owns	Teledos
+Telecorporación_Salvadoreña	owns	Teledos
+
+http://dbpedia.org/resource/Teledos	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Telecorporación_Salvadoreña
+Teledos	Telecorporación_Salvadoreña
+Teledos	isLocatedIn	San_Salvador
+Teledos	isLocatedIn	San_Salvador
+YSU4	isLocatedIn	San_Salvador
+YSU4	isLocatedIn	San_Salvador
+Telecorporación_Salvadoreña	owns	YSU4
+Telecorporación_Salvadoreña	owns	YSU4
+
+http://dbpedia.org/resource/Adithya_TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Sun_Group
+Adithya_TV	Sun_Group
+Sun_Group	owns	Adithya_TV
+Sun_Group	owns	Adithya_TV
+
+http://dbpedia.org/resource/WMWC-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Trinity_Broadcasting_Network
+WMWC-TV	Trinity_Broadcasting_Network
+WMWC-TV	isLocatedIn	Moline,_Illinois
+WMWC-TV	isLocatedIn	Moline,_Illinois
+WMWC-TV	isLocatedIn	Moline,_Illinois
+WMWC-TV	isLocatedIn	Moline,_Illinois
+Trinity_Broadcasting_Network	owns	WMWC-TV
+Trinity_Broadcasting_Network	owns	WMWC-TV
+
+http://dbpedia.org/resource/WMWC-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Trinity_Broadcasting_Network
+WMWC-TV	Trinity_Broadcasting_Network
+WMWC-TV	isLocatedIn	Galesburg,_Illinois
+WMWC-TV	isLocatedIn	Galesburg,_Illinois
+WMWC-TV	isLocatedIn	Galesburg,_Illinois
+WMWC-TV	isLocatedIn	Galesburg,_Illinois
+Trinity_Broadcasting_Network	owns	WMWC-TV
+Trinity_Broadcasting_Network	owns	WMWC-TV
+
+http://dbpedia.org/resource/WMWC-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Trinity_Broadcasting_Network
+WMWC-TV	Trinity_Broadcasting_Network
+Trinity_Broadcasting_Network	owns	WMWC-TV
+Trinity_Broadcasting_Network	owns	WMWC-TV
+
+http://dbpedia.org/resource/WMWC-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Trinity_Broadcasting_Network
+WMWC-TV	Trinity_Broadcasting_Network
+WMWC-TV	isLocatedIn	Bettendorf,_Iowa
+WMWC-TV	isLocatedIn	Bettendorf,_Iowa
+WMWC-TV	isLocatedIn	Bettendorf,_Iowa
+WMWC-TV	isLocatedIn	Bettendorf,_Iowa
+Trinity_Broadcasting_Network	owns	WMWC-TV
+Trinity_Broadcasting_Network	owns	WMWC-TV
+
+http://dbpedia.org/resource/Tooncast	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+Tooncast	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Tooncast
+Time_Warner	owns	Tooncast
+Time_Warner	owns	Tooncast
+Time_Warner	owns	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+
+http://dbpedia.org/resource/Tooncast	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+Tooncast	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Tooncast
+Time_Warner	owns	Tooncast
+Time_Warner	owns	Cartoon_Network_(Latin_America)
+Time_Warner	owns	Cartoon_Network_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Cartoon_Network_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Cartoon_Network_(Latin_America)
+
+http://dbpedia.org/resource/Tooncast	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+Tooncast	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Tooncast
+Time_Warner	owns	Tooncast
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Boomerang_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+
+http://dbpedia.org/resource/Tooncast	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+Tooncast	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Tooncast
+Time_Warner	owns	Tooncast
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	TNT_Series
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+
+http://dbpedia.org/resource/Tooncast	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+Tooncast	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Tooncast
+Time_Warner	owns	Tooncast
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+
+http://dbpedia.org/resource/Tooncast	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+Tooncast	Turner_Broadcasting_System_Latin_America
+Tooncast	isLocatedIn	Atlanta
+Tooncast	isLocatedIn	Atlanta
+Cartoon_Network_(Latin_America)	isLocatedIn	Atlanta
+Cartoon_Network_(Latin_America)	isLocatedIn	Atlanta
+Turner_Broadcasting_System_Latin_America	owns	Cartoon_Network_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Cartoon_Network_(Latin_America)
+
+http://dbpedia.org/resource/Tooncast	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+Tooncast	Turner_Broadcasting_System_Latin_America
+Tooncast	isLocatedIn	Atlanta
+Tooncast	isLocatedIn	Atlanta
+Tooncast	isLocatedIn	Atlanta
+Tooncast	isLocatedIn	Atlanta
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+
+http://dbpedia.org/resource/Tooncast	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+Tooncast	Turner_Broadcasting_System_Latin_America
+Tooncast	isLocatedIn	Atlanta
+Tooncast	isLocatedIn	Atlanta
+TNT_Series	isLocatedIn	Atlanta
+TNT_Series	isLocatedIn	Atlanta
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+
+http://dbpedia.org/resource/Tooncast	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+Tooncast	Turner_Broadcasting_System_Latin_America
+Tooncast	isLocatedIn	Atlanta
+Tooncast	isLocatedIn	Atlanta
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+
+http://dbpedia.org/resource/Tooncast	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+Tooncast	Turner_Broadcasting_System_Latin_America
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+
+http://dbpedia.org/resource/Tooncast	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Latin_America
+Tooncast	Turner_Broadcasting_System_Latin_America
+Tooncast	isLocatedIn	Georgia_(U.S._state)
+Tooncast	isLocatedIn	Georgia_(U.S._state)
+Tooncast	isLocatedIn	Georgia_(U.S._state)
+Tooncast	isLocatedIn	Georgia_(U.S._state)
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+C/S_9	Radio_Philippines_Network
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+C/S_9	Radio_Philippines_Network
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+C/S_9	Radio_Philippines_Network
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+C/S_9	Radio_Philippines_Network
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+C/S_9	Radio_Philippines_Network
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	created	Kapampangan_News
+Nine_Media_Corporation	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+C/S_9	Radio_Philippines_Network
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	created	News.PH
+Nine_Media_Corporation	created	News.PH
+Radio_Philippines_Network	created	News.PH
+Radio_Philippines_Network	created	News.PH
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+C/S_9	Radio_Philippines_Network
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+C/S_9	Radio_Philippines_Network
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Radio_Philippines_Network	owns	DXXX-TV
+Radio_Philippines_Network	owns	DXXX-TV
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+C/S_9	Radio_Philippines_Network
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	created	CNN_Philippines_Newsroom
+Nine_Media_Corporation	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+C/S_9	Radio_Philippines_Network
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Radio_Philippines_Network	created	News_Café
+Radio_Philippines_Network	created	News_Café
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+C/S_9	Radio_Philippines_Network
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	CNN_Philippines
+Nine_Media_Corporation	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+C/S_9	Radio_Philippines_Network
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	DZBS-TV
+Nine_Media_Corporation	owns	DZBS-TV
+Radio_Philippines_Network	owns	DZBS-TV
+Radio_Philippines_Network	owns	DZBS-TV
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+C/S_9	Radio_Philippines_Network
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+C/S_9	Radio_Philippines_Network
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	created	Updates_(CNN_Philippines)
+Nine_Media_Corporation	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+C/S_9	Radio_Philippines_Network
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	created	Newsday_(9News)
+Nine_Media_Corporation	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+C/S_9	Radio_Philippines_Network
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	DYKC-TV
+Nine_Media_Corporation	owns	DYKC-TV
+Radio_Philippines_Network	owns	DYKC-TV
+Radio_Philippines_Network	owns	DYKC-TV
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+C/S_9	Radio_Philippines_Network
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	created	CNN_Philippines_Nightly_News
+Nine_Media_Corporation	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+C/S_9	Radio_Philippines_Network
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	created	Cebuano_News
+Nine_Media_Corporation	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+C/S_9	Radio_Philippines_Network
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	Radio_Philippines_Network
+Nine_Media_Corporation	owns	Radio_Philippines_Network
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+C/S_9	Radio_Philippines_Network
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+C/S_9	Radio_Philippines_Network
+Solar_Entertainment_Corporation	owns	C/S_9
+Solar_Entertainment_Corporation	owns	C/S_9
+Solar_Entertainment_Corporation	owns	C/S_9
+Solar_Entertainment_Corporation	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/WCLJ-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Trinity_Broadcasting_Network
+WCLJ-TV	Trinity_Broadcasting_Network
+Trinity_Broadcasting_Network	owns	WCLJ-TV
+Trinity_Broadcasting_Network	owns	WCLJ-TV
+
+http://dbpedia.org/resource/WHNS	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Meredith_Corporation
+WHNS	Meredith_Corporation
+WHNS	isLocatedIn	Anderson,_South_Carolina
+WHNS	isLocatedIn	Anderson,_South_Carolina
+WHNS	isLocatedIn	Anderson,_South_Carolina
+WHNS	isLocatedIn	Anderson,_South_Carolina
+Meredith_Corporation	owns	WHNS
+Meredith_Corporation	owns	WHNS
+
+http://dbpedia.org/resource/WHNS	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Meredith_Corporation
+WHNS	Meredith_Corporation
+Meredith_Corporation	owns	WHNS
+Meredith_Corporation	owns	WHNS
+
+http://dbpedia.org/resource/WJRT-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Gray_Television
+WJRT-TV	Gray_Television
+WJRT-TV	isLocatedIn	Flint,_Michigan
+WJRT-TV	isLocatedIn	Flint,_Michigan
+WJRT-TV	isLocatedIn	Flint,_Michigan
+WJRT-TV	isLocatedIn	Flint,_Michigan
+Gray_Television	owns	WJRT-TV
+Gray_Television	owns	WJRT-TV
+
+http://dbpedia.org/resource/WJRT-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Gray_Television
+WJRT-TV	Gray_Television
+Gray_Television	owns	WJRT-TV
+Gray_Television	owns	WJRT-TV
+
+http://dbpedia.org/resource/Antv	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Visi_Media_Asia
+Antv	Visi_Media_Asia
+Bakrie_Group	owns	Antv
+Bakrie_Group	owns	Antv
+Bakrie_Group	owns	Visi_Media_Asia
+Bakrie_Group	owns	Visi_Media_Asia
+
+http://dbpedia.org/resource/Antv	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Visi_Media_Asia
+Antv	Visi_Media_Asia
+Bakrie_Group	owns	Antv
+Bakrie_Group	owns	Antv
+Bakrie_Group	owns	Antv
+Bakrie_Group	owns	Antv
+Visi_Media_Asia	owns	Antv
+Visi_Media_Asia	owns	Antv
+
+http://dbpedia.org/resource/Antv	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Visi_Media_Asia
+Antv	Visi_Media_Asia
+Antv	isLocatedIn	South_Jakarta
+Antv	isLocatedIn	South_Jakarta
+Antv	isLocatedIn	South_Jakarta
+Antv	isLocatedIn	South_Jakarta
+Visi_Media_Asia	owns	Antv
+Visi_Media_Asia	owns	Antv
+
+http://dbpedia.org/resource/Antv	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Visi_Media_Asia
+Antv	Visi_Media_Asia
+Antv	isLocatedIn	Indonesia
+Antv	isLocatedIn	Indonesia
+Antv	isLocatedIn	Indonesia
+Antv	isLocatedIn	Indonesia
+Visi_Media_Asia	owns	Antv
+Visi_Media_Asia	owns	Antv
+
+http://dbpedia.org/resource/Antv	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Visi_Media_Asia
+Antv	Visi_Media_Asia
+Visi_Media_Asia	owns	Antv
+Visi_Media_Asia	owns	Antv
+
+http://dbpedia.org/resource/Trans7	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Kompas_Gramedia_Group
+Trans7	Kompas_Gramedia_Group
+Kompas_Gramedia_Group	owns	Trans7
+Kompas_Gramedia_Group	owns	Trans7
+
+http://dbpedia.org/resource/Trans7	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Kompas_Gramedia_Group
+Trans7	Kompas_Gramedia_Group
+Trans7	isLocatedIn	Jakarta
+Trans7	isLocatedIn	Jakarta
+Kompas_Gramedia_Group	isLocatedIn	Jakarta
+Kompas_Gramedia_Group	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Trans7	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Kompas_Gramedia_Group
+Trans7	Kompas_Gramedia_Group
+Trans_Corp	owns	Trans7
+Trans_Corp	owns	Trans7
+Trans_Corp	isLocatedIn	Jakarta
+Trans_Corp	isLocatedIn	Jakarta
+Kompas_Gramedia_Group	isLocatedIn	Jakarta
+Kompas_Gramedia_Group	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Trans7	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Kompas_Gramedia_Group
+Trans7	Kompas_Gramedia_Group
+Trans_Corp	owns	Trans7
+Trans_Corp	owns	Trans7
+Trans_Corp	owns	Trans7
+Trans_Corp	owns	Trans7
+Kompas_Gramedia_Group	owns	Trans7
+Kompas_Gramedia_Group	owns	Trans7
+
+http://dbpedia.org/resource/Trans7	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Kompas_Gramedia_Group
+Trans7	Kompas_Gramedia_Group
+Trans7	isLocatedIn	Indonesia
+Trans7	isLocatedIn	Indonesia
+Trans7	isLocatedIn	Indonesia
+Trans7	isLocatedIn	Indonesia
+Kompas_Gramedia_Group	owns	Trans7
+Kompas_Gramedia_Group	owns	Trans7
+
+http://dbpedia.org/resource/KBLR_(TV)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Comcast
+KBLR_(TV)	Comcast
+NBCUniversal	owns	KBLR_(TV)
+NBCUniversal	owns	KBLR_(TV)
+NBCUniversal	owns	Universal_Orlando
+NBCUniversal	owns	Universal_Orlando
+Comcast	owns	Universal_Orlando
+Comcast	owns	Universal_Orlando
+
+http://dbpedia.org/resource/KBLR_(TV)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Comcast
+KBLR_(TV)	Comcast
+NBCUniversal	owns	KBLR_(TV)
+NBCUniversal	owns	KBLR_(TV)
+NBCUniversal	owns	NBC
+NBCUniversal	owns	NBC
+Comcast	owns	NBC
+Comcast	owns	NBC
+
+http://dbpedia.org/resource/KBLR_(TV)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Comcast
+KBLR_(TV)	Comcast
+NBCUniversal	owns	KBLR_(TV)
+NBCUniversal	owns	KBLR_(TV)
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBCUniversal_Television_Group
+Comcast	owns	NBCUniversal_Television_Group
+Comcast	owns	NBCUniversal_Television_Group
+
+http://dbpedia.org/resource/KBLR_(TV)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Comcast
+KBLR_(TV)	Comcast
+NBCUniversal	owns	KBLR_(TV)
+NBCUniversal	owns	KBLR_(TV)
+NBCUniversal	owns	Weatherscan
+NBCUniversal	owns	Weatherscan
+Comcast	owns	Weatherscan
+Comcast	owns	Weatherscan
+
+http://dbpedia.org/resource/NBCUniversal_Television_Group	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Comcast
+NBCUniversal_Television_Group	Comcast
+Comcast	owns	NBCUniversal_Television_Group
+Comcast	owns	NBCUniversal_Television_Group
+
+http://dbpedia.org/resource/NBCUniversal_Television_Group	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Comcast
+NBCUniversal_Television_Group	Comcast
+NBCUniversal_Television_Group	owns	Universal_Television
+NBCUniversal_Television_Group	owns	Universal_Television
+NBCUniversal_Television_Group	owns	Universal_Television
+NBCUniversal_Television_Group	owns	Universal_Television
+Comcast	owns	NBCUniversal_Television_Group
+Comcast	owns	NBCUniversal_Television_Group
+
+http://dbpedia.org/resource/NBCUniversal_Television_Group	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Comcast
+NBCUniversal_Television_Group	Comcast
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	Universal_Orlando
+NBCUniversal	owns	Universal_Orlando
+Comcast	owns	Universal_Orlando
+Comcast	owns	Universal_Orlando
+
+http://dbpedia.org/resource/NBCUniversal_Television_Group	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Comcast
+NBCUniversal_Television_Group	Comcast
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBC
+NBCUniversal	owns	NBC
+Comcast	owns	NBC
+Comcast	owns	NBC
+
+http://dbpedia.org/resource/NBCUniversal_Television_Group	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Comcast
+NBCUniversal_Television_Group	Comcast
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBCUniversal_Television_Group
+Comcast	owns	NBCUniversal_Television_Group
+Comcast	owns	NBCUniversal_Television_Group
+
+http://dbpedia.org/resource/NBCUniversal_Television_Group	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Comcast
+NBCUniversal_Television_Group	Comcast
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	Weatherscan
+NBCUniversal	owns	Weatherscan
+Comcast	owns	Weatherscan
+Comcast	owns	Weatherscan
+
+http://dbpedia.org/resource/KDOR-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Trinity_Broadcasting_Network
+KDOR-TV	Trinity_Broadcasting_Network
+Trinity_Broadcasting_Network	owns	KDOR-TV
+Trinity_Broadcasting_Network	owns	KDOR-TV
+
+http://dbpedia.org/resource/M1_(TV_channel)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/MTVA_(Hungary)
+M1_(TV_channel)	MTVA_(Hungary)
+MTVA_(Hungary)	owns	M1_(TV_channel)
+MTVA_(Hungary)	owns	M1_(TV_channel)
+
+http://dbpedia.org/resource/M1_(TV_channel)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/MTVA_(Hungary)
+M1_(TV_channel)	MTVA_(Hungary)
+Magyar_Televízió	owns	M1_(TV_channel)
+Magyar_Televízió	owns	M1_(TV_channel)
+Magyar_Televízió	owns	M1_(TV_channel)
+Magyar_Televízió	owns	M1_(TV_channel)
+MTVA_(Hungary)	owns	M1_(TV_channel)
+MTVA_(Hungary)	owns	M1_(TV_channel)
+
+http://dbpedia.org/resource/M1_(TV_channel)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/MTVA_(Hungary)
+M1_(TV_channel)	MTVA_(Hungary)
+Magyar_Televízió	owns	M1_(TV_channel)
+Magyar_Televízió	owns	M1_(TV_channel)
+MTVA_(Hungary)	owns	Magyar_Televízió
+MTVA_(Hungary)	owns	Magyar_Televízió
+
+http://dbpedia.org/resource/Boomerang_(Nordic)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Europe
+Boomerang_(Nordic)	Turner_Broadcasting_System_Europe
+Time_Warner	owns	Boomerang_(Nordic)
+Time_Warner	owns	Boomerang_(Nordic)
+Time_Warner	owns	CNN+
+Time_Warner	owns	CNN+
+Turner_Broadcasting_System_Europe	owns	CNN+
+Turner_Broadcasting_System_Europe	owns	CNN+
+
+http://dbpedia.org/resource/Boomerang_(Nordic)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Europe
+Boomerang_(Nordic)	Turner_Broadcasting_System_Europe
+Time_Warner	owns	Boomerang_(Nordic)
+Time_Warner	owns	Boomerang_(Nordic)
+Time_Warner	owns	Turner_Broadcasting_System_Europe
+Time_Warner	owns	Turner_Broadcasting_System_Europe
+
+http://dbpedia.org/resource/Boomerang_(Nordic)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Europe
+Boomerang_(Nordic)	Turner_Broadcasting_System_Europe
+Time_Warner	owns	Boomerang_(Nordic)
+Time_Warner	owns	Boomerang_(Nordic)
+Time_Warner	owns	Cartoon_Network_(Portugal)
+Time_Warner	owns	Cartoon_Network_(Portugal)
+Turner_Broadcasting_System_Europe	owns	Cartoon_Network_(Portugal)
+Turner_Broadcasting_System_Europe	owns	Cartoon_Network_(Portugal)
+
+http://dbpedia.org/resource/Boomerang_(Nordic)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Europe
+Boomerang_(Nordic)	Turner_Broadcasting_System_Europe
+Time_Warner	owns	Boomerang_(Nordic)
+Time_Warner	owns	Boomerang_(Nordic)
+Time_Warner	owns	Boomerang_(Nordic)
+Time_Warner	owns	Boomerang_(Nordic)
+Turner_Broadcasting_System_Europe	owns	Boomerang_(Nordic)
+Turner_Broadcasting_System_Europe	owns	Boomerang_(Nordic)
+
+http://dbpedia.org/resource/Boomerang_(Nordic)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Europe
+Boomerang_(Nordic)	Turner_Broadcasting_System_Europe
+Time_Warner	owns	Boomerang_(Nordic)
+Time_Warner	owns	Boomerang_(Nordic)
+Time_Warner	owns	TNT_Serie
+Time_Warner	owns	TNT_Serie
+Turner_Broadcasting_System_Europe	owns	TNT_Serie
+Turner_Broadcasting_System_Europe	owns	TNT_Serie
+
+http://dbpedia.org/resource/Boomerang_(Nordic)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Europe
+Boomerang_(Nordic)	Turner_Broadcasting_System_Europe
+Time_Warner	owns	Boomerang_(Nordic)
+Time_Warner	owns	Boomerang_(Nordic)
+Time_Warner	owns	TNT_Film
+Time_Warner	owns	TNT_Film
+Turner_Broadcasting_System_Europe	owns	TNT_Film
+Turner_Broadcasting_System_Europe	owns	TNT_Film
+
+http://dbpedia.org/resource/Boomerang_(Nordic)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Europe
+Boomerang_(Nordic)	Turner_Broadcasting_System_Europe
+Turner_Broadcasting_System_Europe	owns	Boomerang_(Nordic)
+Turner_Broadcasting_System_Europe	owns	Boomerang_(Nordic)
+
+http://dbpedia.org/resource/The_Weather_Channel	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/The_Blackstone_Group
+The_Weather_Channel	The_Blackstone_Group
+Bain_Capital	owns	The_Weather_Channel
+Bain_Capital	owns	The_Weather_Channel
+Bain_Capital	owns	The_Weather_Channel
+Bain_Capital	owns	The_Weather_Channel
+The_Blackstone_Group	owns	The_Weather_Channel
+The_Blackstone_Group	owns	The_Weather_Channel
+
+http://dbpedia.org/resource/The_Weather_Channel	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/The_Blackstone_Group
+The_Weather_Channel	The_Blackstone_Group
+Bain_Capital	owns	The_Weather_Channel
+Bain_Capital	owns	The_Weather_Channel
+Bain_Capital	owns	Weatherscan
+Bain_Capital	owns	Weatherscan
+The_Blackstone_Group	owns	Weatherscan
+The_Blackstone_Group	owns	Weatherscan
+
+http://dbpedia.org/resource/The_Weather_Channel	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/The_Blackstone_Group
+The_Weather_Channel	The_Blackstone_Group
+The_Blackstone_Group	owns	The_Weather_Channel
+The_Blackstone_Group	owns	The_Weather_Channel
+
+http://dbpedia.org/resource/The_Weather_Channel	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/The_Blackstone_Group
+The_Weather_Channel	The_Blackstone_Group
+NBCUniversal	owns	The_Weather_Channel
+NBCUniversal	owns	The_Weather_Channel
+NBCUniversal	owns	The_Weather_Channel
+NBCUniversal	owns	The_Weather_Channel
+The_Blackstone_Group	owns	The_Weather_Channel
+The_Blackstone_Group	owns	The_Weather_Channel
+
+http://dbpedia.org/resource/The_Weather_Channel	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/The_Blackstone_Group
+The_Weather_Channel	The_Blackstone_Group
+NBCUniversal	owns	The_Weather_Channel
+NBCUniversal	owns	The_Weather_Channel
+NBCUniversal	owns	Weatherscan
+NBCUniversal	owns	Weatherscan
+The_Blackstone_Group	owns	Weatherscan
+The_Blackstone_Group	owns	Weatherscan
+
+http://dbpedia.org/resource/The_Weather_Channel	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/The_Blackstone_Group
+The_Weather_Channel	The_Blackstone_Group
+The_Weather_Channel	isLocatedIn	The_Bahamas
+The_Weather_Channel	isLocatedIn	The_Bahamas
+The_Weather_Channel	isLocatedIn	The_Bahamas
+The_Weather_Channel	isLocatedIn	The_Bahamas
+The_Blackstone_Group	owns	The_Weather_Channel
+The_Blackstone_Group	owns	The_Weather_Channel
+
+http://dbpedia.org/resource/KBSH-DT	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Gray_Television
+KBSH-DT	Gray_Television
+KBSH-DT	isLocatedIn	Great_Bend,_Kansas
+KBSH-DT	isLocatedIn	Great_Bend,_Kansas
+KBSH-DT	isLocatedIn	Great_Bend,_Kansas
+KBSH-DT	isLocatedIn	Great_Bend,_Kansas
+Gray_Television	owns	KBSH-DT
+Gray_Television	owns	KBSH-DT
+
+http://dbpedia.org/resource/KBSH-DT	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Gray_Television
+KBSH-DT	Gray_Television
+KBSH-DT	isLocatedIn	Hays,_Kansas
+KBSH-DT	isLocatedIn	Hays,_Kansas
+KBSH-DT	isLocatedIn	Hays,_Kansas
+KBSH-DT	isLocatedIn	Hays,_Kansas
+Gray_Television	owns	KBSH-DT
+Gray_Television	owns	KBSH-DT
+
+http://dbpedia.org/resource/KBSH-DT	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Gray_Television
+KBSH-DT	Gray_Television
+Gray_Television	owns	KBSH-DT
+Gray_Television	owns	KBSH-DT
+
+http://dbpedia.org/resource/Animax	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Toei_Animation
+Animax	Toei_Animation
+Toei_Animation	owns	Animax
+Toei_Animation	owns	Animax
+
+http://dbpedia.org/resource/Universal_Television	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/NBCUniversal_Television_Group
+Universal_Television	NBCUniversal_Television_Group
+Universal_Television	isLocatedIn	Universal_City,_California
+Universal_Television	isLocatedIn	Universal_City,_California
+Universal_Television	isLocatedIn	Universal_City,_California
+Universal_Television	isLocatedIn	Universal_City,_California
+NBCUniversal_Television_Group	owns	Universal_Television
+NBCUniversal_Television_Group	owns	Universal_Television
+
+http://dbpedia.org/resource/Universal_Television	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/NBCUniversal_Television_Group
+Universal_Television	NBCUniversal_Television_Group
+NBCUniversal	owns	Universal_Television
+NBCUniversal	owns	Universal_Television
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBCUniversal_Television_Group
+
+http://dbpedia.org/resource/Universal_Television	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/NBCUniversal_Television_Group
+Universal_Television	NBCUniversal_Television_Group
+NBCUniversal_Television_Group	owns	Universal_Television
+NBCUniversal_Television_Group	owns	Universal_Television
+
+http://dbpedia.org/resource/Universal_Television	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/NBCUniversal_Television_Group
+Universal_Television	NBCUniversal_Television_Group
+Universal_Television	isLocatedIn	Los_Angeles_County,_California
+Universal_Television	isLocatedIn	Los_Angeles_County,_California
+Universal_Television	isLocatedIn	Los_Angeles_County,_California
+Universal_Television	isLocatedIn	Los_Angeles_County,_California
+NBCUniversal_Television_Group	owns	Universal_Television
+NBCUniversal_Television_Group	owns	Universal_Television
+
+http://dbpedia.org/resource/Sony_Kix	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Sony_Pictures_Networks
+Sony_Kix	Sony_Pictures_Networks
+Sony_Kix	isLocatedIn	Mumbai
+Sony_Kix	isLocatedIn	Mumbai
+Sony_Kix	isLocatedIn	Mumbai
+Sony_Kix	isLocatedIn	Mumbai
+Sony_Pictures_Networks	owns	Sony_Kix
+Sony_Pictures_Networks	owns	Sony_Kix
+
+http://dbpedia.org/resource/Sony_Kix	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Sony_Pictures_Networks
+Sony_Kix	Sony_Pictures_Networks
+Sony_Pictures_Networks	owns	Sony_Kix
+Sony_Pictures_Networks	owns	Sony_Kix
+
+http://dbpedia.org/resource/KDFW	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Fox_Television_Stations
+KDFW	Fox_Television_Stations
+Fox_Television_Stations	owns	KDFW
+Fox_Television_Stations	owns	KDFW
+
+http://dbpedia.org/resource/General_Motors_Egypt	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Isuzu_Motors
+General_Motors_Egypt	Isuzu_Motors
+General_Motors	owns	General_Motors_Egypt
+General_Motors	owns	General_Motors_Egypt
+General_Motors	owns	General_Motors_Egypt
+General_Motors	owns	General_Motors_Egypt
+Isuzu_Motors	owns	General_Motors_Egypt
+Isuzu_Motors	owns	General_Motors_Egypt
+
+http://dbpedia.org/resource/General_Motors_Egypt	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Isuzu_Motors
+General_Motors_Egypt	Isuzu_Motors
+General_Motors	owns	General_Motors_Egypt
+General_Motors	owns	General_Motors_Egypt
+General_Motors	owns	Industries_Mécaniques_Maghrébines
+General_Motors	owns	Industries_Mécaniques_Maghrébines
+Isuzu_Motors	owns	Industries_Mécaniques_Maghrébines
+Isuzu_Motors	owns	Industries_Mécaniques_Maghrébines
+
+http://dbpedia.org/resource/General_Motors_Egypt	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Isuzu_Motors
+General_Motors_Egypt	Isuzu_Motors
+Isuzu_Motors	owns	General_Motors_Egypt
+Isuzu_Motors	owns	General_Motors_Egypt
+
+http://dbpedia.org/resource/General_Motors_Egypt	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Isuzu_Motors
+General_Motors_Egypt	Isuzu_Motors
+General_Motors_Egypt	isLocatedIn	Maadi
+General_Motors_Egypt	isLocatedIn	Maadi
+General_Motors_Egypt	isLocatedIn	Maadi
+General_Motors_Egypt	isLocatedIn	Maadi
+Isuzu_Motors	owns	General_Motors_Egypt
+Isuzu_Motors	owns	General_Motors_Egypt
+
+http://dbpedia.org/resource/Fox_Sports_Southwest	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Sports_Southwest	21st_Century_Fox
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_South
+Fox_Entertainment_Group	owns	Fox_Sports_South
+21st_Century_Fox	owns	Fox_Sports_South
+21st_Century_Fox	owns	Fox_Sports_South
+
+http://dbpedia.org/resource/Fox_Sports_Southwest	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Sports_Southwest	21st_Century_Fox
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Yardbarker
+Fox_Entertainment_Group	owns	Yardbarker
+21st_Century_Fox	owns	Yardbarker
+21st_Century_Fox	owns	Yardbarker
+
+http://dbpedia.org/resource/Fox_Sports_Southwest	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Sports_Southwest	21st_Century_Fox
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Indiana
+Fox_Entertainment_Group	owns	Fox_Sports_Indiana
+21st_Century_Fox	owns	Fox_Sports_Indiana
+21st_Century_Fox	owns	Fox_Sports_Indiana
+
+http://dbpedia.org/resource/Fox_Sports_Southwest	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Sports_Southwest	21st_Century_Fox
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Big_Ten_Network
+Fox_Entertainment_Group	owns	Big_Ten_Network
+21st_Century_Fox	owns	Big_Ten_Network
+21st_Century_Fox	owns	Big_Ten_Network
+
+http://dbpedia.org/resource/Fox_Sports_Southwest	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Sports_Southwest	21st_Century_Fox
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Sun
+Fox_Entertainment_Group	owns	Fox_Sports_Sun
+21st_Century_Fox	owns	Fox_Sports_Sun
+21st_Century_Fox	owns	Fox_Sports_Sun
+
+http://dbpedia.org/resource/Fox_Sports_Southwest	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Sports_Southwest	21st_Century_Fox
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Networks
+Fox_Entertainment_Group	owns	Fox_Sports_Networks
+21st_Century_Fox	owns	Fox_Sports_Networks
+21st_Century_Fox	owns	Fox_Sports_Networks
+
+http://dbpedia.org/resource/Fox_Sports_Southwest	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Sports_Southwest	21st_Century_Fox
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+21st_Century_Fox	owns	Fox_Sports_Southwest
+21st_Century_Fox	owns	Fox_Sports_Southwest
+
+http://dbpedia.org/resource/Fox_Sports_Southwest	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Sports_Southwest	21st_Century_Fox
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Ohio
+Fox_Entertainment_Group	owns	Fox_Sports_Ohio
+21st_Century_Fox	owns	Fox_Sports_Ohio
+21st_Century_Fox	owns	Fox_Sports_Ohio
+
+http://dbpedia.org/resource/Fox_Sports_Southwest	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Sports_Southwest	21st_Century_Fox
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_New_Orleans
+Fox_Entertainment_Group	owns	Fox_Sports_New_Orleans
+21st_Century_Fox	owns	Fox_Sports_New_Orleans
+21st_Century_Fox	owns	Fox_Sports_New_Orleans
+
+http://dbpedia.org/resource/Fox_Sports_Southwest	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Sports_Southwest	21st_Century_Fox
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Wisconsin
+Fox_Entertainment_Group	owns	Fox_Sports_Wisconsin
+21st_Century_Fox	owns	Fox_Sports_Wisconsin
+21st_Century_Fox	owns	Fox_Sports_Wisconsin
+
+http://dbpedia.org/resource/Fox_Sports_Southwest	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Sports_Southwest	21st_Century_Fox
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Oklahoma
+Fox_Entertainment_Group	owns	Fox_Sports_Oklahoma
+21st_Century_Fox	owns	Fox_Sports_Oklahoma
+21st_Century_Fox	owns	Fox_Sports_Oklahoma
+
+http://dbpedia.org/resource/Fox_Sports_Southwest	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Sports_Southwest	21st_Century_Fox
+21st_Century_Fox	owns	Fox_Sports_Southwest
+21st_Century_Fox	owns	Fox_Sports_Southwest
+
+http://dbpedia.org/resource/WDCQ-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Delta_College_(Michigan)
+WDCQ-TV	Delta_College_(Michigan)
+WDCQ-TV	isLocatedIn	Saginaw,_Michigan
+WDCQ-TV	isLocatedIn	Saginaw,_Michigan
+Saginaw_County,_Michigan	isLocatedIn	Saginaw,_Michigan
+Saginaw,_Michigan	isLocatedIn	Saginaw_County,_Michigan
+Saginaw_County,_Michigan	isLocatedIn	Saginaw,_Michigan
+Saginaw,_Michigan	isLocatedIn	Saginaw_County,_Michigan
+Delta_College_(Michigan)	isLocatedIn	Saginaw_County,_Michigan
+Delta_College_(Michigan)	isLocatedIn	Saginaw_County,_Michigan
+
+http://dbpedia.org/resource/WDCQ-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Delta_College_(Michigan)
+WDCQ-TV	Delta_College_(Michigan)
+Delta_College_(Michigan)	owns	WDCQ-TV
+Delta_College_(Michigan)	owns	WDCQ-TV
+
+http://dbpedia.org/resource/WDCQ-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Delta_College_(Michigan)
+WDCQ-TV	Delta_College_(Michigan)
+WDCQ-TV	isLocatedIn	Bay_City,_Michigan
+WDCQ-TV	isLocatedIn	Bay_City,_Michigan
+Bay_City,_Michigan	isLocatedIn	Bay_County,_Michigan
+Bay_County,_Michigan	isLocatedIn	Bay_City,_Michigan
+Bay_City,_Michigan	isLocatedIn	Bay_County,_Michigan
+Bay_County,_Michigan	isLocatedIn	Bay_City,_Michigan
+Delta_College_(Michigan)	isLocatedIn	Bay_County,_Michigan
+Delta_College_(Michigan)	isLocatedIn	Bay_County,_Michigan
+
+http://dbpedia.org/resource/XEPM-TDT	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Televisa
+XEPM-TDT	Televisa
+Televisa	owns	XEPM-TDT
+Televisa	owns	XEPM-TDT
+
+http://dbpedia.org/resource/XEPM-TDT	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Televisa
+XEPM-TDT	Televisa
+XEPM-TDT	isLocatedIn	El_Paso,_Texas
+XEPM-TDT	isLocatedIn	El_Paso,_Texas
+XEPM-TDT	isLocatedIn	El_Paso,_Texas
+XEPM-TDT	isLocatedIn	El_Paso,_Texas
+Televisa	owns	XEPM-TDT
+Televisa	owns	XEPM-TDT
+
+http://dbpedia.org/resource/Biomet	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/The_Blackstone_Group
+Biomet	The_Blackstone_Group
+Kohlberg_Kravis_Roberts	owns	Biomet
+Kohlberg_Kravis_Roberts	owns	Biomet
+Kohlberg_Kravis_Roberts	owns	Biomet
+Kohlberg_Kravis_Roberts	owns	Biomet
+The_Blackstone_Group	owns	Biomet
+The_Blackstone_Group	owns	Biomet
+
+http://dbpedia.org/resource/Biomet	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/The_Blackstone_Group
+Biomet	The_Blackstone_Group
+The_Blackstone_Group	owns	Biomet
+The_Blackstone_Group	owns	Biomet
+
+http://dbpedia.org/resource/Biomet	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/The_Blackstone_Group
+Biomet	The_Blackstone_Group
+TPG_Capital	owns	Biomet
+TPG_Capital	owns	Biomet
+TPG_Capital	owns	Biomet
+TPG_Capital	owns	Biomet
+The_Blackstone_Group	owns	Biomet
+The_Blackstone_Group	owns	Biomet
+
+http://dbpedia.org/resource/Biomet	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/The_Blackstone_Group
+Biomet	The_Blackstone_Group
+Goldman_Sachs	owns	Biomet
+Goldman_Sachs	owns	Biomet
+Goldman_Sachs	owns	Biomet
+Goldman_Sachs	owns	Biomet
+The_Blackstone_Group	owns	Biomet
+The_Blackstone_Group	owns	Biomet
+
+http://dbpedia.org/resource/Movies!	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/21st_Century_Fox
+Movies!	21st_Century_Fox
+Movies!	isLocatedIn	Illinois
+Movies!	isLocatedIn	Illinois
+Big_Ten_Network	isLocatedIn	Illinois
+Big_Ten_Network	isLocatedIn	Illinois
+21st_Century_Fox	owns	Big_Ten_Network
+21st_Century_Fox	owns	Big_Ten_Network
+
+http://dbpedia.org/resource/Movies!	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/21st_Century_Fox
+Movies!	21st_Century_Fox
+Fox_Television_Stations	owns	Movies!
+Fox_Television_Stations	owns	Movies!
+Rupert_Murdoch	created	Fox_Television_Stations
+Rupert_Murdoch	created	Fox_Television_Stations
+Rupert_Murdoch	created	21st_Century_Fox
+Rupert_Murdoch	created	21st_Century_Fox
+
+http://dbpedia.org/resource/Movies!	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/21st_Century_Fox
+Movies!	21st_Century_Fox
+Movies!	isLocatedIn	Chicago
+Movies!	isLocatedIn	Chicago
+Big_Ten_Network	isLocatedIn	Chicago
+Big_Ten_Network	isLocatedIn	Chicago
+21st_Century_Fox	owns	Big_Ten_Network
+21st_Century_Fox	owns	Big_Ten_Network
+
+http://dbpedia.org/resource/WMYT-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Fox_Television_Stations
+WMYT-TV	Fox_Television_Stations
+Fox_Television_Stations	owns	WMYT-TV
+Fox_Television_Stations	owns	WMYT-TV
+
+http://dbpedia.org/resource/WMYT-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Fox_Television_Stations
+WMYT-TV	Fox_Television_Stations
+WMYT-TV	isLocatedIn	Rock_Hill,_South_Carolina
+WMYT-TV	isLocatedIn	Rock_Hill,_South_Carolina
+WMYT-TV	isLocatedIn	Rock_Hill,_South_Carolina
+WMYT-TV	isLocatedIn	Rock_Hill,_South_Carolina
+Fox_Television_Stations	owns	WMYT-TV
+Fox_Television_Stations	owns	WMYT-TV
+
+http://dbpedia.org/resource/WMYT-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Fox_Television_Stations
+WMYT-TV	Fox_Television_Stations
+WMYT-TV	isLocatedIn	Charlotte,_North_Carolina
+WMYT-TV	isLocatedIn	Charlotte,_North_Carolina
+WMYT-TV	isLocatedIn	Charlotte,_North_Carolina
+WMYT-TV	isLocatedIn	Charlotte,_North_Carolina
+Fox_Television_Stations	owns	WMYT-TV
+Fox_Television_Stations	owns	WMYT-TV
+
+http://dbpedia.org/resource/KCRG-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Gray_Television
+KCRG-TV	Gray_Television
+KCRG-TV	isLocatedIn	Cedar_Rapids,_Iowa
+KCRG-TV	isLocatedIn	Cedar_Rapids,_Iowa
+KCRG-TV	isLocatedIn	Cedar_Rapids,_Iowa
+KCRG-TV	isLocatedIn	Cedar_Rapids,_Iowa
+Gray_Television	owns	KCRG-TV
+Gray_Television	owns	KCRG-TV
+
+http://dbpedia.org/resource/KCRG-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Gray_Television
+KCRG-TV	Gray_Television
+KCRG-TV	isLocatedIn	Iowa_City,_Iowa
+KCRG-TV	isLocatedIn	Iowa_City,_Iowa
+KCRG-TV	isLocatedIn	Iowa_City,_Iowa
+KCRG-TV	isLocatedIn	Iowa_City,_Iowa
+Gray_Television	owns	KCRG-TV
+Gray_Television	owns	KCRG-TV
+
+http://dbpedia.org/resource/KCRG-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Gray_Television
+KCRG-TV	Gray_Television
+Gray_Television	owns	KCRG-TV
+Gray_Television	owns	KCRG-TV
+
+http://dbpedia.org/resource/KCRG-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Gray_Television
+KCRG-TV	Gray_Television
+KCRG-TV	isLocatedIn	Iowa
+KCRG-TV	isLocatedIn	Iowa
+KCRG-TV	isLocatedIn	Iowa
+KCRG-TV	isLocatedIn	Iowa
+Gray_Television	owns	KCRG-TV
+Gray_Television	owns	KCRG-TV
+
+http://dbpedia.org/resource/WSMV-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Meredith_Corporation
+WSMV-TV	Meredith_Corporation
+Meredith_Corporation	owns	WSMV-TV
+Meredith_Corporation	owns	WSMV-TV
+
+http://dbpedia.org/resource/Boing_(Spain)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Mediaset_España_Comunicación
+Boing_(Spain)	Mediaset_España_Comunicación
+Mediaset_España_Comunicación	created	Boing_(Spain)
+Mediaset_España_Comunicación	owns	Boing_(Spain)
+Mediaset_España_Comunicación	created	Boing_(Spain)
+Mediaset_España_Comunicación	owns	Boing_(Spain)
+
+http://dbpedia.org/resource/Boing_(Spain)	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Mediaset_España_Comunicación
+Boing_(Spain)	Mediaset_España_Comunicación
+Turner_Broadcasting_System	owns	Boing_(Spain)
+Turner_Broadcasting_System	owns	Boing_(Spain)
+Turner_Broadcasting_System	owns	Boing_(Spain)
+Turner_Broadcasting_System	owns	Boing_(Spain)
+Mediaset_España_Comunicación	created	Boing_(Spain)
+Mediaset_España_Comunicación	owns	Boing_(Spain)
+Mediaset_España_Comunicación	created	Boing_(Spain)
+Mediaset_España_Comunicación	owns	Boing_(Spain)
+
+http://dbpedia.org/resource/Acura	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Honda
+Acura	Honda
+Honda	owns	Acura
+Honda	owns	Acura
+
+http://dbpedia.org/resource/Acura	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Honda
+Acura	Honda
+Acura	isLocatedIn	Torrance,_California
+Acura	isLocatedIn	Torrance,_California
+Acura	isLocatedIn	Torrance,_California
+Acura	isLocatedIn	Torrance,_California
+Honda	owns	Acura
+Honda	owns	Acura
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Media_Nusantara_Citra
+SinemArt	Media_Nusantara_Citra
+SinemArt	created	Putri_yang_Ditukar
+SinemArt	created	Putri_yang_Ditukar
+SinemArt	created	Putri_yang_Ditukar
+SinemArt	created	Putri_yang_Ditukar
+Media_Nusantara_Citra	owns	SinemArt
+Media_Nusantara_Citra	owns	SinemArt
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Media_Nusantara_Citra
+SinemArt	Media_Nusantara_Citra
+SinemArt	created	Putri_yang_Ditukar
+SinemArt	created	Putri_yang_Ditukar
+Putri_yang_Ditukar	isLocatedIn	Indonesia
+Putri_yang_Ditukar	isLocatedIn	Indonesia
+Media_Nusantara_Citra	isLocatedIn	Indonesia
+Media_Nusantara_Citra	isLocatedIn	Indonesia
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Media_Nusantara_Citra
+SinemArt	Media_Nusantara_Citra
+SinemArt	isLocatedIn	Indonesia
+SinemArt	isLocatedIn	Indonesia
+Media_Nusantara_Citra	isLocatedIn	Indonesia
+Media_Nusantara_Citra	isLocatedIn	Indonesia
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Media_Nusantara_Citra
+SinemArt	Media_Nusantara_Citra
+Media_Nusantara_Citra	owns	SinemArt
+Media_Nusantara_Citra	owns	SinemArt
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Media_Nusantara_Citra
+SinemArt	Media_Nusantara_Citra
+SinemArt	created	Rajawali_(sinetron)
+SinemArt	created	Rajawali_(sinetron)
+SinemArt	created	Rajawali_(sinetron)
+SinemArt	created	Rajawali_(sinetron)
+Media_Nusantara_Citra	owns	SinemArt
+Media_Nusantara_Citra	owns	SinemArt
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Media_Nusantara_Citra
+SinemArt	Media_Nusantara_Citra
+SinemArt	created	Rajawali_(sinetron)
+SinemArt	created	Rajawali_(sinetron)
+Rajawali_(sinetron)	isLocatedIn	Indonesia
+Rajawali_(sinetron)	isLocatedIn	Indonesia
+Media_Nusantara_Citra	isLocatedIn	Indonesia
+Media_Nusantara_Citra	isLocatedIn	Indonesia
+
+http://dbpedia.org/resource/KVVU-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Meredith_Corporation
+KVVU-TV	Meredith_Corporation
+Meredith_Corporation	owns	KVVU-TV
+Meredith_Corporation	owns	KVVU-TV
+
+http://dbpedia.org/resource/KVVU-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Meredith_Corporation
+KVVU-TV	Meredith_Corporation
+KVVU-TV	isLocatedIn	Henderson,_Nevada
+KVVU-TV	isLocatedIn	Henderson,_Nevada
+KVVU-TV	isLocatedIn	Henderson,_Nevada
+KVVU-TV	isLocatedIn	Henderson,_Nevada
+Meredith_Corporation	owns	KVVU-TV
+Meredith_Corporation	owns	KVVU-TV
+
+http://dbpedia.org/resource/KMCI-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/E._W._Scripps_Company
+KMCI-TV	E._W._Scripps_Company
+KMCI-TV	isLocatedIn	Lawrence,_Kansas
+KMCI-TV	isLocatedIn	Lawrence,_Kansas
+KMCI-TV	isLocatedIn	Lawrence,_Kansas
+KMCI-TV	isLocatedIn	Lawrence,_Kansas
+E._W._Scripps_Company	owns	KMCI-TV
+E._W._Scripps_Company	owns	KMCI-TV
+
+http://dbpedia.org/resource/KMCI-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/E._W._Scripps_Company
+KMCI-TV	E._W._Scripps_Company
+E._W._Scripps_Company	owns	KMCI-TV
+E._W._Scripps_Company	owns	KMCI-TV
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Joe_Ricketts
+Comcast_SportsNet_Chicago	Joe_Ricketts
+Joe_Ricketts	owns	Comcast_SportsNet_Chicago
+Joe_Ricketts	owns	Comcast_SportsNet_Chicago
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Joe_Ricketts
+Comcast_SportsNet_Chicago	Joe_Ricketts
+Rocky_Wirtz	owns	Comcast_SportsNet_Chicago
+Rocky_Wirtz	owns	Comcast_SportsNet_Chicago
+Rocky_Wirtz	owns	Comcast_SportsNet_Chicago
+Rocky_Wirtz	owns	Comcast_SportsNet_Chicago
+Joe_Ricketts	owns	Comcast_SportsNet_Chicago
+Joe_Ricketts	owns	Comcast_SportsNet_Chicago
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Joe_Ricketts
+Comcast_SportsNet_Chicago	Joe_Ricketts
+Jerry_Reinsdorf	owns	Comcast_SportsNet_Chicago
+Jerry_Reinsdorf	owns	Comcast_SportsNet_Chicago
+Jerry_Reinsdorf	owns	Comcast_SportsNet_Chicago
+Jerry_Reinsdorf	owns	Comcast_SportsNet_Chicago
+Joe_Ricketts	owns	Comcast_SportsNet_Chicago
+Joe_Ricketts	owns	Comcast_SportsNet_Chicago
+
+http://dbpedia.org/resource/Cartoon_Network_Too	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Turner_Broadcasting_System_Europe
+Cartoon_Network_Too	Turner_Broadcasting_System_Europe
+Turner_Broadcasting_System_Europe	owns	Cartoon_Network_Too
+Turner_Broadcasting_System_Europe	owns	Cartoon_Network_Too
+
+http://dbpedia.org/resource/KTRK-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/American_Broadcasting_Company
+KTRK-TV	American_Broadcasting_Company
+American_Broadcasting_Company	owns	KTRK-TV
+American_Broadcasting_Company	owns	KTRK-TV
+
+http://dbpedia.org/resource/KTRK-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/American_Broadcasting_Company
+KTRK-TV	American_Broadcasting_Company
+The_Walt_Disney_Company	owns	KTRK-TV
+The_Walt_Disney_Company	owns	KTRK-TV
+The_Walt_Disney_Company	owns	WTVD
+The_Walt_Disney_Company	owns	WTVD
+American_Broadcasting_Company	owns	WTVD
+American_Broadcasting_Company	owns	WTVD
+
+http://dbpedia.org/resource/KTRK-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/American_Broadcasting_Company
+KTRK-TV	American_Broadcasting_Company
+The_Walt_Disney_Company	owns	KTRK-TV
+The_Walt_Disney_Company	owns	KTRK-TV
+The_Walt_Disney_Company	owns	KTRK-TV
+The_Walt_Disney_Company	owns	KTRK-TV
+American_Broadcasting_Company	owns	KTRK-TV
+American_Broadcasting_Company	owns	KTRK-TV
+
+http://dbpedia.org/resource/KTRK-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/American_Broadcasting_Company
+KTRK-TV	American_Broadcasting_Company
+The_Walt_Disney_Company	owns	KTRK-TV
+The_Walt_Disney_Company	owns	KTRK-TV
+The_Walt_Disney_Company	owns	WLS-TV
+The_Walt_Disney_Company	owns	WLS-TV
+American_Broadcasting_Company	owns	WLS-TV
+American_Broadcasting_Company	owns	WLS-TV
+
+http://dbpedia.org/resource/KTRK-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/American_Broadcasting_Company
+KTRK-TV	American_Broadcasting_Company
+The_Walt_Disney_Company	owns	KTRK-TV
+The_Walt_Disney_Company	owns	KTRK-TV
+The_Walt_Disney_Company	owns	American_Broadcasting_Company
+The_Walt_Disney_Company	owns	American_Broadcasting_Company
+
+http://dbpedia.org/resource/KTRK-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/American_Broadcasting_Company
+KTRK-TV	American_Broadcasting_Company
+KTRK-TV	isLocatedIn	Texas
+KTRK-TV	isLocatedIn	Texas
+KTRK-TV	isLocatedIn	Texas
+KTRK-TV	isLocatedIn	Texas
+American_Broadcasting_Company	owns	KTRK-TV
+American_Broadcasting_Company	owns	KTRK-TV
+
+http://dbpedia.org/resource/KPDX	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Meredith_Corporation
+KPDX	Meredith_Corporation
+Meredith_Corporation	owns	KPDX
+Meredith_Corporation	owns	KPDX
+
+http://dbpedia.org/resource/KDTX-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Trinity_Broadcasting_Network
+KDTX-TV	Trinity_Broadcasting_Network
+Trinity_Broadcasting_Network	owns	KDTX-TV
+Trinity_Broadcasting_Network	owns	KDTX-TV
+
+http://dbpedia.org/resource/KDTX-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Trinity_Broadcasting_Network
+KDTX-TV	Trinity_Broadcasting_Network
+KDTX-TV	isLocatedIn	Dallas
+KDTX-TV	isLocatedIn	Dallas
+KDTX-TV	isLocatedIn	Dallas
+KDTX-TV	isLocatedIn	Dallas
+Trinity_Broadcasting_Network	owns	KDTX-TV
+Trinity_Broadcasting_Network	owns	KDTX-TV
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Solar_Entertainment_Corporation
+C/S_9	Solar_Entertainment_Corporation
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+Solar_Entertainment_Corporation	owns	C/S_9
+Solar_Entertainment_Corporation	owns	C/S_9
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Solar_Entertainment_Corporation
+C/S_9	Solar_Entertainment_Corporation
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Solar_Entertainment_Corporation	owns	C/S_9
+Solar_Entertainment_Corporation	owns	C/S_9
+
+http://dbpedia.org/resource/C/S_9	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Solar_Entertainment_Corporation
+C/S_9	Solar_Entertainment_Corporation
+Solar_Entertainment_Corporation	owns	C/S_9
+Solar_Entertainment_Corporation	owns	C/S_9
+
+http://dbpedia.org/resource/KGWN-DT2	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Gray_Television
+KGWN-DT2	Gray_Television
+Gray_Television	owns	KGWN-DT2
+Gray_Television	owns	KGWN-DT2
+
+http://dbpedia.org/resource/KGWN-DT2	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Gray_Television
+KGWN-DT2	Gray_Television
+KGWN-DT2	isLocatedIn	Greeley,_Colorado
+KGWN-DT2	isLocatedIn	Greeley,_Colorado
+KGWN-DT2	isLocatedIn	Greeley,_Colorado
+KGWN-DT2	isLocatedIn	Greeley,_Colorado
+Gray_Television	owns	KGWN-DT2
+Gray_Television	owns	KGWN-DT2
+
+http://dbpedia.org/resource/KGWN-DT2	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Gray_Television
+KGWN-DT2	Gray_Television
+KGWN-DT2	isLocatedIn	Loveland,_Colorado
+KGWN-DT2	isLocatedIn	Loveland,_Colorado
+KGWN-DT2	isLocatedIn	Loveland,_Colorado
+KGWN-DT2	isLocatedIn	Loveland,_Colorado
+Gray_Television	owns	KGWN-DT2
+Gray_Television	owns	KGWN-DT2
+
+http://dbpedia.org/resource/Sony_ESPN	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Sony_Pictures_Networks
+Sony_ESPN	Sony_Pictures_Networks
+Sony_Pictures_Networks	owns	Sony_ESPN
+Sony_Pictures_Networks	owns	Sony_ESPN
+
+http://dbpedia.org/resource/Sony_ESPN	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Sony_Pictures_Networks
+Sony_ESPN	Sony_Pictures_Networks
+Sony_ESPN	isLocatedIn	Mumbai
+Sony_ESPN	isLocatedIn	Mumbai
+Sony_Kix	isLocatedIn	Mumbai
+Sony_Kix	isLocatedIn	Mumbai
+Sony_Pictures_Networks	owns	Sony_Kix
+Sony_Pictures_Networks	owns	Sony_Kix
+
+http://dbpedia.org/resource/Sony_ESPN	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Sony_Pictures_Networks
+Sony_ESPN	Sony_Pictures_Networks
+ESPN_Inc.	owns	Sony_ESPN
+ESPN_Inc.	owns	Sony_ESPN
+ESPN_Inc.	owns	Sony_ESPN
+ESPN_Inc.	owns	Sony_ESPN
+Sony_Pictures_Networks	owns	Sony_ESPN
+Sony_Pictures_Networks	owns	Sony_ESPN
+
+http://dbpedia.org/resource/DXXX-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+DXXX-TV	Radio_Philippines_Network
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+
+http://dbpedia.org/resource/DXXX-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+DXXX-TV	Radio_Philippines_Network
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/DXXX-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+DXXX-TV	Radio_Philippines_Network
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+
+http://dbpedia.org/resource/DXXX-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+DXXX-TV	Radio_Philippines_Network
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	created	Kapampangan_News
+Nine_Media_Corporation	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+
+http://dbpedia.org/resource/DXXX-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+DXXX-TV	Radio_Philippines_Network
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	created	News.PH
+Nine_Media_Corporation	created	News.PH
+Radio_Philippines_Network	created	News.PH
+Radio_Philippines_Network	created	News.PH
+
+http://dbpedia.org/resource/DXXX-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+DXXX-TV	Radio_Philippines_Network
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+
+http://dbpedia.org/resource/DXXX-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+DXXX-TV	Radio_Philippines_Network
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Radio_Philippines_Network	owns	DXXX-TV
+Radio_Philippines_Network	owns	DXXX-TV
+
+http://dbpedia.org/resource/DXXX-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+DXXX-TV	Radio_Philippines_Network
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	created	CNN_Philippines_Newsroom
+Nine_Media_Corporation	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+
+http://dbpedia.org/resource/DXXX-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+DXXX-TV	Radio_Philippines_Network
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Radio_Philippines_Network	created	News_Café
+Radio_Philippines_Network	created	News_Café
+
+http://dbpedia.org/resource/DXXX-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+DXXX-TV	Radio_Philippines_Network
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	CNN_Philippines
+Nine_Media_Corporation	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+
+http://dbpedia.org/resource/DXXX-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+DXXX-TV	Radio_Philippines_Network
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DZBS-TV
+Nine_Media_Corporation	owns	DZBS-TV
+Radio_Philippines_Network	owns	DZBS-TV
+Radio_Philippines_Network	owns	DZBS-TV
+
+http://dbpedia.org/resource/DXXX-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+DXXX-TV	Radio_Philippines_Network
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+
+http://dbpedia.org/resource/DXXX-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+DXXX-TV	Radio_Philippines_Network
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	created	Updates_(CNN_Philippines)
+Nine_Media_Corporation	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+
+http://dbpedia.org/resource/DXXX-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+DXXX-TV	Radio_Philippines_Network
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	created	Newsday_(9News)
+Nine_Media_Corporation	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+
+http://dbpedia.org/resource/DXXX-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+DXXX-TV	Radio_Philippines_Network
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DYKC-TV
+Nine_Media_Corporation	owns	DYKC-TV
+Radio_Philippines_Network	owns	DYKC-TV
+Radio_Philippines_Network	owns	DYKC-TV
+
+http://dbpedia.org/resource/DXXX-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+DXXX-TV	Radio_Philippines_Network
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	created	CNN_Philippines_Nightly_News
+Nine_Media_Corporation	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+
+http://dbpedia.org/resource/DXXX-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+DXXX-TV	Radio_Philippines_Network
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	created	Cebuano_News
+Nine_Media_Corporation	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+
+http://dbpedia.org/resource/DXXX-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+DXXX-TV	Radio_Philippines_Network
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	Radio_Philippines_Network
+Nine_Media_Corporation	owns	Radio_Philippines_Network
+
+http://dbpedia.org/resource/DXXX-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+DXXX-TV	Radio_Philippines_Network
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+
+http://dbpedia.org/resource/DXXX-TV	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/Radio_Philippines_Network
+DXXX-TV	Radio_Philippines_Network
+Radio_Philippines_Network	owns	DXXX-TV
+Radio_Philippines_Network	owns	DXXX-TV
+
+http://dbpedia.org/resource/Debswana	http://dbpedia.org/ontology/owningCompany	http://dbpedia.org/resource/De_Beers
+Debswana	De_Beers
+De_Beers	owns	Debswana
+De_Beers	owns	Debswana
+

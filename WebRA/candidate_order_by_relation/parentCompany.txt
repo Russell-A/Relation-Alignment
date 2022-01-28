@@ -1,0 +1,328 @@
+http://dbpedia.org/resource/Fox_Television_Stations	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Television_Stations	21st_Century_Fox
+Rupert_Murdoch	created	Fox_Television_Stations
+Rupert_Murdoch	created	Fox_Television_Stations
+Rupert_Murdoch	created	21st_Century_Fox
+Rupert_Murdoch	created	21st_Century_Fox
+
+http://dbpedia.org/resource/Fox_Television_Stations	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Television_Stations	21st_Century_Fox
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Sports_South
+Fox_Entertainment_Group	owns	Fox_Sports_South
+21st_Century_Fox	owns	Fox_Sports_South
+21st_Century_Fox	owns	Fox_Sports_South
+
+http://dbpedia.org/resource/Fox_Television_Stations	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Television_Stations	21st_Century_Fox
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Yardbarker
+Fox_Entertainment_Group	owns	Yardbarker
+21st_Century_Fox	owns	Yardbarker
+21st_Century_Fox	owns	Yardbarker
+
+http://dbpedia.org/resource/Fox_Television_Stations	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Television_Stations	21st_Century_Fox
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Sports_Indiana
+Fox_Entertainment_Group	owns	Fox_Sports_Indiana
+21st_Century_Fox	owns	Fox_Sports_Indiana
+21st_Century_Fox	owns	Fox_Sports_Indiana
+
+http://dbpedia.org/resource/Fox_Television_Stations	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Television_Stations	21st_Century_Fox
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Big_Ten_Network
+Fox_Entertainment_Group	owns	Big_Ten_Network
+21st_Century_Fox	owns	Big_Ten_Network
+21st_Century_Fox	owns	Big_Ten_Network
+
+http://dbpedia.org/resource/Fox_Television_Stations	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Television_Stations	21st_Century_Fox
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Sports_Sun
+Fox_Entertainment_Group	owns	Fox_Sports_Sun
+21st_Century_Fox	owns	Fox_Sports_Sun
+21st_Century_Fox	owns	Fox_Sports_Sun
+
+http://dbpedia.org/resource/Fox_Television_Stations	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Television_Stations	21st_Century_Fox
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Sports_Networks
+Fox_Entertainment_Group	owns	Fox_Sports_Networks
+21st_Century_Fox	owns	Fox_Sports_Networks
+21st_Century_Fox	owns	Fox_Sports_Networks
+
+http://dbpedia.org/resource/Fox_Television_Stations	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Television_Stations	21st_Century_Fox
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+21st_Century_Fox	owns	Fox_Sports_Southwest
+21st_Century_Fox	owns	Fox_Sports_Southwest
+
+http://dbpedia.org/resource/Fox_Television_Stations	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Television_Stations	21st_Century_Fox
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Sports_Ohio
+Fox_Entertainment_Group	owns	Fox_Sports_Ohio
+21st_Century_Fox	owns	Fox_Sports_Ohio
+21st_Century_Fox	owns	Fox_Sports_Ohio
+
+http://dbpedia.org/resource/Fox_Television_Stations	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Television_Stations	21st_Century_Fox
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Sports_New_Orleans
+Fox_Entertainment_Group	owns	Fox_Sports_New_Orleans
+21st_Century_Fox	owns	Fox_Sports_New_Orleans
+21st_Century_Fox	owns	Fox_Sports_New_Orleans
+
+http://dbpedia.org/resource/Fox_Television_Stations	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Television_Stations	21st_Century_Fox
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Sports_Wisconsin
+Fox_Entertainment_Group	owns	Fox_Sports_Wisconsin
+21st_Century_Fox	owns	Fox_Sports_Wisconsin
+21st_Century_Fox	owns	Fox_Sports_Wisconsin
+
+http://dbpedia.org/resource/Fox_Television_Stations	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/21st_Century_Fox
+Fox_Television_Stations	21st_Century_Fox
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Sports_Oklahoma
+Fox_Entertainment_Group	owns	Fox_Sports_Oklahoma
+21st_Century_Fox	owns	Fox_Sports_Oklahoma
+21st_Century_Fox	owns	Fox_Sports_Oklahoma
+
+http://dbpedia.org/resource/ASL_Airlines_Ireland	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/ASL_Airlines_Ireland
+ASL_Airlines_Ireland	ASL_Airlines_Ireland
+ASL_Airlines_Ireland	isLocatedIn	Shannon_Airport
+ASL_Airlines_Ireland	isLocatedIn	Shannon_Airport
+ASL_Airlines_Ireland	isLocatedIn	Shannon_Airport
+ASL_Airlines_Ireland	isLocatedIn	Shannon_Airport
+
+http://dbpedia.org/resource/V_Air	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/TransAsia_Airways
+V_Air	TransAsia_Airways
+TransAsia_Airways	owns	V_Air
+TransAsia_Airways	owns	V_Air
+
+http://dbpedia.org/resource/V_Air	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/TransAsia_Airways
+V_Air	TransAsia_Airways
+V_Air	isLocatedIn	Taipei
+V_Air	isLocatedIn	Taipei
+TransAsia_Airways	isLocatedIn	Taipei
+TransAsia_Airways	isLocatedIn	Taipei
+
+http://dbpedia.org/resource/China_Airlines	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/China_Airlines_Group
+China_Airlines	China_Airlines_Group
+China_Airlines	isLocatedIn	Dayuan_District
+China_Airlines	isLocatedIn	Dayuan_District
+CAL_Park	isLocatedIn	Dayuan_District
+CAL_Park	isLocatedIn	Dayuan_District
+China_Airlines_Group	isLocatedIn	CAL_Park
+China_Airlines_Group	isLocatedIn	CAL_Park
+
+http://dbpedia.org/resource/China_Airlines	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/China_Airlines_Group
+China_Airlines	China_Airlines_Group
+China_Airlines	isLocatedIn	Dayuan_District
+China_Airlines	isLocatedIn	Dayuan_District
+Dayuan_District	isLocatedIn	Taoyuan,_Taiwan
+Dayuan_District	isLocatedIn	Taoyuan,_Taiwan
+China_Airlines_Group	isLocatedIn	Taoyuan,_Taiwan
+China_Airlines_Group	isLocatedIn	Taoyuan,_Taiwan
+
+http://dbpedia.org/resource/China_Airlines	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/China_Airlines_Group
+China_Airlines	China_Airlines_Group
+China_Airlines	isLocatedIn	Taoyuan,_Taiwan
+China_Airlines	isLocatedIn	Taoyuan,_Taiwan
+CAL_Park	isLocatedIn	Taoyuan,_Taiwan
+CAL_Park	isLocatedIn	Taoyuan,_Taiwan
+China_Airlines_Group	isLocatedIn	CAL_Park
+China_Airlines_Group	isLocatedIn	CAL_Park
+
+http://dbpedia.org/resource/China_Airlines	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/China_Airlines_Group
+China_Airlines	China_Airlines_Group
+China_Airlines	isLocatedIn	Taoyuan,_Taiwan
+China_Airlines	isLocatedIn	Taoyuan,_Taiwan
+China_Airlines_Group	isLocatedIn	Taoyuan,_Taiwan
+China_Airlines_Group	isLocatedIn	Taoyuan,_Taiwan
+
+http://dbpedia.org/resource/China_Airlines	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/China_Airlines_Group
+China_Airlines	China_Airlines_Group
+China_Airlines	isLocatedIn	CAL_Park
+China_Airlines	isLocatedIn	CAL_Park
+China_Airlines_Group	isLocatedIn	CAL_Park
+China_Airlines_Group	isLocatedIn	CAL_Park
+
+http://dbpedia.org/resource/China_Airlines	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/China_Airlines_Group
+China_Airlines	China_Airlines_Group
+China_Airlines	isLocatedIn	CAL_Park
+China_Airlines	isLocatedIn	CAL_Park
+CAL_Park	isLocatedIn	Taoyuan,_Taiwan
+CAL_Park	isLocatedIn	Taoyuan,_Taiwan
+China_Airlines_Group	isLocatedIn	Taoyuan,_Taiwan
+China_Airlines_Group	isLocatedIn	Taoyuan,_Taiwan
+
+http://dbpedia.org/resource/China_Airlines	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/China_Airlines_Group
+China_Airlines	China_Airlines_Group
+China_Airlines	isLocatedIn	Taoyuan_District
+China_Airlines	isLocatedIn	Taoyuan_District
+Taoyuan_District	isLocatedIn	Taoyuan,_Taiwan
+Taoyuan_District	isLocatedIn	Taoyuan,_Taiwan
+China_Airlines_Group	isLocatedIn	Taoyuan,_Taiwan
+China_Airlines_Group	isLocatedIn	Taoyuan,_Taiwan
+
+http://dbpedia.org/resource/Reliance_Communications	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/Reliance_Anil_Dhirubhai_Ambani_Group
+Reliance_Communications	Reliance_Anil_Dhirubhai_Ambani_Group
+Dhirubhai_Ambani	created	Reliance_Communications
+Dhirubhai_Ambani	created	Reliance_Communications
+Dhirubhai_Ambani	created	Reliance_Anil_Dhirubhai_Ambani_Group
+Dhirubhai_Ambani	created	Reliance_Anil_Dhirubhai_Ambani_Group
+
+http://dbpedia.org/resource/Reliance_Communications	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/Reliance_Anil_Dhirubhai_Ambani_Group
+Reliance_Communications	Reliance_Anil_Dhirubhai_Ambani_Group
+Reliance_Communications	isLocatedIn	Navi_Mumbai
+Reliance_Communications	isLocatedIn	Navi_Mumbai
+Reliance_Anil_Dhirubhai_Ambani_Group	isLocatedIn	Navi_Mumbai
+Reliance_Anil_Dhirubhai_Ambani_Group	isLocatedIn	Navi_Mumbai
+
+http://dbpedia.org/resource/Reliance_Communications	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/Reliance_Anil_Dhirubhai_Ambani_Group
+Reliance_Communications	Reliance_Anil_Dhirubhai_Ambani_Group
+Anil_Ambani	created	Reliance_Communications
+Anil_Ambani	created	Reliance_Communications
+Dhirubhai_Ambani	hasChild	Anil_Ambani
+Dhirubhai_Ambani	hasChild	Anil_Ambani
+Dhirubhai_Ambani	created	Reliance_Anil_Dhirubhai_Ambani_Group
+Dhirubhai_Ambani	created	Reliance_Anil_Dhirubhai_Ambani_Group
+
+http://dbpedia.org/resource/Universal_Television	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/Comcast
+Universal_Television	Comcast
+Universal_Television	isLocatedIn	Universal_City,_California
+Universal_Television	isLocatedIn	Universal_City,_California
+10_Universal_City_Plaza	isLocatedIn	Universal_City,_California
+10_Universal_City_Plaza	isLocatedIn	Universal_City,_California
+Comcast	owns	10_Universal_City_Plaza
+Comcast	owns	10_Universal_City_Plaza
+
+http://dbpedia.org/resource/Universal_Television	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/Comcast
+Universal_Television	Comcast
+NBCUniversal	owns	Universal_Television
+NBCUniversal	owns	Universal_Television
+NBCUniversal	owns	Universal_Orlando
+NBCUniversal	owns	Universal_Orlando
+Comcast	owns	Universal_Orlando
+Comcast	owns	Universal_Orlando
+
+http://dbpedia.org/resource/Universal_Television	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/Comcast
+Universal_Television	Comcast
+NBCUniversal	owns	Universal_Television
+NBCUniversal	owns	Universal_Television
+NBCUniversal	owns	NBC
+NBCUniversal	owns	NBC
+Comcast	owns	NBC
+Comcast	owns	NBC
+
+http://dbpedia.org/resource/Universal_Television	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/Comcast
+Universal_Television	Comcast
+NBCUniversal	owns	Universal_Television
+NBCUniversal	owns	Universal_Television
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBCUniversal_Television_Group
+Comcast	owns	NBCUniversal_Television_Group
+Comcast	owns	NBCUniversal_Television_Group
+
+http://dbpedia.org/resource/Universal_Television	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/Comcast
+Universal_Television	Comcast
+NBCUniversal	owns	Universal_Television
+NBCUniversal	owns	Universal_Television
+NBCUniversal	owns	Weatherscan
+NBCUniversal	owns	Weatherscan
+Comcast	owns	Weatherscan
+Comcast	owns	Weatherscan
+
+http://dbpedia.org/resource/Universal_Television	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/Comcast
+Universal_Television	Comcast
+NBCUniversal_Television_Group	owns	Universal_Television
+NBCUniversal_Television_Group	owns	Universal_Television
+Comcast	owns	NBCUniversal_Television_Group
+Comcast	owns	NBCUniversal_Television_Group
+
+http://dbpedia.org/resource/Tenaris	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/Techint
+Tenaris	Techint
+Tenaris	owns	Ternium
+Tenaris	owns	Ternium
+Techint	owns	Ternium
+Techint	owns	Ternium
+
+http://dbpedia.org/resource/Tenaris	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/Techint
+Tenaris	Techint
+Tenaris	owns	Ternium
+Tenaris	owns	Ternium
+Tenaris	owns	Ternium
+Tenaris	owns	Ternium
+Techint	owns	Tenaris
+Techint	owns	Tenaris
+
+http://dbpedia.org/resource/Tenaris	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/Techint
+Tenaris	Techint
+Techint	owns	Tenaris
+Techint	owns	Tenaris
+
+http://dbpedia.org/resource/Tata_Power	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/Tata_Group
+Tata_Power	Tata_Group
+Tata_Power	isLocatedIn	Mumbai
+Tata_Power	isLocatedIn	Mumbai
+Tata_Group	isLocatedIn	Mumbai
+Tata_Group	isLocatedIn	Mumbai
+
+http://dbpedia.org/resource/Tata_Power	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/Tata_Group
+Tata_Power	Tata_Group
+Dorabji_Tata	created	Tata_Power
+Dorabji_Tata	created	Tata_Power
+Jamsetji_Tata	hasChild	Dorabji_Tata
+Jamsetji_Tata	hasChild	Dorabji_Tata
+Jamsetji_Tata	created	Tata_Group
+Jamsetji_Tata	created	Tata_Group
+
+http://dbpedia.org/resource/Tata_Power	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/Tata_Group
+Tata_Power	Tata_Group
+Dorabji_Tata	created	Tata_Power
+Dorabji_Tata	created	Tata_Power
+Dorabji_Tata	created	Tata_Steel
+Dorabji_Tata	created	Tata_Steel
+Tata_Group	owns	Tata_Steel
+Tata_Group	owns	Tata_Steel
+
+http://dbpedia.org/resource/Tata_Power	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/Tata_Group
+Tata_Power	Tata_Group
+Dorabji_Tata	created	Tata_Power
+Dorabji_Tata	created	Tata_Power
+Dorabji_Tata	created	Tata_Power
+Dorabji_Tata	created	Tata_Power
+Tata_Group	owns	Tata_Power
+Tata_Group	owns	Tata_Power
+
+http://dbpedia.org/resource/Tata_Power	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/Tata_Group
+Tata_Power	Tata_Group
+Dorabji_Tata	created	Tata_Power
+Dorabji_Tata	created	Tata_Power
+Dorabji_Tata	wasBornIn	Mumbai
+Dorabji_Tata	wasBornIn	Mumbai
+Tata_Group	isLocatedIn	Mumbai
+Tata_Group	isLocatedIn	Mumbai
+
+http://dbpedia.org/resource/Tata_Power	http://dbpedia.org/ontology/parentCompany	http://dbpedia.org/resource/Tata_Group
+Tata_Power	Tata_Group
+Tata_Group	owns	Tata_Power
+Tata_Group	owns	Tata_Power
+

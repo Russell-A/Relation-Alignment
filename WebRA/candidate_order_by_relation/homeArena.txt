@@ -1,0 +1,68 @@
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/homeArena	http://dbpedia.org/resource/The_Palace_of_Auburn_Hills
+Detroit_Pistons	The_Palace_of_Auburn_Hills
+Tom_Gores	owns	Detroit_Pistons
+Tom_Gores	owns	Detroit_Pistons
+Tom_Gores	owns	The_Palace_of_Auburn_Hills
+Tom_Gores	owns	The_Palace_of_Auburn_Hills
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/homeArena	http://dbpedia.org/resource/The_Palace_of_Auburn_Hills
+Detroit_Pistons	The_Palace_of_Auburn_Hills
+Detroit_Pistons	isLocatedIn	Auburn_Hills,_Michigan
+Detroit_Pistons	isLocatedIn	Auburn_Hills,_Michigan
+The_Palace_of_Auburn_Hills	isLocatedIn	Auburn_Hills,_Michigan
+The_Palace_of_Auburn_Hills	isLocatedIn	Auburn_Hills,_Michigan
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/homeArena	http://dbpedia.org/resource/The_Palace_of_Auburn_Hills
+Detroit_Pistons	The_Palace_of_Auburn_Hills
+Detroit_Pistons	isLocatedIn	Michigan
+Detroit_Pistons	isLocatedIn	Michigan
+Auburn_Hills,_Michigan	isLocatedIn	Michigan
+Auburn_Hills,_Michigan	isLocatedIn	Michigan
+The_Palace_of_Auburn_Hills	isLocatedIn	Auburn_Hills,_Michigan
+The_Palace_of_Auburn_Hills	isLocatedIn	Auburn_Hills,_Michigan
+
+http://dbpedia.org/resource/Dallas_Mavericks	http://dbpedia.org/ontology/homeArena	http://dbpedia.org/resource/American_Airlines_Center
+Dallas_Mavericks	American_Airlines_Center
+Mark_Cuban	owns	Dallas_Mavericks
+Mark_Cuban	owns	Dallas_Mavericks
+Mark_Cuban	livesIn	Dallas
+Mark_Cuban	livesIn	Dallas
+Dallas	owns	American_Airlines_Center
+American_Airlines_Center	isLocatedIn	Dallas
+Dallas	owns	American_Airlines_Center
+American_Airlines_Center	isLocatedIn	Dallas
+
+http://dbpedia.org/resource/Dallas_Mavericks	http://dbpedia.org/ontology/homeArena	http://dbpedia.org/resource/American_Airlines_Center
+Dallas_Mavericks	American_Airlines_Center
+Dallas_Mavericks	isLocatedIn	Dallas
+Dallas_Mavericks	isLocatedIn	Dallas
+Dallas	owns	American_Airlines_Center
+American_Airlines_Center	isLocatedIn	Dallas
+Dallas	owns	American_Airlines_Center
+American_Airlines_Center	isLocatedIn	Dallas
+
+http://dbpedia.org/resource/Dallas_Mavericks	http://dbpedia.org/ontology/homeArena	http://dbpedia.org/resource/American_Airlines_Center
+Dallas_Mavericks	American_Airlines_Center
+Dallas_Mavericks	isLocatedIn	Texas
+Dallas_Mavericks	isLocatedIn	Texas
+Dallas	isLocatedIn	Texas
+Dallas	isLocatedIn	Texas
+Dallas	owns	American_Airlines_Center
+American_Airlines_Center	isLocatedIn	Dallas
+Dallas	owns	American_Airlines_Center
+American_Airlines_Center	isLocatedIn	Dallas
+
+http://dbpedia.org/resource/Seattle_SuperSonics	http://dbpedia.org/ontology/homeArena	http://dbpedia.org/resource/Kingdome
+Seattle_SuperSonics	Kingdome
+Seattle_SuperSonics	isLocatedIn	Seattle
+Seattle_SuperSonics	isLocatedIn	Seattle
+Kingdome	isLocatedIn	Seattle
+Kingdome	isLocatedIn	Seattle
+
+http://dbpedia.org/resource/Seattle_SuperSonics	http://dbpedia.org/ontology/homeArena	http://dbpedia.org/resource/Kingdome
+Seattle_SuperSonics	Kingdome
+Seattle_SuperSonics	isLocatedIn	Washington_(state)
+Seattle_SuperSonics	isLocatedIn	Washington_(state)
+Kingdome	isLocatedIn	Washington_(state)
+Kingdome	isLocatedIn	Washington_(state)
+

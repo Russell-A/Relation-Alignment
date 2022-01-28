@@ -1,0 +1,23 @@
+http://dbpedia.org/resource/Joel_Carreño	http://dbpedia.org/ontology/debutTeam	http://dbpedia.org/resource/Toronto_Blue_Jays
+Joel_Carreño	Toronto_Blue_Jays
+Joel_Carreño	isCitizenOf	Dominica
+Joel_Carreño	isCitizenOf	Dominica
+Melky_Cabrera	isCitizenOf	Dominica
+Melky_Cabrera	isCitizenOf	Dominica
+Melky_Cabrera	isAffiliatedTo	Toronto_Blue_Jays
+Melky_Cabrera	isAffiliatedTo	Toronto_Blue_Jays
+
+http://dbpedia.org/resource/Eduardo_Rodríguez_(left-handed_pitcher)	http://dbpedia.org/ontology/debutTeam	http://dbpedia.org/resource/Boston_Red_Sox
+Eduardo_Rodríguez_(left-handed_pitcher)	Boston_Red_Sox
+Eduardo_Rodríguez_(left-handed_pitcher)	isAffiliatedTo	Boston_Red_Sox
+Eduardo_Rodríguez_(left-handed_pitcher)	isAffiliatedTo	Boston_Red_Sox
+
+http://dbpedia.org/resource/Eduardo_Rodríguez_(left-handed_pitcher)	http://dbpedia.org/ontology/debutTeam	http://dbpedia.org/resource/Boston_Red_Sox
+Eduardo_Rodríguez_(left-handed_pitcher)	Boston_Red_Sox
+Eduardo_Rodríguez_(left-handed_pitcher)	wasBornIn	Valencia,_Carabobo
+Eduardo_Rodríguez_(left-handed_pitcher)	wasBornIn	Valencia,_Carabobo
+Eduardo_Rodríguez_(left-handed_pitcher)	wasBornIn	Valencia,_Carabobo
+Eduardo_Rodríguez_(left-handed_pitcher)	wasBornIn	Valencia,_Carabobo
+Eduardo_Rodríguez_(left-handed_pitcher)	isAffiliatedTo	Boston_Red_Sox
+Eduardo_Rodríguez_(left-handed_pitcher)	isAffiliatedTo	Boston_Red_Sox
+

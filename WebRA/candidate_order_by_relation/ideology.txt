@@ -1,0 +1,30 @@
+http://dbpedia.org/resource/Democratic_Center_(Colombia)	http://dbpedia.org/ontology/ideology	http://dbpedia.org/resource/Álvaro_Uribe
+Democratic_Center_(Colombia)	Álvaro_Uribe
+Álvaro_Uribe	isAffiliatedTo	Democratic_Center_(Colombia)
+Álvaro_Uribe	isAffiliatedTo	Democratic_Center_(Colombia)
+
+http://dbpedia.org/resource/Democratic_Center_(Colombia)	http://dbpedia.org/ontology/ideology	http://dbpedia.org/resource/Álvaro_Uribe
+Democratic_Center_(Colombia)	Álvaro_Uribe
+Lina_María_Moreno_Mejía	isAffiliatedTo	Democratic_Center_(Colombia)
+Lina_María_Moreno_Mejía	isAffiliatedTo	Democratic_Center_(Colombia)
+Álvaro_Uribe	isMarriedTo	Lina_María_Moreno_Mejía
+Lina_María_Moreno_Mejía	isMarriedTo	Álvaro_Uribe
+Álvaro_Uribe	isMarriedTo	Lina_María_Moreno_Mejía
+Lina_María_Moreno_Mejía	isMarriedTo	Álvaro_Uribe
+
+http://dbpedia.org/resource/Democratic_Labor_Party_(South_Korea)	http://dbpedia.org/ontology/ideology	http://dbpedia.org/resource/North_Korea
+Democratic_Labor_Party_(South_Korea)	North_Korea
+Democratic_Labor_Party_(South_Korea)	isLocatedIn	Seoul
+Democratic_Labor_Party_(South_Korea)	isLocatedIn	Seoul
+First_Battle_of_Seoul	happenedIn	Seoul
+First_Battle_of_Seoul	happenedIn	Seoul
+North_Korea	participatedIn	First_Battle_of_Seoul
+North_Korea	participatedIn	First_Battle_of_Seoul
+
+http://dbpedia.org/resource/Ethiopian_People's_Revolutionary_Democratic_Front	http://dbpedia.org/ontology/ideology	http://dbpedia.org/resource/Ethiopian_People's_Revolutionary_Democratic_Front
+Ethiopian_People's_Revolutionary_Democratic_Front	Ethiopian_People's_Revolutionary_Democratic_Front
+Alemayehu_Atomsa	isAffiliatedTo	Ethiopian_People's_Revolutionary_Democratic_Front
+Alemayehu_Atomsa	isAffiliatedTo	Ethiopian_People's_Revolutionary_Democratic_Front
+Alemayehu_Atomsa	isAffiliatedTo	Ethiopian_People's_Revolutionary_Democratic_Front
+Alemayehu_Atomsa	isAffiliatedTo	Ethiopian_People's_Revolutionary_Democratic_Front
+

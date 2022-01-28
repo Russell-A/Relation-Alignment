@@ -1,0 +1,117 @@
+http://dbpedia.org/resource/Makó	http://dbpedia.org/ontology/founder	http://dbpedia.org/resource/Andrew_III_of_Hungary
+Makó	Andrew_III_of_Hungary
+Andrew_III_of_Hungary	created	Makó
+Andrew_III_of_Hungary	created	Makó
+
+http://dbpedia.org/resource/Makó	http://dbpedia.org/ontology/founder	http://dbpedia.org/resource/Andrew_III_of_Hungary
+Makó	Andrew_III_of_Hungary
+József_Galamb	wasBornIn	Makó
+József_Galamb	wasBornIn	Makó
+József_Galamb	wasBornIn	Makó
+József_Galamb	wasBornIn	Makó
+Andrew_III_of_Hungary	created	Makó
+Andrew_III_of_Hungary	created	Makó
+
+http://dbpedia.org/resource/Makó	http://dbpedia.org/ontology/founder	http://dbpedia.org/resource/Andrew_III_of_Hungary
+Makó	Andrew_III_of_Hungary
+József_Kristóffy	wasBornIn	Makó
+József_Kristóffy	wasBornIn	Makó
+József_Kristóffy	wasBornIn	Makó
+József_Kristóffy	wasBornIn	Makó
+Andrew_III_of_Hungary	created	Makó
+Andrew_III_of_Hungary	created	Makó
+
+http://dbpedia.org/resource/Makó	http://dbpedia.org/ontology/founder	http://dbpedia.org/resource/Andrew_III_of_Hungary
+Makó	Andrew_III_of_Hungary
+Joseph_Pulitzer	wasBornIn	Makó
+Joseph_Pulitzer	wasBornIn	Makó
+Joseph_Pulitzer	wasBornIn	Makó
+Joseph_Pulitzer	wasBornIn	Makó
+Andrew_III_of_Hungary	created	Makó
+Andrew_III_of_Hungary	created	Makó
+
+http://dbpedia.org/resource/Riobamba	http://dbpedia.org/ontology/founder	http://dbpedia.org/resource/Diego_de_Almagro
+Riobamba	Diego_de_Almagro
+Riobamba	isLocatedIn	Chimborazo_Province
+Chimborazo_Province	hasCapital	Riobamba
+Chimborazo_Province	isLocatedIn	Riobamba
+Riobamba	isLocatedIn	Chimborazo_Province
+Chimborazo_Province	hasCapital	Riobamba
+Chimborazo_Province	isLocatedIn	Riobamba
+Riobamba	isLocatedIn	Chimborazo_Province
+Chimborazo_Province	hasCapital	Riobamba
+Chimborazo_Province	isLocatedIn	Riobamba
+Riobamba	isLocatedIn	Chimborazo_Province
+Chimborazo_Province	hasCapital	Riobamba
+Chimborazo_Province	isLocatedIn	Riobamba
+Diego_de_Almagro	created	Riobamba
+Diego_de_Almagro	created	Riobamba
+
+http://dbpedia.org/resource/Riobamba	http://dbpedia.org/ontology/founder	http://dbpedia.org/resource/Diego_de_Almagro
+Riobamba	Diego_de_Almagro
+Bolívar_Echeverría	wasBornIn	Riobamba
+Bolívar_Echeverría	wasBornIn	Riobamba
+Bolívar_Echeverría	wasBornIn	Riobamba
+Bolívar_Echeverría	wasBornIn	Riobamba
+Diego_de_Almagro	created	Riobamba
+Diego_de_Almagro	created	Riobamba
+
+http://dbpedia.org/resource/Riobamba	http://dbpedia.org/ontology/founder	http://dbpedia.org/resource/Diego_de_Almagro
+Riobamba	Diego_de_Almagro
+Diego_de_Almagro	created	Riobamba
+Diego_de_Almagro	created	Riobamba
+
+http://dbpedia.org/resource/St._Augustine,_Florida	http://dbpedia.org/ontology/founder	http://dbpedia.org/resource/Pedro_Menéndez_de_Avilés
+St._Augustine,_Florida	Pedro_Menéndez_de_Avilés
+St._Augustine,_Florida	isLocatedIn	St._Johns_County,_Florida
+St._Johns_County,_Florida	isLocatedIn	St._Augustine,_Florida
+St._Augustine,_Florida	isLocatedIn	St._Johns_County,_Florida
+St._Johns_County,_Florida	isLocatedIn	St._Augustine,_Florida
+St._Augustine,_Florida	isLocatedIn	St._Johns_County,_Florida
+St._Johns_County,_Florida	isLocatedIn	St._Augustine,_Florida
+St._Augustine,_Florida	isLocatedIn	St._Johns_County,_Florida
+St._Johns_County,_Florida	isLocatedIn	St._Augustine,_Florida
+Pedro_Menéndez_de_Avilés	created	St._Augustine,_Florida
+Pedro_Menéndez_de_Avilés	created	St._Augustine,_Florida
+
+http://dbpedia.org/resource/St._Augustine,_Florida	http://dbpedia.org/ontology/founder	http://dbpedia.org/resource/Pedro_Menéndez_de_Avilés
+St._Augustine,_Florida	Pedro_Menéndez_de_Avilés
+Pedro_Menéndez_de_Avilés	created	St._Augustine,_Florida
+Pedro_Menéndez_de_Avilés	created	St._Augustine,_Florida
+
+http://dbpedia.org/resource/St._Augustine,_Florida	http://dbpedia.org/ontology/founder	http://dbpedia.org/resource/Pedro_Menéndez_de_Avilés
+St._Augustine,_Florida	Pedro_Menéndez_de_Avilés
+Spanish_Florida	hasCapital	St._Augustine,_Florida
+Spanish_Florida	hasCapital	St._Augustine,_Florida
+Spanish_Florida	hasCapital	St._Augustine,_Florida
+Spanish_Florida	hasCapital	St._Augustine,_Florida
+Pedro_Menéndez_de_Avilés	created	St._Augustine,_Florida
+Pedro_Menéndez_de_Avilés	created	St._Augustine,_Florida
+
+http://dbpedia.org/resource/St._Augustine,_Florida	http://dbpedia.org/ontology/founder	http://dbpedia.org/resource/Pedro_Menéndez_de_Avilés
+St._Augustine,_Florida	Pedro_Menéndez_de_Avilés
+Andrew_Canova	livesIn	St._Augustine,_Florida
+Andrew_Canova	livesIn	St._Augustine,_Florida
+Andrew_Canova	livesIn	St._Augustine,_Florida
+Andrew_Canova	livesIn	St._Augustine,_Florida
+Pedro_Menéndez_de_Avilés	created	St._Augustine,_Florida
+Pedro_Menéndez_de_Avilés	created	St._Augustine,_Florida
+
+http://dbpedia.org/resource/St._Augustine,_Florida	http://dbpedia.org/ontology/founder	http://dbpedia.org/resource/Pedro_Menéndez_de_Avilés
+St._Augustine,_Florida	Pedro_Menéndez_de_Avilés
+Siege_of_St._Augustine_(1702)	happenedIn	St._Augustine,_Florida
+Siege_of_St._Augustine_(1702)	happenedIn	St._Augustine,_Florida
+Siege_of_St._Augustine_(1702)	happenedIn	St._Augustine,_Florida
+Siege_of_St._Augustine_(1702)	happenedIn	St._Augustine,_Florida
+Pedro_Menéndez_de_Avilés	created	St._Augustine,_Florida
+Pedro_Menéndez_de_Avilés	created	St._Augustine,_Florida
+
+http://dbpedia.org/resource/St._Augustine,_Florida	http://dbpedia.org/ontology/founder	http://dbpedia.org/resource/Pedro_Menéndez_de_Avilés
+St._Augustine,_Florida	Pedro_Menéndez_de_Avilés
+Robert_Hayling	livesIn	St._Augustine,_Florida
+Robert_Hayling	livesIn	St._Augustine,_Florida
+Robert_Hayling	livesIn	St._Augustine,_Florida
+Robert_Hayling	livesIn	St._Augustine,_Florida
+Pedro_Menéndez_de_Avilés	created	St._Augustine,_Florida
+Pedro_Menéndez_de_Avilés	created	St._Augustine,_Florida
+

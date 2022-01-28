@@ -1,0 +1,464 @@
+http://dbpedia.org/resource/Omagh	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/County_Tyrone
+Omagh	County_Tyrone
+County_Tyrone	isLocatedIn	Omagh
+Omagh	isLocatedIn	County_Tyrone
+County_Tyrone	isLocatedIn	Omagh
+Omagh	isLocatedIn	County_Tyrone
+
+http://dbpedia.org/resource/Portadown	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/County_Armagh
+Portadown	County_Armagh
+Sydney_Anderson_(British_politician)	wasBornIn	Portadown
+Sydney_Anderson_(British_politician)	livesIn	Portadown
+Sydney_Anderson_(British_politician)	wasBornIn	Portadown
+Sydney_Anderson_(British_politician)	livesIn	Portadown
+Sydney_Anderson_(British_politician)	livesIn	County_Armagh
+Sydney_Anderson_(British_politician)	livesIn	County_Armagh
+
+http://dbpedia.org/resource/Portadown	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/County_Armagh
+Portadown	County_Armagh
+Shamrock_Park	isLocatedIn	Portadown
+Shamrock_Park	isLocatedIn	Portadown
+Shamrock_Park	isLocatedIn	County_Armagh
+Shamrock_Park	isLocatedIn	County_Armagh
+
+http://dbpedia.org/resource/Craigavon	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/County_Armagh
+Craigavon	County_Armagh
+Craigavon	isLocatedIn	County_Armagh
+Craigavon	isLocatedIn	County_Armagh
+
+http://dbpedia.org/resource/Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Pottawattamie_County,_Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	Pottawattamie_County,_Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	isLocatedIn	Council_Bluffs,_Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	isLocatedIn	Council_Bluffs,_Iowa
+Council_Bluffs,_Iowa	isLocatedIn	Pottawattamie_County,_Iowa
+Pottawattamie_County,_Iowa	isLocatedIn	Council_Bluffs,_Iowa
+Council_Bluffs,_Iowa	isLocatedIn	Pottawattamie_County,_Iowa
+Pottawattamie_County,_Iowa	isLocatedIn	Council_Bluffs,_Iowa
+
+http://dbpedia.org/resource/Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Pottawattamie_County,_Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	Pottawattamie_County,_Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	isLocatedIn	Council_Bluffs,_Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	isLocatedIn	Council_Bluffs,_Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	isLocatedIn	Council_Bluffs,_Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	isLocatedIn	Council_Bluffs,_Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	isLocatedIn	Pottawattamie_County,_Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	isLocatedIn	Pottawattamie_County,_Iowa
+
+http://dbpedia.org/resource/Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Pottawattamie_County,_Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	Pottawattamie_County,_Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	isLocatedIn	Pottawattamie_County,_Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	isLocatedIn	Pottawattamie_County,_Iowa
+
+http://dbpedia.org/resource/Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Pottawattamie_County,_Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	Pottawattamie_County,_Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	isLocatedIn	Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	isLocatedIn	Iowa
+Pottawattamie_County,_Iowa	isLocatedIn	Iowa
+Pottawattamie_County,_Iowa	isLocatedIn	Iowa
+
+http://dbpedia.org/resource/Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Pottawattamie_County,_Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	Pottawattamie_County,_Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	isLocatedIn	Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	isLocatedIn	Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	isLocatedIn	Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	isLocatedIn	Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	isLocatedIn	Pottawattamie_County,_Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	isLocatedIn	Pottawattamie_County,_Iowa
+
+http://dbpedia.org/resource/Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Pottawattamie_County,_Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	Pottawattamie_County,_Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	isLocatedIn	Iowa
+Thomas_Jefferson_High_School_(Council_Bluffs,_Iowa)	isLocatedIn	Iowa
+Shelby,_Iowa	isLocatedIn	Iowa
+Shelby,_Iowa	isLocatedIn	Iowa
+Shelby,_Iowa	isLocatedIn	Pottawattamie_County,_Iowa
+Shelby,_Iowa	isLocatedIn	Pottawattamie_County,_Iowa
+
+http://dbpedia.org/resource/Freeport_Area_School_District	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Butler_County,_Pennsylvania
+Freeport_Area_School_District	Butler_County,_Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Butler_County,_Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Butler_County,_Pennsylvania
+
+http://dbpedia.org/resource/Freeport_Area_School_District	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Butler_County,_Pennsylvania
+Freeport_Area_School_District	Butler_County,_Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Armstrong_County,_Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Armstrong_County,_Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Armstrong_County,_Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Armstrong_County,_Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Butler_County,_Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Butler_County,_Pennsylvania
+
+http://dbpedia.org/resource/Freeport_Area_School_District	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Butler_County,_Pennsylvania
+Freeport_Area_School_District	Butler_County,_Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Butler_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Butler_County,_Pennsylvania
+
+http://dbpedia.org/resource/Freeport_Area_School_District	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Butler_County,_Pennsylvania
+Freeport_Area_School_District	Butler_County,_Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Pennsylvania
+Cranberry_Township,_Butler_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Cranberry_Township,_Butler_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Cranberry_Township,_Butler_County,_Pennsylvania	isLocatedIn	Butler_County,_Pennsylvania
+Cranberry_Township,_Butler_County,_Pennsylvania	isLocatedIn	Butler_County,_Pennsylvania
+
+http://dbpedia.org/resource/Freeport_Area_School_District	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Butler_County,_Pennsylvania
+Freeport_Area_School_District	Butler_County,_Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Pennsylvania
+Butler_County,_Pennsylvania	isLocatedIn	Butler,_Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Butler_County,_Pennsylvania
+Butler_County,_Pennsylvania	isLocatedIn	Butler,_Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Butler_County,_Pennsylvania
+
+http://dbpedia.org/resource/Gateways_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Lane_County,_Oregon
+Gateways_High_School	Lane_County,_Oregon
+Gateways_High_School	isLocatedIn	Springfield,_Oregon
+Gateways_High_School	isLocatedIn	Springfield,_Oregon
+Gateways_High_School	isLocatedIn	Springfield,_Oregon
+Gateways_High_School	isLocatedIn	Springfield,_Oregon
+Gateways_High_School	isLocatedIn	Lane_County,_Oregon
+Gateways_High_School	isLocatedIn	Lane_County,_Oregon
+
+http://dbpedia.org/resource/Gateways_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Lane_County,_Oregon
+Gateways_High_School	Lane_County,_Oregon
+Gateways_High_School	isLocatedIn	Springfield,_Oregon
+Gateways_High_School	isLocatedIn	Springfield,_Oregon
+Springfield,_Oregon	isLocatedIn	Lane_County,_Oregon
+Springfield,_Oregon	isLocatedIn	Lane_County,_Oregon
+
+http://dbpedia.org/resource/Gateways_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Lane_County,_Oregon
+Gateways_High_School	Lane_County,_Oregon
+Gateways_High_School	isLocatedIn	Springfield,_Oregon
+Gateways_High_School	isLocatedIn	Springfield,_Oregon
+Springfield,_Oregon	isLocatedIn	Oregon
+Springfield,_Oregon	isLocatedIn	Oregon
+Lane_County,_Oregon	isLocatedIn	Oregon
+Lane_County,_Oregon	isLocatedIn	Oregon
+
+http://dbpedia.org/resource/Gateways_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Lane_County,_Oregon
+Gateways_High_School	Lane_County,_Oregon
+Gateways_High_School	isLocatedIn	Lane_County,_Oregon
+Gateways_High_School	isLocatedIn	Lane_County,_Oregon
+
+http://dbpedia.org/resource/Gateways_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Lane_County,_Oregon
+Gateways_High_School	Lane_County,_Oregon
+Gateways_High_School	isLocatedIn	Oregon
+Gateways_High_School	isLocatedIn	Oregon
+Eugene,_Oregon	isLocatedIn	Oregon
+Eugene,_Oregon	isLocatedIn	Oregon
+Lane_County,_Oregon	isLocatedIn	Eugene,_Oregon
+Eugene,_Oregon	isLocatedIn	Lane_County,_Oregon
+Lane_County,_Oregon	isLocatedIn	Eugene,_Oregon
+Eugene,_Oregon	isLocatedIn	Lane_County,_Oregon
+
+http://dbpedia.org/resource/Gateways_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Lane_County,_Oregon
+Gateways_High_School	Lane_County,_Oregon
+Gateways_High_School	isLocatedIn	Oregon
+Gateways_High_School	isLocatedIn	Oregon
+Gateways_High_School	isLocatedIn	Oregon
+Gateways_High_School	isLocatedIn	Oregon
+Gateways_High_School	isLocatedIn	Lane_County,_Oregon
+Gateways_High_School	isLocatedIn	Lane_County,_Oregon
+
+http://dbpedia.org/resource/Gateways_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Lane_County,_Oregon
+Gateways_High_School	Lane_County,_Oregon
+Gateways_High_School	isLocatedIn	Oregon
+Gateways_High_School	isLocatedIn	Oregon
+Lane_County,_Oregon	isLocatedIn	Oregon
+Lane_County,_Oregon	isLocatedIn	Oregon
+
+http://dbpedia.org/resource/South_Decatur_Junior-Senior_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Decatur_County,_Indiana
+South_Decatur_Junior-Senior_High_School	Decatur_County,_Indiana
+South_Decatur_Junior-Senior_High_School	isLocatedIn	Decatur_County,_Indiana
+South_Decatur_Junior-Senior_High_School	isLocatedIn	Decatur_County,_Indiana
+
+http://dbpedia.org/resource/South_Decatur_Junior-Senior_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Decatur_County,_Indiana
+South_Decatur_Junior-Senior_High_School	Decatur_County,_Indiana
+South_Decatur_Junior-Senior_High_School	isLocatedIn	Greensburg,_Indiana
+South_Decatur_Junior-Senior_High_School	isLocatedIn	Greensburg,_Indiana
+Greensburg,_Indiana	isLocatedIn	Decatur_County,_Indiana
+Decatur_County,_Indiana	isLocatedIn	Greensburg,_Indiana
+Greensburg,_Indiana	isLocatedIn	Decatur_County,_Indiana
+Decatur_County,_Indiana	isLocatedIn	Greensburg,_Indiana
+
+http://dbpedia.org/resource/Berwick_Area_Senior_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Luzerne_County,_Pennsylvania
+Berwick_Area_Senior_High_School	Luzerne_County,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Luzerne_County,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Luzerne_County,_Pennsylvania
+
+http://dbpedia.org/resource/Berwick_Area_Senior_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Luzerne_County,_Pennsylvania
+Berwick_Area_Senior_High_School	Luzerne_County,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Columbia_County,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Columbia_County,_Pennsylvania
+Berwick,_Pennsylvania	isLocatedIn	Columbia_County,_Pennsylvania
+Berwick,_Pennsylvania	isLocatedIn	Columbia_County,_Pennsylvania
+Berwick,_Pennsylvania	isLocatedIn	Luzerne_County,_Pennsylvania
+Berwick,_Pennsylvania	isLocatedIn	Luzerne_County,_Pennsylvania
+
+http://dbpedia.org/resource/Berwick_Area_Senior_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Luzerne_County,_Pennsylvania
+Berwick_Area_Senior_High_School	Luzerne_County,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Pennsylvania
+Pittston,_Pennsylvania	isLocatedIn	Pennsylvania
+Pittston,_Pennsylvania	isLocatedIn	Pennsylvania
+Pittston,_Pennsylvania	isLocatedIn	Luzerne_County,_Pennsylvania
+Pittston,_Pennsylvania	isLocatedIn	Luzerne_County,_Pennsylvania
+
+http://dbpedia.org/resource/Berwick_Area_Senior_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Luzerne_County,_Pennsylvania
+Berwick_Area_Senior_High_School	Luzerne_County,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Berwick,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Berwick,_Pennsylvania
+Berwick,_Pennsylvania	isLocatedIn	Luzerne_County,_Pennsylvania
+Berwick,_Pennsylvania	isLocatedIn	Luzerne_County,_Pennsylvania
+
+http://dbpedia.org/resource/Berwick_Area_Senior_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Luzerne_County,_Pennsylvania
+Berwick_Area_Senior_High_School	Luzerne_County,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Berwick,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Berwick,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Berwick,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Berwick,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Luzerne_County,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Luzerne_County,_Pennsylvania
+
+http://dbpedia.org/resource/Barnstable_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Barnstable_County,_Massachusetts
+Barnstable_High_School	Barnstable_County,_Massachusetts
+Barnstable_High_School	isLocatedIn	Hyannis,_Massachusetts
+Barnstable_High_School	isLocatedIn	Hyannis,_Massachusetts
+Hyannis,_Massachusetts	isLocatedIn	Barnstable_County,_Massachusetts
+Hyannis,_Massachusetts	isLocatedIn	Barnstable_County,_Massachusetts
+
+http://dbpedia.org/resource/Barnstable_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Barnstable_County,_Massachusetts
+Barnstable_High_School	Barnstable_County,_Massachusetts
+Barnstable_High_School	isLocatedIn	Hyannis,_Massachusetts
+Barnstable_High_School	isLocatedIn	Hyannis,_Massachusetts
+Barnstable_High_School	isLocatedIn	Hyannis,_Massachusetts
+Barnstable_High_School	isLocatedIn	Hyannis,_Massachusetts
+Barnstable_High_School	isLocatedIn	Barnstable_County,_Massachusetts
+Barnstable_High_School	isLocatedIn	Barnstable_County,_Massachusetts
+
+http://dbpedia.org/resource/Barnstable_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Barnstable_County,_Massachusetts
+Barnstable_High_School	Barnstable_County,_Massachusetts
+Barnstable_High_School	isLocatedIn	Hyannis,_Massachusetts
+Barnstable_High_School	isLocatedIn	Hyannis,_Massachusetts
+Hyannis,_Massachusetts	isLocatedIn	Barnstable,_Massachusetts
+Hyannis,_Massachusetts	isLocatedIn	Barnstable,_Massachusetts
+Barnstable_County,_Massachusetts	isLocatedIn	Barnstable,_Massachusetts
+Barnstable,_Massachusetts	isLocatedIn	Barnstable_County,_Massachusetts
+Barnstable_County,_Massachusetts	isLocatedIn	Barnstable,_Massachusetts
+Barnstable,_Massachusetts	isLocatedIn	Barnstable_County,_Massachusetts
+
+http://dbpedia.org/resource/Barnstable_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Barnstable_County,_Massachusetts
+Barnstable_High_School	Barnstable_County,_Massachusetts
+Barnstable_High_School	isLocatedIn	Barnstable,_Massachusetts
+Barnstable_High_School	isLocatedIn	Barnstable,_Massachusetts
+Barnstable_County,_Massachusetts	isLocatedIn	Barnstable,_Massachusetts
+Barnstable,_Massachusetts	isLocatedIn	Barnstable_County,_Massachusetts
+Barnstable_County,_Massachusetts	isLocatedIn	Barnstable,_Massachusetts
+Barnstable,_Massachusetts	isLocatedIn	Barnstable_County,_Massachusetts
+
+http://dbpedia.org/resource/Barnstable_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Barnstable_County,_Massachusetts
+Barnstable_High_School	Barnstable_County,_Massachusetts
+Barnstable_High_School	isLocatedIn	Barnstable_County,_Massachusetts
+Barnstable_High_School	isLocatedIn	Barnstable_County,_Massachusetts
+
+http://dbpedia.org/resource/European_route_E77	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Slovakia
+European_route_E77	Slovakia
+European_route_E77	isLocatedIn	Hungary
+European_route_E77	isLocatedIn	Hungary
+Edward_Teller	isCitizenOf	Hungary
+Edward_Teller	isCitizenOf	Hungary
+Edward_Teller	isCitizenOf	Slovakia
+Edward_Teller	isCitizenOf	Slovakia
+
+http://dbpedia.org/resource/European_route_E77	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Slovakia
+European_route_E77	Slovakia
+European_route_E77	isLocatedIn	Slovakia
+European_route_E77	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/European_route_E77	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Slovakia
+European_route_E77	Slovakia
+European_route_E77	isLocatedIn	Lithuania
+European_route_E77	isLocatedIn	Lithuania
+Tomas_Radzinevičius	isCitizenOf	Lithuania
+Tomas_Radzinevičius	isCitizenOf	Lithuania
+Tomas_Radzinevičius	isCitizenOf	Slovakia
+Tomas_Radzinevičius	isCitizenOf	Slovakia
+
+http://dbpedia.org/resource/Central_Catholic_Marianist_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Bexar_County,_Texas
+Central_Catholic_Marianist_High_School	Bexar_County,_Texas
+Central_Catholic_Marianist_High_School	isLocatedIn	Bexar_County,_Texas
+Central_Catholic_Marianist_High_School	isLocatedIn	Bexar_County,_Texas
+
+http://dbpedia.org/resource/Central_Catholic_Marianist_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Bexar_County,_Texas
+Central_Catholic_Marianist_High_School	Bexar_County,_Texas
+Central_Catholic_Marianist_High_School	isLocatedIn	Texas
+Central_Catholic_Marianist_High_School	isLocatedIn	Texas
+Central_Catholic_Marianist_High_School	isLocatedIn	Texas
+Central_Catholic_Marianist_High_School	isLocatedIn	Texas
+Central_Catholic_Marianist_High_School	isLocatedIn	Bexar_County,_Texas
+Central_Catholic_Marianist_High_School	isLocatedIn	Bexar_County,_Texas
+
+http://dbpedia.org/resource/Freeport_Area_School_District	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Armstrong_County,_Pennsylvania
+Freeport_Area_School_District	Armstrong_County,_Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Armstrong_County,_Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Armstrong_County,_Pennsylvania
+
+http://dbpedia.org/resource/Freeport_Area_School_District	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Armstrong_County,_Pennsylvania
+Freeport_Area_School_District	Armstrong_County,_Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Armstrong_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Armstrong_County,_Pennsylvania
+
+http://dbpedia.org/resource/Freeport_Area_School_District	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Armstrong_County,_Pennsylvania
+Freeport_Area_School_District	Armstrong_County,_Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Pennsylvania
+Freeport_Area_School_District	isLocatedIn	Pennsylvania
+Armstrong_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Armstrong_County,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Lurgan	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/County_Armagh
+Lurgan	County_Armagh
+Mourneview_Park	isLocatedIn	Lurgan
+Mourneview_Park	isLocatedIn	Lurgan
+Mourneview_Park	isLocatedIn	Lurgan
+Mourneview_Park	isLocatedIn	Lurgan
+Lurgan	isLocatedIn	County_Armagh
+Lurgan	isLocatedIn	County_Armagh
+
+http://dbpedia.org/resource/Lurgan	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/County_Armagh
+Lurgan	County_Armagh
+Mourneview_Park	isLocatedIn	Lurgan
+Mourneview_Park	isLocatedIn	Lurgan
+Mourneview_Park	isLocatedIn	County_Armagh
+Mourneview_Park	isLocatedIn	County_Armagh
+
+http://dbpedia.org/resource/Lurgan	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/County_Armagh
+Lurgan	County_Armagh
+Bríd_Rodgers	livesIn	Lurgan
+Bríd_Rodgers	livesIn	Lurgan
+Bríd_Rodgers	livesIn	County_Armagh
+Bríd_Rodgers	livesIn	County_Armagh
+
+http://dbpedia.org/resource/Lurgan	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/County_Armagh
+Lurgan	County_Armagh
+Bríd_Rodgers	livesIn	Lurgan
+Bríd_Rodgers	livesIn	Lurgan
+Bríd_Rodgers	livesIn	Lurgan
+Bríd_Rodgers	livesIn	Lurgan
+Lurgan	isLocatedIn	County_Armagh
+Lurgan	isLocatedIn	County_Armagh
+
+http://dbpedia.org/resource/Lurgan	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/County_Armagh
+Lurgan	County_Armagh
+Stephen_Moutray	livesIn	Lurgan
+Stephen_Moutray	livesIn	Lurgan
+Stephen_Moutray	livesIn	Lurgan
+Stephen_Moutray	livesIn	Lurgan
+Lurgan	isLocatedIn	County_Armagh
+Lurgan	isLocatedIn	County_Armagh
+
+http://dbpedia.org/resource/Lurgan	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/County_Armagh
+Lurgan	County_Armagh
+Stephen_Moutray	livesIn	Lurgan
+Stephen_Moutray	livesIn	Lurgan
+Stephen_Moutray	livesIn	County_Armagh
+Stephen_Moutray	livesIn	County_Armagh
+
+http://dbpedia.org/resource/Lurgan	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/County_Armagh
+Lurgan	County_Armagh
+Eddie_Magill	wasBornIn	Lurgan
+Eddie_Magill	wasBornIn	Lurgan
+Eddie_Magill	wasBornIn	Lurgan
+Eddie_Magill	wasBornIn	Lurgan
+Lurgan	isLocatedIn	County_Armagh
+Lurgan	isLocatedIn	County_Armagh
+
+http://dbpedia.org/resource/Lurgan	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/County_Armagh
+Lurgan	County_Armagh
+Lurgan	isLocatedIn	County_Armagh
+Lurgan	isLocatedIn	County_Armagh
+
+http://dbpedia.org/resource/Immaculate_Conception_High_School_(Montclair,_New_Jersey)	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Essex_County,_New_Jersey
+Immaculate_Conception_High_School_(Montclair,_New_Jersey)	Essex_County,_New_Jersey
+Immaculate_Conception_High_School_(Montclair,_New_Jersey)	isLocatedIn	Montclair,_New_Jersey
+Immaculate_Conception_High_School_(Montclair,_New_Jersey)	isLocatedIn	Montclair,_New_Jersey
+Montclair,_New_Jersey	isLocatedIn	Essex_County,_New_Jersey
+Montclair,_New_Jersey	isLocatedIn	Essex_County,_New_Jersey
+
+http://dbpedia.org/resource/Immaculate_Conception_High_School_(Montclair,_New_Jersey)	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Essex_County,_New_Jersey
+Immaculate_Conception_High_School_(Montclair,_New_Jersey)	Essex_County,_New_Jersey
+Immaculate_Conception_High_School_(Montclair,_New_Jersey)	isLocatedIn	Essex_County,_New_Jersey
+Immaculate_Conception_High_School_(Montclair,_New_Jersey)	isLocatedIn	Essex_County,_New_Jersey
+
+http://dbpedia.org/resource/Immaculate_Conception_High_School_(Montclair,_New_Jersey)	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Essex_County,_New_Jersey
+Immaculate_Conception_High_School_(Montclair,_New_Jersey)	Essex_County,_New_Jersey
+Immaculate_Conception_High_School_(Montclair,_New_Jersey)	isLocatedIn	New_Jersey
+Immaculate_Conception_High_School_(Montclair,_New_Jersey)	isLocatedIn	New_Jersey
+Bloomfield,_New_Jersey	isLocatedIn	New_Jersey
+Bloomfield,_New_Jersey	isLocatedIn	New_Jersey
+Bloomfield,_New_Jersey	isLocatedIn	Essex_County,_New_Jersey
+Bloomfield,_New_Jersey	isLocatedIn	Essex_County,_New_Jersey
+
+http://dbpedia.org/resource/Berwick_Area_Senior_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Columbia_County,_Pennsylvania
+Berwick_Area_Senior_High_School	Columbia_County,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Columbia_County,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Columbia_County,_Pennsylvania
+
+http://dbpedia.org/resource/Berwick_Area_Senior_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Columbia_County,_Pennsylvania
+Berwick_Area_Senior_High_School	Columbia_County,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Berwick,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Berwick,_Pennsylvania
+Berwick,_Pennsylvania	isLocatedIn	Columbia_County,_Pennsylvania
+Berwick,_Pennsylvania	isLocatedIn	Columbia_County,_Pennsylvania
+
+http://dbpedia.org/resource/Berwick_Area_Senior_High_School	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/Columbia_County,_Pennsylvania
+Berwick_Area_Senior_High_School	Columbia_County,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Berwick,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Berwick,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Berwick,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Berwick,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Columbia_County,_Pennsylvania
+Berwick_Area_Senior_High_School	isLocatedIn	Columbia_County,_Pennsylvania
+
+http://dbpedia.org/resource/Newry	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/County_Armagh
+Newry	County_Armagh
+Newry	isLocatedIn	County_Armagh
+Newry	isLocatedIn	County_Armagh
+
+http://dbpedia.org/resource/Newry	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/County_Armagh
+Newry	County_Armagh
+Raid_on_Newry	happenedIn	Newry
+Raid_on_Newry	happenedIn	Newry
+Raid_on_Newry	happenedIn	Newry
+Raid_on_Newry	happenedIn	Newry
+Newry	isLocatedIn	County_Armagh
+Newry	isLocatedIn	County_Armagh
+
+http://dbpedia.org/resource/Newry	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/County_Armagh
+Newry	County_Armagh
+Shay_McCartan	wasBornIn	Newry
+Shay_McCartan	wasBornIn	Newry
+Shay_McCartan	wasBornIn	Newry
+Shay_McCartan	wasBornIn	Newry
+Newry	isLocatedIn	County_Armagh
+Newry	isLocatedIn	County_Armagh
+
+http://dbpedia.org/resource/Newry	http://dbpedia.org/ontology/county	http://dbpedia.org/resource/County_Armagh
+Newry	County_Armagh
+Colin_Clarke_(footballer,_born_1962)	wasBornIn	Newry
+Colin_Clarke_(footballer,_born_1962)	wasBornIn	Newry
+Colin_Clarke_(footballer,_born_1962)	wasBornIn	Newry
+Colin_Clarke_(footballer,_born_1962)	wasBornIn	Newry
+Newry	isLocatedIn	County_Armagh
+Newry	isLocatedIn	County_Armagh
+

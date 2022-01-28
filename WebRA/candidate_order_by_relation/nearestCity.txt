@@ -1,0 +1,732 @@
+http://dbpedia.org/resource/New_River_Gorge_National_River	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Beckley,_West_Virginia
+New_River_Gorge_National_River	Beckley,_West_Virginia
+New_River_Gorge_National_River	isLocatedIn	Raleigh_County,_West_Virginia
+New_River_Gorge_National_River	isLocatedIn	Raleigh_County,_West_Virginia
+Raleigh_County,_West_Virginia	isLocatedIn	Beckley,_West_Virginia
+Beckley,_West_Virginia	isLocatedIn	Raleigh_County,_West_Virginia
+Raleigh_County,_West_Virginia	isLocatedIn	Beckley,_West_Virginia
+Beckley,_West_Virginia	isLocatedIn	Raleigh_County,_West_Virginia
+
+http://dbpedia.org/resource/Lake_Roosevelt_National_Recreation_Area	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Spokane,_Washington
+Lake_Roosevelt_National_Recreation_Area	Spokane,_Washington
+Lake_Roosevelt_National_Recreation_Area	isLocatedIn	Washington_(state)
+Lake_Roosevelt_National_Recreation_Area	isLocatedIn	Washington_(state)
+Gonzaga_University	isLocatedIn	Washington_(state)
+Gonzaga_University	isLocatedIn	Washington_(state)
+Gonzaga_University	isLocatedIn	Spokane,_Washington
+Gonzaga_University	isLocatedIn	Spokane,_Washington
+
+http://dbpedia.org/resource/Ozark_National_Scenic_Riverways	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Van_Buren,_Missouri
+Ozark_National_Scenic_Riverways	Van_Buren,_Missouri
+Ozark_National_Scenic_Riverways	isLocatedIn	Carter_County,_Missouri
+Ozark_National_Scenic_Riverways	isLocatedIn	Carter_County,_Missouri
+Van_Buren,_Missouri	isLocatedIn	Carter_County,_Missouri
+Carter_County,_Missouri	isLocatedIn	Van_Buren,_Missouri
+Van_Buren,_Missouri	isLocatedIn	Carter_County,_Missouri
+Carter_County,_Missouri	isLocatedIn	Van_Buren,_Missouri
+
+http://dbpedia.org/resource/Lake_Boon	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Hudson,_Massachusetts
+Lake_Boon	Hudson,_Massachusetts
+Lake_Boon	isLocatedIn	Stow,_Massachusetts
+Lake_Boon	isLocatedIn	Stow,_Massachusetts
+Lake_Boon	isLocatedIn	Stow,_Massachusetts
+Lake_Boon	isLocatedIn	Stow,_Massachusetts
+Lake_Boon	isLocatedIn	Hudson,_Massachusetts
+Lake_Boon	isLocatedIn	Hudson,_Massachusetts
+
+http://dbpedia.org/resource/Lake_Boon	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Hudson,_Massachusetts
+Lake_Boon	Hudson,_Massachusetts
+Lake_Boon	isLocatedIn	Stow,_Massachusetts
+Lake_Boon	isLocatedIn	Stow,_Massachusetts
+Assabet_River_National_Wildlife_Refuge	isLocatedIn	Stow,_Massachusetts
+Assabet_River_National_Wildlife_Refuge	isLocatedIn	Stow,_Massachusetts
+Assabet_River_National_Wildlife_Refuge	isLocatedIn	Hudson,_Massachusetts
+Assabet_River_National_Wildlife_Refuge	isLocatedIn	Hudson,_Massachusetts
+
+http://dbpedia.org/resource/Lake_Boon	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Hudson,_Massachusetts
+Lake_Boon	Hudson,_Massachusetts
+Lake_Boon	isLocatedIn	Stow,_Massachusetts
+Lake_Boon	isLocatedIn	Stow,_Massachusetts
+Stow,_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+Stow,_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+Hudson,_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+Hudson,_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+
+http://dbpedia.org/resource/Lake_Boon	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Hudson,_Massachusetts
+Lake_Boon	Hudson,_Massachusetts
+Lake_Boon	isLocatedIn	Hudson,_Massachusetts
+Lake_Boon	isLocatedIn	Hudson,_Massachusetts
+
+http://dbpedia.org/resource/Lake_Boon	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Hudson,_Massachusetts
+Lake_Boon	Hudson,_Massachusetts
+Lake_Boon	isLocatedIn	Middlesex_County,_Massachusetts
+Lake_Boon	isLocatedIn	Middlesex_County,_Massachusetts
+Lake_Boon	isLocatedIn	Middlesex_County,_Massachusetts
+Lake_Boon	isLocatedIn	Middlesex_County,_Massachusetts
+Lake_Boon	isLocatedIn	Hudson,_Massachusetts
+Lake_Boon	isLocatedIn	Hudson,_Massachusetts
+
+http://dbpedia.org/resource/Lake_Boon	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Hudson,_Massachusetts
+Lake_Boon	Hudson,_Massachusetts
+Lake_Boon	isLocatedIn	Middlesex_County,_Massachusetts
+Lake_Boon	isLocatedIn	Middlesex_County,_Massachusetts
+Hudson,_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+Hudson,_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+
+http://dbpedia.org/resource/Lake_Boon	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Hudson,_Massachusetts
+Lake_Boon	Hudson,_Massachusetts
+Lake_Boon	isLocatedIn	Middlesex_County,_Massachusetts
+Lake_Boon	isLocatedIn	Middlesex_County,_Massachusetts
+Hudson_(CDP),_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+Hudson_(CDP),_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+Hudson_(CDP),_Massachusetts	isLocatedIn	Hudson,_Massachusetts
+Hudson_(CDP),_Massachusetts	isLocatedIn	Hudson,_Massachusetts
+
+http://dbpedia.org/resource/Aravaipa_Canyon_Wilderness	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Globe,_Arizona
+Aravaipa_Canyon_Wilderness	Globe,_Arizona
+Aravaipa_Canyon_Wilderness	isLocatedIn	Arizona
+Aravaipa_Canyon_Wilderness	isLocatedIn	Arizona
+Gila_County,_Arizona	isLocatedIn	Arizona
+Gila_County,_Arizona	isLocatedIn	Arizona
+Gila_County,_Arizona	isLocatedIn	Globe,_Arizona
+Globe,_Arizona	isLocatedIn	Gila_County,_Arizona
+Gila_County,_Arizona	isLocatedIn	Globe,_Arizona
+Globe,_Arizona	isLocatedIn	Gila_County,_Arizona
+
+http://dbpedia.org/resource/Aravaipa_Canyon_Wilderness	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Globe,_Arizona
+Aravaipa_Canyon_Wilderness	Globe,_Arizona
+Aravaipa_Canyon_Wilderness	isLocatedIn	Arizona
+Aravaipa_Canyon_Wilderness	isLocatedIn	Arizona
+Rose_Mofford	isPoliticianOf	Arizona
+Rose_Mofford	isPoliticianOf	Arizona
+Rose_Mofford	wasBornIn	Globe,_Arizona
+Rose_Mofford	wasBornIn	Globe,_Arizona
+
+http://dbpedia.org/resource/Lake_Pontchartrain	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/New_Orleans
+Lake_Pontchartrain	New_Orleans
+Lake_Pontchartrain	isLocatedIn	St._Tammany_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	St._Tammany_Parish,_Louisiana
+Lake_Pontchartrain_Causeway	isLocatedIn	St._Tammany_Parish,_Louisiana
+Lake_Pontchartrain_Causeway	isLocatedIn	St._Tammany_Parish,_Louisiana
+Lake_Pontchartrain_Causeway	isLocatedIn	New_Orleans
+Lake_Pontchartrain_Causeway	isLocatedIn	New_Orleans
+
+http://dbpedia.org/resource/Lake_Pontchartrain	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/New_Orleans
+Lake_Pontchartrain	New_Orleans
+Lake_Pontchartrain	isLocatedIn	St._Tammany_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	St._Tammany_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	St._Tammany_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	St._Tammany_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	New_Orleans
+Lake_Pontchartrain	isLocatedIn	New_Orleans
+
+http://dbpedia.org/resource/Lake_Pontchartrain	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/New_Orleans
+Lake_Pontchartrain	New_Orleans
+Lake_Pontchartrain	isLocatedIn	St._Tammany_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	St._Tammany_Parish,_Louisiana
+Lake_Borgne	isLocatedIn	St._Tammany_Parish,_Louisiana
+Lake_Borgne	isLocatedIn	St._Tammany_Parish,_Louisiana
+Lake_Borgne	isLocatedIn	New_Orleans
+Lake_Borgne	isLocatedIn	New_Orleans
+
+http://dbpedia.org/resource/Lake_Pontchartrain	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/New_Orleans
+Lake_Pontchartrain	New_Orleans
+Lake_Pontchartrain	isLocatedIn	St._Tammany_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	St._Tammany_Parish,_Louisiana
+Lane_Carson	livesIn	St._Tammany_Parish,_Louisiana
+Lane_Carson	livesIn	St._Tammany_Parish,_Louisiana
+Lane_Carson	wasBornIn	New_Orleans
+Lane_Carson	wasBornIn	New_Orleans
+
+http://dbpedia.org/resource/Lake_Pontchartrain	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/New_Orleans
+Lake_Pontchartrain	New_Orleans
+Lake_Pontchartrain	isLocatedIn	St._Tammany_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	St._Tammany_Parish,_Louisiana
+Jack_Donahue_(politician)	livesIn	St._Tammany_Parish,_Louisiana
+Jack_Donahue_(politician)	livesIn	St._Tammany_Parish,_Louisiana
+Jack_Donahue_(politician)	wasBornIn	New_Orleans
+Jack_Donahue_(politician)	wasBornIn	New_Orleans
+
+http://dbpedia.org/resource/Lake_Pontchartrain	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/New_Orleans
+Lake_Pontchartrain	New_Orleans
+Lake_Pontchartrain	isLocatedIn	St._Charles_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	St._Charles_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	St._Charles_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	St._Charles_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	New_Orleans
+Lake_Pontchartrain	isLocatedIn	New_Orleans
+
+http://dbpedia.org/resource/Lake_Pontchartrain	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/New_Orleans
+Lake_Pontchartrain	New_Orleans
+Lake_Pontchartrain	isLocatedIn	Tangipahoa_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	Tangipahoa_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	Tangipahoa_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	Tangipahoa_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	New_Orleans
+Lake_Pontchartrain	isLocatedIn	New_Orleans
+
+http://dbpedia.org/resource/Lake_Pontchartrain	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/New_Orleans
+Lake_Pontchartrain	New_Orleans
+Lake_Pontchartrain	isLocatedIn	St._John_the_Baptist_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	St._John_the_Baptist_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	St._John_the_Baptist_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	St._John_the_Baptist_Parish,_Louisiana
+Lake_Pontchartrain	isLocatedIn	New_Orleans
+Lake_Pontchartrain	isLocatedIn	New_Orleans
+
+http://dbpedia.org/resource/Lake_Pontchartrain	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/New_Orleans
+Lake_Pontchartrain	New_Orleans
+Lake_Pontchartrain	isLocatedIn	New_Orleans
+Lake_Pontchartrain	isLocatedIn	New_Orleans
+
+http://dbpedia.org/resource/Caribou-Targhee_National_Forest	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Pocatello,_Idaho
+Caribou-Targhee_National_Forest	Pocatello,_Idaho
+Caribou-Targhee_National_Forest	isLocatedIn	Idaho
+Caribou-Targhee_National_Forest	isLocatedIn	Idaho
+Pocatello,_Idaho	isLocatedIn	Idaho
+Pocatello,_Idaho	isLocatedIn	Idaho
+
+http://dbpedia.org/resource/Caribou-Targhee_National_Forest	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Pocatello,_Idaho
+Caribou-Targhee_National_Forest	Pocatello,_Idaho
+Caribou-Targhee_National_Forest	isLocatedIn	Idaho
+Caribou-Targhee_National_Forest	isLocatedIn	Idaho
+Shay_Carl	livesIn	Idaho
+Shay_Carl	livesIn	Idaho
+Shay_Carl	livesIn	Pocatello,_Idaho
+Shay_Carl	livesIn	Pocatello,_Idaho
+
+http://dbpedia.org/resource/Caribou-Targhee_National_Forest	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Pocatello,_Idaho
+Caribou-Targhee_National_Forest	Pocatello,_Idaho
+Caribou-Targhee_National_Forest	isLocatedIn	Idaho
+Caribou-Targhee_National_Forest	isLocatedIn	Idaho
+Idaho_State_University	isLocatedIn	Idaho
+Idaho_State_University	isLocatedIn	Idaho
+Idaho_State_University	isLocatedIn	Pocatello,_Idaho
+Idaho_State_University	isLocatedIn	Pocatello,_Idaho
+
+http://dbpedia.org/resource/Caribou-Targhee_National_Forest	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Pocatello,_Idaho
+Caribou-Targhee_National_Forest	Pocatello,_Idaho
+Caribou-Targhee_National_Forest	isLocatedIn	Idaho
+Caribou-Targhee_National_Forest	isLocatedIn	Idaho
+Holt_Arena	isLocatedIn	Idaho
+Holt_Arena	isLocatedIn	Idaho
+Holt_Arena	isLocatedIn	Pocatello,_Idaho
+Holt_Arena	isLocatedIn	Pocatello,_Idaho
+
+http://dbpedia.org/resource/Caribou-Targhee_National_Forest	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Pocatello,_Idaho
+Caribou-Targhee_National_Forest	Pocatello,_Idaho
+Kelly_Canyon	isLocatedIn	Caribou-Targhee_National_Forest
+Kelly_Canyon	isLocatedIn	Caribou-Targhee_National_Forest
+Kelly_Canyon	isLocatedIn	Idaho
+Kelly_Canyon	isLocatedIn	Idaho
+Pocatello,_Idaho	isLocatedIn	Idaho
+Pocatello,_Idaho	isLocatedIn	Idaho
+
+http://dbpedia.org/resource/Lake_Victoria	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Kenya
+Lake_Victoria	Kenya
+Lake_Victoria	isLocatedIn	Kisumu
+Lake_Victoria	isLocatedIn	Kisumu
+Kisumu	isLocatedIn	Kenya
+Kisumu	isLocatedIn	Kenya
+
+http://dbpedia.org/resource/Lake_Victoria	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Kenya
+Lake_Victoria	Kenya
+Lake_Victoria	isLocatedIn	Kisumu
+Lake_Victoria	isLocatedIn	Kisumu
+Allan_Wanga	wasBornIn	Kisumu
+Allan_Wanga	wasBornIn	Kisumu
+Allan_Wanga	isCitizenOf	Kenya
+Allan_Wanga	isCitizenOf	Kenya
+
+http://dbpedia.org/resource/Lake_Victoria	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Kenya
+Lake_Victoria	Kenya
+Lake_Victoria	isLocatedIn	Kisumu
+Lake_Victoria	isLocatedIn	Kisumu
+Lake_Victoria	isLocatedIn	Kisumu
+Lake_Victoria	isLocatedIn	Kisumu
+Lake_Victoria	isLocatedIn	Kenya
+Lake_Victoria	isLocatedIn	Kenya
+
+http://dbpedia.org/resource/Lake_Victoria	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Kenya
+Lake_Victoria	Kenya
+Lake_Victoria	isLocatedIn	Kisumu
+Lake_Victoria	isLocatedIn	Kisumu
+Kisumu	isLocatedIn	Kisumu_County
+Kisumu	isLocatedIn	Kisumu_County
+Kisumu_County	isLocatedIn	Kenya
+Kisumu_County	isLocatedIn	Kenya
+
+http://dbpedia.org/resource/Lake_Victoria	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Kenya
+Lake_Victoria	Kenya
+Lake_Victoria	isLocatedIn	Mwanza
+Lake_Victoria	isLocatedIn	Mwanza
+Lake_Victoria	isLocatedIn	Mwanza
+Lake_Victoria	isLocatedIn	Mwanza
+Lake_Victoria	isLocatedIn	Kenya
+Lake_Victoria	isLocatedIn	Kenya
+
+http://dbpedia.org/resource/Lake_Victoria	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Kenya
+Lake_Victoria	Kenya
+Lake_Victoria	isLocatedIn	Kenya
+Lake_Victoria	isLocatedIn	Kenya
+
+http://dbpedia.org/resource/Jackson–Washington_State_Forest	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Brownstown,_Indiana
+Jackson–Washington_State_Forest	Brownstown,_Indiana
+Jackson–Washington_State_Forest	isLocatedIn	Brownstown,_Indiana
+Jackson–Washington_State_Forest	isLocatedIn	Brownstown,_Indiana
+
+http://dbpedia.org/resource/Jackson–Washington_State_Forest	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Brownstown,_Indiana
+Jackson–Washington_State_Forest	Brownstown,_Indiana
+Jackson–Washington_State_Forest	isLocatedIn	Indiana
+Jackson–Washington_State_Forest	isLocatedIn	Indiana
+Jackson–Washington_State_Forest	isLocatedIn	Indiana
+Jackson–Washington_State_Forest	isLocatedIn	Indiana
+Jackson–Washington_State_Forest	isLocatedIn	Brownstown,_Indiana
+Jackson–Washington_State_Forest	isLocatedIn	Brownstown,_Indiana
+
+http://dbpedia.org/resource/Jackson–Washington_State_Forest	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Brownstown,_Indiana
+Jackson–Washington_State_Forest	Brownstown,_Indiana
+Jackson–Washington_State_Forest	isLocatedIn	Jackson_County,_Indiana
+Jackson–Washington_State_Forest	isLocatedIn	Jackson_County,_Indiana
+Brownstown,_Indiana	isLocatedIn	Jackson_County,_Indiana
+Jackson_County,_Indiana	isLocatedIn	Brownstown,_Indiana
+Brownstown,_Indiana	isLocatedIn	Jackson_County,_Indiana
+Jackson_County,_Indiana	isLocatedIn	Brownstown,_Indiana
+
+http://dbpedia.org/resource/Jackson–Washington_State_Forest	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Brownstown,_Indiana
+Jackson–Washington_State_Forest	Brownstown,_Indiana
+Jackson–Washington_State_Forest	isLocatedIn	Jackson_County,_Indiana
+Jackson–Washington_State_Forest	isLocatedIn	Jackson_County,_Indiana
+Jackson–Washington_State_Forest	isLocatedIn	Jackson_County,_Indiana
+Jackson–Washington_State_Forest	isLocatedIn	Jackson_County,_Indiana
+Jackson–Washington_State_Forest	isLocatedIn	Brownstown,_Indiana
+Jackson–Washington_State_Forest	isLocatedIn	Brownstown,_Indiana
+
+http://dbpedia.org/resource/Hunter_Hereford_Ranch_Historic_District	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Moose,_Wyoming
+Hunter_Hereford_Ranch_Historic_District	Moose,_Wyoming
+Hunter_Hereford_Ranch_Historic_District	isLocatedIn	Grand_Teton_National_Park
+Hunter_Hereford_Ranch_Historic_District	isLocatedIn	Grand_Teton_National_Park
+Grand_Teton_National_Park	isLocatedIn	Teton_County,_Wyoming
+Grand_Teton_National_Park	isLocatedIn	Teton_County,_Wyoming
+Moose,_Wyoming	isLocatedIn	Teton_County,_Wyoming
+Moose,_Wyoming	isLocatedIn	Teton_County,_Wyoming
+
+http://dbpedia.org/resource/Hunter_Hereford_Ranch_Historic_District	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Moose,_Wyoming
+Hunter_Hereford_Ranch_Historic_District	Moose,_Wyoming
+Hunter_Hereford_Ranch_Historic_District	isLocatedIn	Teton_County,_Wyoming
+Hunter_Hereford_Ranch_Historic_District	isLocatedIn	Teton_County,_Wyoming
+Moose,_Wyoming	isLocatedIn	Teton_County,_Wyoming
+Moose,_Wyoming	isLocatedIn	Teton_County,_Wyoming
+
+http://dbpedia.org/resource/Cherry_Orchard_Bog_Natural_Area_Preserve	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Virginia
+Cherry_Orchard_Bog_Natural_Area_Preserve	Virginia
+Cherry_Orchard_Bog_Natural_Area_Preserve	isLocatedIn	Virginia
+Cherry_Orchard_Bog_Natural_Area_Preserve	isLocatedIn	Virginia
+
+http://dbpedia.org/resource/Cherry_Orchard_Bog_Natural_Area_Preserve	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Virginia
+Cherry_Orchard_Bog_Natural_Area_Preserve	Virginia
+Cherry_Orchard_Bog_Natural_Area_Preserve	isLocatedIn	Sussex_County,_Virginia
+Cherry_Orchard_Bog_Natural_Area_Preserve	isLocatedIn	Sussex_County,_Virginia
+Sussex_County,_Virginia	isLocatedIn	Virginia
+Sussex_County,_Virginia	isLocatedIn	Virginia
+
+http://dbpedia.org/resource/Cherry_Orchard_Bog_Natural_Area_Preserve	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Virginia
+Cherry_Orchard_Bog_Natural_Area_Preserve	Virginia
+Cherry_Orchard_Bog_Natural_Area_Preserve	isLocatedIn	Sussex_County,_Virginia
+Cherry_Orchard_Bog_Natural_Area_Preserve	isLocatedIn	Sussex_County,_Virginia
+Waverly,_Virginia	isLocatedIn	Sussex_County,_Virginia
+Waverly,_Virginia	isLocatedIn	Sussex_County,_Virginia
+Waverly,_Virginia	isLocatedIn	Virginia
+Waverly,_Virginia	isLocatedIn	Virginia
+
+http://dbpedia.org/resource/Cherry_Orchard_Bog_Natural_Area_Preserve	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Virginia
+Cherry_Orchard_Bog_Natural_Area_Preserve	Virginia
+Cherry_Orchard_Bog_Natural_Area_Preserve	isLocatedIn	Sussex_County,_Virginia
+Cherry_Orchard_Bog_Natural_Area_Preserve	isLocatedIn	Sussex_County,_Virginia
+Junius_Edgar_West	wasBornIn	Sussex_County,_Virginia
+Junius_Edgar_West	wasBornIn	Sussex_County,_Virginia
+Junius_Edgar_West	isPoliticianOf	Virginia
+Junius_Edgar_West	isPoliticianOf	Virginia
+
+http://dbpedia.org/resource/Cherry_Orchard_Bog_Natural_Area_Preserve	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Virginia
+Cherry_Orchard_Bog_Natural_Area_Preserve	Virginia
+Cherry_Orchard_Bog_Natural_Area_Preserve	isLocatedIn	Sussex_County,_Virginia
+Cherry_Orchard_Bog_Natural_Area_Preserve	isLocatedIn	Sussex_County,_Virginia
+Jarratt,_Virginia	isLocatedIn	Sussex_County,_Virginia
+Jarratt,_Virginia	isLocatedIn	Sussex_County,_Virginia
+Jarratt,_Virginia	isLocatedIn	Virginia
+Jarratt,_Virginia	isLocatedIn	Virginia
+
+http://dbpedia.org/resource/Cherry_Orchard_Bog_Natural_Area_Preserve	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Virginia
+Cherry_Orchard_Bog_Natural_Area_Preserve	Virginia
+Cherry_Orchard_Bog_Natural_Area_Preserve	isLocatedIn	Sussex_County,_Virginia
+Cherry_Orchard_Bog_Natural_Area_Preserve	isLocatedIn	Sussex_County,_Virginia
+Cherry_Orchard_Bog_Natural_Area_Preserve	isLocatedIn	Sussex_County,_Virginia
+Cherry_Orchard_Bog_Natural_Area_Preserve	isLocatedIn	Sussex_County,_Virginia
+Cherry_Orchard_Bog_Natural_Area_Preserve	isLocatedIn	Virginia
+Cherry_Orchard_Bog_Natural_Area_Preserve	isLocatedIn	Virginia
+
+http://dbpedia.org/resource/Black_Fork_Mountain_Wilderness	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Mena,_Arkansas
+Black_Fork_Mountain_Wilderness	Mena,_Arkansas
+Black_Fork_Mountain_Wilderness	isLocatedIn	Polk_County,_Arkansas
+Black_Fork_Mountain_Wilderness	isLocatedIn	Polk_County,_Arkansas
+Mena,_Arkansas	isLocatedIn	Polk_County,_Arkansas
+Polk_County,_Arkansas	isLocatedIn	Mena,_Arkansas
+Mena,_Arkansas	isLocatedIn	Polk_County,_Arkansas
+Polk_County,_Arkansas	isLocatedIn	Mena,_Arkansas
+
+http://dbpedia.org/resource/Lake_Victoria	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Kisumu
+Lake_Victoria	Kisumu
+Lake_Victoria	isLocatedIn	Kisumu
+Lake_Victoria	isLocatedIn	Kisumu
+
+http://dbpedia.org/resource/Lake_Victoria	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Kisumu
+Lake_Victoria	Kisumu
+Lake_Victoria	isLocatedIn	Mwanza
+Lake_Victoria	isLocatedIn	Mwanza
+Lake_Victoria	isLocatedIn	Mwanza
+Lake_Victoria	isLocatedIn	Mwanza
+Lake_Victoria	isLocatedIn	Kisumu
+Lake_Victoria	isLocatedIn	Kisumu
+
+http://dbpedia.org/resource/Carter_Lake_(Iowa–Nebraska)	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Omaha,_Nebraska
+Carter_Lake_(Iowa–Nebraska)	Omaha,_Nebraska
+Carter_Lake_(Iowa–Nebraska)	isLocatedIn	Nebraska
+Carter_Lake_(Iowa–Nebraska)	isLocatedIn	Nebraska
+Omaha,_Nebraska	isLocatedIn	Nebraska
+Nebraska	hasCapital	Omaha,_Nebraska
+Omaha,_Nebraska	isLocatedIn	Nebraska
+Nebraska	hasCapital	Omaha,_Nebraska
+
+http://dbpedia.org/resource/Carter_Lake_(Iowa–Nebraska)	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Omaha,_Nebraska
+Carter_Lake_(Iowa–Nebraska)	Omaha,_Nebraska
+Carter_Lake_(Iowa–Nebraska)	isLocatedIn	Nebraska
+Carter_Lake_(Iowa–Nebraska)	isLocatedIn	Nebraska
+2012_in_UFC	isLocatedIn	Nebraska
+2012_in_UFC	isLocatedIn	Nebraska
+2012_in_UFC	isLocatedIn	Omaha,_Nebraska
+2012_in_UFC	isLocatedIn	Omaha,_Nebraska
+
+http://dbpedia.org/resource/Carter_Lake_(Iowa–Nebraska)	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Omaha,_Nebraska
+Carter_Lake_(Iowa–Nebraska)	Omaha,_Nebraska
+Carter_Lake_(Iowa–Nebraska)	isLocatedIn	Nebraska
+Carter_Lake_(Iowa–Nebraska)	isLocatedIn	Nebraska
+Omaha_Central_High_School	isLocatedIn	Nebraska
+Omaha_Central_High_School	isLocatedIn	Nebraska
+Omaha_Central_High_School	isLocatedIn	Omaha,_Nebraska
+Omaha_Central_High_School	isLocatedIn	Omaha,_Nebraska
+
+http://dbpedia.org/resource/Carter_Lake_(Iowa–Nebraska)	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Omaha,_Nebraska
+Carter_Lake_(Iowa–Nebraska)	Omaha,_Nebraska
+Carter_Lake_(Iowa–Nebraska)	isLocatedIn	Nebraska
+Carter_Lake_(Iowa–Nebraska)	isLocatedIn	Nebraska
+University_of_Nebraska_Omaha	isLocatedIn	Nebraska
+University_of_Nebraska_Omaha	isLocatedIn	Nebraska
+University_of_Nebraska_Omaha	isLocatedIn	Omaha,_Nebraska
+University_of_Nebraska_Omaha	isLocatedIn	Omaha,_Nebraska
+
+http://dbpedia.org/resource/Carter_Lake_(Iowa–Nebraska)	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Omaha,_Nebraska
+Carter_Lake_(Iowa–Nebraska)	Omaha,_Nebraska
+Carter_Lake_(Iowa–Nebraska)	isLocatedIn	Carter_Lake,_Iowa
+Carter_Lake_(Iowa–Nebraska)	isLocatedIn	Carter_Lake,_Iowa
+Carter_Lake_(Iowa–Nebraska)	isLocatedIn	Carter_Lake,_Iowa
+Carter_Lake_(Iowa–Nebraska)	isLocatedIn	Carter_Lake,_Iowa
+Carter_Lake_(Iowa–Nebraska)	isLocatedIn	Omaha,_Nebraska
+Carter_Lake_(Iowa–Nebraska)	isLocatedIn	Omaha,_Nebraska
+
+http://dbpedia.org/resource/Carter_Lake_(Iowa–Nebraska)	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Omaha,_Nebraska
+Carter_Lake_(Iowa–Nebraska)	Omaha,_Nebraska
+Carter_Lake_(Iowa–Nebraska)	isLocatedIn	Omaha,_Nebraska
+Carter_Lake_(Iowa–Nebraska)	isLocatedIn	Omaha,_Nebraska
+
+http://dbpedia.org/resource/Buckley_Homestead	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Lowell,_Indiana
+Buckley_Homestead	Lowell,_Indiana
+Buckley_Homestead	isLocatedIn	Lowell,_Indiana
+Buckley_Homestead	isLocatedIn	Lowell,_Indiana
+
+http://dbpedia.org/resource/Buckley_Homestead	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Lowell,_Indiana
+Buckley_Homestead	Lowell,_Indiana
+Buckley_Homestead	isLocatedIn	Lake_County,_Indiana
+Buckley_Homestead	isLocatedIn	Lake_County,_Indiana
+Lowell,_Indiana	isLocatedIn	Lake_County,_Indiana
+Lowell,_Indiana	isLocatedIn	Lake_County,_Indiana
+
+http://dbpedia.org/resource/Buckley_Homestead	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Lowell,_Indiana
+Buckley_Homestead	Lowell,_Indiana
+Buckley_Homestead	isLocatedIn	Cedar_Creek_Township,_Lake_County,_Indiana
+Buckley_Homestead	isLocatedIn	Cedar_Creek_Township,_Lake_County,_Indiana
+Cedar_Creek_Township,_Lake_County,_Indiana	isLocatedIn	Lake_County,_Indiana
+Cedar_Creek_Township,_Lake_County,_Indiana	isLocatedIn	Lake_County,_Indiana
+Lowell,_Indiana	isLocatedIn	Lake_County,_Indiana
+Lowell,_Indiana	isLocatedIn	Lake_County,_Indiana
+
+http://dbpedia.org/resource/Buckley_Homestead	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Lowell,_Indiana
+Buckley_Homestead	Lowell,_Indiana
+Buckley_Homestead	isLocatedIn	Cedar_Creek_Township,_Lake_County,_Indiana
+Buckley_Homestead	isLocatedIn	Cedar_Creek_Township,_Lake_County,_Indiana
+Lowell,_Indiana	isLocatedIn	Cedar_Creek_Township,_Lake_County,_Indiana
+Lowell,_Indiana	isLocatedIn	Cedar_Creek_Township,_Lake_County,_Indiana
+
+http://dbpedia.org/resource/Buckley_Homestead	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Lowell,_Indiana
+Buckley_Homestead	Lowell,_Indiana
+Buckley_Homestead	isLocatedIn	Cedar_Creek_Township,_Lake_County,_Indiana
+Buckley_Homestead	isLocatedIn	Cedar_Creek_Township,_Lake_County,_Indiana
+Buckley_Homestead	isLocatedIn	Cedar_Creek_Township,_Lake_County,_Indiana
+Buckley_Homestead	isLocatedIn	Cedar_Creek_Township,_Lake_County,_Indiana
+Buckley_Homestead	isLocatedIn	Lowell,_Indiana
+Buckley_Homestead	isLocatedIn	Lowell,_Indiana
+
+http://dbpedia.org/resource/Buckley_Homestead	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Lowell,_Indiana
+Buckley_Homestead	Lowell,_Indiana
+Buckley_Homestead	isLocatedIn	Indiana
+Buckley_Homestead	isLocatedIn	Indiana
+West_Creek_Township,_Lake_County,_Indiana	isLocatedIn	Indiana
+West_Creek_Township,_Lake_County,_Indiana	isLocatedIn	Indiana
+Lowell,_Indiana	isLocatedIn	West_Creek_Township,_Lake_County,_Indiana
+Lowell,_Indiana	isLocatedIn	West_Creek_Township,_Lake_County,_Indiana
+
+http://dbpedia.org/resource/Lake_Winnebago	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Fond_du_Lac,_Wisconsin
+Lake_Winnebago	Fond_du_Lac,_Wisconsin
+Lake_Winnebago	isLocatedIn	Fond_du_Lac,_Wisconsin
+Lake_Winnebago	isLocatedIn	Fond_du_Lac,_Wisconsin
+
+http://dbpedia.org/resource/Lake_Winnebago	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Fond_du_Lac,_Wisconsin
+Lake_Winnebago	Fond_du_Lac,_Wisconsin
+Lake_Winnebago	isLocatedIn	Fond_du_Lac_County,_Wisconsin
+Lake_Winnebago	isLocatedIn	Fond_du_Lac_County,_Wisconsin
+Fond_du_Lac,_Wisconsin	isLocatedIn	Fond_du_Lac_County,_Wisconsin
+Fond_du_Lac_County,_Wisconsin	isLocatedIn	Fond_du_Lac,_Wisconsin
+Fond_du_Lac,_Wisconsin	isLocatedIn	Fond_du_Lac_County,_Wisconsin
+Fond_du_Lac_County,_Wisconsin	isLocatedIn	Fond_du_Lac,_Wisconsin
+
+http://dbpedia.org/resource/Lake_Winnebago	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Fond_du_Lac,_Wisconsin
+Lake_Winnebago	Fond_du_Lac,_Wisconsin
+Lake_Winnebago	isLocatedIn	Winnebago_County,_Wisconsin
+Lake_Winnebago	isLocatedIn	Winnebago_County,_Wisconsin
+Lake_Winnebago	isLocatedIn	Winnebago_County,_Wisconsin
+Lake_Winnebago	isLocatedIn	Winnebago_County,_Wisconsin
+Lake_Winnebago	isLocatedIn	Fond_du_Lac,_Wisconsin
+Lake_Winnebago	isLocatedIn	Fond_du_Lac,_Wisconsin
+
+http://dbpedia.org/resource/Lake_Victoria	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Tanzania
+Lake_Victoria	Tanzania
+Lake_Victoria	isLocatedIn	Kisumu
+Lake_Victoria	isLocatedIn	Kisumu
+Lake_Victoria	isLocatedIn	Kisumu
+Lake_Victoria	isLocatedIn	Kisumu
+Lake_Victoria	isLocatedIn	Tanzania
+Lake_Victoria	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Lake_Victoria	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Tanzania
+Lake_Victoria	Tanzania
+Lake_Victoria	isLocatedIn	Tanzania
+Lake_Victoria	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Lake_Victoria	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Tanzania
+Lake_Victoria	Tanzania
+Lake_Victoria	isLocatedIn	Mwanza
+Lake_Victoria	isLocatedIn	Mwanza
+Mwanza_Region	hasCapital	Mwanza
+Mwanza_Region	isLocatedIn	Mwanza
+Mwanza	isLocatedIn	Mwanza_Region
+Mwanza_Region	hasCapital	Mwanza
+Mwanza_Region	isLocatedIn	Mwanza
+Mwanza	isLocatedIn	Mwanza_Region
+Mwanza_Region	isLocatedIn	Tanzania
+Mwanza_Region	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Lake_Victoria	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Tanzania
+Lake_Victoria	Tanzania
+Lake_Victoria	isLocatedIn	Mwanza
+Lake_Victoria	isLocatedIn	Mwanza
+Rakesh_Rajani	wasBornIn	Mwanza
+Rakesh_Rajani	wasBornIn	Mwanza
+Rakesh_Rajani	isCitizenOf	Tanzania
+Rakesh_Rajani	isCitizenOf	Tanzania
+
+http://dbpedia.org/resource/Lake_Victoria	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Tanzania
+Lake_Victoria	Tanzania
+Lake_Victoria	isLocatedIn	Mwanza
+Lake_Victoria	isLocatedIn	Mwanza
+Lake_Victoria	isLocatedIn	Mwanza
+Lake_Victoria	isLocatedIn	Mwanza
+Lake_Victoria	isLocatedIn	Tanzania
+Lake_Victoria	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Lake_Victoria	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Tanzania
+Lake_Victoria	Tanzania
+Lake_Victoria	isLocatedIn	Mwanza
+Lake_Victoria	isLocatedIn	Mwanza
+Mwanza	isLocatedIn	Tanzania
+Mwanza	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Lake_Victoria	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Tanzania
+Lake_Victoria	Tanzania
+Lake_Victoria	isLocatedIn	Mwanza
+Lake_Victoria	isLocatedIn	Mwanza
+Juma_Mwapachu	wasBornIn	Mwanza
+Juma_Mwapachu	wasBornIn	Mwanza
+Juma_Mwapachu	isCitizenOf	Tanzania
+Juma_Mwapachu	isCitizenOf	Tanzania
+
+http://dbpedia.org/resource/Lake_Victoria	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Tanzania
+Lake_Victoria	Tanzania
+Lake_Victoria	isLocatedIn	Kenya
+Lake_Victoria	isLocatedIn	Kenya
+Search_for_Common_Ground	isLocatedIn	Kenya
+Search_for_Common_Ground	isLocatedIn	Kenya
+Search_for_Common_Ground	isLocatedIn	Tanzania
+Search_for_Common_Ground	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Guana_Tolomato_Matanzas_National_Estuarine_Research_Reserve	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/St._Augustine,_Florida
+Guana_Tolomato_Matanzas_National_Estuarine_Research_Reserve	St._Augustine,_Florida
+Guana_Tolomato_Matanzas_National_Estuarine_Research_Reserve	isLocatedIn	St._Johns_County,_Florida
+Guana_Tolomato_Matanzas_National_Estuarine_Research_Reserve	isLocatedIn	St._Johns_County,_Florida
+St._Augustine,_Florida	isLocatedIn	St._Johns_County,_Florida
+St._Johns_County,_Florida	isLocatedIn	St._Augustine,_Florida
+St._Augustine,_Florida	isLocatedIn	St._Johns_County,_Florida
+St._Johns_County,_Florida	isLocatedIn	St._Augustine,_Florida
+
+http://dbpedia.org/resource/Gash-Setit	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Teseney
+Gash-Setit	Teseney
+Gash-Setit	isLocatedIn	Haykota_Subregion
+Gash-Setit	isLocatedIn	Haykota_Subregion
+Haykota_Subregion	isLocatedIn	Gash-Barka_Region
+Haykota_Subregion	isLocatedIn	Gash-Barka_Region
+Teseney	isLocatedIn	Gash-Barka_Region
+Teseney	isLocatedIn	Gash-Barka_Region
+
+http://dbpedia.org/resource/Lake_Neuchâtel	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Neuchâtel
+Lake_Neuchâtel	Neuchâtel
+Lake_Neuchâtel	isLocatedIn	Switzerland
+Lake_Neuchâtel	isLocatedIn	Switzerland
+University_of_Neuchâtel	isLocatedIn	Switzerland
+University_of_Neuchâtel	isLocatedIn	Switzerland
+University_of_Neuchâtel	isLocatedIn	Neuchâtel
+University_of_Neuchâtel	isLocatedIn	Neuchâtel
+
+http://dbpedia.org/resource/Lake_Neuchâtel	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Neuchâtel
+Lake_Neuchâtel	Neuchâtel
+Lake_Neuchâtel	isLocatedIn	Yverdon-les-Bains
+Lake_Neuchâtel	isLocatedIn	Yverdon-les-Bains
+Lake_Neuchâtel	isLocatedIn	Yverdon-les-Bains
+Lake_Neuchâtel	isLocatedIn	Yverdon-les-Bains
+Lake_Neuchâtel	isLocatedIn	Neuchâtel
+Lake_Neuchâtel	isLocatedIn	Neuchâtel
+
+http://dbpedia.org/resource/Lake_Neuchâtel	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Neuchâtel
+Lake_Neuchâtel	Neuchâtel
+Lake_Neuchâtel	isLocatedIn	Neuchâtel
+Lake_Neuchâtel	isLocatedIn	Neuchâtel
+
+http://dbpedia.org/resource/Lake_Neuchâtel	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Neuchâtel
+Lake_Neuchâtel	Neuchâtel
+Lake_Neuchâtel	isLocatedIn	Estavayer-le-Lac
+Lake_Neuchâtel	isLocatedIn	Estavayer-le-Lac
+Lake_Neuchâtel	isLocatedIn	Estavayer-le-Lac
+Lake_Neuchâtel	isLocatedIn	Estavayer-le-Lac
+Lake_Neuchâtel	isLocatedIn	Neuchâtel
+Lake_Neuchâtel	isLocatedIn	Neuchâtel
+
+http://dbpedia.org/resource/Washakie_Wilderness	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Cody,_Wyoming
+Washakie_Wilderness	Cody,_Wyoming
+Washakie_Wilderness	isLocatedIn	Park_County,_Wyoming
+Washakie_Wilderness	isLocatedIn	Park_County,_Wyoming
+Cody,_Wyoming	isLocatedIn	Park_County,_Wyoming
+Park_County,_Wyoming	isLocatedIn	Cody,_Wyoming
+Cody,_Wyoming	isLocatedIn	Park_County,_Wyoming
+Park_County,_Wyoming	isLocatedIn	Cody,_Wyoming
+
+http://dbpedia.org/resource/Lake_Winnebago	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Menasha,_Wisconsin
+Lake_Winnebago	Menasha,_Wisconsin
+Lake_Winnebago	isLocatedIn	Oshkosh,_Wisconsin
+Lake_Winnebago	isLocatedIn	Oshkosh,_Wisconsin
+Winnebago_County,_Wisconsin	isLocatedIn	Oshkosh,_Wisconsin
+Oshkosh,_Wisconsin	isLocatedIn	Winnebago_County,_Wisconsin
+Winnebago_County,_Wisconsin	isLocatedIn	Oshkosh,_Wisconsin
+Oshkosh,_Wisconsin	isLocatedIn	Winnebago_County,_Wisconsin
+Menasha,_Wisconsin	isLocatedIn	Winnebago_County,_Wisconsin
+Menasha,_Wisconsin	isLocatedIn	Winnebago_County,_Wisconsin
+
+http://dbpedia.org/resource/Lake_Winnebago	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Menasha,_Wisconsin
+Lake_Winnebago	Menasha,_Wisconsin
+Lake_Winnebago	isLocatedIn	Wisconsin
+Lake_Winnebago	isLocatedIn	Wisconsin
+Winnebago_County,_Wisconsin	isLocatedIn	Wisconsin
+Winnebago_County,_Wisconsin	isLocatedIn	Wisconsin
+Menasha,_Wisconsin	isLocatedIn	Winnebago_County,_Wisconsin
+Menasha,_Wisconsin	isLocatedIn	Winnebago_County,_Wisconsin
+
+http://dbpedia.org/resource/Lake_Winnebago	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Menasha,_Wisconsin
+Lake_Winnebago	Menasha,_Wisconsin
+Lake_Winnebago	isLocatedIn	Winnebago_County,_Wisconsin
+Lake_Winnebago	isLocatedIn	Winnebago_County,_Wisconsin
+Menasha,_Wisconsin	isLocatedIn	Winnebago_County,_Wisconsin
+Menasha,_Wisconsin	isLocatedIn	Winnebago_County,_Wisconsin
+
+http://dbpedia.org/resource/Black_Kettle_National_Grassland	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Cheyenne,_Oklahoma
+Black_Kettle_National_Grassland	Cheyenne,_Oklahoma
+Black_Kettle_National_Grassland	isLocatedIn	Roger_Mills_County,_Oklahoma
+Black_Kettle_National_Grassland	isLocatedIn	Roger_Mills_County,_Oklahoma
+Roger_Mills_County,_Oklahoma	isLocatedIn	Cheyenne,_Oklahoma
+Cheyenne,_Oklahoma	isLocatedIn	Roger_Mills_County,_Oklahoma
+Roger_Mills_County,_Oklahoma	isLocatedIn	Cheyenne,_Oklahoma
+Cheyenne,_Oklahoma	isLocatedIn	Roger_Mills_County,_Oklahoma
+
+http://dbpedia.org/resource/Kruger_National_Park	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Nelspruit
+Kruger_National_Park	Nelspruit
+Kruger_National_Park	isLocatedIn	South_Africa
+Kruger_National_Park	isLocatedIn	South_Africa
+Nelspruit	isLocatedIn	South_Africa
+Nelspruit	isLocatedIn	South_Africa
+
+http://dbpedia.org/resource/Kruger_National_Park	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Nelspruit
+Kruger_National_Park	Nelspruit
+Kruger_National_Park	isLocatedIn	Mpumalanga
+Kruger_National_Park	isLocatedIn	Mpumalanga
+Mpumalanga	hasCapital	Nelspruit
+Nelspruit	isLocatedIn	Mpumalanga
+Mpumalanga	isLocatedIn	Nelspruit
+Mpumalanga	hasCapital	Nelspruit
+Nelspruit	isLocatedIn	Mpumalanga
+Mpumalanga	isLocatedIn	Nelspruit
+
+http://dbpedia.org/resource/Idaho_Panhandle_National_Forests	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Spokane,_Washington
+Idaho_Panhandle_National_Forests	Spokane,_Washington
+Idaho_Panhandle_National_Forests	isLocatedIn	Washington_(state)
+Idaho_Panhandle_National_Forests	isLocatedIn	Washington_(state)
+Gonzaga_University	isLocatedIn	Washington_(state)
+Gonzaga_University	isLocatedIn	Washington_(state)
+Gonzaga_University	isLocatedIn	Spokane,_Washington
+Gonzaga_University	isLocatedIn	Spokane,_Washington
+
+http://dbpedia.org/resource/Lake_Boon	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Stow,_Massachusetts
+Lake_Boon	Stow,_Massachusetts
+Lake_Boon	isLocatedIn	Stow,_Massachusetts
+Lake_Boon	isLocatedIn	Stow,_Massachusetts
+
+http://dbpedia.org/resource/Lake_Boon	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Stow,_Massachusetts
+Lake_Boon	Stow,_Massachusetts
+Lake_Boon	isLocatedIn	Hudson,_Massachusetts
+Lake_Boon	isLocatedIn	Hudson,_Massachusetts
+Hudson,_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+Hudson,_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+Stow,_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+Stow,_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+
+http://dbpedia.org/resource/Lake_Boon	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Stow,_Massachusetts
+Lake_Boon	Stow,_Massachusetts
+Lake_Boon	isLocatedIn	Middlesex_County,_Massachusetts
+Lake_Boon	isLocatedIn	Middlesex_County,_Massachusetts
+Stow,_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+Stow,_Massachusetts	isLocatedIn	Middlesex_County,_Massachusetts
+
+http://dbpedia.org/resource/Lake_Boon	http://dbpedia.org/ontology/nearestCity	http://dbpedia.org/resource/Stow,_Massachusetts
+Lake_Boon	Stow,_Massachusetts
+Lake_Boon	isLocatedIn	Middlesex_County,_Massachusetts
+Lake_Boon	isLocatedIn	Middlesex_County,_Massachusetts
+Lake_Boon	isLocatedIn	Middlesex_County,_Massachusetts
+Lake_Boon	isLocatedIn	Middlesex_County,_Massachusetts
+Lake_Boon	isLocatedIn	Stow,_Massachusetts
+Lake_Boon	isLocatedIn	Stow,_Massachusetts
+

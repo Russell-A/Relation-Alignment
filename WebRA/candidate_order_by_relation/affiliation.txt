@@ -1,0 +1,306 @@
+http://dbpedia.org/resource/Asutosh_College	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Calcutta
+Asutosh_College	University_of_Calcutta
+Geeta_Mukherjee	graduatedFrom	Asutosh_College
+Geeta_Mukherjee	graduatedFrom	Asutosh_College
+Geeta_Mukherjee	graduatedFrom	University_of_Calcutta
+Geeta_Mukherjee	graduatedFrom	University_of_Calcutta
+
+http://dbpedia.org/resource/Asutosh_College	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Calcutta
+Asutosh_College	University_of_Calcutta
+Asutosh_College	isLocatedIn	Kolkata
+Asutosh_College	isLocatedIn	Kolkata
+Sudhansu_Datta_Majumdar	diedIn	Kolkata
+Sudhansu_Datta_Majumdar	diedIn	Kolkata
+Sudhansu_Datta_Majumdar	worksAt	University_of_Calcutta
+Sudhansu_Datta_Majumdar	worksAt	University_of_Calcutta
+
+http://dbpedia.org/resource/Asutosh_College	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Calcutta
+Asutosh_College	University_of_Calcutta
+Asutosh_College	isLocatedIn	Kolkata
+Asutosh_College	isLocatedIn	Kolkata
+Asima_Chatterjee	wasBornIn	Kolkata
+Asima_Chatterjee	diedIn	Kolkata
+Asima_Chatterjee	wasBornIn	Kolkata
+Asima_Chatterjee	diedIn	Kolkata
+Asima_Chatterjee	worksAt	University_of_Calcutta
+Asima_Chatterjee	graduatedFrom	University_of_Calcutta
+Asima_Chatterjee	worksAt	University_of_Calcutta
+Asima_Chatterjee	graduatedFrom	University_of_Calcutta
+
+http://dbpedia.org/resource/Asutosh_College	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Calcutta
+Asutosh_College	University_of_Calcutta
+Gurudas_Dasgupta	graduatedFrom	Asutosh_College
+Gurudas_Dasgupta	graduatedFrom	Asutosh_College
+Gurudas_Dasgupta	graduatedFrom	University_of_Calcutta
+Gurudas_Dasgupta	graduatedFrom	University_of_Calcutta
+
+http://dbpedia.org/resource/University_of_North_Carolina_School_of_the_Arts	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_North_Carolina
+University_of_North_Carolina_School_of_the_Arts	University_of_North_Carolina
+University_of_North_Carolina_School_of_the_Arts	isLocatedIn	North_Carolina
+University_of_North_Carolina_School_of_the_Arts	isLocatedIn	North_Carolina
+University_of_North_Carolina	isLocatedIn	North_Carolina
+University_of_North_Carolina	isLocatedIn	North_Carolina
+
+http://dbpedia.org/resource/K._K._Das_College	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Calcutta
+K._K._Das_College	University_of_Calcutta
+K._K._Das_College	isLocatedIn	Kolkata
+K._K._Das_College	isLocatedIn	Kolkata
+Sudhansu_Datta_Majumdar	diedIn	Kolkata
+Sudhansu_Datta_Majumdar	diedIn	Kolkata
+Sudhansu_Datta_Majumdar	worksAt	University_of_Calcutta
+Sudhansu_Datta_Majumdar	worksAt	University_of_Calcutta
+
+http://dbpedia.org/resource/K._K._Das_College	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Calcutta
+K._K._Das_College	University_of_Calcutta
+K._K._Das_College	isLocatedIn	Kolkata
+K._K._Das_College	isLocatedIn	Kolkata
+Asima_Chatterjee	wasBornIn	Kolkata
+Asima_Chatterjee	diedIn	Kolkata
+Asima_Chatterjee	wasBornIn	Kolkata
+Asima_Chatterjee	diedIn	Kolkata
+Asima_Chatterjee	worksAt	University_of_Calcutta
+Asima_Chatterjee	graduatedFrom	University_of_Calcutta
+Asima_Chatterjee	worksAt	University_of_Calcutta
+Asima_Chatterjee	graduatedFrom	University_of_Calcutta
+
+http://dbpedia.org/resource/Government_Law_College,_Mumbai	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Mumbai
+Government_Law_College,_Mumbai	University_of_Mumbai
+Government_Law_College,_Mumbai	isLocatedIn	Mumbai
+Government_Law_College,_Mumbai	isLocatedIn	Mumbai
+Suresh_Prabhu	livesIn	Mumbai
+Suresh_Prabhu	wasBornIn	Mumbai
+Suresh_Prabhu	livesIn	Mumbai
+Suresh_Prabhu	wasBornIn	Mumbai
+Suresh_Prabhu	graduatedFrom	University_of_Mumbai
+Suresh_Prabhu	graduatedFrom	University_of_Mumbai
+
+http://dbpedia.org/resource/University_of_Hawaii_at_Manoa	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Hawaii
+University_of_Hawaii_at_Manoa	University_of_Hawaii
+University_of_Hawaii_at_Manoa	isLocatedIn	Honolulu
+University_of_Hawaii_at_Manoa	isLocatedIn	Honolulu
+Ann_Dunham	diedIn	Honolulu
+Ann_Dunham	diedIn	Honolulu
+Ann_Dunham	graduatedFrom	University_of_Hawaii
+Ann_Dunham	graduatedFrom	University_of_Hawaii
+
+http://dbpedia.org/resource/University_of_Hawaii_at_Manoa	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Hawaii
+University_of_Hawaii_at_Manoa	University_of_Hawaii
+Maya_Soetoro-Ng	graduatedFrom	University_of_Hawaii_at_Manoa
+Maya_Soetoro-Ng	graduatedFrom	University_of_Hawaii_at_Manoa
+Ann_Dunham	hasChild	Maya_Soetoro-Ng
+Ann_Dunham	hasChild	Maya_Soetoro-Ng
+Ann_Dunham	graduatedFrom	University_of_Hawaii
+Ann_Dunham	graduatedFrom	University_of_Hawaii
+
+http://dbpedia.org/resource/University_of_Hawaii_at_Manoa	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Hawaii
+University_of_Hawaii_at_Manoa	University_of_Hawaii
+Lolo_Soetoro	graduatedFrom	University_of_Hawaii_at_Manoa
+Lolo_Soetoro	graduatedFrom	University_of_Hawaii_at_Manoa
+Lolo_Soetoro	isMarriedTo	Ann_Dunham
+Ann_Dunham	isMarriedTo	Lolo_Soetoro
+Lolo_Soetoro	isMarriedTo	Ann_Dunham
+Ann_Dunham	isMarriedTo	Lolo_Soetoro
+Ann_Dunham	graduatedFrom	University_of_Hawaii
+Ann_Dunham	graduatedFrom	University_of_Hawaii
+
+http://dbpedia.org/resource/University_of_Hawaii_at_Manoa	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Hawaii
+University_of_Hawaii_at_Manoa	University_of_Hawaii
+Malama_Solomon	graduatedFrom	University_of_Hawaii_at_Manoa
+Malama_Solomon	graduatedFrom	University_of_Hawaii_at_Manoa
+Malama_Solomon	graduatedFrom	University_of_Hawaii
+Malama_Solomon	graduatedFrom	University_of_Hawaii
+
+http://dbpedia.org/resource/Bangabasi_College	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Calcutta
+Bangabasi_College	University_of_Calcutta
+Bangabasi_College	isLocatedIn	Kolkata
+Bangabasi_College	isLocatedIn	Kolkata
+Sudhansu_Datta_Majumdar	diedIn	Kolkata
+Sudhansu_Datta_Majumdar	diedIn	Kolkata
+Sudhansu_Datta_Majumdar	worksAt	University_of_Calcutta
+Sudhansu_Datta_Majumdar	worksAt	University_of_Calcutta
+
+http://dbpedia.org/resource/Bangabasi_College	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Calcutta
+Bangabasi_College	University_of_Calcutta
+Bangabasi_College	isLocatedIn	Kolkata
+Bangabasi_College	isLocatedIn	Kolkata
+Asima_Chatterjee	wasBornIn	Kolkata
+Asima_Chatterjee	diedIn	Kolkata
+Asima_Chatterjee	wasBornIn	Kolkata
+Asima_Chatterjee	diedIn	Kolkata
+Asima_Chatterjee	worksAt	University_of_Calcutta
+Asima_Chatterjee	graduatedFrom	University_of_Calcutta
+Asima_Chatterjee	worksAt	University_of_Calcutta
+Asima_Chatterjee	graduatedFrom	University_of_Calcutta
+
+http://dbpedia.org/resource/Bangabasi_College	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Calcutta
+Bangabasi_College	University_of_Calcutta
+Subrata_Mukherjee	graduatedFrom	Bangabasi_College
+Subrata_Mukherjee	graduatedFrom	Bangabasi_College
+Subrata_Mukherjee	graduatedFrom	University_of_Calcutta
+Subrata_Mukherjee	graduatedFrom	University_of_Calcutta
+
+http://dbpedia.org/resource/Appalachian_State_University	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_North_Carolina
+Appalachian_State_University	University_of_North_Carolina
+Appalachian_State_University	isLocatedIn	North_Carolina
+Appalachian_State_University	isLocatedIn	North_Carolina
+University_of_North_Carolina	isLocatedIn	North_Carolina
+University_of_North_Carolina	isLocatedIn	North_Carolina
+
+http://dbpedia.org/resource/Appalachian_State_University	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_North_Carolina
+Appalachian_State_University	University_of_North_Carolina
+Appalachian_State_University	owns	Kidd_Brewer_Stadium
+Appalachian_State_University	owns	Kidd_Brewer_Stadium
+Kidd_Brewer_Stadium	isLocatedIn	North_Carolina
+Kidd_Brewer_Stadium	isLocatedIn	North_Carolina
+University_of_North_Carolina	isLocatedIn	North_Carolina
+University_of_North_Carolina	isLocatedIn	North_Carolina
+
+http://dbpedia.org/resource/University_of_Hawaii_at_Hilo	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Hawaii
+University_of_Hawaii_at_Hilo	University_of_Hawaii
+University_of_Hawaii_at_Hilo	isLocatedIn	Hilo,_Hawaii
+University_of_Hawaii_at_Hilo	isLocatedIn	Hilo,_Hawaii
+Stephen_K._Yamashiro	diedIn	Hilo,_Hawaii
+Stephen_K._Yamashiro	diedIn	Hilo,_Hawaii
+Stephen_K._Yamashiro	graduatedFrom	University_of_Hawaii
+Stephen_K._Yamashiro	graduatedFrom	University_of_Hawaii
+
+http://dbpedia.org/resource/University_of_Hawaii_at_Hilo	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Hawaii
+University_of_Hawaii_at_Hilo	University_of_Hawaii
+Malama_Solomon	graduatedFrom	University_of_Hawaii_at_Hilo
+Malama_Solomon	graduatedFrom	University_of_Hawaii_at_Hilo
+Malama_Solomon	graduatedFrom	University_of_Hawaii
+Malama_Solomon	graduatedFrom	University_of_Hawaii
+
+http://dbpedia.org/resource/NUI_Galway	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/National_University_of_Ireland
+NUI_Galway	National_University_of_Ireland
+NUI_Galway	isLocatedIn	Galway
+NUI_Galway	isLocatedIn	Galway
+National_University_of_Ireland	isLocatedIn	Galway
+National_University_of_Ireland	isLocatedIn	Galway
+
+http://dbpedia.org/resource/NUI_Galway	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/National_University_of_Ireland
+NUI_Galway	National_University_of_Ireland
+Derek_Nolan	graduatedFrom	NUI_Galway
+Derek_Nolan	graduatedFrom	NUI_Galway
+Derek_Nolan	wasBornIn	Galway
+Derek_Nolan	wasBornIn	Galway
+National_University_of_Ireland	isLocatedIn	Galway
+National_University_of_Ireland	isLocatedIn	Galway
+
+http://dbpedia.org/resource/NUI_Galway	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/National_University_of_Ireland
+NUI_Galway	National_University_of_Ireland
+Maureen_O'Carroll	graduatedFrom	NUI_Galway
+Maureen_O'Carroll	graduatedFrom	NUI_Galway
+Maureen_O'Carroll	wasBornIn	Galway
+Maureen_O'Carroll	wasBornIn	Galway
+National_University_of_Ireland	isLocatedIn	Galway
+National_University_of_Ireland	isLocatedIn	Galway
+
+http://dbpedia.org/resource/NORC_at_the_University_of_Chicago	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Chicago
+NORC_at_the_University_of_Chicago	University_of_Chicago
+NORC_at_the_University_of_Chicago	isLocatedIn	Bethesda,_Maryland
+NORC_at_the_University_of_Chicago	isLocatedIn	Bethesda,_Maryland
+James_Bennett_Griffin	diedIn	Bethesda,_Maryland
+James_Bennett_Griffin	diedIn	Bethesda,_Maryland
+James_Bennett_Griffin	graduatedFrom	University_of_Chicago
+James_Bennett_Griffin	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/NORC_at_the_University_of_Chicago	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Chicago
+NORC_at_the_University_of_Chicago	University_of_Chicago
+NORC_at_the_University_of_Chicago	isLocatedIn	San_Francisco
+NORC_at_the_University_of_Chicago	isLocatedIn	San_Francisco
+Clifford_Geertz	wasBornIn	San_Francisco
+Clifford_Geertz	wasBornIn	San_Francisco
+Clifford_Geertz	worksAt	University_of_Chicago
+Clifford_Geertz	worksAt	University_of_Chicago
+
+http://dbpedia.org/resource/NORC_at_the_University_of_Chicago	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Chicago
+NORC_at_the_University_of_Chicago	University_of_Chicago
+NORC_at_the_University_of_Chicago	isLocatedIn	San_Francisco
+NORC_at_the_University_of_Chicago	isLocatedIn	San_Francisco
+Luis_Walter_Alvarez	wasBornIn	San_Francisco
+Luis_Walter_Alvarez	wasBornIn	San_Francisco
+Luis_Walter_Alvarez	graduatedFrom	University_of_Chicago
+Luis_Walter_Alvarez	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/St_Patrick's_College,_Maynooth	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/National_University_of_Ireland
+St_Patrick's_College,_Maynooth	National_University_of_Ireland
+James_McLoughlin	graduatedFrom	St_Patrick's_College,_Maynooth
+James_McLoughlin	graduatedFrom	St_Patrick's_College,_Maynooth
+James_McLoughlin	wasBornIn	Galway
+James_McLoughlin	wasBornIn	Galway
+National_University_of_Ireland	isLocatedIn	Galway
+National_University_of_Ireland	isLocatedIn	Galway
+
+http://dbpedia.org/resource/St_Patrick's_College,_Maynooth	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/National_University_of_Ireland
+St_Patrick's_College,_Maynooth	National_University_of_Ireland
+St_Patrick's_College,_Maynooth	isLocatedIn	Maynooth
+St_Patrick's_College,_Maynooth	isLocatedIn	Maynooth
+National_University_of_Ireland	isLocatedIn	Maynooth
+National_University_of_Ireland	isLocatedIn	Maynooth
+
+http://dbpedia.org/resource/Valia_College	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Mumbai
+Valia_College	University_of_Mumbai
+Valia_College	isLocatedIn	Mumbai
+Valia_College	isLocatedIn	Mumbai
+Suresh_Prabhu	livesIn	Mumbai
+Suresh_Prabhu	wasBornIn	Mumbai
+Suresh_Prabhu	livesIn	Mumbai
+Suresh_Prabhu	wasBornIn	Mumbai
+Suresh_Prabhu	graduatedFrom	University_of_Mumbai
+Suresh_Prabhu	graduatedFrom	University_of_Mumbai
+
+http://dbpedia.org/resource/Fr._Conceicao_Rodrigues_College_of_Engineering	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Mumbai
+Fr._Conceicao_Rodrigues_College_of_Engineering	University_of_Mumbai
+Fr._Conceicao_Rodrigues_College_of_Engineering	isLocatedIn	Mumbai
+Fr._Conceicao_Rodrigues_College_of_Engineering	isLocatedIn	Mumbai
+Suresh_Prabhu	livesIn	Mumbai
+Suresh_Prabhu	wasBornIn	Mumbai
+Suresh_Prabhu	livesIn	Mumbai
+Suresh_Prabhu	wasBornIn	Mumbai
+Suresh_Prabhu	graduatedFrom	University_of_Mumbai
+Suresh_Prabhu	graduatedFrom	University_of_Mumbai
+
+http://dbpedia.org/resource/College_of_Engineering,_Guindy	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Madras
+College_of_Engineering,_Guindy	University_of_Madras
+College_of_Engineering,_Guindy	isLocatedIn	Chennai
+College_of_Engineering,_Guindy	isLocatedIn	Chennai
+Subramanian_Krishnamoorthy	diedIn	Chennai
+Subramanian_Krishnamoorthy	diedIn	Chennai
+Subramanian_Krishnamoorthy	graduatedFrom	University_of_Madras
+Subramanian_Krishnamoorthy	graduatedFrom	University_of_Madras
+
+http://dbpedia.org/resource/College_of_Engineering,_Guindy	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/University_of_Madras
+College_of_Engineering,_Guindy	University_of_Madras
+College_of_Engineering,_Guindy	isLocatedIn	Tamil_Nadu
+College_of_Engineering,_Guindy	isLocatedIn	Tamil_Nadu
+V._Shanmuganathan	livesIn	Tamil_Nadu
+V._Shanmuganathan	livesIn	Tamil_Nadu
+V._Shanmuganathan	graduatedFrom	University_of_Madras
+V._Shanmuganathan	graduatedFrom	University_of_Madras
+
+http://dbpedia.org/resource/St_Patrick's_College,_Maynooth	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/Royal_University_of_Ireland
+St_Patrick's_College,_Maynooth	Royal_University_of_Ireland
+James_McLoughlin	graduatedFrom	St_Patrick's_College,_Maynooth
+James_McLoughlin	graduatedFrom	St_Patrick's_College,_Maynooth
+James_McLoughlin	wasBornIn	Galway
+James_McLoughlin	wasBornIn	Galway
+Royal_University_of_Ireland	isLocatedIn	Galway
+Royal_University_of_Ireland	isLocatedIn	Galway
+
+http://dbpedia.org/resource/St_Patrick's_College,_Maynooth	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/Royal_University_of_Ireland
+St_Patrick's_College,_Maynooth	Royal_University_of_Ireland
+Jerry_Buttimer	graduatedFrom	St_Patrick's_College,_Maynooth
+Jerry_Buttimer	graduatedFrom	St_Patrick's_College,_Maynooth
+Jerry_Buttimer	wasBornIn	Cork_(city)
+Jerry_Buttimer	wasBornIn	Cork_(city)
+Royal_University_of_Ireland	isLocatedIn	Cork_(city)
+Royal_University_of_Ireland	isLocatedIn	Cork_(city)
+
+http://dbpedia.org/resource/St_Patrick's_College,_Maynooth	http://dbpedia.org/ontology/affiliation	http://dbpedia.org/resource/Royal_University_of_Ireland
+St_Patrick's_College,_Maynooth	Royal_University_of_Ireland
+St_Patrick's_College,_Maynooth	isLocatedIn	Maynooth
+St_Patrick's_College,_Maynooth	isLocatedIn	Maynooth
+Royal_University_of_Ireland	isLocatedIn	Maynooth
+Royal_University_of_Ireland	isLocatedIn	Maynooth
+

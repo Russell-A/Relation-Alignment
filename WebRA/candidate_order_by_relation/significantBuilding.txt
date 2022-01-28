@@ -1,0 +1,32 @@
+http://dbpedia.org/resource/Adrian_Smith_(architect)	http://dbpedia.org/ontology/significantBuilding	http://dbpedia.org/resource/Burj_Khalifa
+Adrian_Smith_(architect)	Burj_Khalifa
+Adrian_Smith_(architect)	created	Burj_Khalifa
+Adrian_Smith_(architect)	created	Burj_Khalifa
+
+http://dbpedia.org/resource/Adrian_Smith_(architect)	http://dbpedia.org/ontology/significantBuilding	http://dbpedia.org/resource/Burj_Khalifa
+Adrian_Smith_(architect)	Burj_Khalifa
+Adrian_Smith_(architect)	created	Jeddah_Tower
+Adrian_Smith_(architect)	created	Jeddah_Tower
+Adrian_Smith_(architect)	created	Jeddah_Tower
+Adrian_Smith_(architect)	created	Jeddah_Tower
+Adrian_Smith_(architect)	created	Burj_Khalifa
+Adrian_Smith_(architect)	created	Burj_Khalifa
+
+http://dbpedia.org/resource/Adrian_Smith_(architect)	http://dbpedia.org/ontology/significantBuilding	http://dbpedia.org/resource/Burj_Khalifa
+Adrian_Smith_(architect)	Burj_Khalifa
+Adrian_Smith_(architect)	created	Franklin_Center_(Chicago)
+Adrian_Smith_(architect)	created	Franklin_Center_(Chicago)
+Adrian_Smith_(architect)	created	Franklin_Center_(Chicago)
+Adrian_Smith_(architect)	created	Franklin_Center_(Chicago)
+Adrian_Smith_(architect)	created	Burj_Khalifa
+Adrian_Smith_(architect)	created	Burj_Khalifa
+
+http://dbpedia.org/resource/Adrian_Smith_(architect)	http://dbpedia.org/ontology/significantBuilding	http://dbpedia.org/resource/Burj_Khalifa
+Adrian_Smith_(architect)	Burj_Khalifa
+Adrian_Smith_(architect)	wasBornIn	Chicago
+Adrian_Smith_(architect)	wasBornIn	Chicago
+Adrian_Smith_(architect)	wasBornIn	Chicago
+Adrian_Smith_(architect)	wasBornIn	Chicago
+Adrian_Smith_(architect)	created	Burj_Khalifa
+Adrian_Smith_(architect)	created	Burj_Khalifa
+

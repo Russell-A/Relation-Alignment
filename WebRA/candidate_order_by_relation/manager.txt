@@ -1,0 +1,408 @@
+http://dbpedia.org/resource/Atlético_Tucumán	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Juan_Manuel_Azconzábal
+Atlético_Tucumán	Juan_Manuel_Azconzábal
+Gonzalo_Garavano	isAffiliatedTo	Atlético_Tucumán
+Gonzalo_Garavano	playsFor	Atlético_Tucumán
+Gonzalo_Garavano	isAffiliatedTo	Atlético_Tucumán
+Gonzalo_Garavano	playsFor	Atlético_Tucumán
+Gonzalo_Garavano	isAffiliatedTo	Atlético_Tucumán
+Gonzalo_Garavano	playsFor	Atlético_Tucumán
+Gonzalo_Garavano	isAffiliatedTo	Atlético_Tucumán
+Gonzalo_Garavano	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	isAffiliatedTo	Atlético_Tucumán
+Juan_Manuel_Azconzábal	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	isAffiliatedTo	Atlético_Tucumán
+
+http://dbpedia.org/resource/Atlético_Tucumán	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Juan_Manuel_Azconzábal
+Atlético_Tucumán	Juan_Manuel_Azconzábal
+Cristian_Tavio	isAffiliatedTo	Atlético_Tucumán
+Cristian_Tavio	playsFor	Atlético_Tucumán
+Cristian_Tavio	isAffiliatedTo	Atlético_Tucumán
+Cristian_Tavio	playsFor	Atlético_Tucumán
+Cristian_Tavio	isAffiliatedTo	Atlético_Tucumán
+Cristian_Tavio	playsFor	Atlético_Tucumán
+Cristian_Tavio	isAffiliatedTo	Atlético_Tucumán
+Cristian_Tavio	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	isAffiliatedTo	Atlético_Tucumán
+Juan_Manuel_Azconzábal	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	isAffiliatedTo	Atlético_Tucumán
+
+http://dbpedia.org/resource/Atlético_Tucumán	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Juan_Manuel_Azconzábal
+Atlético_Tucumán	Juan_Manuel_Azconzábal
+Sebastian_Matos	isAffiliatedTo	Atlético_Tucumán
+Sebastian_Matos	playsFor	Atlético_Tucumán
+Sebastian_Matos	isAffiliatedTo	Atlético_Tucumán
+Sebastian_Matos	playsFor	Atlético_Tucumán
+Sebastian_Matos	isAffiliatedTo	Atlético_Tucumán
+Sebastian_Matos	playsFor	Atlético_Tucumán
+Sebastian_Matos	isAffiliatedTo	Atlético_Tucumán
+Sebastian_Matos	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	isAffiliatedTo	Atlético_Tucumán
+Juan_Manuel_Azconzábal	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	isAffiliatedTo	Atlético_Tucumán
+
+http://dbpedia.org/resource/Atlético_Tucumán	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Juan_Manuel_Azconzábal
+Atlético_Tucumán	Juan_Manuel_Azconzábal
+Javier_Malagueño	playsFor	Atlético_Tucumán
+Javier_Malagueño	isAffiliatedTo	Atlético_Tucumán
+Javier_Malagueño	playsFor	Atlético_Tucumán
+Javier_Malagueño	isAffiliatedTo	Atlético_Tucumán
+Javier_Malagueño	playsFor	Atlético_Tucumán
+Javier_Malagueño	isAffiliatedTo	Atlético_Tucumán
+Javier_Malagueño	playsFor	Atlético_Tucumán
+Javier_Malagueño	isAffiliatedTo	Atlético_Tucumán
+Juan_Manuel_Azconzábal	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	isAffiliatedTo	Atlético_Tucumán
+Juan_Manuel_Azconzábal	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	isAffiliatedTo	Atlético_Tucumán
+
+http://dbpedia.org/resource/Atlético_Tucumán	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Juan_Manuel_Azconzábal
+Atlético_Tucumán	Juan_Manuel_Azconzábal
+Juan_Manuel_Azconzábal	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	isAffiliatedTo	Atlético_Tucumán
+Juan_Manuel_Azconzábal	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	isAffiliatedTo	Atlético_Tucumán
+
+http://dbpedia.org/resource/Atlético_Tucumán	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Juan_Manuel_Azconzábal
+Atlético_Tucumán	Juan_Manuel_Azconzábal
+Josemir_Lujambio	playsFor	Atlético_Tucumán
+Josemir_Lujambio	isAffiliatedTo	Atlético_Tucumán
+Josemir_Lujambio	playsFor	Atlético_Tucumán
+Josemir_Lujambio	isAffiliatedTo	Atlético_Tucumán
+Josemir_Lujambio	playsFor	Atlético_Tucumán
+Josemir_Lujambio	isAffiliatedTo	Atlético_Tucumán
+Josemir_Lujambio	playsFor	Atlético_Tucumán
+Josemir_Lujambio	isAffiliatedTo	Atlético_Tucumán
+Juan_Manuel_Azconzábal	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	isAffiliatedTo	Atlético_Tucumán
+Juan_Manuel_Azconzábal	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	isAffiliatedTo	Atlético_Tucumán
+
+http://dbpedia.org/resource/Atlético_Tucumán	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Juan_Manuel_Azconzábal
+Atlético_Tucumán	Juan_Manuel_Azconzábal
+Raúl_Saavedra	isAffiliatedTo	Atlético_Tucumán
+Raúl_Saavedra	playsFor	Atlético_Tucumán
+Raúl_Saavedra	isAffiliatedTo	Atlético_Tucumán
+Raúl_Saavedra	playsFor	Atlético_Tucumán
+Raúl_Saavedra	isAffiliatedTo	Atlético_Tucumán
+Raúl_Saavedra	playsFor	Atlético_Tucumán
+Raúl_Saavedra	isAffiliatedTo	Atlético_Tucumán
+Raúl_Saavedra	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	isAffiliatedTo	Atlético_Tucumán
+Juan_Manuel_Azconzábal	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	isAffiliatedTo	Atlético_Tucumán
+
+http://dbpedia.org/resource/Atlético_Tucumán	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Juan_Manuel_Azconzábal
+Atlético_Tucumán	Juan_Manuel_Azconzábal
+Matías_Escobar	playsFor	Atlético_Tucumán
+Matías_Escobar	isAffiliatedTo	Atlético_Tucumán
+Matías_Escobar	playsFor	Atlético_Tucumán
+Matías_Escobar	isAffiliatedTo	Atlético_Tucumán
+Matías_Escobar	playsFor	Atlético_Tucumán
+Matías_Escobar	isAffiliatedTo	Atlético_Tucumán
+Matías_Escobar	playsFor	Atlético_Tucumán
+Matías_Escobar	isAffiliatedTo	Atlético_Tucumán
+Juan_Manuel_Azconzábal	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	isAffiliatedTo	Atlético_Tucumán
+Juan_Manuel_Azconzábal	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	isAffiliatedTo	Atlético_Tucumán
+
+http://dbpedia.org/resource/Atlético_Tucumán	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Juan_Manuel_Azconzábal
+Atlético_Tucumán	Juan_Manuel_Azconzábal
+Sergio_Gonzalo_Rodríguez	playsFor	Atlético_Tucumán
+Sergio_Gonzalo_Rodríguez	isAffiliatedTo	Atlético_Tucumán
+Sergio_Gonzalo_Rodríguez	playsFor	Atlético_Tucumán
+Sergio_Gonzalo_Rodríguez	isAffiliatedTo	Atlético_Tucumán
+Sergio_Gonzalo_Rodríguez	playsFor	Atlético_Tucumán
+Sergio_Gonzalo_Rodríguez	isAffiliatedTo	Atlético_Tucumán
+Sergio_Gonzalo_Rodríguez	playsFor	Atlético_Tucumán
+Sergio_Gonzalo_Rodríguez	isAffiliatedTo	Atlético_Tucumán
+Juan_Manuel_Azconzábal	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	isAffiliatedTo	Atlético_Tucumán
+Juan_Manuel_Azconzábal	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	isAffiliatedTo	Atlético_Tucumán
+
+http://dbpedia.org/resource/Atlético_Tucumán	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Juan_Manuel_Azconzábal
+Atlético_Tucumán	Juan_Manuel_Azconzábal
+Alexis_Bravo	isAffiliatedTo	Atlético_Tucumán
+Alexis_Bravo	playsFor	Atlético_Tucumán
+Alexis_Bravo	isAffiliatedTo	Atlético_Tucumán
+Alexis_Bravo	playsFor	Atlético_Tucumán
+Alexis_Bravo	isAffiliatedTo	Atlético_Tucumán
+Alexis_Bravo	playsFor	Atlético_Tucumán
+Alexis_Bravo	isAffiliatedTo	Atlético_Tucumán
+Alexis_Bravo	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	isAffiliatedTo	Atlético_Tucumán
+Juan_Manuel_Azconzábal	playsFor	Atlético_Tucumán
+Juan_Manuel_Azconzábal	isAffiliatedTo	Atlético_Tucumán
+
+http://dbpedia.org/resource/MSV_Neuruppin	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Frank_Lieberam
+MSV_Neuruppin	Frank_Lieberam
+Krystian_Prymula	isAffiliatedTo	MSV_Neuruppin
+Krystian_Prymula	playsFor	MSV_Neuruppin
+Krystian_Prymula	isAffiliatedTo	MSV_Neuruppin
+Krystian_Prymula	playsFor	MSV_Neuruppin
+Krystian_Prymula	isAffiliatedTo	MSV_Neuruppin
+Krystian_Prymula	playsFor	MSV_Neuruppin
+Krystian_Prymula	isAffiliatedTo	MSV_Neuruppin
+Krystian_Prymula	playsFor	MSV_Neuruppin
+Frank_Lieberam	isAffiliatedTo	MSV_Neuruppin
+Frank_Lieberam	isAffiliatedTo	MSV_Neuruppin
+
+http://dbpedia.org/resource/MSV_Neuruppin	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Frank_Lieberam
+MSV_Neuruppin	Frank_Lieberam
+Frank_Lieberam	isAffiliatedTo	MSV_Neuruppin
+Frank_Lieberam	isAffiliatedTo	MSV_Neuruppin
+
+http://dbpedia.org/resource/IFK_Värnamo	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Peter_Johansson_(footballer)
+IFK_Värnamo	Peter_Johansson_(footballer)
+Juan_Robledo	playsFor	IFK_Värnamo
+Juan_Robledo	isAffiliatedTo	IFK_Värnamo
+Juan_Robledo	playsFor	IFK_Värnamo
+Juan_Robledo	isAffiliatedTo	IFK_Värnamo
+Juan_Robledo	isAffiliatedTo	Östers_IF
+Juan_Robledo	playsFor	Östers_IF
+Juan_Robledo	isAffiliatedTo	Östers_IF
+Juan_Robledo	playsFor	Östers_IF
+Peter_Johansson_(footballer)	isAffiliatedTo	Östers_IF
+Peter_Johansson_(footballer)	playsFor	Östers_IF
+Peter_Johansson_(footballer)	isAffiliatedTo	Östers_IF
+Peter_Johansson_(footballer)	playsFor	Östers_IF
+
+http://dbpedia.org/resource/IFK_Värnamo	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Peter_Johansson_(footballer)
+IFK_Värnamo	Peter_Johansson_(footballer)
+Glenn_Ståhl	isAffiliatedTo	IFK_Värnamo
+Glenn_Ståhl	isAffiliatedTo	IFK_Värnamo
+Glenn_Ståhl	isAffiliatedTo	Östers_IF
+Glenn_Ståhl	playsFor	Östers_IF
+Glenn_Ståhl	isAffiliatedTo	Östers_IF
+Glenn_Ståhl	playsFor	Östers_IF
+Peter_Johansson_(footballer)	isAffiliatedTo	Östers_IF
+Peter_Johansson_(footballer)	playsFor	Östers_IF
+Peter_Johansson_(footballer)	isAffiliatedTo	Östers_IF
+Peter_Johansson_(footballer)	playsFor	Östers_IF
+
+http://dbpedia.org/resource/Silkeborg_IF	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Peter_Sørensen_(footballer)
+Silkeborg_IF	Peter_Sørensen_(footballer)
+Stefan_Schmidt	isAffiliatedTo	Silkeborg_IF
+Stefan_Schmidt	playsFor	Silkeborg_IF
+Stefan_Schmidt	isAffiliatedTo	Silkeborg_IF
+Stefan_Schmidt	playsFor	Silkeborg_IF
+Stefan_Schmidt	isAffiliatedTo	Silkeborg_IF
+Stefan_Schmidt	playsFor	Silkeborg_IF
+Stefan_Schmidt	isAffiliatedTo	Silkeborg_IF
+Stefan_Schmidt	playsFor	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+
+http://dbpedia.org/resource/Silkeborg_IF	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Peter_Sørensen_(footballer)
+Silkeborg_IF	Peter_Sørensen_(footballer)
+Godwin_Attram	playsFor	Silkeborg_IF
+Godwin_Attram	isAffiliatedTo	Silkeborg_IF
+Godwin_Attram	playsFor	Silkeborg_IF
+Godwin_Attram	isAffiliatedTo	Silkeborg_IF
+Godwin_Attram	playsFor	Silkeborg_IF
+Godwin_Attram	isAffiliatedTo	Silkeborg_IF
+Godwin_Attram	playsFor	Silkeborg_IF
+Godwin_Attram	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+
+http://dbpedia.org/resource/Silkeborg_IF	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Peter_Sørensen_(footballer)
+Silkeborg_IF	Peter_Sørensen_(footballer)
+Jens_Martin_Gammelby	isAffiliatedTo	Silkeborg_IF
+Jens_Martin_Gammelby	playsFor	Silkeborg_IF
+Jens_Martin_Gammelby	isAffiliatedTo	Silkeborg_IF
+Jens_Martin_Gammelby	playsFor	Silkeborg_IF
+Jens_Martin_Gammelby	isAffiliatedTo	Silkeborg_IF
+Jens_Martin_Gammelby	playsFor	Silkeborg_IF
+Jens_Martin_Gammelby	isAffiliatedTo	Silkeborg_IF
+Jens_Martin_Gammelby	playsFor	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+
+http://dbpedia.org/resource/Silkeborg_IF	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Peter_Sørensen_(footballer)
+Silkeborg_IF	Peter_Sørensen_(footballer)
+Mikkel_Vendelbo	isAffiliatedTo	Silkeborg_IF
+Mikkel_Vendelbo	playsFor	Silkeborg_IF
+Mikkel_Vendelbo	isAffiliatedTo	Silkeborg_IF
+Mikkel_Vendelbo	playsFor	Silkeborg_IF
+Mikkel_Vendelbo	isAffiliatedTo	Silkeborg_IF
+Mikkel_Vendelbo	playsFor	Silkeborg_IF
+Mikkel_Vendelbo	isAffiliatedTo	Silkeborg_IF
+Mikkel_Vendelbo	playsFor	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+
+http://dbpedia.org/resource/Silkeborg_IF	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Peter_Sørensen_(footballer)
+Silkeborg_IF	Peter_Sørensen_(footballer)
+Simon_Azoulay_Pedersen	playsFor	Silkeborg_IF
+Simon_Azoulay_Pedersen	isAffiliatedTo	Silkeborg_IF
+Simon_Azoulay_Pedersen	playsFor	Silkeborg_IF
+Simon_Azoulay_Pedersen	isAffiliatedTo	Silkeborg_IF
+Simon_Azoulay_Pedersen	playsFor	Silkeborg_IF
+Simon_Azoulay_Pedersen	isAffiliatedTo	Silkeborg_IF
+Simon_Azoulay_Pedersen	playsFor	Silkeborg_IF
+Simon_Azoulay_Pedersen	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+
+http://dbpedia.org/resource/Silkeborg_IF	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Peter_Sørensen_(footballer)
+Silkeborg_IF	Peter_Sørensen_(footballer)
+Jesper_Thygesen	isAffiliatedTo	Silkeborg_IF
+Jesper_Thygesen	playsFor	Silkeborg_IF
+Jesper_Thygesen	isAffiliatedTo	Silkeborg_IF
+Jesper_Thygesen	playsFor	Silkeborg_IF
+Jesper_Thygesen	isAffiliatedTo	Silkeborg_IF
+Jesper_Thygesen	playsFor	Silkeborg_IF
+Jesper_Thygesen	isAffiliatedTo	Silkeborg_IF
+Jesper_Thygesen	playsFor	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+
+http://dbpedia.org/resource/Silkeborg_IF	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Peter_Sørensen_(footballer)
+Silkeborg_IF	Peter_Sørensen_(footballer)
+Viggo_Jensen_(footballer,_born_1947)	isAffiliatedTo	Silkeborg_IF
+Viggo_Jensen_(footballer,_born_1947)	isAffiliatedTo	Silkeborg_IF
+Viggo_Jensen_(footballer,_born_1947)	isAffiliatedTo	Silkeborg_IF
+Viggo_Jensen_(footballer,_born_1947)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+
+http://dbpedia.org/resource/Silkeborg_IF	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Peter_Sørensen_(footballer)
+Silkeborg_IF	Peter_Sørensen_(footballer)
+Nocko_Joković	playsFor	Silkeborg_IF
+Nocko_Joković	isAffiliatedTo	Silkeborg_IF
+Nocko_Joković	playsFor	Silkeborg_IF
+Nocko_Joković	isAffiliatedTo	Silkeborg_IF
+Nocko_Joković	playsFor	Silkeborg_IF
+Nocko_Joković	isAffiliatedTo	Silkeborg_IF
+Nocko_Joković	playsFor	Silkeborg_IF
+Nocko_Joković	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+
+http://dbpedia.org/resource/Silkeborg_IF	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Peter_Sørensen_(footballer)
+Silkeborg_IF	Peter_Sørensen_(footballer)
+Henrik_Risom	isAffiliatedTo	Silkeborg_IF
+Henrik_Risom	playsFor	Silkeborg_IF
+Henrik_Risom	isAffiliatedTo	Silkeborg_IF
+Henrik_Risom	playsFor	Silkeborg_IF
+Henrik_Risom	isAffiliatedTo	Silkeborg_IF
+Henrik_Risom	playsFor	Silkeborg_IF
+Henrik_Risom	isAffiliatedTo	Silkeborg_IF
+Henrik_Risom	playsFor	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+
+http://dbpedia.org/resource/Silkeborg_IF	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Peter_Sørensen_(footballer)
+Silkeborg_IF	Peter_Sørensen_(footballer)
+Steven_Lustü	playsFor	Silkeborg_IF
+Steven_Lustü	isAffiliatedTo	Silkeborg_IF
+Steven_Lustü	playsFor	Silkeborg_IF
+Steven_Lustü	isAffiliatedTo	Silkeborg_IF
+Steven_Lustü	playsFor	Silkeborg_IF
+Steven_Lustü	isAffiliatedTo	Silkeborg_IF
+Steven_Lustü	playsFor	Silkeborg_IF
+Steven_Lustü	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+
+http://dbpedia.org/resource/Silkeborg_IF	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Peter_Sørensen_(footballer)
+Silkeborg_IF	Peter_Sørensen_(footballer)
+Søren_Andersen	playsFor	Silkeborg_IF
+Søren_Andersen	isAffiliatedTo	Silkeborg_IF
+Søren_Andersen	playsFor	Silkeborg_IF
+Søren_Andersen	isAffiliatedTo	Silkeborg_IF
+Søren_Andersen	playsFor	Silkeborg_IF
+Søren_Andersen	isAffiliatedTo	Silkeborg_IF
+Søren_Andersen	playsFor	Silkeborg_IF
+Søren_Andersen	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+
+http://dbpedia.org/resource/Silkeborg_IF	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Peter_Sørensen_(footballer)
+Silkeborg_IF	Peter_Sørensen_(footballer)
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+
+http://dbpedia.org/resource/Silkeborg_IF	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Peter_Sørensen_(footballer)
+Silkeborg_IF	Peter_Sørensen_(footballer)
+Thomas_Dalgaard	playsFor	Silkeborg_IF
+Thomas_Dalgaard	isAffiliatedTo	Silkeborg_IF
+Thomas_Dalgaard	playsFor	Silkeborg_IF
+Thomas_Dalgaard	isAffiliatedTo	Silkeborg_IF
+Thomas_Dalgaard	playsFor	Silkeborg_IF
+Thomas_Dalgaard	isAffiliatedTo	Silkeborg_IF
+Thomas_Dalgaard	playsFor	Silkeborg_IF
+Thomas_Dalgaard	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+Peter_Sørensen_(footballer)	isAffiliatedTo	Silkeborg_IF
+Peter_Sørensen_(footballer)	playsFor	Silkeborg_IF
+
+http://dbpedia.org/resource/New_England_Revolution	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Jay_Heaps
+New_England_Revolution	Jay_Heaps
+Scott_Budnick_(soccer)	playsFor	New_England_Revolution
+Scott_Budnick_(soccer)	isAffiliatedTo	New_England_Revolution
+Scott_Budnick_(soccer)	playsFor	New_England_Revolution
+Scott_Budnick_(soccer)	isAffiliatedTo	New_England_Revolution
+Scott_Budnick_(soccer)	isAffiliatedTo	Miami_Fusion
+Scott_Budnick_(soccer)	playsFor	Miami_Fusion
+Scott_Budnick_(soccer)	isAffiliatedTo	Miami_Fusion
+Scott_Budnick_(soccer)	playsFor	Miami_Fusion
+Jay_Heaps	playsFor	Miami_Fusion
+Jay_Heaps	isAffiliatedTo	Miami_Fusion
+Jay_Heaps	playsFor	Miami_Fusion
+Jay_Heaps	isAffiliatedTo	Miami_Fusion
+
+http://dbpedia.org/resource/ES_Sétif	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Kheïreddine_Madoui
+ES_Sétif	Kheïreddine_Madoui
+Eudes_Dagoulou	playsFor	ES_Sétif
+Eudes_Dagoulou	isAffiliatedTo	ES_Sétif
+Eudes_Dagoulou	playsFor	ES_Sétif
+Eudes_Dagoulou	isAffiliatedTo	ES_Sétif
+Eudes_Dagoulou	isCitizenOf	Algeria
+Eudes_Dagoulou	isCitizenOf	Algeria
+Kheïreddine_Madoui	isCitizenOf	Algeria
+Kheïreddine_Madoui	isCitizenOf	Algeria
+
+http://dbpedia.org/resource/ES_Sétif	http://dbpedia.org/ontology/manager	http://dbpedia.org/resource/Kheïreddine_Madoui
+ES_Sétif	Kheïreddine_Madoui
+Antar_Boucherit	playsFor	ES_Sétif
+Antar_Boucherit	isAffiliatedTo	ES_Sétif
+Antar_Boucherit	playsFor	ES_Sétif
+Antar_Boucherit	isAffiliatedTo	ES_Sétif
+Antar_Boucherit	isCitizenOf	Algeria
+Antar_Boucherit	isCitizenOf	Algeria
+Kheïreddine_Madoui	isCitizenOf	Algeria
+Kheïreddine_Madoui	isCitizenOf	Algeria
+

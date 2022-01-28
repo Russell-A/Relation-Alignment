@@ -1,0 +1,18 @@
+http://dbpedia.org/resource/Frank_Porter_Graham	http://dbpedia.org/ontology/appointer	http://dbpedia.org/resource/W._Kerr_Scott
+Frank_Porter_Graham	W._Kerr_Scott
+Frank_Porter_Graham	diedIn	Chapel_Hill,_North_Carolina
+Frank_Porter_Graham	diedIn	Chapel_Hill,_North_Carolina
+Chapel_Hill,_North_Carolina	isLocatedIn	North_Carolina
+Chapel_Hill,_North_Carolina	isLocatedIn	North_Carolina
+W._Kerr_Scott	isPoliticianOf	North_Carolina
+W._Kerr_Scott	isPoliticianOf	North_Carolina
+
+http://dbpedia.org/resource/Nasim_Hasan_Shah	http://dbpedia.org/ontology/appointer	http://dbpedia.org/resource/Ghulam_Ishaq_Khan
+Nasim_Hasan_Shah	Ghulam_Ishaq_Khan
+Nasim_Hasan_Shah	isCitizenOf	Pakistan
+Nasim_Hasan_Shah	isCitizenOf	Pakistan
+Peshawar	isLocatedIn	Pakistan
+Peshawar	isLocatedIn	Pakistan
+Ghulam_Ishaq_Khan	diedIn	Peshawar
+Ghulam_Ishaq_Khan	diedIn	Peshawar
+

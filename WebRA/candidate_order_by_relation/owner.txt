@@ -1,0 +1,2516 @@
+http://dbpedia.org/resource/Estádio_do_Dragão	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FC_Porto
+Estádio_do_Dragão	FC_Porto
+Estádio_do_Dragão	isLocatedIn	Porto
+Estádio_do_Dragão	isLocatedIn	Porto
+André_Correia	wasBornIn	Porto
+André_Correia	wasBornIn	Porto
+André_Correia	playsFor	FC_Porto
+André_Correia	isAffiliatedTo	FC_Porto
+André_Correia	playsFor	FC_Porto
+André_Correia	isAffiliatedTo	FC_Porto
+
+http://dbpedia.org/resource/Estádio_do_Dragão	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FC_Porto
+Estádio_do_Dragão	FC_Porto
+Estádio_do_Dragão	isLocatedIn	Porto
+Estádio_do_Dragão	isLocatedIn	Porto
+Ricardo_Emídio_Ramalho_Silva	wasBornIn	Porto
+Ricardo_Emídio_Ramalho_Silva	wasBornIn	Porto
+Ricardo_Emídio_Ramalho_Silva	playsFor	FC_Porto
+Ricardo_Emídio_Ramalho_Silva	isAffiliatedTo	FC_Porto
+Ricardo_Emídio_Ramalho_Silva	playsFor	FC_Porto
+Ricardo_Emídio_Ramalho_Silva	isAffiliatedTo	FC_Porto
+
+http://dbpedia.org/resource/Estádio_do_Dragão	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FC_Porto
+Estádio_do_Dragão	FC_Porto
+Estádio_do_Dragão	isLocatedIn	Porto
+Estádio_do_Dragão	isLocatedIn	Porto
+Acácio_Mesquita	wasBornIn	Porto
+Acácio_Mesquita	wasBornIn	Porto
+Acácio_Mesquita	isAffiliatedTo	FC_Porto
+Acácio_Mesquita	playsFor	FC_Porto
+Acácio_Mesquita	isAffiliatedTo	FC_Porto
+Acácio_Mesquita	playsFor	FC_Porto
+
+http://dbpedia.org/resource/Estádio_do_Dragão	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FC_Porto
+Estádio_do_Dragão	FC_Porto
+Estádio_do_Dragão	isLocatedIn	Porto
+Estádio_do_Dragão	isLocatedIn	Porto
+Jorge_Filipe_Monteiro	wasBornIn	Porto
+Jorge_Filipe_Monteiro	wasBornIn	Porto
+Jorge_Filipe_Monteiro	isAffiliatedTo	FC_Porto
+Jorge_Filipe_Monteiro	playsFor	FC_Porto
+Jorge_Filipe_Monteiro	isAffiliatedTo	FC_Porto
+Jorge_Filipe_Monteiro	playsFor	FC_Porto
+
+http://dbpedia.org/resource/Estádio_do_Dragão	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FC_Porto
+Estádio_do_Dragão	FC_Porto
+FC_Porto	owns	Estádio_do_Dragão
+FC_Porto	owns	Estádio_do_Dragão
+
+http://dbpedia.org/resource/Pioneer_Hall_(Texas_Woman's_University)	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Texas
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Texas
+Texas_Woman's_University	isLocatedIn	Texas
+Texas_Woman's_University	isLocatedIn	Texas
+
+http://dbpedia.org/resource/Pioneer_Hall_(Texas_Woman's_University)	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Texas
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Texas
+Denton,_Texas	isLocatedIn	Texas
+Denton,_Texas	isLocatedIn	Texas
+Texas_Woman's_University	isLocatedIn	Denton,_Texas
+Texas_Woman's_University	isLocatedIn	Denton,_Texas
+
+http://dbpedia.org/resource/Pioneer_Hall_(Texas_Woman's_University)	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	Texas_Woman's_University
+Texas_Woman's_University	owns	Pioneer_Hall_(Texas_Woman's_University)
+Texas_Woman's_University	owns	Pioneer_Hall_(Texas_Woman's_University)
+
+http://dbpedia.org/resource/Pioneer_Hall_(Texas_Woman's_University)	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Denton,_Texas
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Denton,_Texas
+Texas_Woman's_University	isLocatedIn	Denton,_Texas
+Texas_Woman's_University	isLocatedIn	Denton,_Texas
+
+http://dbpedia.org/resource/Pioneer_Hall_(Texas_Woman's_University)	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Denton,_Texas
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Denton,_Texas
+Pauline_Gracia_Beery_Mack	diedIn	Denton,_Texas
+Pauline_Gracia_Beery_Mack	diedIn	Denton,_Texas
+Pauline_Gracia_Beery_Mack	worksAt	Texas_Woman's_University
+Pauline_Gracia_Beery_Mack	worksAt	Texas_Woman's_University
+
+http://dbpedia.org/resource/Pioneer_Hall_(Texas_Woman's_University)	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Denton,_Texas
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Denton,_Texas
+Denton,_Texas	isLocatedIn	Texas
+Denton,_Texas	isLocatedIn	Texas
+Texas_Woman's_University	isLocatedIn	Texas
+Texas_Woman's_University	isLocatedIn	Texas
+
+http://dbpedia.org/resource/Pioneer_Hall_(Texas_Woman's_University)	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Denton,_Texas
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Denton,_Texas
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Denton,_Texas
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Denton,_Texas
+Texas_Woman's_University	owns	Pioneer_Hall_(Texas_Woman's_University)
+Texas_Woman's_University	owns	Pioneer_Hall_(Texas_Woman's_University)
+
+http://dbpedia.org/resource/333_Wacker_Drive	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Hines_Interests_Limited_Partnership
+333_Wacker_Drive	Hines_Interests_Limited_Partnership
+333_Wacker_Drive	isLocatedIn	Illinois
+333_Wacker_Drive	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Illinois
+Hines_Interests_Limited_Partnership	created	321_North_Clark
+Hines_Interests_Limited_Partnership	owns	321_North_Clark
+Hines_Interests_Limited_Partnership	created	321_North_Clark
+Hines_Interests_Limited_Partnership	owns	321_North_Clark
+
+http://dbpedia.org/resource/333_Wacker_Drive	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Hines_Interests_Limited_Partnership
+333_Wacker_Drive	Hines_Interests_Limited_Partnership
+Kohn_Pedersen_Fox	created	333_Wacker_Drive
+Kohn_Pedersen_Fox	created	333_Wacker_Drive
+Kohn_Pedersen_Fox	created	333_Wacker_Drive
+Kohn_Pedersen_Fox	created	333_Wacker_Drive
+Hines_Interests_Limited_Partnership	owns	333_Wacker_Drive
+Hines_Interests_Limited_Partnership	owns	333_Wacker_Drive
+
+http://dbpedia.org/resource/333_Wacker_Drive	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Hines_Interests_Limited_Partnership
+333_Wacker_Drive	Hines_Interests_Limited_Partnership
+Hines_Interests_Limited_Partnership	owns	333_Wacker_Drive
+Hines_Interests_Limited_Partnership	owns	333_Wacker_Drive
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Anna_Jagiellon
+Wawel_Castle	Anna_Jagiellon
+Augustus_II_the_Strong	owns	Wawel_Castle
+Augustus_II_the_Strong	owns	Wawel_Castle
+Augustus_II_the_Strong	isCitizenOf	Lithuania
+Augustus_II_the_Strong	isCitizenOf	Lithuania
+Anna_Jagiellon	isCitizenOf	Lithuania
+Anna_Jagiellon	isCitizenOf	Lithuania
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Anna_Jagiellon
+Wawel_Castle	Anna_Jagiellon
+Michał_Korybut_Wiśniowiecki	owns	Wawel_Castle
+Michał_Korybut_Wiśniowiecki	owns	Wawel_Castle
+Michał_Korybut_Wiśniowiecki	isCitizenOf	Lithuania
+Michał_Korybut_Wiśniowiecki	isCitizenOf	Lithuania
+Anna_Jagiellon	isCitizenOf	Lithuania
+Anna_Jagiellon	isCitizenOf	Lithuania
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Anna_Jagiellon
+Wawel_Castle	Anna_Jagiellon
+Stephen_Báthory	owns	Wawel_Castle
+Stephen_Báthory	owns	Wawel_Castle
+Stephen_Báthory	isMarriedTo	Anna_Jagiellon
+Anna_Jagiellon	isMarriedTo	Stephen_Báthory
+Stephen_Báthory	isMarriedTo	Anna_Jagiellon
+Anna_Jagiellon	isMarriedTo	Stephen_Báthory
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Anna_Jagiellon
+Wawel_Castle	Anna_Jagiellon
+John_I_Albert	owns	Wawel_Castle
+John_I_Albert	owns	Wawel_Castle
+John_I_Albert	owns	Wawel_Castle
+John_I_Albert	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Anna_Jagiellon
+Wawel_Castle	Anna_Jagiellon
+Wawel_Castle	isLocatedIn	Lesser_Poland_Voivodeship
+Wawel_Castle	isLocatedIn	Lesser_Poland_Voivodeship
+Wawel_Castle	isLocatedIn	Lesser_Poland_Voivodeship
+Wawel_Castle	isLocatedIn	Lesser_Poland_Voivodeship
+Anna_Jagiellon	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Anna_Jagiellon
+Wawel_Castle	Anna_Jagiellon
+Stanisław_Leszczyński	owns	Wawel_Castle
+Stanisław_Leszczyński	owns	Wawel_Castle
+Stanisław_Leszczyński	owns	Wawel_Castle
+Stanisław_Leszczyński	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Anna_Jagiellon
+Wawel_Castle	Anna_Jagiellon
+Stanisław_Leszczyński	owns	Wawel_Castle
+Stanisław_Leszczyński	owns	Wawel_Castle
+Stanisław_Leszczyński	isCitizenOf	Lithuania
+Stanisław_Leszczyński	isCitizenOf	Lithuania
+Anna_Jagiellon	isCitizenOf	Lithuania
+Anna_Jagiellon	isCitizenOf	Lithuania
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Anna_Jagiellon
+Wawel_Castle	Anna_Jagiellon
+Sigismund_I_the_Old	owns	Wawel_Castle
+Sigismund_I_the_Old	owns	Wawel_Castle
+Sigismund_I_the_Old	isCitizenOf	Lithuania
+Sigismund_I_the_Old	isCitizenOf	Lithuania
+Anna_Jagiellon	isCitizenOf	Lithuania
+Anna_Jagiellon	isCitizenOf	Lithuania
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Anna_Jagiellon
+Wawel_Castle	Anna_Jagiellon
+John_II_Casimir_Vasa	owns	Wawel_Castle
+John_II_Casimir_Vasa	owns	Wawel_Castle
+John_II_Casimir_Vasa	owns	Wawel_Castle
+John_II_Casimir_Vasa	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Anna_Jagiellon
+Wawel_Castle	Anna_Jagiellon
+Władysław_III_of_Poland	owns	Wawel_Castle
+Władysław_III_of_Poland	owns	Wawel_Castle
+Władysław_III_of_Poland	owns	Wawel_Castle
+Władysław_III_of_Poland	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Anna_Jagiellon
+Wawel_Castle	Anna_Jagiellon
+Władysław_IV_Vasa	owns	Wawel_Castle
+Władysław_IV_Vasa	owns	Wawel_Castle
+Władysław_IV_Vasa	owns	Wawel_Castle
+Władysław_IV_Vasa	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Anna_Jagiellon
+Wawel_Castle	Anna_Jagiellon
+Władysław_II_Jagiełło	owns	Wawel_Castle
+Władysław_II_Jagiełło	owns	Wawel_Castle
+Władysław_II_Jagiełło	owns	Wawel_Castle
+Władysław_II_Jagiełło	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Anna_Jagiellon
+Wawel_Castle	Anna_Jagiellon
+Władysław_II_Jagiełło	owns	Wawel_Castle
+Władysław_II_Jagiełło	owns	Wawel_Castle
+Władysław_II_Jagiełło	isCitizenOf	Lithuania
+Władysław_II_Jagiełło	isCitizenOf	Lithuania
+Anna_Jagiellon	isCitizenOf	Lithuania
+Anna_Jagiellon	isCitizenOf	Lithuania
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Anna_Jagiellon
+Wawel_Castle	Anna_Jagiellon
+Anna_Jagiellon	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Anna_Jagiellon
+Wawel_Castle	Anna_Jagiellon
+Louis_I_of_Hungary	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Biomet	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/The_Blackstone_Group
+Biomet	The_Blackstone_Group
+Kohlberg_Kravis_Roberts	owns	Biomet
+Kohlberg_Kravis_Roberts	owns	Biomet
+Kohlberg_Kravis_Roberts	owns	Biomet
+Kohlberg_Kravis_Roberts	owns	Biomet
+The_Blackstone_Group	owns	Biomet
+The_Blackstone_Group	owns	Biomet
+
+http://dbpedia.org/resource/Biomet	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/The_Blackstone_Group
+Biomet	The_Blackstone_Group
+The_Blackstone_Group	owns	Biomet
+The_Blackstone_Group	owns	Biomet
+
+http://dbpedia.org/resource/Biomet	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/The_Blackstone_Group
+Biomet	The_Blackstone_Group
+TPG_Capital	owns	Biomet
+TPG_Capital	owns	Biomet
+TPG_Capital	owns	Biomet
+TPG_Capital	owns	Biomet
+The_Blackstone_Group	owns	Biomet
+The_Blackstone_Group	owns	Biomet
+
+http://dbpedia.org/resource/Biomet	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/The_Blackstone_Group
+Biomet	The_Blackstone_Group
+Goldman_Sachs	owns	Biomet
+Goldman_Sachs	owns	Biomet
+Goldman_Sachs	owns	Biomet
+Goldman_Sachs	owns	Biomet
+The_Blackstone_Group	owns	Biomet
+The_Blackstone_Group	owns	Biomet
+
+http://dbpedia.org/resource/Tiburones_Rojos_de_Veracruz_Premier	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Fidel_Kuri_Grajales
+Tiburones_Rojos_de_Veracruz_Premier	Fidel_Kuri_Grajales
+Germán_Arangio	isAffiliatedTo	Tiburones_Rojos_de_Veracruz_Premier
+Germán_Arangio	playsFor	Tiburones_Rojos_de_Veracruz_Premier
+Germán_Arangio	isAffiliatedTo	Tiburones_Rojos_de_Veracruz_Premier
+Germán_Arangio	playsFor	Tiburones_Rojos_de_Veracruz_Premier
+Germán_Arangio	isAffiliatedTo	Albinegros_de_Orizaba
+Germán_Arangio	isAffiliatedTo	Albinegros_de_Orizaba
+Fidel_Kuri_Grajales	owns	Albinegros_de_Orizaba
+Fidel_Kuri_Grajales	owns	Albinegros_de_Orizaba
+
+http://dbpedia.org/resource/Tiburones_Rojos_de_Veracruz_Premier	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Fidel_Kuri_Grajales
+Tiburones_Rojos_de_Veracruz_Premier	Fidel_Kuri_Grajales
+Melitón_Hernández	isAffiliatedTo	Tiburones_Rojos_de_Veracruz_Premier
+Melitón_Hernández	isAffiliatedTo	Tiburones_Rojos_de_Veracruz_Premier
+Melitón_Hernández	isAffiliatedTo	Albinegros_de_Orizaba
+Melitón_Hernández	playsFor	Albinegros_de_Orizaba
+Melitón_Hernández	isAffiliatedTo	Albinegros_de_Orizaba
+Melitón_Hernández	playsFor	Albinegros_de_Orizaba
+Fidel_Kuri_Grajales	owns	Albinegros_de_Orizaba
+Fidel_Kuri_Grajales	owns	Albinegros_de_Orizaba
+
+http://dbpedia.org/resource/Tiburones_Rojos_de_Veracruz_Premier	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Fidel_Kuri_Grajales
+Tiburones_Rojos_de_Veracruz_Premier	Fidel_Kuri_Grajales
+Ricardo_Munguía_Pérez	isAffiliatedTo	Tiburones_Rojos_de_Veracruz_Premier
+Ricardo_Munguía_Pérez	playsFor	Tiburones_Rojos_de_Veracruz_Premier
+Ricardo_Munguía_Pérez	isAffiliatedTo	Tiburones_Rojos_de_Veracruz_Premier
+Ricardo_Munguía_Pérez	playsFor	Tiburones_Rojos_de_Veracruz_Premier
+Ricardo_Munguía_Pérez	isAffiliatedTo	Albinegros_de_Orizaba
+Ricardo_Munguía_Pérez	playsFor	Albinegros_de_Orizaba
+Ricardo_Munguía_Pérez	isAffiliatedTo	Albinegros_de_Orizaba
+Ricardo_Munguía_Pérez	playsFor	Albinegros_de_Orizaba
+Fidel_Kuri_Grajales	owns	Albinegros_de_Orizaba
+Fidel_Kuri_Grajales	owns	Albinegros_de_Orizaba
+
+http://dbpedia.org/resource/Siam_Paragon	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Siam_Piwat
+Siam_Paragon	Siam_Piwat
+Siam_Paragon	isLocatedIn	Bangkok
+Siam_Paragon	isLocatedIn	Bangkok
+Siam_Piwat	isLocatedIn	Bangkok
+Siam_Piwat	isLocatedIn	Bangkok
+
+http://dbpedia.org/resource/Siam_Paragon	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Siam_Piwat
+Siam_Paragon	Siam_Piwat
+Siam_Paragon	isLocatedIn	Pathum_Wan_District
+Siam_Paragon	isLocatedIn	Pathum_Wan_District
+Pathum_Wan_District	isLocatedIn	Bangkok
+Pathum_Wan_District	isLocatedIn	Bangkok
+Siam_Piwat	isLocatedIn	Bangkok
+Siam_Piwat	isLocatedIn	Bangkok
+
+http://dbpedia.org/resource/Siam_Paragon	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Siam_Piwat
+Siam_Paragon	Siam_Piwat
+Siam_Paragon	isLocatedIn	Pathum_Wan_District
+Siam_Paragon	isLocatedIn	Pathum_Wan_District
+Siam_Center	isLocatedIn	Pathum_Wan_District
+Siam_Center	isLocatedIn	Pathum_Wan_District
+Siam_Piwat	created	Siam_Center
+Siam_Piwat	owns	Siam_Center
+Siam_Piwat	created	Siam_Center
+Siam_Piwat	owns	Siam_Center
+
+http://dbpedia.org/resource/Siam_Paragon	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Siam_Piwat
+Siam_Paragon	Siam_Piwat
+Crown_Property_Bureau	owns	Siam_Paragon
+Crown_Property_Bureau	owns	Siam_Paragon
+Crown_Property_Bureau	isLocatedIn	Bangkok
+Crown_Property_Bureau	isLocatedIn	Bangkok
+Siam_Piwat	isLocatedIn	Bangkok
+Siam_Piwat	isLocatedIn	Bangkok
+
+http://dbpedia.org/resource/Holt_Arena	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Idaho_State_University
+Holt_Arena	Idaho_State_University
+Holt_Arena	isLocatedIn	Idaho
+Holt_Arena	isLocatedIn	Idaho
+Idaho_State_University	isLocatedIn	Idaho
+Idaho_State_University	isLocatedIn	Idaho
+
+http://dbpedia.org/resource/Holt_Arena	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Idaho_State_University
+Holt_Arena	Idaho_State_University
+Holt_Arena	isLocatedIn	Idaho
+Holt_Arena	isLocatedIn	Idaho
+Patrick_McDonald_(Idaho_politician)	livesIn	Idaho
+Patrick_McDonald_(Idaho_politician)	livesIn	Idaho
+Patrick_McDonald_(Idaho_politician)	graduatedFrom	Idaho_State_University
+Patrick_McDonald_(Idaho_politician)	graduatedFrom	Idaho_State_University
+
+http://dbpedia.org/resource/Holt_Arena	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Idaho_State_University
+Holt_Arena	Idaho_State_University
+Holt_Arena	isLocatedIn	Idaho
+Holt_Arena	isLocatedIn	Idaho
+Holt_Arena	isLocatedIn	Idaho
+Holt_Arena	isLocatedIn	Idaho
+Idaho_State_University	owns	Holt_Arena
+Idaho_State_University	owns	Holt_Arena
+
+http://dbpedia.org/resource/Holt_Arena	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Idaho_State_University
+Holt_Arena	Idaho_State_University
+Holt_Arena	isLocatedIn	Pocatello,_Idaho
+Holt_Arena	isLocatedIn	Pocatello,_Idaho
+Pocatello,_Idaho	isLocatedIn	Idaho
+Pocatello,_Idaho	isLocatedIn	Idaho
+Idaho_State_University	isLocatedIn	Idaho
+Idaho_State_University	isLocatedIn	Idaho
+
+http://dbpedia.org/resource/Holt_Arena	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Idaho_State_University
+Holt_Arena	Idaho_State_University
+Holt_Arena	isLocatedIn	Pocatello,_Idaho
+Holt_Arena	isLocatedIn	Pocatello,_Idaho
+Holt_Arena	isLocatedIn	Pocatello,_Idaho
+Holt_Arena	isLocatedIn	Pocatello,_Idaho
+Idaho_State_University	owns	Holt_Arena
+Idaho_State_University	owns	Holt_Arena
+
+http://dbpedia.org/resource/Holt_Arena	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Idaho_State_University
+Holt_Arena	Idaho_State_University
+Idaho_State_University	owns	Holt_Arena
+Idaho_State_University	owns	Holt_Arena
+
+http://dbpedia.org/resource/321_North_Clark	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Hines_Interests_Limited_Partnership
+321_North_Clark	Hines_Interests_Limited_Partnership
+Hines_Interests_Limited_Partnership	created	321_North_Clark
+Hines_Interests_Limited_Partnership	owns	321_North_Clark
+Hines_Interests_Limited_Partnership	created	321_North_Clark
+Hines_Interests_Limited_Partnership	owns	321_North_Clark
+
+http://dbpedia.org/resource/321_North_Clark	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Hines_Interests_Limited_Partnership
+321_North_Clark	Hines_Interests_Limited_Partnership
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+Skidmore,_Owings_&_Merrill	created	One_Shell_Plaza
+Skidmore,_Owings_&_Merrill	created	One_Shell_Plaza
+Hines_Interests_Limited_Partnership	created	One_Shell_Plaza
+Hines_Interests_Limited_Partnership	created	One_Shell_Plaza
+
+http://dbpedia.org/resource/321_North_Clark	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Hines_Interests_Limited_Partnership
+321_North_Clark	Hines_Interests_Limited_Partnership
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+Hines_Interests_Limited_Partnership	created	321_North_Clark
+Hines_Interests_Limited_Partnership	owns	321_North_Clark
+Hines_Interests_Limited_Partnership	created	321_North_Clark
+Hines_Interests_Limited_Partnership	owns	321_North_Clark
+
+http://dbpedia.org/resource/321_North_Clark	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Hines_Interests_Limited_Partnership
+321_North_Clark	Hines_Interests_Limited_Partnership
+321_North_Clark	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Illinois
+Hines_Interests_Limited_Partnership	created	321_North_Clark
+Hines_Interests_Limited_Partnership	owns	321_North_Clark
+Hines_Interests_Limited_Partnership	created	321_North_Clark
+Hines_Interests_Limited_Partnership	owns	321_North_Clark
+
+http://dbpedia.org/resource/Ilitch_Holdings	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Mike_Ilitch
+Ilitch_Holdings	Mike_Ilitch
+Marian_Ilitch	owns	Ilitch_Holdings
+Marian_Ilitch	created	Ilitch_Holdings
+Marian_Ilitch	owns	Ilitch_Holdings
+Marian_Ilitch	created	Ilitch_Holdings
+Mike_Ilitch	isMarriedTo	Marian_Ilitch
+Marian_Ilitch	isMarriedTo	Mike_Ilitch
+Mike_Ilitch	isMarriedTo	Marian_Ilitch
+Marian_Ilitch	isMarriedTo	Mike_Ilitch
+
+http://dbpedia.org/resource/Estadio_Alejandro_Villanueva	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alianza_Lima
+Estadio_Alejandro_Villanueva	Alianza_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Lima
+Martín_Hidalgo	wasBornIn	Lima
+Martín_Hidalgo	wasBornIn	Lima
+Martín_Hidalgo	playsFor	Alianza_Lima
+Martín_Hidalgo	isAffiliatedTo	Alianza_Lima
+Martín_Hidalgo	playsFor	Alianza_Lima
+Martín_Hidalgo	isAffiliatedTo	Alianza_Lima
+
+http://dbpedia.org/resource/Estadio_Alejandro_Villanueva	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alianza_Lima
+Estadio_Alejandro_Villanueva	Alianza_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Lima
+Waldir_Sáenz	wasBornIn	Lima
+Waldir_Sáenz	wasBornIn	Lima
+Waldir_Sáenz	playsFor	Alianza_Lima
+Waldir_Sáenz	isAffiliatedTo	Alianza_Lima
+Waldir_Sáenz	playsFor	Alianza_Lima
+Waldir_Sáenz	isAffiliatedTo	Alianza_Lima
+
+http://dbpedia.org/resource/Estadio_Alejandro_Villanueva	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alianza_Lima
+Estadio_Alejandro_Villanueva	Alianza_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Lima
+Alianza_Lima	isLocatedIn	Lima
+Alianza_Lima	isLocatedIn	Lima
+
+http://dbpedia.org/resource/Estadio_Alejandro_Villanueva	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alianza_Lima
+Estadio_Alejandro_Villanueva	Alianza_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Lima
+Salomón_Libman	wasBornIn	Lima
+Salomón_Libman	wasBornIn	Lima
+Salomón_Libman	playsFor	Alianza_Lima
+Salomón_Libman	isAffiliatedTo	Alianza_Lima
+Salomón_Libman	playsFor	Alianza_Lima
+Salomón_Libman	isAffiliatedTo	Alianza_Lima
+
+http://dbpedia.org/resource/Estadio_Alejandro_Villanueva	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alianza_Lima
+Estadio_Alejandro_Villanueva	Alianza_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Lima
+Alejandro_Hohberg	wasBornIn	Lima
+Alejandro_Hohberg	wasBornIn	Lima
+Alejandro_Hohberg	playsFor	Alianza_Lima
+Alejandro_Hohberg	isAffiliatedTo	Alianza_Lima
+Alejandro_Hohberg	playsFor	Alianza_Lima
+Alejandro_Hohberg	isAffiliatedTo	Alianza_Lima
+
+http://dbpedia.org/resource/Estadio_Alejandro_Villanueva	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alianza_Lima
+Estadio_Alejandro_Villanueva	Alianza_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Peru
+Estadio_Alejandro_Villanueva	isLocatedIn	Peru
+Augusto_Palacios	isCitizenOf	Peru
+Augusto_Palacios	isCitizenOf	Peru
+Augusto_Palacios	isAffiliatedTo	Alianza_Lima
+Augusto_Palacios	playsFor	Alianza_Lima
+Augusto_Palacios	isAffiliatedTo	Alianza_Lima
+Augusto_Palacios	playsFor	Alianza_Lima
+
+http://dbpedia.org/resource/Estadio_Alejandro_Villanueva	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alianza_Lima
+Estadio_Alejandro_Villanueva	Alianza_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	Peru
+Estadio_Alejandro_Villanueva	isLocatedIn	Peru
+Jorge_Sarmiento	isCitizenOf	Peru
+Jorge_Sarmiento	isCitizenOf	Peru
+Jorge_Sarmiento	isAffiliatedTo	Alianza_Lima
+Jorge_Sarmiento	playsFor	Alianza_Lima
+Jorge_Sarmiento	isAffiliatedTo	Alianza_Lima
+Jorge_Sarmiento	playsFor	Alianza_Lima
+
+http://dbpedia.org/resource/Estadio_Alejandro_Villanueva	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alianza_Lima
+Estadio_Alejandro_Villanueva	Alianza_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	La_Victoria_District,_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	La_Victoria_District,_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	La_Victoria_District,_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	La_Victoria_District,_Lima
+Alianza_Lima	owns	Estadio_Alejandro_Villanueva
+Alianza_Lima	owns	Estadio_Alejandro_Villanueva
+
+http://dbpedia.org/resource/Estadio_Alejandro_Villanueva	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alianza_Lima
+Estadio_Alejandro_Villanueva	Alianza_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	La_Victoria_District,_Lima
+Estadio_Alejandro_Villanueva	isLocatedIn	La_Victoria_District,_Lima
+Johnny_Watson_(footballer)	wasBornIn	La_Victoria_District,_Lima
+Johnny_Watson_(footballer)	wasBornIn	La_Victoria_District,_Lima
+Johnny_Watson_(footballer)	isAffiliatedTo	Alianza_Lima
+Johnny_Watson_(footballer)	playsFor	Alianza_Lima
+Johnny_Watson_(footballer)	isAffiliatedTo	Alianza_Lima
+Johnny_Watson_(footballer)	playsFor	Alianza_Lima
+
+http://dbpedia.org/resource/Estadio_Alejandro_Villanueva	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alianza_Lima
+Estadio_Alejandro_Villanueva	Alianza_Lima
+Alianza_Lima	owns	Estadio_Alejandro_Villanueva
+Alianza_Lima	owns	Estadio_Alejandro_Villanueva
+
+http://dbpedia.org/resource/WKHL	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Educational_Media_Foundation
+WKHL	Educational_Media_Foundation
+Educational_Media_Foundation	owns	WKHL
+Educational_Media_Foundation	owns	WKHL
+
+http://dbpedia.org/resource/WKHL	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Educational_Media_Foundation
+WKHL	Educational_Media_Foundation
+WKHL	isLocatedIn	West_Lafayette,_Indiana
+WKHL	isLocatedIn	West_Lafayette,_Indiana
+WKHL	isLocatedIn	West_Lafayette,_Indiana
+WKHL	isLocatedIn	West_Lafayette,_Indiana
+Educational_Media_Foundation	owns	WKHL
+Educational_Media_Foundation	owns	WKHL
+
+http://dbpedia.org/resource/ExxonMobil_Tower	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/KLCC_Property_Holdings
+ExxonMobil_Tower	KLCC_Property_Holdings
+KLCC_Property_Holdings	owns	ExxonMobil_Tower
+KLCC_Property_Holdings	owns	ExxonMobil_Tower
+
+http://dbpedia.org/resource/ExxonMobil_Tower	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/KLCC_Property_Holdings
+ExxonMobil_Tower	KLCC_Property_Holdings
+ExxonMobil_Tower	isLocatedIn	Kuala_Lumpur_City_Centre
+ExxonMobil_Tower	isLocatedIn	Kuala_Lumpur_City_Centre
+ExxonMobil_Tower	isLocatedIn	Kuala_Lumpur_City_Centre
+ExxonMobil_Tower	isLocatedIn	Kuala_Lumpur_City_Centre
+KLCC_Property_Holdings	owns	ExxonMobil_Tower
+KLCC_Property_Holdings	owns	ExxonMobil_Tower
+
+http://dbpedia.org/resource/ExxonMobil_Tower	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/KLCC_Property_Holdings
+ExxonMobil_Tower	KLCC_Property_Holdings
+ExxonMobil_Tower	isLocatedIn	Kuala_Lumpur_City_Centre
+ExxonMobil_Tower	isLocatedIn	Kuala_Lumpur_City_Centre
+Suria_KLCC	isLocatedIn	Kuala_Lumpur_City_Centre
+Suria_KLCC	isLocatedIn	Kuala_Lumpur_City_Centre
+KLCC_Property_Holdings	created	Suria_KLCC
+KLCC_Property_Holdings	created	Suria_KLCC
+
+http://dbpedia.org/resource/ExxonMobil_Tower	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/KLCC_Property_Holdings
+ExxonMobil_Tower	KLCC_Property_Holdings
+ExxonMobil_Tower	isLocatedIn	Kuala_Lumpur
+ExxonMobil_Tower	isLocatedIn	Kuala_Lumpur
+ExxonMobil_Tower	isLocatedIn	Kuala_Lumpur
+ExxonMobil_Tower	isLocatedIn	Kuala_Lumpur
+KLCC_Property_Holdings	owns	ExxonMobil_Tower
+KLCC_Property_Holdings	owns	ExxonMobil_Tower
+
+http://dbpedia.org/resource/ExxonMobil_Tower	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/KLCC_Property_Holdings
+ExxonMobil_Tower	KLCC_Property_Holdings
+ExxonMobil_Tower	isLocatedIn	Kuala_Lumpur
+ExxonMobil_Tower	isLocatedIn	Kuala_Lumpur
+Suria_KLCC	isLocatedIn	Kuala_Lumpur
+Suria_KLCC	isLocatedIn	Kuala_Lumpur
+KLCC_Property_Holdings	created	Suria_KLCC
+KLCC_Property_Holdings	created	Suria_KLCC
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Sigismund_I_the_Old
+Wawel_Castle	Sigismund_I_the_Old
+Alexander_Jagiellon	owns	Wawel_Castle
+Alexander_Jagiellon	owns	Wawel_Castle
+Elizabeth_of_Austria_(1436–1505)	hasChild	Alexander_Jagiellon
+Elizabeth_of_Austria_(1436–1505)	hasChild	Alexander_Jagiellon
+Elizabeth_of_Austria_(1436–1505)	hasChild	Sigismund_I_the_Old
+Elizabeth_of_Austria_(1436–1505)	hasChild	Sigismund_I_the_Old
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Sigismund_I_the_Old
+Wawel_Castle	Sigismund_I_the_Old
+Sigismund_II_Augustus	owns	Wawel_Castle
+Sigismund_II_Augustus	owns	Wawel_Castle
+Sigismund_I_the_Old	hasChild	Sigismund_II_Augustus
+Sigismund_I_the_Old	hasChild	Sigismund_II_Augustus
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Sigismund_I_the_Old
+Wawel_Castle	Sigismund_I_the_Old
+Casimir_IV_Jagiellon	owns	Wawel_Castle
+Casimir_IV_Jagiellon	owns	Wawel_Castle
+Elizabeth_of_Austria_(1436–1505)	isMarriedTo	Casimir_IV_Jagiellon
+Casimir_IV_Jagiellon	isMarriedTo	Elizabeth_of_Austria_(1436–1505)
+Elizabeth_of_Austria_(1436–1505)	isMarriedTo	Casimir_IV_Jagiellon
+Casimir_IV_Jagiellon	isMarriedTo	Elizabeth_of_Austria_(1436–1505)
+Elizabeth_of_Austria_(1436–1505)	hasChild	Sigismund_I_the_Old
+Elizabeth_of_Austria_(1436–1505)	hasChild	Sigismund_I_the_Old
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Sigismund_I_the_Old
+Wawel_Castle	Sigismund_I_the_Old
+John_I_Albert	owns	Wawel_Castle
+John_I_Albert	owns	Wawel_Castle
+Elizabeth_of_Austria_(1436–1505)	hasChild	John_I_Albert
+Elizabeth_of_Austria_(1436–1505)	hasChild	John_I_Albert
+Elizabeth_of_Austria_(1436–1505)	hasChild	Sigismund_I_the_Old
+Elizabeth_of_Austria_(1436–1505)	hasChild	Sigismund_I_the_Old
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Sigismund_I_the_Old
+Wawel_Castle	Sigismund_I_the_Old
+John_I_Albert	owns	Wawel_Castle
+John_I_Albert	owns	Wawel_Castle
+John_I_Albert	owns	Wawel_Castle
+John_I_Albert	owns	Wawel_Castle
+Sigismund_I_the_Old	owns	Wawel_Castle
+Sigismund_I_the_Old	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Sigismund_I_the_Old
+Wawel_Castle	Sigismund_I_the_Old
+Wawel_Castle	isLocatedIn	Lesser_Poland_Voivodeship
+Wawel_Castle	isLocatedIn	Lesser_Poland_Voivodeship
+Wawel_Castle	isLocatedIn	Lesser_Poland_Voivodeship
+Wawel_Castle	isLocatedIn	Lesser_Poland_Voivodeship
+Sigismund_I_the_Old	owns	Wawel_Castle
+Sigismund_I_the_Old	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Sigismund_I_the_Old
+Wawel_Castle	Sigismund_I_the_Old
+Stanisław_Leszczyński	owns	Wawel_Castle
+Stanisław_Leszczyński	owns	Wawel_Castle
+Stanisław_Leszczyński	owns	Wawel_Castle
+Stanisław_Leszczyński	owns	Wawel_Castle
+Sigismund_I_the_Old	owns	Wawel_Castle
+Sigismund_I_the_Old	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Sigismund_I_the_Old
+Wawel_Castle	Sigismund_I_the_Old
+Sigismund_I_the_Old	owns	Wawel_Castle
+Sigismund_I_the_Old	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Sigismund_I_the_Old
+Wawel_Castle	Sigismund_I_the_Old
+John_II_Casimir_Vasa	owns	Wawel_Castle
+John_II_Casimir_Vasa	owns	Wawel_Castle
+John_II_Casimir_Vasa	owns	Wawel_Castle
+John_II_Casimir_Vasa	owns	Wawel_Castle
+Sigismund_I_the_Old	owns	Wawel_Castle
+Sigismund_I_the_Old	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Sigismund_I_the_Old
+Wawel_Castle	Sigismund_I_the_Old
+Władysław_III_of_Poland	owns	Wawel_Castle
+Władysław_III_of_Poland	owns	Wawel_Castle
+Władysław_III_of_Poland	owns	Wawel_Castle
+Władysław_III_of_Poland	owns	Wawel_Castle
+Sigismund_I_the_Old	owns	Wawel_Castle
+Sigismund_I_the_Old	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Sigismund_I_the_Old
+Wawel_Castle	Sigismund_I_the_Old
+Władysław_IV_Vasa	owns	Wawel_Castle
+Władysław_IV_Vasa	owns	Wawel_Castle
+Władysław_IV_Vasa	owns	Wawel_Castle
+Władysław_IV_Vasa	owns	Wawel_Castle
+Sigismund_I_the_Old	owns	Wawel_Castle
+Sigismund_I_the_Old	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Sigismund_I_the_Old
+Wawel_Castle	Sigismund_I_the_Old
+Władysław_II_Jagiełło	owns	Wawel_Castle
+Władysław_II_Jagiełło	owns	Wawel_Castle
+Władysław_II_Jagiełło	owns	Wawel_Castle
+Władysław_II_Jagiełło	owns	Wawel_Castle
+Sigismund_I_the_Old	owns	Wawel_Castle
+Sigismund_I_the_Old	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Sigismund_I_the_Old
+Wawel_Castle	Sigismund_I_the_Old
+Anna_Jagiellon	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+Sigismund_I_the_Old	owns	Wawel_Castle
+Sigismund_I_the_Old	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Sigismund_I_the_Old
+Wawel_Castle	Sigismund_I_the_Old
+Louis_I_of_Hungary	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+Sigismund_I_the_Old	owns	Wawel_Castle
+Sigismund_I_the_Old	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Debswana	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/De_Beers
+Debswana	De_Beers
+De_Beers	owns	Debswana
+De_Beers	owns	Debswana
+
+http://dbpedia.org/resource/WNAM	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Cumulus_Media
+WNAM	Cumulus_Media
+WNAM	isLocatedIn	Menasha,_Wisconsin
+WNAM	isLocatedIn	Menasha,_Wisconsin
+WNAM	isLocatedIn	Menasha,_Wisconsin
+WNAM	isLocatedIn	Menasha,_Wisconsin
+Cumulus_Media	owns	WNAM
+Cumulus_Media	owns	WNAM
+
+http://dbpedia.org/resource/WNAM	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Cumulus_Media
+WNAM	Cumulus_Media
+Cumulus_Media	owns	WNAM
+Cumulus_Media	owns	WNAM
+
+http://dbpedia.org/resource/Čakovec_Hydroelectric_Power_Plant	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Hrvatska_elektroprivreda
+Čakovec_Hydroelectric_Power_Plant	Hrvatska_elektroprivreda
+Hrvatska_elektroprivreda	owns	Čakovec_Hydroelectric_Power_Plant
+Hrvatska_elektroprivreda	owns	Čakovec_Hydroelectric_Power_Plant
+
+http://dbpedia.org/resource/Čakovec_Hydroelectric_Power_Plant	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Hrvatska_elektroprivreda
+Čakovec_Hydroelectric_Power_Plant	Hrvatska_elektroprivreda
+Čakovec_Hydroelectric_Power_Plant	isLocatedIn	Međimurje_County
+Čakovec_Hydroelectric_Power_Plant	isLocatedIn	Međimurje_County
+Čakovec_Hydroelectric_Power_Plant	isLocatedIn	Međimurje_County
+Čakovec_Hydroelectric_Power_Plant	isLocatedIn	Međimurje_County
+Hrvatska_elektroprivreda	owns	Čakovec_Hydroelectric_Power_Plant
+Hrvatska_elektroprivreda	owns	Čakovec_Hydroelectric_Power_Plant
+
+http://dbpedia.org/resource/Velebit_Pumped_Storage_Power_Plant	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Hrvatska_elektroprivreda
+Velebit_Pumped_Storage_Power_Plant	Hrvatska_elektroprivreda
+Velebit_Pumped_Storage_Power_Plant	isLocatedIn	Obrovac,_Croatia
+Velebit_Pumped_Storage_Power_Plant	isLocatedIn	Obrovac,_Croatia
+Velebit_Pumped_Storage_Power_Plant	isLocatedIn	Obrovac,_Croatia
+Velebit_Pumped_Storage_Power_Plant	isLocatedIn	Obrovac,_Croatia
+Hrvatska_elektroprivreda	owns	Velebit_Pumped_Storage_Power_Plant
+Hrvatska_elektroprivreda	owns	Velebit_Pumped_Storage_Power_Plant
+
+http://dbpedia.org/resource/Velebit_Pumped_Storage_Power_Plant	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Hrvatska_elektroprivreda
+Velebit_Pumped_Storage_Power_Plant	Hrvatska_elektroprivreda
+Hrvatska_elektroprivreda	owns	Velebit_Pumped_Storage_Power_Plant
+Hrvatska_elektroprivreda	owns	Velebit_Pumped_Storage_Power_Plant
+
+http://dbpedia.org/resource/South_Hills_Village	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Simon_Property_Group
+South_Hills_Village	Simon_Property_Group
+Simon_Property_Group	owns	South_Hills_Village
+Simon_Property_Group	owns	South_Hills_Village
+
+http://dbpedia.org/resource/South_Hills_Village	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Simon_Property_Group
+South_Hills_Village	Simon_Property_Group
+South_Hills_Village	isLocatedIn	U.S._Route_19
+South_Hills_Village	isLocatedIn	U.S._Route_19
+South_Hills_Village	isLocatedIn	U.S._Route_19
+South_Hills_Village	isLocatedIn	U.S._Route_19
+Simon_Property_Group	owns	South_Hills_Village
+Simon_Property_Group	owns	South_Hills_Village
+
+http://dbpedia.org/resource/South_Hills_Village	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Simon_Property_Group
+South_Hills_Village	Simon_Property_Group
+South_Hills_Village	isLocatedIn	Pittsburgh
+South_Hills_Village	isLocatedIn	Pittsburgh
+South_Hills_Village	isLocatedIn	Pittsburgh
+South_Hills_Village	isLocatedIn	Pittsburgh
+Simon_Property_Group	owns	South_Hills_Village
+Simon_Property_Group	owns	South_Hills_Village
+
+http://dbpedia.org/resource/Rajshahi_University_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/University_of_Rajshahi
+Rajshahi_University_Stadium	University_of_Rajshahi
+University_of_Rajshahi	owns	Rajshahi_University_Stadium
+University_of_Rajshahi	owns	Rajshahi_University_Stadium
+
+http://dbpedia.org/resource/Rajshahi_University_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/University_of_Rajshahi
+Rajshahi_University_Stadium	University_of_Rajshahi
+Rajshahi_University_Stadium	isLocatedIn	Rajshahi
+Rajshahi_University_Stadium	isLocatedIn	Rajshahi
+University_of_Rajshahi	isLocatedIn	Rajshahi
+University_of_Rajshahi	isLocatedIn	Rajshahi
+
+http://dbpedia.org/resource/Rajshahi_University_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/University_of_Rajshahi
+Rajshahi_University_Stadium	University_of_Rajshahi
+Rajshahi_University_Stadium	isLocatedIn	Rajshahi
+Rajshahi_University_Stadium	isLocatedIn	Rajshahi
+Rajshahi_University_Stadium	isLocatedIn	Rajshahi
+Rajshahi_University_Stadium	isLocatedIn	Rajshahi
+University_of_Rajshahi	owns	Rajshahi_University_Stadium
+University_of_Rajshahi	owns	Rajshahi_University_Stadium
+
+http://dbpedia.org/resource/Estadio_Sergio_León_Chávez	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Irapuato_F.C.
+Estadio_Sergio_León_Chávez	Irapuato_F.C.
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Irapuato_F.C.	owns	Estadio_Sergio_León_Chávez
+Irapuato_F.C.	owns	Estadio_Sergio_León_Chávez
+
+http://dbpedia.org/resource/Estadio_Sergio_León_Chávez	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Irapuato_F.C.
+Estadio_Sergio_León_Chávez	Irapuato_F.C.
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Jaime_Belmonte	diedIn	Irapuato
+Jaime_Belmonte	diedIn	Irapuato
+Jaime_Belmonte	isAffiliatedTo	Irapuato_F.C.
+Jaime_Belmonte	playsFor	Irapuato_F.C.
+Jaime_Belmonte	isAffiliatedTo	Irapuato_F.C.
+Jaime_Belmonte	playsFor	Irapuato_F.C.
+
+http://dbpedia.org/resource/Estadio_Sergio_León_Chávez	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Irapuato_F.C.
+Estadio_Sergio_León_Chávez	Irapuato_F.C.
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Irapuato_F.C.	isLocatedIn	Irapuato
+Irapuato_F.C.	isLocatedIn	Irapuato
+
+http://dbpedia.org/resource/Estadio_Sergio_León_Chávez	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Irapuato_F.C.
+Estadio_Sergio_León_Chávez	Irapuato_F.C.
+Irapuato_F.C.	owns	Estadio_Sergio_León_Chávez
+Irapuato_F.C.	owns	Estadio_Sergio_León_Chávez
+
+http://dbpedia.org/resource/Eusko_Trenbideak_–_Ferrocarriles_Vascos	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Basque_Government
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	Basque_Government
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	isLocatedIn	Bilbao
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	isLocatedIn	Bilbao
+Basque_Country_(greater_region)	hasCapital	Bilbao
+Basque_Country_(greater_region)	hasCapital	Bilbao
+Basque_Government	isLocatedIn	Basque_Country_(greater_region)
+Basque_Government	isLocatedIn	Basque_Country_(greater_region)
+
+http://dbpedia.org/resource/Eusko_Trenbideak_–_Ferrocarriles_Vascos	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Basque_Government
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	Basque_Government
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	owns	Euskotren_Tranbia
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	owns	Euskotren_Tranbia
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	owns	Euskotren_Tranbia
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	owns	Euskotren_Tranbia
+Basque_Government	owns	Eusko_Trenbideak_–_Ferrocarriles_Vascos
+Basque_Government	owns	Eusko_Trenbideak_–_Ferrocarriles_Vascos
+
+http://dbpedia.org/resource/Eusko_Trenbideak_–_Ferrocarriles_Vascos	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Basque_Government
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	Basque_Government
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	owns	Euskotren_Trena
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	owns	Euskotren_Trena
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	owns	Euskotren_Trena
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	owns	Euskotren_Trena
+Basque_Government	owns	Eusko_Trenbideak_–_Ferrocarriles_Vascos
+Basque_Government	owns	Eusko_Trenbideak_–_Ferrocarriles_Vascos
+
+http://dbpedia.org/resource/Eusko_Trenbideak_–_Ferrocarriles_Vascos	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Basque_Government
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	Basque_Government
+Basque_Government	owns	Eusko_Trenbideak_–_Ferrocarriles_Vascos
+Basque_Government	owns	Eusko_Trenbideak_–_Ferrocarriles_Vascos
+
+http://dbpedia.org/resource/Johnny_Unitas_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Towson_University
+Johnny_Unitas_Stadium	Towson_University
+Johnny_Unitas_Stadium	isLocatedIn	Towson,_Maryland
+Johnny_Unitas_Stadium	isLocatedIn	Towson,_Maryland
+Towson_University	isLocatedIn	Towson,_Maryland
+Towson_University	isLocatedIn	Towson,_Maryland
+
+http://dbpedia.org/resource/Johnny_Unitas_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Towson_University
+Johnny_Unitas_Stadium	Towson_University
+Towson_University	owns	Johnny_Unitas_Stadium
+Towson_University	owns	Johnny_Unitas_Stadium
+
+http://dbpedia.org/resource/Johnny_Unitas_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Towson_University
+Johnny_Unitas_Stadium	Towson_University
+Ellerbe_Becket	created	Johnny_Unitas_Stadium
+Ellerbe_Becket	created	Johnny_Unitas_Stadium
+Ellerbe_Becket	created	Johnny_Unitas_Stadium
+Ellerbe_Becket	created	Johnny_Unitas_Stadium
+Towson_University	owns	Johnny_Unitas_Stadium
+Towson_University	owns	Johnny_Unitas_Stadium
+
+http://dbpedia.org/resource/Euskotren_Tranbia	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Eusko_Trenbideak_–_Ferrocarriles_Vascos
+Euskotren_Tranbia	Eusko_Trenbideak_–_Ferrocarriles_Vascos
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	owns	Euskotren_Tranbia
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	owns	Euskotren_Tranbia
+
+http://dbpedia.org/resource/Euskotren_Tranbia	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Eusko_Trenbideak_–_Ferrocarriles_Vascos
+Euskotren_Tranbia	Eusko_Trenbideak_–_Ferrocarriles_Vascos
+Euskotren_Tranbia	isLocatedIn	Álava
+Euskotren_Tranbia	isLocatedIn	Álava
+Euskotren_Tranbia	isLocatedIn	Álava
+Euskotren_Tranbia	isLocatedIn	Álava
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	owns	Euskotren_Tranbia
+Eusko_Trenbideak_–_Ferrocarriles_Vascos	owns	Euskotren_Tranbia
+
+http://dbpedia.org/resource/KYQQ	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/E._W._Scripps_Company
+KYQQ	E._W._Scripps_Company
+KYQQ	isLocatedIn	Wichita,_Kansas
+KYQQ	isLocatedIn	Wichita,_Kansas
+KYQQ	isLocatedIn	Wichita,_Kansas
+KYQQ	isLocatedIn	Wichita,_Kansas
+E._W._Scripps_Company	owns	KYQQ
+E._W._Scripps_Company	owns	KYQQ
+
+http://dbpedia.org/resource/KYQQ	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/E._W._Scripps_Company
+KYQQ	E._W._Scripps_Company
+KYQQ	isLocatedIn	Arkansas_City,_Kansas
+KYQQ	isLocatedIn	Arkansas_City,_Kansas
+KYQQ	isLocatedIn	Arkansas_City,_Kansas
+KYQQ	isLocatedIn	Arkansas_City,_Kansas
+E._W._Scripps_Company	owns	KYQQ
+E._W._Scripps_Company	owns	KYQQ
+
+http://dbpedia.org/resource/KYQQ	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/E._W._Scripps_Company
+KYQQ	E._W._Scripps_Company
+E._W._Scripps_Company	owns	KYQQ
+E._W._Scripps_Company	owns	KYQQ
+
+http://dbpedia.org/resource/Jacksonville_Jaguars	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Shahid_Khan
+Jacksonville_Jaguars	Shahid_Khan
+Jacksonville_Jaguars	isLocatedIn	EverBank_Field
+Jacksonville_Jaguars	isLocatedIn	EverBank_Field
+Jacksonville_Jaguars	isLocatedIn	EverBank_Field
+Jacksonville_Jaguars	isLocatedIn	EverBank_Field
+Shahid_Khan	owns	Jacksonville_Jaguars
+Shahid_Khan	owns	Jacksonville_Jaguars
+
+http://dbpedia.org/resource/Jacksonville_Jaguars	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Shahid_Khan
+Jacksonville_Jaguars	Shahid_Khan
+Jacksonville_Jaguars	isLocatedIn	Florida
+Jacksonville_Jaguars	isLocatedIn	Florida
+Jacksonville_Jaguars	isLocatedIn	Florida
+Jacksonville_Jaguars	isLocatedIn	Florida
+Shahid_Khan	owns	Jacksonville_Jaguars
+Shahid_Khan	owns	Jacksonville_Jaguars
+
+http://dbpedia.org/resource/Jacksonville_Jaguars	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Shahid_Khan
+Jacksonville_Jaguars	Shahid_Khan
+Jacksonville_Jaguars	isLocatedIn	Florida
+Jacksonville_Jaguars	isLocatedIn	Florida
+Naples,_Florida	isLocatedIn	Florida
+Naples,_Florida	isLocatedIn	Florida
+Shahid_Khan	livesIn	Naples,_Florida
+Shahid_Khan	livesIn	Naples,_Florida
+
+http://dbpedia.org/resource/Jacksonville_Jaguars	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Shahid_Khan
+Jacksonville_Jaguars	Shahid_Khan
+Shahid_Khan	owns	Jacksonville_Jaguars
+Shahid_Khan	owns	Jacksonville_Jaguars
+
+http://dbpedia.org/resource/Jacksonville_Jaguars	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Shahid_Khan
+Jacksonville_Jaguars	Shahid_Khan
+Trent_Edwards	isAffiliatedTo	Jacksonville_Jaguars
+Trent_Edwards	isAffiliatedTo	Jacksonville_Jaguars
+Trent_Edwards	isAffiliatedTo	Jacksonville_Jaguars
+Trent_Edwards	isAffiliatedTo	Jacksonville_Jaguars
+Shahid_Khan	owns	Jacksonville_Jaguars
+Shahid_Khan	owns	Jacksonville_Jaguars
+
+http://dbpedia.org/resource/Victor_Tedesco_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Hamrun_Spartans_F.C.
+Victor_Tedesco_Stadium	Hamrun_Spartans_F.C.
+Victor_Tedesco_Stadium	isLocatedIn	Marsa,_Malta
+Victor_Tedesco_Stadium	isLocatedIn	Marsa,_Malta
+Victor_Tedesco_Stadium	isLocatedIn	Marsa,_Malta
+Victor_Tedesco_Stadium	isLocatedIn	Marsa,_Malta
+Hamrun_Spartans_F.C.	owns	Victor_Tedesco_Stadium
+Hamrun_Spartans_F.C.	owns	Victor_Tedesco_Stadium
+
+http://dbpedia.org/resource/Victor_Tedesco_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Hamrun_Spartans_F.C.
+Victor_Tedesco_Stadium	Hamrun_Spartans_F.C.
+Hamrun_Spartans_F.C.	owns	Victor_Tedesco_Stadium
+Hamrun_Spartans_F.C.	owns	Victor_Tedesco_Stadium
+
+http://dbpedia.org/resource/Victor_Tedesco_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Hamrun_Spartans_F.C.
+Victor_Tedesco_Stadium	Hamrun_Spartans_F.C.
+Victor_Tedesco_Stadium	isLocatedIn	Ħamrun
+Victor_Tedesco_Stadium	isLocatedIn	Ħamrun
+Stefan_Sultana	wasBornIn	Ħamrun
+Stefan_Sultana	wasBornIn	Ħamrun
+Stefan_Sultana	playsFor	Hamrun_Spartans_F.C.
+Stefan_Sultana	isAffiliatedTo	Hamrun_Spartans_F.C.
+Stefan_Sultana	playsFor	Hamrun_Spartans_F.C.
+Stefan_Sultana	isAffiliatedTo	Hamrun_Spartans_F.C.
+
+http://dbpedia.org/resource/Victor_Tedesco_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Hamrun_Spartans_F.C.
+Victor_Tedesco_Stadium	Hamrun_Spartans_F.C.
+Victor_Tedesco_Stadium	isLocatedIn	Ħamrun
+Victor_Tedesco_Stadium	isLocatedIn	Ħamrun
+Victor_Tedesco_Stadium	isLocatedIn	Ħamrun
+Victor_Tedesco_Stadium	isLocatedIn	Ħamrun
+Hamrun_Spartans_F.C.	owns	Victor_Tedesco_Stadium
+Hamrun_Spartans_F.C.	owns	Victor_Tedesco_Stadium
+
+http://dbpedia.org/resource/Victor_Tedesco_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Hamrun_Spartans_F.C.
+Victor_Tedesco_Stadium	Hamrun_Spartans_F.C.
+Victor_Tedesco_Stadium	isLocatedIn	Ħamrun
+Victor_Tedesco_Stadium	isLocatedIn	Ħamrun
+Hamrun_Spartans_F.C.	isLocatedIn	Ħamrun
+Hamrun_Spartans_F.C.	isLocatedIn	Ħamrun
+
+http://dbpedia.org/resource/Victor_Tedesco_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Hamrun_Spartans_F.C.
+Victor_Tedesco_Stadium	Hamrun_Spartans_F.C.
+Victor_Tedesco_Stadium	isLocatedIn	Ħamrun
+Victor_Tedesco_Stadium	isLocatedIn	Ħamrun
+Roderick_Bajada	wasBornIn	Ħamrun
+Roderick_Bajada	wasBornIn	Ħamrun
+Roderick_Bajada	isAffiliatedTo	Hamrun_Spartans_F.C.
+Roderick_Bajada	playsFor	Hamrun_Spartans_F.C.
+Roderick_Bajada	isAffiliatedTo	Hamrun_Spartans_F.C.
+Roderick_Bajada	playsFor	Hamrun_Spartans_F.C.
+
+http://dbpedia.org/resource/Miami_Dolphins	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Stephen_M._Ross
+Miami_Dolphins	Stephen_M._Ross
+Evan_Mathis	isAffiliatedTo	Miami_Dolphins
+Evan_Mathis	isAffiliatedTo	Miami_Dolphins
+Evan_Mathis	isAffiliatedTo	Miami_Dolphins
+Evan_Mathis	isAffiliatedTo	Miami_Dolphins
+Stephen_M._Ross	owns	Miami_Dolphins
+Stephen_M._Ross	owns	Miami_Dolphins
+
+http://dbpedia.org/resource/Miami_Dolphins	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Stephen_M._Ross
+Miami_Dolphins	Stephen_M._Ross
+Wes_Welker	isAffiliatedTo	Miami_Dolphins
+Wes_Welker	isAffiliatedTo	Miami_Dolphins
+Wes_Welker	isAffiliatedTo	Miami_Dolphins
+Wes_Welker	isAffiliatedTo	Miami_Dolphins
+Stephen_M._Ross	owns	Miami_Dolphins
+Stephen_M._Ross	owns	Miami_Dolphins
+
+http://dbpedia.org/resource/Miami_Dolphins	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Stephen_M._Ross
+Miami_Dolphins	Stephen_M._Ross
+Matt_Baker_(American_football)	isAffiliatedTo	Miami_Dolphins
+Matt_Baker_(American_football)	isAffiliatedTo	Miami_Dolphins
+Matt_Baker_(American_football)	isAffiliatedTo	Miami_Dolphins
+Matt_Baker_(American_football)	isAffiliatedTo	Miami_Dolphins
+Stephen_M._Ross	owns	Miami_Dolphins
+Stephen_M._Ross	owns	Miami_Dolphins
+
+http://dbpedia.org/resource/Miami_Dolphins	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Stephen_M._Ross
+Miami_Dolphins	Stephen_M._Ross
+Miami_Dolphins	isLocatedIn	Miami_Gardens,_Florida
+Miami_Dolphins	isLocatedIn	Miami_Gardens,_Florida
+Miami_Dolphins	isLocatedIn	Miami_Gardens,_Florida
+Miami_Dolphins	isLocatedIn	Miami_Gardens,_Florida
+Stephen_M._Ross	owns	Miami_Dolphins
+Stephen_M._Ross	owns	Miami_Dolphins
+
+http://dbpedia.org/resource/Miami_Dolphins	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Stephen_M._Ross
+Miami_Dolphins	Stephen_M._Ross
+Reggie_Bush	isAffiliatedTo	Miami_Dolphins
+Reggie_Bush	isAffiliatedTo	Miami_Dolphins
+Reggie_Bush	isAffiliatedTo	Miami_Dolphins
+Reggie_Bush	isAffiliatedTo	Miami_Dolphins
+Stephen_M._Ross	owns	Miami_Dolphins
+Stephen_M._Ross	owns	Miami_Dolphins
+
+http://dbpedia.org/resource/Miami_Dolphins	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Stephen_M._Ross
+Miami_Dolphins	Stephen_M._Ross
+Bill_Keating_(American_football)	isAffiliatedTo	Miami_Dolphins
+Bill_Keating_(American_football)	isAffiliatedTo	Miami_Dolphins
+Bill_Keating_(American_football)	isAffiliatedTo	Miami_Dolphins
+Bill_Keating_(American_football)	isAffiliatedTo	Miami_Dolphins
+Stephen_M._Ross	owns	Miami_Dolphins
+Stephen_M._Ross	owns	Miami_Dolphins
+
+http://dbpedia.org/resource/Miami_Dolphins	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Stephen_M._Ross
+Miami_Dolphins	Stephen_M._Ross
+Brandon_Marshall	isAffiliatedTo	Miami_Dolphins
+Brandon_Marshall	isAffiliatedTo	Miami_Dolphins
+Brandon_Marshall	isAffiliatedTo	Miami_Dolphins
+Brandon_Marshall	isAffiliatedTo	Miami_Dolphins
+Stephen_M._Ross	owns	Miami_Dolphins
+Stephen_M._Ross	owns	Miami_Dolphins
+
+http://dbpedia.org/resource/Miami_Dolphins	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Stephen_M._Ross
+Miami_Dolphins	Stephen_M._Ross
+Stephen_M._Ross	owns	Miami_Dolphins
+Stephen_M._Ross	owns	Miami_Dolphins
+
+http://dbpedia.org/resource/Karolyi_Ranch	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Béla_Károlyi
+Karolyi_Ranch	Béla_Károlyi
+Márta_Károlyi	livesIn	Karolyi_Ranch
+Márta_Károlyi	owns	Karolyi_Ranch
+Márta_Károlyi	livesIn	Karolyi_Ranch
+Márta_Károlyi	owns	Karolyi_Ranch
+Márta_Károlyi	isMarriedTo	Béla_Károlyi
+Béla_Károlyi	isMarriedTo	Márta_Károlyi
+Márta_Károlyi	isMarriedTo	Béla_Károlyi
+Béla_Károlyi	isMarriedTo	Márta_Károlyi
+
+http://dbpedia.org/resource/Universal_Television	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/NBCUniversal_Television_Group
+Universal_Television	NBCUniversal_Television_Group
+Universal_Television	isLocatedIn	Universal_City,_California
+Universal_Television	isLocatedIn	Universal_City,_California
+Universal_Television	isLocatedIn	Universal_City,_California
+Universal_Television	isLocatedIn	Universal_City,_California
+NBCUniversal_Television_Group	owns	Universal_Television
+NBCUniversal_Television_Group	owns	Universal_Television
+
+http://dbpedia.org/resource/Universal_Television	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/NBCUniversal_Television_Group
+Universal_Television	NBCUniversal_Television_Group
+NBCUniversal	owns	Universal_Television
+NBCUniversal	owns	Universal_Television
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBCUniversal_Television_Group
+
+http://dbpedia.org/resource/Universal_Television	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/NBCUniversal_Television_Group
+Universal_Television	NBCUniversal_Television_Group
+NBCUniversal_Television_Group	owns	Universal_Television
+NBCUniversal_Television_Group	owns	Universal_Television
+
+http://dbpedia.org/resource/Universal_Television	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/NBCUniversal_Television_Group
+Universal_Television	NBCUniversal_Television_Group
+Universal_Television	isLocatedIn	Los_Angeles_County,_California
+Universal_Television	isLocatedIn	Los_Angeles_County,_California
+Universal_Television	isLocatedIn	Los_Angeles_County,_California
+Universal_Television	isLocatedIn	Los_Angeles_County,_California
+NBCUniversal_Television_Group	owns	Universal_Television
+NBCUniversal_Television_Group	owns	Universal_Television
+
+http://dbpedia.org/resource/Foxboro_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/New_England_Patriots
+Foxboro_Stadium	New_England_Patriots
+New_England_Patriots	isLocatedIn	Foxboro_Stadium
+New_England_Patriots	owns	Foxboro_Stadium
+New_England_Patriots	isLocatedIn	Foxboro_Stadium
+New_England_Patriots	owns	Foxboro_Stadium
+
+http://dbpedia.org/resource/Southern_Pacific_Building	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Morgan_Stanley
+Southern_Pacific_Building	Morgan_Stanley
+Walter_Danforth_Bliss	created	Southern_Pacific_Building
+Walter_Danforth_Bliss	created	Southern_Pacific_Building
+Walter_Danforth_Bliss	created	Southern_Pacific_Building
+Walter_Danforth_Bliss	created	Southern_Pacific_Building
+Morgan_Stanley	owns	Southern_Pacific_Building
+Morgan_Stanley	owns	Southern_Pacific_Building
+
+http://dbpedia.org/resource/Southern_Pacific_Building	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Morgan_Stanley
+Southern_Pacific_Building	Morgan_Stanley
+Morgan_Stanley	owns	Southern_Pacific_Building
+Morgan_Stanley	owns	Southern_Pacific_Building
+
+http://dbpedia.org/resource/General_Motors_Egypt	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Isuzu_Motors
+General_Motors_Egypt	Isuzu_Motors
+General_Motors	owns	General_Motors_Egypt
+General_Motors	owns	General_Motors_Egypt
+General_Motors	owns	General_Motors_Egypt
+General_Motors	owns	General_Motors_Egypt
+Isuzu_Motors	owns	General_Motors_Egypt
+Isuzu_Motors	owns	General_Motors_Egypt
+
+http://dbpedia.org/resource/General_Motors_Egypt	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Isuzu_Motors
+General_Motors_Egypt	Isuzu_Motors
+General_Motors	owns	General_Motors_Egypt
+General_Motors	owns	General_Motors_Egypt
+General_Motors	owns	Industries_Mécaniques_Maghrébines
+General_Motors	owns	Industries_Mécaniques_Maghrébines
+Isuzu_Motors	owns	Industries_Mécaniques_Maghrébines
+Isuzu_Motors	owns	Industries_Mécaniques_Maghrébines
+
+http://dbpedia.org/resource/General_Motors_Egypt	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Isuzu_Motors
+General_Motors_Egypt	Isuzu_Motors
+Isuzu_Motors	owns	General_Motors_Egypt
+Isuzu_Motors	owns	General_Motors_Egypt
+
+http://dbpedia.org/resource/General_Motors_Egypt	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Isuzu_Motors
+General_Motors_Egypt	Isuzu_Motors
+General_Motors_Egypt	isLocatedIn	Maadi
+General_Motors_Egypt	isLocatedIn	Maadi
+General_Motors_Egypt	isLocatedIn	Maadi
+General_Motors_Egypt	isLocatedIn	Maadi
+Isuzu_Motors	owns	General_Motors_Egypt
+Isuzu_Motors	owns	General_Motors_Egypt
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+Estadio_Victor_Della_Valle	isLocatedIn	Uruguay
+Estadio_Victor_Della_Valle	isLocatedIn	Uruguay
+Alejandro_Mello	isCitizenOf	Uruguay
+Alejandro_Mello	isCitizenOf	Uruguay
+Alejandro_Mello	isAffiliatedTo	El_Tanque_Sisley
+Alejandro_Mello	playsFor	El_Tanque_Sisley
+Alejandro_Mello	isAffiliatedTo	El_Tanque_Sisley
+Alejandro_Mello	playsFor	El_Tanque_Sisley
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+Estadio_Victor_Della_Valle	isLocatedIn	Uruguay
+Estadio_Victor_Della_Valle	isLocatedIn	Uruguay
+Sebastián_Gaitán	isCitizenOf	Uruguay
+Sebastián_Gaitán	isCitizenOf	Uruguay
+Sebastián_Gaitán	playsFor	El_Tanque_Sisley
+Sebastián_Gaitán	isAffiliatedTo	El_Tanque_Sisley
+Sebastián_Gaitán	playsFor	El_Tanque_Sisley
+Sebastián_Gaitán	isAffiliatedTo	El_Tanque_Sisley
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+Estadio_Victor_Della_Valle	isLocatedIn	Uruguay
+Estadio_Victor_Della_Valle	isLocatedIn	Uruguay
+Leandro_Ezquerra	isCitizenOf	Uruguay
+Leandro_Ezquerra	wasBornIn	Uruguay
+Leandro_Ezquerra	isCitizenOf	Uruguay
+Leandro_Ezquerra	wasBornIn	Uruguay
+Leandro_Ezquerra	isAffiliatedTo	El_Tanque_Sisley
+Leandro_Ezquerra	playsFor	El_Tanque_Sisley
+Leandro_Ezquerra	isAffiliatedTo	El_Tanque_Sisley
+Leandro_Ezquerra	playsFor	El_Tanque_Sisley
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+Estadio_Victor_Della_Valle	isLocatedIn	Uruguay
+Estadio_Victor_Della_Valle	isLocatedIn	Uruguay
+Iván_Pailós	isCitizenOf	Uruguay
+Iván_Pailós	isCitizenOf	Uruguay
+Iván_Pailós	playsFor	El_Tanque_Sisley
+Iván_Pailós	isAffiliatedTo	El_Tanque_Sisley
+Iván_Pailós	playsFor	El_Tanque_Sisley
+Iván_Pailós	isAffiliatedTo	El_Tanque_Sisley
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+Estadio_Victor_Della_Valle	isLocatedIn	Uruguay
+Estadio_Victor_Della_Valle	isLocatedIn	Uruguay
+Hugo_Guerra	isCitizenOf	Uruguay
+Hugo_Guerra	isCitizenOf	Uruguay
+Hugo_Guerra	playsFor	El_Tanque_Sisley
+Hugo_Guerra	isAffiliatedTo	El_Tanque_Sisley
+Hugo_Guerra	playsFor	El_Tanque_Sisley
+Hugo_Guerra	isAffiliatedTo	El_Tanque_Sisley
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+El_Tanque_Sisley	owns	Estadio_Victor_Della_Valle
+El_Tanque_Sisley	owns	Estadio_Victor_Della_Valle
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+Estadio_Victor_Della_Valle	isLocatedIn	Carrasco,_Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Carrasco,_Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Carrasco,_Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Carrasco,_Montevideo
+El_Tanque_Sisley	owns	Estadio_Victor_Della_Valle
+El_Tanque_Sisley	owns	Estadio_Victor_Della_Valle
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+El_Tanque_Sisley	owns	Estadio_Victor_Della_Valle
+El_Tanque_Sisley	owns	Estadio_Victor_Della_Valle
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Sebastián_Gaitán	wasBornIn	Montevideo
+Sebastián_Gaitán	wasBornIn	Montevideo
+Sebastián_Gaitán	playsFor	El_Tanque_Sisley
+Sebastián_Gaitán	isAffiliatedTo	El_Tanque_Sisley
+Sebastián_Gaitán	playsFor	El_Tanque_Sisley
+Sebastián_Gaitán	isAffiliatedTo	El_Tanque_Sisley
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Juan_Toya	wasBornIn	Montevideo
+Juan_Toya	wasBornIn	Montevideo
+Juan_Toya	isAffiliatedTo	El_Tanque_Sisley
+Juan_Toya	playsFor	El_Tanque_Sisley
+Juan_Toya	isAffiliatedTo	El_Tanque_Sisley
+Juan_Toya	playsFor	El_Tanque_Sisley
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Alejandro_Mello	wasBornIn	Montevideo
+Alejandro_Mello	wasBornIn	Montevideo
+Alejandro_Mello	isAffiliatedTo	El_Tanque_Sisley
+Alejandro_Mello	playsFor	El_Tanque_Sisley
+Alejandro_Mello	isAffiliatedTo	El_Tanque_Sisley
+Alejandro_Mello	playsFor	El_Tanque_Sisley
+
+http://dbpedia.org/resource/Estadio_Victor_Della_Valle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/El_Tanque_Sisley
+Estadio_Victor_Della_Valle	El_Tanque_Sisley
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Julio_Ferrón	wasBornIn	Montevideo
+Julio_Ferrón	wasBornIn	Montevideo
+Julio_Ferrón	playsFor	El_Tanque_Sisley
+Julio_Ferrón	isAffiliatedTo	El_Tanque_Sisley
+Julio_Ferrón	playsFor	El_Tanque_Sisley
+Julio_Ferrón	isAffiliatedTo	El_Tanque_Sisley
+
+http://dbpedia.org/resource/Willis_Tower	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/The_Blackstone_Group
+Willis_Tower	The_Blackstone_Group
+The_Blackstone_Group	owns	Willis_Tower
+The_Blackstone_Group	owns	Willis_Tower
+
+http://dbpedia.org/resource/Willis_Tower	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/The_Blackstone_Group
+Willis_Tower	The_Blackstone_Group
+United_Airlines	isLocatedIn	Willis_Tower
+United_Airlines	isLocatedIn	Willis_Tower
+United_Airlines	isLocatedIn	Willis_Tower
+United_Airlines	isLocatedIn	Willis_Tower
+The_Blackstone_Group	owns	Willis_Tower
+The_Blackstone_Group	owns	Willis_Tower
+
+http://dbpedia.org/resource/Willis_Tower	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/The_Blackstone_Group
+Willis_Tower	The_Blackstone_Group
+United_Continental_Holdings	isLocatedIn	Willis_Tower
+United_Continental_Holdings	isLocatedIn	Willis_Tower
+United_Continental_Holdings	isLocatedIn	Willis_Tower
+United_Continental_Holdings	isLocatedIn	Willis_Tower
+The_Blackstone_Group	owns	Willis_Tower
+The_Blackstone_Group	owns	Willis_Tower
+
+http://dbpedia.org/resource/Willis_Tower	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/The_Blackstone_Group
+Willis_Tower	The_Blackstone_Group
+Fazlur_Rahman_Khan	created	Willis_Tower
+Fazlur_Rahman_Khan	created	Willis_Tower
+Fazlur_Rahman_Khan	created	Willis_Tower
+Fazlur_Rahman_Khan	created	Willis_Tower
+The_Blackstone_Group	owns	Willis_Tower
+The_Blackstone_Group	owns	Willis_Tower
+
+http://dbpedia.org/resource/Willis_Tower	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/The_Blackstone_Group
+Willis_Tower	The_Blackstone_Group
+Willis_Tower	isLocatedIn	Illinois
+Willis_Tower	isLocatedIn	Illinois
+Willis_Tower	isLocatedIn	Illinois
+Willis_Tower	isLocatedIn	Illinois
+The_Blackstone_Group	owns	Willis_Tower
+The_Blackstone_Group	owns	Willis_Tower
+
+http://dbpedia.org/resource/NBCUniversal_Television_Group	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Comcast
+NBCUniversal_Television_Group	Comcast
+Comcast	owns	NBCUniversal_Television_Group
+Comcast	owns	NBCUniversal_Television_Group
+
+http://dbpedia.org/resource/NBCUniversal_Television_Group	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Comcast
+NBCUniversal_Television_Group	Comcast
+NBCUniversal_Television_Group	owns	Universal_Television
+NBCUniversal_Television_Group	owns	Universal_Television
+NBCUniversal_Television_Group	owns	Universal_Television
+NBCUniversal_Television_Group	owns	Universal_Television
+Comcast	owns	NBCUniversal_Television_Group
+Comcast	owns	NBCUniversal_Television_Group
+
+http://dbpedia.org/resource/NBCUniversal_Television_Group	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Comcast
+NBCUniversal_Television_Group	Comcast
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	Universal_Orlando
+NBCUniversal	owns	Universal_Orlando
+Comcast	owns	Universal_Orlando
+Comcast	owns	Universal_Orlando
+
+http://dbpedia.org/resource/NBCUniversal_Television_Group	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Comcast
+NBCUniversal_Television_Group	Comcast
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBC
+NBCUniversal	owns	NBC
+Comcast	owns	NBC
+Comcast	owns	NBC
+
+http://dbpedia.org/resource/NBCUniversal_Television_Group	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Comcast
+NBCUniversal_Television_Group	Comcast
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBCUniversal_Television_Group
+Comcast	owns	NBCUniversal_Television_Group
+Comcast	owns	NBCUniversal_Television_Group
+
+http://dbpedia.org/resource/NBCUniversal_Television_Group	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Comcast
+NBCUniversal_Television_Group	Comcast
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	Weatherscan
+NBCUniversal	owns	Weatherscan
+Comcast	owns	Weatherscan
+Comcast	owns	Weatherscan
+
+http://dbpedia.org/resource/Gimnasio_USBI	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Universidad_Veracruzana
+Gimnasio_USBI	Universidad_Veracruzana
+Universidad_Veracruzana	owns	Gimnasio_USBI
+Universidad_Veracruzana	owns	Gimnasio_USBI
+
+http://dbpedia.org/resource/Sultan_Abu_Bakar_Complex	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/PLUS_Expressways
+Sultan_Abu_Bakar_Complex	PLUS_Expressways
+Malaysian_Highway_Authority	owns	Sultan_Abu_Bakar_Complex
+Malaysian_Highway_Authority	created	Sultan_Abu_Bakar_Complex
+Malaysian_Highway_Authority	owns	Sultan_Abu_Bakar_Complex
+Malaysian_Highway_Authority	created	Sultan_Abu_Bakar_Complex
+Malaysian_Highway_Authority	isLocatedIn	Selangor
+Malaysian_Highway_Authority	isLocatedIn	Selangor
+PLUS_Expressways	isLocatedIn	Selangor
+PLUS_Expressways	isLocatedIn	Selangor
+
+http://dbpedia.org/resource/Kerteh_Airport	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Petronas
+Kerteh_Airport	Petronas
+Sultan_Abdul_Aziz_Shah_Airport	isConnectedTo	Kerteh_Airport
+Kerteh_Airport	isConnectedTo	Sultan_Abdul_Aziz_Shah_Airport
+Sultan_Abdul_Aziz_Shah_Airport	isConnectedTo	Kerteh_Airport
+Kerteh_Airport	isConnectedTo	Sultan_Abdul_Aziz_Shah_Airport
+Sultan_Abdul_Aziz_Shah_Airport	isConnectedTo	Kerteh_Airport
+Kerteh_Airport	isConnectedTo	Sultan_Abdul_Aziz_Shah_Airport
+Sultan_Abdul_Aziz_Shah_Airport	isConnectedTo	Kerteh_Airport
+Kerteh_Airport	isConnectedTo	Sultan_Abdul_Aziz_Shah_Airport
+Petronas	owns	Kerteh_Airport
+Petronas	owns	Kerteh_Airport
+
+http://dbpedia.org/resource/Kerteh_Airport	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Petronas
+Kerteh_Airport	Petronas
+Petronas	owns	Kerteh_Airport
+Petronas	owns	Kerteh_Airport
+
+http://dbpedia.org/resource/Animax	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Toei_Animation
+Animax	Toei_Animation
+Toei_Animation	owns	Animax
+Toei_Animation	owns	Animax
+
+http://dbpedia.org/resource/Azersun_Arena	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Qarabağ_FK
+Azersun_Arena	Qarabağ_FK
+Qarabağ_FK	owns	Azersun_Arena
+Qarabağ_FK	owns	Azersun_Arena
+
+http://dbpedia.org/resource/Azersun_Arena	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Qarabağ_FK
+Azersun_Arena	Qarabağ_FK
+Azersun_Arena	isLocatedIn	Azerbaijan
+Azersun_Arena	isLocatedIn	Azerbaijan
+Agil_Mammadov_(footballer,_born_1972)	isCitizenOf	Azerbaijan
+Agil_Mammadov_(footballer,_born_1972)	isCitizenOf	Azerbaijan
+Agil_Mammadov_(footballer,_born_1972)	isAffiliatedTo	Qarabağ_FK
+Agil_Mammadov_(footballer,_born_1972)	playsFor	Qarabağ_FK
+Agil_Mammadov_(footballer,_born_1972)	isAffiliatedTo	Qarabağ_FK
+Agil_Mammadov_(footballer,_born_1972)	playsFor	Qarabağ_FK
+
+http://dbpedia.org/resource/Azersun_Arena	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Qarabağ_FK
+Azersun_Arena	Qarabağ_FK
+Azersun_Arena	isLocatedIn	Azerbaijan
+Azersun_Arena	isLocatedIn	Azerbaijan
+Samir_Abbasov	isCitizenOf	Azerbaijan
+Samir_Abbasov	isCitizenOf	Azerbaijan
+Samir_Abbasov	playsFor	Qarabağ_FK
+Samir_Abbasov	isAffiliatedTo	Qarabağ_FK
+Samir_Abbasov	playsFor	Qarabağ_FK
+Samir_Abbasov	isAffiliatedTo	Qarabağ_FK
+
+http://dbpedia.org/resource/Azersun_Arena	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Qarabağ_FK
+Azersun_Arena	Qarabağ_FK
+Azersun_Arena	isLocatedIn	Azerbaijan
+Azersun_Arena	isLocatedIn	Azerbaijan
+Afran_Ismayilov	isCitizenOf	Azerbaijan
+Afran_Ismayilov	isCitizenOf	Azerbaijan
+Afran_Ismayilov	playsFor	Qarabağ_FK
+Afran_Ismayilov	isAffiliatedTo	Qarabağ_FK
+Afran_Ismayilov	playsFor	Qarabağ_FK
+Afran_Ismayilov	isAffiliatedTo	Qarabağ_FK
+
+http://dbpedia.org/resource/Azersun_Arena	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Qarabağ_FK
+Azersun_Arena	Qarabağ_FK
+Azersun_Arena	isLocatedIn	Azerbaijan
+Azersun_Arena	isLocatedIn	Azerbaijan
+Farid_Guliyev	isCitizenOf	Azerbaijan
+Farid_Guliyev	isCitizenOf	Azerbaijan
+Farid_Guliyev	playsFor	Qarabağ_FK
+Farid_Guliyev	isAffiliatedTo	Qarabağ_FK
+Farid_Guliyev	playsFor	Qarabağ_FK
+Farid_Guliyev	isAffiliatedTo	Qarabağ_FK
+
+http://dbpedia.org/resource/Azersun_Arena	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Qarabağ_FK
+Azersun_Arena	Qarabağ_FK
+Azersun_Arena	isLocatedIn	Azerbaijan
+Azersun_Arena	isLocatedIn	Azerbaijan
+Bakhtiyar_Musayev	isCitizenOf	Azerbaijan
+Bakhtiyar_Musayev	isCitizenOf	Azerbaijan
+Bakhtiyar_Musayev	isAffiliatedTo	Qarabağ_FK
+Bakhtiyar_Musayev	playsFor	Qarabağ_FK
+Bakhtiyar_Musayev	isAffiliatedTo	Qarabağ_FK
+Bakhtiyar_Musayev	playsFor	Qarabağ_FK
+
+http://dbpedia.org/resource/Azersun_Arena	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Qarabağ_FK
+Azersun_Arena	Qarabağ_FK
+Azersun_Arena	isLocatedIn	Azerbaijan
+Azersun_Arena	isLocatedIn	Azerbaijan
+Elvin_Yunuszade	isCitizenOf	Azerbaijan
+Elvin_Yunuszade	isCitizenOf	Azerbaijan
+Elvin_Yunuszade	isAffiliatedTo	Qarabağ_FK
+Elvin_Yunuszade	playsFor	Qarabağ_FK
+Elvin_Yunuszade	isAffiliatedTo	Qarabağ_FK
+Elvin_Yunuszade	playsFor	Qarabağ_FK
+
+http://dbpedia.org/resource/Azersun_Arena	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Qarabağ_FK
+Azersun_Arena	Qarabağ_FK
+Azersun_Arena	isLocatedIn	Yeni_Suraxanı
+Azersun_Arena	isLocatedIn	Yeni_Suraxanı
+Azersun_Arena	isLocatedIn	Yeni_Suraxanı
+Azersun_Arena	isLocatedIn	Yeni_Suraxanı
+Qarabağ_FK	owns	Azersun_Arena
+Qarabağ_FK	owns	Azersun_Arena
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Michał_Korybut_Wiśniowiecki
+Wawel_Castle	Michał_Korybut_Wiśniowiecki
+Michał_Korybut_Wiśniowiecki	owns	Wawel_Castle
+Michał_Korybut_Wiśniowiecki	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Michał_Korybut_Wiśniowiecki
+Wawel_Castle	Michał_Korybut_Wiśniowiecki
+John_I_Albert	owns	Wawel_Castle
+John_I_Albert	owns	Wawel_Castle
+John_I_Albert	owns	Wawel_Castle
+John_I_Albert	owns	Wawel_Castle
+Michał_Korybut_Wiśniowiecki	owns	Wawel_Castle
+Michał_Korybut_Wiśniowiecki	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Michał_Korybut_Wiśniowiecki
+Wawel_Castle	Michał_Korybut_Wiśniowiecki
+Wawel_Castle	isLocatedIn	Lesser_Poland_Voivodeship
+Wawel_Castle	isLocatedIn	Lesser_Poland_Voivodeship
+Wawel_Castle	isLocatedIn	Lesser_Poland_Voivodeship
+Wawel_Castle	isLocatedIn	Lesser_Poland_Voivodeship
+Michał_Korybut_Wiśniowiecki	owns	Wawel_Castle
+Michał_Korybut_Wiśniowiecki	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Michał_Korybut_Wiśniowiecki
+Wawel_Castle	Michał_Korybut_Wiśniowiecki
+Stanisław_Leszczyński	owns	Wawel_Castle
+Stanisław_Leszczyński	owns	Wawel_Castle
+Stanisław_Leszczyński	owns	Wawel_Castle
+Stanisław_Leszczyński	owns	Wawel_Castle
+Michał_Korybut_Wiśniowiecki	owns	Wawel_Castle
+Michał_Korybut_Wiśniowiecki	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Michał_Korybut_Wiśniowiecki
+Wawel_Castle	Michał_Korybut_Wiśniowiecki
+John_II_Casimir_Vasa	owns	Wawel_Castle
+John_II_Casimir_Vasa	owns	Wawel_Castle
+John_II_Casimir_Vasa	owns	Wawel_Castle
+John_II_Casimir_Vasa	owns	Wawel_Castle
+Michał_Korybut_Wiśniowiecki	owns	Wawel_Castle
+Michał_Korybut_Wiśniowiecki	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Michał_Korybut_Wiśniowiecki
+Wawel_Castle	Michał_Korybut_Wiśniowiecki
+Władysław_III_of_Poland	owns	Wawel_Castle
+Władysław_III_of_Poland	owns	Wawel_Castle
+Władysław_III_of_Poland	owns	Wawel_Castle
+Władysław_III_of_Poland	owns	Wawel_Castle
+Michał_Korybut_Wiśniowiecki	owns	Wawel_Castle
+Michał_Korybut_Wiśniowiecki	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Michał_Korybut_Wiśniowiecki
+Wawel_Castle	Michał_Korybut_Wiśniowiecki
+Władysław_IV_Vasa	owns	Wawel_Castle
+Władysław_IV_Vasa	owns	Wawel_Castle
+Władysław_IV_Vasa	owns	Wawel_Castle
+Władysław_IV_Vasa	owns	Wawel_Castle
+Michał_Korybut_Wiśniowiecki	owns	Wawel_Castle
+Michał_Korybut_Wiśniowiecki	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Michał_Korybut_Wiśniowiecki
+Wawel_Castle	Michał_Korybut_Wiśniowiecki
+Władysław_II_Jagiełło	owns	Wawel_Castle
+Władysław_II_Jagiełło	owns	Wawel_Castle
+Władysław_II_Jagiełło	owns	Wawel_Castle
+Władysław_II_Jagiełło	owns	Wawel_Castle
+Michał_Korybut_Wiśniowiecki	owns	Wawel_Castle
+Michał_Korybut_Wiśniowiecki	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Michał_Korybut_Wiśniowiecki
+Wawel_Castle	Michał_Korybut_Wiśniowiecki
+Anna_Jagiellon	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+Michał_Korybut_Wiśniowiecki	owns	Wawel_Castle
+Michał_Korybut_Wiśniowiecki	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Michał_Korybut_Wiśniowiecki
+Wawel_Castle	Michał_Korybut_Wiśniowiecki
+Louis_I_of_Hungary	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+Michał_Korybut_Wiśniowiecki	owns	Wawel_Castle
+Michał_Korybut_Wiśniowiecki	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alexander_Jagiellon
+Wawel_Castle	Alexander_Jagiellon
+Alexander_Jagiellon	owns	Wawel_Castle
+Alexander_Jagiellon	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alexander_Jagiellon
+Wawel_Castle	Alexander_Jagiellon
+Casimir_IV_Jagiellon	owns	Wawel_Castle
+Casimir_IV_Jagiellon	owns	Wawel_Castle
+Elizabeth_of_Austria_(1436–1505)	isMarriedTo	Casimir_IV_Jagiellon
+Casimir_IV_Jagiellon	isMarriedTo	Elizabeth_of_Austria_(1436–1505)
+Elizabeth_of_Austria_(1436–1505)	isMarriedTo	Casimir_IV_Jagiellon
+Casimir_IV_Jagiellon	isMarriedTo	Elizabeth_of_Austria_(1436–1505)
+Elizabeth_of_Austria_(1436–1505)	hasChild	Alexander_Jagiellon
+Elizabeth_of_Austria_(1436–1505)	hasChild	Alexander_Jagiellon
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alexander_Jagiellon
+Wawel_Castle	Alexander_Jagiellon
+John_I_Albert	owns	Wawel_Castle
+John_I_Albert	owns	Wawel_Castle
+Elizabeth_of_Austria_(1436–1505)	hasChild	John_I_Albert
+Elizabeth_of_Austria_(1436–1505)	hasChild	John_I_Albert
+Elizabeth_of_Austria_(1436–1505)	hasChild	Alexander_Jagiellon
+Elizabeth_of_Austria_(1436–1505)	hasChild	Alexander_Jagiellon
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alexander_Jagiellon
+Wawel_Castle	Alexander_Jagiellon
+John_I_Albert	owns	Wawel_Castle
+John_I_Albert	owns	Wawel_Castle
+John_I_Albert	owns	Wawel_Castle
+John_I_Albert	owns	Wawel_Castle
+Alexander_Jagiellon	owns	Wawel_Castle
+Alexander_Jagiellon	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alexander_Jagiellon
+Wawel_Castle	Alexander_Jagiellon
+Wawel_Castle	isLocatedIn	Lesser_Poland_Voivodeship
+Wawel_Castle	isLocatedIn	Lesser_Poland_Voivodeship
+Wawel_Castle	isLocatedIn	Lesser_Poland_Voivodeship
+Wawel_Castle	isLocatedIn	Lesser_Poland_Voivodeship
+Alexander_Jagiellon	owns	Wawel_Castle
+Alexander_Jagiellon	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alexander_Jagiellon
+Wawel_Castle	Alexander_Jagiellon
+Stanisław_Leszczyński	owns	Wawel_Castle
+Stanisław_Leszczyński	owns	Wawel_Castle
+Stanisław_Leszczyński	owns	Wawel_Castle
+Stanisław_Leszczyński	owns	Wawel_Castle
+Alexander_Jagiellon	owns	Wawel_Castle
+Alexander_Jagiellon	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alexander_Jagiellon
+Wawel_Castle	Alexander_Jagiellon
+Sigismund_I_the_Old	owns	Wawel_Castle
+Sigismund_I_the_Old	owns	Wawel_Castle
+Elizabeth_of_Austria_(1436–1505)	hasChild	Sigismund_I_the_Old
+Elizabeth_of_Austria_(1436–1505)	hasChild	Sigismund_I_the_Old
+Elizabeth_of_Austria_(1436–1505)	hasChild	Alexander_Jagiellon
+Elizabeth_of_Austria_(1436–1505)	hasChild	Alexander_Jagiellon
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alexander_Jagiellon
+Wawel_Castle	Alexander_Jagiellon
+John_II_Casimir_Vasa	owns	Wawel_Castle
+John_II_Casimir_Vasa	owns	Wawel_Castle
+John_II_Casimir_Vasa	owns	Wawel_Castle
+John_II_Casimir_Vasa	owns	Wawel_Castle
+Alexander_Jagiellon	owns	Wawel_Castle
+Alexander_Jagiellon	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alexander_Jagiellon
+Wawel_Castle	Alexander_Jagiellon
+Władysław_III_of_Poland	owns	Wawel_Castle
+Władysław_III_of_Poland	owns	Wawel_Castle
+Władysław_III_of_Poland	owns	Wawel_Castle
+Władysław_III_of_Poland	owns	Wawel_Castle
+Alexander_Jagiellon	owns	Wawel_Castle
+Alexander_Jagiellon	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alexander_Jagiellon
+Wawel_Castle	Alexander_Jagiellon
+Władysław_IV_Vasa	owns	Wawel_Castle
+Władysław_IV_Vasa	owns	Wawel_Castle
+Władysław_IV_Vasa	owns	Wawel_Castle
+Władysław_IV_Vasa	owns	Wawel_Castle
+Alexander_Jagiellon	owns	Wawel_Castle
+Alexander_Jagiellon	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alexander_Jagiellon
+Wawel_Castle	Alexander_Jagiellon
+Władysław_II_Jagiełło	owns	Wawel_Castle
+Władysław_II_Jagiełło	owns	Wawel_Castle
+Władysław_II_Jagiełło	owns	Wawel_Castle
+Władysław_II_Jagiełło	owns	Wawel_Castle
+Alexander_Jagiellon	owns	Wawel_Castle
+Alexander_Jagiellon	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alexander_Jagiellon
+Wawel_Castle	Alexander_Jagiellon
+Anna_Jagiellon	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+Alexander_Jagiellon	owns	Wawel_Castle
+Alexander_Jagiellon	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Alexander_Jagiellon
+Wawel_Castle	Alexander_Jagiellon
+Louis_I_of_Hungary	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+Alexander_Jagiellon	owns	Wawel_Castle
+Alexander_Jagiellon	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Rónald_Chaves	isCitizenOf	Costa_Rica
+Rónald_Chaves	isCitizenOf	Costa_Rica
+Rónald_Chaves	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Rónald_Chaves	playsFor	Liga_Deportiva_Alajuelense
+Rónald_Chaves	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Rónald_Chaves	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Giancarlo_González	isCitizenOf	Costa_Rica
+Giancarlo_González	isCitizenOf	Costa_Rica
+Giancarlo_González	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Giancarlo_González	playsFor	Liga_Deportiva_Alajuelense
+Giancarlo_González	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Giancarlo_González	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Pablo_Salazar	isCitizenOf	Costa_Rica
+Pablo_Salazar	isCitizenOf	Costa_Rica
+Pablo_Salazar	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Pablo_Salazar	playsFor	Liga_Deportiva_Alajuelense
+Pablo_Salazar	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Pablo_Salazar	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Luis_Diego_Arnáez	isCitizenOf	Costa_Rica
+Luis_Diego_Arnáez	isCitizenOf	Costa_Rica
+Luis_Diego_Arnáez	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Luis_Diego_Arnáez	playsFor	Liga_Deportiva_Alajuelense
+Luis_Diego_Arnáez	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Luis_Diego_Arnáez	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Marvin_Rodríguez	isCitizenOf	Costa_Rica
+Marvin_Rodríguez	isCitizenOf	Costa_Rica
+Marvin_Rodríguez	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Marvin_Rodríguez	playsFor	Liga_Deportiva_Alajuelense
+Marvin_Rodríguez	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Marvin_Rodríguez	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Daniel_Juárez	isCitizenOf	Costa_Rica
+Daniel_Juárez	isCitizenOf	Costa_Rica
+Daniel_Juárez	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Daniel_Juárez	playsFor	Liga_Deportiva_Alajuelense
+Daniel_Juárez	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Daniel_Juárez	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Armando_Alonso	isCitizenOf	Costa_Rica
+Armando_Alonso	isCitizenOf	Costa_Rica
+Armando_Alonso	playsFor	Liga_Deportiva_Alajuelense
+Armando_Alonso	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Armando_Alonso	playsFor	Liga_Deportiva_Alajuelense
+Armando_Alonso	isAffiliatedTo	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Omar_Arroyo	isCitizenOf	Costa_Rica
+Omar_Arroyo	isCitizenOf	Costa_Rica
+Omar_Arroyo	playsFor	Liga_Deportiva_Alajuelense
+Omar_Arroyo	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Omar_Arroyo	playsFor	Liga_Deportiva_Alajuelense
+Omar_Arroyo	isAffiliatedTo	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Liga_Deportiva_Alajuelense	owns	Estadio_Alejandro_Morera_Soto
+Liga_Deportiva_Alajuelense	owns	Estadio_Alejandro_Morera_Soto
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Esteban_Sirias	wasBornIn	Alajuela
+Esteban_Sirias	wasBornIn	Alajuela
+Esteban_Sirias	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Esteban_Sirias	playsFor	Liga_Deportiva_Alajuelense
+Esteban_Sirias	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Esteban_Sirias	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Javier_Jiménez_(Costa_Rican_footballer)	wasBornIn	Alajuela
+Javier_Jiménez_(Costa_Rican_footballer)	wasBornIn	Alajuela
+Javier_Jiménez_(Costa_Rican_footballer)	playsFor	Liga_Deportiva_Alajuelense
+Javier_Jiménez_(Costa_Rican_footballer)	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Javier_Jiménez_(Costa_Rican_footballer)	playsFor	Liga_Deportiva_Alajuelense
+Javier_Jiménez_(Costa_Rican_footballer)	isAffiliatedTo	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Liga_Deportiva_Alajuelense	isLocatedIn	Alajuela
+Liga_Deportiva_Alajuelense	isLocatedIn	Alajuela
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Alejandro_Morera_Soto	wasBornIn	Alajuela
+Alejandro_Morera_Soto	wasBornIn	Alajuela
+Alejandro_Morera_Soto	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Alejandro_Morera_Soto	playsFor	Liga_Deportiva_Alajuelense
+Alejandro_Morera_Soto	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Alejandro_Morera_Soto	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Javier_Delgado_Prado	wasBornIn	Alajuela
+Javier_Delgado_Prado	wasBornIn	Alajuela
+Javier_Delgado_Prado	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Javier_Delgado_Prado	playsFor	Liga_Deportiva_Alajuelense
+Javier_Delgado_Prado	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Javier_Delgado_Prado	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Liga_Deportiva_Alajuelense	owns	Estadio_Alejandro_Morera_Soto
+Liga_Deportiva_Alajuelense	owns	Estadio_Alejandro_Morera_Soto
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Zoran_Švonja	wasBornIn	Novi_Sad
+Zoran_Švonja	wasBornIn	Novi_Sad
+Zoran_Švonja	isAffiliatedTo	FK_Vojvodina
+Zoran_Švonja	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Jovo_Bosančić	wasBornIn	Novi_Sad
+Jovo_Bosančić	wasBornIn	Novi_Sad
+Jovo_Bosančić	isAffiliatedTo	FK_Vojvodina
+Jovo_Bosančić	playsFor	FK_Vojvodina
+Jovo_Bosančić	isAffiliatedTo	FK_Vojvodina
+Jovo_Bosančić	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+FK_Vojvodina	isLocatedIn	Novi_Sad
+FK_Vojvodina	isLocatedIn	Novi_Sad
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Nemanja_Čović	wasBornIn	Novi_Sad
+Nemanja_Čović	wasBornIn	Novi_Sad
+Nemanja_Čović	playsFor	FK_Vojvodina
+Nemanja_Čović	isAffiliatedTo	FK_Vojvodina
+Nemanja_Čović	playsFor	FK_Vojvodina
+Nemanja_Čović	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Janko_Sanković	wasBornIn	Novi_Sad
+Janko_Sanković	wasBornIn	Novi_Sad
+Janko_Sanković	playsFor	FK_Vojvodina
+Janko_Sanković	isAffiliatedTo	FK_Vojvodina
+Janko_Sanković	playsFor	FK_Vojvodina
+Janko_Sanković	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Vojo_Ubiparip	wasBornIn	Novi_Sad
+Vojo_Ubiparip	wasBornIn	Novi_Sad
+Vojo_Ubiparip	playsFor	FK_Vojvodina
+Vojo_Ubiparip	isAffiliatedTo	FK_Vojvodina
+Vojo_Ubiparip	playsFor	FK_Vojvodina
+Vojo_Ubiparip	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Milan_Spremo	wasBornIn	Novi_Sad
+Milan_Spremo	wasBornIn	Novi_Sad
+Milan_Spremo	playsFor	FK_Vojvodina
+Milan_Spremo	isAffiliatedTo	FK_Vojvodina
+Milan_Spremo	playsFor	FK_Vojvodina
+Milan_Spremo	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Nino_Pekarić	wasBornIn	Novi_Sad
+Nino_Pekarić	wasBornIn	Novi_Sad
+Nino_Pekarić	isAffiliatedTo	FK_Vojvodina
+Nino_Pekarić	playsFor	FK_Vojvodina
+Nino_Pekarić	isAffiliatedTo	FK_Vojvodina
+Nino_Pekarić	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Vojin_Prole	wasBornIn	Novi_Sad
+Vojin_Prole	wasBornIn	Novi_Sad
+Vojin_Prole	playsFor	FK_Vojvodina
+Vojin_Prole	isAffiliatedTo	FK_Vojvodina
+Vojin_Prole	playsFor	FK_Vojvodina
+Vojin_Prole	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Petar_Nikezić	diedIn	Novi_Sad
+Petar_Nikezić	diedIn	Novi_Sad
+Petar_Nikezić	playsFor	FK_Vojvodina
+Petar_Nikezić	isAffiliatedTo	FK_Vojvodina
+Petar_Nikezić	playsFor	FK_Vojvodina
+Petar_Nikezić	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Todor_Veselinović	wasBornIn	Novi_Sad
+Todor_Veselinović	wasBornIn	Novi_Sad
+Todor_Veselinović	isAffiliatedTo	FK_Vojvodina
+Todor_Veselinović	playsFor	FK_Vojvodina
+Todor_Veselinović	isAffiliatedTo	FK_Vojvodina
+Todor_Veselinović	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Slaviša_Jokanović	wasBornIn	Novi_Sad
+Slaviša_Jokanović	wasBornIn	Novi_Sad
+Slaviša_Jokanović	isAffiliatedTo	FK_Vojvodina
+Slaviša_Jokanović	playsFor	FK_Vojvodina
+Slaviša_Jokanović	isAffiliatedTo	FK_Vojvodina
+Slaviša_Jokanović	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Vuk_Mitošević	wasBornIn	Novi_Sad
+Vuk_Mitošević	wasBornIn	Novi_Sad
+Vuk_Mitošević	isAffiliatedTo	FK_Vojvodina
+Vuk_Mitošević	playsFor	FK_Vojvodina
+Vuk_Mitošević	isAffiliatedTo	FK_Vojvodina
+Vuk_Mitošević	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Dušan_Mićić	wasBornIn	Novi_Sad
+Dušan_Mićić	wasBornIn	Novi_Sad
+Dušan_Mićić	isAffiliatedTo	FK_Vojvodina
+Dušan_Mićić	playsFor	FK_Vojvodina
+Dušan_Mićić	isAffiliatedTo	FK_Vojvodina
+Dušan_Mićić	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+FK_Vojvodina	owns	Karađorđe_Stadium
+FK_Vojvodina	owns	Karađorđe_Stadium
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Vujadin_Boškov	diedIn	Novi_Sad
+Vujadin_Boškov	diedIn	Novi_Sad
+Vujadin_Boškov	playsFor	FK_Vojvodina
+Vujadin_Boškov	isAffiliatedTo	FK_Vojvodina
+Vujadin_Boškov	playsFor	FK_Vojvodina
+Vujadin_Boškov	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Saša_Savić	wasBornIn	Novi_Sad
+Saša_Savić	wasBornIn	Novi_Sad
+Saša_Savić	isAffiliatedTo	FK_Vojvodina
+Saša_Savić	playsFor	FK_Vojvodina
+Saša_Savić	isAffiliatedTo	FK_Vojvodina
+Saša_Savić	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Ljubiša_Vukelja	wasBornIn	Novi_Sad
+Ljubiša_Vukelja	wasBornIn	Novi_Sad
+Ljubiša_Vukelja	isAffiliatedTo	FK_Vojvodina
+Ljubiša_Vukelja	playsFor	FK_Vojvodina
+Ljubiša_Vukelja	isAffiliatedTo	FK_Vojvodina
+Ljubiša_Vukelja	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Žarko_Nikolić	diedIn	Novi_Sad
+Žarko_Nikolić	wasBornIn	Novi_Sad
+Žarko_Nikolić	diedIn	Novi_Sad
+Žarko_Nikolić	wasBornIn	Novi_Sad
+Žarko_Nikolić	playsFor	FK_Vojvodina
+Žarko_Nikolić	isAffiliatedTo	FK_Vojvodina
+Žarko_Nikolić	playsFor	FK_Vojvodina
+Žarko_Nikolić	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Ivica_Brzić	diedIn	Novi_Sad
+Ivica_Brzić	wasBornIn	Novi_Sad
+Ivica_Brzić	diedIn	Novi_Sad
+Ivica_Brzić	wasBornIn	Novi_Sad
+Ivica_Brzić	playsFor	FK_Vojvodina
+Ivica_Brzić	isAffiliatedTo	FK_Vojvodina
+Ivica_Brzić	playsFor	FK_Vojvodina
+Ivica_Brzić	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Mario_Maslać	wasBornIn	Novi_Sad
+Mario_Maslać	wasBornIn	Novi_Sad
+Mario_Maslać	playsFor	FK_Vojvodina
+Mario_Maslać	isAffiliatedTo	FK_Vojvodina
+Mario_Maslać	playsFor	FK_Vojvodina
+Mario_Maslać	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+FK_Vojvodina	owns	Karađorđe_Stadium
+FK_Vojvodina	owns	Karađorđe_Stadium
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Vojvodina
+Karađorđe_Stadium	isLocatedIn	Vojvodina
+Novi_Sad	isLocatedIn	Vojvodina
+Vojvodina	hasCapital	Novi_Sad
+Novi_Sad	isLocatedIn	Vojvodina
+Vojvodina	hasCapital	Novi_Sad
+FK_Vojvodina	isLocatedIn	Novi_Sad
+FK_Vojvodina	isLocatedIn	Novi_Sad
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Vojvodina
+Karađorđe_Stadium	isLocatedIn	Vojvodina
+Karađorđe_Stadium	isLocatedIn	Vojvodina
+Karađorđe_Stadium	isLocatedIn	Vojvodina
+FK_Vojvodina	owns	Karađorđe_Stadium
+FK_Vojvodina	owns	Karađorđe_Stadium
+
+http://dbpedia.org/resource/Boeing_International_Headquarters	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Boeing
+Boeing_International_Headquarters	Boeing
+Boeing	owns	Boeing_International_Headquarters
+Boeing	isLocatedIn	Boeing_International_Headquarters
+Boeing	owns	Boeing_International_Headquarters
+Boeing	isLocatedIn	Boeing_International_Headquarters
+
+http://dbpedia.org/resource/Taylor_Stadium_(Lehigh)	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Lehigh_University
+Taylor_Stadium_(Lehigh)	Lehigh_University
+Taylor_Stadium_(Lehigh)	isLocatedIn	Bethlehem,_Pennsylvania
+Taylor_Stadium_(Lehigh)	isLocatedIn	Bethlehem,_Pennsylvania
+Taylor_Stadium_(Lehigh)	isLocatedIn	Bethlehem,_Pennsylvania
+Taylor_Stadium_(Lehigh)	isLocatedIn	Bethlehem,_Pennsylvania
+Lehigh_University	owns	Taylor_Stadium_(Lehigh)
+Lehigh_University	owns	Taylor_Stadium_(Lehigh)
+
+http://dbpedia.org/resource/Taylor_Stadium_(Lehigh)	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Lehigh_University
+Taylor_Stadium_(Lehigh)	Lehigh_University
+Taylor_Stadium_(Lehigh)	isLocatedIn	Bethlehem,_Pennsylvania
+Taylor_Stadium_(Lehigh)	isLocatedIn	Bethlehem,_Pennsylvania
+Donald_T._Campbell	diedIn	Bethlehem,_Pennsylvania
+Donald_T._Campbell	diedIn	Bethlehem,_Pennsylvania
+Donald_T._Campbell	worksAt	Lehigh_University
+Donald_T._Campbell	worksAt	Lehigh_University
+
+http://dbpedia.org/resource/Taylor_Stadium_(Lehigh)	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Lehigh_University
+Taylor_Stadium_(Lehigh)	Lehigh_University
+Taylor_Stadium_(Lehigh)	isLocatedIn	Bethlehem,_Pennsylvania
+Taylor_Stadium_(Lehigh)	isLocatedIn	Bethlehem,_Pennsylvania
+Lehigh_University	isLocatedIn	Bethlehem,_Pennsylvania
+Lehigh_University	isLocatedIn	Bethlehem,_Pennsylvania
+
+http://dbpedia.org/resource/Taylor_Stadium_(Lehigh)	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Lehigh_University
+Taylor_Stadium_(Lehigh)	Lehigh_University
+Lehigh_University	owns	Taylor_Stadium_(Lehigh)
+Lehigh_University	owns	Taylor_Stadium_(Lehigh)
+
+http://dbpedia.org/resource/Taylor_Stadium_(Lehigh)	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Lehigh_University
+Taylor_Stadium_(Lehigh)	Lehigh_University
+Taylor_Stadium_(Lehigh)	isLocatedIn	Pennsylvania
+Taylor_Stadium_(Lehigh)	isLocatedIn	Pennsylvania
+Bethlehem,_Pennsylvania	isLocatedIn	Pennsylvania
+Bethlehem,_Pennsylvania	isLocatedIn	Pennsylvania
+Lehigh_University	isLocatedIn	Bethlehem,_Pennsylvania
+Lehigh_University	isLocatedIn	Bethlehem,_Pennsylvania
+
+http://dbpedia.org/resource/Kidd_Brewer_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Appalachian_State_University
+Kidd_Brewer_Stadium	Appalachian_State_University
+Kidd_Brewer_Stadium	isLocatedIn	Boone,_North_Carolina
+Kidd_Brewer_Stadium	isLocatedIn	Boone,_North_Carolina
+Steve_Goss	diedIn	Boone,_North_Carolina
+Steve_Goss	diedIn	Boone,_North_Carolina
+Steve_Goss	graduatedFrom	Appalachian_State_University
+Steve_Goss	graduatedFrom	Appalachian_State_University
+
+http://dbpedia.org/resource/Kidd_Brewer_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Appalachian_State_University
+Kidd_Brewer_Stadium	Appalachian_State_University
+Kidd_Brewer_Stadium	isLocatedIn	Boone,_North_Carolina
+Kidd_Brewer_Stadium	isLocatedIn	Boone,_North_Carolina
+Appalachian_State_University	isLocatedIn	Boone,_North_Carolina
+Appalachian_State_University	isLocatedIn	Boone,_North_Carolina
+
+http://dbpedia.org/resource/Kidd_Brewer_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Appalachian_State_University
+Kidd_Brewer_Stadium	Appalachian_State_University
+Appalachian_State_University	owns	Kidd_Brewer_Stadium
+Appalachian_State_University	owns	Kidd_Brewer_Stadium
+
+http://dbpedia.org/resource/Kidd_Brewer_Stadium	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Appalachian_State_University
+Kidd_Brewer_Stadium	Appalachian_State_University
+Kidd_Brewer_Stadium	isLocatedIn	North_Carolina
+Kidd_Brewer_Stadium	isLocatedIn	North_Carolina
+Kidd_Brewer_Stadium	isLocatedIn	North_Carolina
+Kidd_Brewer_Stadium	isLocatedIn	North_Carolina
+Appalachian_State_University	owns	Kidd_Brewer_Stadium
+Appalachian_State_University	owns	Kidd_Brewer_Stadium
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Louis_I_of_Hungary
+Wawel_Castle	Louis_I_of_Hungary
+John_I_Albert	owns	Wawel_Castle
+John_I_Albert	owns	Wawel_Castle
+John_I_Albert	owns	Wawel_Castle
+John_I_Albert	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Louis_I_of_Hungary
+Wawel_Castle	Louis_I_of_Hungary
+Wawel_Castle	isLocatedIn	Lesser_Poland_Voivodeship
+Wawel_Castle	isLocatedIn	Lesser_Poland_Voivodeship
+Wawel_Castle	isLocatedIn	Lesser_Poland_Voivodeship
+Wawel_Castle	isLocatedIn	Lesser_Poland_Voivodeship
+Louis_I_of_Hungary	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Louis_I_of_Hungary
+Wawel_Castle	Louis_I_of_Hungary
+Stanisław_Leszczyński	owns	Wawel_Castle
+Stanisław_Leszczyński	owns	Wawel_Castle
+Stanisław_Leszczyński	owns	Wawel_Castle
+Stanisław_Leszczyński	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Louis_I_of_Hungary
+Wawel_Castle	Louis_I_of_Hungary
+John_II_Casimir_Vasa	owns	Wawel_Castle
+John_II_Casimir_Vasa	owns	Wawel_Castle
+John_II_Casimir_Vasa	owns	Wawel_Castle
+John_II_Casimir_Vasa	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Louis_I_of_Hungary
+Wawel_Castle	Louis_I_of_Hungary
+Władysław_III_of_Poland	owns	Wawel_Castle
+Władysław_III_of_Poland	owns	Wawel_Castle
+Władysław_III_of_Poland	isCitizenOf	Croatia
+Władysław_III_of_Poland	isCitizenOf	Croatia
+Louis_I_of_Hungary	isCitizenOf	Croatia
+Louis_I_of_Hungary	isCitizenOf	Croatia
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Louis_I_of_Hungary
+Wawel_Castle	Louis_I_of_Hungary
+Władysław_III_of_Poland	owns	Wawel_Castle
+Władysław_III_of_Poland	owns	Wawel_Castle
+Władysław_III_of_Poland	owns	Wawel_Castle
+Władysław_III_of_Poland	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Louis_I_of_Hungary
+Wawel_Castle	Louis_I_of_Hungary
+Władysław_IV_Vasa	owns	Wawel_Castle
+Władysław_IV_Vasa	owns	Wawel_Castle
+Władysław_IV_Vasa	owns	Wawel_Castle
+Władysław_IV_Vasa	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Louis_I_of_Hungary
+Wawel_Castle	Louis_I_of_Hungary
+Władysław_II_Jagiełło	owns	Wawel_Castle
+Władysław_II_Jagiełło	owns	Wawel_Castle
+Władysław_II_Jagiełło	owns	Wawel_Castle
+Władysław_II_Jagiełło	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Louis_I_of_Hungary
+Wawel_Castle	Louis_I_of_Hungary
+Anna_Jagiellon	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+Anna_Jagiellon	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Wawel_Castle	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Louis_I_of_Hungary
+Wawel_Castle	Louis_I_of_Hungary
+Louis_I_of_Hungary	owns	Wawel_Castle
+Louis_I_of_Hungary	owns	Wawel_Castle
+
+http://dbpedia.org/resource/Acura	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Honda
+Acura	Honda
+Honda	owns	Acura
+Honda	owns	Acura
+
+http://dbpedia.org/resource/Acura	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Honda
+Acura	Honda
+Acura	isLocatedIn	Torrance,_California
+Acura	isLocatedIn	Torrance,_California
+Acura	isLocatedIn	Torrance,_California
+Acura	isLocatedIn	Torrance,_California
+Honda	owns	Acura
+Honda	owns	Acura
+
+http://dbpedia.org/resource/Tampa_Bay_Buccaneers	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Malcolm_Glazer
+Tampa_Bay_Buccaneers	Malcolm_Glazer
+Aqib_Talib	isAffiliatedTo	Tampa_Bay_Buccaneers
+Aqib_Talib	isAffiliatedTo	Tampa_Bay_Buccaneers
+Aqib_Talib	isAffiliatedTo	Tampa_Bay_Buccaneers
+Aqib_Talib	isAffiliatedTo	Tampa_Bay_Buccaneers
+Malcolm_Glazer	owns	Tampa_Bay_Buccaneers
+Malcolm_Glazer	owns	Tampa_Bay_Buccaneers
+
+http://dbpedia.org/resource/Tampa_Bay_Buccaneers	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Malcolm_Glazer
+Tampa_Bay_Buccaneers	Malcolm_Glazer
+Tampa_Bay_Buccaneers	isLocatedIn	Tampa_Stadium
+Tampa_Bay_Buccaneers	isLocatedIn	Tampa_Stadium
+Tampa_Bay_Buccaneers	isLocatedIn	Tampa_Stadium
+Tampa_Bay_Buccaneers	isLocatedIn	Tampa_Stadium
+Malcolm_Glazer	owns	Tampa_Bay_Buccaneers
+Malcolm_Glazer	owns	Tampa_Bay_Buccaneers
+
+http://dbpedia.org/resource/Tampa_Bay_Buccaneers	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Malcolm_Glazer
+Tampa_Bay_Buccaneers	Malcolm_Glazer
+Malcolm_Glazer	owns	Tampa_Bay_Buccaneers
+Malcolm_Glazer	owns	Tampa_Bay_Buccaneers
+
+http://dbpedia.org/resource/Tampa_Bay_Buccaneers	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Malcolm_Glazer
+Tampa_Bay_Buccaneers	Malcolm_Glazer
+Darrelle_Revis	isAffiliatedTo	Tampa_Bay_Buccaneers
+Darrelle_Revis	isAffiliatedTo	Tampa_Bay_Buccaneers
+Darrelle_Revis	isAffiliatedTo	Tampa_Bay_Buccaneers
+Darrelle_Revis	isAffiliatedTo	Tampa_Bay_Buccaneers
+Malcolm_Glazer	owns	Tampa_Bay_Buccaneers
+Malcolm_Glazer	owns	Tampa_Bay_Buccaneers
+
+http://dbpedia.org/resource/Class_of_1923_Arena	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/University_of_Pennsylvania
+Class_of_1923_Arena	University_of_Pennsylvania
+Class_of_1923_Arena	isLocatedIn	Philadelphia
+Class_of_1923_Arena	isLocatedIn	Philadelphia
+William_M._Meredith	wasBornIn	Philadelphia
+William_M._Meredith	diedIn	Philadelphia
+William_M._Meredith	wasBornIn	Philadelphia
+William_M._Meredith	diedIn	Philadelphia
+William_M._Meredith	graduatedFrom	University_of_Pennsylvania
+William_M._Meredith	graduatedFrom	University_of_Pennsylvania
+
+http://dbpedia.org/resource/Class_of_1923_Arena	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/University_of_Pennsylvania
+Class_of_1923_Arena	University_of_Pennsylvania
+Class_of_1923_Arena	isLocatedIn	Philadelphia
+Class_of_1923_Arena	isLocatedIn	Philadelphia
+Charles_L._Kane	livesIn	Philadelphia
+Charles_L._Kane	livesIn	Philadelphia
+Charles_L._Kane	worksAt	University_of_Pennsylvania
+Charles_L._Kane	worksAt	University_of_Pennsylvania
+
+http://dbpedia.org/resource/Class_of_1923_Arena	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/University_of_Pennsylvania
+Class_of_1923_Arena	University_of_Pennsylvania
+Class_of_1923_Arena	isLocatedIn	Philadelphia
+Class_of_1923_Arena	isLocatedIn	Philadelphia
+David_L._Cohen	livesIn	Philadelphia
+David_L._Cohen	livesIn	Philadelphia
+David_L._Cohen	graduatedFrom	University_of_Pennsylvania
+David_L._Cohen	graduatedFrom	University_of_Pennsylvania
+
+http://dbpedia.org/resource/Class_of_1923_Arena	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/University_of_Pennsylvania
+Class_of_1923_Arena	University_of_Pennsylvania
+Class_of_1923_Arena	isLocatedIn	Philadelphia
+Class_of_1923_Arena	isLocatedIn	Philadelphia
+Silvan_Tomkins	wasBornIn	Philadelphia
+Silvan_Tomkins	wasBornIn	Philadelphia
+Silvan_Tomkins	graduatedFrom	University_of_Pennsylvania
+Silvan_Tomkins	graduatedFrom	University_of_Pennsylvania
+
+http://dbpedia.org/resource/Class_of_1923_Arena	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/University_of_Pennsylvania
+Class_of_1923_Arena	University_of_Pennsylvania
+Class_of_1923_Arena	isLocatedIn	Philadelphia
+Class_of_1923_Arena	isLocatedIn	Philadelphia
+University_of_Pennsylvania	isLocatedIn	Philadelphia
+University_of_Pennsylvania	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/Class_of_1923_Arena	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/University_of_Pennsylvania
+Class_of_1923_Arena	University_of_Pennsylvania
+Class_of_1923_Arena	isLocatedIn	Pennsylvania
+Class_of_1923_Arena	isLocatedIn	Pennsylvania
+David_L._Cohen	livesIn	Pennsylvania
+David_L._Cohen	livesIn	Pennsylvania
+David_L._Cohen	graduatedFrom	University_of_Pennsylvania
+David_L._Cohen	graduatedFrom	University_of_Pennsylvania
+
+http://dbpedia.org/resource/Class_of_1923_Arena	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/University_of_Pennsylvania
+Class_of_1923_Arena	University_of_Pennsylvania
+Class_of_1923_Arena	isLocatedIn	Pennsylvania
+Class_of_1923_Arena	isLocatedIn	Pennsylvania
+University_of_Pennsylvania	isLocatedIn	Pennsylvania
+University_of_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Class_of_1923_Arena	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/University_of_Pennsylvania
+Class_of_1923_Arena	University_of_Pennsylvania
+University_of_Pennsylvania	owns	Class_of_1923_Arena
+University_of_Pennsylvania	owns	Class_of_1923_Arena
+
+http://dbpedia.org/resource/101_California_Street	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Hines_Interests_Limited_Partnership
+101_California_Street	Hines_Interests_Limited_Partnership
+Hines_Interests_Limited_Partnership	owns	101_California_Street
+Hines_Interests_Limited_Partnership	created	101_California_Street
+Hines_Interests_Limited_Partnership	owns	101_California_Street
+Hines_Interests_Limited_Partnership	created	101_California_Street
+
+http://dbpedia.org/resource/101_California_Street	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Hines_Interests_Limited_Partnership
+101_California_Street	Hines_Interests_Limited_Partnership
+101_California_Street	isLocatedIn	San_Francisco
+101_California_Street	isLocatedIn	San_Francisco
+101_California_Street	isLocatedIn	San_Francisco
+101_California_Street	isLocatedIn	San_Francisco
+Hines_Interests_Limited_Partnership	owns	101_California_Street
+Hines_Interests_Limited_Partnership	created	101_California_Street
+Hines_Interests_Limited_Partnership	owns	101_California_Street
+Hines_Interests_Limited_Partnership	created	101_California_Street
+
+http://dbpedia.org/resource/Sultan_Abu_Bakar_Complex	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Malaysian_Highway_Authority
+Sultan_Abu_Bakar_Complex	Malaysian_Highway_Authority
+Malaysian_Public_Works_Department	created	Sultan_Abu_Bakar_Complex
+Malaysian_Public_Works_Department	owns	Sultan_Abu_Bakar_Complex
+Malaysian_Public_Works_Department	created	Sultan_Abu_Bakar_Complex
+Malaysian_Public_Works_Department	owns	Sultan_Abu_Bakar_Complex
+Malaysian_Public_Works_Department	created	Sultan_Abu_Bakar_Complex
+Malaysian_Public_Works_Department	owns	Sultan_Abu_Bakar_Complex
+Malaysian_Public_Works_Department	created	Sultan_Abu_Bakar_Complex
+Malaysian_Public_Works_Department	owns	Sultan_Abu_Bakar_Complex
+Malaysian_Highway_Authority	owns	Sultan_Abu_Bakar_Complex
+Malaysian_Highway_Authority	created	Sultan_Abu_Bakar_Complex
+Malaysian_Highway_Authority	owns	Sultan_Abu_Bakar_Complex
+Malaysian_Highway_Authority	created	Sultan_Abu_Bakar_Complex
+
+http://dbpedia.org/resource/Sultan_Abu_Bakar_Complex	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Malaysian_Highway_Authority
+Sultan_Abu_Bakar_Complex	Malaysian_Highway_Authority
+Malaysian_Highway_Authority	owns	Sultan_Abu_Bakar_Complex
+Malaysian_Highway_Authority	created	Sultan_Abu_Bakar_Complex
+Malaysian_Highway_Authority	owns	Sultan_Abu_Bakar_Complex
+Malaysian_Highway_Authority	created	Sultan_Abu_Bakar_Complex
+
+http://dbpedia.org/resource/Sultan_Abu_Bakar_Complex	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Malaysian_Highway_Authority
+Sultan_Abu_Bakar_Complex	Malaysian_Highway_Authority
+Sultan_Abu_Bakar_Complex	isLocatedIn	Tanjung_Kupang
+Sultan_Abu_Bakar_Complex	isLocatedIn	Tanjung_Kupang
+Malaysia–Singapore_Second_Link	isLocatedIn	Tanjung_Kupang
+Malaysia–Singapore_Second_Link	isLocatedIn	Tanjung_Kupang
+Malaysian_Highway_Authority	created	Malaysia–Singapore_Second_Link
+Malaysian_Highway_Authority	created	Malaysia–Singapore_Second_Link
+
+http://dbpedia.org/resource/Sultan_Abu_Bakar_Complex	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Malaysian_Highway_Authority
+Sultan_Abu_Bakar_Complex	Malaysian_Highway_Authority
+Sultan_Abu_Bakar_Complex	isLocatedIn	Tanjung_Kupang
+Sultan_Abu_Bakar_Complex	isLocatedIn	Tanjung_Kupang
+Sultan_Abu_Bakar_Complex	isLocatedIn	Tanjung_Kupang
+Sultan_Abu_Bakar_Complex	isLocatedIn	Tanjung_Kupang
+Malaysian_Highway_Authority	owns	Sultan_Abu_Bakar_Complex
+Malaysian_Highway_Authority	created	Sultan_Abu_Bakar_Complex
+Malaysian_Highway_Authority	owns	Sultan_Abu_Bakar_Complex
+Malaysian_Highway_Authority	created	Sultan_Abu_Bakar_Complex
+
+http://dbpedia.org/resource/10_Universal_City_Plaza	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Comcast
+10_Universal_City_Plaza	Comcast
+Comcast	owns	10_Universal_City_Plaza
+Comcast	owns	10_Universal_City_Plaza
+
+http://dbpedia.org/resource/10_Universal_City_Plaza	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Comcast
+10_Universal_City_Plaza	Comcast
+NBC	isLocatedIn	10_Universal_City_Plaza
+NBC	isLocatedIn	10_Universal_City_Plaza
+NBC	isLocatedIn	10_Universal_City_Plaza
+NBC	isLocatedIn	10_Universal_City_Plaza
+Comcast	owns	10_Universal_City_Plaza
+Comcast	owns	10_Universal_City_Plaza
+
+http://dbpedia.org/resource/10_Universal_City_Plaza	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Comcast
+10_Universal_City_Plaza	Comcast
+NBC	isLocatedIn	10_Universal_City_Plaza
+NBC	isLocatedIn	10_Universal_City_Plaza
+Comcast	owns	NBC
+Comcast	owns	NBC
+
+http://dbpedia.org/resource/10_Universal_City_Plaza	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Comcast
+10_Universal_City_Plaza	Comcast
+Skidmore,_Owings_&_Merrill	created	10_Universal_City_Plaza
+Skidmore,_Owings_&_Merrill	created	10_Universal_City_Plaza
+Skidmore,_Owings_&_Merrill	created	10_Universal_City_Plaza
+Skidmore,_Owings_&_Merrill	created	10_Universal_City_Plaza
+Comcast	owns	10_Universal_City_Plaza
+Comcast	owns	10_Universal_City_Plaza
+
+http://dbpedia.org/resource/10_Universal_City_Plaza	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/Comcast
+10_Universal_City_Plaza	Comcast
+10_Universal_City_Plaza	isLocatedIn	Universal_City,_California
+10_Universal_City_Plaza	isLocatedIn	Universal_City,_California
+10_Universal_City_Plaza	isLocatedIn	Universal_City,_California
+10_Universal_City_Plaza	isLocatedIn	Universal_City,_California
+Comcast	owns	10_Universal_City_Plaza
+Comcast	owns	10_Universal_City_Plaza
+

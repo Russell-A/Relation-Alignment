@@ -1,0 +1,554 @@
+http://dbpedia.org/resource/Lycoming_Creek	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Pennsylvania
+Lycoming_Creek	Pennsylvania
+Lycoming_Creek	isLocatedIn	Pennsylvania
+Lycoming_Creek	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Lycoming_Creek	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Pennsylvania
+Lycoming_Creek	Pennsylvania
+Lycoming_Creek	isLocatedIn	Lycoming_County,_Pennsylvania
+Lycoming_Creek	isLocatedIn	Lycoming_County,_Pennsylvania
+Lycoming_Creek	isLocatedIn	Lycoming_County,_Pennsylvania
+Lycoming_Creek	isLocatedIn	Lycoming_County,_Pennsylvania
+Lycoming_Creek	isLocatedIn	Pennsylvania
+Lycoming_Creek	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Lycoming_Creek	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Pennsylvania
+Lycoming_Creek	Pennsylvania
+Lycoming_Creek	isLocatedIn	Lycoming_County,_Pennsylvania
+Lycoming_Creek	isLocatedIn	Lycoming_County,_Pennsylvania
+Lycoming_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Lycoming_County,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Lycoming_Creek	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Pennsylvania
+Lycoming_Creek	Pennsylvania
+Lycoming_Creek	isLocatedIn	Lycoming_County,_Pennsylvania
+Lycoming_Creek	isLocatedIn	Lycoming_County,_Pennsylvania
+Canton_Area_School_District	isLocatedIn	Lycoming_County,_Pennsylvania
+Canton_Area_School_District	isLocatedIn	Lycoming_County,_Pennsylvania
+Canton_Area_School_District	isLocatedIn	Pennsylvania
+Canton_Area_School_District	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Lycoming_Creek	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Pennsylvania
+Lycoming_Creek	Pennsylvania
+Lycoming_Creek	isLocatedIn	Lycoming_County,_Pennsylvania
+Lycoming_Creek	isLocatedIn	Lycoming_County,_Pennsylvania
+Canton_Junior_Senior_High_School	isLocatedIn	Lycoming_County,_Pennsylvania
+Canton_Junior_Senior_High_School	isLocatedIn	Lycoming_County,_Pennsylvania
+Canton_Junior_Senior_High_School	isLocatedIn	Pennsylvania
+Canton_Junior_Senior_High_School	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Lycoming_Creek	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Pennsylvania
+Lycoming_Creek	Pennsylvania
+Lycoming_Creek	isLocatedIn	Lycoming_County,_Pennsylvania
+Lycoming_Creek	isLocatedIn	Lycoming_County,_Pennsylvania
+Slate_Run	isLocatedIn	Lycoming_County,_Pennsylvania
+Slate_Run	isLocatedIn	Lycoming_County,_Pennsylvania
+Slate_Run	isLocatedIn	Pennsylvania
+Slate_Run	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Lycoming_Creek	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Pennsylvania
+Lycoming_Creek	Pennsylvania
+Lycoming_Creek	isLocatedIn	Tioga_County,_Pennsylvania
+Lycoming_Creek	isLocatedIn	Tioga_County,_Pennsylvania
+Pine_Creek_(Pennsylvania)	isLocatedIn	Tioga_County,_Pennsylvania
+Pine_Creek_(Pennsylvania)	isLocatedIn	Tioga_County,_Pennsylvania
+Pine_Creek_(Pennsylvania)	isLocatedIn	Pennsylvania
+Pine_Creek_(Pennsylvania)	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Lycoming_Creek	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Pennsylvania
+Lycoming_Creek	Pennsylvania
+Lycoming_Creek	isLocatedIn	Tioga_County,_Pennsylvania
+Lycoming_Creek	isLocatedIn	Tioga_County,_Pennsylvania
+Tioga_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Tioga_County,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Lycoming_Creek	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Pennsylvania
+Lycoming_Creek	Pennsylvania
+Lycoming_Creek	isLocatedIn	Tioga_County,_Pennsylvania
+Lycoming_Creek	isLocatedIn	Tioga_County,_Pennsylvania
+Canton_Area_School_District	isLocatedIn	Tioga_County,_Pennsylvania
+Canton_Area_School_District	isLocatedIn	Tioga_County,_Pennsylvania
+Canton_Area_School_District	isLocatedIn	Pennsylvania
+Canton_Area_School_District	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Lycoming_Creek	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Pennsylvania
+Lycoming_Creek	Pennsylvania
+Lycoming_Creek	isLocatedIn	Tioga_County,_Pennsylvania
+Lycoming_Creek	isLocatedIn	Tioga_County,_Pennsylvania
+Mansfield,_Pennsylvania	isLocatedIn	Tioga_County,_Pennsylvania
+Mansfield,_Pennsylvania	isLocatedIn	Tioga_County,_Pennsylvania
+Mansfield,_Pennsylvania	isLocatedIn	Pennsylvania
+Mansfield,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Lycoming_Creek	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Pennsylvania
+Lycoming_Creek	Pennsylvania
+Lycoming_Creek	isLocatedIn	Tioga_County,_Pennsylvania
+Lycoming_Creek	isLocatedIn	Tioga_County,_Pennsylvania
+Canton_Junior_Senior_High_School	isLocatedIn	Tioga_County,_Pennsylvania
+Canton_Junior_Senior_High_School	isLocatedIn	Tioga_County,_Pennsylvania
+Canton_Junior_Senior_High_School	isLocatedIn	Pennsylvania
+Canton_Junior_Senior_High_School	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Lycoming_Creek	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Pennsylvania
+Lycoming_Creek	Pennsylvania
+Lycoming_Creek	isLocatedIn	Tioga_County,_Pennsylvania
+Lycoming_Creek	isLocatedIn	Tioga_County,_Pennsylvania
+Pine_Creek_Gorge	isLocatedIn	Tioga_County,_Pennsylvania
+Pine_Creek_Gorge	isLocatedIn	Tioga_County,_Pennsylvania
+Pine_Creek_Gorge	isLocatedIn	Pennsylvania
+Pine_Creek_Gorge	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Lycoming_Creek	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Pennsylvania
+Lycoming_Creek	Pennsylvania
+Lycoming_Creek	isLocatedIn	Tioga_County,_Pennsylvania
+Lycoming_Creek	isLocatedIn	Tioga_County,_Pennsylvania
+Lycoming_Creek	isLocatedIn	Tioga_County,_Pennsylvania
+Lycoming_Creek	isLocatedIn	Tioga_County,_Pennsylvania
+Lycoming_Creek	isLocatedIn	Pennsylvania
+Lycoming_Creek	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Lycoming_Creek	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Pennsylvania
+Lycoming_Creek	Pennsylvania
+Lycoming_Creek	isLocatedIn	Tioga_County,_Pennsylvania
+Lycoming_Creek	isLocatedIn	Tioga_County,_Pennsylvania
+Slate_Run	isLocatedIn	Tioga_County,_Pennsylvania
+Slate_Run	isLocatedIn	Tioga_County,_Pennsylvania
+Slate_Run	isLocatedIn	Pennsylvania
+Slate_Run	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Achelous_River	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Achelous_River	Greece
+Achelous_River	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Greece
+Achelous_River	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Achelous_River	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Achelous_River	Greece
+Achelous_River	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Epirus_(region)
+Battle_of_Peta	happenedIn	Epirus_(region)
+Battle_of_Peta	happenedIn	Epirus_(region)
+Battle_of_Peta	happenedIn	Greece
+Greece	participatedIn	Battle_of_Peta
+Battle_of_Peta	happenedIn	Greece
+Greece	participatedIn	Battle_of_Peta
+
+http://dbpedia.org/resource/Achelous_River	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Achelous_River	Greece
+Achelous_River	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Epirus_(region)
+Pindus_National_Park	isLocatedIn	Epirus_(region)
+Pindus_National_Park	isLocatedIn	Epirus_(region)
+Pindus_National_Park	isLocatedIn	Greece
+Pindus_National_Park	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Achelous_River	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Achelous_River	Greece
+Achelous_River	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Epirus_(region)
+Athamanika	isLocatedIn	Epirus_(region)
+Athamanika	isLocatedIn	Epirus_(region)
+Athamanika	isLocatedIn	Greece
+Athamanika	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Achelous_River	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Achelous_River	Greece
+Achelous_River	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Epirus_(region)
+Greco-Turkish_War_(1897)	isLocatedIn	Epirus_(region)
+Greco-Turkish_War_(1897)	isLocatedIn	Epirus_(region)
+Greco-Turkish_War_(1897)	isLocatedIn	Greece
+Greco-Turkish_War_(1897)	happenedIn	Greece
+Greco-Turkish_War_(1897)	isLocatedIn	Greece
+Greco-Turkish_War_(1897)	happenedIn	Greece
+
+http://dbpedia.org/resource/Achelous_River	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Achelous_River	Greece
+Achelous_River	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Epirus_(region)
+Epirus_(region)	isLocatedIn	Greece
+Epirus_(region)	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Achelous_River	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Achelous_River	Greece
+Achelous_River	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Epirus_(region)
+Pindus	isLocatedIn	Epirus_(region)
+Pindus	isLocatedIn	Epirus_(region)
+Pindus	isLocatedIn	Greece
+Pindus	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Achelous_River	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Achelous_River	Greece
+Achelous_River	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Greece
+Aoös	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Achelous_River	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Achelous_River	Greece
+Achelous_River	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Achelous_River	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Achelous_River	Greece
+Achelous_River	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Epirus_(region)
+Archaeological_Museum_of_Arta	isLocatedIn	Epirus_(region)
+Archaeological_Museum_of_Arta	isLocatedIn	Epirus_(region)
+Archaeological_Museum_of_Arta	isLocatedIn	Greece
+Archaeological_Museum_of_Arta	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Achelous_River	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Achelous_River	Greece
+Achelous_River	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Epirus_(region)
+Gramos	isLocatedIn	Epirus_(region)
+Gramos	isLocatedIn	Epirus_(region)
+Gramos	isLocatedIn	Greece
+Gramos	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Achelous_River	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Achelous_River	Greece
+Achelous_River	isLocatedIn	Greece
+Achelous_River	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Achelous_River	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Achelous_River	Greece
+Achelous_River	isLocatedIn	Epirus
+Achelous_River	isLocatedIn	Epirus
+Achelous_River	isLocatedIn	Epirus
+Achelous_River	isLocatedIn	Epirus
+Achelous_River	isLocatedIn	Greece
+Achelous_River	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Achelous_River	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Achelous_River	Greece
+Achelous_River	isLocatedIn	Thessaly
+Achelous_River	isLocatedIn	Thessaly
+Achelous_River	isLocatedIn	Thessaly
+Achelous_River	isLocatedIn	Thessaly
+Achelous_River	isLocatedIn	Greece
+Achelous_River	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Albania
+Sarantaporos_(Epirus)	Albania
+Sarantaporos_(Epirus)	isLocatedIn	Albania
+Sarantaporos_(Epirus)	isLocatedIn	Albania
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Albania
+Sarantaporos_(Epirus)	Albania
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Pindus	isLocatedIn	Epirus_(region)
+Pindus	isLocatedIn	Epirus_(region)
+Pindus	isLocatedIn	Albania
+Pindus	isLocatedIn	Albania
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Albania
+Sarantaporos_(Epirus)	Albania
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Albania
+Aoös	isLocatedIn	Albania
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Albania
+Sarantaporos_(Epirus)	Albania
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Albania
+Sarantaporos_(Epirus)	isLocatedIn	Albania
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Albania
+Sarantaporos_(Epirus)	Albania
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Gramos	isLocatedIn	Epirus_(region)
+Gramos	isLocatedIn	Epirus_(region)
+Gramos	isLocatedIn	Albania
+Gramos	isLocatedIn	Albania
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Albania
+Sarantaporos_(Epirus)	isLocatedIn	Albania
+Alexander's_Balkan_campaign	happenedIn	Albania
+Alexander's_Balkan_campaign	happenedIn	Albania
+Alexander's_Balkan_campaign	happenedIn	Greece
+Alexander's_Balkan_campaign	happenedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Greece
+Achelous_River	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Battle_of_Peta	happenedIn	Epirus_(region)
+Battle_of_Peta	happenedIn	Epirus_(region)
+Battle_of_Peta	happenedIn	Greece
+Greece	participatedIn	Battle_of_Peta
+Battle_of_Peta	happenedIn	Greece
+Greece	participatedIn	Battle_of_Peta
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Pindus_National_Park	isLocatedIn	Epirus_(region)
+Pindus_National_Park	isLocatedIn	Epirus_(region)
+Pindus_National_Park	isLocatedIn	Greece
+Pindus_National_Park	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Athamanika	isLocatedIn	Epirus_(region)
+Athamanika	isLocatedIn	Epirus_(region)
+Athamanika	isLocatedIn	Greece
+Athamanika	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Greco-Turkish_War_(1897)	isLocatedIn	Epirus_(region)
+Greco-Turkish_War_(1897)	isLocatedIn	Epirus_(region)
+Greco-Turkish_War_(1897)	isLocatedIn	Greece
+Greco-Turkish_War_(1897)	happenedIn	Greece
+Greco-Turkish_War_(1897)	isLocatedIn	Greece
+Greco-Turkish_War_(1897)	happenedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Epirus_(region)	isLocatedIn	Greece
+Epirus_(region)	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Pindus	isLocatedIn	Epirus_(region)
+Pindus	isLocatedIn	Epirus_(region)
+Pindus	isLocatedIn	Greece
+Pindus	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Greece
+Aoös	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Archaeological_Museum_of_Arta	isLocatedIn	Epirus_(region)
+Archaeological_Museum_of_Arta	isLocatedIn	Epirus_(region)
+Archaeological_Museum_of_Arta	isLocatedIn	Greece
+Archaeological_Museum_of_Arta	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Sarantaporos_(Epirus)	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Sarantaporos_(Epirus)	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Gramos	isLocatedIn	Epirus_(region)
+Gramos	isLocatedIn	Epirus_(region)
+Gramos	isLocatedIn	Greece
+Gramos	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Albania
+Aoös	Albania
+Aoös	isLocatedIn	Albania
+Aoös	isLocatedIn	Albania
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Albania
+Aoös	Albania
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Pindus	isLocatedIn	Epirus_(region)
+Pindus	isLocatedIn	Epirus_(region)
+Pindus	isLocatedIn	Albania
+Pindus	isLocatedIn	Albania
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Albania
+Aoös	Albania
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Albania
+Aoös	isLocatedIn	Albania
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Albania
+Aoös	Albania
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Albania
+Sarantaporos_(Epirus)	isLocatedIn	Albania
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Albania
+Aoös	Albania
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Gramos	isLocatedIn	Epirus_(region)
+Gramos	isLocatedIn	Epirus_(region)
+Gramos	isLocatedIn	Albania
+Gramos	isLocatedIn	Albania
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Albania
+Aoös	isLocatedIn	Albania
+Alexander's_Balkan_campaign	happenedIn	Albania
+Alexander's_Balkan_campaign	happenedIn	Albania
+Alexander's_Balkan_campaign	happenedIn	Greece
+Alexander's_Balkan_campaign	happenedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Greece
+Aoös	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Epirus_(region)
+Achelous_River	isLocatedIn	Greece
+Achelous_River	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Battle_of_Peta	happenedIn	Epirus_(region)
+Battle_of_Peta	happenedIn	Epirus_(region)
+Battle_of_Peta	happenedIn	Greece
+Greece	participatedIn	Battle_of_Peta
+Battle_of_Peta	happenedIn	Greece
+Greece	participatedIn	Battle_of_Peta
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Pindus_National_Park	isLocatedIn	Epirus_(region)
+Pindus_National_Park	isLocatedIn	Epirus_(region)
+Pindus_National_Park	isLocatedIn	Greece
+Pindus_National_Park	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Athamanika	isLocatedIn	Epirus_(region)
+Athamanika	isLocatedIn	Epirus_(region)
+Athamanika	isLocatedIn	Greece
+Athamanika	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Greco-Turkish_War_(1897)	isLocatedIn	Epirus_(region)
+Greco-Turkish_War_(1897)	isLocatedIn	Epirus_(region)
+Greco-Turkish_War_(1897)	isLocatedIn	Greece
+Greco-Turkish_War_(1897)	happenedIn	Greece
+Greco-Turkish_War_(1897)	isLocatedIn	Greece
+Greco-Turkish_War_(1897)	happenedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Epirus_(region)	isLocatedIn	Greece
+Epirus_(region)	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Pindus	isLocatedIn	Epirus_(region)
+Pindus	isLocatedIn	Epirus_(region)
+Pindus	isLocatedIn	Greece
+Pindus	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Greece
+Aoös	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Epirus_(region)
+Sarantaporos_(Epirus)	isLocatedIn	Greece
+Sarantaporos_(Epirus)	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Archaeological_Museum_of_Arta	isLocatedIn	Epirus_(region)
+Archaeological_Museum_of_Arta	isLocatedIn	Epirus_(region)
+Archaeological_Museum_of_Arta	isLocatedIn	Greece
+Archaeological_Museum_of_Arta	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Aoös	http://dbpedia.org/ontology/sourceCountry	http://dbpedia.org/resource/Greece
+Aoös	Greece
+Aoös	isLocatedIn	Epirus_(region)
+Aoös	isLocatedIn	Epirus_(region)
+Gramos	isLocatedIn	Epirus_(region)
+Gramos	isLocatedIn	Epirus_(region)
+Gramos	isLocatedIn	Greece
+Gramos	isLocatedIn	Greece
+

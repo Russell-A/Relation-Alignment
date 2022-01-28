@@ -1,0 +1,134 @@
+http://dbpedia.org/resource/R1_expressway_(Slovakia)	http://dbpedia.org/ontology/routeStart	http://dbpedia.org/resource/Trnava
+R1_expressway_(Slovakia)	Trnava
+R1_expressway_(Slovakia)	isLocatedIn	Trnava_Region
+R1_expressway_(Slovakia)	isLocatedIn	Trnava_Region
+Trnava	isLocatedIn	Trnava_Region
+Trnava_Region	hasCapital	Trnava
+Trnava	isLocatedIn	Trnava_Region
+Trnava_Region	hasCapital	Trnava
+
+http://dbpedia.org/resource/D1_motorway_(Slovakia)	http://dbpedia.org/ontology/routeStart	http://dbpedia.org/resource/Bratislava
+D1_motorway_(Slovakia)	Bratislava
+D1_motorway_(Slovakia)	isLocatedIn	Bratislava_Region
+D1_motorway_(Slovakia)	isLocatedIn	Bratislava_Region
+Bratislava_Region	hasCapital	Bratislava
+Bratislava	isLocatedIn	Bratislava_Region
+Bratislava_Region	hasCapital	Bratislava
+Bratislava	isLocatedIn	Bratislava_Region
+
+http://dbpedia.org/resource/Interstate_79	http://dbpedia.org/ontology/routeStart	http://dbpedia.org/resource/Charleston,_West_Virginia
+Interstate_79	Charleston,_West_Virginia
+Interstate_79	isLocatedIn	Interstate_77
+Interstate_79	isLocatedIn	Interstate_77
+Interstate_79	isLocatedIn	Interstate_77
+Interstate_79	isLocatedIn	Interstate_77
+Interstate_79	isLocatedIn	Charleston,_West_Virginia
+Interstate_79	isLocatedIn	Charleston,_West_Virginia
+
+http://dbpedia.org/resource/Interstate_79	http://dbpedia.org/ontology/routeStart	http://dbpedia.org/resource/Charleston,_West_Virginia
+Interstate_79	Charleston,_West_Virginia
+Interstate_79	isLocatedIn	Charleston,_West_Virginia
+Interstate_79	isLocatedIn	Charleston,_West_Virginia
+
+http://dbpedia.org/resource/Interstate_79	http://dbpedia.org/ontology/routeStart	http://dbpedia.org/resource/Charleston,_West_Virginia
+Interstate_79	Charleston,_West_Virginia
+Interstate_68	isLocatedIn	Interstate_79
+Interstate_68	isLocatedIn	Interstate_79
+Interstate_68	isLocatedIn	Interstate_79
+Interstate_68	isLocatedIn	Interstate_79
+Interstate_79	isLocatedIn	Charleston,_West_Virginia
+Interstate_79	isLocatedIn	Charleston,_West_Virginia
+
+http://dbpedia.org/resource/U.S._Route_11	http://dbpedia.org/ontology/routeStart	http://dbpedia.org/resource/New_Orleans
+U.S._Route_11	New_Orleans
+U.S._Route_11	isLocatedIn	Maryland
+U.S._Route_11	isLocatedIn	Maryland
+Hodding_Carter_III	livesIn	Maryland
+Hodding_Carter_III	livesIn	Maryland
+Hodding_Carter_III	wasBornIn	New_Orleans
+Hodding_Carter_III	wasBornIn	New_Orleans
+
+http://dbpedia.org/resource/U.S._Route_11	http://dbpedia.org/ontology/routeStart	http://dbpedia.org/resource/New_Orleans
+U.S._Route_11	New_Orleans
+U.S._Route_11	isLocatedIn	Virginia
+U.S._Route_11	isLocatedIn	Virginia
+Paul_Pastorek	livesIn	Virginia
+Paul_Pastorek	livesIn	Virginia
+Paul_Pastorek	wasBornIn	New_Orleans
+Paul_Pastorek	wasBornIn	New_Orleans
+
+http://dbpedia.org/resource/Estonian_national_road_5	http://dbpedia.org/ontology/routeStart	http://dbpedia.org/resource/Pärnu
+Estonian_national_road_5	Pärnu
+Estonian_national_road_5	isLocatedIn	Pärnu_County
+Estonian_national_road_5	isLocatedIn	Pärnu_County
+Pärnu_County	hasCapital	Pärnu
+Pärnu	isLocatedIn	Pärnu_County
+Pärnu_County	isLocatedIn	Pärnu
+Pärnu_County	hasCapital	Pärnu
+Pärnu	isLocatedIn	Pärnu_County
+Pärnu_County	isLocatedIn	Pärnu
+
+http://dbpedia.org/resource/Estonian_national_road_5	http://dbpedia.org/ontology/routeStart	http://dbpedia.org/resource/Pärnu
+Estonian_national_road_5	Pärnu
+Estonian_national_road_5	isLocatedIn	Sõmeru_Parish
+Estonian_national_road_5	isLocatedIn	Sõmeru_Parish
+Estonian_national_road_5	isLocatedIn	Sõmeru_Parish
+Estonian_national_road_5	isLocatedIn	Sõmeru_Parish
+Estonian_national_road_5	isLocatedIn	Pärnu
+Estonian_national_road_5	isLocatedIn	Pärnu
+
+http://dbpedia.org/resource/Estonian_national_road_5	http://dbpedia.org/ontology/routeStart	http://dbpedia.org/resource/Pärnu
+Estonian_national_road_5	Pärnu
+Estonian_national_road_5	isLocatedIn	Pärnu
+Estonian_national_road_5	isLocatedIn	Pärnu
+
+http://dbpedia.org/resource/U.S._Route_59_in_Texas	http://dbpedia.org/ontology/routeStart	http://dbpedia.org/resource/Laredo,_Texas
+U.S._Route_59_in_Texas	Laredo,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Laredo,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Laredo,_Texas
+
+http://dbpedia.org/resource/U.S._Route_59_in_Texas	http://dbpedia.org/ontology/routeStart	http://dbpedia.org/resource/Laredo,_Texas
+U.S._Route_59_in_Texas	Laredo,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Tenaha,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Tenaha,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Tenaha,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Tenaha,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Laredo,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Laredo,_Texas
+
+http://dbpedia.org/resource/U.S._Route_59_in_Texas	http://dbpedia.org/ontology/routeStart	http://dbpedia.org/resource/Laredo,_Texas
+U.S._Route_59_in_Texas	Laredo,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Texarkana,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Texarkana,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Texarkana,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Texarkana,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Laredo,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Laredo,_Texas
+
+http://dbpedia.org/resource/Interstate_74	http://dbpedia.org/ontology/routeStart	http://dbpedia.org/resource/Davenport,_Iowa
+Interstate_74	Davenport,_Iowa
+Interstate_74	isLocatedIn	Interstate_80
+Interstate_74	isLocatedIn	Interstate_80
+Interstate_80	isLocatedIn	Iowa
+Interstate_80	isLocatedIn	Iowa
+Davenport,_Iowa	isLocatedIn	Iowa
+Davenport,_Iowa	isLocatedIn	Iowa
+
+http://dbpedia.org/resource/Interstate_74	http://dbpedia.org/ontology/routeStart	http://dbpedia.org/resource/Davenport,_Iowa
+Interstate_74	Davenport,_Iowa
+Interstate_74	isLocatedIn	Iowa
+Interstate_74	isLocatedIn	Iowa
+Scott_County,_Iowa	isLocatedIn	Iowa
+Scott_County,_Iowa	isLocatedIn	Iowa
+Scott_County,_Iowa	isLocatedIn	Davenport,_Iowa
+Davenport,_Iowa	isLocatedIn	Scott_County,_Iowa
+Scott_County,_Iowa	isLocatedIn	Davenport,_Iowa
+Davenport,_Iowa	isLocatedIn	Scott_County,_Iowa
+
+http://dbpedia.org/resource/Interstate_74	http://dbpedia.org/ontology/routeStart	http://dbpedia.org/resource/Davenport,_Iowa
+Interstate_74	Davenport,_Iowa
+Interstate_74	isLocatedIn	Iowa
+Interstate_74	isLocatedIn	Iowa
+Davenport,_Iowa	isLocatedIn	Iowa
+Davenport,_Iowa	isLocatedIn	Iowa
+

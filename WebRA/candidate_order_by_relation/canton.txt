@@ -1,0 +1,55 @@
+http://dbpedia.org/resource/Interlaken	http://dbpedia.org/ontology/canton	http://dbpedia.org/resource/Bern
+Interlaken	Bern
+Interlaken-Oberhasli_(administrative_district)	isLocatedIn	Interlaken
+Interlaken	isLocatedIn	Interlaken-Oberhasli_(administrative_district)
+Interlaken-Oberhasli_(administrative_district)	isLocatedIn	Interlaken
+Interlaken	isLocatedIn	Interlaken-Oberhasli_(administrative_district)
+Interlaken-Oberhasli_(administrative_district)	isLocatedIn	Bern
+Interlaken-Oberhasli_(administrative_district)	isLocatedIn	Bern
+
+http://dbpedia.org/resource/Interlaken	http://dbpedia.org/ontology/canton	http://dbpedia.org/resource/Bern
+Interlaken	Bern
+Aare	isLocatedIn	Interlaken
+Aare	isLocatedIn	Interlaken
+Aare	isLocatedIn	Bern
+Aare	isLocatedIn	Bern
+
+http://dbpedia.org/resource/Solothurn	http://dbpedia.org/ontology/canton	http://dbpedia.org/resource/Solothurn
+Solothurn	Solothurn
+Solothurn	participatedIn	Swiss_peasant_war_of_1653
+Swiss_peasant_war_of_1653	happenedIn	Solothurn
+Solothurn	participatedIn	Swiss_peasant_war_of_1653
+Swiss_peasant_war_of_1653	happenedIn	Solothurn
+Solothurn	participatedIn	Swiss_peasant_war_of_1653
+Swiss_peasant_war_of_1653	happenedIn	Solothurn
+Solothurn	participatedIn	Swiss_peasant_war_of_1653
+Swiss_peasant_war_of_1653	happenedIn	Solothurn
+
+http://dbpedia.org/resource/Solothurn	http://dbpedia.org/ontology/canton	http://dbpedia.org/resource/Solothurn
+Solothurn	Solothurn
+Silvan_Thüler	wasBornIn	Solothurn
+Silvan_Thüler	wasBornIn	Solothurn
+Silvan_Thüler	wasBornIn	Solothurn
+Silvan_Thüler	wasBornIn	Solothurn
+
+http://dbpedia.org/resource/Solothurn	http://dbpedia.org/ontology/canton	http://dbpedia.org/resource/Solothurn
+Solothurn	Solothurn
+Aare	isLocatedIn	Solothurn
+Aare	isLocatedIn	Solothurn
+Aare	isLocatedIn	Solothurn
+Aare	isLocatedIn	Solothurn
+
+http://dbpedia.org/resource/Solothurn	http://dbpedia.org/ontology/canton	http://dbpedia.org/resource/Solothurn
+Solothurn	Solothurn
+Victor_Sterki	wasBornIn	Solothurn
+Victor_Sterki	wasBornIn	Solothurn
+Victor_Sterki	wasBornIn	Solothurn
+Victor_Sterki	wasBornIn	Solothurn
+
+http://dbpedia.org/resource/Solothurn	http://dbpedia.org/ontology/canton	http://dbpedia.org/resource/Solothurn
+Solothurn	Solothurn
+Synthes	isLocatedIn	Solothurn
+Synthes	isLocatedIn	Solothurn
+Synthes	isLocatedIn	Solothurn
+Synthes	isLocatedIn	Solothurn
+

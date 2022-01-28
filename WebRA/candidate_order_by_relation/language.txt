@@ -1,0 +1,40 @@
+http://dbpedia.org/resource/O_Pátio_das_Cantigas	http://dbpedia.org/ontology/language	http://dbpedia.org/resource/Portugal
+O_Pátio_das_Cantigas	Portugal
+Ribeirinho	directed	O_Pátio_das_Cantigas
+Ribeirinho	created	O_Pátio_das_Cantigas
+Ribeirinho	actedIn	O_Pátio_das_Cantigas
+Ribeirinho	directed	O_Pátio_das_Cantigas
+Ribeirinho	created	O_Pátio_das_Cantigas
+Ribeirinho	actedIn	O_Pátio_das_Cantigas
+Ribeirinho	actedIn	The_Tyrant_Father
+Ribeirinho	actedIn	The_Tyrant_Father
+The_Tyrant_Father	isLocatedIn	Portugal
+The_Tyrant_Father	isLocatedIn	Portugal
+
+http://dbpedia.org/resource/Manslaughter_(2005_film)	http://dbpedia.org/ontology/language	http://dbpedia.org/resource/Denmark
+Manslaughter_(2005_film)	Denmark
+Jesper_Christensen	actedIn	Manslaughter_(2005_film)
+Jesper_Christensen	actedIn	Manslaughter_(2005_film)
+Jesper_Christensen	isCitizenOf	Denmark
+Jesper_Christensen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Manslaughter_(2005_film)	http://dbpedia.org/ontology/language	http://dbpedia.org/resource/Denmark
+Manslaughter_(2005_film)	Denmark
+Jesper_Christensen	actedIn	Manslaughter_(2005_film)
+Jesper_Christensen	actedIn	Manslaughter_(2005_film)
+Jesper_Christensen	wasBornIn	Copenhagen
+Jesper_Christensen	wasBornIn	Copenhagen
+Copenhagen	isLocatedIn	Denmark
+Denmark	hasCapital	Copenhagen
+Copenhagen	isLocatedIn	Denmark
+Denmark	hasCapital	Copenhagen
+
+http://dbpedia.org/resource/Manslaughter_(2005_film)	http://dbpedia.org/ontology/language	http://dbpedia.org/resource/Denmark
+Manslaughter_(2005_film)	Denmark
+Jesper_Christensen	actedIn	Manslaughter_(2005_film)
+Jesper_Christensen	actedIn	Manslaughter_(2005_film)
+Jesper_Christensen	actedIn	Melancholia_(2011_film)
+Jesper_Christensen	actedIn	Melancholia_(2011_film)
+Melancholia_(2011_film)	isLocatedIn	Denmark
+Melancholia_(2011_film)	isLocatedIn	Denmark
+

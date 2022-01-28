@@ -1,0 +1,878 @@
+http://dbpedia.org/resource/The_Weather_Channel	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/NBC
+The_Weather_Channel	NBC
+NBCUniversal	owns	The_Weather_Channel
+NBCUniversal	owns	The_Weather_Channel
+NBCUniversal	owns	WMAQ-TV
+NBCUniversal	owns	WMAQ-TV
+NBC	isLocatedIn	WMAQ-TV
+NBC	isLocatedIn	WMAQ-TV
+
+http://dbpedia.org/resource/The_Weather_Channel	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/NBC
+The_Weather_Channel	NBC
+NBCUniversal	owns	The_Weather_Channel
+NBCUniversal	owns	The_Weather_Channel
+NBCUniversal	owns	NBC
+NBCUniversal	owns	NBC
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Markíza
+Dajto	Markíza
+Dajto	isLocatedIn	Záhorská_Bystrica
+Dajto	isLocatedIn	Záhorská_Bystrica
+Markíza	isLocatedIn	Záhorská_Bystrica
+Markíza	isLocatedIn	Záhorská_Bystrica
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Markíza
+Dajto	Markíza
+Central_European_Media_Enterprises	owns	Dajto
+Central_European_Media_Enterprises	owns	Dajto
+Central_European_Media_Enterprises	owns	Markíza
+Central_European_Media_Enterprises	owns	Markíza
+
+http://dbpedia.org/resource/CNN_en_Español	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/CNN_Chile
+CNN_en_Español	CNN_Chile
+Turner_Broadcasting_System	owns	CNN_en_Español
+Turner_Broadcasting_System	owns	CNN_en_Español
+Turner_Broadcasting_System	owns	CNN_Chile
+Turner_Broadcasting_System	owns	CNN_Chile
+
+http://dbpedia.org/resource/CNN_en_Español	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/CNN_Chile
+CNN_en_Español	CNN_Chile
+Turner_Broadcasting_System	owns	CNN_en_Español
+Turner_Broadcasting_System	owns	CNN_en_Español
+Time_Warner	owns	Turner_Broadcasting_System
+Time_Warner	owns	Turner_Broadcasting_System
+Time_Warner	owns	CNN_Chile
+Time_Warner	owns	CNN_Chile
+
+http://dbpedia.org/resource/CNN_en_Español	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/CNN_Chile
+CNN_en_Español	CNN_Chile
+Time_Warner	owns	CNN_en_Español
+Time_Warner	owns	CNN_en_Español
+Time_Warner	owns	CNN_Chile
+Time_Warner	owns	CNN_Chile
+
+http://dbpedia.org/resource/CNN_en_Español	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/CNN_Chile
+CNN_en_Español	CNN_Chile
+Time_Warner	owns	CNN_en_Español
+Time_Warner	owns	CNN_en_Español
+Time_Warner	owns	Turner_Broadcasting_System
+Time_Warner	owns	Turner_Broadcasting_System
+Turner_Broadcasting_System	owns	CNN_Chile
+Turner_Broadcasting_System	owns	CNN_Chile
+
+http://dbpedia.org/resource/CNN_en_Español	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/CNN_Chile
+CNN_en_Español	CNN_Chile
+CNN	owns	CNN_en_Español
+CNN	owns	CNN_en_Español
+Time_Warner	owns	CNN
+Time_Warner	owns	CNN
+Time_Warner	owns	CNN_Chile
+Time_Warner	owns	CNN_Chile
+
+http://dbpedia.org/resource/CNN_en_Español	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/CNN_Chile
+CNN_en_Español	CNN_Chile
+CNN	owns	CNN_en_Español
+CNN	owns	CNN_en_Español
+Turner_Broadcasting_System	owns	CNN
+Turner_Broadcasting_System	owns	CNN
+Turner_Broadcasting_System	owns	CNN_Chile
+Turner_Broadcasting_System	owns	CNN_Chile
+
+http://dbpedia.org/resource/SEC_Network	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Longhorn_Network
+SEC_Network	Longhorn_Network
+ESPN_Inc.	owns	SEC_Network
+ESPN_Inc.	owns	SEC_Network
+ESPN_Inc.	owns	Longhorn_Network
+ESPN_Inc.	owns	Longhorn_Network
+
+http://dbpedia.org/resource/SEC_Network	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Longhorn_Network
+SEC_Network	Longhorn_Network
+The_Walt_Disney_Company	owns	SEC_Network
+The_Walt_Disney_Company	owns	SEC_Network
+The_Walt_Disney_Company	owns	ESPN_Inc.
+The_Walt_Disney_Company	owns	ESPN_Inc.
+ESPN_Inc.	owns	Longhorn_Network
+ESPN_Inc.	owns	Longhorn_Network
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/TV_Doma
+Dajto	TV_Doma
+Dajto	isLocatedIn	Záhorská_Bystrica
+Dajto	isLocatedIn	Záhorská_Bystrica
+TV_Doma	isLocatedIn	Záhorská_Bystrica
+TV_Doma	isLocatedIn	Záhorská_Bystrica
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/TV_Doma
+Dajto	TV_Doma
+Central_European_Media_Enterprises	owns	Dajto
+Central_European_Media_Enterprises	owns	Dajto
+Central_European_Media_Enterprises	owns	TV_Doma
+Central_European_Media_Enterprises	owns	TV_Doma
+
+http://dbpedia.org/resource/The_Weather_Channel	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/MSNBC
+The_Weather_Channel	MSNBC
+NBCUniversal	owns	The_Weather_Channel
+NBCUniversal	owns	The_Weather_Channel
+NBCUniversal	isLocatedIn	30_Rockefeller_Plaza
+NBCUniversal	owns	30_Rockefeller_Plaza
+NBCUniversal	isLocatedIn	30_Rockefeller_Plaza
+NBCUniversal	owns	30_Rockefeller_Plaza
+MSNBC	isLocatedIn	30_Rockefeller_Plaza
+MSNBC	isLocatedIn	30_Rockefeller_Plaza
+
+http://dbpedia.org/resource/RTL_7	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/RTL_4
+RTL_7	RTL_4
+RTL_Group	owns	RTL_7
+RTL_Group	owns	RTL_7
+RTL_Group	owns	RTL_4
+RTL_Group	owns	RTL_4
+
+http://dbpedia.org/resource/MSNBC	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/NBC
+MSNBC	NBC
+Comcast	owns	MSNBC
+Comcast	owns	MSNBC
+Comcast	owns	10_Universal_City_Plaza
+Comcast	owns	10_Universal_City_Plaza
+NBC	isLocatedIn	10_Universal_City_Plaza
+NBC	isLocatedIn	10_Universal_City_Plaza
+
+http://dbpedia.org/resource/MSNBC	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/NBC
+MSNBC	NBC
+Comcast	owns	MSNBC
+Comcast	owns	MSNBC
+Comcast	owns	NBC
+Comcast	owns	NBC
+
+http://dbpedia.org/resource/MSNBC	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/NBC
+MSNBC	NBC
+Comcast	owns	MSNBC
+Comcast	owns	MSNBC
+Comcast	owns	NBCUniversal
+Comcast	owns	NBCUniversal
+NBCUniversal	owns	NBC
+NBCUniversal	owns	NBC
+
+http://dbpedia.org/resource/MSNBC	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/NBC
+MSNBC	NBC
+NBCUniversal	owns	MSNBC
+NBCUniversal	owns	MSNBC
+NBCUniversal	owns	WMAQ-TV
+NBCUniversal	owns	WMAQ-TV
+NBC	isLocatedIn	WMAQ-TV
+NBC	isLocatedIn	WMAQ-TV
+
+http://dbpedia.org/resource/MSNBC	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/NBC
+MSNBC	NBC
+NBCUniversal	owns	MSNBC
+NBCUniversal	owns	MSNBC
+NBCUniversal	owns	NBC
+NBCUniversal	owns	NBC
+
+http://dbpedia.org/resource/MSNBC	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/NBC
+MSNBC	NBC
+MSNBC	isLocatedIn	30_Rockefeller_Plaza
+MSNBC	isLocatedIn	30_Rockefeller_Plaza
+NBCUniversal	isLocatedIn	30_Rockefeller_Plaza
+NBCUniversal	owns	30_Rockefeller_Plaza
+NBCUniversal	isLocatedIn	30_Rockefeller_Plaza
+NBCUniversal	owns	30_Rockefeller_Plaza
+NBCUniversal	owns	NBC
+NBCUniversal	owns	NBC
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Dajto
+TV_Doma	Dajto
+Central_European_Media_Enterprises	owns	TV_Doma
+Central_European_Media_Enterprises	owns	TV_Doma
+Central_European_Media_Enterprises	owns	Dajto
+Central_European_Media_Enterprises	owns	Dajto
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Dajto
+TV_Doma	Dajto
+TV_Doma	isLocatedIn	Záhorská_Bystrica
+TV_Doma	isLocatedIn	Záhorská_Bystrica
+Dajto	isLocatedIn	Záhorská_Bystrica
+Dajto	isLocatedIn	Záhorská_Bystrica
+
+http://dbpedia.org/resource/WOPI-CD	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/WAPK-CD
+WOPI-CD	WAPK-CD
+WOPI-CD	isLocatedIn	Bristol,_Virginia
+WOPI-CD	isLocatedIn	Bristol,_Virginia
+WAPK-CD	isLocatedIn	Bristol,_Virginia
+WAPK-CD	isLocatedIn	Bristol,_Virginia
+
+http://dbpedia.org/resource/WOPI-CD	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/WAPK-CD
+WOPI-CD	WAPK-CD
+WOPI-CD	isLocatedIn	Kingsport,_Tennessee
+WOPI-CD	isLocatedIn	Kingsport,_Tennessee
+WAPK-CD	isLocatedIn	Kingsport,_Tennessee
+WAPK-CD	isLocatedIn	Kingsport,_Tennessee
+
+http://dbpedia.org/resource/WOPI-CD	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/WAPK-CD
+WOPI-CD	WAPK-CD
+WOPI-CD	isLocatedIn	Bristol,_Tennessee
+WOPI-CD	isLocatedIn	Bristol,_Tennessee
+WAPK-CD	isLocatedIn	Bristol,_Tennessee
+WAPK-CD	isLocatedIn	Bristol,_Tennessee
+
+http://dbpedia.org/resource/WOPI-CD	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/WAPK-CD
+WOPI-CD	WAPK-CD
+WOPI-CD	isLocatedIn	Johnson_City,_Tennessee
+WOPI-CD	isLocatedIn	Johnson_City,_Tennessee
+WAPK-CD	isLocatedIn	Johnson_City,_Tennessee
+WAPK-CD	isLocatedIn	Johnson_City,_Tennessee
+
+http://dbpedia.org/resource/WBMA-LD	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/WABM
+WBMA-LD	WABM
+Sinclair_Broadcast_Group	owns	WBMA-LD
+Sinclair_Broadcast_Group	owns	WBMA-LD
+Sinclair_Broadcast_Group	owns	WABM
+Sinclair_Broadcast_Group	owns	WABM
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Boomerang_(Latin_America)
+TNT_Series	Boomerang_(Latin_America)
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Boomerang_(Latin_America)
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Boomerang_(Latin_America)
+TNT_Series	Boomerang_(Latin_America)
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Boomerang_(Latin_America)
+TNT_Series	Boomerang_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Boomerang_(Latin_America)
+TNT_Series	Boomerang_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Boomerang_(Latin_America)
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Boomerang_(Latin_America)
+TNT_Series	Boomerang_(Latin_America)
+TNT_Series	isLocatedIn	Atlanta
+TNT_Series	isLocatedIn	Atlanta
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+
+http://dbpedia.org/resource/Fox_Sports_Southwest	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/KDFW
+Fox_Sports_Southwest	KDFW
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Television_Stations	owns	KDFW
+Fox_Television_Stations	owns	KDFW
+
+http://dbpedia.org/resource/WABM	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/WBMA-LD
+WABM	WBMA-LD
+Sinclair_Broadcast_Group	owns	WABM
+Sinclair_Broadcast_Group	owns	WABM
+Sinclair_Broadcast_Group	owns	WBMA-LD
+Sinclair_Broadcast_Group	owns	WBMA-LD
+
+http://dbpedia.org/resource/MSNBC	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/The_Weather_Channel
+MSNBC	The_Weather_Channel
+Comcast	owns	MSNBC
+Comcast	owns	MSNBC
+Comcast	owns	NBCUniversal
+Comcast	owns	NBCUniversal
+NBCUniversal	owns	The_Weather_Channel
+NBCUniversal	owns	The_Weather_Channel
+
+http://dbpedia.org/resource/MSNBC	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/The_Weather_Channel
+MSNBC	The_Weather_Channel
+NBCUniversal	owns	MSNBC
+NBCUniversal	owns	MSNBC
+NBCUniversal	owns	The_Weather_Channel
+NBCUniversal	owns	The_Weather_Channel
+
+http://dbpedia.org/resource/MSNBC	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/The_Weather_Channel
+MSNBC	The_Weather_Channel
+MSNBC	isLocatedIn	30_Rockefeller_Plaza
+MSNBC	isLocatedIn	30_Rockefeller_Plaza
+NBCUniversal	isLocatedIn	30_Rockefeller_Plaza
+NBCUniversal	owns	30_Rockefeller_Plaza
+NBCUniversal	isLocatedIn	30_Rockefeller_Plaza
+NBCUniversal	owns	30_Rockefeller_Plaza
+NBCUniversal	owns	The_Weather_Channel
+NBCUniversal	owns	The_Weather_Channel
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Tooncast
+Boomerang_(Latin_America)	Tooncast
+Boomerang_(Latin_America)	isLocatedIn	Georgia_(U.S._state)
+Boomerang_(Latin_America)	isLocatedIn	Georgia_(U.S._state)
+Georgia_(U.S._state)	hasCapital	Atlanta
+Atlanta	isLocatedIn	Georgia_(U.S._state)
+Georgia_(U.S._state)	isLocatedIn	Atlanta
+Georgia_(U.S._state)	hasCapital	Atlanta
+Atlanta	isLocatedIn	Georgia_(U.S._state)
+Georgia_(U.S._state)	isLocatedIn	Atlanta
+Tooncast	isLocatedIn	Atlanta
+Tooncast	isLocatedIn	Atlanta
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Tooncast
+Boomerang_(Latin_America)	Tooncast
+Boomerang_(Latin_America)	isLocatedIn	Georgia_(U.S._state)
+Boomerang_(Latin_America)	isLocatedIn	Georgia_(U.S._state)
+Tooncast	isLocatedIn	Georgia_(U.S._state)
+Tooncast	isLocatedIn	Georgia_(U.S._state)
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Tooncast
+Boomerang_(Latin_America)	Tooncast
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Tooncast
+Time_Warner	owns	Tooncast
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Tooncast
+Boomerang_(Latin_America)	Tooncast
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Tooncast
+Boomerang_(Latin_America)	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Tooncast
+Boomerang_(Latin_America)	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Tooncast
+Time_Warner	owns	Tooncast
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Tooncast
+Boomerang_(Latin_America)	Tooncast
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+Tooncast	isLocatedIn	Atlanta
+Tooncast	isLocatedIn	Atlanta
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Tooncast
+Boomerang_(Latin_America)	Tooncast
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+Georgia_(U.S._state)	hasCapital	Atlanta
+Atlanta	isLocatedIn	Georgia_(U.S._state)
+Georgia_(U.S._state)	isLocatedIn	Atlanta
+Georgia_(U.S._state)	hasCapital	Atlanta
+Atlanta	isLocatedIn	Georgia_(U.S._state)
+Georgia_(U.S._state)	isLocatedIn	Atlanta
+Tooncast	isLocatedIn	Georgia_(U.S._state)
+Tooncast	isLocatedIn	Georgia_(U.S._state)
+
+http://dbpedia.org/resource/KWKH	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/KRUF
+KWKH	KRUF
+Townsquare_Media	owns	KWKH
+Townsquare_Media	owns	KWKH
+Townsquare_Media	owns	KRUF
+Townsquare_Media	owns	KRUF
+
+http://dbpedia.org/resource/RTL_Lounge	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/RTL_7
+RTL_Lounge	RTL_7
+RTL_Group	owns	RTL_Lounge
+RTL_Group	owns	RTL_Lounge
+RTL_Group	owns	RTL_7
+RTL_Group	owns	RTL_7
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/CNN_Chile
+TNT_Series	CNN_Chile
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	CNN_Chile
+Time_Warner	owns	CNN_Chile
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/CNN_Chile
+TNT_Series	CNN_Chile
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	Turner_Broadcasting_System
+Time_Warner	owns	Turner_Broadcasting_System
+Turner_Broadcasting_System	owns	CNN_Chile
+Turner_Broadcasting_System	owns	CNN_Chile
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/CNN_Chile
+TNT_Series	CNN_Chile
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	CNN_Chile
+Time_Warner	owns	CNN_Chile
+
+http://dbpedia.org/resource/KDFW	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Fox_Sports_Southwest
+KDFW	Fox_Sports_Southwest
+Fox_Television_Stations	owns	KDFW
+Fox_Television_Stations	owns	KDFW
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Television_Stations
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+
+http://dbpedia.org/resource/SEC_Network	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/ESPN2
+SEC_Network	ESPN2
+ESPN_Inc.	owns	SEC_Network
+ESPN_Inc.	owns	SEC_Network
+ESPN_Inc.	owns	ESPN2
+ESPN_Inc.	owns	ESPN2
+
+http://dbpedia.org/resource/SEC_Network	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/ESPN2
+SEC_Network	ESPN2
+ESPN_Inc.	owns	SEC_Network
+ESPN_Inc.	owns	SEC_Network
+The_Walt_Disney_Company	owns	ESPN_Inc.
+The_Walt_Disney_Company	owns	ESPN_Inc.
+The_Walt_Disney_Company	owns	ESPN2
+The_Walt_Disney_Company	owns	ESPN2
+
+http://dbpedia.org/resource/SEC_Network	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/ESPN2
+SEC_Network	ESPN2
+The_Walt_Disney_Company	owns	SEC_Network
+The_Walt_Disney_Company	owns	SEC_Network
+The_Walt_Disney_Company	owns	ESPN2
+The_Walt_Disney_Company	owns	ESPN2
+
+http://dbpedia.org/resource/SEC_Network	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/ESPN2
+SEC_Network	ESPN2
+The_Walt_Disney_Company	owns	SEC_Network
+The_Walt_Disney_Company	owns	SEC_Network
+The_Walt_Disney_Company	owns	ESPN_Inc.
+The_Walt_Disney_Company	owns	ESPN_Inc.
+ESPN_Inc.	owns	ESPN2
+ESPN_Inc.	owns	ESPN2
+
+http://dbpedia.org/resource/RTL_Lounge	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/RTL_4
+RTL_Lounge	RTL_4
+RTL_Group	owns	RTL_Lounge
+RTL_Group	owns	RTL_Lounge
+RTL_Group	owns	RTL_4
+RTL_Group	owns	RTL_4
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/CNN_en_Español
+TNT_Series	CNN_en_Español
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	CNN_en_Español
+Time_Warner	owns	CNN_en_Español
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/CNN_en_Español
+TNT_Series	CNN_en_Español
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	CNN
+Time_Warner	owns	CNN
+CNN	owns	CNN_en_Español
+CNN	owns	CNN_en_Español
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/CNN_en_Español
+TNT_Series	CNN_en_Español
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	Turner_Broadcasting_System
+Time_Warner	owns	Turner_Broadcasting_System
+Turner_Broadcasting_System	owns	CNN_en_Español
+Turner_Broadcasting_System	owns	CNN_en_Español
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/CNN_en_Español
+TNT_Series	CNN_en_Español
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	CNN_en_Español
+Time_Warner	owns	CNN_en_Español
+
+http://dbpedia.org/resource/RTL_7	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/RTL_Lounge
+RTL_7	RTL_Lounge
+RTL_Group	owns	RTL_7
+RTL_Group	owns	RTL_7
+RTL_Group	owns	RTL_Lounge
+RTL_Group	owns	RTL_Lounge
+
+http://dbpedia.org/resource/DR_K	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/DR_Ramasjang
+DR_K	DR_Ramasjang
+DR_(broadcaster)	owns	DR_K
+DR_(broadcaster)	owns	DR_K
+DR_(broadcaster)	owns	DR_Ramasjang
+DR_(broadcaster)	owns	DR_Ramasjang
+
+http://dbpedia.org/resource/DR_K	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/DR_Ramasjang
+DR_K	DR_Ramasjang
+DR_K	isLocatedIn	Copenhagen
+DR_K	isLocatedIn	Copenhagen
+DR_(broadcaster)	isLocatedIn	Copenhagen
+DR_(broadcaster)	isLocatedIn	Copenhagen
+DR_(broadcaster)	owns	DR_Ramasjang
+DR_(broadcaster)	owns	DR_Ramasjang
+
+http://dbpedia.org/resource/ESPN2	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Longhorn_Network
+ESPN2	Longhorn_Network
+ESPN2	isLocatedIn	Bristol,_Connecticut
+ESPN2	isLocatedIn	Bristol,_Connecticut
+ESPN_Inc.	isLocatedIn	Bristol,_Connecticut
+ESPN_Inc.	isLocatedIn	Bristol,_Connecticut
+ESPN_Inc.	owns	Longhorn_Network
+ESPN_Inc.	owns	Longhorn_Network
+
+http://dbpedia.org/resource/ESPN2	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Longhorn_Network
+ESPN2	Longhorn_Network
+ESPN_Inc.	owns	ESPN2
+ESPN_Inc.	owns	ESPN2
+ESPN_Inc.	owns	Longhorn_Network
+ESPN_Inc.	owns	Longhorn_Network
+
+http://dbpedia.org/resource/ESPN2	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Longhorn_Network
+ESPN2	Longhorn_Network
+The_Walt_Disney_Company	owns	ESPN2
+The_Walt_Disney_Company	owns	ESPN2
+The_Walt_Disney_Company	owns	ESPN_Inc.
+The_Walt_Disney_Company	owns	ESPN_Inc.
+ESPN_Inc.	owns	Longhorn_Network
+ESPN_Inc.	owns	Longhorn_Network
+
+http://dbpedia.org/resource/WAPK-CD	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/WOPI-CD
+WAPK-CD	WOPI-CD
+WAPK-CD	isLocatedIn	Bristol,_Tennessee
+WAPK-CD	isLocatedIn	Bristol,_Tennessee
+WOPI-CD	isLocatedIn	Bristol,_Tennessee
+WOPI-CD	isLocatedIn	Bristol,_Tennessee
+
+http://dbpedia.org/resource/WAPK-CD	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/WOPI-CD
+WAPK-CD	WOPI-CD
+WAPK-CD	isLocatedIn	Bristol,_Virginia
+WAPK-CD	isLocatedIn	Bristol,_Virginia
+WOPI-CD	isLocatedIn	Bristol,_Virginia
+WOPI-CD	isLocatedIn	Bristol,_Virginia
+
+http://dbpedia.org/resource/WAPK-CD	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/WOPI-CD
+WAPK-CD	WOPI-CD
+WAPK-CD	isLocatedIn	Kingsport,_Tennessee
+WAPK-CD	isLocatedIn	Kingsport,_Tennessee
+WOPI-CD	isLocatedIn	Kingsport,_Tennessee
+WOPI-CD	isLocatedIn	Kingsport,_Tennessee
+
+http://dbpedia.org/resource/WAPK-CD	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/WOPI-CD
+WAPK-CD	WOPI-CD
+WAPK-CD	isLocatedIn	Johnson_City,_Tennessee
+WAPK-CD	isLocatedIn	Johnson_City,_Tennessee
+WOPI-CD	isLocatedIn	Johnson_City,_Tennessee
+WOPI-CD	isLocatedIn	Johnson_City,_Tennessee
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Markíza
+TV_Doma	Markíza
+Central_European_Media_Enterprises	owns	TV_Doma
+Central_European_Media_Enterprises	owns	TV_Doma
+Central_European_Media_Enterprises	owns	Markíza
+Central_European_Media_Enterprises	owns	Markíza
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Markíza
+TV_Doma	Markíza
+TV_Doma	isLocatedIn	Záhorská_Bystrica
+TV_Doma	isLocatedIn	Záhorská_Bystrica
+Markíza	isLocatedIn	Záhorská_Bystrica
+Markíza	isLocatedIn	Záhorská_Bystrica
+
+http://dbpedia.org/resource/RTL_4	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/RTL_Lounge
+RTL_4	RTL_Lounge
+RTL_Group	owns	RTL_4
+RTL_Group	owns	RTL_4
+RTL_Group	owns	RTL_Lounge
+RTL_Group	owns	RTL_Lounge
+
+http://dbpedia.org/resource/ESPN2	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/SEC_Network
+ESPN2	SEC_Network
+ESPN2	isLocatedIn	Bristol,_Connecticut
+ESPN2	isLocatedIn	Bristol,_Connecticut
+ESPN_Inc.	isLocatedIn	Bristol,_Connecticut
+ESPN_Inc.	isLocatedIn	Bristol,_Connecticut
+ESPN_Inc.	owns	SEC_Network
+ESPN_Inc.	owns	SEC_Network
+
+http://dbpedia.org/resource/ESPN2	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/SEC_Network
+ESPN2	SEC_Network
+ESPN_Inc.	owns	ESPN2
+ESPN_Inc.	owns	ESPN2
+ESPN_Inc.	owns	SEC_Network
+ESPN_Inc.	owns	SEC_Network
+
+http://dbpedia.org/resource/ESPN2	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/SEC_Network
+ESPN2	SEC_Network
+ESPN_Inc.	owns	ESPN2
+ESPN_Inc.	owns	ESPN2
+The_Walt_Disney_Company	owns	ESPN_Inc.
+The_Walt_Disney_Company	owns	ESPN_Inc.
+The_Walt_Disney_Company	owns	SEC_Network
+The_Walt_Disney_Company	owns	SEC_Network
+
+http://dbpedia.org/resource/ESPN2	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/SEC_Network
+ESPN2	SEC_Network
+The_Walt_Disney_Company	owns	ESPN2
+The_Walt_Disney_Company	owns	ESPN2
+The_Walt_Disney_Company	owns	SEC_Network
+The_Walt_Disney_Company	owns	SEC_Network
+
+http://dbpedia.org/resource/ESPN2	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/SEC_Network
+ESPN2	SEC_Network
+The_Walt_Disney_Company	owns	ESPN2
+The_Walt_Disney_Company	owns	ESPN2
+The_Walt_Disney_Company	owns	ESPN_Inc.
+The_Walt_Disney_Company	owns	ESPN_Inc.
+ESPN_Inc.	owns	SEC_Network
+ESPN_Inc.	owns	SEC_Network
+
+http://dbpedia.org/resource/Tooncast	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Boomerang_(Latin_America)
+Tooncast	Boomerang_(Latin_America)
+Time_Warner	owns	Tooncast
+Time_Warner	owns	Tooncast
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Boomerang_(Latin_America)
+
+http://dbpedia.org/resource/Tooncast	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Boomerang_(Latin_America)
+Tooncast	Boomerang_(Latin_America)
+Time_Warner	owns	Tooncast
+Time_Warner	owns	Tooncast
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+
+http://dbpedia.org/resource/Tooncast	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Boomerang_(Latin_America)
+Tooncast	Boomerang_(Latin_America)
+Tooncast	isLocatedIn	Atlanta
+Tooncast	isLocatedIn	Atlanta
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+
+http://dbpedia.org/resource/Tooncast	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Boomerang_(Latin_America)
+Tooncast	Boomerang_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+
+http://dbpedia.org/resource/Tooncast	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Boomerang_(Latin_America)
+Tooncast	Boomerang_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Boomerang_(Latin_America)
+
+http://dbpedia.org/resource/Tooncast	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Boomerang_(Latin_America)
+Tooncast	Boomerang_(Latin_America)
+Tooncast	isLocatedIn	Georgia_(U.S._state)
+Tooncast	isLocatedIn	Georgia_(U.S._state)
+Georgia_(U.S._state)	hasCapital	Atlanta
+Atlanta	isLocatedIn	Georgia_(U.S._state)
+Georgia_(U.S._state)	isLocatedIn	Atlanta
+Georgia_(U.S._state)	hasCapital	Atlanta
+Atlanta	isLocatedIn	Georgia_(U.S._state)
+Georgia_(U.S._state)	isLocatedIn	Atlanta
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+
+http://dbpedia.org/resource/CNN_Chile	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/CNN_en_Español
+CNN_Chile	CNN_en_Español
+Turner_Broadcasting_System	owns	CNN_Chile
+Turner_Broadcasting_System	owns	CNN_Chile
+Turner_Broadcasting_System	owns	CNN_en_Español
+Turner_Broadcasting_System	owns	CNN_en_Español
+
+http://dbpedia.org/resource/CNN_Chile	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/CNN_en_Español
+CNN_Chile	CNN_en_Español
+Turner_Broadcasting_System	owns	CNN_Chile
+Turner_Broadcasting_System	owns	CNN_Chile
+Time_Warner	owns	Turner_Broadcasting_System
+Time_Warner	owns	Turner_Broadcasting_System
+Time_Warner	owns	CNN_en_Español
+Time_Warner	owns	CNN_en_Español
+
+http://dbpedia.org/resource/CNN_Chile	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/CNN_en_Español
+CNN_Chile	CNN_en_Español
+Turner_Broadcasting_System	owns	CNN_Chile
+Turner_Broadcasting_System	owns	CNN_Chile
+Turner_Broadcasting_System	owns	CNN
+Turner_Broadcasting_System	owns	CNN
+CNN	owns	CNN_en_Español
+CNN	owns	CNN_en_Español
+
+http://dbpedia.org/resource/CNN_Chile	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/CNN_en_Español
+CNN_Chile	CNN_en_Español
+Time_Warner	owns	CNN_Chile
+Time_Warner	owns	CNN_Chile
+Time_Warner	owns	CNN_en_Español
+Time_Warner	owns	CNN_en_Español
+
+http://dbpedia.org/resource/CNN_Chile	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/CNN_en_Español
+CNN_Chile	CNN_en_Español
+Time_Warner	owns	CNN_Chile
+Time_Warner	owns	CNN_Chile
+Time_Warner	owns	CNN
+Time_Warner	owns	CNN
+CNN	owns	CNN_en_Español
+CNN	owns	CNN_en_Español
+
+http://dbpedia.org/resource/CNN_Chile	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/CNN_en_Español
+CNN_Chile	CNN_en_Español
+Time_Warner	owns	CNN_Chile
+Time_Warner	owns	CNN_Chile
+Time_Warner	owns	Turner_Broadcasting_System
+Time_Warner	owns	Turner_Broadcasting_System
+Turner_Broadcasting_System	owns	CNN_en_Español
+Turner_Broadcasting_System	owns	CNN_en_Español
+
+http://dbpedia.org/resource/KRUF	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/KWKH
+KRUF	KWKH
+KRUF	isLocatedIn	Shreveport,_Louisiana
+KRUF	isLocatedIn	Shreveport,_Louisiana
+KWKH	isLocatedIn	Shreveport,_Louisiana
+KWKH	isLocatedIn	Shreveport,_Louisiana
+
+http://dbpedia.org/resource/KRUF	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/KWKH
+KRUF	KWKH
+Townsquare_Media	owns	KRUF
+Townsquare_Media	owns	KRUF
+Townsquare_Media	owns	KWKH
+Townsquare_Media	owns	KWKH
+
+http://dbpedia.org/resource/DR_Ramasjang	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/DR_K
+DR_Ramasjang	DR_K
+DR_(broadcaster)	owns	DR_Ramasjang
+DR_(broadcaster)	owns	DR_Ramasjang
+DR_(broadcaster)	owns	DR_K
+DR_(broadcaster)	owns	DR_K
+
+http://dbpedia.org/resource/DR_Ramasjang	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/DR_K
+DR_Ramasjang	DR_K
+DR_Ramasjang	isLocatedIn	Copenhagen
+DR_Ramasjang	isLocatedIn	Copenhagen
+DR_(broadcaster)	isLocatedIn	Copenhagen
+DR_(broadcaster)	isLocatedIn	Copenhagen
+DR_(broadcaster)	owns	DR_K
+DR_(broadcaster)	owns	DR_K
+
+http://dbpedia.org/resource/RTL_4	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/RTL_7
+RTL_4	RTL_7
+RTL_Group	owns	RTL_4
+RTL_Group	owns	RTL_4
+RTL_Group	owns	RTL_7
+RTL_Group	owns	RTL_7
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/TruTV
+Boomerang_(Latin_America)	TruTV
+Boomerang_(Latin_America)	isLocatedIn	Georgia_(U.S._state)
+Boomerang_(Latin_America)	isLocatedIn	Georgia_(U.S._state)
+Georgia_(U.S._state)	hasCapital	Atlanta
+Atlanta	isLocatedIn	Georgia_(U.S._state)
+Georgia_(U.S._state)	isLocatedIn	Atlanta
+Georgia_(U.S._state)	hasCapital	Atlanta
+Atlanta	isLocatedIn	Georgia_(U.S._state)
+Georgia_(U.S._state)	isLocatedIn	Atlanta
+TruTV	isLocatedIn	Atlanta
+TruTV	isLocatedIn	Atlanta
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/TruTV
+Boomerang_(Latin_America)	TruTV
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	TruTV
+Time_Warner	owns	TruTV
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/TruTV
+Boomerang_(Latin_America)	TruTV
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Turner_Broadcasting_System
+Time_Warner	owns	Turner_Broadcasting_System
+Turner_Broadcasting_System	owns	TruTV
+Turner_Broadcasting_System	owns	TruTV
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/TruTV
+Boomerang_(Latin_America)	TruTV
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+Turner_Broadcasting_System_Latin_America	owns	Boomerang_(Latin_America)
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	TruTV
+Time_Warner	owns	TruTV
+
+http://dbpedia.org/resource/Boomerang_(Latin_America)	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/TruTV
+Boomerang_(Latin_America)	TruTV
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+Boomerang_(Latin_America)	isLocatedIn	Atlanta
+TruTV	isLocatedIn	Atlanta
+TruTV	isLocatedIn	Atlanta
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Tooncast
+TNT_Series	Tooncast
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	Tooncast
+Time_Warner	owns	Tooncast
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Tooncast
+TNT_Series	Tooncast
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	TNT_Series
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Tooncast
+TNT_Series	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	Tooncast
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Tooncast
+TNT_Series	Tooncast
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+Turner_Broadcasting_System_Latin_America	owns	TNT_Series
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Turner_Broadcasting_System_Latin_America
+Time_Warner	owns	Tooncast
+Time_Warner	owns	Tooncast
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Tooncast
+TNT_Series	Tooncast
+TNT_Series	isLocatedIn	Atlanta
+TNT_Series	isLocatedIn	Atlanta
+Tooncast	isLocatedIn	Atlanta
+Tooncast	isLocatedIn	Atlanta
+
+http://dbpedia.org/resource/TNT_Series	http://dbpedia.org/ontology/sisterStation	http://dbpedia.org/resource/Tooncast
+TNT_Series	Tooncast
+TNT_Series	isLocatedIn	Atlanta
+TNT_Series	isLocatedIn	Atlanta
+Georgia_(U.S._state)	hasCapital	Atlanta
+Atlanta	isLocatedIn	Georgia_(U.S._state)
+Georgia_(U.S._state)	isLocatedIn	Atlanta
+Georgia_(U.S._state)	hasCapital	Atlanta
+Atlanta	isLocatedIn	Georgia_(U.S._state)
+Georgia_(U.S._state)	isLocatedIn	Atlanta
+Tooncast	isLocatedIn	Georgia_(U.S._state)
+Tooncast	isLocatedIn	Georgia_(U.S._state)
+

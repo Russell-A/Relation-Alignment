@@ -1,0 +1,53 @@
+http://dbpedia.org/resource/North_Fork_American_River	http://dbpedia.org/ontology/source	http://dbpedia.org/resource/North_Fork_American_River
+North_Fork_American_River	North_Fork_American_River
+North_Fork_American_River	isLocatedIn	Placer_County,_California
+North_Fork_American_River	isLocatedIn	Placer_County,_California
+North_Fork_American_River	isLocatedIn	Placer_County,_California
+North_Fork_American_River	isLocatedIn	Placer_County,_California
+
+http://dbpedia.org/resource/Hudson_River	http://dbpedia.org/ontology/source	http://dbpedia.org/resource/Hudson_River
+Hudson_River	Hudson_River
+Hudson_River	isLocatedIn	Dutchess_County,_New_York
+Hudson_River	isLocatedIn	Dutchess_County,_New_York
+Hudson_River	isLocatedIn	Dutchess_County,_New_York
+Hudson_River	isLocatedIn	Dutchess_County,_New_York
+
+http://dbpedia.org/resource/Hudson_River	http://dbpedia.org/ontology/source	http://dbpedia.org/resource/Hudson_River
+Hudson_River	Hudson_River
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+Hudson_River	isLocatedIn	Westchester_County,_New_York
+
+http://dbpedia.org/resource/Hudson_River	http://dbpedia.org/ontology/source	http://dbpedia.org/resource/Hudson_River
+Hudson_River	Hudson_River
+Hudson_River	isLocatedIn	Hudson_County,_New_Jersey
+Hudson_River	isLocatedIn	Hudson_County,_New_Jersey
+Hudson_River	isLocatedIn	Hudson_County,_New_Jersey
+Hudson_River	isLocatedIn	Hudson_County,_New_Jersey
+
+http://dbpedia.org/resource/Ohio_River	http://dbpedia.org/ontology/source	http://dbpedia.org/resource/Allegheny_River
+Ohio_River	Allegheny_River
+Ohio_River_Islands_National_Wildlife_Refuge	isLocatedIn	Ohio_River
+Ohio_River_Islands_National_Wildlife_Refuge	isLocatedIn	Ohio_River
+Ohio_River_Islands_National_Wildlife_Refuge	isLocatedIn	Pennsylvania
+Ohio_River_Islands_National_Wildlife_Refuge	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Ohio_River	http://dbpedia.org/ontology/source	http://dbpedia.org/resource/Allegheny_River
+Ohio_River	Allegheny_River
+Ohio_River	isLocatedIn	Pennsylvania
+Ohio_River	isLocatedIn	Pennsylvania
+McKean_County,_Pennsylvania	isLocatedIn	Pennsylvania
+McKean_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	McKean_County,_Pennsylvania
+Allegheny_River	isLocatedIn	McKean_County,_Pennsylvania
+
+http://dbpedia.org/resource/Ohio_River	http://dbpedia.org/ontology/source	http://dbpedia.org/resource/Allegheny_River
+Ohio_River	Allegheny_River
+Ohio_River	isLocatedIn	Pennsylvania
+Ohio_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+

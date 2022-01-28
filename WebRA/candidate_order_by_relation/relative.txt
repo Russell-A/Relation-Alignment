@@ -1,0 +1,961 @@
+http://dbpedia.org/resource/Samy_Gemayel	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Pierre_Gemayel
+Samy_Gemayel	Pierre_Gemayel
+Samy_Gemayel	isLeaderOf	Kataeb_Party
+Samy_Gemayel	isAffiliatedTo	Kataeb_Party
+Samy_Gemayel	isLeaderOf	Kataeb_Party
+Samy_Gemayel	isAffiliatedTo	Kataeb_Party
+Pierre_Gemayel	isLeaderOf	Kataeb_Party
+Pierre_Gemayel	isAffiliatedTo	Kataeb_Party
+Pierre_Gemayel	isLeaderOf	Kataeb_Party
+Pierre_Gemayel	isAffiliatedTo	Kataeb_Party
+
+http://dbpedia.org/resource/Samy_Gemayel	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Pierre_Gemayel
+Samy_Gemayel	Pierre_Gemayel
+Samy_Gemayel	wasBornIn	Bikfaya
+Samy_Gemayel	wasBornIn	Bikfaya
+Pierre_Gemayel	wasBornIn	Bikfaya
+Pierre_Gemayel	wasBornIn	Bikfaya
+
+http://dbpedia.org/resource/Samy_Gemayel	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Pierre_Gemayel
+Samy_Gemayel	Pierre_Gemayel
+Amine_Gemayel	hasChild	Samy_Gemayel
+Amine_Gemayel	hasChild	Samy_Gemayel
+Amine_Gemayel	graduatedFrom	Saint_Joseph_University
+Amine_Gemayel	graduatedFrom	Saint_Joseph_University
+Pierre_Gemayel	graduatedFrom	Saint_Joseph_University
+Pierre_Gemayel	graduatedFrom	Saint_Joseph_University
+
+http://dbpedia.org/resource/Hameed_Akhtar	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Meesha_Shafi
+Hameed_Akhtar	Meesha_Shafi
+Hameed_Akhtar	hasChild	Saba_Waseem_Abbas
+Hameed_Akhtar	hasChild	Saba_Waseem_Abbas
+Saba_Waseem_Abbas	wasBornIn	Lahore
+Saba_Waseem_Abbas	wasBornIn	Lahore
+Meesha_Shafi	wasBornIn	Lahore
+Meesha_Shafi	wasBornIn	Lahore
+
+http://dbpedia.org/resource/Hameed_Akhtar	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Meesha_Shafi
+Hameed_Akhtar	Meesha_Shafi
+Hameed_Akhtar	diedIn	Lahore
+Hameed_Akhtar	diedIn	Lahore
+Meesha_Shafi	wasBornIn	Lahore
+Meesha_Shafi	wasBornIn	Lahore
+
+http://dbpedia.org/resource/Hameed_Akhtar	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Meesha_Shafi
+Hameed_Akhtar	Meesha_Shafi
+Hameed_Akhtar	diedIn	Lahore
+Hameed_Akhtar	diedIn	Lahore
+National_College_of_Arts	isLocatedIn	Lahore
+National_College_of_Arts	isLocatedIn	Lahore
+Meesha_Shafi	graduatedFrom	National_College_of_Arts
+Meesha_Shafi	graduatedFrom	National_College_of_Arts
+
+http://dbpedia.org/resource/Naga_Chaitanya	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Daggubati_Suresh_Babu
+Naga_Chaitanya	Daggubati_Suresh_Babu
+Naga_Chaitanya	livesIn	Telangana
+Naga_Chaitanya	livesIn	Telangana
+Hyderabad	isLocatedIn	Telangana
+Telangana	hasCapital	Hyderabad
+Hyderabad	isLocatedIn	Telangana
+Telangana	hasCapital	Hyderabad
+Daggubati_Suresh_Babu	livesIn	Hyderabad
+Daggubati_Suresh_Babu	livesIn	Hyderabad
+
+http://dbpedia.org/resource/Naga_Chaitanya	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Daggubati_Suresh_Babu
+Naga_Chaitanya	Daggubati_Suresh_Babu
+Naga_Chaitanya	livesIn	Hyderabad
+Naga_Chaitanya	livesIn	Hyderabad
+Daggubati_Suresh_Babu	livesIn	Hyderabad
+Daggubati_Suresh_Babu	livesIn	Hyderabad
+
+http://dbpedia.org/resource/Daggubati_Venkatesh	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Daggubati_Suresh_Babu
+Daggubati_Venkatesh	Daggubati_Suresh_Babu
+D._Ramanaidu	hasChild	Daggubati_Venkatesh
+D._Ramanaidu	hasChild	Daggubati_Venkatesh
+D._Ramanaidu	hasChild	Daggubati_Suresh_Babu
+D._Ramanaidu	hasChild	Daggubati_Suresh_Babu
+
+http://dbpedia.org/resource/Daggubati_Venkatesh	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Daggubati_Suresh_Babu
+Daggubati_Venkatesh	Daggubati_Suresh_Babu
+D._Ramanaidu	hasChild	Daggubati_Venkatesh
+D._Ramanaidu	hasChild	Daggubati_Venkatesh
+D._Ramanaidu	created	Suresh_Productions
+D._Ramanaidu	created	Suresh_Productions
+Daggubati_Suresh_Babu	owns	Suresh_Productions
+Daggubati_Suresh_Babu	owns	Suresh_Productions
+
+http://dbpedia.org/resource/Daggubati_Venkatesh	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Daggubati_Suresh_Babu
+Daggubati_Venkatesh	Daggubati_Suresh_Babu
+D._Ramanaidu	hasChild	Daggubati_Venkatesh
+D._Ramanaidu	hasChild	Daggubati_Venkatesh
+D._Ramanaidu	diedIn	Hyderabad
+D._Ramanaidu	diedIn	Hyderabad
+Daggubati_Suresh_Babu	livesIn	Hyderabad
+Daggubati_Suresh_Babu	livesIn	Hyderabad
+
+http://dbpedia.org/resource/Daggubati_Venkatesh	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Daggubati_Suresh_Babu
+Daggubati_Venkatesh	Daggubati_Suresh_Babu
+Daggubati_Venkatesh	livesIn	Hyderabad
+Daggubati_Venkatesh	livesIn	Hyderabad
+Daggubati_Suresh_Babu	livesIn	Hyderabad
+Daggubati_Suresh_Babu	livesIn	Hyderabad
+
+http://dbpedia.org/resource/Daggubati_Venkatesh	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Daggubati_Suresh_Babu
+Daggubati_Venkatesh	Daggubati_Suresh_Babu
+Daggubati_Venkatesh	livesIn	Film_Nagar
+Daggubati_Venkatesh	livesIn	Film_Nagar
+Daggubati_Suresh_Babu	livesIn	Film_Nagar
+Daggubati_Suresh_Babu	livesIn	Film_Nagar
+
+http://dbpedia.org/resource/Daggubati_Venkatesh	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Daggubati_Suresh_Babu
+Daggubati_Venkatesh	Daggubati_Suresh_Babu
+Daggubati_Venkatesh	livesIn	Film_Nagar
+Daggubati_Venkatesh	livesIn	Film_Nagar
+Film_Nagar	isLocatedIn	Hyderabad
+Film_Nagar	isLocatedIn	Hyderabad
+Daggubati_Suresh_Babu	livesIn	Hyderabad
+Daggubati_Suresh_Babu	livesIn	Hyderabad
+
+http://dbpedia.org/resource/Daggubati_Venkatesh	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Daggubati_Suresh_Babu
+Daggubati_Venkatesh	Daggubati_Suresh_Babu
+Daggubati_Venkatesh	livesIn	Film_Nagar
+Daggubati_Venkatesh	livesIn	Film_Nagar
+Rana_Daggubati	livesIn	Film_Nagar
+Rana_Daggubati	livesIn	Film_Nagar
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+
+http://dbpedia.org/resource/Nancy_Walker_Bush_Ellis	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/George_H._W._Bush
+Nancy_Walker_Bush_Ellis	George_H._W._Bush
+Nancy_Walker_Bush_Ellis	wasBornIn	Milton,_Massachusetts
+Nancy_Walker_Bush_Ellis	wasBornIn	Milton,_Massachusetts
+George_H._W._Bush	wasBornIn	Milton,_Massachusetts
+George_H._W._Bush	wasBornIn	Milton,_Massachusetts
+
+http://dbpedia.org/resource/Nancy_Walker_Bush_Ellis	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/George_H._W._Bush
+Nancy_Walker_Bush_Ellis	George_H._W._Bush
+Prescott_Bush	hasChild	Nancy_Walker_Bush_Ellis
+Prescott_Bush	hasChild	Nancy_Walker_Bush_Ellis
+Prescott_Bush	hasChild	George_H._W._Bush
+Prescott_Bush	hasChild	George_H._W._Bush
+
+http://dbpedia.org/resource/Irénée_du_Pont	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Pierre_S._du_Pont
+Irénée_du_Pont	Pierre_S._du_Pont
+Irénée_du_Pont	diedIn	Wilmington,_Delaware
+Irénée_du_Pont	diedIn	Wilmington,_Delaware
+Pierre_S._du_Pont	wasBornIn	Wilmington,_Delaware
+Pierre_S._du_Pont	wasBornIn	Wilmington,_Delaware
+
+http://dbpedia.org/resource/Irénée_du_Pont	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Pierre_S._du_Pont
+Irénée_du_Pont	Pierre_S._du_Pont
+Lammot_du_Pont_I	hasChild	Irénée_du_Pont
+Lammot_du_Pont_I	hasChild	Irénée_du_Pont
+Lammot_du_Pont_I	hasChild	Pierre_S._du_Pont
+Lammot_du_Pont_I	hasChild	Pierre_S._du_Pont
+
+http://dbpedia.org/resource/Prithviraj_Sukumaran	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Mallika_Sukumaran
+Prithviraj_Sukumaran	Mallika_Sukumaran
+Sukumaran	hasChild	Prithviraj_Sukumaran
+Sukumaran	hasChild	Prithviraj_Sukumaran
+Sukumaran	isMarriedTo	Mallika_Sukumaran
+Mallika_Sukumaran	isMarriedTo	Sukumaran
+Sukumaran	isMarriedTo	Mallika_Sukumaran
+Mallika_Sukumaran	isMarriedTo	Sukumaran
+
+http://dbpedia.org/resource/Prithviraj_Sukumaran	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Mallika_Sukumaran
+Prithviraj_Sukumaran	Mallika_Sukumaran
+Sukumaran	hasChild	Prithviraj_Sukumaran
+Sukumaran	hasChild	Prithviraj_Sukumaran
+Sukumaran	hasChild	Prithviraj_Sukumaran
+Sukumaran	hasChild	Prithviraj_Sukumaran
+Mallika_Sukumaran	hasChild	Prithviraj_Sukumaran
+Mallika_Sukumaran	hasChild	Prithviraj_Sukumaran
+
+http://dbpedia.org/resource/Prithviraj_Sukumaran	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Mallika_Sukumaran
+Prithviraj_Sukumaran	Mallika_Sukumaran
+Sukumaran	hasChild	Prithviraj_Sukumaran
+Sukumaran	hasChild	Prithviraj_Sukumaran
+Sukumaran	hasChild	Indrajith_Sukumaran
+Sukumaran	hasChild	Indrajith_Sukumaran
+Mallika_Sukumaran	hasChild	Indrajith_Sukumaran
+Mallika_Sukumaran	hasChild	Indrajith_Sukumaran
+
+http://dbpedia.org/resource/Prithviraj_Sukumaran	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Mallika_Sukumaran
+Prithviraj_Sukumaran	Mallika_Sukumaran
+Prithviraj_Sukumaran	livesIn	Kochi
+Prithviraj_Sukumaran	livesIn	Kochi
+Indrajith_Sukumaran	livesIn	Kochi
+Indrajith_Sukumaran	livesIn	Kochi
+Mallika_Sukumaran	hasChild	Indrajith_Sukumaran
+Mallika_Sukumaran	hasChild	Indrajith_Sukumaran
+
+http://dbpedia.org/resource/Prithviraj_Sukumaran	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Mallika_Sukumaran
+Prithviraj_Sukumaran	Mallika_Sukumaran
+Prithviraj_Sukumaran	livesIn	Kochi
+Prithviraj_Sukumaran	livesIn	Kochi
+Prithviraj_Sukumaran	livesIn	Kochi
+Prithviraj_Sukumaran	livesIn	Kochi
+Mallika_Sukumaran	hasChild	Prithviraj_Sukumaran
+Mallika_Sukumaran	hasChild	Prithviraj_Sukumaran
+
+http://dbpedia.org/resource/Prithviraj_Sukumaran	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Mallika_Sukumaran
+Prithviraj_Sukumaran	Mallika_Sukumaran
+Mallika_Sukumaran	hasChild	Prithviraj_Sukumaran
+Mallika_Sukumaran	hasChild	Prithviraj_Sukumaran
+
+http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Robert_White_(West_Virginia_senator)
+Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	Robert_White_(West_Virginia_senator)
+Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	wasBornIn	Romney,_West_Virginia
+Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+
+http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Christian_Streit_White
+Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	Christian_Streit_White
+Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	wasBornIn	Romney,_West_Virginia
+Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+
+http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Christian_Streit_White
+Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	Christian_Streit_White
+Samuel_Lightfoot_Flournoy	hasChild	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy	hasChild	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy	livesIn	Romney,_West_Virginia
+Samuel_Lightfoot_Flournoy	livesIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+
+http://dbpedia.org/resource/Carrie_Fisher	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Todd_Fisher
+Carrie_Fisher	Todd_Fisher
+Carrie_Fisher	wasBornIn	Burbank,_California
+Carrie_Fisher	wasBornIn	Burbank,_California
+Todd_Fisher	wasBornIn	Burbank,_California
+Todd_Fisher	wasBornIn	Burbank,_California
+
+http://dbpedia.org/resource/Ivana_Brlić-Mažuranić	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Ivan_Mažuranić
+Ivana_Brlić-Mažuranić	Ivan_Mažuranić
+Ivana_Brlić-Mažuranić	wasBornIn	Ogulin
+Ivana_Brlić-Mažuranić	wasBornIn	Ogulin
+Ogulin	isLocatedIn	Croatia
+Ogulin	isLocatedIn	Croatia
+Ivan_Mažuranić	isCitizenOf	Croatia
+Ivan_Mažuranić	isCitizenOf	Croatia
+
+http://dbpedia.org/resource/Ivana_Brlić-Mažuranić	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Ivan_Mažuranić
+Ivana_Brlić-Mažuranić	Ivan_Mažuranić
+Ivana_Brlić-Mažuranić	isCitizenOf	Croatia
+Ivana_Brlić-Mažuranić	isCitizenOf	Croatia
+Ivan_Mažuranić	isCitizenOf	Croatia
+Ivan_Mažuranić	isCitizenOf	Croatia
+
+http://dbpedia.org/resource/Arlene_White_Lawrence	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Alma_Bridwell_White
+Arlene_White_Lawrence	Alma_Bridwell_White
+Arthur_Kent_White	hasChild	Arlene_White_Lawrence
+Arthur_Kent_White	hasChild	Arlene_White_Lawrence
+Alma_Bridwell_White	hasChild	Arthur_Kent_White
+Alma_Bridwell_White	hasChild	Arthur_Kent_White
+
+http://dbpedia.org/resource/Tony_O'Reilly	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Chryss_Goulandris
+Tony_O'Reilly	Chryss_Goulandris
+Tony_O'Reilly	isMarriedTo	Chryss_Goulandris
+Chryss_Goulandris	isMarriedTo	Tony_O'Reilly
+Tony_O'Reilly	isMarriedTo	Chryss_Goulandris
+Chryss_Goulandris	isMarriedTo	Tony_O'Reilly
+
+http://dbpedia.org/resource/Giorgio_Amendola	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Giovanni_Amendola
+Giorgio_Amendola	Giovanni_Amendola
+Giovanni_Amendola	hasChild	Giorgio_Amendola
+Giovanni_Amendola	hasChild	Giorgio_Amendola
+
+http://dbpedia.org/resource/Giorgio_Amendola	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Giovanni_Amendola
+Giorgio_Amendola	Giovanni_Amendola
+Giorgio_Amendola	isCitizenOf	Lithuania
+Giorgio_Amendola	isCitizenOf	Lithuania
+Giorgio_Amendola	isCitizenOf	Lithuania
+Giorgio_Amendola	isCitizenOf	Lithuania
+Giovanni_Amendola	hasChild	Giorgio_Amendola
+Giovanni_Amendola	hasChild	Giorgio_Amendola
+
+http://dbpedia.org/resource/Giorgio_Amendola	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Giovanni_Amendola
+Giorgio_Amendola	Giovanni_Amendola
+Giorgio_Amendola	influences	Giorgio_Napolitano
+Giorgio_Amendola	influences	Giorgio_Napolitano
+Giorgio_Amendola	influences	Giorgio_Napolitano
+Giorgio_Amendola	influences	Giorgio_Napolitano
+Giovanni_Amendola	hasChild	Giorgio_Amendola
+Giovanni_Amendola	hasChild	Giorgio_Amendola
+
+http://dbpedia.org/resource/Naga_Chaitanya	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Rana_Daggubati
+Naga_Chaitanya	Rana_Daggubati
+Naga_Chaitanya	livesIn	Hyderabad
+Naga_Chaitanya	livesIn	Hyderabad
+Daggubati_Suresh_Babu	livesIn	Hyderabad
+Daggubati_Suresh_Babu	livesIn	Hyderabad
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+
+http://dbpedia.org/resource/Zwelakhe_Sisulu	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Lindiwe_Sisulu
+Zwelakhe_Sisulu	Lindiwe_Sisulu
+Zwelakhe_Sisulu	livesIn	Johannesburg
+Zwelakhe_Sisulu	livesIn	Johannesburg
+Lindiwe_Sisulu	wasBornIn	Johannesburg
+Lindiwe_Sisulu	wasBornIn	Johannesburg
+
+http://dbpedia.org/resource/Zwelakhe_Sisulu	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Lindiwe_Sisulu
+Zwelakhe_Sisulu	Lindiwe_Sisulu
+Walter_Sisulu	hasChild	Zwelakhe_Sisulu
+Walter_Sisulu	hasChild	Zwelakhe_Sisulu
+Walter_Sisulu	hasChild	Lindiwe_Sisulu
+Walter_Sisulu	hasChild	Lindiwe_Sisulu
+
+http://dbpedia.org/resource/Zwelakhe_Sisulu	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Lindiwe_Sisulu
+Zwelakhe_Sisulu	Lindiwe_Sisulu
+Zwelakhe_Sisulu	isAffiliatedTo	African_National_Congress
+Zwelakhe_Sisulu	isAffiliatedTo	African_National_Congress
+Walter_Sisulu	isAffiliatedTo	African_National_Congress
+Walter_Sisulu	isAffiliatedTo	African_National_Congress
+Walter_Sisulu	hasChild	Lindiwe_Sisulu
+Walter_Sisulu	hasChild	Lindiwe_Sisulu
+
+http://dbpedia.org/resource/Sai_Dharam_Tej	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Allu_Arjun
+Sai_Dharam_Tej	Allu_Arjun
+Sai_Dharam_Tej	livesIn	Telangana
+Sai_Dharam_Tej	livesIn	Telangana
+Allu_Arjun	livesIn	Telangana
+Allu_Arjun	livesIn	Telangana
+
+http://dbpedia.org/resource/Daggubati_Venkatesh	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Akkineni_Nagarjuna
+Daggubati_Venkatesh	Akkineni_Nagarjuna
+Daggubati_Venkatesh	livesIn	Film_Nagar
+Daggubati_Venkatesh	livesIn	Film_Nagar
+Akkineni_Nagarjuna	livesIn	Film_Nagar
+Akkineni_Nagarjuna	livesIn	Film_Nagar
+
+http://dbpedia.org/resource/Archibald_Roosevelt	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Kermit_Roosevelt
+Archibald_Roosevelt	Kermit_Roosevelt
+Edith_Roosevelt	hasChild	Archibald_Roosevelt
+Edith_Roosevelt	hasChild	Archibald_Roosevelt
+Edith_Roosevelt	isMarriedTo	Theodore_Roosevelt
+Theodore_Roosevelt	isMarriedTo	Edith_Roosevelt
+Edith_Roosevelt	isMarriedTo	Theodore_Roosevelt
+Theodore_Roosevelt	isMarriedTo	Edith_Roosevelt
+Theodore_Roosevelt	hasChild	Kermit_Roosevelt
+Theodore_Roosevelt	hasChild	Kermit_Roosevelt
+
+http://dbpedia.org/resource/Archibald_Roosevelt	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Kermit_Roosevelt
+Archibald_Roosevelt	Kermit_Roosevelt
+Theodore_Roosevelt	hasChild	Archibald_Roosevelt
+Theodore_Roosevelt	hasChild	Archibald_Roosevelt
+Theodore_Roosevelt	hasChild	Kermit_Roosevelt
+Theodore_Roosevelt	hasChild	Kermit_Roosevelt
+
+http://dbpedia.org/resource/Beatrice_Welles	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Paola_Mori
+Beatrice_Welles	Paola_Mori
+Paola_Mori	hasChild	Beatrice_Welles
+Paola_Mori	hasChild	Beatrice_Welles
+
+http://dbpedia.org/resource/Beatrice_Welles	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Paola_Mori
+Beatrice_Welles	Paola_Mori
+Orson_Welles	hasChild	Beatrice_Welles
+Orson_Welles	hasChild	Beatrice_Welles
+Paola_Mori	isMarriedTo	Orson_Welles
+Orson_Welles	isMarriedTo	Paola_Mori
+Paola_Mori	isMarriedTo	Orson_Welles
+Orson_Welles	isMarriedTo	Paola_Mori
+
+http://dbpedia.org/resource/Beatrice_Welles	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Paola_Mori
+Beatrice_Welles	Paola_Mori
+Beatrice_Welles	wasBornIn	Manhattan
+Beatrice_Welles	wasBornIn	Manhattan
+Beatrice_Welles	wasBornIn	Manhattan
+Beatrice_Welles	wasBornIn	Manhattan
+Paola_Mori	hasChild	Beatrice_Welles
+Paola_Mori	hasChild	Beatrice_Welles
+
+http://dbpedia.org/resource/Daggubati_Suresh_Babu	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Akkineni_Nagarjuna
+Daggubati_Suresh_Babu	Akkineni_Nagarjuna
+Daggubati_Suresh_Babu	livesIn	Film_Nagar
+Daggubati_Suresh_Babu	livesIn	Film_Nagar
+Akkineni_Nagarjuna	livesIn	Film_Nagar
+Akkineni_Nagarjuna	livesIn	Film_Nagar
+
+http://dbpedia.org/resource/Daggubati_Suresh_Babu	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Akkineni_Nagarjuna
+Daggubati_Suresh_Babu	Akkineni_Nagarjuna
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+Rana_Daggubati	livesIn	Film_Nagar
+Rana_Daggubati	livesIn	Film_Nagar
+Akkineni_Nagarjuna	livesIn	Film_Nagar
+Akkineni_Nagarjuna	livesIn	Film_Nagar
+
+http://dbpedia.org/resource/Steven_R._McQueen	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Neile_Adams
+Steven_R._McQueen	Neile_Adams
+Chad_McQueen	hasChild	Steven_R._McQueen
+Chad_McQueen	hasChild	Steven_R._McQueen
+Neile_Adams	hasChild	Chad_McQueen
+Neile_Adams	hasChild	Chad_McQueen
+
+http://dbpedia.org/resource/Steven_R._McQueen	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Neile_Adams
+Steven_R._McQueen	Neile_Adams
+Chad_McQueen	hasChild	Steven_R._McQueen
+Chad_McQueen	hasChild	Steven_R._McQueen
+Steve_McQueen	hasChild	Chad_McQueen
+Steve_McQueen	hasChild	Chad_McQueen
+Steve_McQueen	isMarriedTo	Neile_Adams
+Neile_Adams	isMarriedTo	Steve_McQueen
+Steve_McQueen	isMarriedTo	Neile_Adams
+Neile_Adams	isMarriedTo	Steve_McQueen
+
+http://dbpedia.org/resource/Hugh_Carter	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Jimmy_Carter
+Hugh_Carter	Jimmy_Carter
+Hugh_Carter	wasBornIn	Plains,_Georgia
+Hugh_Carter	wasBornIn	Plains,_Georgia
+Jimmy_Carter	wasBornIn	Plains,_Georgia
+Jimmy_Carter	wasBornIn	Plains,_Georgia
+
+http://dbpedia.org/resource/Hugh_Carter	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Jimmy_Carter
+Hugh_Carter	Jimmy_Carter
+Hugh_Carter	wasBornIn	Plains,_Georgia
+Hugh_Carter	wasBornIn	Plains,_Georgia
+Rosalynn_Carter	wasBornIn	Plains,_Georgia
+Rosalynn_Carter	wasBornIn	Plains,_Georgia
+Rosalynn_Carter	isMarriedTo	Jimmy_Carter
+Jimmy_Carter	isMarriedTo	Rosalynn_Carter
+Rosalynn_Carter	isMarriedTo	Jimmy_Carter
+Jimmy_Carter	isMarriedTo	Rosalynn_Carter
+
+http://dbpedia.org/resource/Hugh_Carter	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Jimmy_Carter
+Hugh_Carter	Jimmy_Carter
+Hugh_Carter	wasBornIn	Plains,_Georgia
+Hugh_Carter	wasBornIn	Plains,_Georgia
+Amy_Carter	wasBornIn	Plains,_Georgia
+Amy_Carter	wasBornIn	Plains,_Georgia
+Jimmy_Carter	hasChild	Amy_Carter
+Jimmy_Carter	hasChild	Amy_Carter
+
+http://dbpedia.org/resource/Chico_Marx	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Harpo_Marx
+Chico_Marx	Harpo_Marx
+Minnie_Marx	hasChild	Chico_Marx
+Minnie_Marx	hasChild	Chico_Marx
+Minnie_Marx	isMarriedTo	Sam_Marx
+Sam_Marx	isMarriedTo	Minnie_Marx
+Minnie_Marx	isMarriedTo	Sam_Marx
+Sam_Marx	isMarriedTo	Minnie_Marx
+Sam_Marx	hasChild	Harpo_Marx
+Sam_Marx	hasChild	Harpo_Marx
+
+http://dbpedia.org/resource/Chico_Marx	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Harpo_Marx
+Chico_Marx	Harpo_Marx
+Minnie_Marx	hasChild	Chico_Marx
+Minnie_Marx	hasChild	Chico_Marx
+Minnie_Marx	hasChild	Harpo_Marx
+Minnie_Marx	hasChild	Harpo_Marx
+
+http://dbpedia.org/resource/Chico_Marx	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Harpo_Marx
+Chico_Marx	Harpo_Marx
+Sam_Marx	hasChild	Chico_Marx
+Sam_Marx	hasChild	Chico_Marx
+Minnie_Marx	isMarriedTo	Sam_Marx
+Sam_Marx	isMarriedTo	Minnie_Marx
+Minnie_Marx	isMarriedTo	Sam_Marx
+Sam_Marx	isMarriedTo	Minnie_Marx
+Minnie_Marx	hasChild	Harpo_Marx
+Minnie_Marx	hasChild	Harpo_Marx
+
+http://dbpedia.org/resource/Chico_Marx	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Harpo_Marx
+Chico_Marx	Harpo_Marx
+Sam_Marx	hasChild	Chico_Marx
+Sam_Marx	hasChild	Chico_Marx
+Sam_Marx	hasChild	Harpo_Marx
+Sam_Marx	hasChild	Harpo_Marx
+
+http://dbpedia.org/resource/Daggubati_Suresh_Babu	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Daggubati_Venkatesh
+Daggubati_Suresh_Babu	Daggubati_Venkatesh
+D._Ramanaidu	hasChild	Daggubati_Suresh_Babu
+D._Ramanaidu	hasChild	Daggubati_Suresh_Babu
+D._Ramanaidu	hasChild	Daggubati_Venkatesh
+D._Ramanaidu	hasChild	Daggubati_Venkatesh
+
+http://dbpedia.org/resource/Daggubati_Suresh_Babu	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Daggubati_Venkatesh
+Daggubati_Suresh_Babu	Daggubati_Venkatesh
+Daggubati_Suresh_Babu	livesIn	Film_Nagar
+Daggubati_Suresh_Babu	livesIn	Film_Nagar
+Daggubati_Venkatesh	livesIn	Film_Nagar
+Daggubati_Venkatesh	livesIn	Film_Nagar
+
+http://dbpedia.org/resource/Daggubati_Suresh_Babu	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Daggubati_Venkatesh
+Daggubati_Suresh_Babu	Daggubati_Venkatesh
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+Rana_Daggubati	livesIn	Film_Nagar
+Rana_Daggubati	livesIn	Film_Nagar
+Daggubati_Venkatesh	livesIn	Film_Nagar
+Daggubati_Venkatesh	livesIn	Film_Nagar
+
+http://dbpedia.org/resource/Daggubati_Suresh_Babu	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Daggubati_Venkatesh
+Daggubati_Suresh_Babu	Daggubati_Venkatesh
+Daggubati_Suresh_Babu	owns	Suresh_Productions
+Daggubati_Suresh_Babu	owns	Suresh_Productions
+D._Ramanaidu	created	Suresh_Productions
+D._Ramanaidu	created	Suresh_Productions
+D._Ramanaidu	hasChild	Daggubati_Venkatesh
+D._Ramanaidu	hasChild	Daggubati_Venkatesh
+
+http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Robert_White_(attorney_general)
+Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	Robert_White_(attorney_general)
+Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	wasBornIn	Romney,_West_Virginia
+Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+
+http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Robert_White_(attorney_general)
+Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	Robert_White_(attorney_general)
+Samuel_Lightfoot_Flournoy	hasChild	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy	hasChild	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy	livesIn	Romney,_West_Virginia
+Samuel_Lightfoot_Flournoy	livesIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+Robert_White_(attorney_general)	wasBornIn	Romney,_West_Virginia
+
+http://dbpedia.org/resource/Muhammad_Jaber_Al_Safa	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Ahmad_Rida
+Muhammad_Jaber_Al_Safa	Ahmad_Rida
+Muhammad_Jaber_Al_Safa	diedIn	Nabatieh
+Muhammad_Jaber_Al_Safa	wasBornIn	Nabatieh
+Muhammad_Jaber_Al_Safa	diedIn	Nabatieh
+Muhammad_Jaber_Al_Safa	wasBornIn	Nabatieh
+Ahmad_Rida	wasBornIn	Nabatieh
+Ahmad_Rida	diedIn	Nabatieh
+Ahmad_Rida	wasBornIn	Nabatieh
+Ahmad_Rida	diedIn	Nabatieh
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Heinrich_Heine	influences	Gustavo_Adolfo_Bécquer
+Heinrich_Heine	influences	Gustavo_Adolfo_Bécquer
+Johann_Wolfgang_von_Goethe	influences	Gustavo_Adolfo_Bécquer
+Johann_Wolfgang_von_Goethe	influences	Gustavo_Adolfo_Bécquer
+Johann_Wolfgang_von_Goethe	influences	Karl_Marx
+Karl_Marx	influences	Johann_Wolfgang_von_Goethe
+Johann_Wolfgang_von_Goethe	influences	Karl_Marx
+Karl_Marx	influences	Johann_Wolfgang_von_Goethe
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Jean-Jacques_Rousseau
+Jean-Jacques_Rousseau	influences	Georg_Wilhelm_Friedrich_Hegel
+Georg_Wilhelm_Friedrich_Hegel	influences	Jean-Jacques_Rousseau
+Jean-Jacques_Rousseau	influences	Georg_Wilhelm_Friedrich_Hegel
+Jean-Jacques_Rousseau	influences	Karl_Marx
+Karl_Marx	influences	Jean-Jacques_Rousseau
+Jean-Jacques_Rousseau	influences	Karl_Marx
+Karl_Marx	influences	Jean-Jacques_Rousseau
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Jean-François_Lyotard
+Georg_Wilhelm_Friedrich_Hegel	influences	Jean-François_Lyotard
+Karl_Marx	influences	Jean-François_Lyotard
+Karl_Marx	influences	Jean-François_Lyotard
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Herbert_Marcuse
+Georg_Wilhelm_Friedrich_Hegel	influences	Herbert_Marcuse
+Karl_Marx	influences	Herbert_Marcuse
+Karl_Marx	influences	Herbert_Marcuse
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Max_Stirner
+Georg_Wilhelm_Friedrich_Hegel	influences	Max_Stirner
+Karl_Marx	influences	Max_Stirner
+Max_Stirner	influences	Karl_Marx
+Karl_Marx	influences	Max_Stirner
+Max_Stirner	influences	Karl_Marx
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Allen_W._Wood
+Georg_Wilhelm_Friedrich_Hegel	influences	Allen_W._Wood
+Karl_Marx	influences	Allen_W._Wood
+Karl_Marx	influences	Allen_W._Wood
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Albert_Camus
+Georg_Wilhelm_Friedrich_Hegel	influences	Albert_Camus
+Karl_Marx	influences	Albert_Camus
+Karl_Marx	influences	Albert_Camus
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Costanzo_Preve
+Georg_Wilhelm_Friedrich_Hegel	influences	Costanzo_Preve
+Karl_Marx	influences	Costanzo_Preve
+Karl_Marx	influences	Costanzo_Preve
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Leszek_Kołakowski
+Georg_Wilhelm_Friedrich_Hegel	influences	Leszek_Kołakowski
+Karl_Marx	influences	Leszek_Kołakowski
+Leszek_Kołakowski	isKnownFor	Karl_Marx
+Karl_Marx	influences	Leszek_Kołakowski
+Leszek_Kołakowski	isKnownFor	Karl_Marx
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Peter_Singer
+Georg_Wilhelm_Friedrich_Hegel	influences	Peter_Singer
+Karl_Marx	influences	Peter_Singer
+Karl_Marx	influences	Peter_Singer
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Gillian_Rose
+Georg_Wilhelm_Friedrich_Hegel	influences	Gillian_Rose
+Karl_Marx	influences	Gillian_Rose
+Karl_Marx	influences	Gillian_Rose
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Ágnes_Heller
+Georg_Wilhelm_Friedrich_Hegel	influences	Ágnes_Heller
+Karl_Marx	influences	Ágnes_Heller
+Karl_Marx	influences	Ágnes_Heller
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Alain_Badiou
+Georg_Wilhelm_Friedrich_Hegel	influences	Alain_Badiou
+Karl_Marx	influences	Alain_Badiou
+Karl_Marx	influences	Alain_Badiou
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Karl_Marx	influences	Georg_Wilhelm_Friedrich_Hegel
+Georg_Wilhelm_Friedrich_Hegel	influences	Karl_Marx
+Karl_Marx	influences	Georg_Wilhelm_Friedrich_Hegel
+Georg_Wilhelm_Friedrich_Hegel	influences	Karl_Marx
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Marshall_Berman
+Georg_Wilhelm_Friedrich_Hegel	influences	Marshall_Berman
+Karl_Marx	influences	Marshall_Berman
+Karl_Marx	influences	Marshall_Berman
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Georg_Wilhelm_Friedrich_Hegel	influences	Heinrich_Heine
+Baruch_Spinoza	influences	Georg_Wilhelm_Friedrich_Hegel
+Georg_Wilhelm_Friedrich_Hegel	influences	Baruch_Spinoza
+Baruch_Spinoza	influences	Georg_Wilhelm_Friedrich_Hegel
+Georg_Wilhelm_Friedrich_Hegel	influences	Baruch_Spinoza
+Karl_Marx	influences	Baruch_Spinoza
+Baruch_Spinoza	influences	Karl_Marx
+Karl_Marx	influences	Baruch_Spinoza
+Baruch_Spinoza	influences	Karl_Marx
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Heinrich_Heine	influences	Lev_Shestov
+Heinrich_Heine	influences	Lev_Shestov
+Lev_Shestov	influences	Georges_Bataille
+Lev_Shestov	influences	Georges_Bataille
+Karl_Marx	influences	Georges_Bataille
+Karl_Marx	influences	Georges_Bataille
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Heinrich_Heine	influences	Lev_Shestov
+Heinrich_Heine	influences	Lev_Shestov
+Baruch_Spinoza	influences	Lev_Shestov
+Baruch_Spinoza	influences	Lev_Shestov
+Karl_Marx	influences	Baruch_Spinoza
+Baruch_Spinoza	influences	Karl_Marx
+Karl_Marx	influences	Baruch_Spinoza
+Baruch_Spinoza	influences	Karl_Marx
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Heinrich_Heine	influences	Lev_Shestov
+Heinrich_Heine	influences	Lev_Shestov
+Lev_Shestov	influences	Isaiah_Berlin
+Lev_Shestov	influences	Isaiah_Berlin
+Karl_Marx	influences	Isaiah_Berlin
+Karl_Marx	influences	Isaiah_Berlin
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Heinrich_Heine	influences	Lev_Shestov
+Heinrich_Heine	influences	Lev_Shestov
+Lev_Shestov	influences	Albert_Camus
+Lev_Shestov	influences	Albert_Camus
+Karl_Marx	influences	Albert_Camus
+Karl_Marx	influences	Albert_Camus
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Heinrich_Heine	influences	Dragotin_Kette
+Heinrich_Heine	influences	Dragotin_Kette
+Johann_Wolfgang_von_Goethe	influences	Dragotin_Kette
+Johann_Wolfgang_von_Goethe	influences	Dragotin_Kette
+Johann_Wolfgang_von_Goethe	influences	Karl_Marx
+Karl_Marx	influences	Johann_Wolfgang_von_Goethe
+Johann_Wolfgang_von_Goethe	influences	Karl_Marx
+Karl_Marx	influences	Johann_Wolfgang_von_Goethe
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Johann_Joachim_Winckelmann	influences	Heinrich_Heine
+Johann_Joachim_Winckelmann	influences	Heinrich_Heine
+Johann_Joachim_Winckelmann	influences	Johann_Wolfgang_von_Goethe
+Johann_Joachim_Winckelmann	influences	Johann_Wolfgang_von_Goethe
+Johann_Wolfgang_von_Goethe	influences	Karl_Marx
+Karl_Marx	influences	Johann_Wolfgang_von_Goethe
+Johann_Wolfgang_von_Goethe	influences	Karl_Marx
+Karl_Marx	influences	Johann_Wolfgang_von_Goethe
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Novalis	influences	Heinrich_Heine
+Novalis	influences	Heinrich_Heine
+Johann_Wolfgang_von_Goethe	influences	Novalis
+Johann_Wolfgang_von_Goethe	influences	Novalis
+Johann_Wolfgang_von_Goethe	influences	Karl_Marx
+Karl_Marx	influences	Johann_Wolfgang_von_Goethe
+Johann_Wolfgang_von_Goethe	influences	Karl_Marx
+Karl_Marx	influences	Johann_Wolfgang_von_Goethe
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Novalis	influences	Heinrich_Heine
+Novalis	influences	Heinrich_Heine
+Baruch_Spinoza	influences	Novalis
+Baruch_Spinoza	influences	Novalis
+Karl_Marx	influences	Baruch_Spinoza
+Baruch_Spinoza	influences	Karl_Marx
+Karl_Marx	influences	Baruch_Spinoza
+Baruch_Spinoza	influences	Karl_Marx
+
+http://dbpedia.org/resource/Heinrich_Heine	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Karl_Marx
+Heinrich_Heine	Karl_Marx
+Heinrich_Heine	influences	Josip_Stritar
+Heinrich_Heine	influences	Josip_Stritar
+Johann_Wolfgang_von_Goethe	influences	Josip_Stritar
+Johann_Wolfgang_von_Goethe	influences	Josip_Stritar
+Johann_Wolfgang_von_Goethe	influences	Karl_Marx
+Karl_Marx	influences	Johann_Wolfgang_von_Goethe
+Johann_Wolfgang_von_Goethe	influences	Karl_Marx
+Karl_Marx	influences	Johann_Wolfgang_von_Goethe
+
+http://dbpedia.org/resource/Soedjatmoko	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Sutan_Sjahrir
+Soedjatmoko	Sutan_Sjahrir
+Soedjatmoko	isAffiliatedTo	Socialist_Party_of_Indonesia
+Soedjatmoko	isAffiliatedTo	Socialist_Party_of_Indonesia
+Sutan_Sjahrir	isAffiliatedTo	Socialist_Party_of_Indonesia
+Sutan_Sjahrir	isAffiliatedTo	Socialist_Party_of_Indonesia
+
+http://dbpedia.org/resource/Rana_Daggubati	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Daggubati_Venkatesh
+Rana_Daggubati	Daggubati_Venkatesh
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+D._Ramanaidu	hasChild	Daggubati_Suresh_Babu
+D._Ramanaidu	hasChild	Daggubati_Suresh_Babu
+D._Ramanaidu	hasChild	Daggubati_Venkatesh
+D._Ramanaidu	hasChild	Daggubati_Venkatesh
+
+http://dbpedia.org/resource/Rana_Daggubati	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Daggubati_Venkatesh
+Rana_Daggubati	Daggubati_Venkatesh
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+Daggubati_Suresh_Babu	livesIn	Film_Nagar
+Daggubati_Suresh_Babu	livesIn	Film_Nagar
+Daggubati_Venkatesh	livesIn	Film_Nagar
+Daggubati_Venkatesh	livesIn	Film_Nagar
+
+http://dbpedia.org/resource/Rana_Daggubati	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Daggubati_Venkatesh
+Rana_Daggubati	Daggubati_Venkatesh
+Rana_Daggubati	livesIn	Film_Nagar
+Rana_Daggubati	livesIn	Film_Nagar
+Daggubati_Venkatesh	livesIn	Film_Nagar
+Daggubati_Venkatesh	livesIn	Film_Nagar
+
+http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/John_Baker_White_(West_Virginia_politician)
+Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	John_Baker_White_(West_Virginia_politician)
+Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	wasBornIn	Romney,_West_Virginia
+Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+
+http://dbpedia.org/resource/Daggubati_Venkatesh	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Rana_Daggubati
+Daggubati_Venkatesh	Rana_Daggubati
+D._Ramanaidu	hasChild	Daggubati_Venkatesh
+D._Ramanaidu	hasChild	Daggubati_Venkatesh
+D._Ramanaidu	hasChild	Daggubati_Suresh_Babu
+D._Ramanaidu	hasChild	Daggubati_Suresh_Babu
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+
+http://dbpedia.org/resource/Daggubati_Venkatesh	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Rana_Daggubati
+Daggubati_Venkatesh	Rana_Daggubati
+Daggubati_Venkatesh	livesIn	Hyderabad
+Daggubati_Venkatesh	livesIn	Hyderabad
+Daggubati_Suresh_Babu	livesIn	Hyderabad
+Daggubati_Suresh_Babu	livesIn	Hyderabad
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+
+http://dbpedia.org/resource/Daggubati_Venkatesh	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Rana_Daggubati
+Daggubati_Venkatesh	Rana_Daggubati
+Daggubati_Venkatesh	livesIn	Film_Nagar
+Daggubati_Venkatesh	livesIn	Film_Nagar
+Daggubati_Suresh_Babu	livesIn	Film_Nagar
+Daggubati_Suresh_Babu	livesIn	Film_Nagar
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+
+http://dbpedia.org/resource/Daggubati_Venkatesh	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Rana_Daggubati
+Daggubati_Venkatesh	Rana_Daggubati
+Daggubati_Venkatesh	livesIn	Film_Nagar
+Daggubati_Venkatesh	livesIn	Film_Nagar
+Rana_Daggubati	livesIn	Film_Nagar
+Rana_Daggubati	livesIn	Film_Nagar
+
+http://dbpedia.org/resource/Steven_Ford	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Gerald_Ford
+Steven_Ford	Gerald_Ford
+Gerald_Ford	hasChild	Steven_Ford
+Gerald_Ford	hasChild	Steven_Ford
+
+http://dbpedia.org/resource/Steven_Ford	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Gerald_Ford
+Steven_Ford	Gerald_Ford
+Betty_Ford	hasChild	Steven_Ford
+Betty_Ford	hasChild	Steven_Ford
+Gerald_Ford	isMarriedTo	Betty_Ford
+Betty_Ford	isMarriedTo	Gerald_Ford
+Gerald_Ford	isMarriedTo	Betty_Ford
+Betty_Ford	isMarriedTo	Gerald_Ford
+
+http://dbpedia.org/resource/Steven_Ford	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Gerald_Ford
+Steven_Ford	Gerald_Ford
+Steven_Ford	graduatedFrom	Utah_State_University
+Steven_Ford	graduatedFrom	Utah_State_University
+Steven_Ford	graduatedFrom	Utah_State_University
+Steven_Ford	graduatedFrom	Utah_State_University
+Gerald_Ford	hasChild	Steven_Ford
+Gerald_Ford	hasChild	Steven_Ford
+
+http://dbpedia.org/resource/Bimby_Aquino_Yap	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Corazon_Aquino
+Bimby_Aquino_Yap	Corazon_Aquino
+Kris_Aquino	hasChild	Bimby_Aquino_Yap
+Kris_Aquino	hasChild	Bimby_Aquino_Yap
+Kris_Aquino	wasBornIn	Philippines
+Kris_Aquino	isPoliticianOf	Philippines
+Kris_Aquino	livesIn	Philippines
+Kris_Aquino	isCitizenOf	Philippines
+Kris_Aquino	wasBornIn	Philippines
+Kris_Aquino	isPoliticianOf	Philippines
+Kris_Aquino	livesIn	Philippines
+Kris_Aquino	isCitizenOf	Philippines
+Corazon_Aquino	isCitizenOf	Philippines
+Corazon_Aquino	isPoliticianOf	Philippines
+Corazon_Aquino	isCitizenOf	Philippines
+Corazon_Aquino	isPoliticianOf	Philippines
+
+http://dbpedia.org/resource/Raymond_J._Harbert	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Bill_L._Harbert
+Raymond_J._Harbert	Bill_L._Harbert
+Marguerite_Harbert	hasChild	Raymond_J._Harbert
+Marguerite_Harbert	hasChild	Raymond_J._Harbert
+Marguerite_Harbert	wasBornIn	Birmingham,_Alabama
+Marguerite_Harbert	wasBornIn	Birmingham,_Alabama
+Bill_L._Harbert	livesIn	Birmingham,_Alabama
+Bill_L._Harbert	diedIn	Birmingham,_Alabama
+Bill_L._Harbert	livesIn	Birmingham,_Alabama
+Bill_L._Harbert	diedIn	Birmingham,_Alabama
+
+http://dbpedia.org/resource/Raymond_J._Harbert	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Bill_L._Harbert
+Raymond_J._Harbert	Bill_L._Harbert
+John_M._Harbert	hasChild	Raymond_J._Harbert
+John_M._Harbert	hasChild	Raymond_J._Harbert
+John_M._Harbert	livesIn	Birmingham,_Alabama
+John_M._Harbert	diedIn	Birmingham,_Alabama
+John_M._Harbert	livesIn	Birmingham,_Alabama
+John_M._Harbert	diedIn	Birmingham,_Alabama
+Bill_L._Harbert	livesIn	Birmingham,_Alabama
+Bill_L._Harbert	diedIn	Birmingham,_Alabama
+Bill_L._Harbert	livesIn	Birmingham,_Alabama
+Bill_L._Harbert	diedIn	Birmingham,_Alabama
+
+http://dbpedia.org/resource/Raymond_J._Harbert	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Bill_L._Harbert
+Raymond_J._Harbert	Bill_L._Harbert
+Raymond_J._Harbert	wasBornIn	Birmingham,_Alabama
+Raymond_J._Harbert	wasBornIn	Birmingham,_Alabama
+Bill_L._Harbert	livesIn	Birmingham,_Alabama
+Bill_L._Harbert	diedIn	Birmingham,_Alabama
+Bill_L._Harbert	livesIn	Birmingham,_Alabama
+Bill_L._Harbert	diedIn	Birmingham,_Alabama
+
+http://dbpedia.org/resource/Rosemary_Forbes_Kerry	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Alexandra_Kerry
+Rosemary_Forbes_Kerry	Alexandra_Kerry
+Rosemary_Forbes_Kerry	isMarriedTo	Richard_Kerry
+Richard_Kerry	isMarriedTo	Rosemary_Forbes_Kerry
+Rosemary_Forbes_Kerry	isMarriedTo	Richard_Kerry
+Richard_Kerry	isMarriedTo	Rosemary_Forbes_Kerry
+Richard_Kerry	hasChild	John_Kerry
+Richard_Kerry	hasChild	John_Kerry
+John_Kerry	hasChild	Alexandra_Kerry
+John_Kerry	hasChild	Alexandra_Kerry
+
+http://dbpedia.org/resource/Zaynab_bint_Ali	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Abbas_ibn_Ali
+Zaynab_bint_Ali	Abbas_ibn_Ali
+Fatimah	hasChild	Zaynab_bint_Ali
+Fatimah	hasChild	Zaynab_bint_Ali
+Fatimah	isMarriedTo	Ali
+Ali	isMarriedTo	Fatimah
+Fatimah	isMarriedTo	Ali
+Ali	isMarriedTo	Fatimah
+Ali	hasChild	Abbas_ibn_Ali
+Ali	hasChild	Abbas_ibn_Ali
+
+http://dbpedia.org/resource/Zaynab_bint_Ali	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/Abbas_ibn_Ali
+Zaynab_bint_Ali	Abbas_ibn_Ali
+Ali	hasChild	Zaynab_bint_Ali
+Ali	hasChild	Zaynab_bint_Ali
+Ali	hasChild	Abbas_ibn_Ali
+Ali	hasChild	Abbas_ibn_Ali
+

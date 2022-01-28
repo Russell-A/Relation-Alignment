@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/Fela_Kuti	http://dbpedia.org/ontology/associatedMusicalArtist	http://dbpedia.org/resource/Fela_Kuti
+Fela_Kuti	Fela_Kuti
+Fela_Kuti	diedIn	Lagos
+Fela_Kuti	diedIn	Lagos
+Fela_Kuti	diedIn	Lagos
+Fela_Kuti	diedIn	Lagos
+

@@ -1,0 +1,302 @@
+http://dbpedia.org/resource/Magic_Logix	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Texas
+Magic_Logix	Texas
+Magic_Logix	isLocatedIn	Texas
+Magic_Logix	isLocatedIn	Texas
+
+http://dbpedia.org/resource/Magic_Logix	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Texas
+Magic_Logix	Texas
+Magic_Logix	isLocatedIn	Dallas
+Magic_Logix	isLocatedIn	Dallas
+Victory_Tower	isLocatedIn	Dallas
+Victory_Tower	isLocatedIn	Dallas
+Victory_Tower	isLocatedIn	Texas
+Victory_Tower	isLocatedIn	Texas
+
+http://dbpedia.org/resource/Magic_Logix	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Texas
+Magic_Logix	Texas
+Magic_Logix	isLocatedIn	Dallas
+Magic_Logix	isLocatedIn	Dallas
+Linda_Harper-Brown	wasBornIn	Dallas
+Linda_Harper-Brown	wasBornIn	Dallas
+Linda_Harper-Brown	livesIn	Texas
+Linda_Harper-Brown	livesIn	Texas
+
+http://dbpedia.org/resource/Magic_Logix	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Texas
+Magic_Logix	Texas
+Magic_Logix	isLocatedIn	Dallas
+Magic_Logix	isLocatedIn	Dallas
+KTXA	isLocatedIn	Dallas
+KTXA	isLocatedIn	Dallas
+KTXA	isLocatedIn	Texas
+KTXA	isLocatedIn	Texas
+
+http://dbpedia.org/resource/Magic_Logix	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Texas
+Magic_Logix	Texas
+Magic_Logix	isLocatedIn	Dallas
+Magic_Logix	isLocatedIn	Dallas
+KDTX-TV	isLocatedIn	Dallas
+KDTX-TV	isLocatedIn	Dallas
+KDTX-TV	isLocatedIn	Texas
+KDTX-TV	isLocatedIn	Texas
+
+http://dbpedia.org/resource/Magic_Logix	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Texas
+Magic_Logix	Texas
+Magic_Logix	isLocatedIn	Dallas
+Magic_Logix	isLocatedIn	Dallas
+Ameristar_Jet_Charter	isLocatedIn	Dallas
+Ameristar_Jet_Charter	isLocatedIn	Dallas
+Ameristar_Jet_Charter	isLocatedIn	Texas
+Ameristar_Jet_Charter	isLocatedIn	Texas
+
+http://dbpedia.org/resource/Magic_Logix	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Texas
+Magic_Logix	Texas
+Magic_Logix	isLocatedIn	Dallas
+Magic_Logix	isLocatedIn	Dallas
+Ed_Foreman	livesIn	Dallas
+Ed_Foreman	livesIn	Dallas
+Ed_Foreman	livesIn	Texas
+Ed_Foreman	livesIn	Texas
+
+http://dbpedia.org/resource/Magic_Logix	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Texas
+Magic_Logix	Texas
+Hassan_Bawab	created	Magic_Logix
+Hassan_Bawab	created	Magic_Logix
+Hassan_Bawab	livesIn	Texas
+Hassan_Bawab	livesIn	Texas
+
+http://dbpedia.org/resource/Magic_Logix	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Texas
+Magic_Logix	Texas
+Hassan_Bawab	created	Magic_Logix
+Hassan_Bawab	created	Magic_Logix
+Hassan_Bawab	graduatedFrom	University_of_North_Texas
+Hassan_Bawab	graduatedFrom	University_of_North_Texas
+University_of_North_Texas	isLocatedIn	Texas
+University_of_North_Texas	isLocatedIn	Texas
+
+http://dbpedia.org/resource/Magic_Logix	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Texas
+Magic_Logix	Texas
+Hassan_Bawab	created	Magic_Logix
+Hassan_Bawab	created	Magic_Logix
+Hassan_Bawab	created	Magic_Logix
+Hassan_Bawab	created	Magic_Logix
+Magic_Logix	isLocatedIn	Texas
+Magic_Logix	isLocatedIn	Texas
+
+http://dbpedia.org/resource/Magic_Logix	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Texas
+Magic_Logix	Texas
+Hassan_Bawab	created	Magic_Logix
+Hassan_Bawab	created	Magic_Logix
+Hassan_Bawab	graduatedFrom	Southern_Methodist_University
+Hassan_Bawab	graduatedFrom	Southern_Methodist_University
+Southern_Methodist_University	isLocatedIn	Texas
+Southern_Methodist_University	isLocatedIn	Texas
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Illinois
+Skidmore,_Owings_&_Merrill	Illinois
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Illinois
+Skidmore,_Owings_&_Merrill	Illinois
+Skidmore,_Owings_&_Merrill	created	Inland_Steel_Building
+Skidmore,_Owings_&_Merrill	created	Inland_Steel_Building
+Nagle_Hartray_Architecture	isLocatedIn	Inland_Steel_Building
+Nagle_Hartray_Architecture	isLocatedIn	Inland_Steel_Building
+Nagle_Hartray_Architecture	isLocatedIn	Illinois
+Nagle_Hartray_Architecture	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Illinois
+Skidmore,_Owings_&_Merrill	Illinois
+Skidmore,_Owings_&_Merrill	created	Three_First_National_Plaza
+Skidmore,_Owings_&_Merrill	created	Three_First_National_Plaza
+Three_First_National_Plaza	isLocatedIn	Illinois
+Three_First_National_Plaza	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Illinois
+Skidmore,_Owings_&_Merrill	Illinois
+Skidmore,_Owings_&_Merrill	created	Three_First_National_Plaza
+Skidmore,_Owings_&_Merrill	created	Three_First_National_Plaza
+Three_First_National_Plaza	isLocatedIn	Cook_County,_Illinois
+Three_First_National_Plaza	isLocatedIn	Cook_County,_Illinois
+Cook_County,_Illinois	isLocatedIn	Illinois
+Cook_County,_Illinois	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Illinois
+Skidmore,_Owings_&_Merrill	Illinois
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+321_North_Clark	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Chicago
+Skidmore,_Owings_&_Merrill	Chicago
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+Franklin_Center_(Chicago)	isLocatedIn	Chicago
+Franklin_Center_(Chicago)	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Chicago
+Skidmore,_Owings_&_Merrill	Chicago
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+Adrian_Smith_(architect)	created	Franklin_Center_(Chicago)
+Adrian_Smith_(architect)	created	Franklin_Center_(Chicago)
+Adrian_Smith_(architect)	wasBornIn	Chicago
+Adrian_Smith_(architect)	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Chicago
+Skidmore,_Owings_&_Merrill	Chicago
+Skidmore,_Owings_&_Merrill	created	10_Universal_City_Plaza
+Skidmore,_Owings_&_Merrill	created	10_Universal_City_Plaza
+NBC	isLocatedIn	10_Universal_City_Plaza
+NBC	isLocatedIn	10_Universal_City_Plaza
+NBC	isLocatedIn	Chicago
+NBC	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Chicago
+Skidmore,_Owings_&_Merrill	Chicago
+Skidmore,_Owings_&_Merrill	created	Inland_Steel_Building
+Skidmore,_Owings_&_Merrill	created	Inland_Steel_Building
+Nagle_Hartray_Architecture	isLocatedIn	Inland_Steel_Building
+Nagle_Hartray_Architecture	isLocatedIn	Inland_Steel_Building
+Nagle_Hartray_Architecture	isLocatedIn	Chicago
+Nagle_Hartray_Architecture	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Chicago
+Skidmore,_Owings_&_Merrill	Chicago
+Skidmore,_Owings_&_Merrill	created	Inland_Steel_Building
+Skidmore,_Owings_&_Merrill	created	Inland_Steel_Building
+Inland_Steel_Building	isLocatedIn	Chicago
+Inland_Steel_Building	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Chicago
+Skidmore,_Owings_&_Merrill	Chicago
+Skidmore,_Owings_&_Merrill	created	Three_First_National_Plaza
+Skidmore,_Owings_&_Merrill	created	Three_First_National_Plaza
+Three_First_National_Plaza	isLocatedIn	Chicago
+Three_First_National_Plaza	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Chicago
+Skidmore,_Owings_&_Merrill	Chicago
+Skidmore,_Owings_&_Merrill	created	Three_First_National_Plaza
+Skidmore,_Owings_&_Merrill	created	Three_First_National_Plaza
+Three_First_National_Plaza	isLocatedIn	Cook_County,_Illinois
+Three_First_National_Plaza	isLocatedIn	Cook_County,_Illinois
+Cook_County,_Illinois	isLocatedIn	Chicago
+Chicago	isLocatedIn	Cook_County,_Illinois
+Cook_County,_Illinois	isLocatedIn	Chicago
+Chicago	isLocatedIn	Cook_County,_Illinois
+
+http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Chicago
+Skidmore,_Owings_&_Merrill	Chicago
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+321_North_Clark	isLocatedIn	Chicago
+321_North_Clark	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Almacenes_Tía	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Colombia
+Almacenes_Tía	Colombia
+Almacenes_Tía	isLocatedIn	Ecuador
+Almacenes_Tía	isLocatedIn	Ecuador
+Ecuador	hasNeighbor	Colombia
+Colombia	hasNeighbor	Ecuador
+Ecuador	dealsWith	Colombia
+Colombia	dealsWith	Ecuador
+Ecuador	hasNeighbor	Colombia
+Colombia	hasNeighbor	Ecuador
+Ecuador	dealsWith	Colombia
+Colombia	dealsWith	Ecuador
+
+http://dbpedia.org/resource/Almacenes_Tía	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Colombia
+Almacenes_Tía	Colombia
+Almacenes_Tía	isLocatedIn	Uruguay
+Almacenes_Tía	isLocatedIn	Uruguay
+Jairo_Castillo	isCitizenOf	Uruguay
+Jairo_Castillo	isCitizenOf	Uruguay
+Jairo_Castillo	isCitizenOf	Colombia
+Jairo_Castillo	isCitizenOf	Colombia
+
+http://dbpedia.org/resource/Almacenes_Tía	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Colombia
+Almacenes_Tía	Colombia
+Almacenes_Tía	isLocatedIn	Colombia
+Almacenes_Tía	isLocatedIn	Colombia
+
+http://dbpedia.org/resource/Biomet	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Indiana
+Biomet	Indiana
+Kohlberg_Kravis_Roberts	owns	Biomet
+Kohlberg_Kravis_Roberts	owns	Biomet
+Kohlberg_Kravis_Roberts	owns	Biomet
+Kohlberg_Kravis_Roberts	owns	Biomet
+Biomet	isLocatedIn	Indiana
+Biomet	isLocatedIn	Indiana
+
+http://dbpedia.org/resource/Biomet	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Indiana
+Biomet	Indiana
+The_Blackstone_Group	owns	Biomet
+The_Blackstone_Group	owns	Biomet
+The_Blackstone_Group	owns	Biomet
+The_Blackstone_Group	owns	Biomet
+Biomet	isLocatedIn	Indiana
+Biomet	isLocatedIn	Indiana
+
+http://dbpedia.org/resource/Biomet	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Indiana
+Biomet	Indiana
+TPG_Capital	owns	Biomet
+TPG_Capital	owns	Biomet
+TPG_Capital	owns	Biomet
+TPG_Capital	owns	Biomet
+Biomet	isLocatedIn	Indiana
+Biomet	isLocatedIn	Indiana
+
+http://dbpedia.org/resource/Biomet	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Indiana
+Biomet	Indiana
+Biomet	isLocatedIn	Indiana
+Biomet	isLocatedIn	Indiana
+
+http://dbpedia.org/resource/Biomet	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Indiana
+Biomet	Indiana
+Goldman_Sachs	owns	Biomet
+Goldman_Sachs	owns	Biomet
+Goldman_Sachs	owns	Biomet
+Goldman_Sachs	owns	Biomet
+Biomet	isLocatedIn	Indiana
+Biomet	isLocatedIn	Indiana
+
+http://dbpedia.org/resource/Gap_Inc.	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/San_Francisco
+Gap_Inc.	San_Francisco
+Gap_Inc.	isLocatedIn	San_Francisco
+Gap_Inc.	isLocatedIn	San_Francisco
+
+http://dbpedia.org/resource/Nexon	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Seoul
+Nexon	Seoul
+Nexon	isLocatedIn	Seongnam
+Nexon	isLocatedIn	Seongnam
+Seongnam	isLocatedIn	Seoul_Capital_Area
+Seoul_Capital_Area	isLocatedIn	Seongnam
+Seongnam	isLocatedIn	Seoul_Capital_Area
+Seoul_Capital_Area	isLocatedIn	Seongnam
+Seoul_Capital_Area	isLocatedIn	Seoul
+Seoul	isLocatedIn	Seoul_Capital_Area
+Seoul_Capital_Area	isLocatedIn	Seoul
+Seoul	isLocatedIn	Seoul_Capital_Area
+
+http://dbpedia.org/resource/Nissin_Foods	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Osaka_Prefecture
+Nissin_Foods	Osaka_Prefecture
+Nissin_Foods	isLocatedIn	Shinjuku
+Nissin_Foods	isLocatedIn	Shinjuku
+Shinjuku	isLocatedIn	Honshu
+Shinjuku	isLocatedIn	Honshu
+Osaka_Prefecture	isLocatedIn	Honshu
+Osaka_Prefecture	isLocatedIn	Honshu
+
+http://dbpedia.org/resource/Nissin_Foods	http://dbpedia.org/ontology/foundationPlace	http://dbpedia.org/resource/Osaka_Prefecture
+Nissin_Foods	Osaka_Prefecture
+Nissin_Foods	isLocatedIn	Osaka
+Nissin_Foods	isLocatedIn	Osaka
+Citigroup_Global_Markets_Japan	isLocatedIn	Osaka
+Citigroup_Global_Markets_Japan	isLocatedIn	Osaka
+Citigroup_Global_Markets_Japan	isLocatedIn	Osaka_Prefecture
+Citigroup_Global_Markets_Japan	isLocatedIn	Osaka_Prefecture
+

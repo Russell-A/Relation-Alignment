@@ -1,0 +1,2709 @@
+http://dbpedia.org/resource/F.C._Maia	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Portugal
+F.C._Maia	Portugal
+Nuno_André_Coelho	playsFor	F.C._Maia
+Nuno_André_Coelho	isAffiliatedTo	F.C._Maia
+Nuno_André_Coelho	playsFor	F.C._Maia
+Nuno_André_Coelho	isAffiliatedTo	F.C._Maia
+Nuno_André_Coelho	isCitizenOf	Portugal
+Nuno_André_Coelho	wasBornIn	Portugal
+Nuno_André_Coelho	isCitizenOf	Portugal
+Nuno_André_Coelho	wasBornIn	Portugal
+
+http://dbpedia.org/resource/F.C._Maia	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Portugal
+F.C._Maia	Portugal
+Sérgio_Leite	isAffiliatedTo	F.C._Maia
+Sérgio_Leite	playsFor	F.C._Maia
+Sérgio_Leite	isAffiliatedTo	F.C._Maia
+Sérgio_Leite	playsFor	F.C._Maia
+Sérgio_Leite	isCitizenOf	Portugal
+Sérgio_Leite	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/F.C._Maia	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Portugal
+F.C._Maia	Portugal
+Joaquim_Ferraz	playsFor	F.C._Maia
+Joaquim_Ferraz	isAffiliatedTo	F.C._Maia
+Joaquim_Ferraz	playsFor	F.C._Maia
+Joaquim_Ferraz	isAffiliatedTo	F.C._Maia
+Joaquim_Ferraz	isCitizenOf	Portugal
+Joaquim_Ferraz	wasBornIn	Portugal
+Joaquim_Ferraz	isCitizenOf	Portugal
+Joaquim_Ferraz	wasBornIn	Portugal
+
+http://dbpedia.org/resource/F.C._Maia	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Portugal
+F.C._Maia	Portugal
+Hugo_Luz	playsFor	F.C._Maia
+Hugo_Luz	isAffiliatedTo	F.C._Maia
+Hugo_Luz	playsFor	F.C._Maia
+Hugo_Luz	isAffiliatedTo	F.C._Maia
+Hugo_Luz	isCitizenOf	Portugal
+Hugo_Luz	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/CD_Condal	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Catalonia
+CD_Condal	Catalonia
+Luis_Aloy_Vidal	playsFor	CD_Condal
+Luis_Aloy_Vidal	isAffiliatedTo	CD_Condal
+Luis_Aloy_Vidal	playsFor	CD_Condal
+Luis_Aloy_Vidal	isAffiliatedTo	CD_Condal
+Luis_Aloy_Vidal	diedIn	Barcelona
+Luis_Aloy_Vidal	diedIn	Barcelona
+Catalonia	isLocatedIn	Barcelona
+Catalonia	hasCapital	Barcelona
+Barcelona	isLocatedIn	Catalonia
+Catalonia	isLocatedIn	Barcelona
+Catalonia	hasCapital	Barcelona
+Barcelona	isLocatedIn	Catalonia
+
+http://dbpedia.org/resource/CD_Condal	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Catalonia
+CD_Condal	Catalonia
+Francisco_Rodríguez_García	playsFor	CD_Condal
+Francisco_Rodríguez_García	isAffiliatedTo	CD_Condal
+Francisco_Rodríguez_García	playsFor	CD_Condal
+Francisco_Rodríguez_García	isAffiliatedTo	CD_Condal
+Francisco_Rodríguez_García	wasBornIn	Barcelona
+Francisco_Rodríguez_García	wasBornIn	Barcelona
+Catalonia	isLocatedIn	Barcelona
+Catalonia	hasCapital	Barcelona
+Barcelona	isLocatedIn	Catalonia
+Catalonia	isLocatedIn	Barcelona
+Catalonia	hasCapital	Barcelona
+Barcelona	isLocatedIn	Catalonia
+
+http://dbpedia.org/resource/CD_Condal	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Catalonia
+CD_Condal	Catalonia
+Mariano_Gonzalvo	playsFor	CD_Condal
+Mariano_Gonzalvo	isAffiliatedTo	CD_Condal
+Mariano_Gonzalvo	playsFor	CD_Condal
+Mariano_Gonzalvo	isAffiliatedTo	CD_Condal
+Mariano_Gonzalvo	diedIn	Barcelona
+Mariano_Gonzalvo	diedIn	Barcelona
+Catalonia	isLocatedIn	Barcelona
+Catalonia	hasCapital	Barcelona
+Barcelona	isLocatedIn	Catalonia
+Catalonia	isLocatedIn	Barcelona
+Catalonia	hasCapital	Barcelona
+Barcelona	isLocatedIn	Catalonia
+
+http://dbpedia.org/resource/FLC_Thanh_Hóa_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Vietnam
+FLC_Thanh_Hóa_F.C.	Vietnam
+Nguyễn_Quý_Sửu	isAffiliatedTo	FLC_Thanh_Hóa_F.C.
+Nguyễn_Quý_Sửu	playsFor	FLC_Thanh_Hóa_F.C.
+Nguyễn_Quý_Sửu	isAffiliatedTo	FLC_Thanh_Hóa_F.C.
+Nguyễn_Quý_Sửu	playsFor	FLC_Thanh_Hóa_F.C.
+Nguyễn_Quý_Sửu	wasBornIn	Đồng_Tháp_Province
+Nguyễn_Quý_Sửu	wasBornIn	Đồng_Tháp_Province
+Đồng_Tháp_Province	isLocatedIn	Vietnam
+Đồng_Tháp_Province	isLocatedIn	Vietnam
+
+http://dbpedia.org/resource/FLC_Thanh_Hóa_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Vietnam
+FLC_Thanh_Hóa_F.C.	Vietnam
+Nguyễn_Quý_Sửu	isAffiliatedTo	FLC_Thanh_Hóa_F.C.
+Nguyễn_Quý_Sửu	playsFor	FLC_Thanh_Hóa_F.C.
+Nguyễn_Quý_Sửu	isAffiliatedTo	FLC_Thanh_Hóa_F.C.
+Nguyễn_Quý_Sửu	playsFor	FLC_Thanh_Hóa_F.C.
+Nguyễn_Quý_Sửu	isCitizenOf	Vietnam
+Nguyễn_Quý_Sửu	isCitizenOf	Vietnam
+
+http://dbpedia.org/resource/FLC_Thanh_Hóa_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Vietnam
+FLC_Thanh_Hóa_F.C.	Vietnam
+Patrick_da_Silva	isAffiliatedTo	FLC_Thanh_Hóa_F.C.
+Patrick_da_Silva	playsFor	FLC_Thanh_Hóa_F.C.
+Patrick_da_Silva	isAffiliatedTo	FLC_Thanh_Hóa_F.C.
+Patrick_da_Silva	playsFor	FLC_Thanh_Hóa_F.C.
+Patrick_da_Silva	isCitizenOf	Vietnam
+Patrick_da_Silva	isCitizenOf	Vietnam
+
+http://dbpedia.org/resource/Coruxo_FC	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Galicia_(Spain)
+Coruxo_FC	Galicia_(Spain)
+Coruxo_FC	isLocatedIn	Vigo
+Coruxo_FC	isLocatedIn	Vigo
+Galicia_(Spain)	isLocatedIn	Vigo
+Vigo	isLocatedIn	Galicia_(Spain)
+Galicia_(Spain)	isLocatedIn	Vigo
+Vigo	isLocatedIn	Galicia_(Spain)
+
+http://dbpedia.org/resource/Coruxo_FC	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Galicia_(Spain)
+Coruxo_FC	Galicia_(Spain)
+Coruxo_FC	isLocatedIn	Vigo
+Coruxo_FC	isLocatedIn	Vigo
+University_of_Vigo	isLocatedIn	Vigo
+University_of_Vigo	isLocatedIn	Vigo
+University_of_Vigo	isLocatedIn	Galicia_(Spain)
+University_of_Vigo	isLocatedIn	Galicia_(Spain)
+
+http://dbpedia.org/resource/Al-Ahli_SC_(Wad_Madani)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Sudan
+Al-Ahli_SC_(Wad_Madani)	Sudan
+Haytham_Tambal	playsFor	Al-Ahli_SC_(Wad_Madani)
+Haytham_Tambal	isAffiliatedTo	Al-Ahli_SC_(Wad_Madani)
+Haytham_Tambal	playsFor	Al-Ahli_SC_(Wad_Madani)
+Haytham_Tambal	isAffiliatedTo	Al-Ahli_SC_(Wad_Madani)
+Haytham_Tambal	wasBornIn	Omdurman
+Haytham_Tambal	wasBornIn	Omdurman
+Omdurman	isLocatedIn	Sudan
+Omdurman	isLocatedIn	Sudan
+
+http://dbpedia.org/resource/CE_Sabadell_FC	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Catalonia
+CE_Sabadell_FC	Catalonia
+Juan_Armet	isAffiliatedTo	CE_Sabadell_FC
+Juan_Armet	isAffiliatedTo	CE_Sabadell_FC
+Juan_Armet	wasBornIn	Terrassa
+Juan_Armet	wasBornIn	Terrassa
+Terrassa	isLocatedIn	Catalonia
+Terrassa	isLocatedIn	Catalonia
+
+http://dbpedia.org/resource/Umm_Salal_SC	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Umm_Salal_SC	Doha
+Fábio_César_Montezine	playsFor	Umm_Salal_SC
+Fábio_César_Montezine	isAffiliatedTo	Umm_Salal_SC
+Fábio_César_Montezine	playsFor	Umm_Salal_SC
+Fábio_César_Montezine	isAffiliatedTo	Umm_Salal_SC
+Fábio_César_Montezine	playsFor	Al-Arabi_SC_(Qatar)
+Fábio_César_Montezine	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Fábio_César_Montezine	playsFor	Al-Arabi_SC_(Qatar)
+Fábio_César_Montezine	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Umm_Salal_SC	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Umm_Salal_SC	Doha
+Mosaab_Mahmoud_Al_Hassan	isAffiliatedTo	Umm_Salal_SC
+Mosaab_Mahmoud_Al_Hassan	playsFor	Umm_Salal_SC
+Mosaab_Mahmoud_Al_Hassan	isAffiliatedTo	Umm_Salal_SC
+Mosaab_Mahmoud_Al_Hassan	playsFor	Umm_Salal_SC
+Mosaab_Mahmoud_Al_Hassan	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Mosaab_Mahmoud_Al_Hassan	playsFor	Al-Arabi_SC_(Qatar)
+Mosaab_Mahmoud_Al_Hassan	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Mosaab_Mahmoud_Al_Hassan	playsFor	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Umm_Salal_SC	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Umm_Salal_SC	Doha
+Sayed_Ali_Bechir	isAffiliatedTo	Umm_Salal_SC
+Sayed_Ali_Bechir	playsFor	Umm_Salal_SC
+Sayed_Ali_Bechir	isAffiliatedTo	Umm_Salal_SC
+Sayed_Ali_Bechir	playsFor	Umm_Salal_SC
+Sayed_Ali_Bechir	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Sayed_Ali_Bechir	playsFor	Al-Arabi_SC_(Qatar)
+Sayed_Ali_Bechir	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Sayed_Ali_Bechir	playsFor	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Umm_Salal_SC	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Umm_Salal_SC	Doha
+Younes_Ali	playsFor	Umm_Salal_SC
+Younes_Ali	isAffiliatedTo	Umm_Salal_SC
+Younes_Ali	playsFor	Umm_Salal_SC
+Younes_Ali	isAffiliatedTo	Umm_Salal_SC
+Younes_Ali	isAffiliatedTo	Al_Ahli_SC_(Doha)
+Younes_Ali	playsFor	Al_Ahli_SC_(Doha)
+Younes_Ali	isAffiliatedTo	Al_Ahli_SC_(Doha)
+Younes_Ali	playsFor	Al_Ahli_SC_(Doha)
+Al_Ahli_SC_(Doha)	isLocatedIn	Doha
+Al_Ahli_SC_(Doha)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Kecskeméti_TE	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Kecskemét
+Kecskeméti_TE	Kecskemét
+Csaba_Csordás	playsFor	Kecskeméti_TE
+Csaba_Csordás	isAffiliatedTo	Kecskeméti_TE
+Csaba_Csordás	playsFor	Kecskeméti_TE
+Csaba_Csordás	isAffiliatedTo	Kecskeméti_TE
+Csaba_Csordás	wasBornIn	Kecskemét
+Csaba_Csordás	wasBornIn	Kecskemét
+
+http://dbpedia.org/resource/Moroka_Swallows_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Soweto
+Moroka_Swallows_F.C.	Soweto
+Dikgang_Mabalane	isAffiliatedTo	Moroka_Swallows_F.C.
+Dikgang_Mabalane	playsFor	Moroka_Swallows_F.C.
+Dikgang_Mabalane	isAffiliatedTo	Moroka_Swallows_F.C.
+Dikgang_Mabalane	playsFor	Moroka_Swallows_F.C.
+Dikgang_Mabalane	wasBornIn	Soweto
+Dikgang_Mabalane	wasBornIn	Soweto
+
+http://dbpedia.org/resource/Egaleo_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+Egaleo_F.C.	Greece
+Georgios_Alexopoulos	playsFor	Egaleo_F.C.
+Georgios_Alexopoulos	isAffiliatedTo	Egaleo_F.C.
+Georgios_Alexopoulos	playsFor	Egaleo_F.C.
+Georgios_Alexopoulos	isAffiliatedTo	Egaleo_F.C.
+Georgios_Alexopoulos	isCitizenOf	Greece
+Georgios_Alexopoulos	isCitizenOf	Greece
+
+http://dbpedia.org/resource/A.C.D._Trissino-Valdagno	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Valdagno
+A.C.D._Trissino-Valdagno	Valdagno
+A.C.D._Trissino-Valdagno	isLocatedIn	Valdagno
+A.C.D._Trissino-Valdagno	isLocatedIn	Valdagno
+
+http://dbpedia.org/resource/A.C.D._Trissino-Valdagno	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Valdagno
+A.C.D._Trissino-Valdagno	Valdagno
+Ferruccio_Mazzola	isAffiliatedTo	A.C.D._Trissino-Valdagno
+Ferruccio_Mazzola	isAffiliatedTo	A.C.D._Trissino-Valdagno
+Ferruccio_Mazzola	isAffiliatedTo	A.C.D._Trissino-Valdagno
+Ferruccio_Mazzola	isAffiliatedTo	A.C.D._Trissino-Valdagno
+A.C.D._Trissino-Valdagno	isLocatedIn	Valdagno
+A.C.D._Trissino-Valdagno	isLocatedIn	Valdagno
+
+http://dbpedia.org/resource/A.C.D._Trissino-Valdagno	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Valdagno
+A.C.D._Trissino-Valdagno	Valdagno
+Simone_Motta	isAffiliatedTo	A.C.D._Trissino-Valdagno
+Simone_Motta	isAffiliatedTo	A.C.D._Trissino-Valdagno
+Simone_Motta	isAffiliatedTo	A.C.D._Trissino-Valdagno
+Simone_Motta	isAffiliatedTo	A.C.D._Trissino-Valdagno
+A.C.D._Trissino-Valdagno	isLocatedIn	Valdagno
+A.C.D._Trissino-Valdagno	isLocatedIn	Valdagno
+
+http://dbpedia.org/resource/El_Tanque_Sisley	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Estadio_Victor_Della_Valle
+El_Tanque_Sisley	Estadio_Victor_Della_Valle
+Alejandro_Mello	isAffiliatedTo	El_Tanque_Sisley
+Alejandro_Mello	playsFor	El_Tanque_Sisley
+Alejandro_Mello	isAffiliatedTo	El_Tanque_Sisley
+Alejandro_Mello	playsFor	El_Tanque_Sisley
+Alejandro_Mello	wasBornIn	Montevideo
+Alejandro_Mello	wasBornIn	Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+
+http://dbpedia.org/resource/El_Tanque_Sisley	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Estadio_Victor_Della_Valle
+El_Tanque_Sisley	Estadio_Victor_Della_Valle
+Ernesto_Hernández	playsFor	El_Tanque_Sisley
+Ernesto_Hernández	isAffiliatedTo	El_Tanque_Sisley
+Ernesto_Hernández	playsFor	El_Tanque_Sisley
+Ernesto_Hernández	isAffiliatedTo	El_Tanque_Sisley
+Ernesto_Hernández	wasBornIn	Montevideo
+Ernesto_Hernández	wasBornIn	Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+Estadio_Victor_Della_Valle	isLocatedIn	Montevideo
+
+http://dbpedia.org/resource/Waterhouse_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Kingston,_Jamaica
+Waterhouse_F.C.	Kingston,_Jamaica
+Onandi_Lowe	playsFor	Waterhouse_F.C.
+Onandi_Lowe	isAffiliatedTo	Waterhouse_F.C.
+Onandi_Lowe	playsFor	Waterhouse_F.C.
+Onandi_Lowe	isAffiliatedTo	Waterhouse_F.C.
+Onandi_Lowe	wasBornIn	Kingston,_Jamaica
+Onandi_Lowe	wasBornIn	Kingston,_Jamaica
+
+http://dbpedia.org/resource/FK_Pardubice	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Pardubice
+FK_Pardubice	Pardubice
+David_Kalousek	playsFor	FK_Pardubice
+David_Kalousek	isAffiliatedTo	FK_Pardubice
+David_Kalousek	playsFor	FK_Pardubice
+David_Kalousek	isAffiliatedTo	FK_Pardubice
+David_Kalousek	playsFor	FK_Pardubice
+David_Kalousek	isAffiliatedTo	FK_Pardubice
+David_Kalousek	playsFor	FK_Pardubice
+David_Kalousek	isAffiliatedTo	FK_Pardubice
+FK_Pardubice	isLocatedIn	Pardubice
+FK_Pardubice	isLocatedIn	Pardubice
+
+http://dbpedia.org/resource/FK_Pardubice	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Pardubice
+FK_Pardubice	Pardubice
+FK_Pardubice	isLocatedIn	Pardubice
+FK_Pardubice	isLocatedIn	Pardubice
+
+http://dbpedia.org/resource/FK_Pardubice	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Pardubice
+FK_Pardubice	Pardubice
+Michal_Gonda	playsFor	FK_Pardubice
+Michal_Gonda	isAffiliatedTo	FK_Pardubice
+Michal_Gonda	playsFor	FK_Pardubice
+Michal_Gonda	isAffiliatedTo	FK_Pardubice
+Michal_Gonda	playsFor	FK_Pardubice
+Michal_Gonda	isAffiliatedTo	FK_Pardubice
+Michal_Gonda	playsFor	FK_Pardubice
+Michal_Gonda	isAffiliatedTo	FK_Pardubice
+FK_Pardubice	isLocatedIn	Pardubice
+FK_Pardubice	isLocatedIn	Pardubice
+
+http://dbpedia.org/resource/FK_Pardubice	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Pardubice
+FK_Pardubice	Pardubice
+Martin_Hašek	isAffiliatedTo	FK_Pardubice
+Martin_Hašek	isAffiliatedTo	FK_Pardubice
+Martin_Hašek	wasBornIn	Pardubice
+Martin_Hašek	wasBornIn	Pardubice
+
+http://dbpedia.org/resource/FK_Pardubice	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Pardubice
+FK_Pardubice	Pardubice
+Martin_Hašek	isAffiliatedTo	FK_Pardubice
+Martin_Hašek	isAffiliatedTo	FK_Pardubice
+Martin_Hašek	isAffiliatedTo	FK_Pardubice
+Martin_Hašek	isAffiliatedTo	FK_Pardubice
+FK_Pardubice	isLocatedIn	Pardubice
+FK_Pardubice	isLocatedIn	Pardubice
+
+http://dbpedia.org/resource/Moroka_Swallows_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Dobsonville_Stadium
+Moroka_Swallows_F.C.	Dobsonville_Stadium
+Dikgang_Mabalane	isAffiliatedTo	Moroka_Swallows_F.C.
+Dikgang_Mabalane	playsFor	Moroka_Swallows_F.C.
+Dikgang_Mabalane	isAffiliatedTo	Moroka_Swallows_F.C.
+Dikgang_Mabalane	playsFor	Moroka_Swallows_F.C.
+Dikgang_Mabalane	wasBornIn	Soweto
+Dikgang_Mabalane	wasBornIn	Soweto
+Dobsonville_Stadium	isLocatedIn	Soweto
+Dobsonville_Stadium	isLocatedIn	Soweto
+
+http://dbpedia.org/resource/Estudiantes_de_Mérida	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Mérida,_Mérida
+Estudiantes_de_Mérida	Mérida,_Mérida
+Francisco_La_Mantía	playsFor	Estudiantes_de_Mérida
+Francisco_La_Mantía	isAffiliatedTo	Estudiantes_de_Mérida
+Francisco_La_Mantía	playsFor	Estudiantes_de_Mérida
+Francisco_La_Mantía	isAffiliatedTo	Estudiantes_de_Mérida
+Francisco_La_Mantía	wasBornIn	Mérida,_Mérida
+Francisco_La_Mantía	wasBornIn	Mérida,_Mérida
+
+http://dbpedia.org/resource/CD_Ourense	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Galicia_(Spain)
+CD_Ourense	Galicia_(Spain)
+Fernando_Currás_Gallego	playsFor	CD_Ourense
+Fernando_Currás_Gallego	isAffiliatedTo	CD_Ourense
+Fernando_Currás_Gallego	playsFor	CD_Ourense
+Fernando_Currás_Gallego	isAffiliatedTo	CD_Ourense
+Fernando_Currás_Gallego	wasBornIn	Ourense
+Fernando_Currás_Gallego	wasBornIn	Ourense
+Ourense	isLocatedIn	Galicia_(Spain)
+Ourense	isLocatedIn	Galicia_(Spain)
+
+http://dbpedia.org/resource/OFI_Crete_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+OFI_Crete_F.C.	Greece
+Juan_José_Bezares_Alarcón	playsFor	OFI_Crete_F.C.
+Juan_José_Bezares_Alarcón	isAffiliatedTo	OFI_Crete_F.C.
+Juan_José_Bezares_Alarcón	playsFor	OFI_Crete_F.C.
+Juan_José_Bezares_Alarcón	isAffiliatedTo	OFI_Crete_F.C.
+Juan_José_Bezares_Alarcón	isCitizenOf	Greece
+Juan_José_Bezares_Alarcón	isCitizenOf	Greece
+
+http://dbpedia.org/resource/OFI_Crete_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+OFI_Crete_F.C.	Greece
+Leozinho	isAffiliatedTo	OFI_Crete_F.C.
+Leozinho	playsFor	OFI_Crete_F.C.
+Leozinho	isAffiliatedTo	OFI_Crete_F.C.
+Leozinho	playsFor	OFI_Crete_F.C.
+Leozinho	isCitizenOf	Greece
+Leozinho	isCitizenOf	Greece
+
+http://dbpedia.org/resource/OFI_Crete_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+OFI_Crete_F.C.	Greece
+Igor_Sypniewski	isAffiliatedTo	OFI_Crete_F.C.
+Igor_Sypniewski	playsFor	OFI_Crete_F.C.
+Igor_Sypniewski	isAffiliatedTo	OFI_Crete_F.C.
+Igor_Sypniewski	playsFor	OFI_Crete_F.C.
+Igor_Sypniewski	isCitizenOf	Greece
+Igor_Sypniewski	isCitizenOf	Greece
+
+http://dbpedia.org/resource/Deportivo_La_Guaira	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Caracas
+Deportivo_La_Guaira	Caracas
+César_Eduardo_González	playsFor	Deportivo_La_Guaira
+César_Eduardo_González	isAffiliatedTo	Deportivo_La_Guaira
+César_Eduardo_González	playsFor	Deportivo_La_Guaira
+César_Eduardo_González	isAffiliatedTo	Deportivo_La_Guaira
+César_Eduardo_González	isCitizenOf	Venezuela
+César_Eduardo_González	isCitizenOf	Venezuela
+Caracas	isLocatedIn	Venezuela
+Venezuela	hasCapital	Caracas
+Caracas	isLocatedIn	Venezuela
+Venezuela	hasCapital	Caracas
+
+http://dbpedia.org/resource/CO_Transports	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tunis
+CO_Transports	Tunis
+Faysal_Ben_Ahmed	isAffiliatedTo	CO_Transports
+Faysal_Ben_Ahmed	playsFor	CO_Transports
+Faysal_Ben_Ahmed	isAffiliatedTo	CO_Transports
+Faysal_Ben_Ahmed	playsFor	CO_Transports
+Faysal_Ben_Ahmed	isAffiliatedTo	CO_Transports
+Faysal_Ben_Ahmed	playsFor	CO_Transports
+Faysal_Ben_Ahmed	isAffiliatedTo	CO_Transports
+Faysal_Ben_Ahmed	playsFor	CO_Transports
+CO_Transports	isLocatedIn	Tunis
+CO_Transports	isLocatedIn	Tunis
+
+http://dbpedia.org/resource/CO_Transports	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tunis
+CO_Transports	Tunis
+Dino_Maamria	playsFor	CO_Transports
+Dino_Maamria	isAffiliatedTo	CO_Transports
+Dino_Maamria	playsFor	CO_Transports
+Dino_Maamria	isAffiliatedTo	CO_Transports
+Dino_Maamria	playsFor	CO_Transports
+Dino_Maamria	isAffiliatedTo	CO_Transports
+Dino_Maamria	playsFor	CO_Transports
+Dino_Maamria	isAffiliatedTo	CO_Transports
+CO_Transports	isLocatedIn	Tunis
+CO_Transports	isLocatedIn	Tunis
+
+http://dbpedia.org/resource/CO_Transports	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tunis
+CO_Transports	Tunis
+CO_Transports	isLocatedIn	Tunis
+CO_Transports	isLocatedIn	Tunis
+
+http://dbpedia.org/resource/Ravshan_Kulob	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Kulob
+Ravshan_Kulob	Kulob
+Davronjon_Tukhtasunov	isAffiliatedTo	Ravshan_Kulob
+Davronjon_Tukhtasunov	playsFor	Ravshan_Kulob
+Davronjon_Tukhtasunov	isAffiliatedTo	Ravshan_Kulob
+Davronjon_Tukhtasunov	playsFor	Ravshan_Kulob
+Davronjon_Tukhtasunov	isAffiliatedTo	Ravshan_Kulob
+Davronjon_Tukhtasunov	playsFor	Ravshan_Kulob
+Davronjon_Tukhtasunov	isAffiliatedTo	Ravshan_Kulob
+Davronjon_Tukhtasunov	playsFor	Ravshan_Kulob
+Ravshan_Kulob	isLocatedIn	Kulob
+Ravshan_Kulob	isLocatedIn	Kulob
+
+http://dbpedia.org/resource/Ravshan_Kulob	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Kulob
+Ravshan_Kulob	Kulob
+Odil_Irgashev	isAffiliatedTo	Ravshan_Kulob
+Odil_Irgashev	playsFor	Ravshan_Kulob
+Odil_Irgashev	isAffiliatedTo	Ravshan_Kulob
+Odil_Irgashev	playsFor	Ravshan_Kulob
+Odil_Irgashev	isAffiliatedTo	Ravshan_Kulob
+Odil_Irgashev	playsFor	Ravshan_Kulob
+Odil_Irgashev	isAffiliatedTo	Ravshan_Kulob
+Odil_Irgashev	playsFor	Ravshan_Kulob
+Ravshan_Kulob	isLocatedIn	Kulob
+Ravshan_Kulob	isLocatedIn	Kulob
+
+http://dbpedia.org/resource/Ravshan_Kulob	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Kulob
+Ravshan_Kulob	Kulob
+Makhmadjon_Khabibulloev	isAffiliatedTo	Ravshan_Kulob
+Makhmadjon_Khabibulloev	playsFor	Ravshan_Kulob
+Makhmadjon_Khabibulloev	isAffiliatedTo	Ravshan_Kulob
+Makhmadjon_Khabibulloev	playsFor	Ravshan_Kulob
+Makhmadjon_Khabibulloev	isAffiliatedTo	Ravshan_Kulob
+Makhmadjon_Khabibulloev	playsFor	Ravshan_Kulob
+Makhmadjon_Khabibulloev	isAffiliatedTo	Ravshan_Kulob
+Makhmadjon_Khabibulloev	playsFor	Ravshan_Kulob
+Ravshan_Kulob	isLocatedIn	Kulob
+Ravshan_Kulob	isLocatedIn	Kulob
+
+http://dbpedia.org/resource/Ravshan_Kulob	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Kulob
+Ravshan_Kulob	Kulob
+Ravshan_Kulob	isLocatedIn	Kulob
+Ravshan_Kulob	isLocatedIn	Kulob
+
+http://dbpedia.org/resource/UPB-MyTeam_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Kuala_Lumpur
+UPB-MyTeam_F.C.	Kuala_Lumpur
+Mohd_Nizaruddin_Yusof	isAffiliatedTo	UPB-MyTeam_F.C.
+Mohd_Nizaruddin_Yusof	playsFor	UPB-MyTeam_F.C.
+Mohd_Nizaruddin_Yusof	isAffiliatedTo	UPB-MyTeam_F.C.
+Mohd_Nizaruddin_Yusof	playsFor	UPB-MyTeam_F.C.
+Mohd_Nizaruddin_Yusof	wasBornIn	Kuala_Lumpur
+Mohd_Nizaruddin_Yusof	wasBornIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/KF_Lushnja	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Albania
+KF_Lushnja	Albania
+Bekim_Kuli	playsFor	KF_Lushnja
+Bekim_Kuli	isAffiliatedTo	KF_Lushnja
+Bekim_Kuli	playsFor	KF_Lushnja
+Bekim_Kuli	isAffiliatedTo	KF_Lushnja
+Bekim_Kuli	playsFor	KF_Lushnja
+Bekim_Kuli	isAffiliatedTo	KF_Lushnja
+Bekim_Kuli	playsFor	KF_Lushnja
+Bekim_Kuli	isAffiliatedTo	KF_Lushnja
+KF_Lushnja	isLocatedIn	Albania
+KF_Lushnja	isLocatedIn	Albania
+
+http://dbpedia.org/resource/KF_Lushnja	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Albania
+KF_Lushnja	Albania
+Alert_Alçani	isAffiliatedTo	KF_Lushnja
+Alert_Alçani	playsFor	KF_Lushnja
+Alert_Alçani	isAffiliatedTo	KF_Lushnja
+Alert_Alçani	playsFor	KF_Lushnja
+Alert_Alçani	wasBornIn	Albania
+Alert_Alçani	isCitizenOf	Albania
+Alert_Alçani	wasBornIn	Albania
+Alert_Alçani	isCitizenOf	Albania
+
+http://dbpedia.org/resource/KF_Lushnja	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Albania
+KF_Lushnja	Albania
+Alert_Alçani	isAffiliatedTo	KF_Lushnja
+Alert_Alçani	playsFor	KF_Lushnja
+Alert_Alçani	isAffiliatedTo	KF_Lushnja
+Alert_Alçani	playsFor	KF_Lushnja
+Alert_Alçani	isAffiliatedTo	KF_Lushnja
+Alert_Alçani	playsFor	KF_Lushnja
+Alert_Alçani	isAffiliatedTo	KF_Lushnja
+Alert_Alçani	playsFor	KF_Lushnja
+KF_Lushnja	isLocatedIn	Albania
+KF_Lushnja	isLocatedIn	Albania
+
+http://dbpedia.org/resource/KF_Lushnja	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Albania
+KF_Lushnja	Albania
+Ilir_Dibra	playsFor	KF_Lushnja
+Ilir_Dibra	isAffiliatedTo	KF_Lushnja
+Ilir_Dibra	playsFor	KF_Lushnja
+Ilir_Dibra	isAffiliatedTo	KF_Lushnja
+Ilir_Dibra	playsFor	KF_Lushnja
+Ilir_Dibra	isAffiliatedTo	KF_Lushnja
+Ilir_Dibra	playsFor	KF_Lushnja
+Ilir_Dibra	isAffiliatedTo	KF_Lushnja
+KF_Lushnja	isLocatedIn	Albania
+KF_Lushnja	isLocatedIn	Albania
+
+http://dbpedia.org/resource/KF_Lushnja	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Albania
+KF_Lushnja	Albania
+Bledar_Devolli	playsFor	KF_Lushnja
+Bledar_Devolli	isAffiliatedTo	KF_Lushnja
+Bledar_Devolli	playsFor	KF_Lushnja
+Bledar_Devolli	isAffiliatedTo	KF_Lushnja
+Bledar_Devolli	playsFor	KF_Lushnja
+Bledar_Devolli	isAffiliatedTo	KF_Lushnja
+Bledar_Devolli	playsFor	KF_Lushnja
+Bledar_Devolli	isAffiliatedTo	KF_Lushnja
+KF_Lushnja	isLocatedIn	Albania
+KF_Lushnja	isLocatedIn	Albania
+
+http://dbpedia.org/resource/KF_Lushnja	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Albania
+KF_Lushnja	Albania
+Dorjan_Bubeqi	isAffiliatedTo	KF_Lushnja
+Dorjan_Bubeqi	playsFor	KF_Lushnja
+Dorjan_Bubeqi	isAffiliatedTo	KF_Lushnja
+Dorjan_Bubeqi	playsFor	KF_Lushnja
+Dorjan_Bubeqi	playsFor	KF_Apolonia_Fier
+Dorjan_Bubeqi	isAffiliatedTo	KF_Apolonia_Fier
+Dorjan_Bubeqi	playsFor	KF_Apolonia_Fier
+Dorjan_Bubeqi	isAffiliatedTo	KF_Apolonia_Fier
+KF_Apolonia_Fier	isLocatedIn	Albania
+KF_Apolonia_Fier	isLocatedIn	Albania
+
+http://dbpedia.org/resource/KF_Lushnja	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Albania
+KF_Lushnja	Albania
+Luka_Tiodorović	isAffiliatedTo	KF_Lushnja
+Luka_Tiodorović	playsFor	KF_Lushnja
+Luka_Tiodorović	isAffiliatedTo	KF_Lushnja
+Luka_Tiodorović	playsFor	KF_Lushnja
+Luka_Tiodorović	isCitizenOf	Albania
+Luka_Tiodorović	isCitizenOf	Albania
+
+http://dbpedia.org/resource/KF_Lushnja	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Albania
+KF_Lushnja	Albania
+Luka_Tiodorović	isAffiliatedTo	KF_Lushnja
+Luka_Tiodorović	playsFor	KF_Lushnja
+Luka_Tiodorović	isAffiliatedTo	KF_Lushnja
+Luka_Tiodorović	playsFor	KF_Lushnja
+Luka_Tiodorović	isAffiliatedTo	KF_Lushnja
+Luka_Tiodorović	playsFor	KF_Lushnja
+Luka_Tiodorović	isAffiliatedTo	KF_Lushnja
+Luka_Tiodorović	playsFor	KF_Lushnja
+KF_Lushnja	isLocatedIn	Albania
+KF_Lushnja	isLocatedIn	Albania
+
+http://dbpedia.org/resource/KF_Lushnja	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Albania
+KF_Lushnja	Albania
+Arlind_Nora	playsFor	KF_Lushnja
+Arlind_Nora	isAffiliatedTo	KF_Lushnja
+Arlind_Nora	playsFor	KF_Lushnja
+Arlind_Nora	isAffiliatedTo	KF_Lushnja
+Arlind_Nora	playsFor	KF_Lushnja
+Arlind_Nora	isAffiliatedTo	KF_Lushnja
+Arlind_Nora	playsFor	KF_Lushnja
+Arlind_Nora	isAffiliatedTo	KF_Lushnja
+KF_Lushnja	isLocatedIn	Albania
+KF_Lushnja	isLocatedIn	Albania
+
+http://dbpedia.org/resource/KF_Lushnja	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Albania
+KF_Lushnja	Albania
+KF_Lushnja	isLocatedIn	Albania
+KF_Lushnja	isLocatedIn	Albania
+
+http://dbpedia.org/resource/KF_Lushnja	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Albania
+KF_Lushnja	Albania
+Miroslav_Mindev	playsFor	KF_Lushnja
+Miroslav_Mindev	isAffiliatedTo	KF_Lushnja
+Miroslav_Mindev	playsFor	KF_Lushnja
+Miroslav_Mindev	isAffiliatedTo	KF_Lushnja
+Miroslav_Mindev	playsFor	KF_Lushnja
+Miroslav_Mindev	isAffiliatedTo	KF_Lushnja
+Miroslav_Mindev	playsFor	KF_Lushnja
+Miroslav_Mindev	isAffiliatedTo	KF_Lushnja
+KF_Lushnja	isLocatedIn	Albania
+KF_Lushnja	isLocatedIn	Albania
+
+http://dbpedia.org/resource/KF_Lushnja	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Albania
+KF_Lushnja	Albania
+Klodian_Arbëri	isAffiliatedTo	KF_Lushnja
+Klodian_Arbëri	playsFor	KF_Lushnja
+Klodian_Arbëri	isAffiliatedTo	KF_Lushnja
+Klodian_Arbëri	playsFor	KF_Lushnja
+Klodian_Arbëri	isAffiliatedTo	KF_Lushnja
+Klodian_Arbëri	playsFor	KF_Lushnja
+Klodian_Arbëri	isAffiliatedTo	KF_Lushnja
+Klodian_Arbëri	playsFor	KF_Lushnja
+KF_Lushnja	isLocatedIn	Albania
+KF_Lushnja	isLocatedIn	Albania
+
+http://dbpedia.org/resource/Gimnàstic_de_Tarragona	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Catalonia
+Gimnàstic_de_Tarragona	Catalonia
+Sergio_Tejera	isAffiliatedTo	Gimnàstic_de_Tarragona
+Sergio_Tejera	playsFor	Gimnàstic_de_Tarragona
+Sergio_Tejera	isAffiliatedTo	Gimnàstic_de_Tarragona
+Sergio_Tejera	playsFor	Gimnàstic_de_Tarragona
+Sergio_Tejera	wasBornIn	Barcelona
+Sergio_Tejera	wasBornIn	Barcelona
+Catalonia	isLocatedIn	Barcelona
+Catalonia	hasCapital	Barcelona
+Barcelona	isLocatedIn	Catalonia
+Catalonia	isLocatedIn	Barcelona
+Catalonia	hasCapital	Barcelona
+Barcelona	isLocatedIn	Catalonia
+
+http://dbpedia.org/resource/Asteras_Tripoli_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+Asteras_Tripoli_F.C.	Greece
+Dimitris_Roussis	playsFor	Asteras_Tripoli_F.C.
+Dimitris_Roussis	isAffiliatedTo	Asteras_Tripoli_F.C.
+Dimitris_Roussis	playsFor	Asteras_Tripoli_F.C.
+Dimitris_Roussis	isAffiliatedTo	Asteras_Tripoli_F.C.
+Dimitris_Roussis	isCitizenOf	Greece
+Dimitris_Roussis	isCitizenOf	Greece
+
+http://dbpedia.org/resource/Asteras_Tripoli_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+Asteras_Tripoli_F.C.	Greece
+Fritz_Emeran	isAffiliatedTo	Asteras_Tripoli_F.C.
+Fritz_Emeran	playsFor	Asteras_Tripoli_F.C.
+Fritz_Emeran	isAffiliatedTo	Asteras_Tripoli_F.C.
+Fritz_Emeran	playsFor	Asteras_Tripoli_F.C.
+Fritz_Emeran	isCitizenOf	Greece
+Fritz_Emeran	isCitizenOf	Greece
+
+http://dbpedia.org/resource/Asteras_Tripoli_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+Asteras_Tripoli_F.C.	Greece
+Dorin_Goian	isAffiliatedTo	Asteras_Tripoli_F.C.
+Dorin_Goian	playsFor	Asteras_Tripoli_F.C.
+Dorin_Goian	isAffiliatedTo	Asteras_Tripoli_F.C.
+Dorin_Goian	playsFor	Asteras_Tripoli_F.C.
+Dorin_Goian	isCitizenOf	Greece
+Dorin_Goian	isCitizenOf	Greece
+
+http://dbpedia.org/resource/ASKO_Kara	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Togo
+ASKO_Kara	Togo
+Vincent_Orode_Tchalla	playsFor	ASKO_Kara
+Vincent_Orode_Tchalla	isAffiliatedTo	ASKO_Kara
+Vincent_Orode_Tchalla	playsFor	ASKO_Kara
+Vincent_Orode_Tchalla	isAffiliatedTo	ASKO_Kara
+Vincent_Orode_Tchalla	playsFor	ASKO_Kara
+Vincent_Orode_Tchalla	isAffiliatedTo	ASKO_Kara
+Vincent_Orode_Tchalla	playsFor	ASKO_Kara
+Vincent_Orode_Tchalla	isAffiliatedTo	ASKO_Kara
+ASKO_Kara	isLocatedIn	Togo
+ASKO_Kara	isLocatedIn	Togo
+
+http://dbpedia.org/resource/ASKO_Kara	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Togo
+ASKO_Kara	Togo
+Améleté_Abalo	playsFor	ASKO_Kara
+Améleté_Abalo	isAffiliatedTo	ASKO_Kara
+Améleté_Abalo	playsFor	ASKO_Kara
+Améleté_Abalo	isAffiliatedTo	ASKO_Kara
+Améleté_Abalo	playsFor	ASKO_Kara
+Améleté_Abalo	isAffiliatedTo	ASKO_Kara
+Améleté_Abalo	playsFor	ASKO_Kara
+Améleté_Abalo	isAffiliatedTo	ASKO_Kara
+ASKO_Kara	isLocatedIn	Togo
+ASKO_Kara	isLocatedIn	Togo
+
+http://dbpedia.org/resource/ASKO_Kara	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Togo
+ASKO_Kara	Togo
+ASKO_Kara	isLocatedIn	Togo
+ASKO_Kara	isLocatedIn	Togo
+
+http://dbpedia.org/resource/Club_Bolívar	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Bolivia
+Club_Bolívar	Bolivia
+Wálter_Flores_(footballer)	isAffiliatedTo	Club_Bolívar
+Wálter_Flores_(footballer)	playsFor	Club_Bolívar
+Wálter_Flores_(footballer)	isAffiliatedTo	Club_Bolívar
+Wálter_Flores_(footballer)	playsFor	Club_Bolívar
+Wálter_Flores_(footballer)	isCitizenOf	Bolivia
+Wálter_Flores_(footballer)	isCitizenOf	Bolivia
+
+http://dbpedia.org/resource/Club_Bolívar	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Bolivia
+Club_Bolívar	Bolivia
+Erick_Iragua	playsFor	Club_Bolívar
+Erick_Iragua	isAffiliatedTo	Club_Bolívar
+Erick_Iragua	playsFor	Club_Bolívar
+Erick_Iragua	isAffiliatedTo	Club_Bolívar
+Erick_Iragua	isCitizenOf	Bolivia
+Erick_Iragua	isCitizenOf	Bolivia
+
+http://dbpedia.org/resource/Club_Bolívar	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Bolivia
+Club_Bolívar	Bolivia
+Miguel_Rimba	playsFor	Club_Bolívar
+Miguel_Rimba	isAffiliatedTo	Club_Bolívar
+Miguel_Rimba	playsFor	Club_Bolívar
+Miguel_Rimba	isAffiliatedTo	Club_Bolívar
+Miguel_Rimba	isCitizenOf	Bolivia
+Miguel_Rimba	isCitizenOf	Bolivia
+
+http://dbpedia.org/resource/Club_Bolívar	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Bolivia
+Club_Bolívar	Bolivia
+Abraham_Cabrera	playsFor	Club_Bolívar
+Abraham_Cabrera	isAffiliatedTo	Club_Bolívar
+Abraham_Cabrera	playsFor	Club_Bolívar
+Abraham_Cabrera	isAffiliatedTo	Club_Bolívar
+Abraham_Cabrera	isCitizenOf	Bolivia
+Abraham_Cabrera	isCitizenOf	Bolivia
+
+http://dbpedia.org/resource/Mpumalanga_Black_Aces_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Nelspruit
+Mpumalanga_Black_Aces_F.C.	Nelspruit
+Mabhuti_Khenyeza	playsFor	Mpumalanga_Black_Aces_F.C.
+Mabhuti_Khenyeza	isAffiliatedTo	Mpumalanga_Black_Aces_F.C.
+Mabhuti_Khenyeza	playsFor	Mpumalanga_Black_Aces_F.C.
+Mabhuti_Khenyeza	isAffiliatedTo	Mpumalanga_Black_Aces_F.C.
+Mabhuti_Khenyeza	isCitizenOf	South_Africa
+Mabhuti_Khenyeza	isCitizenOf	South_Africa
+Nelspruit	isLocatedIn	South_Africa
+Nelspruit	isLocatedIn	South_Africa
+
+http://dbpedia.org/resource/Orión_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Costa_Rica
+Orión_F.C.	Costa_Rica
+Wálter_Elizondo	playsFor	Orión_F.C.
+Wálter_Elizondo	isAffiliatedTo	Orión_F.C.
+Wálter_Elizondo	playsFor	Orión_F.C.
+Wálter_Elizondo	isAffiliatedTo	Orión_F.C.
+Wálter_Elizondo	wasBornIn	Costa_Rica
+Wálter_Elizondo	isCitizenOf	Costa_Rica
+Wálter_Elizondo	wasBornIn	Costa_Rica
+Wálter_Elizondo	isCitizenOf	Costa_Rica
+
+http://dbpedia.org/resource/Orión_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Costa_Rica
+Orión_F.C.	Costa_Rica
+Alberto_Armijo	playsFor	Orión_F.C.
+Alberto_Armijo	isAffiliatedTo	Orión_F.C.
+Alberto_Armijo	playsFor	Orión_F.C.
+Alberto_Armijo	isAffiliatedTo	Orión_F.C.
+Alberto_Armijo	wasBornIn	Nicoya
+Alberto_Armijo	wasBornIn	Nicoya
+Nicoya	isLocatedIn	Costa_Rica
+Nicoya	isLocatedIn	Costa_Rica
+
+http://dbpedia.org/resource/PAS_Giannina_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+PAS_Giannina_F.C.	Greece
+Levan_Kebadze	isAffiliatedTo	PAS_Giannina_F.C.
+Levan_Kebadze	playsFor	PAS_Giannina_F.C.
+Levan_Kebadze	isAffiliatedTo	PAS_Giannina_F.C.
+Levan_Kebadze	playsFor	PAS_Giannina_F.C.
+Levan_Kebadze	isCitizenOf	Greece
+Levan_Kebadze	isCitizenOf	Greece
+
+http://dbpedia.org/resource/AS_Gabès	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Gabès
+AS_Gabès	Gabès
+Edgar_Loué	playsFor	AS_Gabès
+Edgar_Loué	isAffiliatedTo	AS_Gabès
+Edgar_Loué	playsFor	AS_Gabès
+Edgar_Loué	isAffiliatedTo	AS_Gabès
+Edgar_Loué	playsFor	AS_Gabès
+Edgar_Loué	isAffiliatedTo	AS_Gabès
+Edgar_Loué	playsFor	AS_Gabès
+Edgar_Loué	isAffiliatedTo	AS_Gabès
+AS_Gabès	isLocatedIn	Gabès
+AS_Gabès	isLocatedIn	Gabès
+
+http://dbpedia.org/resource/AS_Gabès	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Gabès
+AS_Gabès	Gabès
+Bilal_Sidibé	isAffiliatedTo	AS_Gabès
+Bilal_Sidibé	playsFor	AS_Gabès
+Bilal_Sidibé	isAffiliatedTo	AS_Gabès
+Bilal_Sidibé	playsFor	AS_Gabès
+Bilal_Sidibé	isAffiliatedTo	AS_Gabès
+Bilal_Sidibé	playsFor	AS_Gabès
+Bilal_Sidibé	isAffiliatedTo	AS_Gabès
+Bilal_Sidibé	playsFor	AS_Gabès
+AS_Gabès	isLocatedIn	Gabès
+AS_Gabès	isLocatedIn	Gabès
+
+http://dbpedia.org/resource/AS_Gabès	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Gabès
+AS_Gabès	Gabès
+L'Imam_Seydi	playsFor	AS_Gabès
+L'Imam_Seydi	isAffiliatedTo	AS_Gabès
+L'Imam_Seydi	playsFor	AS_Gabès
+L'Imam_Seydi	isAffiliatedTo	AS_Gabès
+L'Imam_Seydi	playsFor	AS_Gabès
+L'Imam_Seydi	isAffiliatedTo	AS_Gabès
+L'Imam_Seydi	playsFor	AS_Gabès
+L'Imam_Seydi	isAffiliatedTo	AS_Gabès
+AS_Gabès	isLocatedIn	Gabès
+AS_Gabès	isLocatedIn	Gabès
+
+http://dbpedia.org/resource/AS_Gabès	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Gabès
+AS_Gabès	Gabès
+AS_Gabès	isLocatedIn	Gabès
+AS_Gabès	isLocatedIn	Gabès
+
+http://dbpedia.org/resource/AS_Gabès	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Gabès
+AS_Gabès	Gabès
+Bassirou_Dembélé	isAffiliatedTo	AS_Gabès
+Bassirou_Dembélé	isAffiliatedTo	AS_Gabès
+Bassirou_Dembélé	isAffiliatedTo	AS_Gabès
+Bassirou_Dembélé	isAffiliatedTo	AS_Gabès
+AS_Gabès	isLocatedIn	Gabès
+AS_Gabès	isLocatedIn	Gabès
+
+http://dbpedia.org/resource/FC_Spartak_Plovdiv	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Plovdiv
+FC_Spartak_Plovdiv	Plovdiv
+Lyubomir_Chernev	isAffiliatedTo	FC_Spartak_Plovdiv
+Lyubomir_Chernev	playsFor	FC_Spartak_Plovdiv
+Lyubomir_Chernev	isAffiliatedTo	FC_Spartak_Plovdiv
+Lyubomir_Chernev	playsFor	FC_Spartak_Plovdiv
+Lyubomir_Chernev	wasBornIn	Plovdiv
+Lyubomir_Chernev	wasBornIn	Plovdiv
+
+http://dbpedia.org/resource/FC_Ala-Too_Naryn	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Naryn
+FC_Ala-Too_Naryn	Naryn
+Zamirbek_Zhumagulov	playsFor	FC_Ala-Too_Naryn
+Zamirbek_Zhumagulov	isAffiliatedTo	FC_Ala-Too_Naryn
+Zamirbek_Zhumagulov	playsFor	FC_Ala-Too_Naryn
+Zamirbek_Zhumagulov	isAffiliatedTo	FC_Ala-Too_Naryn
+Zamirbek_Zhumagulov	playsFor	FC_Ala-Too_Naryn
+Zamirbek_Zhumagulov	isAffiliatedTo	FC_Ala-Too_Naryn
+Zamirbek_Zhumagulov	playsFor	FC_Ala-Too_Naryn
+Zamirbek_Zhumagulov	isAffiliatedTo	FC_Ala-Too_Naryn
+FC_Ala-Too_Naryn	isLocatedIn	Naryn
+FC_Ala-Too_Naryn	isLocatedIn	Naryn
+
+http://dbpedia.org/resource/FC_Ala-Too_Naryn	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Naryn
+FC_Ala-Too_Naryn	Naryn
+FC_Ala-Too_Naryn	isLocatedIn	Naryn
+FC_Ala-Too_Naryn	isLocatedIn	Naryn
+
+http://dbpedia.org/resource/FC_Ala-Too_Naryn	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Naryn
+FC_Ala-Too_Naryn	Naryn
+Tamirlan_Kozubaev	isAffiliatedTo	FC_Ala-Too_Naryn
+Tamirlan_Kozubaev	playsFor	FC_Ala-Too_Naryn
+Tamirlan_Kozubaev	isAffiliatedTo	FC_Ala-Too_Naryn
+Tamirlan_Kozubaev	playsFor	FC_Ala-Too_Naryn
+Tamirlan_Kozubaev	isAffiliatedTo	FC_Ala-Too_Naryn
+Tamirlan_Kozubaev	playsFor	FC_Ala-Too_Naryn
+Tamirlan_Kozubaev	isAffiliatedTo	FC_Ala-Too_Naryn
+Tamirlan_Kozubaev	playsFor	FC_Ala-Too_Naryn
+FC_Ala-Too_Naryn	isLocatedIn	Naryn
+FC_Ala-Too_Naryn	isLocatedIn	Naryn
+
+http://dbpedia.org/resource/KF_Albpetrol	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Albania
+KF_Albpetrol	Albania
+Charles_Ofoyen	isAffiliatedTo	KF_Albpetrol
+Charles_Ofoyen	playsFor	KF_Albpetrol
+Charles_Ofoyen	isAffiliatedTo	KF_Albpetrol
+Charles_Ofoyen	playsFor	KF_Albpetrol
+Charles_Ofoyen	isCitizenOf	Albania
+Charles_Ofoyen	isCitizenOf	Albania
+
+http://dbpedia.org/resource/Pierikos_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+Pierikos_F.C.	Greece
+Kostas_Giannoulis	playsFor	Pierikos_F.C.
+Kostas_Giannoulis	isAffiliatedTo	Pierikos_F.C.
+Kostas_Giannoulis	playsFor	Pierikos_F.C.
+Kostas_Giannoulis	isAffiliatedTo	Pierikos_F.C.
+Kostas_Giannoulis	isCitizenOf	Greece
+Kostas_Giannoulis	isCitizenOf	Greece
+
+http://dbpedia.org/resource/Pierikos_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+Pierikos_F.C.	Greece
+Kostas_Konstantinidis	isAffiliatedTo	Pierikos_F.C.
+Kostas_Konstantinidis	playsFor	Pierikos_F.C.
+Kostas_Konstantinidis	isAffiliatedTo	Pierikos_F.C.
+Kostas_Konstantinidis	playsFor	Pierikos_F.C.
+Kostas_Konstantinidis	isCitizenOf	Greece
+Kostas_Konstantinidis	isCitizenOf	Greece
+
+http://dbpedia.org/resource/Pierikos_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+Pierikos_F.C.	Greece
+Ilias_Manikas	playsFor	Pierikos_F.C.
+Ilias_Manikas	isAffiliatedTo	Pierikos_F.C.
+Ilias_Manikas	playsFor	Pierikos_F.C.
+Ilias_Manikas	isAffiliatedTo	Pierikos_F.C.
+Ilias_Manikas	isCitizenOf	Greece
+Ilias_Manikas	wasBornIn	Greece
+Ilias_Manikas	isCitizenOf	Greece
+Ilias_Manikas	wasBornIn	Greece
+
+http://dbpedia.org/resource/Pierikos_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+Pierikos_F.C.	Greece
+Giorgos_Lanaris	playsFor	Pierikos_F.C.
+Giorgos_Lanaris	isAffiliatedTo	Pierikos_F.C.
+Giorgos_Lanaris	playsFor	Pierikos_F.C.
+Giorgos_Lanaris	isAffiliatedTo	Pierikos_F.C.
+Giorgos_Lanaris	isCitizenOf	Greece
+Giorgos_Lanaris	isCitizenOf	Greece
+
+http://dbpedia.org/resource/Pierikos_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+Pierikos_F.C.	Greece
+Georgios_Makris	isAffiliatedTo	Pierikos_F.C.
+Georgios_Makris	playsFor	Pierikos_F.C.
+Georgios_Makris	isAffiliatedTo	Pierikos_F.C.
+Georgios_Makris	playsFor	Pierikos_F.C.
+Georgios_Makris	wasBornIn	Kavala
+Georgios_Makris	wasBornIn	Kavala
+Kavala	isLocatedIn	Greece
+Kavala	isLocatedIn	Greece
+
+http://dbpedia.org/resource/Pierikos_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+Pierikos_F.C.	Greece
+Georgios_Kostikos	isAffiliatedTo	Pierikos_F.C.
+Georgios_Kostikos	playsFor	Pierikos_F.C.
+Georgios_Kostikos	isAffiliatedTo	Pierikos_F.C.
+Georgios_Kostikos	playsFor	Pierikos_F.C.
+Georgios_Kostikos	isCitizenOf	Greece
+Georgios_Kostikos	isCitizenOf	Greece
+
+http://dbpedia.org/resource/Pierikos_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+Pierikos_F.C.	Greece
+Nikolaos_Platanos	isAffiliatedTo	Pierikos_F.C.
+Nikolaos_Platanos	playsFor	Pierikos_F.C.
+Nikolaos_Platanos	isAffiliatedTo	Pierikos_F.C.
+Nikolaos_Platanos	playsFor	Pierikos_F.C.
+Nikolaos_Platanos	isCitizenOf	Greece
+Nikolaos_Platanos	isCitizenOf	Greece
+
+http://dbpedia.org/resource/Pierikos_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+Pierikos_F.C.	Greece
+Dionysis_Chasiotis	playsFor	Pierikos_F.C.
+Dionysis_Chasiotis	isAffiliatedTo	Pierikos_F.C.
+Dionysis_Chasiotis	playsFor	Pierikos_F.C.
+Dionysis_Chasiotis	isAffiliatedTo	Pierikos_F.C.
+Dionysis_Chasiotis	isCitizenOf	Greece
+Dionysis_Chasiotis	isCitizenOf	Greece
+
+http://dbpedia.org/resource/BSC_Young_Boys	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Bern
+BSC_Young_Boys	Bern
+Willi_Steffen	playsFor	BSC_Young_Boys
+Willi_Steffen	isAffiliatedTo	BSC_Young_Boys
+Willi_Steffen	playsFor	BSC_Young_Boys
+Willi_Steffen	isAffiliatedTo	BSC_Young_Boys
+Willi_Steffen	wasBornIn	Bern
+Willi_Steffen	diedIn	Bern
+Willi_Steffen	wasBornIn	Bern
+Willi_Steffen	diedIn	Bern
+
+http://dbpedia.org/resource/A.C._Juvenes/Dogana	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/San_Marino_Stadium
+A.C._Juvenes/Dogana	San_Marino_Stadium
+Michele_Cervellini	isAffiliatedTo	A.C._Juvenes/Dogana
+Michele_Cervellini	playsFor	A.C._Juvenes/Dogana
+Michele_Cervellini	isAffiliatedTo	A.C._Juvenes/Dogana
+Michele_Cervellini	playsFor	A.C._Juvenes/Dogana
+Michele_Cervellini	wasBornIn	San_Marino
+Michele_Cervellini	isCitizenOf	San_Marino
+Michele_Cervellini	wasBornIn	San_Marino
+Michele_Cervellini	isCitizenOf	San_Marino
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+
+http://dbpedia.org/resource/Girardot_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Colombia
+Girardot_F.C.	Colombia
+Nestor_Asprilla	isAffiliatedTo	Girardot_F.C.
+Nestor_Asprilla	playsFor	Girardot_F.C.
+Nestor_Asprilla	isAffiliatedTo	Girardot_F.C.
+Nestor_Asprilla	playsFor	Girardot_F.C.
+Nestor_Asprilla	wasBornIn	Colombia
+Nestor_Asprilla	isCitizenOf	Colombia
+Nestor_Asprilla	wasBornIn	Colombia
+Nestor_Asprilla	isCitizenOf	Colombia
+
+http://dbpedia.org/resource/San_Marino_Calcio	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/San_Marino_Stadium
+San_Marino_Calcio	San_Marino_Stadium
+Luca_Ceccarelli_(footballer,_born_in_Gambettola)	isAffiliatedTo	San_Marino_Calcio
+Luca_Ceccarelli_(footballer,_born_in_Gambettola)	playsFor	San_Marino_Calcio
+Luca_Ceccarelli_(footballer,_born_in_Gambettola)	isAffiliatedTo	San_Marino_Calcio
+Luca_Ceccarelli_(footballer,_born_in_Gambettola)	playsFor	San_Marino_Calcio
+Luca_Ceccarelli_(footballer,_born_in_Gambettola)	isCitizenOf	San_Marino
+Luca_Ceccarelli_(footballer,_born_in_Gambettola)	isCitizenOf	San_Marino
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+
+http://dbpedia.org/resource/San_Marino_Calcio	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/San_Marino_Stadium
+San_Marino_Calcio	San_Marino_Stadium
+Aldo_Junior_Simoncini	playsFor	San_Marino_Calcio
+Aldo_Junior_Simoncini	isAffiliatedTo	San_Marino_Calcio
+Aldo_Junior_Simoncini	playsFor	San_Marino_Calcio
+Aldo_Junior_Simoncini	isAffiliatedTo	San_Marino_Calcio
+Aldo_Junior_Simoncini	isCitizenOf	San_Marino
+Aldo_Junior_Simoncini	isCitizenOf	San_Marino
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+
+http://dbpedia.org/resource/San_Marino_Calcio	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/San_Marino_Stadium
+San_Marino_Calcio	San_Marino_Stadium
+Alessio_Cossu	isAffiliatedTo	San_Marino_Calcio
+Alessio_Cossu	playsFor	San_Marino_Calcio
+Alessio_Cossu	isAffiliatedTo	San_Marino_Calcio
+Alessio_Cossu	playsFor	San_Marino_Calcio
+Alessio_Cossu	isCitizenOf	San_Marino
+Alessio_Cossu	isCitizenOf	San_Marino
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+San_Marino	owns	San_Marino_Stadium
+San_Marino_Stadium	isLocatedIn	San_Marino
+
+http://dbpedia.org/resource/Bengal_Warriors	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Kolkata
+Bengal_Warriors	Kolkata
+Kishore_Biyani	owns	Bengal_Warriors
+Kishore_Biyani	owns	Bengal_Warriors
+Kishore_Biyani	owns	Bengal_Warriors
+Kishore_Biyani	owns	Bengal_Warriors
+Bengal_Warriors	isLocatedIn	Kolkata
+Bengal_Warriors	isLocatedIn	Kolkata
+
+http://dbpedia.org/resource/Bengal_Warriors	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Kolkata
+Bengal_Warriors	Kolkata
+Future_Group	owns	Bengal_Warriors
+Future_Group	owns	Bengal_Warriors
+Future_Group	owns	Bengal_Warriors
+Future_Group	owns	Bengal_Warriors
+Bengal_Warriors	isLocatedIn	Kolkata
+Bengal_Warriors	isLocatedIn	Kolkata
+
+http://dbpedia.org/resource/Bengal_Warriors	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Kolkata
+Bengal_Warriors	Kolkata
+Bengal_Warriors	isLocatedIn	West_Bengal
+Bengal_Warriors	isLocatedIn	West_Bengal
+Garia	isLocatedIn	West_Bengal
+Garia	isLocatedIn	West_Bengal
+Garia	isLocatedIn	Kolkata
+Garia	isLocatedIn	Kolkata
+
+http://dbpedia.org/resource/Bengal_Warriors	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Kolkata
+Bengal_Warriors	Kolkata
+Bengal_Warriors	isLocatedIn	West_Bengal
+Bengal_Warriors	isLocatedIn	West_Bengal
+Indian_Institute_of_Foreign_Trade	isLocatedIn	West_Bengal
+Indian_Institute_of_Foreign_Trade	isLocatedIn	West_Bengal
+Indian_Institute_of_Foreign_Trade	isLocatedIn	Kolkata
+Indian_Institute_of_Foreign_Trade	isLocatedIn	Kolkata
+
+http://dbpedia.org/resource/Bengal_Warriors	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Kolkata
+Bengal_Warriors	Kolkata
+Bengal_Warriors	isLocatedIn	Kolkata
+Bengal_Warriors	isLocatedIn	Kolkata
+
+http://dbpedia.org/resource/FC_RUOR-Guardia_Bishkek	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Bishkek
+FC_RUOR-Guardia_Bishkek	Bishkek
+Zakir_Jalilov	isAffiliatedTo	FC_RUOR-Guardia_Bishkek
+Zakir_Jalilov	playsFor	FC_RUOR-Guardia_Bishkek
+Zakir_Jalilov	isAffiliatedTo	FC_RUOR-Guardia_Bishkek
+Zakir_Jalilov	playsFor	FC_RUOR-Guardia_Bishkek
+Zakir_Jalilov	wasBornIn	Bishkek
+Zakir_Jalilov	wasBornIn	Bishkek
+
+http://dbpedia.org/resource/FC_RUOR-Guardia_Bishkek	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Bishkek
+FC_RUOR-Guardia_Bishkek	Bishkek
+FC_RUOR-Guardia_Bishkek	isLocatedIn	Bishkek
+FC_RUOR-Guardia_Bishkek	isLocatedIn	Bishkek
+
+http://dbpedia.org/resource/FC_RUOR-Guardia_Bishkek	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Bishkek
+FC_RUOR-Guardia_Bishkek	Bishkek
+Zamirbek_Zhumagulov	isAffiliatedTo	FC_RUOR-Guardia_Bishkek
+Zamirbek_Zhumagulov	playsFor	FC_RUOR-Guardia_Bishkek
+Zamirbek_Zhumagulov	isAffiliatedTo	FC_RUOR-Guardia_Bishkek
+Zamirbek_Zhumagulov	playsFor	FC_RUOR-Guardia_Bishkek
+Zamirbek_Zhumagulov	isAffiliatedTo	FC_RUOR-Guardia_Bishkek
+Zamirbek_Zhumagulov	playsFor	FC_RUOR-Guardia_Bishkek
+Zamirbek_Zhumagulov	isAffiliatedTo	FC_RUOR-Guardia_Bishkek
+Zamirbek_Zhumagulov	playsFor	FC_RUOR-Guardia_Bishkek
+FC_RUOR-Guardia_Bishkek	isLocatedIn	Bishkek
+FC_RUOR-Guardia_Bishkek	isLocatedIn	Bishkek
+
+http://dbpedia.org/resource/FK_Vojvodina	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Novi_Sad
+FK_Vojvodina	Novi_Sad
+Dušan_Mićić	isAffiliatedTo	FK_Vojvodina
+Dušan_Mićić	playsFor	FK_Vojvodina
+Dušan_Mićić	isAffiliatedTo	FK_Vojvodina
+Dušan_Mićić	playsFor	FK_Vojvodina
+Dušan_Mićić	wasBornIn	Novi_Sad
+Dušan_Mićić	wasBornIn	Novi_Sad
+
+http://dbpedia.org/resource/FK_Vojvodina	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Karađorđe_Stadium
+FK_Vojvodina	Karađorđe_Stadium
+Dušan_Mićić	isAffiliatedTo	FK_Vojvodina
+Dušan_Mićić	playsFor	FK_Vojvodina
+Dušan_Mićić	isAffiliatedTo	FK_Vojvodina
+Dušan_Mićić	playsFor	FK_Vojvodina
+Dušan_Mićić	wasBornIn	Novi_Sad
+Dušan_Mićić	wasBornIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+
+http://dbpedia.org/resource/Qatar_SC	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Qatar_SC	Doha
+Yusef_Ahmed	playsFor	Qatar_SC
+Yusef_Ahmed	isAffiliatedTo	Qatar_SC
+Yusef_Ahmed	playsFor	Qatar_SC
+Yusef_Ahmed	isAffiliatedTo	Qatar_SC
+Yusef_Ahmed	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Yusef_Ahmed	playsFor	Al-Arabi_SC_(Qatar)
+Yusef_Ahmed	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Yusef_Ahmed	playsFor	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/UE_Lleida	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Catalonia
+UE_Lleida	Catalonia
+UE_Lleida	isLocatedIn	Lleida
+UE_Lleida	isLocatedIn	Lleida
+Lleida	isLocatedIn	Catalonia
+Lleida	isLocatedIn	Catalonia
+
+http://dbpedia.org/resource/UE_Lleida	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Catalonia
+UE_Lleida	Catalonia
+UE_Lleida	isLocatedIn	Lleida
+UE_Lleida	isLocatedIn	Lleida
+Alguaire	isLocatedIn	Lleida
+Alguaire	isLocatedIn	Lleida
+Alguaire	isLocatedIn	Catalonia
+Alguaire	isLocatedIn	Catalonia
+
+http://dbpedia.org/resource/Moro_United_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tanzania
+Moro_United_F.C.	Tanzania
+Hadji_Mberwa	playsFor	Moro_United_F.C.
+Hadji_Mberwa	isAffiliatedTo	Moro_United_F.C.
+Hadji_Mberwa	playsFor	Moro_United_F.C.
+Hadji_Mberwa	isAffiliatedTo	Moro_United_F.C.
+Hadji_Mberwa	isCitizenOf	Tanzania
+Hadji_Mberwa	isCitizenOf	Tanzania
+
+http://dbpedia.org/resource/Moro_United_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tanzania
+Moro_United_F.C.	Tanzania
+Moro_United_F.C.	isLocatedIn	Morogoro
+Moro_United_F.C.	isLocatedIn	Morogoro
+Sokoine_University_of_Agriculture	isLocatedIn	Morogoro
+Sokoine_University_of_Agriculture	isLocatedIn	Morogoro
+Sokoine_University_of_Agriculture	isLocatedIn	Tanzania
+Sokoine_University_of_Agriculture	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Moro_United_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tanzania
+Moro_United_F.C.	Tanzania
+Moro_United_F.C.	isLocatedIn	Morogoro
+Moro_United_F.C.	isLocatedIn	Morogoro
+Jamhuri_Stadium_(Morogoro)	isLocatedIn	Morogoro
+Jamhuri_Stadium_(Morogoro)	isLocatedIn	Morogoro
+Jamhuri_Stadium_(Morogoro)	isLocatedIn	Tanzania
+Jamhuri_Stadium_(Morogoro)	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Moro_United_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tanzania
+Moro_United_F.C.	Tanzania
+Moro_United_F.C.	isLocatedIn	Morogoro
+Moro_United_F.C.	isLocatedIn	Morogoro
+Hadji_Mberwa	wasBornIn	Morogoro
+Hadji_Mberwa	wasBornIn	Morogoro
+Hadji_Mberwa	isCitizenOf	Tanzania
+Hadji_Mberwa	isCitizenOf	Tanzania
+
+http://dbpedia.org/resource/Moro_United_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tanzania
+Moro_United_F.C.	Tanzania
+Moro_United_F.C.	isLocatedIn	Morogoro
+Moro_United_F.C.	isLocatedIn	Morogoro
+Morogoro	isLocatedIn	Tanzania
+Morogoro	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Moro_United_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tanzania
+Moro_United_F.C.	Tanzania
+Moro_United_F.C.	isLocatedIn	Morogoro
+Moro_United_F.C.	isLocatedIn	Morogoro
+Mzumbe_University	isLocatedIn	Morogoro
+Mzumbe_University	isLocatedIn	Morogoro
+Mzumbe_University	isLocatedIn	Tanzania
+Mzumbe_University	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/Moro_United_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tanzania
+Moro_United_F.C.	Tanzania
+Moro_United_F.C.	isLocatedIn	Morogoro
+Moro_United_F.C.	isLocatedIn	Morogoro
+Kimamba_'A'	isLocatedIn	Morogoro
+Kimamba_'A'	isLocatedIn	Morogoro
+Kimamba_'A'	isLocatedIn	Tanzania
+Kimamba_'A'	isLocatedIn	Tanzania
+
+http://dbpedia.org/resource/FC_Triesen	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Liechtenstein
+FC_Triesen	Liechtenstein
+Franz_Burgmeier	isAffiliatedTo	FC_Triesen
+Franz_Burgmeier	playsFor	FC_Triesen
+Franz_Burgmeier	isAffiliatedTo	FC_Triesen
+Franz_Burgmeier	playsFor	FC_Triesen
+Franz_Burgmeier	isAffiliatedTo	FC_Triesen
+Franz_Burgmeier	playsFor	FC_Triesen
+Franz_Burgmeier	isAffiliatedTo	FC_Triesen
+Franz_Burgmeier	playsFor	FC_Triesen
+FC_Triesen	isLocatedIn	Liechtenstein
+FC_Triesen	isLocatedIn	Liechtenstein
+
+http://dbpedia.org/resource/FC_Triesen	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Liechtenstein
+FC_Triesen	Liechtenstein
+Franz_Burgmeier	isAffiliatedTo	FC_Triesen
+Franz_Burgmeier	playsFor	FC_Triesen
+Franz_Burgmeier	isAffiliatedTo	FC_Triesen
+Franz_Burgmeier	playsFor	FC_Triesen
+Franz_Burgmeier	isCitizenOf	Liechtenstein
+Franz_Burgmeier	isCitizenOf	Liechtenstein
+
+http://dbpedia.org/resource/FC_Triesen	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Liechtenstein
+FC_Triesen	Liechtenstein
+Franz_Burgmeier	isAffiliatedTo	FC_Triesen
+Franz_Burgmeier	playsFor	FC_Triesen
+Franz_Burgmeier	isAffiliatedTo	FC_Triesen
+Franz_Burgmeier	playsFor	FC_Triesen
+Franz_Burgmeier	wasBornIn	Triesen
+Franz_Burgmeier	wasBornIn	Triesen
+Triesen	isLocatedIn	Liechtenstein
+Triesen	isLocatedIn	Liechtenstein
+
+http://dbpedia.org/resource/FC_Triesen	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Liechtenstein
+FC_Triesen	Liechtenstein
+Nicolas_Hasler	isAffiliatedTo	FC_Triesen
+Nicolas_Hasler	playsFor	FC_Triesen
+Nicolas_Hasler	isAffiliatedTo	FC_Triesen
+Nicolas_Hasler	playsFor	FC_Triesen
+Nicolas_Hasler	isCitizenOf	Liechtenstein
+Nicolas_Hasler	isCitizenOf	Liechtenstein
+
+http://dbpedia.org/resource/FC_Triesen	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Liechtenstein
+FC_Triesen	Liechtenstein
+Sandro_Wieser	isAffiliatedTo	FC_Triesen
+Sandro_Wieser	isAffiliatedTo	FC_Triesen
+Sandro_Wieser	isAffiliatedTo	FC_Triesen
+Sandro_Wieser	isAffiliatedTo	FC_Triesen
+FC_Triesen	isLocatedIn	Liechtenstein
+FC_Triesen	isLocatedIn	Liechtenstein
+
+http://dbpedia.org/resource/FC_Triesen	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Liechtenstein
+FC_Triesen	Liechtenstein
+Raphael_Rohrer	playsFor	FC_Triesen
+Raphael_Rohrer	isAffiliatedTo	FC_Triesen
+Raphael_Rohrer	playsFor	FC_Triesen
+Raphael_Rohrer	isAffiliatedTo	FC_Triesen
+Raphael_Rohrer	isCitizenOf	Liechtenstein
+Raphael_Rohrer	wasBornIn	Liechtenstein
+Raphael_Rohrer	isCitizenOf	Liechtenstein
+Raphael_Rohrer	wasBornIn	Liechtenstein
+
+http://dbpedia.org/resource/FC_Triesen	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Liechtenstein
+FC_Triesen	Liechtenstein
+FC_Triesen	isLocatedIn	Triesen
+FC_Triesen	isLocatedIn	Triesen
+Triesen	isLocatedIn	Liechtenstein
+Triesen	isLocatedIn	Liechtenstein
+
+http://dbpedia.org/resource/FC_Triesen	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Liechtenstein
+FC_Triesen	Liechtenstein
+FC_Triesen	isLocatedIn	Triesen
+FC_Triesen	isLocatedIn	Triesen
+Rätikon	isLocatedIn	Triesen
+Rätikon	isLocatedIn	Triesen
+Rätikon	isLocatedIn	Liechtenstein
+Rätikon	isLocatedIn	Liechtenstein
+
+http://dbpedia.org/resource/FC_Triesen	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Liechtenstein
+FC_Triesen	Liechtenstein
+FC_Triesen	isLocatedIn	Triesen
+FC_Triesen	isLocatedIn	Triesen
+Falknis	isLocatedIn	Triesen
+Falknis	isLocatedIn	Triesen
+Falknis	isLocatedIn	Liechtenstein
+Falknis	isLocatedIn	Liechtenstein
+
+http://dbpedia.org/resource/FC_Triesen	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Liechtenstein
+FC_Triesen	Liechtenstein
+FC_Triesen	isLocatedIn	Triesen
+FC_Triesen	isLocatedIn	Triesen
+Hinter_Grauspitz	isLocatedIn	Triesen
+Hinter_Grauspitz	isLocatedIn	Triesen
+Hinter_Grauspitz	isLocatedIn	Liechtenstein
+Hinter_Grauspitz	isLocatedIn	Liechtenstein
+
+http://dbpedia.org/resource/FC_Triesen	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Liechtenstein
+FC_Triesen	Liechtenstein
+FC_Triesen	isLocatedIn	Triesen
+FC_Triesen	isLocatedIn	Triesen
+FC_Triesen	isLocatedIn	Triesen
+FC_Triesen	isLocatedIn	Triesen
+FC_Triesen	isLocatedIn	Liechtenstein
+FC_Triesen	isLocatedIn	Liechtenstein
+
+http://dbpedia.org/resource/FC_Triesen	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Liechtenstein
+FC_Triesen	Liechtenstein
+FC_Triesen	isLocatedIn	Triesen
+FC_Triesen	isLocatedIn	Triesen
+Grauspitz	isLocatedIn	Triesen
+Grauspitz	isLocatedIn	Triesen
+Grauspitz	isLocatedIn	Liechtenstein
+Grauspitz	isLocatedIn	Liechtenstein
+
+http://dbpedia.org/resource/FC_Triesen	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Liechtenstein
+FC_Triesen	Liechtenstein
+FC_Triesen	isLocatedIn	Triesen
+FC_Triesen	isLocatedIn	Triesen
+Franz_Burgmeier	wasBornIn	Triesen
+Franz_Burgmeier	wasBornIn	Triesen
+Franz_Burgmeier	isCitizenOf	Liechtenstein
+Franz_Burgmeier	isCitizenOf	Liechtenstein
+
+http://dbpedia.org/resource/FC_Triesen	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Liechtenstein
+FC_Triesen	Liechtenstein
+Patrick_Burgmeier	isAffiliatedTo	FC_Triesen
+Patrick_Burgmeier	playsFor	FC_Triesen
+Patrick_Burgmeier	isAffiliatedTo	FC_Triesen
+Patrick_Burgmeier	playsFor	FC_Triesen
+Patrick_Burgmeier	isCitizenOf	Liechtenstein
+Patrick_Burgmeier	wasBornIn	Liechtenstein
+Patrick_Burgmeier	isCitizenOf	Liechtenstein
+Patrick_Burgmeier	wasBornIn	Liechtenstein
+
+http://dbpedia.org/resource/FC_Triesen	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Liechtenstein
+FC_Triesen	Liechtenstein
+Patrick_Burgmeier	isAffiliatedTo	FC_Triesen
+Patrick_Burgmeier	playsFor	FC_Triesen
+Patrick_Burgmeier	isAffiliatedTo	FC_Triesen
+Patrick_Burgmeier	playsFor	FC_Triesen
+Patrick_Burgmeier	isAffiliatedTo	FC_Triesen
+Patrick_Burgmeier	playsFor	FC_Triesen
+Patrick_Burgmeier	isAffiliatedTo	FC_Triesen
+Patrick_Burgmeier	playsFor	FC_Triesen
+FC_Triesen	isLocatedIn	Liechtenstein
+FC_Triesen	isLocatedIn	Liechtenstein
+
+http://dbpedia.org/resource/FC_Triesen	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Liechtenstein
+FC_Triesen	Liechtenstein
+FC_Triesen	isLocatedIn	Liechtenstein
+FC_Triesen	isLocatedIn	Liechtenstein
+
+http://dbpedia.org/resource/Asociación_Atlética_Luján_de_Cuyo	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Mendoza,_Argentina
+Asociación_Atlética_Luján_de_Cuyo	Mendoza,_Argentina
+Mariano_Echeverría	playsFor	Asociación_Atlética_Luján_de_Cuyo
+Mariano_Echeverría	isAffiliatedTo	Asociación_Atlética_Luján_de_Cuyo
+Mariano_Echeverría	playsFor	Asociación_Atlética_Luján_de_Cuyo
+Mariano_Echeverría	isAffiliatedTo	Asociación_Atlética_Luján_de_Cuyo
+Mariano_Echeverría	playsFor	Asociación_Atlética_Luján_de_Cuyo
+Mariano_Echeverría	isAffiliatedTo	Asociación_Atlética_Luján_de_Cuyo
+Mariano_Echeverría	playsFor	Asociación_Atlética_Luján_de_Cuyo
+Mariano_Echeverría	isAffiliatedTo	Asociación_Atlética_Luján_de_Cuyo
+Asociación_Atlética_Luján_de_Cuyo	isLocatedIn	Mendoza,_Argentina
+Asociación_Atlética_Luján_de_Cuyo	isLocatedIn	Mendoza,_Argentina
+
+http://dbpedia.org/resource/Asociación_Atlética_Luján_de_Cuyo	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Mendoza,_Argentina
+Asociación_Atlética_Luján_de_Cuyo	Mendoza,_Argentina
+Asociación_Atlética_Luján_de_Cuyo	isLocatedIn	Mendoza,_Argentina
+Asociación_Atlética_Luján_de_Cuyo	isLocatedIn	Mendoza,_Argentina
+
+http://dbpedia.org/resource/Asociación_Atlética_Luján_de_Cuyo	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Mendoza,_Argentina
+Asociación_Atlética_Luján_de_Cuyo	Mendoza,_Argentina
+Cristian_Lucchetti	isAffiliatedTo	Asociación_Atlética_Luján_de_Cuyo
+Cristian_Lucchetti	playsFor	Asociación_Atlética_Luján_de_Cuyo
+Cristian_Lucchetti	isAffiliatedTo	Asociación_Atlética_Luján_de_Cuyo
+Cristian_Lucchetti	playsFor	Asociación_Atlética_Luján_de_Cuyo
+Cristian_Lucchetti	isAffiliatedTo	Asociación_Atlética_Luján_de_Cuyo
+Cristian_Lucchetti	playsFor	Asociación_Atlética_Luján_de_Cuyo
+Cristian_Lucchetti	isAffiliatedTo	Asociación_Atlética_Luján_de_Cuyo
+Cristian_Lucchetti	playsFor	Asociación_Atlética_Luján_de_Cuyo
+Asociación_Atlética_Luján_de_Cuyo	isLocatedIn	Mendoza,_Argentina
+Asociación_Atlética_Luján_de_Cuyo	isLocatedIn	Mendoza,_Argentina
+
+http://dbpedia.org/resource/KF_Elbasani	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Albania
+KF_Elbasani	Albania
+Ervin_Llani	playsFor	KF_Elbasani
+Ervin_Llani	isAffiliatedTo	KF_Elbasani
+Ervin_Llani	playsFor	KF_Elbasani
+Ervin_Llani	isAffiliatedTo	KF_Elbasani
+Ervin_Llani	isAffiliatedTo	KF_Lushnja
+Ervin_Llani	playsFor	KF_Lushnja
+Ervin_Llani	isAffiliatedTo	KF_Lushnja
+Ervin_Llani	playsFor	KF_Lushnja
+KF_Lushnja	isLocatedIn	Albania
+KF_Lushnja	isLocatedIn	Albania
+
+http://dbpedia.org/resource/KF_Elbasani	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Albania
+KF_Elbasani	Albania
+Ervin_Llani	playsFor	KF_Elbasani
+Ervin_Llani	isAffiliatedTo	KF_Elbasani
+Ervin_Llani	playsFor	KF_Elbasani
+Ervin_Llani	isAffiliatedTo	KF_Elbasani
+Ervin_Llani	isCitizenOf	Albania
+Ervin_Llani	isCitizenOf	Albania
+
+http://dbpedia.org/resource/Apollon_Smyrni_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+Apollon_Smyrni_F.C.	Greece
+Stelios_Kritikos	playsFor	Apollon_Smyrni_F.C.
+Stelios_Kritikos	isAffiliatedTo	Apollon_Smyrni_F.C.
+Stelios_Kritikos	playsFor	Apollon_Smyrni_F.C.
+Stelios_Kritikos	isAffiliatedTo	Apollon_Smyrni_F.C.
+Stelios_Kritikos	wasBornIn	Athens
+Stelios_Kritikos	wasBornIn	Athens
+Athens	isLocatedIn	Greece
+Greece	hasCapital	Athens
+Athens	isLocatedIn	Greece
+Greece	hasCapital	Athens
+
+http://dbpedia.org/resource/PAOK_FC	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+PAOK_FC	Greece
+Joe_Bizera	isAffiliatedTo	PAOK_FC
+Joe_Bizera	playsFor	PAOK_FC
+Joe_Bizera	isAffiliatedTo	PAOK_FC
+Joe_Bizera	playsFor	PAOK_FC
+Joe_Bizera	isCitizenOf	Greece
+Joe_Bizera	isCitizenOf	Greece
+
+http://dbpedia.org/resource/PAOK_FC	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+PAOK_FC	Greece
+Lakis_Petropoulos	isAffiliatedTo	PAOK_FC
+Lakis_Petropoulos	isAffiliatedTo	PAOK_FC
+Lakis_Petropoulos	wasBornIn	Greece
+Lakis_Petropoulos	isCitizenOf	Greece
+Lakis_Petropoulos	wasBornIn	Greece
+Lakis_Petropoulos	isCitizenOf	Greece
+
+http://dbpedia.org/resource/PAOK_FC	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+PAOK_FC	Greece
+Percy_Olivares	playsFor	PAOK_FC
+Percy_Olivares	isAffiliatedTo	PAOK_FC
+Percy_Olivares	playsFor	PAOK_FC
+Percy_Olivares	isAffiliatedTo	PAOK_FC
+Percy_Olivares	isCitizenOf	Greece
+Percy_Olivares	isCitizenOf	Greece
+
+http://dbpedia.org/resource/PAOK_FC	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+PAOK_FC	Greece
+Loukas_Karadimos	isAffiliatedTo	PAOK_FC
+Loukas_Karadimos	playsFor	PAOK_FC
+Loukas_Karadimos	isAffiliatedTo	PAOK_FC
+Loukas_Karadimos	playsFor	PAOK_FC
+Loukas_Karadimos	isCitizenOf	Greece
+Loukas_Karadimos	isCitizenOf	Greece
+
+http://dbpedia.org/resource/PAOK_FC	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+PAOK_FC	Greece
+Stefanos_Athanasiadis	isAffiliatedTo	PAOK_FC
+Stefanos_Athanasiadis	playsFor	PAOK_FC
+Stefanos_Athanasiadis	isAffiliatedTo	PAOK_FC
+Stefanos_Athanasiadis	playsFor	PAOK_FC
+Stefanos_Athanasiadis	isCitizenOf	Greece
+Stefanos_Athanasiadis	wasBornIn	Greece
+Stefanos_Athanasiadis	isCitizenOf	Greece
+Stefanos_Athanasiadis	wasBornIn	Greece
+
+http://dbpedia.org/resource/FK_Spartak_Subotica	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Subotica
+FK_Spartak_Subotica	Subotica
+Goran_Adamović	isAffiliatedTo	FK_Spartak_Subotica
+Goran_Adamović	playsFor	FK_Spartak_Subotica
+Goran_Adamović	isAffiliatedTo	FK_Spartak_Subotica
+Goran_Adamović	playsFor	FK_Spartak_Subotica
+Goran_Adamović	isAffiliatedTo	FK_Spartak_Subotica
+Goran_Adamović	playsFor	FK_Spartak_Subotica
+Goran_Adamović	isAffiliatedTo	FK_Spartak_Subotica
+Goran_Adamović	playsFor	FK_Spartak_Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+
+http://dbpedia.org/resource/FK_Spartak_Subotica	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Subotica
+FK_Spartak_Subotica	Subotica
+Ivan_Mršić	isAffiliatedTo	FK_Spartak_Subotica
+Ivan_Mršić	playsFor	FK_Spartak_Subotica
+Ivan_Mršić	isAffiliatedTo	FK_Spartak_Subotica
+Ivan_Mršić	playsFor	FK_Spartak_Subotica
+Ivan_Mršić	isAffiliatedTo	FK_Spartak_Subotica
+Ivan_Mršić	playsFor	FK_Spartak_Subotica
+Ivan_Mršić	isAffiliatedTo	FK_Spartak_Subotica
+Ivan_Mršić	playsFor	FK_Spartak_Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+
+http://dbpedia.org/resource/FK_Spartak_Subotica	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Subotica
+FK_Spartak_Subotica	Subotica
+Emanuel_Oletu	isAffiliatedTo	FK_Spartak_Subotica
+Emanuel_Oletu	playsFor	FK_Spartak_Subotica
+Emanuel_Oletu	isAffiliatedTo	FK_Spartak_Subotica
+Emanuel_Oletu	playsFor	FK_Spartak_Subotica
+Emanuel_Oletu	isAffiliatedTo	FK_Spartak_Subotica
+Emanuel_Oletu	playsFor	FK_Spartak_Subotica
+Emanuel_Oletu	isAffiliatedTo	FK_Spartak_Subotica
+Emanuel_Oletu	playsFor	FK_Spartak_Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+
+http://dbpedia.org/resource/FK_Spartak_Subotica	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Subotica
+FK_Spartak_Subotica	Subotica
+Slobodan_Mazić	isAffiliatedTo	FK_Spartak_Subotica
+Slobodan_Mazić	playsFor	FK_Spartak_Subotica
+Slobodan_Mazić	isAffiliatedTo	FK_Spartak_Subotica
+Slobodan_Mazić	playsFor	FK_Spartak_Subotica
+Slobodan_Mazić	isAffiliatedTo	FK_Spartak_Subotica
+Slobodan_Mazić	playsFor	FK_Spartak_Subotica
+Slobodan_Mazić	isAffiliatedTo	FK_Spartak_Subotica
+Slobodan_Mazić	playsFor	FK_Spartak_Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+
+http://dbpedia.org/resource/FK_Spartak_Subotica	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Subotica
+FK_Spartak_Subotica	Subotica
+Dejan_Kekezović	playsFor	FK_Spartak_Subotica
+Dejan_Kekezović	isAffiliatedTo	FK_Spartak_Subotica
+Dejan_Kekezović	playsFor	FK_Spartak_Subotica
+Dejan_Kekezović	isAffiliatedTo	FK_Spartak_Subotica
+Dejan_Kekezović	playsFor	FK_Spartak_Subotica
+Dejan_Kekezović	isAffiliatedTo	FK_Spartak_Subotica
+Dejan_Kekezović	playsFor	FK_Spartak_Subotica
+Dejan_Kekezović	isAffiliatedTo	FK_Spartak_Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+
+http://dbpedia.org/resource/FK_Spartak_Subotica	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Subotica
+FK_Spartak_Subotica	Subotica
+Ermin_Alić	isAffiliatedTo	FK_Spartak_Subotica
+Ermin_Alić	playsFor	FK_Spartak_Subotica
+Ermin_Alić	isAffiliatedTo	FK_Spartak_Subotica
+Ermin_Alić	playsFor	FK_Spartak_Subotica
+Ermin_Alić	isAffiliatedTo	FK_Spartak_Subotica
+Ermin_Alić	playsFor	FK_Spartak_Subotica
+Ermin_Alić	isAffiliatedTo	FK_Spartak_Subotica
+Ermin_Alić	playsFor	FK_Spartak_Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+
+http://dbpedia.org/resource/FK_Spartak_Subotica	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Subotica
+FK_Spartak_Subotica	Subotica
+Ranko_Popović	playsFor	FK_Spartak_Subotica
+Ranko_Popović	isAffiliatedTo	FK_Spartak_Subotica
+Ranko_Popović	playsFor	FK_Spartak_Subotica
+Ranko_Popović	isAffiliatedTo	FK_Spartak_Subotica
+Ranko_Popović	playsFor	FK_Spartak_Subotica
+Ranko_Popović	isAffiliatedTo	FK_Spartak_Subotica
+Ranko_Popović	playsFor	FK_Spartak_Subotica
+Ranko_Popović	isAffiliatedTo	FK_Spartak_Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+
+http://dbpedia.org/resource/FK_Spartak_Subotica	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Subotica
+FK_Spartak_Subotica	Subotica
+Lazar_Veselinović	playsFor	FK_Spartak_Subotica
+Lazar_Veselinović	isAffiliatedTo	FK_Spartak_Subotica
+Lazar_Veselinović	playsFor	FK_Spartak_Subotica
+Lazar_Veselinović	isAffiliatedTo	FK_Spartak_Subotica
+Lazar_Veselinović	playsFor	FK_Spartak_Subotica
+Lazar_Veselinović	isAffiliatedTo	FK_Spartak_Subotica
+Lazar_Veselinović	playsFor	FK_Spartak_Subotica
+Lazar_Veselinović	isAffiliatedTo	FK_Spartak_Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+
+http://dbpedia.org/resource/FK_Spartak_Subotica	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Subotica
+FK_Spartak_Subotica	Subotica
+Nemanja_Obrić	playsFor	FK_Spartak_Subotica
+Nemanja_Obrić	isAffiliatedTo	FK_Spartak_Subotica
+Nemanja_Obrić	playsFor	FK_Spartak_Subotica
+Nemanja_Obrić	isAffiliatedTo	FK_Spartak_Subotica
+Nemanja_Obrić	playsFor	FK_Spartak_Subotica
+Nemanja_Obrić	isAffiliatedTo	FK_Spartak_Subotica
+Nemanja_Obrić	playsFor	FK_Spartak_Subotica
+Nemanja_Obrić	isAffiliatedTo	FK_Spartak_Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+
+http://dbpedia.org/resource/FK_Spartak_Subotica	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Subotica
+FK_Spartak_Subotica	Subotica
+Veseljko_Trivunović	playsFor	FK_Spartak_Subotica
+Veseljko_Trivunović	isAffiliatedTo	FK_Spartak_Subotica
+Veseljko_Trivunović	playsFor	FK_Spartak_Subotica
+Veseljko_Trivunović	isAffiliatedTo	FK_Spartak_Subotica
+Veseljko_Trivunović	playsFor	FK_Spartak_Subotica
+Veseljko_Trivunović	isAffiliatedTo	FK_Spartak_Subotica
+Veseljko_Trivunović	playsFor	FK_Spartak_Subotica
+Veseljko_Trivunović	isAffiliatedTo	FK_Spartak_Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+
+http://dbpedia.org/resource/FK_Spartak_Subotica	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Subotica
+FK_Spartak_Subotica	Subotica
+Nikola_Žigić	isAffiliatedTo	FK_Spartak_Subotica
+Nikola_Žigić	playsFor	FK_Spartak_Subotica
+Nikola_Žigić	isAffiliatedTo	FK_Spartak_Subotica
+Nikola_Žigić	playsFor	FK_Spartak_Subotica
+Nikola_Žigić	isAffiliatedTo	FK_Spartak_Subotica
+Nikola_Žigić	playsFor	FK_Spartak_Subotica
+Nikola_Žigić	isAffiliatedTo	FK_Spartak_Subotica
+Nikola_Žigić	playsFor	FK_Spartak_Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+
+http://dbpedia.org/resource/FK_Spartak_Subotica	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Subotica
+FK_Spartak_Subotica	Subotica
+Lajoš_Jakovetić	playsFor	FK_Spartak_Subotica
+Lajoš_Jakovetić	isAffiliatedTo	FK_Spartak_Subotica
+Lajoš_Jakovetić	playsFor	FK_Spartak_Subotica
+Lajoš_Jakovetić	isAffiliatedTo	FK_Spartak_Subotica
+Lajoš_Jakovetić	playsFor	FK_Spartak_Subotica
+Lajoš_Jakovetić	isAffiliatedTo	FK_Spartak_Subotica
+Lajoš_Jakovetić	playsFor	FK_Spartak_Subotica
+Lajoš_Jakovetić	isAffiliatedTo	FK_Spartak_Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+
+http://dbpedia.org/resource/FK_Spartak_Subotica	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Subotica
+FK_Spartak_Subotica	Subotica
+Lajoš_Jakovetić	playsFor	FK_Spartak_Subotica
+Lajoš_Jakovetić	isAffiliatedTo	FK_Spartak_Subotica
+Lajoš_Jakovetić	playsFor	FK_Spartak_Subotica
+Lajoš_Jakovetić	isAffiliatedTo	FK_Spartak_Subotica
+Lajoš_Jakovetić	wasBornIn	Subotica
+Lajoš_Jakovetić	wasBornIn	Subotica
+
+http://dbpedia.org/resource/FK_Spartak_Subotica	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Subotica
+FK_Spartak_Subotica	Subotica
+Bojan_Božović	isAffiliatedTo	FK_Spartak_Subotica
+Bojan_Božović	playsFor	FK_Spartak_Subotica
+Bojan_Božović	isAffiliatedTo	FK_Spartak_Subotica
+Bojan_Božović	playsFor	FK_Spartak_Subotica
+Bojan_Božović	isAffiliatedTo	FK_Spartak_Subotica
+Bojan_Božović	playsFor	FK_Spartak_Subotica
+Bojan_Božović	isAffiliatedTo	FK_Spartak_Subotica
+Bojan_Božović	playsFor	FK_Spartak_Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+
+http://dbpedia.org/resource/FK_Spartak_Subotica	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Subotica
+FK_Spartak_Subotica	Subotica
+Andrey_Chernyshov	isAffiliatedTo	FK_Spartak_Subotica
+Andrey_Chernyshov	isAffiliatedTo	FK_Spartak_Subotica
+Andrey_Chernyshov	isAffiliatedTo	FK_Spartak_Subotica
+Andrey_Chernyshov	isAffiliatedTo	FK_Spartak_Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+
+http://dbpedia.org/resource/FK_Spartak_Subotica	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Subotica
+FK_Spartak_Subotica	Subotica
+Nikola_Milanković	playsFor	FK_Spartak_Subotica
+Nikola_Milanković	isAffiliatedTo	FK_Spartak_Subotica
+Nikola_Milanković	playsFor	FK_Spartak_Subotica
+Nikola_Milanković	isAffiliatedTo	FK_Spartak_Subotica
+Nikola_Milanković	playsFor	FK_Spartak_Subotica
+Nikola_Milanković	isAffiliatedTo	FK_Spartak_Subotica
+Nikola_Milanković	playsFor	FK_Spartak_Subotica
+Nikola_Milanković	isAffiliatedTo	FK_Spartak_Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+
+http://dbpedia.org/resource/FK_Spartak_Subotica	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Subotica
+FK_Spartak_Subotica	Subotica
+Aleksandar_Nosković	isAffiliatedTo	FK_Spartak_Subotica
+Aleksandar_Nosković	playsFor	FK_Spartak_Subotica
+Aleksandar_Nosković	isAffiliatedTo	FK_Spartak_Subotica
+Aleksandar_Nosković	playsFor	FK_Spartak_Subotica
+Aleksandar_Nosković	isAffiliatedTo	FK_Spartak_Subotica
+Aleksandar_Nosković	playsFor	FK_Spartak_Subotica
+Aleksandar_Nosković	isAffiliatedTo	FK_Spartak_Subotica
+Aleksandar_Nosković	playsFor	FK_Spartak_Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+
+http://dbpedia.org/resource/FK_Spartak_Subotica	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Subotica
+FK_Spartak_Subotica	Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+
+http://dbpedia.org/resource/FK_Spartak_Subotica	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Subotica
+FK_Spartak_Subotica	Subotica
+Srđan_Vujaklija	isAffiliatedTo	FK_Spartak_Subotica
+Srđan_Vujaklija	playsFor	FK_Spartak_Subotica
+Srđan_Vujaklija	isAffiliatedTo	FK_Spartak_Subotica
+Srđan_Vujaklija	playsFor	FK_Spartak_Subotica
+Srđan_Vujaklija	isAffiliatedTo	FK_Spartak_Subotica
+Srđan_Vujaklija	playsFor	FK_Spartak_Subotica
+Srđan_Vujaklija	isAffiliatedTo	FK_Spartak_Subotica
+Srđan_Vujaklija	playsFor	FK_Spartak_Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+
+http://dbpedia.org/resource/FK_Spartak_Subotica	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Subotica
+FK_Spartak_Subotica	Subotica
+Zsombor_Kerekes	isAffiliatedTo	FK_Spartak_Subotica
+Zsombor_Kerekes	playsFor	FK_Spartak_Subotica
+Zsombor_Kerekes	isAffiliatedTo	FK_Spartak_Subotica
+Zsombor_Kerekes	playsFor	FK_Spartak_Subotica
+Zsombor_Kerekes	isAffiliatedTo	FK_Spartak_Subotica
+Zsombor_Kerekes	playsFor	FK_Spartak_Subotica
+Zsombor_Kerekes	isAffiliatedTo	FK_Spartak_Subotica
+Zsombor_Kerekes	playsFor	FK_Spartak_Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+FK_Spartak_Subotica	isLocatedIn	Subotica
+
+http://dbpedia.org/resource/Grulla_Morioka	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Iwate_Prefecture
+Grulla_Morioka	Iwate_Prefecture
+Grulla_Morioka	isLocatedIn	Morioka
+Grulla_Morioka	isLocatedIn	Morioka
+Iwate_Prefecture	hasCapital	Morioka
+Iwate_Prefecture	isLocatedIn	Morioka
+Morioka	isLocatedIn	Iwate_Prefecture
+Iwate_Prefecture	hasCapital	Morioka
+Iwate_Prefecture	isLocatedIn	Morioka
+Morioka	isLocatedIn	Iwate_Prefecture
+
+http://dbpedia.org/resource/Merw_FK	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Turkmenistan
+Merw_FK	Turkmenistan
+Muslim_Agaýew	playsFor	Merw_FK
+Muslim_Agaýew	isAffiliatedTo	Merw_FK
+Muslim_Agaýew	playsFor	Merw_FK
+Muslim_Agaýew	isAffiliatedTo	Merw_FK
+Muslim_Agaýew	wasBornIn	Mary,_Turkmenistan
+Muslim_Agaýew	wasBornIn	Mary,_Turkmenistan
+Mary,_Turkmenistan	isLocatedIn	Turkmenistan
+Mary,_Turkmenistan	isLocatedIn	Turkmenistan
+
+http://dbpedia.org/resource/Panionios_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+Panionios_F.C.	Greece
+Petros_Michos	playsFor	Panionios_F.C.
+Petros_Michos	isAffiliatedTo	Panionios_F.C.
+Petros_Michos	playsFor	Panionios_F.C.
+Petros_Michos	isAffiliatedTo	Panionios_F.C.
+Petros_Michos	isCitizenOf	Greece
+Petros_Michos	isCitizenOf	Greece
+
+http://dbpedia.org/resource/Nepal_Police_Club	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Kathmandu
+Nepal_Police_Club	Kathmandu
+Bharat_Khawas	playsFor	Nepal_Police_Club
+Bharat_Khawas	isAffiliatedTo	Nepal_Police_Club
+Bharat_Khawas	playsFor	Nepal_Police_Club
+Bharat_Khawas	isAffiliatedTo	Nepal_Police_Club
+Bharat_Khawas	wasBornIn	Kathmandu
+Bharat_Khawas	wasBornIn	Kathmandu
+
+http://dbpedia.org/resource/Apollon_Smyrni_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Athens
+Apollon_Smyrni_F.C.	Athens
+Stelios_Kritikos	playsFor	Apollon_Smyrni_F.C.
+Stelios_Kritikos	isAffiliatedTo	Apollon_Smyrni_F.C.
+Stelios_Kritikos	playsFor	Apollon_Smyrni_F.C.
+Stelios_Kritikos	isAffiliatedTo	Apollon_Smyrni_F.C.
+Stelios_Kritikos	wasBornIn	Athens
+Stelios_Kritikos	wasBornIn	Athens
+
+http://dbpedia.org/resource/Ethnikos_Piraeus_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+Ethnikos_Piraeus_F.C.	Greece
+Dimitrios_Geladaris	isAffiliatedTo	Ethnikos_Piraeus_F.C.
+Dimitrios_Geladaris	playsFor	Ethnikos_Piraeus_F.C.
+Dimitrios_Geladaris	isAffiliatedTo	Ethnikos_Piraeus_F.C.
+Dimitrios_Geladaris	playsFor	Ethnikos_Piraeus_F.C.
+Dimitrios_Geladaris	isCitizenOf	Greece
+Dimitrios_Geladaris	isCitizenOf	Greece
+
+http://dbpedia.org/resource/Ethnikos_Piraeus_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Greece
+Ethnikos_Piraeus_F.C.	Greece
+Artūras_Rimkevičius	playsFor	Ethnikos_Piraeus_F.C.
+Artūras_Rimkevičius	isAffiliatedTo	Ethnikos_Piraeus_F.C.
+Artūras_Rimkevičius	playsFor	Ethnikos_Piraeus_F.C.
+Artūras_Rimkevičius	isAffiliatedTo	Ethnikos_Piraeus_F.C.
+Artūras_Rimkevičius	isCitizenOf	Greece
+Artūras_Rimkevičius	isCitizenOf	Greece
+
+http://dbpedia.org/resource/Asociación_Atlética_Luján_de_Cuyo	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Mendoza_Province
+Asociación_Atlética_Luján_de_Cuyo	Mendoza_Province
+Asociación_Atlética_Luján_de_Cuyo	isLocatedIn	Mendoza,_Argentina
+Asociación_Atlética_Luján_de_Cuyo	isLocatedIn	Mendoza,_Argentina
+Mendoza,_Argentina	isLocatedIn	Mendoza_Province
+Mendoza_Province	hasCapital	Mendoza,_Argentina
+Mendoza_Province	isLocatedIn	Mendoza,_Argentina
+Mendoza,_Argentina	isLocatedIn	Mendoza_Province
+Mendoza_Province	hasCapital	Mendoza,_Argentina
+Mendoza_Province	isLocatedIn	Mendoza,_Argentina
+
+http://dbpedia.org/resource/Academia_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Colombia
+Academia_F.C.	Colombia
+Alexander_Lugo	playsFor	Academia_F.C.
+Alexander_Lugo	isAffiliatedTo	Academia_F.C.
+Alexander_Lugo	playsFor	Academia_F.C.
+Alexander_Lugo	isAffiliatedTo	Academia_F.C.
+Alexander_Lugo	wasBornIn	Cali
+Alexander_Lugo	wasBornIn	Cali
+Cali	isLocatedIn	Colombia
+Cali	isLocatedIn	Colombia
+
+http://dbpedia.org/resource/Academia_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Colombia
+Academia_F.C.	Colombia
+Omar_Andrés_Rodríguez	playsFor	Academia_F.C.
+Omar_Andrés_Rodríguez	isAffiliatedTo	Academia_F.C.
+Omar_Andrés_Rodríguez	playsFor	Academia_F.C.
+Omar_Andrés_Rodríguez	isAffiliatedTo	Academia_F.C.
+Omar_Andrés_Rodríguez	isCitizenOf	Colombia
+Omar_Andrés_Rodríguez	isCitizenOf	Colombia
+
+http://dbpedia.org/resource/CO_Transports	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tunisia
+CO_Transports	Tunisia
+Faysal_Ben_Ahmed	isAffiliatedTo	CO_Transports
+Faysal_Ben_Ahmed	playsFor	CO_Transports
+Faysal_Ben_Ahmed	isAffiliatedTo	CO_Transports
+Faysal_Ben_Ahmed	playsFor	CO_Transports
+Faysal_Ben_Ahmed	isCitizenOf	Tunisia
+Faysal_Ben_Ahmed	isCitizenOf	Tunisia
+
+http://dbpedia.org/resource/CO_Transports	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tunisia
+CO_Transports	Tunisia
+Dino_Maamria	playsFor	CO_Transports
+Dino_Maamria	isAffiliatedTo	CO_Transports
+Dino_Maamria	playsFor	CO_Transports
+Dino_Maamria	isAffiliatedTo	CO_Transports
+Dino_Maamria	wasBornIn	Gafsa
+Dino_Maamria	wasBornIn	Gafsa
+Gafsa	isLocatedIn	Tunisia
+Gafsa	isLocatedIn	Tunisia
+
+http://dbpedia.org/resource/CO_Transports	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tunisia
+CO_Transports	Tunisia
+CO_Transports	isLocatedIn	Tunis
+CO_Transports	isLocatedIn	Tunis
+Mohamed_Habib_Gherab	diedIn	Tunis
+Mohamed_Habib_Gherab	wasBornIn	Tunis
+Mohamed_Habib_Gherab	diedIn	Tunis
+Mohamed_Habib_Gherab	wasBornIn	Tunis
+Mohamed_Habib_Gherab	isCitizenOf	Tunisia
+Mohamed_Habib_Gherab	isPoliticianOf	Tunisia
+Mohamed_Habib_Gherab	isCitizenOf	Tunisia
+Mohamed_Habib_Gherab	isPoliticianOf	Tunisia
+
+http://dbpedia.org/resource/CO_Transports	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tunisia
+CO_Transports	Tunisia
+CO_Transports	isLocatedIn	Tunis
+CO_Transports	isLocatedIn	Tunis
+Tunisair	isLocatedIn	Tunis
+Tunisair	isLocatedIn	Tunis
+Tunisair	isLocatedIn	Tunisia
+Tunisair	isLocatedIn	Tunisia
+
+http://dbpedia.org/resource/CO_Transports	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tunisia
+CO_Transports	Tunisia
+CO_Transports	isLocatedIn	Tunis
+CO_Transports	isLocatedIn	Tunis
+Sana_Hassainia	wasBornIn	Tunis
+Sana_Hassainia	wasBornIn	Tunis
+Sana_Hassainia	isCitizenOf	Tunisia
+Sana_Hassainia	isCitizenOf	Tunisia
+
+http://dbpedia.org/resource/CO_Transports	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tunisia
+CO_Transports	Tunisia
+CO_Transports	isLocatedIn	Tunis
+CO_Transports	isLocatedIn	Tunis
+Farhat_Rajhi	wasBornIn	Tunis
+Farhat_Rajhi	wasBornIn	Tunis
+Farhat_Rajhi	isPoliticianOf	Tunisia
+Farhat_Rajhi	isCitizenOf	Tunisia
+Farhat_Rajhi	isPoliticianOf	Tunisia
+Farhat_Rajhi	isCitizenOf	Tunisia
+
+http://dbpedia.org/resource/CO_Transports	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tunisia
+CO_Transports	Tunisia
+CO_Transports	isLocatedIn	Tunis
+CO_Transports	isLocatedIn	Tunis
+Bahi_Ladgham	wasBornIn	Tunis
+Bahi_Ladgham	wasBornIn	Tunis
+Bahi_Ladgham	isCitizenOf	Tunisia
+Bahi_Ladgham	isPoliticianOf	Tunisia
+Bahi_Ladgham	isCitizenOf	Tunisia
+Bahi_Ladgham	isPoliticianOf	Tunisia
+
+http://dbpedia.org/resource/CO_Transports	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tunisia
+CO_Transports	Tunisia
+CO_Transports	isLocatedIn	Tunis
+CO_Transports	isLocatedIn	Tunis
+Fouad_Mebazaa	wasBornIn	Tunis
+Fouad_Mebazaa	wasBornIn	Tunis
+Fouad_Mebazaa	isCitizenOf	Tunisia
+Fouad_Mebazaa	isPoliticianOf	Tunisia
+Fouad_Mebazaa	isCitizenOf	Tunisia
+Fouad_Mebazaa	isPoliticianOf	Tunisia
+
+http://dbpedia.org/resource/CO_Transports	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tunisia
+CO_Transports	Tunisia
+CO_Transports	isLocatedIn	Tunis
+CO_Transports	isLocatedIn	Tunis
+Fakhreddine_Ben_Youssef	wasBornIn	Tunis
+Fakhreddine_Ben_Youssef	wasBornIn	Tunis
+Fakhreddine_Ben_Youssef	isCitizenOf	Tunisia
+Fakhreddine_Ben_Youssef	isCitizenOf	Tunisia
+
+http://dbpedia.org/resource/CO_Transports	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tunisia
+CO_Transports	Tunisia
+CO_Transports	isLocatedIn	Tunis
+CO_Transports	isLocatedIn	Tunis
+Conquest_of_Tunis_(1535)	isLocatedIn	Tunis
+Conquest_of_Tunis_(1535)	happenedIn	Tunis
+Conquest_of_Tunis_(1535)	isLocatedIn	Tunis
+Conquest_of_Tunis_(1535)	happenedIn	Tunis
+Conquest_of_Tunis_(1535)	happenedIn	Tunisia
+Conquest_of_Tunis_(1535)	isLocatedIn	Tunisia
+Conquest_of_Tunis_(1535)	happenedIn	Tunisia
+Conquest_of_Tunis_(1535)	isLocatedIn	Tunisia
+
+http://dbpedia.org/resource/CO_Transports	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tunisia
+CO_Transports	Tunisia
+CO_Transports	isLocatedIn	Tunis
+CO_Transports	isLocatedIn	Tunis
+Mustapha_Ben_Jafar	wasBornIn	Tunis
+Mustapha_Ben_Jafar	wasBornIn	Tunis
+Mustapha_Ben_Jafar	isCitizenOf	Tunisia
+Mustapha_Ben_Jafar	isPoliticianOf	Tunisia
+Mustapha_Ben_Jafar	isCitizenOf	Tunisia
+Mustapha_Ben_Jafar	isPoliticianOf	Tunisia
+
+http://dbpedia.org/resource/CO_Transports	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tunisia
+CO_Transports	Tunisia
+CO_Transports	isLocatedIn	Tunis
+CO_Transports	isLocatedIn	Tunis
+Leïla_Ben_Ali	wasBornIn	Tunis
+Leïla_Ben_Ali	wasBornIn	Tunis
+Leïla_Ben_Ali	isCitizenOf	Tunisia
+Leïla_Ben_Ali	isCitizenOf	Tunisia
+
+http://dbpedia.org/resource/CO_Transports	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tunisia
+CO_Transports	Tunisia
+CO_Transports	isLocatedIn	Tunis
+CO_Transports	isLocatedIn	Tunis
+Slaheddine_Ben_Mbarek	diedIn	Tunis
+Slaheddine_Ben_Mbarek	diedIn	Tunis
+Slaheddine_Ben_Mbarek	isCitizenOf	Tunisia
+Slaheddine_Ben_Mbarek	isPoliticianOf	Tunisia
+Slaheddine_Ben_Mbarek	isCitizenOf	Tunisia
+Slaheddine_Ben_Mbarek	isPoliticianOf	Tunisia
+
+http://dbpedia.org/resource/CO_Transports	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tunisia
+CO_Transports	Tunisia
+CO_Transports	isLocatedIn	Tunis
+CO_Transports	isLocatedIn	Tunis
+Adel_Sellimi	wasBornIn	Tunis
+Adel_Sellimi	wasBornIn	Tunis
+Adel_Sellimi	isCitizenOf	Tunisia
+Adel_Sellimi	isCitizenOf	Tunisia
+
+http://dbpedia.org/resource/CO_Transports	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Tunisia
+CO_Transports	Tunisia
+CO_Transports	isLocatedIn	Tunis
+CO_Transports	isLocatedIn	Tunis
+Mongi_Slim	wasBornIn	Tunis
+Mongi_Slim	diedIn	Tunis
+Mongi_Slim	wasBornIn	Tunis
+Mongi_Slim	diedIn	Tunis
+Mongi_Slim	isPoliticianOf	Tunisia
+Mongi_Slim	isCitizenOf	Tunisia
+Mongi_Slim	isPoliticianOf	Tunisia
+Mongi_Slim	isCitizenOf	Tunisia
+
+http://dbpedia.org/resource/Montego_Bay_United_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Montego_Bay
+Montego_Bay_United_F.C.	Montego_Bay
+Stephen_Malcolm	isAffiliatedTo	Montego_Bay_United_F.C.
+Stephen_Malcolm	playsFor	Montego_Bay_United_F.C.
+Stephen_Malcolm	isAffiliatedTo	Montego_Bay_United_F.C.
+Stephen_Malcolm	playsFor	Montego_Bay_United_F.C.
+Stephen_Malcolm	wasBornIn	Montego_Bay
+Stephen_Malcolm	wasBornIn	Montego_Bay
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Abdulaziz_Hatem	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Abdulaziz_Hatem	playsFor	Al-Arabi_SC_(Qatar)
+Abdulaziz_Hatem	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Abdulaziz_Hatem	playsFor	Al-Arabi_SC_(Qatar)
+Abdulaziz_Hatem	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Abdulaziz_Hatem	playsFor	Al-Arabi_SC_(Qatar)
+Abdulaziz_Hatem	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Abdulaziz_Hatem	playsFor	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Musa_Haroon	playsFor	Al-Arabi_SC_(Qatar)
+Musa_Haroon	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Musa_Haroon	playsFor	Al-Arabi_SC_(Qatar)
+Musa_Haroon	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Musa_Haroon	playsFor	Al-Arabi_SC_(Qatar)
+Musa_Haroon	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Musa_Haroon	playsFor	Al-Arabi_SC_(Qatar)
+Musa_Haroon	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Musa_Haroon	playsFor	Al-Arabi_SC_(Qatar)
+Musa_Haroon	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Musa_Haroon	playsFor	Al-Arabi_SC_(Qatar)
+Musa_Haroon	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Musa_Haroon	wasBornIn	Doha
+Musa_Haroon	wasBornIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Jérémie_N'Jock	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Jérémie_N'Jock	playsFor	Al-Arabi_SC_(Qatar)
+Jérémie_N'Jock	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Jérémie_N'Jock	playsFor	Al-Arabi_SC_(Qatar)
+Jérémie_N'Jock	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Jérémie_N'Jock	playsFor	Al-Arabi_SC_(Qatar)
+Jérémie_N'Jock	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Jérémie_N'Jock	playsFor	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Stefan_Effenberg	playsFor	Al-Arabi_SC_(Qatar)
+Stefan_Effenberg	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Stefan_Effenberg	playsFor	Al-Arabi_SC_(Qatar)
+Stefan_Effenberg	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Stefan_Effenberg	playsFor	Al-Arabi_SC_(Qatar)
+Stefan_Effenberg	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Stefan_Effenberg	playsFor	Al-Arabi_SC_(Qatar)
+Stefan_Effenberg	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Jesús_Meza	playsFor	Al-Arabi_SC_(Qatar)
+Jesús_Meza	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Jesús_Meza	playsFor	Al-Arabi_SC_(Qatar)
+Jesús_Meza	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Jesús_Meza	playsFor	Al-Arabi_SC_(Qatar)
+Jesús_Meza	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Jesús_Meza	playsFor	Al-Arabi_SC_(Qatar)
+Jesús_Meza	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Orestes_Júnior_Alves	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Orestes_Júnior_Alves	playsFor	Al-Arabi_SC_(Qatar)
+Orestes_Júnior_Alves	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Orestes_Júnior_Alves	playsFor	Al-Arabi_SC_(Qatar)
+Orestes_Júnior_Alves	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Orestes_Júnior_Alves	playsFor	Al-Arabi_SC_(Qatar)
+Orestes_Júnior_Alves	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Orestes_Júnior_Alves	playsFor	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Mosaab_Mahmoud_Al_Hassan	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Mosaab_Mahmoud_Al_Hassan	playsFor	Al-Arabi_SC_(Qatar)
+Mosaab_Mahmoud_Al_Hassan	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Mosaab_Mahmoud_Al_Hassan	playsFor	Al-Arabi_SC_(Qatar)
+Mosaab_Mahmoud_Al_Hassan	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Mosaab_Mahmoud_Al_Hassan	playsFor	Al-Arabi_SC_(Qatar)
+Mosaab_Mahmoud_Al_Hassan	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Mosaab_Mahmoud_Al_Hassan	playsFor	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Mobello_Baba_Keita	playsFor	Al-Arabi_SC_(Qatar)
+Mobello_Baba_Keita	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Mobello_Baba_Keita	playsFor	Al-Arabi_SC_(Qatar)
+Mobello_Baba_Keita	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Mobello_Baba_Keita	playsFor	Al-Arabi_SC_(Qatar)
+Mobello_Baba_Keita	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Mobello_Baba_Keita	playsFor	Al-Arabi_SC_(Qatar)
+Mobello_Baba_Keita	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Fábio_César_Montezine	playsFor	Al-Arabi_SC_(Qatar)
+Fábio_César_Montezine	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Fábio_César_Montezine	playsFor	Al-Arabi_SC_(Qatar)
+Fábio_César_Montezine	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Fábio_César_Montezine	playsFor	Al-Arabi_SC_(Qatar)
+Fábio_César_Montezine	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Fábio_César_Montezine	playsFor	Al-Arabi_SC_(Qatar)
+Fábio_César_Montezine	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Adel_Lami	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Adel_Lami	playsFor	Al-Arabi_SC_(Qatar)
+Adel_Lami	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Adel_Lami	playsFor	Al-Arabi_SC_(Qatar)
+Adel_Lami	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Adel_Lami	playsFor	Al-Arabi_SC_(Qatar)
+Adel_Lami	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Adel_Lami	playsFor	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Mohamed_Armoumen	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Mohamed_Armoumen	playsFor	Al-Arabi_SC_(Qatar)
+Mohamed_Armoumen	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Mohamed_Armoumen	playsFor	Al-Arabi_SC_(Qatar)
+Mohamed_Armoumen	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Mohamed_Armoumen	playsFor	Al-Arabi_SC_(Qatar)
+Mohamed_Armoumen	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Mohamed_Armoumen	playsFor	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Anatoliy_Azarenkov	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Anatoliy_Azarenkov	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Anatoliy_Azarenkov	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Anatoliy_Azarenkov	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Bouchaib_El_Moubarki	playsFor	Al-Arabi_SC_(Qatar)
+Bouchaib_El_Moubarki	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Bouchaib_El_Moubarki	playsFor	Al-Arabi_SC_(Qatar)
+Bouchaib_El_Moubarki	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Bouchaib_El_Moubarki	playsFor	Al-Arabi_SC_(Qatar)
+Bouchaib_El_Moubarki	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Bouchaib_El_Moubarki	playsFor	Al-Arabi_SC_(Qatar)
+Bouchaib_El_Moubarki	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Luis_Antonio_Jiménez	playsFor	Al-Arabi_SC_(Qatar)
+Luis_Antonio_Jiménez	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Luis_Antonio_Jiménez	playsFor	Al-Arabi_SC_(Qatar)
+Luis_Antonio_Jiménez	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Luis_Antonio_Jiménez	playsFor	Al-Arabi_SC_(Qatar)
+Luis_Antonio_Jiménez	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Luis_Antonio_Jiménez	playsFor	Al-Arabi_SC_(Qatar)
+Luis_Antonio_Jiménez	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Rachid_Benmahmoud	playsFor	Al-Arabi_SC_(Qatar)
+Rachid_Benmahmoud	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Rachid_Benmahmoud	playsFor	Al-Arabi_SC_(Qatar)
+Rachid_Benmahmoud	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Rachid_Benmahmoud	playsFor	Al-Arabi_SC_(Qatar)
+Rachid_Benmahmoud	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Rachid_Benmahmoud	playsFor	Al-Arabi_SC_(Qatar)
+Rachid_Benmahmoud	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+João_Francisco	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+João_Francisco	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+João_Francisco	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+João_Francisco	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Uli_Stielike	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Uli_Stielike	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Uli_Stielike	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Uli_Stielike	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Rajab_Hamza	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Rajab_Hamza	playsFor	Al-Arabi_SC_(Qatar)
+Rajab_Hamza	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Rajab_Hamza	playsFor	Al-Arabi_SC_(Qatar)
+Rajab_Hamza	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Rajab_Hamza	playsFor	Al-Arabi_SC_(Qatar)
+Rajab_Hamza	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Rajab_Hamza	playsFor	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Rajab_Hamza	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Rajab_Hamza	playsFor	Al-Arabi_SC_(Qatar)
+Rajab_Hamza	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Rajab_Hamza	playsFor	Al-Arabi_SC_(Qatar)
+Rajab_Hamza	isAffiliatedTo	Al_Ahli_SC_(Doha)
+Rajab_Hamza	playsFor	Al_Ahli_SC_(Doha)
+Rajab_Hamza	isAffiliatedTo	Al_Ahli_SC_(Doha)
+Rajab_Hamza	playsFor	Al_Ahli_SC_(Doha)
+Al_Ahli_SC_(Doha)	isLocatedIn	Doha
+Al_Ahli_SC_(Doha)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Héctor_Bidoglio	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Héctor_Bidoglio	playsFor	Al-Arabi_SC_(Qatar)
+Héctor_Bidoglio	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Héctor_Bidoglio	playsFor	Al-Arabi_SC_(Qatar)
+Héctor_Bidoglio	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Héctor_Bidoglio	playsFor	Al-Arabi_SC_(Qatar)
+Héctor_Bidoglio	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Héctor_Bidoglio	playsFor	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Gabriel_Batistuta	playsFor	Al-Arabi_SC_(Qatar)
+Gabriel_Batistuta	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Gabriel_Batistuta	playsFor	Al-Arabi_SC_(Qatar)
+Gabriel_Batistuta	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Gabriel_Batistuta	playsFor	Al-Arabi_SC_(Qatar)
+Gabriel_Batistuta	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Gabriel_Batistuta	playsFor	Al-Arabi_SC_(Qatar)
+Gabriel_Batistuta	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Paulo_César_Gusmão	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Paulo_César_Gusmão	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Paulo_César_Gusmão	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Paulo_César_Gusmão	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Ahmed_Abdul_Maqsoud	playsFor	Al-Arabi_SC_(Qatar)
+Ahmed_Abdul_Maqsoud	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Ahmed_Abdul_Maqsoud	playsFor	Al-Arabi_SC_(Qatar)
+Ahmed_Abdul_Maqsoud	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Ahmed_Abdul_Maqsoud	playsFor	Al_Ahli_SC_(Doha)
+Ahmed_Abdul_Maqsoud	isAffiliatedTo	Al_Ahli_SC_(Doha)
+Ahmed_Abdul_Maqsoud	playsFor	Al_Ahli_SC_(Doha)
+Ahmed_Abdul_Maqsoud	isAffiliatedTo	Al_Ahli_SC_(Doha)
+Al_Ahli_SC_(Doha)	isLocatedIn	Doha
+Al_Ahli_SC_(Doha)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/Al-Arabi_SC_(Qatar)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Doha
+Al-Arabi_SC_(Qatar)	Doha
+Ahmed_Abdul_Maqsoud	playsFor	Al-Arabi_SC_(Qatar)
+Ahmed_Abdul_Maqsoud	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Ahmed_Abdul_Maqsoud	playsFor	Al-Arabi_SC_(Qatar)
+Ahmed_Abdul_Maqsoud	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Ahmed_Abdul_Maqsoud	playsFor	Al-Arabi_SC_(Qatar)
+Ahmed_Abdul_Maqsoud	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Ahmed_Abdul_Maqsoud	playsFor	Al-Arabi_SC_(Qatar)
+Ahmed_Abdul_Maqsoud	isAffiliatedTo	Al-Arabi_SC_(Qatar)
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+Al-Arabi_SC_(Qatar)	isLocatedIn	Doha
+
+http://dbpedia.org/resource/KF_Besa_Pejë	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Peć
+KF_Besa_Pejë	Peć
+KF_Besa_Pejë	isLocatedIn	Kosovo
+KF_Besa_Pejë	isLocatedIn	Kosovo
+Ali_Kelmendi	isCitizenOf	Kosovo
+Ali_Kelmendi	isCitizenOf	Kosovo
+Ali_Kelmendi	wasBornIn	Peć
+Ali_Kelmendi	wasBornIn	Peć
+
+http://dbpedia.org/resource/KF_Besa_Pejë	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Peć
+KF_Besa_Pejë	Peć
+KF_Besa_Pejë	isLocatedIn	Kosovo
+KF_Besa_Pejë	isLocatedIn	Kosovo
+Peć	isLocatedIn	Kosovo
+Peć	isLocatedIn	Kosovo
+
+http://dbpedia.org/resource/KF_Besa_Pejë	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Peć
+KF_Besa_Pejë	Peć
+Fetim_Kasapi	isAffiliatedTo	KF_Besa_Pejë
+Fetim_Kasapi	playsFor	KF_Besa_Pejë
+Fetim_Kasapi	isAffiliatedTo	KF_Besa_Pejë
+Fetim_Kasapi	playsFor	KF_Besa_Pejë
+Fetim_Kasapi	wasBornIn	Peć
+Fetim_Kasapi	wasBornIn	Peć
+
+http://dbpedia.org/resource/KF_Besa_Pejë	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Peć
+KF_Besa_Pejë	Peć
+Ranko_Popović	playsFor	KF_Besa_Pejë
+Ranko_Popović	isAffiliatedTo	KF_Besa_Pejë
+Ranko_Popović	playsFor	KF_Besa_Pejë
+Ranko_Popović	isAffiliatedTo	KF_Besa_Pejë
+Ranko_Popović	wasBornIn	Peć
+Ranko_Popović	wasBornIn	Peć
+
+http://dbpedia.org/resource/FK_Spartaks_Jūrmala	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Jūrmala
+FK_Spartaks_Jūrmala	Jūrmala
+Aleksandrs_Koļinko	playsFor	FK_Spartaks_Jūrmala
+Aleksandrs_Koļinko	isAffiliatedTo	FK_Spartaks_Jūrmala
+Aleksandrs_Koļinko	playsFor	FK_Spartaks_Jūrmala
+Aleksandrs_Koļinko	isAffiliatedTo	FK_Spartaks_Jūrmala
+Aleksandrs_Koļinko	isCitizenOf	Latvia
+Aleksandrs_Koļinko	isCitizenOf	Latvia
+Jūrmala	isLocatedIn	Latvia
+Jūrmala	isLocatedIn	Latvia
+
+http://dbpedia.org/resource/Zulia_FC	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Maracaibo
+Zulia_FC	Maracaibo
+Juan_Fuenmayor	playsFor	Zulia_FC
+Juan_Fuenmayor	isAffiliatedTo	Zulia_FC
+Juan_Fuenmayor	playsFor	Zulia_FC
+Juan_Fuenmayor	isAffiliatedTo	Zulia_FC
+Juan_Fuenmayor	wasBornIn	Maracaibo
+Juan_Fuenmayor	wasBornIn	Maracaibo
+
+http://dbpedia.org/resource/POFC_Botev_Vratsa	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Vratsa
+POFC_Botev_Vratsa	Vratsa
+Trayan_Trayanov	playsFor	POFC_Botev_Vratsa
+Trayan_Trayanov	isAffiliatedTo	POFC_Botev_Vratsa
+Trayan_Trayanov	playsFor	POFC_Botev_Vratsa
+Trayan_Trayanov	isAffiliatedTo	POFC_Botev_Vratsa
+Trayan_Trayanov	wasBornIn	Vratsa
+Trayan_Trayanov	wasBornIn	Vratsa
+
+http://dbpedia.org/resource/FC_Breitenrain_Bern	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Bern
+FC_Breitenrain_Bern	Bern
+Roman_Friedli	isAffiliatedTo	FC_Breitenrain_Bern
+Roman_Friedli	playsFor	FC_Breitenrain_Bern
+Roman_Friedli	isAffiliatedTo	FC_Breitenrain_Bern
+Roman_Friedli	playsFor	FC_Breitenrain_Bern
+Roman_Friedli	isAffiliatedTo	FC_Breitenrain_Bern
+Roman_Friedli	playsFor	FC_Breitenrain_Bern
+Roman_Friedli	isAffiliatedTo	FC_Breitenrain_Bern
+Roman_Friedli	playsFor	FC_Breitenrain_Bern
+FC_Breitenrain_Bern	isLocatedIn	Bern
+FC_Breitenrain_Bern	isLocatedIn	Bern
+
+http://dbpedia.org/resource/FC_Breitenrain_Bern	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Bern
+FC_Breitenrain_Bern	Bern
+Mirson_Volina	isAffiliatedTo	FC_Breitenrain_Bern
+Mirson_Volina	playsFor	FC_Breitenrain_Bern
+Mirson_Volina	isAffiliatedTo	FC_Breitenrain_Bern
+Mirson_Volina	playsFor	FC_Breitenrain_Bern
+Mirson_Volina	isAffiliatedTo	FC_Breitenrain_Bern
+Mirson_Volina	playsFor	FC_Breitenrain_Bern
+Mirson_Volina	isAffiliatedTo	FC_Breitenrain_Bern
+Mirson_Volina	playsFor	FC_Breitenrain_Bern
+FC_Breitenrain_Bern	isLocatedIn	Bern
+FC_Breitenrain_Bern	isLocatedIn	Bern
+
+http://dbpedia.org/resource/FC_Breitenrain_Bern	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Bern
+FC_Breitenrain_Bern	Bern
+Michael_Siegfried	isAffiliatedTo	FC_Breitenrain_Bern
+Michael_Siegfried	playsFor	FC_Breitenrain_Bern
+Michael_Siegfried	isAffiliatedTo	FC_Breitenrain_Bern
+Michael_Siegfried	playsFor	FC_Breitenrain_Bern
+Michael_Siegfried	isAffiliatedTo	FC_Breitenrain_Bern
+Michael_Siegfried	playsFor	FC_Breitenrain_Bern
+Michael_Siegfried	isAffiliatedTo	FC_Breitenrain_Bern
+Michael_Siegfried	playsFor	FC_Breitenrain_Bern
+FC_Breitenrain_Bern	isLocatedIn	Bern
+FC_Breitenrain_Bern	isLocatedIn	Bern
+
+http://dbpedia.org/resource/FC_Breitenrain_Bern	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Bern
+FC_Breitenrain_Bern	Bern
+FC_Breitenrain_Bern	isLocatedIn	Bern
+FC_Breitenrain_Bern	isLocatedIn	Bern
+
+http://dbpedia.org/resource/Mighty_Jets_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Jos
+Mighty_Jets_F.C.	Jos
+Ajibade_Omolade	isAffiliatedTo	Mighty_Jets_F.C.
+Ajibade_Omolade	playsFor	Mighty_Jets_F.C.
+Ajibade_Omolade	isAffiliatedTo	Mighty_Jets_F.C.
+Ajibade_Omolade	playsFor	Mighty_Jets_F.C.
+Ajibade_Omolade	playsFor	Plateau_United_F.C.
+Ajibade_Omolade	isAffiliatedTo	Plateau_United_F.C.
+Ajibade_Omolade	playsFor	Plateau_United_F.C.
+Ajibade_Omolade	isAffiliatedTo	Plateau_United_F.C.
+Plateau_United_F.C.	isLocatedIn	Jos
+Plateau_United_F.C.	isLocatedIn	Jos
+
+http://dbpedia.org/resource/Kaizer_Chiefs_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Soweto
+Kaizer_Chiefs_F.C.	Soweto
+Eliakim_Khumalo	isAffiliatedTo	Kaizer_Chiefs_F.C.
+Eliakim_Khumalo	playsFor	Kaizer_Chiefs_F.C.
+Eliakim_Khumalo	isAffiliatedTo	Kaizer_Chiefs_F.C.
+Eliakim_Khumalo	playsFor	Kaizer_Chiefs_F.C.
+Eliakim_Khumalo	diedIn	Soweto
+Eliakim_Khumalo	diedIn	Soweto
+
+http://dbpedia.org/resource/Kaizer_Chiefs_F.C.	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Soweto
+Kaizer_Chiefs_F.C.	Soweto
+Reneilwe_Letsholonyane	isAffiliatedTo	Kaizer_Chiefs_F.C.
+Reneilwe_Letsholonyane	playsFor	Kaizer_Chiefs_F.C.
+Reneilwe_Letsholonyane	isAffiliatedTo	Kaizer_Chiefs_F.C.
+Reneilwe_Letsholonyane	playsFor	Kaizer_Chiefs_F.C.
+Reneilwe_Letsholonyane	wasBornIn	Soweto
+Reneilwe_Letsholonyane	wasBornIn	Soweto
+
+http://dbpedia.org/resource/A.S.D._Junior_Biellese_Libertas	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Biella
+A.S.D._Junior_Biellese_Libertas	Biella
+Armando_Cavazzuti	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Armando_Cavazzuti	playsFor	A.S.D._Junior_Biellese_Libertas
+Armando_Cavazzuti	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Armando_Cavazzuti	playsFor	A.S.D._Junior_Biellese_Libertas
+Armando_Cavazzuti	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Armando_Cavazzuti	playsFor	A.S.D._Junior_Biellese_Libertas
+Armando_Cavazzuti	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Armando_Cavazzuti	playsFor	A.S.D._Junior_Biellese_Libertas
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+
+http://dbpedia.org/resource/A.S.D._Junior_Biellese_Libertas	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Biella
+A.S.D._Junior_Biellese_Libertas	Biella
+Simone_Malatesta	playsFor	A.S.D._Junior_Biellese_Libertas
+Simone_Malatesta	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Simone_Malatesta	playsFor	A.S.D._Junior_Biellese_Libertas
+Simone_Malatesta	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Simone_Malatesta	playsFor	A.S.D._Junior_Biellese_Libertas
+Simone_Malatesta	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Simone_Malatesta	playsFor	A.S.D._Junior_Biellese_Libertas
+Simone_Malatesta	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+
+http://dbpedia.org/resource/A.S.D._Junior_Biellese_Libertas	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Biella
+A.S.D._Junior_Biellese_Libertas	Biella
+Giovanni_Vecchina	playsFor	A.S.D._Junior_Biellese_Libertas
+Giovanni_Vecchina	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Giovanni_Vecchina	playsFor	A.S.D._Junior_Biellese_Libertas
+Giovanni_Vecchina	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Giovanni_Vecchina	playsFor	A.S.D._Junior_Biellese_Libertas
+Giovanni_Vecchina	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Giovanni_Vecchina	playsFor	A.S.D._Junior_Biellese_Libertas
+Giovanni_Vecchina	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+
+http://dbpedia.org/resource/A.S.D._Junior_Biellese_Libertas	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Biella
+A.S.D._Junior_Biellese_Libertas	Biella
+Benito_Boldi	playsFor	A.S.D._Junior_Biellese_Libertas
+Benito_Boldi	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Benito_Boldi	playsFor	A.S.D._Junior_Biellese_Libertas
+Benito_Boldi	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Benito_Boldi	playsFor	A.S.D._Junior_Biellese_Libertas
+Benito_Boldi	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Benito_Boldi	playsFor	A.S.D._Junior_Biellese_Libertas
+Benito_Boldi	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+
+http://dbpedia.org/resource/A.S.D._Junior_Biellese_Libertas	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Biella
+A.S.D._Junior_Biellese_Libertas	Biella
+Francesco_Stacchino	playsFor	A.S.D._Junior_Biellese_Libertas
+Francesco_Stacchino	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Francesco_Stacchino	playsFor	A.S.D._Junior_Biellese_Libertas
+Francesco_Stacchino	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Francesco_Stacchino	playsFor	A.S.D._Junior_Biellese_Libertas
+Francesco_Stacchino	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Francesco_Stacchino	playsFor	A.S.D._Junior_Biellese_Libertas
+Francesco_Stacchino	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+
+http://dbpedia.org/resource/A.S.D._Junior_Biellese_Libertas	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Biella
+A.S.D._Junior_Biellese_Libertas	Biella
+Roberto_Bortolotto	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Roberto_Bortolotto	playsFor	A.S.D._Junior_Biellese_Libertas
+Roberto_Bortolotto	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Roberto_Bortolotto	playsFor	A.S.D._Junior_Biellese_Libertas
+Roberto_Bortolotto	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Roberto_Bortolotto	playsFor	A.S.D._Junior_Biellese_Libertas
+Roberto_Bortolotto	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Roberto_Bortolotto	playsFor	A.S.D._Junior_Biellese_Libertas
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+
+http://dbpedia.org/resource/A.S.D._Junior_Biellese_Libertas	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Biella
+A.S.D._Junior_Biellese_Libertas	Biella
+Bruno_Mazzia	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Bruno_Mazzia	playsFor	A.S.D._Junior_Biellese_Libertas
+Bruno_Mazzia	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Bruno_Mazzia	playsFor	A.S.D._Junior_Biellese_Libertas
+Bruno_Mazzia	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Bruno_Mazzia	playsFor	A.S.D._Junior_Biellese_Libertas
+Bruno_Mazzia	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Bruno_Mazzia	playsFor	A.S.D._Junior_Biellese_Libertas
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+
+http://dbpedia.org/resource/A.S.D._Junior_Biellese_Libertas	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Biella
+A.S.D._Junior_Biellese_Libertas	Biella
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+
+http://dbpedia.org/resource/A.S.D._Junior_Biellese_Libertas	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Biella
+A.S.D._Junior_Biellese_Libertas	Biella
+Riccardo_Sogliano	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Riccardo_Sogliano	playsFor	A.S.D._Junior_Biellese_Libertas
+Riccardo_Sogliano	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Riccardo_Sogliano	playsFor	A.S.D._Junior_Biellese_Libertas
+Riccardo_Sogliano	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Riccardo_Sogliano	playsFor	A.S.D._Junior_Biellese_Libertas
+Riccardo_Sogliano	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Riccardo_Sogliano	playsFor	A.S.D._Junior_Biellese_Libertas
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+
+http://dbpedia.org/resource/A.S.D._Junior_Biellese_Libertas	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Biella
+A.S.D._Junior_Biellese_Libertas	Biella
+Eusebio_Castigliano	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Eusebio_Castigliano	playsFor	A.S.D._Junior_Biellese_Libertas
+Eusebio_Castigliano	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Eusebio_Castigliano	playsFor	A.S.D._Junior_Biellese_Libertas
+Eusebio_Castigliano	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Eusebio_Castigliano	playsFor	A.S.D._Junior_Biellese_Libertas
+Eusebio_Castigliano	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Eusebio_Castigliano	playsFor	A.S.D._Junior_Biellese_Libertas
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+
+http://dbpedia.org/resource/A.S.D._Junior_Biellese_Libertas	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Biella
+A.S.D._Junior_Biellese_Libertas	Biella
+Marco_Varaldi	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Marco_Varaldi	playsFor	A.S.D._Junior_Biellese_Libertas
+Marco_Varaldi	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Marco_Varaldi	playsFor	A.S.D._Junior_Biellese_Libertas
+Marco_Varaldi	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Marco_Varaldi	playsFor	A.S.D._Junior_Biellese_Libertas
+Marco_Varaldi	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Marco_Varaldi	playsFor	A.S.D._Junior_Biellese_Libertas
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+
+http://dbpedia.org/resource/A.S.D._Junior_Biellese_Libertas	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Biella
+A.S.D._Junior_Biellese_Libertas	Biella
+Christian_Altinier	playsFor	A.S.D._Junior_Biellese_Libertas
+Christian_Altinier	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Christian_Altinier	playsFor	A.S.D._Junior_Biellese_Libertas
+Christian_Altinier	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Christian_Altinier	playsFor	A.S.D._Junior_Biellese_Libertas
+Christian_Altinier	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Christian_Altinier	playsFor	A.S.D._Junior_Biellese_Libertas
+Christian_Altinier	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+
+http://dbpedia.org/resource/A.S.D._Junior_Biellese_Libertas	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Biella
+A.S.D._Junior_Biellese_Libertas	Biella
+Abdelkader_Ghezzal	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Abdelkader_Ghezzal	playsFor	A.S.D._Junior_Biellese_Libertas
+Abdelkader_Ghezzal	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Abdelkader_Ghezzal	playsFor	A.S.D._Junior_Biellese_Libertas
+Abdelkader_Ghezzal	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Abdelkader_Ghezzal	playsFor	A.S.D._Junior_Biellese_Libertas
+Abdelkader_Ghezzal	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Abdelkader_Ghezzal	playsFor	A.S.D._Junior_Biellese_Libertas
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+
+http://dbpedia.org/resource/A.S.D._Junior_Biellese_Libertas	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Biella
+A.S.D._Junior_Biellese_Libertas	Biella
+Emil_Zubin	playsFor	A.S.D._Junior_Biellese_Libertas
+Emil_Zubin	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Emil_Zubin	playsFor	A.S.D._Junior_Biellese_Libertas
+Emil_Zubin	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Emil_Zubin	playsFor	A.S.D._Junior_Biellese_Libertas
+Emil_Zubin	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+Emil_Zubin	playsFor	A.S.D._Junior_Biellese_Libertas
+Emil_Zubin	isAffiliatedTo	A.S.D._Junior_Biellese_Libertas
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+A.S.D._Junior_Biellese_Libertas	isLocatedIn	Biella
+
+http://dbpedia.org/resource/F.C._Vizela	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Portugal
+F.C._Vizela	Portugal
+Tiago_Costa	playsFor	F.C._Vizela
+Tiago_Costa	isAffiliatedTo	F.C._Vizela
+Tiago_Costa	playsFor	F.C._Vizela
+Tiago_Costa	isAffiliatedTo	F.C._Vizela
+Tiago_Costa	isCitizenOf	Portugal
+Tiago_Costa	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Hà_Nội_F.C._(1956)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Vietnam
+Hà_Nội_F.C._(1956)	Vietnam
+Lê_Văn_Tân	isAffiliatedTo	Hà_Nội_F.C._(1956)
+Lê_Văn_Tân	playsFor	Hà_Nội_F.C._(1956)
+Lê_Văn_Tân	isAffiliatedTo	Hà_Nội_F.C._(1956)
+Lê_Văn_Tân	playsFor	Hà_Nội_F.C._(1956)
+Lê_Văn_Tân	isAffiliatedTo	Hà_Nội_F.C._(1956)
+Lê_Văn_Tân	playsFor	Hà_Nội_F.C._(1956)
+Lê_Văn_Tân	isAffiliatedTo	Hà_Nội_F.C._(1956)
+Lê_Văn_Tân	playsFor	Hà_Nội_F.C._(1956)
+Hà_Nội_F.C._(1956)	isLocatedIn	Vietnam
+Hà_Nội_F.C._(1956)	isLocatedIn	Vietnam
+
+http://dbpedia.org/resource/Hà_Nội_F.C._(1956)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Vietnam
+Hà_Nội_F.C._(1956)	Vietnam
+Lê_Văn_Tân	isAffiliatedTo	Hà_Nội_F.C._(1956)
+Lê_Văn_Tân	playsFor	Hà_Nội_F.C._(1956)
+Lê_Văn_Tân	isAffiliatedTo	Hà_Nội_F.C._(1956)
+Lê_Văn_Tân	playsFor	Hà_Nội_F.C._(1956)
+Lê_Văn_Tân	isCitizenOf	Vietnam
+Lê_Văn_Tân	isCitizenOf	Vietnam
+
+http://dbpedia.org/resource/Hà_Nội_F.C._(1956)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Vietnam
+Hà_Nội_F.C._(1956)	Vietnam
+Jonathan_Quartey	isAffiliatedTo	Hà_Nội_F.C._(1956)
+Jonathan_Quartey	playsFor	Hà_Nội_F.C._(1956)
+Jonathan_Quartey	isAffiliatedTo	Hà_Nội_F.C._(1956)
+Jonathan_Quartey	playsFor	Hà_Nội_F.C._(1956)
+Jonathan_Quartey	isAffiliatedTo	Hà_Nội_F.C._(1956)
+Jonathan_Quartey	playsFor	Hà_Nội_F.C._(1956)
+Jonathan_Quartey	isAffiliatedTo	Hà_Nội_F.C._(1956)
+Jonathan_Quartey	playsFor	Hà_Nội_F.C._(1956)
+Hà_Nội_F.C._(1956)	isLocatedIn	Vietnam
+Hà_Nội_F.C._(1956)	isLocatedIn	Vietnam
+
+http://dbpedia.org/resource/Hà_Nội_F.C._(1956)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Vietnam
+Hà_Nội_F.C._(1956)	Vietnam
+Hà_Nội_F.C._(1956)	isLocatedIn	Vietnam
+Hà_Nội_F.C._(1956)	isLocatedIn	Vietnam
+
+http://dbpedia.org/resource/Hà_Nội_F.C._(1956)	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Vietnam
+Hà_Nội_F.C._(1956)	Vietnam
+Joël_Tchami	isAffiliatedTo	Hà_Nội_F.C._(1956)
+Joël_Tchami	isAffiliatedTo	Hà_Nội_F.C._(1956)
+Joël_Tchami	isAffiliatedTo	Hà_Nội_F.C._(1956)
+Joël_Tchami	isAffiliatedTo	Hà_Nội_F.C._(1956)
+Hà_Nội_F.C._(1956)	isLocatedIn	Vietnam
+Hà_Nội_F.C._(1956)	isLocatedIn	Vietnam
+
+http://dbpedia.org/resource/Verdes_FC	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Belize
+Verdes_FC	Belize
+Trevor_Lennen	playsFor	Verdes_FC
+Trevor_Lennen	isAffiliatedTo	Verdes_FC
+Trevor_Lennen	playsFor	Verdes_FC
+Trevor_Lennen	isAffiliatedTo	Verdes_FC
+Trevor_Lennen	isCitizenOf	Belize
+Trevor_Lennen	wasBornIn	Belize
+Trevor_Lennen	isCitizenOf	Belize
+Trevor_Lennen	wasBornIn	Belize
+
+http://dbpedia.org/resource/Verdes_FC	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Belize
+Verdes_FC	Belize
+Daniel_Jimenez_(Belizean_footballer)	playsFor	Verdes_FC
+Daniel_Jimenez_(Belizean_footballer)	isAffiliatedTo	Verdes_FC
+Daniel_Jimenez_(Belizean_footballer)	playsFor	Verdes_FC
+Daniel_Jimenez_(Belizean_footballer)	isAffiliatedTo	Verdes_FC
+Daniel_Jimenez_(Belizean_footballer)	isAffiliatedTo	Police_United_FC_(Belize)
+Daniel_Jimenez_(Belizean_footballer)	playsFor	Police_United_FC_(Belize)
+Daniel_Jimenez_(Belizean_footballer)	isAffiliatedTo	Police_United_FC_(Belize)
+Daniel_Jimenez_(Belizean_footballer)	playsFor	Police_United_FC_(Belize)
+Police_United_FC_(Belize)	isLocatedIn	Belize
+Police_United_FC_(Belize)	isLocatedIn	Belize
+
+http://dbpedia.org/resource/Verdes_FC	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Belize
+Verdes_FC	Belize
+Daniel_Jimenez_(Belizean_footballer)	playsFor	Verdes_FC
+Daniel_Jimenez_(Belizean_footballer)	isAffiliatedTo	Verdes_FC
+Daniel_Jimenez_(Belizean_footballer)	playsFor	Verdes_FC
+Daniel_Jimenez_(Belizean_footballer)	isAffiliatedTo	Verdes_FC
+Daniel_Jimenez_(Belizean_footballer)	isCitizenOf	Belize
+Daniel_Jimenez_(Belizean_footballer)	isCitizenOf	Belize
+
+http://dbpedia.org/resource/Verdes_FC	http://dbpedia.org/ontology/ground	http://dbpedia.org/resource/Belize
+Verdes_FC	Belize
+Deon_McCaulay	playsFor	Verdes_FC
+Deon_McCaulay	isAffiliatedTo	Verdes_FC
+Deon_McCaulay	playsFor	Verdes_FC
+Deon_McCaulay	isAffiliatedTo	Verdes_FC
+Deon_McCaulay	isCitizenOf	Belize
+Deon_McCaulay	isCitizenOf	Belize
+

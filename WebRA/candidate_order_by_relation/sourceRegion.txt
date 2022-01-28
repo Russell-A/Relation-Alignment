@@ -1,0 +1,481 @@
+http://dbpedia.org/resource/North_Fork_American_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/El_Dorado_County,_California
+North_Fork_American_River	El_Dorado_County,_California
+North_Fork_American_River	isLocatedIn	Placer_County,_California
+North_Fork_American_River	isLocatedIn	Placer_County,_California
+North_Fork_American_River	isLocatedIn	Placer_County,_California
+North_Fork_American_River	isLocatedIn	Placer_County,_California
+North_Fork_American_River	isLocatedIn	El_Dorado_County,_California
+North_Fork_American_River	isLocatedIn	El_Dorado_County,_California
+
+http://dbpedia.org/resource/North_Fork_American_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/El_Dorado_County,_California
+North_Fork_American_River	El_Dorado_County,_California
+North_Fork_American_River	isLocatedIn	Placer_County,_California
+North_Fork_American_River	isLocatedIn	Placer_County,_California
+Folsom_Lake_State_Recreation_Area	isLocatedIn	Placer_County,_California
+Folsom_Lake_State_Recreation_Area	isLocatedIn	Placer_County,_California
+Folsom_Lake_State_Recreation_Area	isLocatedIn	El_Dorado_County,_California
+Folsom_Lake_State_Recreation_Area	isLocatedIn	El_Dorado_County,_California
+
+http://dbpedia.org/resource/North_Fork_American_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/El_Dorado_County,_California
+North_Fork_American_River	El_Dorado_County,_California
+North_Fork_American_River	isLocatedIn	Placer_County,_California
+North_Fork_American_River	isLocatedIn	Placer_County,_California
+Truckee_River	isLocatedIn	Placer_County,_California
+Truckee_River	isLocatedIn	Placer_County,_California
+Truckee_River	isLocatedIn	El_Dorado_County,_California
+Truckee_River	isLocatedIn	El_Dorado_County,_California
+
+http://dbpedia.org/resource/North_Fork_American_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/El_Dorado_County,_California
+North_Fork_American_River	El_Dorado_County,_California
+North_Fork_American_River	isLocatedIn	Placer_County,_California
+North_Fork_American_River	isLocatedIn	Placer_County,_California
+Eldorado_National_Forest	isLocatedIn	Placer_County,_California
+Eldorado_National_Forest	isLocatedIn	Placer_County,_California
+Eldorado_National_Forest	isLocatedIn	El_Dorado_County,_California
+Eldorado_National_Forest	isLocatedIn	El_Dorado_County,_California
+
+http://dbpedia.org/resource/North_Fork_American_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/El_Dorado_County,_California
+North_Fork_American_River	El_Dorado_County,_California
+North_Fork_American_River	isLocatedIn	Placer_County,_California
+North_Fork_American_River	isLocatedIn	Placer_County,_California
+Placer_County,_California	isLocatedIn	Sacramento_metropolitan_area
+Placer_County,_California	isLocatedIn	Sacramento_metropolitan_area
+El_Dorado_County,_California	isLocatedIn	Sacramento_metropolitan_area
+El_Dorado_County,_California	isLocatedIn	Sacramento_metropolitan_area
+
+http://dbpedia.org/resource/North_Fork_American_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/El_Dorado_County,_California
+North_Fork_American_River	El_Dorado_County,_California
+North_Fork_American_River	isLocatedIn	Placer_County,_California
+North_Fork_American_River	isLocatedIn	Placer_County,_California
+American_River	isLocatedIn	Placer_County,_California
+American_River	isLocatedIn	Placer_County,_California
+American_River	isLocatedIn	El_Dorado_County,_California
+American_River	isLocatedIn	El_Dorado_County,_California
+
+http://dbpedia.org/resource/North_Fork_American_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/El_Dorado_County,_California
+North_Fork_American_River	El_Dorado_County,_California
+North_Fork_American_River	isLocatedIn	Northern_California
+North_Fork_American_River	isLocatedIn	Northern_California
+American_River	isLocatedIn	Northern_California
+American_River	isLocatedIn	Northern_California
+American_River	isLocatedIn	El_Dorado_County,_California
+American_River	isLocatedIn	El_Dorado_County,_California
+
+http://dbpedia.org/resource/North_Fork_American_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/El_Dorado_County,_California
+North_Fork_American_River	El_Dorado_County,_California
+North_Fork_American_River	isLocatedIn	El_Dorado_County,_California
+North_Fork_American_River	isLocatedIn	El_Dorado_County,_California
+
+http://dbpedia.org/resource/Breakneck_Creek	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Butler_County,_Pennsylvania
+Breakneck_Creek	Butler_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Pennsylvania
+Breakneck_Creek	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Butler_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Butler_County,_Pennsylvania
+
+http://dbpedia.org/resource/Breakneck_Creek	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Butler_County,_Pennsylvania
+Breakneck_Creek	Butler_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Pennsylvania
+Breakneck_Creek	isLocatedIn	Pennsylvania
+Cranberry_Township,_Butler_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Cranberry_Township,_Butler_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Cranberry_Township,_Butler_County,_Pennsylvania	isLocatedIn	Butler_County,_Pennsylvania
+Cranberry_Township,_Butler_County,_Pennsylvania	isLocatedIn	Butler_County,_Pennsylvania
+
+http://dbpedia.org/resource/Breakneck_Creek	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Butler_County,_Pennsylvania
+Breakneck_Creek	Butler_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Pennsylvania
+Breakneck_Creek	isLocatedIn	Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Pennsylvania
+Butler_County,_Pennsylvania	isLocatedIn	Butler,_Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Butler_County,_Pennsylvania
+Butler_County,_Pennsylvania	isLocatedIn	Butler,_Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Butler_County,_Pennsylvania
+
+http://dbpedia.org/resource/Breakneck_Creek	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Butler_County,_Pennsylvania
+Breakneck_Creek	Butler_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Butler_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Butler_County,_Pennsylvania
+
+http://dbpedia.org/resource/Breakneck_Creek	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Butler_County,_Pennsylvania
+Breakneck_Creek	Butler_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Allegheny_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Allegheny_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Butler_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Butler_County,_Pennsylvania
+
+http://dbpedia.org/resource/Breakneck_Creek	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Butler_County,_Pennsylvania
+Breakneck_Creek	Butler_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Allegheny_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Allegheny_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Allegheny_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Allegheny_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Butler_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Butler_County,_Pennsylvania
+
+http://dbpedia.org/resource/San_Antonio_Creek_(San_Bernardino_County)	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Los_Angeles_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	Los_Angeles_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Los_Angeles_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Los_Angeles_County,_California
+
+http://dbpedia.org/resource/San_Antonio_Creek_(San_Bernardino_County)	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Los_Angeles_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	Los_Angeles_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Southern_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Southern_California
+Los_Angeles_County,_California	isLocatedIn	Southern_California
+Southern_California	isLocatedIn	Los_Angeles_County,_California
+Los_Angeles_County,_California	isLocatedIn	Southern_California
+Southern_California	isLocatedIn	Los_Angeles_County,_California
+
+http://dbpedia.org/resource/San_Antonio_Creek_(San_Bernardino_County)	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Los_Angeles_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	Los_Angeles_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Southern_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Southern_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Southern_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Southern_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Los_Angeles_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Los_Angeles_County,_California
+
+http://dbpedia.org/resource/Lehigh_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Wayne_County,_Pennsylvania
+Lehigh_River	Wayne_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Carbon_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Carbon_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Carbon_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Carbon_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Wayne_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Wayne_County,_Pennsylvania
+
+http://dbpedia.org/resource/Lehigh_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Wayne_County,_Pennsylvania
+Lehigh_River	Wayne_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Pennsylvania
+Lehigh_River	isLocatedIn	Pennsylvania
+Berlin_Township,_Wayne_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Berlin_Township,_Wayne_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Berlin_Township,_Wayne_County,_Pennsylvania	isLocatedIn	Wayne_County,_Pennsylvania
+Berlin_Township,_Wayne_County,_Pennsylvania	isLocatedIn	Wayne_County,_Pennsylvania
+
+http://dbpedia.org/resource/Lehigh_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Wayne_County,_Pennsylvania
+Lehigh_River	Wayne_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Pennsylvania
+Lehigh_River	isLocatedIn	Pennsylvania
+Damascus_Township,_Wayne_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Damascus_Township,_Wayne_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Damascus_Township,_Wayne_County,_Pennsylvania	isLocatedIn	Wayne_County,_Pennsylvania
+Damascus_Township,_Wayne_County,_Pennsylvania	isLocatedIn	Wayne_County,_Pennsylvania
+
+http://dbpedia.org/resource/Lehigh_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Wayne_County,_Pennsylvania
+Lehigh_River	Wayne_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Wayne_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Wayne_County,_Pennsylvania
+
+http://dbpedia.org/resource/Lehigh_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Wayne_County,_Pennsylvania
+Lehigh_River	Wayne_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Northampton_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Northampton_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Northampton_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Northampton_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Wayne_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Wayne_County,_Pennsylvania
+
+http://dbpedia.org/resource/Lehigh_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Wayne_County,_Pennsylvania
+Lehigh_River	Wayne_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Monroe_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Monroe_County,_Pennsylvania
+Delaware_River	isLocatedIn	Monroe_County,_Pennsylvania
+Delaware_River	isLocatedIn	Monroe_County,_Pennsylvania
+Delaware_River	isLocatedIn	Wayne_County,_Pennsylvania
+Delaware_River	isLocatedIn	Wayne_County,_Pennsylvania
+
+http://dbpedia.org/resource/Lehigh_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Wayne_County,_Pennsylvania
+Lehigh_River	Wayne_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Monroe_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Monroe_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Monroe_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Monroe_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Wayne_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Wayne_County,_Pennsylvania
+
+http://dbpedia.org/resource/Lehigh_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Wayne_County,_Pennsylvania
+Lehigh_River	Wayne_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Lackawanna_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Lackawanna_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Lackawanna_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Lackawanna_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Wayne_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Wayne_County,_Pennsylvania
+
+http://dbpedia.org/resource/River_Shannon	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/County_Cavan
+River_Shannon	County_Cavan
+River_Shannon	isLocatedIn	County_Longford
+River_Shannon	isLocatedIn	County_Longford
+River_Shannon	isLocatedIn	County_Longford
+River_Shannon	isLocatedIn	County_Longford
+River_Shannon	isLocatedIn	County_Cavan
+River_Shannon	isLocatedIn	County_Cavan
+
+http://dbpedia.org/resource/River_Shannon	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/County_Cavan
+River_Shannon	County_Cavan
+River_Shannon	isLocatedIn	County_Cavan
+River_Shannon	isLocatedIn	County_Cavan
+
+http://dbpedia.org/resource/River_Shannon	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/County_Cavan
+River_Shannon	County_Cavan
+River_Shannon	isLocatedIn	County_Tipperary
+River_Shannon	isLocatedIn	County_Tipperary
+River_Shannon	isLocatedIn	County_Tipperary
+River_Shannon	isLocatedIn	County_Tipperary
+River_Shannon	isLocatedIn	County_Cavan
+River_Shannon	isLocatedIn	County_Cavan
+
+http://dbpedia.org/resource/Slippery_Rock_Creek	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Butler_County,_Pennsylvania
+Slippery_Rock_Creek	Butler_County,_Pennsylvania
+Slippery_Rock_Creek	isLocatedIn	Butler_County,_Pennsylvania
+Slippery_Rock_Creek	isLocatedIn	Butler_County,_Pennsylvania
+
+http://dbpedia.org/resource/Slippery_Rock_Creek	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Butler_County,_Pennsylvania
+Slippery_Rock_Creek	Butler_County,_Pennsylvania
+Slippery_Rock_Creek	isLocatedIn	Pennsylvania
+Slippery_Rock_Creek	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Butler_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Butler_County,_Pennsylvania
+
+http://dbpedia.org/resource/Slippery_Rock_Creek	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Butler_County,_Pennsylvania
+Slippery_Rock_Creek	Butler_County,_Pennsylvania
+Slippery_Rock_Creek	isLocatedIn	Pennsylvania
+Slippery_Rock_Creek	isLocatedIn	Pennsylvania
+Cranberry_Township,_Butler_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Cranberry_Township,_Butler_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Cranberry_Township,_Butler_County,_Pennsylvania	isLocatedIn	Butler_County,_Pennsylvania
+Cranberry_Township,_Butler_County,_Pennsylvania	isLocatedIn	Butler_County,_Pennsylvania
+
+http://dbpedia.org/resource/Slippery_Rock_Creek	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Butler_County,_Pennsylvania
+Slippery_Rock_Creek	Butler_County,_Pennsylvania
+Slippery_Rock_Creek	isLocatedIn	Pennsylvania
+Slippery_Rock_Creek	isLocatedIn	Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Pennsylvania
+Butler_County,_Pennsylvania	isLocatedIn	Butler,_Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Butler_County,_Pennsylvania
+Butler_County,_Pennsylvania	isLocatedIn	Butler,_Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Butler_County,_Pennsylvania
+
+http://dbpedia.org/resource/Roanoke_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Virginia
+Roanoke_River	Virginia
+Roanoke_River	isLocatedIn	North_Carolina
+Roanoke_River	isLocatedIn	North_Carolina
+Southern_theater_of_the_American_Revolutionary_War	happenedIn	North_Carolina
+Southern_theater_of_the_American_Revolutionary_War	happenedIn	North_Carolina
+Southern_theater_of_the_American_Revolutionary_War	happenedIn	Virginia
+Southern_theater_of_the_American_Revolutionary_War	happenedIn	Virginia
+
+http://dbpedia.org/resource/Roanoke_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Virginia
+Roanoke_River	Virginia
+Roanoke_River_National_Wildlife_Refuge	isLocatedIn	Roanoke_River
+Roanoke_River_National_Wildlife_Refuge	isLocatedIn	Roanoke_River
+Roanoke_River_National_Wildlife_Refuge	isLocatedIn	Roanoke_River
+Roanoke_River_National_Wildlife_Refuge	isLocatedIn	Roanoke_River
+Roanoke_River	isLocatedIn	Virginia
+Roanoke_River	isLocatedIn	Virginia
+
+http://dbpedia.org/resource/Roanoke_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Virginia
+Roanoke_River	Virginia
+Roanoke_River	isLocatedIn	Virginia
+Roanoke_River	isLocatedIn	Virginia
+
+http://dbpedia.org/resource/American_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Placer_County,_California
+American_River	Placer_County,_California
+American_River	isLocatedIn	Sacramento_County,_California
+American_River	isLocatedIn	Sacramento_County,_California
+Sacramento_County,_California	isLocatedIn	Sacramento_metropolitan_area
+Sacramento_County,_California	isLocatedIn	Sacramento_metropolitan_area
+Placer_County,_California	isLocatedIn	Sacramento_metropolitan_area
+Placer_County,_California	isLocatedIn	Sacramento_metropolitan_area
+
+http://dbpedia.org/resource/American_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Placer_County,_California
+American_River	Placer_County,_California
+American_River	isLocatedIn	El_Dorado_County,_California
+American_River	isLocatedIn	El_Dorado_County,_California
+El_Dorado_County,_California	isLocatedIn	Sacramento_metropolitan_area
+El_Dorado_County,_California	isLocatedIn	Sacramento_metropolitan_area
+Placer_County,_California	isLocatedIn	Sacramento_metropolitan_area
+Placer_County,_California	isLocatedIn	Sacramento_metropolitan_area
+
+http://dbpedia.org/resource/American_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Placer_County,_California
+American_River	Placer_County,_California
+American_River	isLocatedIn	Placer_County,_California
+American_River	isLocatedIn	Placer_County,_California
+
+http://dbpedia.org/resource/American_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Placer_County,_California
+American_River	Placer_County,_California
+American_River	isLocatedIn	Northern_California
+American_River	isLocatedIn	Northern_California
+American_River	isLocatedIn	Northern_California
+American_River	isLocatedIn	Northern_California
+American_River	isLocatedIn	Placer_County,_California
+American_River	isLocatedIn	Placer_County,_California
+
+http://dbpedia.org/resource/River_Suir	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/County_Tipperary
+River_Suir	County_Tipperary
+River_Suir	isLocatedIn	County_Tipperary
+River_Suir	isLocatedIn	County_Tipperary
+
+http://dbpedia.org/resource/River_Suir	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/County_Tipperary
+River_Suir	County_Tipperary
+River_Suir	isLocatedIn	County_Waterford
+River_Suir	isLocatedIn	County_Waterford
+County_Waterford	isLocatedIn	Munster
+Munster	isLocatedIn	County_Waterford
+County_Waterford	isLocatedIn	Munster
+Munster	isLocatedIn	County_Waterford
+Munster	isLocatedIn	County_Tipperary
+County_Tipperary	isLocatedIn	Munster
+Munster	isLocatedIn	County_Tipperary
+County_Tipperary	isLocatedIn	Munster
+
+http://dbpedia.org/resource/River_Suir	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/County_Tipperary
+River_Suir	County_Tipperary
+River_Suir	isLocatedIn	County_Kilkenny
+River_Suir	isLocatedIn	County_Kilkenny
+River_Suir	isLocatedIn	County_Kilkenny
+River_Suir	isLocatedIn	County_Kilkenny
+River_Suir	isLocatedIn	County_Tipperary
+River_Suir	isLocatedIn	County_Tipperary
+
+http://dbpedia.org/resource/River_Suir	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/County_Tipperary
+River_Suir	County_Tipperary
+Newcastle,_County_Tipperary	isLocatedIn	River_Suir
+Newcastle,_County_Tipperary	isLocatedIn	River_Suir
+Newcastle,_County_Tipperary	isLocatedIn	Clonmel
+Newcastle,_County_Tipperary	isLocatedIn	Clonmel
+County_Tipperary	hasCapital	Clonmel
+Clonmel	isLocatedIn	County_Tipperary
+County_Tipperary	isLocatedIn	Clonmel
+County_Tipperary	hasCapital	Clonmel
+Clonmel	isLocatedIn	County_Tipperary
+County_Tipperary	isLocatedIn	Clonmel
+
+http://dbpedia.org/resource/River_Suir	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/County_Tipperary
+River_Suir	County_Tipperary
+Newcastle,_County_Tipperary	isLocatedIn	River_Suir
+Newcastle,_County_Tipperary	isLocatedIn	River_Suir
+Newcastle,_County_Tipperary	isLocatedIn	County_Tipperary
+Newcastle,_County_Tipperary	isLocatedIn	County_Tipperary
+
+http://dbpedia.org/resource/River_Suir	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/County_Tipperary
+River_Suir	County_Tipperary
+Newcastle,_County_Tipperary	isLocatedIn	River_Suir
+Newcastle,_County_Tipperary	isLocatedIn	River_Suir
+Newcastle,_County_Tipperary	isLocatedIn	Munster
+Newcastle,_County_Tipperary	isLocatedIn	Munster
+Munster	isLocatedIn	County_Tipperary
+County_Tipperary	isLocatedIn	Munster
+Munster	isLocatedIn	County_Tipperary
+County_Tipperary	isLocatedIn	Munster
+
+http://dbpedia.org/resource/River_Suir	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/County_Tipperary
+River_Suir	County_Tipperary
+Newcastle,_County_Tipperary	isLocatedIn	River_Suir
+Newcastle,_County_Tipperary	isLocatedIn	River_Suir
+Newcastle,_County_Tipperary	isLocatedIn	River_Suir
+Newcastle,_County_Tipperary	isLocatedIn	River_Suir
+River_Suir	isLocatedIn	County_Tipperary
+River_Suir	isLocatedIn	County_Tipperary
+
+http://dbpedia.org/resource/American_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/El_Dorado_County,_California
+American_River	El_Dorado_County,_California
+American_River	isLocatedIn	Sacramento_County,_California
+American_River	isLocatedIn	Sacramento_County,_California
+Sacramento_County,_California	isLocatedIn	Sacramento_metropolitan_area
+Sacramento_County,_California	isLocatedIn	Sacramento_metropolitan_area
+El_Dorado_County,_California	isLocatedIn	Sacramento_metropolitan_area
+El_Dorado_County,_California	isLocatedIn	Sacramento_metropolitan_area
+
+http://dbpedia.org/resource/American_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/El_Dorado_County,_California
+American_River	El_Dorado_County,_California
+American_River	isLocatedIn	El_Dorado_County,_California
+American_River	isLocatedIn	El_Dorado_County,_California
+
+http://dbpedia.org/resource/American_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/El_Dorado_County,_California
+American_River	El_Dorado_County,_California
+American_River	isLocatedIn	Placer_County,_California
+American_River	isLocatedIn	Placer_County,_California
+North_Fork_American_River	isLocatedIn	Placer_County,_California
+North_Fork_American_River	isLocatedIn	Placer_County,_California
+North_Fork_American_River	isLocatedIn	El_Dorado_County,_California
+North_Fork_American_River	isLocatedIn	El_Dorado_County,_California
+
+http://dbpedia.org/resource/American_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/El_Dorado_County,_California
+American_River	El_Dorado_County,_California
+American_River	isLocatedIn	Placer_County,_California
+American_River	isLocatedIn	Placer_County,_California
+Folsom_Lake_State_Recreation_Area	isLocatedIn	Placer_County,_California
+Folsom_Lake_State_Recreation_Area	isLocatedIn	Placer_County,_California
+Folsom_Lake_State_Recreation_Area	isLocatedIn	El_Dorado_County,_California
+Folsom_Lake_State_Recreation_Area	isLocatedIn	El_Dorado_County,_California
+
+http://dbpedia.org/resource/American_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/El_Dorado_County,_California
+American_River	El_Dorado_County,_California
+American_River	isLocatedIn	Placer_County,_California
+American_River	isLocatedIn	Placer_County,_California
+Truckee_River	isLocatedIn	Placer_County,_California
+Truckee_River	isLocatedIn	Placer_County,_California
+Truckee_River	isLocatedIn	El_Dorado_County,_California
+Truckee_River	isLocatedIn	El_Dorado_County,_California
+
+http://dbpedia.org/resource/American_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/El_Dorado_County,_California
+American_River	El_Dorado_County,_California
+American_River	isLocatedIn	Placer_County,_California
+American_River	isLocatedIn	Placer_County,_California
+Eldorado_National_Forest	isLocatedIn	Placer_County,_California
+Eldorado_National_Forest	isLocatedIn	Placer_County,_California
+Eldorado_National_Forest	isLocatedIn	El_Dorado_County,_California
+Eldorado_National_Forest	isLocatedIn	El_Dorado_County,_California
+
+http://dbpedia.org/resource/American_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/El_Dorado_County,_California
+American_River	El_Dorado_County,_California
+American_River	isLocatedIn	Placer_County,_California
+American_River	isLocatedIn	Placer_County,_California
+Placer_County,_California	isLocatedIn	Sacramento_metropolitan_area
+Placer_County,_California	isLocatedIn	Sacramento_metropolitan_area
+El_Dorado_County,_California	isLocatedIn	Sacramento_metropolitan_area
+El_Dorado_County,_California	isLocatedIn	Sacramento_metropolitan_area
+
+http://dbpedia.org/resource/American_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/El_Dorado_County,_California
+American_River	El_Dorado_County,_California
+American_River	isLocatedIn	Placer_County,_California
+American_River	isLocatedIn	Placer_County,_California
+American_River	isLocatedIn	Placer_County,_California
+American_River	isLocatedIn	Placer_County,_California
+American_River	isLocatedIn	El_Dorado_County,_California
+American_River	isLocatedIn	El_Dorado_County,_California
+
+http://dbpedia.org/resource/American_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/El_Dorado_County,_California
+American_River	El_Dorado_County,_California
+American_River	isLocatedIn	Northern_California
+American_River	isLocatedIn	Northern_California
+American_River	isLocatedIn	Northern_California
+American_River	isLocatedIn	Northern_California
+American_River	isLocatedIn	El_Dorado_County,_California
+American_River	isLocatedIn	El_Dorado_County,_California
+
+http://dbpedia.org/resource/Wallkill_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Sussex_County,_New_Jersey
+Wallkill_River	Sussex_County,_New_Jersey
+Wallkill_River	isLocatedIn	New_Jersey
+Wallkill_River	isLocatedIn	New_Jersey
+Swartswood_State_Park	isLocatedIn	New_Jersey
+Swartswood_State_Park	isLocatedIn	New_Jersey
+Swartswood_State_Park	isLocatedIn	Sussex_County,_New_Jersey
+Swartswood_State_Park	isLocatedIn	Sussex_County,_New_Jersey
+
+http://dbpedia.org/resource/Wallkill_River	http://dbpedia.org/ontology/sourceRegion	http://dbpedia.org/resource/Sussex_County,_New_Jersey
+Wallkill_River	Sussex_County,_New_Jersey
+Wallkill_River	isLocatedIn	Sussex_County,_New_Jersey
+Wallkill_River	isLocatedIn	Sussex_County,_New_Jersey
+

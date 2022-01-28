@@ -1,0 +1,227 @@
+http://dbpedia.org/resource/Reliance_Anil_Dhirubhai_Ambani_Group	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/Reliance_Communications
+Reliance_Anil_Dhirubhai_Ambani_Group	Reliance_Communications
+Dhirubhai_Ambani	created	Reliance_Anil_Dhirubhai_Ambani_Group
+Dhirubhai_Ambani	created	Reliance_Anil_Dhirubhai_Ambani_Group
+Dhirubhai_Ambani	created	Reliance_Communications
+Dhirubhai_Ambani	created	Reliance_Communications
+
+http://dbpedia.org/resource/Reliance_Anil_Dhirubhai_Ambani_Group	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/Reliance_Communications
+Reliance_Anil_Dhirubhai_Ambani_Group	Reliance_Communications
+Dhirubhai_Ambani	created	Reliance_Anil_Dhirubhai_Ambani_Group
+Dhirubhai_Ambani	created	Reliance_Anil_Dhirubhai_Ambani_Group
+Dhirubhai_Ambani	hasChild	Mukesh_Ambani
+Dhirubhai_Ambani	hasChild	Mukesh_Ambani
+Mukesh_Ambani	created	Reliance_Communications
+Mukesh_Ambani	created	Reliance_Communications
+
+http://dbpedia.org/resource/Reliance_Anil_Dhirubhai_Ambani_Group	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/Reliance_Communications
+Reliance_Anil_Dhirubhai_Ambani_Group	Reliance_Communications
+Dhirubhai_Ambani	created	Reliance_Anil_Dhirubhai_Ambani_Group
+Dhirubhai_Ambani	created	Reliance_Anil_Dhirubhai_Ambani_Group
+Dhirubhai_Ambani	hasChild	Anil_Ambani
+Dhirubhai_Ambani	hasChild	Anil_Ambani
+Anil_Ambani	created	Reliance_Communications
+Anil_Ambani	created	Reliance_Communications
+
+http://dbpedia.org/resource/United_Parcel_Service	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/UPS_Airlines
+United_Parcel_Service	UPS_Airlines
+United_Parcel_Service	isLocatedIn	Sandy_Springs,_Georgia
+United_Parcel_Service	isLocatedIn	Sandy_Springs,_Georgia
+United_Parcel_Service	isLocatedIn	Sandy_Springs,_Georgia
+United_Parcel_Service	isLocatedIn	Sandy_Springs,_Georgia
+United_Parcel_Service	owns	UPS_Airlines
+United_Parcel_Service	owns	UPS_Airlines
+
+http://dbpedia.org/resource/United_Parcel_Service	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/UPS_Airlines
+United_Parcel_Service	UPS_Airlines
+United_Parcel_Service	owns	UPS_Airlines
+United_Parcel_Service	owns	UPS_Airlines
+
+http://dbpedia.org/resource/NBCUniversal_Television_Group	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/Universal_Television
+NBCUniversal_Television_Group	Universal_Television
+Comcast	owns	NBCUniversal_Television_Group
+Comcast	owns	NBCUniversal_Television_Group
+Comcast	owns	NBCUniversal_Television_Group
+Comcast	owns	NBCUniversal_Television_Group
+NBCUniversal_Television_Group	owns	Universal_Television
+NBCUniversal_Television_Group	owns	Universal_Television
+
+http://dbpedia.org/resource/NBCUniversal_Television_Group	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/Universal_Television
+NBCUniversal_Television_Group	Universal_Television
+NBCUniversal_Television_Group	owns	Universal_Television
+NBCUniversal_Television_Group	owns	Universal_Television
+
+http://dbpedia.org/resource/NBCUniversal_Television_Group	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/Universal_Television
+NBCUniversal_Television_Group	Universal_Television
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal_Television_Group	owns	Universal_Television
+NBCUniversal_Television_Group	owns	Universal_Television
+
+http://dbpedia.org/resource/Pakistan_Television_Corporation	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/PTV_Awards
+Pakistan_Television_Corporation	PTV_Awards
+Pakistan_Television_Corporation	isLocatedIn	Lahore
+Pakistan_Television_Corporation	isLocatedIn	Lahore
+Noman_Ijaz	wasBornIn	Lahore
+Noman_Ijaz	wasBornIn	Lahore
+Noman_Ijaz	hasWonPrize	PTV_Awards
+Noman_Ijaz	hasWonPrize	PTV_Awards
+
+http://dbpedia.org/resource/NBCUniversal_Television_Group	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/The_Weather_Channel
+NBCUniversal_Television_Group	The_Weather_Channel
+Comcast	owns	NBCUniversal_Television_Group
+Comcast	owns	NBCUniversal_Television_Group
+Comcast	owns	NBCUniversal
+Comcast	owns	NBCUniversal
+NBCUniversal	owns	The_Weather_Channel
+NBCUniversal	owns	The_Weather_Channel
+
+http://dbpedia.org/resource/NBCUniversal_Television_Group	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/The_Weather_Channel
+NBCUniversal_Television_Group	The_Weather_Channel
+NBCUniversal_Television_Group	owns	Universal_Television
+NBCUniversal_Television_Group	owns	Universal_Television
+NBCUniversal	owns	Universal_Television
+NBCUniversal	owns	Universal_Television
+NBCUniversal	owns	The_Weather_Channel
+NBCUniversal	owns	The_Weather_Channel
+
+http://dbpedia.org/resource/NBCUniversal_Television_Group	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/The_Weather_Channel
+NBCUniversal_Television_Group	The_Weather_Channel
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	NBCUniversal_Television_Group
+NBCUniversal	owns	The_Weather_Channel
+NBCUniversal	owns	The_Weather_Channel
+
+http://dbpedia.org/resource/Techint	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/Tenaris
+Techint	Tenaris
+Techint	owns	Ternium
+Techint	owns	Ternium
+Techint	owns	Ternium
+Techint	owns	Ternium
+Techint	owns	Tenaris
+Techint	owns	Tenaris
+
+http://dbpedia.org/resource/Techint	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/Tenaris
+Techint	Tenaris
+Techint	owns	Ternium
+Techint	owns	Ternium
+Tenaris	owns	Ternium
+Tenaris	owns	Ternium
+
+http://dbpedia.org/resource/Techint	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/Tenaris
+Techint	Tenaris
+Techint	isLocatedIn	Buenos_Aires
+Techint	isLocatedIn	Buenos_Aires
+Ternium	isLocatedIn	Buenos_Aires
+Ternium	isLocatedIn	Buenos_Aires
+Tenaris	owns	Ternium
+Tenaris	owns	Ternium
+
+http://dbpedia.org/resource/Techint	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/Tenaris
+Techint	Tenaris
+Techint	isLocatedIn	Milan
+Techint	isLocatedIn	Milan
+Techint	isLocatedIn	Milan
+Techint	isLocatedIn	Milan
+Techint	owns	Tenaris
+Techint	owns	Tenaris
+
+http://dbpedia.org/resource/Techint	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/Tenaris
+Techint	Tenaris
+Techint	owns	Tenaris
+Techint	owns	Tenaris
+
+http://dbpedia.org/resource/Balaji_Telefilms	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/Balaji_Telefilms
+Balaji_Telefilms	Balaji_Telefilms
+Balaji_Telefilms	created	Meri_Aashiqui_Tum_Se_Hi
+Balaji_Telefilms	created	Meri_Aashiqui_Tum_Se_Hi
+Balaji_Telefilms	created	Meri_Aashiqui_Tum_Se_Hi
+Balaji_Telefilms	created	Meri_Aashiqui_Tum_Se_Hi
+
+http://dbpedia.org/resource/Balaji_Telefilms	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/Balaji_Telefilms
+Balaji_Telefilms	Balaji_Telefilms
+Jeetendra	created	Balaji_Telefilms
+Jeetendra	created	Balaji_Telefilms
+Jeetendra	created	Balaji_Telefilms
+Jeetendra	created	Balaji_Telefilms
+
+http://dbpedia.org/resource/Balaji_Telefilms	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/Balaji_Telefilms
+Balaji_Telefilms	Balaji_Telefilms
+Balaji_Telefilms	created	Itna_Karo_Na_Mujhe_Pyaar
+Balaji_Telefilms	created	Itna_Karo_Na_Mujhe_Pyaar
+Balaji_Telefilms	created	Itna_Karo_Na_Mujhe_Pyaar
+Balaji_Telefilms	created	Itna_Karo_Na_Mujhe_Pyaar
+
+http://dbpedia.org/resource/TransAsia_Airways	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/V_Air
+TransAsia_Airways	V_Air
+TransAsia_Airways	owns	V_Air
+TransAsia_Airways	owns	V_Air
+
+http://dbpedia.org/resource/TransAsia_Airways	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/V_Air
+TransAsia_Airways	V_Air
+TransAsia_Airways	isLocatedIn	Taipei_Songshan_Airport
+TransAsia_Airways	isLocatedIn	Taipei_Songshan_Airport
+TransAsia_Airways	isLocatedIn	Taipei_Songshan_Airport
+TransAsia_Airways	isLocatedIn	Taipei_Songshan_Airport
+TransAsia_Airways	owns	V_Air
+TransAsia_Airways	owns	V_Air
+
+http://dbpedia.org/resource/TransAsia_Airways	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/V_Air
+TransAsia_Airways	V_Air
+TransAsia_Airways	isLocatedIn	Taipei
+TransAsia_Airways	isLocatedIn	Taipei
+TransAsia_Airways	isLocatedIn	Taipei
+TransAsia_Airways	isLocatedIn	Taipei
+TransAsia_Airways	owns	V_Air
+TransAsia_Airways	owns	V_Air
+
+http://dbpedia.org/resource/Reliance_Communications	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/Reliance_Communications
+Reliance_Communications	Reliance_Communications
+Dhirubhai_Ambani	created	Reliance_Communications
+Dhirubhai_Ambani	created	Reliance_Communications
+Dhirubhai_Ambani	created	Reliance_Communications
+Dhirubhai_Ambani	created	Reliance_Communications
+
+http://dbpedia.org/resource/Reliance_Communications	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/Reliance_Communications
+Reliance_Communications	Reliance_Communications
+Dhirubhai_Ambani	created	Reliance_Communications
+Dhirubhai_Ambani	created	Reliance_Communications
+Dhirubhai_Ambani	hasChild	Mukesh_Ambani
+Dhirubhai_Ambani	hasChild	Mukesh_Ambani
+Mukesh_Ambani	created	Reliance_Communications
+Mukesh_Ambani	created	Reliance_Communications
+
+http://dbpedia.org/resource/Reliance_Communications	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/Reliance_Communications
+Reliance_Communications	Reliance_Communications
+Dhirubhai_Ambani	created	Reliance_Communications
+Dhirubhai_Ambani	created	Reliance_Communications
+Dhirubhai_Ambani	hasChild	Anil_Ambani
+Dhirubhai_Ambani	hasChild	Anil_Ambani
+Anil_Ambani	created	Reliance_Communications
+Anil_Ambani	created	Reliance_Communications
+
+http://dbpedia.org/resource/Reliance_Communications	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/Reliance_Communications
+Reliance_Communications	Reliance_Communications
+Anil_Ambani	created	Reliance_Communications
+Anil_Ambani	created	Reliance_Communications
+Dhirubhai_Ambani	hasChild	Anil_Ambani
+Dhirubhai_Ambani	hasChild	Anil_Ambani
+Dhirubhai_Ambani	created	Reliance_Communications
+Dhirubhai_Ambani	created	Reliance_Communications
+
+http://dbpedia.org/resource/Reliance_Communications	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/Reliance_Communications
+Reliance_Communications	Reliance_Communications
+Anil_Ambani	created	Reliance_Communications
+Anil_Ambani	created	Reliance_Communications
+Anil_Ambani	created	Reliance_Communications
+Anil_Ambani	created	Reliance_Communications
+
+http://dbpedia.org/resource/Reliance_Communications	http://dbpedia.org/ontology/subsidiary	http://dbpedia.org/resource/Reliance_Communications
+Reliance_Communications	Reliance_Communications
+Mukesh_Ambani	created	Reliance_Communications
+Mukesh_Ambani	created	Reliance_Communications
+Mukesh_Ambani	created	Reliance_Communications
+Mukesh_Ambani	created	Reliance_Communications
+

@@ -1,0 +1,178 @@
+http://dbpedia.org/resource/Juan_O'Gorman	http://dbpedia.org/ontology/training	http://dbpedia.org/resource/National_Autonomous_University_of_Mexico
+Juan_O'Gorman	National_Autonomous_University_of_Mexico
+Juan_O'Gorman	wasBornIn	Coyoacán
+Juan_O'Gorman	wasBornIn	Coyoacán
+Antonio_Castro_Leal	diedIn	Coyoacán
+Antonio_Castro_Leal	diedIn	Coyoacán
+Antonio_Castro_Leal	graduatedFrom	National_Autonomous_University_of_Mexico
+Antonio_Castro_Leal	graduatedFrom	National_Autonomous_University_of_Mexico
+
+http://dbpedia.org/resource/Juan_O'Gorman	http://dbpedia.org/ontology/training	http://dbpedia.org/resource/National_Autonomous_University_of_Mexico
+Juan_O'Gorman	National_Autonomous_University_of_Mexico
+Juan_O'Gorman	wasBornIn	Coyoacán
+Juan_O'Gorman	wasBornIn	Coyoacán
+Estadio_Olímpico_Universitario	isLocatedIn	Coyoacán
+Estadio_Olímpico_Universitario	isLocatedIn	Coyoacán
+National_Autonomous_University_of_Mexico	owns	Estadio_Olímpico_Universitario
+National_Autonomous_University_of_Mexico	owns	Estadio_Olímpico_Universitario
+
+http://dbpedia.org/resource/Juan_O'Gorman	http://dbpedia.org/ontology/training	http://dbpedia.org/resource/National_Autonomous_University_of_Mexico
+Juan_O'Gorman	National_Autonomous_University_of_Mexico
+Juan_O'Gorman	diedIn	Mexico_City
+Juan_O'Gorman	diedIn	Mexico_City
+Antonio_Ortiz_Mena	diedIn	Mexico_City
+Antonio_Ortiz_Mena	diedIn	Mexico_City
+Antonio_Ortiz_Mena	graduatedFrom	National_Autonomous_University_of_Mexico
+Antonio_Ortiz_Mena	graduatedFrom	National_Autonomous_University_of_Mexico
+
+http://dbpedia.org/resource/Juan_O'Gorman	http://dbpedia.org/ontology/training	http://dbpedia.org/resource/National_Autonomous_University_of_Mexico
+Juan_O'Gorman	National_Autonomous_University_of_Mexico
+Juan_O'Gorman	diedIn	Mexico_City
+Juan_O'Gorman	diedIn	Mexico_City
+Gilberto_Rincón_Gallardo	diedIn	Mexico_City
+Gilberto_Rincón_Gallardo	livesIn	Mexico_City
+Gilberto_Rincón_Gallardo	wasBornIn	Mexico_City
+Gilberto_Rincón_Gallardo	diedIn	Mexico_City
+Gilberto_Rincón_Gallardo	livesIn	Mexico_City
+Gilberto_Rincón_Gallardo	wasBornIn	Mexico_City
+Gilberto_Rincón_Gallardo	graduatedFrom	National_Autonomous_University_of_Mexico
+Gilberto_Rincón_Gallardo	graduatedFrom	National_Autonomous_University_of_Mexico
+
+http://dbpedia.org/resource/Juan_O'Gorman	http://dbpedia.org/ontology/training	http://dbpedia.org/resource/National_Autonomous_University_of_Mexico
+Juan_O'Gorman	National_Autonomous_University_of_Mexico
+Juan_O'Gorman	diedIn	Mexico_City
+Juan_O'Gorman	diedIn	Mexico_City
+Luis_E._Miramontes	diedIn	Mexico_City
+Luis_E._Miramontes	diedIn	Mexico_City
+Luis_E._Miramontes	worksAt	National_Autonomous_University_of_Mexico
+Luis_E._Miramontes	graduatedFrom	National_Autonomous_University_of_Mexico
+Luis_E._Miramontes	worksAt	National_Autonomous_University_of_Mexico
+Luis_E._Miramontes	graduatedFrom	National_Autonomous_University_of_Mexico
+
+http://dbpedia.org/resource/Juan_O'Gorman	http://dbpedia.org/ontology/training	http://dbpedia.org/resource/National_Autonomous_University_of_Mexico
+Juan_O'Gorman	National_Autonomous_University_of_Mexico
+Juan_O'Gorman	diedIn	Mexico_City
+Juan_O'Gorman	diedIn	Mexico_City
+Guillermo_Sheridan	wasBornIn	Mexico_City
+Guillermo_Sheridan	wasBornIn	Mexico_City
+Guillermo_Sheridan	graduatedFrom	National_Autonomous_University_of_Mexico
+Guillermo_Sheridan	graduatedFrom	National_Autonomous_University_of_Mexico
+
+http://dbpedia.org/resource/Roy_Lichtenstein	http://dbpedia.org/ontology/training	http://dbpedia.org/resource/Ohio_State_University
+Roy_Lichtenstein	Ohio_State_University
+Roy_Lichtenstein	graduatedFrom	Ohio_State_University
+Roy_Lichtenstein	graduatedFrom	Ohio_State_University
+
+http://dbpedia.org/resource/Roy_Lichtenstein	http://dbpedia.org/ontology/training	http://dbpedia.org/resource/Ohio_State_University
+Roy_Lichtenstein	Ohio_State_University
+Roy_Lichtenstein	influences	Pranava_Prakash
+Roy_Lichtenstein	influences	Pranava_Prakash
+Roy_Lichtenstein	influences	Pranava_Prakash
+Roy_Lichtenstein	influences	Pranava_Prakash
+Roy_Lichtenstein	graduatedFrom	Ohio_State_University
+Roy_Lichtenstein	graduatedFrom	Ohio_State_University
+
+http://dbpedia.org/resource/Roy_Lichtenstein	http://dbpedia.org/ontology/training	http://dbpedia.org/resource/Ohio_State_University
+Roy_Lichtenstein	Ohio_State_University
+Roy_Lichtenstein	influences	Antonio_Lopez_(illustrator)
+Roy_Lichtenstein	influences	Antonio_Lopez_(illustrator)
+Roy_Lichtenstein	influences	Antonio_Lopez_(illustrator)
+Roy_Lichtenstein	influences	Antonio_Lopez_(illustrator)
+Roy_Lichtenstein	graduatedFrom	Ohio_State_University
+Roy_Lichtenstein	graduatedFrom	Ohio_State_University
+
+http://dbpedia.org/resource/Roy_Lichtenstein	http://dbpedia.org/ontology/training	http://dbpedia.org/resource/Ohio_State_University
+Roy_Lichtenstein	Ohio_State_University
+Roy_Lichtenstein	influences	Douglas_Coupland
+Roy_Lichtenstein	influences	Douglas_Coupland
+Roy_Lichtenstein	influences	Douglas_Coupland
+Roy_Lichtenstein	influences	Douglas_Coupland
+Roy_Lichtenstein	graduatedFrom	Ohio_State_University
+Roy_Lichtenstein	graduatedFrom	Ohio_State_University
+
+http://dbpedia.org/resource/Roy_Lichtenstein	http://dbpedia.org/ontology/training	http://dbpedia.org/resource/Ohio_State_University
+Roy_Lichtenstein	Ohio_State_University
+Roy_Lichtenstein	influences	Eduardo_Úrculo
+Roy_Lichtenstein	influences	Eduardo_Úrculo
+Roy_Lichtenstein	influences	Eduardo_Úrculo
+Roy_Lichtenstein	influences	Eduardo_Úrculo
+Roy_Lichtenstein	graduatedFrom	Ohio_State_University
+Roy_Lichtenstein	graduatedFrom	Ohio_State_University
+
+http://dbpedia.org/resource/Giorgione	http://dbpedia.org/ontology/training	http://dbpedia.org/resource/Giovanni_Bellini
+Giorgione	Giovanni_Bellini
+Giovanni_Bellini	influences	Giorgione
+Giovanni_Bellini	influences	Giorgione
+
+http://dbpedia.org/resource/Giorgione	http://dbpedia.org/ontology/training	http://dbpedia.org/resource/Giovanni_Bellini
+Giorgione	Giovanni_Bellini
+Giorgione	influences	Titian
+Giorgione	influences	Titian
+Giovanni_Bellini	influences	Titian
+Giovanni_Bellini	influences	Titian
+
+http://dbpedia.org/resource/Giorgione	http://dbpedia.org/ontology/training	http://dbpedia.org/resource/Giovanni_Bellini
+Giorgione	Giovanni_Bellini
+Giorgione	influences	Titian
+Giorgione	influences	Titian
+Giorgione	influences	Titian
+Giorgione	influences	Titian
+Giovanni_Bellini	influences	Giorgione
+Giovanni_Bellini	influences	Giorgione
+
+http://dbpedia.org/resource/Giorgione	http://dbpedia.org/ontology/training	http://dbpedia.org/resource/Giovanni_Bellini
+Giorgione	Giovanni_Bellini
+Giorgione	influences	Dosso_Dossi
+Giorgione	influences	Dosso_Dossi
+Giorgione	influences	Dosso_Dossi
+Giorgione	influences	Dosso_Dossi
+Giovanni_Bellini	influences	Giorgione
+Giovanni_Bellini	influences	Giorgione
+
+http://dbpedia.org/resource/Giorgione	http://dbpedia.org/ontology/training	http://dbpedia.org/resource/Giovanni_Bellini
+Giorgione	Giovanni_Bellini
+Giorgione	influences	Dosso_Dossi
+Giorgione	influences	Dosso_Dossi
+Titian	influences	Dosso_Dossi
+Titian	influences	Dosso_Dossi
+Giovanni_Bellini	influences	Titian
+Giovanni_Bellini	influences	Titian
+
+http://dbpedia.org/resource/Catherine_Wiley	http://dbpedia.org/ontology/training	http://dbpedia.org/resource/University_of_Tennessee
+Catherine_Wiley	University_of_Tennessee
+Catherine_Wiley	diedIn	Knoxville,_Tennessee
+Catherine_Wiley	diedIn	Knoxville,_Tennessee
+Frank_S._Niceley	livesIn	Knoxville,_Tennessee
+Frank_S._Niceley	livesIn	Knoxville,_Tennessee
+Frank_S._Niceley	graduatedFrom	University_of_Tennessee
+Frank_S._Niceley	graduatedFrom	University_of_Tennessee
+
+http://dbpedia.org/resource/Catherine_Wiley	http://dbpedia.org/ontology/training	http://dbpedia.org/resource/University_of_Tennessee
+Catherine_Wiley	University_of_Tennessee
+Catherine_Wiley	diedIn	Knoxville,_Tennessee
+Catherine_Wiley	diedIn	Knoxville,_Tennessee
+Thomas_Amos_Rogers_Nelson	diedIn	Knoxville,_Tennessee
+Thomas_Amos_Rogers_Nelson	diedIn	Knoxville,_Tennessee
+Thomas_Amos_Rogers_Nelson	graduatedFrom	University_of_Tennessee
+Thomas_Amos_Rogers_Nelson	graduatedFrom	University_of_Tennessee
+
+http://dbpedia.org/resource/Catherine_Wiley	http://dbpedia.org/ontology/training	http://dbpedia.org/resource/University_of_Tennessee
+Catherine_Wiley	University_of_Tennessee
+Catherine_Wiley	diedIn	Knoxville,_Tennessee
+Catherine_Wiley	diedIn	Knoxville,_Tennessee
+WUOT	isLocatedIn	Knoxville,_Tennessee
+WUOT	isLocatedIn	Knoxville,_Tennessee
+University_of_Tennessee	owns	WUOT
+University_of_Tennessee	owns	WUOT
+
+http://dbpedia.org/resource/Dale_Chihuly	http://dbpedia.org/ontology/training	http://dbpedia.org/resource/University_of_Washington
+Dale_Chihuly	University_of_Washington
+Dale_Chihuly	wasBornIn	Tacoma,_Washington
+Dale_Chihuly	created	Tacoma,_Washington
+Dale_Chihuly	wasBornIn	Tacoma,_Washington
+Dale_Chihuly	created	Tacoma,_Washington
+Frank_Herbert	wasBornIn	Tacoma,_Washington
+Frank_Herbert	wasBornIn	Tacoma,_Washington
+Frank_Herbert	graduatedFrom	University_of_Washington
+Frank_Herbert	graduatedFrom	University_of_Washington
+

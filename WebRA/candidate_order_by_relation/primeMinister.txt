@@ -1,0 +1,1514 @@
+http://dbpedia.org/resource/Ali_Bongo_Ondimba	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Daniel_Ona_Ondo
+Ali_Bongo_Ondimba	Daniel_Ona_Ondo
+Ali_Bongo_Ondimba	isPoliticianOf	Gabon
+Ali_Bongo_Ondimba	isLeaderOf	Gabon
+Ali_Bongo_Ondimba	isCitizenOf	Gabon
+Ali_Bongo_Ondimba	isPoliticianOf	Gabon
+Ali_Bongo_Ondimba	isLeaderOf	Gabon
+Ali_Bongo_Ondimba	isCitizenOf	Gabon
+Daniel_Ona_Ondo	isCitizenOf	Gabon
+Daniel_Ona_Ondo	isPoliticianOf	Gabon
+Daniel_Ona_Ondo	isCitizenOf	Gabon
+Daniel_Ona_Ondo	isPoliticianOf	Gabon
+
+http://dbpedia.org/resource/Pavel_Filip	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Natalia_Gherman
+Pavel_Filip	Natalia_Gherman
+Pavel_Filip	isLeaderOf	Democratic_Party_of_Moldova
+Pavel_Filip	isAffiliatedTo	Democratic_Party_of_Moldova
+Pavel_Filip	isLeaderOf	Democratic_Party_of_Moldova
+Pavel_Filip	isAffiliatedTo	Democratic_Party_of_Moldova
+Democratic_Party_of_Moldova	isLocatedIn	Chișinău
+Democratic_Party_of_Moldova	isLocatedIn	Chișinău
+Natalia_Gherman	wasBornIn	Chișinău
+Natalia_Gherman	wasBornIn	Chișinău
+
+http://dbpedia.org/resource/Valdis_Dombrovskis	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Einars_Repše
+Valdis_Dombrovskis	Einars_Repše
+Valdis_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+Valdis_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+New_Era_Party	isAffiliatedTo	Unity_(Latvian_political_party)
+New_Era_Party	isAffiliatedTo	Unity_(Latvian_political_party)
+Einars_Repše	isAffiliatedTo	New_Era_Party
+Einars_Repše	isAffiliatedTo	New_Era_Party
+
+http://dbpedia.org/resource/Anandatissa_de_Alwis	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/J._R._Jayewardene
+Anandatissa_de_Alwis	J._R._Jayewardene
+Anandatissa_de_Alwis	isCitizenOf	Sri_Lanka
+Anandatissa_de_Alwis	isPoliticianOf	Sri_Lanka
+Anandatissa_de_Alwis	isCitizenOf	Sri_Lanka
+Anandatissa_de_Alwis	isPoliticianOf	Sri_Lanka
+J._R._Jayewardene	diedIn	Sri_Lanka
+J._R._Jayewardene	isCitizenOf	Sri_Lanka
+J._R._Jayewardene	isPoliticianOf	Sri_Lanka
+J._R._Jayewardene	diedIn	Sri_Lanka
+J._R._Jayewardene	isCitizenOf	Sri_Lanka
+J._R._Jayewardene	isPoliticianOf	Sri_Lanka
+
+http://dbpedia.org/resource/Filippos_Sachinidis	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/George_Papandreou
+Filippos_Sachinidis	George_Papandreou
+Filippos_Sachinidis	isAffiliatedTo	Movement_of_Democratic_Socialists
+Filippos_Sachinidis	isAffiliatedTo	Movement_of_Democratic_Socialists
+George_Papandreou	isAffiliatedTo	Movement_of_Democratic_Socialists
+George_Papandreou	created	Movement_of_Democratic_Socialists
+George_Papandreou	isAffiliatedTo	Movement_of_Democratic_Socialists
+George_Papandreou	created	Movement_of_Democratic_Socialists
+
+http://dbpedia.org/resource/Valdis_Zatlers	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Aigars_Kalvītis
+Valdis_Zatlers	Aigars_Kalvītis
+Valdis_Zatlers	isAffiliatedTo	Reform_Party_(Latvia)
+Valdis_Zatlers	isAffiliatedTo	Reform_Party_(Latvia)
+Reform_Party_(Latvia)	isLocatedIn	Riga
+Reform_Party_(Latvia)	isLocatedIn	Riga
+Aigars_Kalvītis	wasBornIn	Riga
+Aigars_Kalvītis	wasBornIn	Riga
+
+http://dbpedia.org/resource/Valdis_Zatlers	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Aigars_Kalvītis
+Valdis_Zatlers	Aigars_Kalvītis
+Valdis_Zatlers	wasBornIn	Riga
+Valdis_Zatlers	wasBornIn	Riga
+Aigars_Kalvītis	wasBornIn	Riga
+Aigars_Kalvītis	wasBornIn	Riga
+
+http://dbpedia.org/resource/Pravind_Jugnauth	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Anerood_Jugnauth
+Pravind_Jugnauth	Anerood_Jugnauth
+Pravind_Jugnauth	wasBornIn	Vacoas-Phoenix
+Pravind_Jugnauth	wasBornIn	Vacoas-Phoenix
+Sarojini_Jugnauth	livesIn	Vacoas-Phoenix
+Sarojini_Jugnauth	livesIn	Vacoas-Phoenix
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+
+http://dbpedia.org/resource/Pravind_Jugnauth	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Anerood_Jugnauth
+Pravind_Jugnauth	Anerood_Jugnauth
+Pravind_Jugnauth	wasBornIn	Vacoas-Phoenix
+Pravind_Jugnauth	wasBornIn	Vacoas-Phoenix
+Pravind_Jugnauth	wasBornIn	Vacoas-Phoenix
+Pravind_Jugnauth	wasBornIn	Vacoas-Phoenix
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+
+http://dbpedia.org/resource/Pravind_Jugnauth	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Anerood_Jugnauth
+Pravind_Jugnauth	Anerood_Jugnauth
+Pravind_Jugnauth	wasBornIn	Vacoas-Phoenix
+Pravind_Jugnauth	wasBornIn	Vacoas-Phoenix
+Anerood_Jugnauth	wasBornIn	Vacoas-Phoenix
+Anerood_Jugnauth	wasBornIn	Vacoas-Phoenix
+
+http://dbpedia.org/resource/Pravind_Jugnauth	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Anerood_Jugnauth
+Pravind_Jugnauth	Anerood_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+
+http://dbpedia.org/resource/Pravind_Jugnauth	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Anerood_Jugnauth
+Pravind_Jugnauth	Anerood_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+Sarojini_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Sarojini_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Anerood_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Anerood_Jugnauth	created	Militant_Socialist_Movement
+Anerood_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Anerood_Jugnauth	created	Militant_Socialist_Movement
+
+http://dbpedia.org/resource/Pravind_Jugnauth	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Anerood_Jugnauth
+Pravind_Jugnauth	Anerood_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+
+http://dbpedia.org/resource/Pravind_Jugnauth	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Anerood_Jugnauth
+Pravind_Jugnauth	Anerood_Jugnauth
+Pravind_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Pravind_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Anerood_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Anerood_Jugnauth	created	Militant_Socialist_Movement
+Anerood_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Anerood_Jugnauth	created	Militant_Socialist_Movement
+
+http://dbpedia.org/resource/Pravind_Jugnauth	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Anerood_Jugnauth
+Pravind_Jugnauth	Anerood_Jugnauth
+Pravind_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Pravind_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Sarojini_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Sarojini_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+
+http://dbpedia.org/resource/Pravind_Jugnauth	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Anerood_Jugnauth
+Pravind_Jugnauth	Anerood_Jugnauth
+Pravind_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Pravind_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Pravind_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Pravind_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+
+http://dbpedia.org/resource/Pravind_Jugnauth	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Anerood_Jugnauth
+Pravind_Jugnauth	Anerood_Jugnauth
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+
+http://dbpedia.org/resource/Hanno_Pevkur	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Andrus_Ansip
+Hanno_Pevkur	Andrus_Ansip
+Hanno_Pevkur	isAffiliatedTo	Estonian_Reform_Party
+Hanno_Pevkur	isAffiliatedTo	Estonian_Reform_Party
+Andrus_Ansip	isAffiliatedTo	Estonian_Reform_Party
+Andrus_Ansip	isAffiliatedTo	Estonian_Reform_Party
+
+http://dbpedia.org/resource/Abdul_Hamid_(politician)	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Sheikh_Hasina
+Abdul_Hamid_(politician)	Sheikh_Hasina
+Abdul_Hamid_(politician)	isCitizenOf	Bangladesh
+Abdul_Hamid_(politician)	isPoliticianOf	Bangladesh
+Abdul_Hamid_(politician)	isLeaderOf	Bangladesh
+Abdul_Hamid_(politician)	isCitizenOf	Bangladesh
+Abdul_Hamid_(politician)	isPoliticianOf	Bangladesh
+Abdul_Hamid_(politician)	isLeaderOf	Bangladesh
+Tungipara_Upazila	isLocatedIn	Bangladesh
+Tungipara_Upazila	isLocatedIn	Bangladesh
+Sheikh_Hasina	wasBornIn	Tungipara_Upazila
+Sheikh_Hasina	wasBornIn	Tungipara_Upazila
+
+http://dbpedia.org/resource/Ingrīda_Circene	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Valdis_Dombrovskis
+Ingrīda_Circene	Valdis_Dombrovskis
+Ingrīda_Circene	isAffiliatedTo	Unity_(Latvian_political_party)
+Ingrīda_Circene	isAffiliatedTo	Unity_(Latvian_political_party)
+New_Era_Party	isAffiliatedTo	Unity_(Latvian_political_party)
+New_Era_Party	isAffiliatedTo	Unity_(Latvian_political_party)
+Valdis_Dombrovskis	isAffiliatedTo	New_Era_Party
+Valdis_Dombrovskis	isAffiliatedTo	New_Era_Party
+
+http://dbpedia.org/resource/Ingrīda_Circene	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Valdis_Dombrovskis
+Ingrīda_Circene	Valdis_Dombrovskis
+Ingrīda_Circene	isAffiliatedTo	Unity_(Latvian_political_party)
+Ingrīda_Circene	isAffiliatedTo	Unity_(Latvian_political_party)
+Valdis_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+Valdis_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+
+http://dbpedia.org/resource/Ingrīda_Circene	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Valdis_Dombrovskis
+Ingrīda_Circene	Valdis_Dombrovskis
+Ingrīda_Circene	wasBornIn	Riga
+Ingrīda_Circene	wasBornIn	Riga
+Unity_(Latvian_political_party)	isLocatedIn	Riga
+Unity_(Latvian_political_party)	isLocatedIn	Riga
+Valdis_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+Valdis_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+
+http://dbpedia.org/resource/George_Cadle_Price	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Manuel_Esquivel
+George_Cadle_Price	Manuel_Esquivel
+George_Cadle_Price	wasBornIn	Belize_City
+George_Cadle_Price	diedIn	Belize_City
+George_Cadle_Price	wasBornIn	Belize_City
+George_Cadle_Price	diedIn	Belize_City
+United_Democratic_Party_(Belize)	isLocatedIn	Belize_City
+United_Democratic_Party_(Belize)	isLocatedIn	Belize_City
+Manuel_Esquivel	isAffiliatedTo	United_Democratic_Party_(Belize)
+Manuel_Esquivel	isAffiliatedTo	United_Democratic_Party_(Belize)
+
+http://dbpedia.org/resource/Nicolae_Coval	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Gherasim_Rudi
+Nicolae_Coval	Gherasim_Rudi
+Nicolae_Coval	isPoliticianOf	Moldova
+Nicolae_Coval	isCitizenOf	Moldova
+Nicolae_Coval	isPoliticianOf	Moldova
+Nicolae_Coval	isCitizenOf	Moldova
+Gherasim_Rudi	isCitizenOf	Moldova
+Gherasim_Rudi	isPoliticianOf	Moldova
+Gherasim_Rudi	isCitizenOf	Moldova
+Gherasim_Rudi	isPoliticianOf	Moldova
+
+http://dbpedia.org/resource/Enrico_Letta	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Massimo_D'Alema
+Enrico_Letta	Massimo_D'Alema
+Enrico_Letta	isAffiliatedTo	Democratic_Party_(Italy)
+Enrico_Letta	isAffiliatedTo	Democratic_Party_(Italy)
+Massimo_D'Alema	isAffiliatedTo	Democratic_Party_(Italy)
+Massimo_D'Alema	isAffiliatedTo	Democratic_Party_(Italy)
+
+http://dbpedia.org/resource/Enrico_Letta	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Massimo_D'Alema
+Enrico_Letta	Massimo_D'Alema
+Enrico_Letta	isAffiliatedTo	Democracy_is_Freedom_–_The_Daisy
+Enrico_Letta	isAffiliatedTo	Democracy_is_Freedom_–_The_Daisy
+Democracy_is_Freedom_–_The_Daisy	isAffiliatedTo	The_Olive_Tree_(Italy)
+Democracy_is_Freedom_–_The_Daisy	isAffiliatedTo	The_Olive_Tree_(Italy)
+Massimo_D'Alema	isAffiliatedTo	The_Olive_Tree_(Italy)
+Massimo_D'Alema	isAffiliatedTo	The_Olive_Tree_(Italy)
+
+http://dbpedia.org/resource/Alberto_Madruga_da_Costa	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Aníbal_Cavaco_Silva
+Alberto_Madruga_da_Costa	Aníbal_Cavaco_Silva
+Alberto_Madruga_da_Costa	graduatedFrom	University_of_Lisbon
+Alberto_Madruga_da_Costa	graduatedFrom	University_of_Lisbon
+Maria_Cavaco_Silva	graduatedFrom	University_of_Lisbon
+Maria_Cavaco_Silva	graduatedFrom	University_of_Lisbon
+Maria_Cavaco_Silva	isMarriedTo	Aníbal_Cavaco_Silva
+Aníbal_Cavaco_Silva	isMarriedTo	Maria_Cavaco_Silva
+Maria_Cavaco_Silva	isMarriedTo	Aníbal_Cavaco_Silva
+Aníbal_Cavaco_Silva	isMarriedTo	Maria_Cavaco_Silva
+
+http://dbpedia.org/resource/Michel_Suleiman	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Saad_Hariri
+Michel_Suleiman	Saad_Hariri
+Michel_Suleiman	isPoliticianOf	Lebanon
+Michel_Suleiman	isCitizenOf	Lebanon
+Michel_Suleiman	isPoliticianOf	Lebanon
+Michel_Suleiman	isCitizenOf	Lebanon
+Saad_Hariri	isPoliticianOf	Lebanon
+Saad_Hariri	isCitizenOf	Lebanon
+Saad_Hariri	isLeaderOf	Lebanon
+Saad_Hariri	isPoliticianOf	Lebanon
+Saad_Hariri	isCitizenOf	Lebanon
+Saad_Hariri	isLeaderOf	Lebanon
+
+http://dbpedia.org/resource/Michel_Suleiman	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Saad_Hariri
+Michel_Suleiman	Saad_Hariri
+Wafaa_Sleiman	isMarriedTo	Michel_Suleiman
+Michel_Suleiman	isMarriedTo	Wafaa_Sleiman
+Wafaa_Sleiman	isMarriedTo	Michel_Suleiman
+Michel_Suleiman	isMarriedTo	Wafaa_Sleiman
+Wafaa_Sleiman	isCitizenOf	Lebanon
+Wafaa_Sleiman	isCitizenOf	Lebanon
+Saad_Hariri	isPoliticianOf	Lebanon
+Saad_Hariri	isCitizenOf	Lebanon
+Saad_Hariri	isLeaderOf	Lebanon
+Saad_Hariri	isPoliticianOf	Lebanon
+Saad_Hariri	isCitizenOf	Lebanon
+Saad_Hariri	isLeaderOf	Lebanon
+
+http://dbpedia.org/resource/Abdul_Qader_Qahtan	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Mohammed_Basindawa
+Abdul_Qader_Qahtan	Mohammed_Basindawa
+Abdul_Qader_Qahtan	isCitizenOf	Yemen
+Abdul_Qader_Qahtan	isPoliticianOf	Yemen
+Abdul_Qader_Qahtan	isCitizenOf	Yemen
+Abdul_Qader_Qahtan	isPoliticianOf	Yemen
+Aden	isLocatedIn	Yemen
+Yemen	hasCapital	Aden
+Aden	isLocatedIn	Yemen
+Yemen	hasCapital	Aden
+Mohammed_Basindawa	wasBornIn	Aden
+Mohammed_Basindawa	wasBornIn	Aden
+
+http://dbpedia.org/resource/N._M._Perera	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Dudley_Senanayake
+N._M._Perera	Dudley_Senanayake
+N._M._Perera	isCitizenOf	Sri_Lanka
+N._M._Perera	wasBornIn	Sri_Lanka
+N._M._Perera	isPoliticianOf	Sri_Lanka
+N._M._Perera	isCitizenOf	Sri_Lanka
+N._M._Perera	wasBornIn	Sri_Lanka
+N._M._Perera	isPoliticianOf	Sri_Lanka
+Dudley_Senanayake	isCitizenOf	Sri_Lanka
+Dudley_Senanayake	wasBornIn	Sri_Lanka
+Dudley_Senanayake	isPoliticianOf	Sri_Lanka
+Dudley_Senanayake	isCitizenOf	Sri_Lanka
+Dudley_Senanayake	wasBornIn	Sri_Lanka
+Dudley_Senanayake	isPoliticianOf	Sri_Lanka
+
+http://dbpedia.org/resource/N._M._Perera	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Dudley_Senanayake
+N._M._Perera	Dudley_Senanayake
+N._M._Perera	isAffiliatedTo	Lanka_Sama_Samaja_Party
+N._M._Perera	isAffiliatedTo	Lanka_Sama_Samaja_Party
+Lanka_Sama_Samaja_Party	isLocatedIn	Sri_Lanka
+Lanka_Sama_Samaja_Party	isLocatedIn	Sri_Lanka
+Dudley_Senanayake	isCitizenOf	Sri_Lanka
+Dudley_Senanayake	wasBornIn	Sri_Lanka
+Dudley_Senanayake	isPoliticianOf	Sri_Lanka
+Dudley_Senanayake	isCitizenOf	Sri_Lanka
+Dudley_Senanayake	wasBornIn	Sri_Lanka
+Dudley_Senanayake	isPoliticianOf	Sri_Lanka
+
+http://dbpedia.org/resource/Björgvin_G._Sigurðsson	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Geir_Haarde
+Björgvin_G._Sigurðsson	Geir_Haarde
+Björgvin_G._Sigurðsson	isPoliticianOf	Iceland
+Björgvin_G._Sigurðsson	isCitizenOf	Iceland
+Björgvin_G._Sigurðsson	isPoliticianOf	Iceland
+Björgvin_G._Sigurðsson	isCitizenOf	Iceland
+Geir_Haarde	isPoliticianOf	Iceland
+Geir_Haarde	isCitizenOf	Iceland
+Geir_Haarde	isPoliticianOf	Iceland
+Geir_Haarde	isCitizenOf	Iceland
+
+http://dbpedia.org/resource/Sibel_Siber	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Özkan_Yorgancıoğlu
+Sibel_Siber	Özkan_Yorgancıoğlu
+Sibel_Siber	isPoliticianOf	Northern_Cyprus
+Sibel_Siber	isCitizenOf	Northern_Cyprus
+Sibel_Siber	isPoliticianOf	Northern_Cyprus
+Sibel_Siber	isCitizenOf	Northern_Cyprus
+Özkan_Yorgancıoğlu	isPoliticianOf	Northern_Cyprus
+Özkan_Yorgancıoğlu	isCitizenOf	Northern_Cyprus
+Özkan_Yorgancıoğlu	isPoliticianOf	Northern_Cyprus
+Özkan_Yorgancıoğlu	isCitizenOf	Northern_Cyprus
+
+http://dbpedia.org/resource/Sibel_Siber	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Özkan_Yorgancıoğlu
+Sibel_Siber	Özkan_Yorgancıoğlu
+Sibel_Siber	isAffiliatedTo	Republican_Turkish_Party
+Sibel_Siber	isAffiliatedTo	Republican_Turkish_Party
+Republican_Turkish_Party	isLocatedIn	Northern_Cyprus
+Republican_Turkish_Party	isLocatedIn	Northern_Cyprus
+Özkan_Yorgancıoğlu	isPoliticianOf	Northern_Cyprus
+Özkan_Yorgancıoğlu	isCitizenOf	Northern_Cyprus
+Özkan_Yorgancıoğlu	isPoliticianOf	Northern_Cyprus
+Özkan_Yorgancıoğlu	isCitizenOf	Northern_Cyprus
+
+http://dbpedia.org/resource/Sibel_Siber	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Özkan_Yorgancıoğlu
+Sibel_Siber	Özkan_Yorgancıoğlu
+Sibel_Siber	isAffiliatedTo	Republican_Turkish_Party
+Sibel_Siber	isAffiliatedTo	Republican_Turkish_Party
+Özkan_Yorgancıoğlu	isAffiliatedTo	Republican_Turkish_Party
+Özkan_Yorgancıoğlu	isAffiliatedTo	Republican_Turkish_Party
+
+http://dbpedia.org/resource/Høgni_Hoydal	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Aksel_V._Johannesen
+Høgni_Hoydal	Aksel_V._Johannesen
+Høgni_Hoydal	isCitizenOf	Faroe_Islands
+Høgni_Hoydal	isPoliticianOf	Faroe_Islands
+Høgni_Hoydal	isCitizenOf	Faroe_Islands
+Høgni_Hoydal	isPoliticianOf	Faroe_Islands
+Aksel_V._Johannesen	isLeaderOf	Faroe_Islands
+Aksel_V._Johannesen	isCitizenOf	Faroe_Islands
+Aksel_V._Johannesen	isPoliticianOf	Faroe_Islands
+Aksel_V._Johannesen	isLeaderOf	Faroe_Islands
+Aksel_V._Johannesen	isCitizenOf	Faroe_Islands
+Aksel_V._Johannesen	isPoliticianOf	Faroe_Islands
+
+http://dbpedia.org/resource/Valdas_Adamkus	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Andrius_Kubilius
+Valdas_Adamkus	Andrius_Kubilius
+Valdas_Adamkus	isMarriedTo	Alma_Adamkienė
+Alma_Adamkienė	isMarriedTo	Valdas_Adamkus
+Valdas_Adamkus	isMarriedTo	Alma_Adamkienė
+Alma_Adamkienė	isMarriedTo	Valdas_Adamkus
+Alma_Adamkienė	isCitizenOf	Lithuania
+Alma_Adamkienė	isCitizenOf	Lithuania
+Andrius_Kubilius	isCitizenOf	Lithuania
+Andrius_Kubilius	isPoliticianOf	Lithuania
+Andrius_Kubilius	isCitizenOf	Lithuania
+Andrius_Kubilius	isPoliticianOf	Lithuania
+
+http://dbpedia.org/resource/Valdas_Adamkus	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Andrius_Kubilius
+Valdas_Adamkus	Andrius_Kubilius
+Valdas_Adamkus	isPoliticianOf	Lithuania
+Valdas_Adamkus	isCitizenOf	Lithuania
+Valdas_Adamkus	isPoliticianOf	Lithuania
+Valdas_Adamkus	isCitizenOf	Lithuania
+Andrius_Kubilius	isCitizenOf	Lithuania
+Andrius_Kubilius	isPoliticianOf	Lithuania
+Andrius_Kubilius	isCitizenOf	Lithuania
+Andrius_Kubilius	isPoliticianOf	Lithuania
+
+http://dbpedia.org/resource/Sólrun_Løkke_Rasmussen	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Lars_Løkke_Rasmussen
+Sólrun_Løkke_Rasmussen	Lars_Løkke_Rasmussen
+Sólrun_Løkke_Rasmussen	isMarriedTo	Lars_Løkke_Rasmussen
+Lars_Løkke_Rasmussen	isMarriedTo	Sólrun_Løkke_Rasmussen
+Sólrun_Løkke_Rasmussen	isMarriedTo	Lars_Løkke_Rasmussen
+Lars_Løkke_Rasmussen	isMarriedTo	Sólrun_Løkke_Rasmussen
+
+http://dbpedia.org/resource/Abdur_Rahman_Biswas	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Sheikh_Hasina
+Abdur_Rahman_Biswas	Sheikh_Hasina
+Abdur_Rahman_Biswas	isPoliticianOf	Bangladesh
+Abdur_Rahman_Biswas	isCitizenOf	Bangladesh
+Abdur_Rahman_Biswas	isPoliticianOf	Bangladesh
+Abdur_Rahman_Biswas	isCitizenOf	Bangladesh
+Tungipara_Upazila	isLocatedIn	Bangladesh
+Tungipara_Upazila	isLocatedIn	Bangladesh
+Sheikh_Hasina	wasBornIn	Tungipara_Upazila
+Sheikh_Hasina	wasBornIn	Tungipara_Upazila
+
+http://dbpedia.org/resource/Tareq_Suheimat	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Abdelsalam_al-Majali
+Tareq_Suheimat	Abdelsalam_al-Majali
+Tareq_Suheimat	diedIn	Amman
+Tareq_Suheimat	diedIn	Amman
+Abdelsalam_al-Majali	livesIn	Amman
+Abdelsalam_al-Majali	livesIn	Amman
+
+http://dbpedia.org/resource/Fernando_Teixeira_dos_Santos	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/António_Guterres
+Fernando_Teixeira_dos_Santos	António_Guterres
+Fernando_Teixeira_dos_Santos	isAffiliatedTo	Socialist_Party_(Portugal)
+Fernando_Teixeira_dos_Santos	isAffiliatedTo	Socialist_Party_(Portugal)
+António_Guterres	isAffiliatedTo	Socialist_Party_(Portugal)
+António_Guterres	isAffiliatedTo	Socialist_Party_(Portugal)
+
+http://dbpedia.org/resource/Valdis_Zatlers	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Valdis_Dombrovskis
+Valdis_Zatlers	Valdis_Dombrovskis
+Valdis_Zatlers	wasBornIn	Riga
+Valdis_Zatlers	wasBornIn	Riga
+Unity_(Latvian_political_party)	isLocatedIn	Riga
+Unity_(Latvian_political_party)	isLocatedIn	Riga
+Valdis_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+Valdis_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+
+http://dbpedia.org/resource/Aivars_Aksenoks	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Aigars_Kalvītis
+Aivars_Aksenoks	Aigars_Kalvītis
+Aivars_Aksenoks	isAffiliatedTo	New_Era_Party
+Aivars_Aksenoks	isAffiliatedTo	New_Era_Party
+New_Era_Party	isLocatedIn	Riga
+New_Era_Party	isLocatedIn	Riga
+Aigars_Kalvītis	wasBornIn	Riga
+Aigars_Kalvītis	wasBornIn	Riga
+
+http://dbpedia.org/resource/Aivars_Aksenoks	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Aigars_Kalvītis
+Aivars_Aksenoks	Aigars_Kalvītis
+Aivars_Aksenoks	isAffiliatedTo	New_Era_Party
+Aivars_Aksenoks	isAffiliatedTo	New_Era_Party
+Aigars_Kalvītis	isAffiliatedTo	New_Era_Party
+Aigars_Kalvītis	isAffiliatedTo	New_Era_Party
+
+http://dbpedia.org/resource/Aivars_Aksenoks	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Aigars_Kalvītis
+Aivars_Aksenoks	Aigars_Kalvītis
+Aivars_Aksenoks	wasBornIn	Riga
+Aivars_Aksenoks	wasBornIn	Riga
+Aigars_Kalvītis	wasBornIn	Riga
+Aigars_Kalvītis	wasBornIn	Riga
+
+http://dbpedia.org/resource/Aivars_Aksenoks	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Aigars_Kalvītis
+Aivars_Aksenoks	Aigars_Kalvītis
+Aivars_Aksenoks	graduatedFrom	Riga_Technical_University
+Aivars_Aksenoks	graduatedFrom	Riga_Technical_University
+Riga_Technical_University	isLocatedIn	Riga
+Riga_Technical_University	isLocatedIn	Riga
+Aigars_Kalvītis	wasBornIn	Riga
+Aigars_Kalvītis	wasBornIn	Riga
+
+http://dbpedia.org/resource/Pier_Luigi_Bersani	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Massimo_D'Alema
+Pier_Luigi_Bersani	Massimo_D'Alema
+Pier_Luigi_Bersani	isAffiliatedTo	Democrats_of_the_Left
+Pier_Luigi_Bersani	isAffiliatedTo	Democrats_of_the_Left
+Democrats_of_the_Left	isAffiliatedTo	The_Olive_Tree_(Italy)
+Democrats_of_the_Left	isAffiliatedTo	The_Olive_Tree_(Italy)
+Massimo_D'Alema	isAffiliatedTo	The_Olive_Tree_(Italy)
+Massimo_D'Alema	isAffiliatedTo	The_Olive_Tree_(Italy)
+
+http://dbpedia.org/resource/Pier_Luigi_Bersani	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Massimo_D'Alema
+Pier_Luigi_Bersani	Massimo_D'Alema
+Pier_Luigi_Bersani	isAffiliatedTo	Democrats_of_the_Left
+Pier_Luigi_Bersani	isAffiliatedTo	Democrats_of_the_Left
+Massimo_D'Alema	isLeaderOf	Democrats_of_the_Left
+Massimo_D'Alema	isLeaderOf	Democrats_of_the_Left
+
+http://dbpedia.org/resource/Pier_Luigi_Bersani	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Massimo_D'Alema
+Pier_Luigi_Bersani	Massimo_D'Alema
+Pier_Luigi_Bersani	isAffiliatedTo	Democratic_Party_(Italy)
+Pier_Luigi_Bersani	isAffiliatedTo	Democratic_Party_(Italy)
+Massimo_D'Alema	isAffiliatedTo	Democratic_Party_(Italy)
+Massimo_D'Alema	isAffiliatedTo	Democratic_Party_(Italy)
+
+http://dbpedia.org/resource/Zillur_Rahman	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Sheikh_Hasina
+Zillur_Rahman	Sheikh_Hasina
+Zillur_Rahman	isCitizenOf	Bangladesh
+Zillur_Rahman	isPoliticianOf	Bangladesh
+Zillur_Rahman	isCitizenOf	Bangladesh
+Zillur_Rahman	isPoliticianOf	Bangladesh
+Tungipara_Upazila	isLocatedIn	Bangladesh
+Tungipara_Upazila	isLocatedIn	Bangladesh
+Sheikh_Hasina	wasBornIn	Tungipara_Upazila
+Sheikh_Hasina	wasBornIn	Tungipara_Upazila
+
+http://dbpedia.org/resource/Issam_Abu_Jamra	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Michel_Aoun
+Issam_Abu_Jamra	Michel_Aoun
+Issam_Abu_Jamra	isPoliticianOf	Lebanon
+Issam_Abu_Jamra	isCitizenOf	Lebanon
+Issam_Abu_Jamra	isPoliticianOf	Lebanon
+Issam_Abu_Jamra	isCitizenOf	Lebanon
+Michel_Aoun	isLeaderOf	Lebanon
+Michel_Aoun	isCitizenOf	Lebanon
+Michel_Aoun	isPoliticianOf	Lebanon
+Michel_Aoun	isLeaderOf	Lebanon
+Michel_Aoun	isCitizenOf	Lebanon
+Michel_Aoun	isPoliticianOf	Lebanon
+
+http://dbpedia.org/resource/Issam_Abu_Jamra	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Michel_Aoun
+Issam_Abu_Jamra	Michel_Aoun
+Issam_Abu_Jamra	graduatedFrom	Lebanese_University
+Issam_Abu_Jamra	graduatedFrom	Lebanese_University
+Lebanese_University	isLocatedIn	Lebanon
+Lebanese_University	isLocatedIn	Lebanon
+Michel_Aoun	isLeaderOf	Lebanon
+Michel_Aoun	isCitizenOf	Lebanon
+Michel_Aoun	isPoliticianOf	Lebanon
+Michel_Aoun	isLeaderOf	Lebanon
+Michel_Aoun	isCitizenOf	Lebanon
+Michel_Aoun	isPoliticianOf	Lebanon
+
+http://dbpedia.org/resource/Issam_Abu_Jamra	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Michel_Aoun
+Issam_Abu_Jamra	Michel_Aoun
+Issam_Abu_Jamra	isAffiliatedTo	Free_Patriotic_Movement
+Issam_Abu_Jamra	isAffiliatedTo	Free_Patriotic_Movement
+Michel_Aoun	created	Free_Patriotic_Movement
+Michel_Aoun	isAffiliatedTo	Free_Patriotic_Movement
+Michel_Aoun	created	Free_Patriotic_Movement
+Michel_Aoun	isAffiliatedTo	Free_Patriotic_Movement
+
+http://dbpedia.org/resource/Igor_Lukšić	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Željko_Šturanović
+Igor_Lukšić	Željko_Šturanović
+Igor_Lukšić	isPoliticianOf	Montenegro
+Igor_Lukšić	isCitizenOf	Montenegro
+Igor_Lukšić	isPoliticianOf	Montenegro
+Igor_Lukšić	isCitizenOf	Montenegro
+Željko_Šturanović	isPoliticianOf	Montenegro
+Željko_Šturanović	isCitizenOf	Montenegro
+Željko_Šturanović	isPoliticianOf	Montenegro
+Željko_Šturanović	isCitizenOf	Montenegro
+
+http://dbpedia.org/resource/Igor_Lukšić	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Željko_Šturanović
+Igor_Lukšić	Željko_Šturanović
+Igor_Lukšić	isPoliticianOf	Montenegro
+Igor_Lukšić	isCitizenOf	Montenegro
+Igor_Lukšić	isPoliticianOf	Montenegro
+Igor_Lukšić	isCitizenOf	Montenegro
+Nikšić	isLocatedIn	Montenegro
+Nikšić	isLocatedIn	Montenegro
+Željko_Šturanović	wasBornIn	Nikšić
+Željko_Šturanović	wasBornIn	Nikšić
+
+http://dbpedia.org/resource/Bernard_Aluwihare	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Dudley_Senanayake
+Bernard_Aluwihare	Dudley_Senanayake
+Bernard_Aluwihare	isPoliticianOf	Sri_Lanka
+Bernard_Aluwihare	isCitizenOf	Sri_Lanka
+Bernard_Aluwihare	isPoliticianOf	Sri_Lanka
+Bernard_Aluwihare	isCitizenOf	Sri_Lanka
+Dudley_Senanayake	isCitizenOf	Sri_Lanka
+Dudley_Senanayake	wasBornIn	Sri_Lanka
+Dudley_Senanayake	isPoliticianOf	Sri_Lanka
+Dudley_Senanayake	isCitizenOf	Sri_Lanka
+Dudley_Senanayake	wasBornIn	Sri_Lanka
+Dudley_Senanayake	isPoliticianOf	Sri_Lanka
+
+http://dbpedia.org/resource/Mark_Partridge	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Ian_Smith
+Mark_Partridge	Ian_Smith
+Mark_Partridge	diedIn	Harare
+Mark_Partridge	diedIn	Harare
+United_Federal_Party	isLocatedIn	Harare
+United_Federal_Party	isLocatedIn	Harare
+Ian_Smith	isAffiliatedTo	United_Federal_Party
+Ian_Smith	isAffiliatedTo	United_Federal_Party
+
+http://dbpedia.org/resource/Mark_Partridge	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Ian_Smith
+Mark_Partridge	Ian_Smith
+Mark_Partridge	isAffiliatedTo	Rhodesian_Front
+Mark_Partridge	isAffiliatedTo	Rhodesian_Front
+Ian_Smith	isLeaderOf	Rhodesian_Front
+Ian_Smith	isAffiliatedTo	Rhodesian_Front
+Ian_Smith	isLeaderOf	Rhodesian_Front
+Ian_Smith	isAffiliatedTo	Rhodesian_Front
+
+http://dbpedia.org/resource/Shahid_Javed_Burki	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Malik_Meraj_Khalid
+Shahid_Javed_Burki	Malik_Meraj_Khalid
+Shahid_Javed_Burki	isPoliticianOf	Pakistan
+Shahid_Javed_Burki	isCitizenOf	Pakistan
+Shahid_Javed_Burki	isPoliticianOf	Pakistan
+Shahid_Javed_Burki	isCitizenOf	Pakistan
+Malik_Meraj_Khalid	isPoliticianOf	Pakistan
+Malik_Meraj_Khalid	isCitizenOf	Pakistan
+Malik_Meraj_Khalid	isPoliticianOf	Pakistan
+Malik_Meraj_Khalid	isCitizenOf	Pakistan
+
+http://dbpedia.org/resource/Shahid_Javed_Burki	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Malik_Meraj_Khalid
+Shahid_Javed_Burki	Malik_Meraj_Khalid
+Shahid_Javed_Burki	livesIn	Lahore
+Shahid_Javed_Burki	livesIn	Lahore
+Lahore	isLocatedIn	Pakistan
+Lahore	isLocatedIn	Pakistan
+Malik_Meraj_Khalid	isPoliticianOf	Pakistan
+Malik_Meraj_Khalid	isCitizenOf	Pakistan
+Malik_Meraj_Khalid	isPoliticianOf	Pakistan
+Malik_Meraj_Khalid	isCitizenOf	Pakistan
+
+http://dbpedia.org/resource/Jozua_François_Naudé	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Hendrik_Verwoerd
+Jozua_François_Naudé	Hendrik_Verwoerd
+Jozua_François_Naudé	isCitizenOf	South_Africa
+Jozua_François_Naudé	isPoliticianOf	South_Africa
+Jozua_François_Naudé	isCitizenOf	South_Africa
+Jozua_François_Naudé	isPoliticianOf	South_Africa
+Hendrik_Verwoerd	isCitizenOf	South_Africa
+Hendrik_Verwoerd	isPoliticianOf	South_Africa
+Hendrik_Verwoerd	isCitizenOf	South_Africa
+Hendrik_Verwoerd	isPoliticianOf	South_Africa
+
+http://dbpedia.org/resource/Jozua_François_Naudé	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Hendrik_Verwoerd
+Jozua_François_Naudé	Hendrik_Verwoerd
+Jozua_François_Naudé	isAffiliatedTo	National_Party_(South_Africa)
+Jozua_François_Naudé	isAffiliatedTo	National_Party_(South_Africa)
+National_Party_(South_Africa)	isLocatedIn	South_Africa
+National_Party_(South_Africa)	isLocatedIn	South_Africa
+Hendrik_Verwoerd	isCitizenOf	South_Africa
+Hendrik_Verwoerd	isPoliticianOf	South_Africa
+Hendrik_Verwoerd	isCitizenOf	South_Africa
+Hendrik_Verwoerd	isPoliticianOf	South_Africa
+
+http://dbpedia.org/resource/Jozua_François_Naudé	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Hendrik_Verwoerd
+Jozua_François_Naudé	Hendrik_Verwoerd
+Jozua_François_Naudé	isAffiliatedTo	National_Party_(South_Africa)
+Jozua_François_Naudé	isAffiliatedTo	National_Party_(South_Africa)
+Hendrik_Verwoerd	isAffiliatedTo	National_Party_(South_Africa)
+Hendrik_Verwoerd	isAffiliatedTo	National_Party_(South_Africa)
+
+http://dbpedia.org/resource/Jozua_François_Naudé	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Hendrik_Verwoerd
+Jozua_François_Naudé	Hendrik_Verwoerd
+Jozua_François_Naudé	isAffiliatedTo	National_Party_(South_Africa)
+Jozua_François_Naudé	isAffiliatedTo	National_Party_(South_Africa)
+National_Party_(South_Africa)	isLocatedIn	Cape_Town
+National_Party_(South_Africa)	isLocatedIn	Cape_Town
+Hendrik_Verwoerd	diedIn	Cape_Town
+Hendrik_Verwoerd	diedIn	Cape_Town
+
+http://dbpedia.org/resource/Jozua_François_Naudé	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Hendrik_Verwoerd
+Jozua_François_Naudé	Hendrik_Verwoerd
+Jozua_François_Naudé	isAffiliatedTo	United_Party_(South_Africa)
+Jozua_François_Naudé	isAffiliatedTo	United_Party_(South_Africa)
+United_Party_(South_Africa)	isLocatedIn	South_Africa
+United_Party_(South_Africa)	isLocatedIn	South_Africa
+Hendrik_Verwoerd	isCitizenOf	South_Africa
+Hendrik_Verwoerd	isPoliticianOf	South_Africa
+Hendrik_Verwoerd	isCitizenOf	South_Africa
+Hendrik_Verwoerd	isPoliticianOf	South_Africa
+
+http://dbpedia.org/resource/Ron_Dermer	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Benjamin_Netanyahu
+Ron_Dermer	Benjamin_Netanyahu
+Ron_Dermer	isAffiliatedTo	Likud
+Ron_Dermer	isAffiliatedTo	Likud
+Benjamin_Netanyahu	isAffiliatedTo	Likud
+Benjamin_Netanyahu	isAffiliatedTo	Likud
+
+http://dbpedia.org/resource/Andrea_Orlando	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Enrico_Letta
+Andrea_Orlando	Enrico_Letta
+Andrea_Orlando	isAffiliatedTo	Democratic_Party_(Italy)
+Andrea_Orlando	isAffiliatedTo	Democratic_Party_(Italy)
+Enrico_Letta	isAffiliatedTo	Democratic_Party_(Italy)
+Enrico_Letta	isAffiliatedTo	Democratic_Party_(Italy)
+
+http://dbpedia.org/resource/Anura_Kumara_Dissanayaka	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Ranil_Wickremesinghe
+Anura_Kumara_Dissanayaka	Ranil_Wickremesinghe
+Anura_Kumara_Dissanayaka	graduatedFrom	University_of_Colombo
+Anura_Kumara_Dissanayaka	graduatedFrom	University_of_Colombo
+Ranil_Wickremesinghe	graduatedFrom	University_of_Colombo
+Ranil_Wickremesinghe	graduatedFrom	University_of_Colombo
+
+http://dbpedia.org/resource/Salim_Yasin	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Abdul_Rauf_al-Kasm
+Salim_Yasin	Abdul_Rauf_al-Kasm
+Salim_Yasin	isCitizenOf	Syria
+Salim_Yasin	isPoliticianOf	Syria
+Salim_Yasin	isCitizenOf	Syria
+Salim_Yasin	isPoliticianOf	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Abdul_Rauf_al-Kasm	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Abdul_Rauf_al-Kasm	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Salim_Yasin	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Abdul_Rauf_al-Kasm
+Salim_Yasin	Abdul_Rauf_al-Kasm
+Salim_Yasin	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Salim_Yasin	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Abdul_Rauf_al-Kasm	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Abdul_Rauf_al-Kasm	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+
+http://dbpedia.org/resource/Linda_Abu_Meri	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Valdis_Dombrovskis
+Linda_Abu_Meri	Valdis_Dombrovskis
+Linda_Abu_Meri	isAffiliatedTo	Unity_(Latvian_political_party)
+Linda_Abu_Meri	isAffiliatedTo	Unity_(Latvian_political_party)
+New_Era_Party	isAffiliatedTo	Unity_(Latvian_political_party)
+New_Era_Party	isAffiliatedTo	Unity_(Latvian_political_party)
+Valdis_Dombrovskis	isAffiliatedTo	New_Era_Party
+Valdis_Dombrovskis	isAffiliatedTo	New_Era_Party
+
+http://dbpedia.org/resource/Linda_Abu_Meri	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Valdis_Dombrovskis
+Linda_Abu_Meri	Valdis_Dombrovskis
+Linda_Abu_Meri	isAffiliatedTo	Unity_(Latvian_political_party)
+Linda_Abu_Meri	isAffiliatedTo	Unity_(Latvian_political_party)
+Valdis_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+Valdis_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+
+http://dbpedia.org/resource/Jack_William_Pithey	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Ian_Smith
+Jack_William_Pithey	Ian_Smith
+Jack_William_Pithey	isAffiliatedTo	Rhodesian_Front
+Jack_William_Pithey	isAffiliatedTo	Rhodesian_Front
+Ian_Smith	isLeaderOf	Rhodesian_Front
+Ian_Smith	isAffiliatedTo	Rhodesian_Front
+Ian_Smith	isLeaderOf	Rhodesian_Front
+Ian_Smith	isAffiliatedTo	Rhodesian_Front
+
+http://dbpedia.org/resource/Viktor_Yanukovych	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Oleksandr_Turchynov
+Viktor_Yanukovych	Oleksandr_Turchynov
+Viktor_Yanukovych	isPoliticianOf	Ukraine
+Viktor_Yanukovych	isCitizenOf	Ukraine
+Viktor_Yanukovych	isPoliticianOf	Ukraine
+Viktor_Yanukovych	isCitizenOf	Ukraine
+Oleksandr_Turchynov	isCitizenOf	Ukraine
+Oleksandr_Turchynov	isPoliticianOf	Ukraine
+Oleksandr_Turchynov	isCitizenOf	Ukraine
+Oleksandr_Turchynov	isPoliticianOf	Ukraine
+
+http://dbpedia.org/resource/Viktor_Yanukovych	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Oleksandr_Turchynov
+Viktor_Yanukovych	Oleksandr_Turchynov
+Viktor_Yanukovych	graduatedFrom	Donetsk_National_Technical_University
+Viktor_Yanukovych	graduatedFrom	Donetsk_National_Technical_University
+Donetsk_National_Technical_University	isLocatedIn	Ukraine
+Donetsk_National_Technical_University	isLocatedIn	Ukraine
+Oleksandr_Turchynov	isCitizenOf	Ukraine
+Oleksandr_Turchynov	isPoliticianOf	Ukraine
+Oleksandr_Turchynov	isCitizenOf	Ukraine
+Oleksandr_Turchynov	isPoliticianOf	Ukraine
+
+http://dbpedia.org/resource/Ingrida_Šimonytė	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Andrius_Kubilius
+Ingrida_Šimonytė	Andrius_Kubilius
+Ingrida_Šimonytė	isCitizenOf	Lithuania
+Ingrida_Šimonytė	isPoliticianOf	Lithuania
+Ingrida_Šimonytė	isCitizenOf	Lithuania
+Ingrida_Šimonytė	isPoliticianOf	Lithuania
+Andrius_Kubilius	isCitizenOf	Lithuania
+Andrius_Kubilius	isPoliticianOf	Lithuania
+Andrius_Kubilius	isCitizenOf	Lithuania
+Andrius_Kubilius	isPoliticianOf	Lithuania
+
+http://dbpedia.org/resource/Oscar_Luigi_Scalfaro	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Massimo_D'Alema
+Oscar_Luigi_Scalfaro	Massimo_D'Alema
+Oscar_Luigi_Scalfaro	isAffiliatedTo	Democratic_Party_(Italy)
+Oscar_Luigi_Scalfaro	isAffiliatedTo	Democratic_Party_(Italy)
+Massimo_D'Alema	isAffiliatedTo	Democratic_Party_(Italy)
+Massimo_D'Alema	isAffiliatedTo	Democratic_Party_(Italy)
+
+http://dbpedia.org/resource/Manuel_Esquivel	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/George_Cadle_Price
+Manuel_Esquivel	George_Cadle_Price
+Manuel_Esquivel	wasBornIn	Belize_City
+Manuel_Esquivel	wasBornIn	Belize_City
+George_Cadle_Price	wasBornIn	Belize_City
+George_Cadle_Price	diedIn	Belize_City
+George_Cadle_Price	wasBornIn	Belize_City
+George_Cadle_Price	diedIn	Belize_City
+
+http://dbpedia.org/resource/Manuel_Esquivel	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/George_Cadle_Price
+Manuel_Esquivel	George_Cadle_Price
+Manuel_Esquivel	isAffiliatedTo	United_Democratic_Party_(Belize)
+Manuel_Esquivel	isAffiliatedTo	United_Democratic_Party_(Belize)
+United_Democratic_Party_(Belize)	isLocatedIn	Belize_City
+United_Democratic_Party_(Belize)	isLocatedIn	Belize_City
+George_Cadle_Price	wasBornIn	Belize_City
+George_Cadle_Price	diedIn	Belize_City
+George_Cadle_Price	wasBornIn	Belize_City
+George_Cadle_Price	diedIn	Belize_City
+
+http://dbpedia.org/resource/Pranab_Mukherjee	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/P._V._Narasimha_Rao
+Pranab_Mukherjee	P._V._Narasimha_Rao
+Pranab_Mukherjee	isMarriedTo	Suvra_Mukherjee
+Suvra_Mukherjee	isMarriedTo	Pranab_Mukherjee
+Pranab_Mukherjee	isMarriedTo	Suvra_Mukherjee
+Suvra_Mukherjee	isMarriedTo	Pranab_Mukherjee
+Suvra_Mukherjee	livesIn	New_Delhi
+Suvra_Mukherjee	diedIn	New_Delhi
+Suvra_Mukherjee	livesIn	New_Delhi
+Suvra_Mukherjee	diedIn	New_Delhi
+P._V._Narasimha_Rao	diedIn	New_Delhi
+P._V._Narasimha_Rao	diedIn	New_Delhi
+
+http://dbpedia.org/resource/Mustapha_Mansouri	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Abbas_El_Fassi
+Mustapha_Mansouri	Abbas_El_Fassi
+Mustapha_Mansouri	isAffiliatedTo	National_Rally_of_Independents
+Mustapha_Mansouri	isAffiliatedTo	National_Rally_of_Independents
+Abbas_El_Fassi	isAffiliatedTo	National_Rally_of_Independents
+Abbas_El_Fassi	isAffiliatedTo	National_Rally_of_Independents
+
+http://dbpedia.org/resource/Linda_Abu_Meri	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Aigars_Kalvītis
+Linda_Abu_Meri	Aigars_Kalvītis
+Linda_Abu_Meri	isAffiliatedTo	Unity_(Latvian_political_party)
+Linda_Abu_Meri	isAffiliatedTo	Unity_(Latvian_political_party)
+New_Era_Party	isAffiliatedTo	Unity_(Latvian_political_party)
+New_Era_Party	isAffiliatedTo	Unity_(Latvian_political_party)
+Aigars_Kalvītis	isAffiliatedTo	New_Era_Party
+Aigars_Kalvītis	isAffiliatedTo	New_Era_Party
+
+http://dbpedia.org/resource/Linda_Abu_Meri	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Aigars_Kalvītis
+Linda_Abu_Meri	Aigars_Kalvītis
+Linda_Abu_Meri	isAffiliatedTo	Unity_(Latvian_political_party)
+Linda_Abu_Meri	isAffiliatedTo	Unity_(Latvian_political_party)
+Unity_(Latvian_political_party)	isLocatedIn	Riga
+Unity_(Latvian_political_party)	isLocatedIn	Riga
+Aigars_Kalvītis	wasBornIn	Riga
+Aigars_Kalvītis	wasBornIn	Riga
+
+http://dbpedia.org/resource/P._V._Narasimha_Rao	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Indira_Gandhi
+P._V._Narasimha_Rao	Indira_Gandhi
+P._V._Narasimha_Rao	diedIn	New_Delhi
+P._V._Narasimha_Rao	diedIn	New_Delhi
+Feroze_Gandhi	diedIn	New_Delhi
+Feroze_Gandhi	diedIn	New_Delhi
+Feroze_Gandhi	isMarriedTo	Indira_Gandhi
+Indira_Gandhi	isMarriedTo	Feroze_Gandhi
+Feroze_Gandhi	isMarriedTo	Indira_Gandhi
+Indira_Gandhi	isMarriedTo	Feroze_Gandhi
+
+http://dbpedia.org/resource/P._V._Narasimha_Rao	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Indira_Gandhi
+P._V._Narasimha_Rao	Indira_Gandhi
+P._V._Narasimha_Rao	diedIn	New_Delhi
+P._V._Narasimha_Rao	diedIn	New_Delhi
+Indira_Gandhi	diedIn	New_Delhi
+Indira_Gandhi	diedIn	New_Delhi
+
+http://dbpedia.org/resource/Karun_Hosakul	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Yingluck_Shinawatra
+Karun_Hosakul	Yingluck_Shinawatra
+Karun_Hosakul	isAffiliatedTo	Pheu_Thai_Party
+Karun_Hosakul	isAffiliatedTo	Pheu_Thai_Party
+Yingluck_Shinawatra	isAffiliatedTo	Pheu_Thai_Party
+Yingluck_Shinawatra	isAffiliatedTo	Pheu_Thai_Party
+
+http://dbpedia.org/resource/Claus_Hjort_Frederiksen	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Lars_Løkke_Rasmussen
+Claus_Hjort_Frederiksen	Lars_Løkke_Rasmussen
+Claus_Hjort_Frederiksen	graduatedFrom	University_of_Copenhagen
+Claus_Hjort_Frederiksen	graduatedFrom	University_of_Copenhagen
+Lars_Løkke_Rasmussen	graduatedFrom	University_of_Copenhagen
+Lars_Løkke_Rasmussen	graduatedFrom	University_of_Copenhagen
+
+http://dbpedia.org/resource/Vygaudas_Ušackas	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Andrius_Kubilius
+Vygaudas_Ušackas	Andrius_Kubilius
+Vygaudas_Ušackas	wasBornIn	Skuodas
+Vygaudas_Ušackas	wasBornIn	Skuodas
+Skuodas	isLocatedIn	Lithuania
+Skuodas	isLocatedIn	Lithuania
+Andrius_Kubilius	isCitizenOf	Lithuania
+Andrius_Kubilius	isPoliticianOf	Lithuania
+Andrius_Kubilius	isCitizenOf	Lithuania
+Andrius_Kubilius	isPoliticianOf	Lithuania
+
+http://dbpedia.org/resource/Vygaudas_Ušackas	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Andrius_Kubilius
+Vygaudas_Ušackas	Andrius_Kubilius
+Vygaudas_Ušackas	isCitizenOf	Lithuania
+Vygaudas_Ušackas	isCitizenOf	Lithuania
+Andrius_Kubilius	isCitizenOf	Lithuania
+Andrius_Kubilius	isPoliticianOf	Lithuania
+Andrius_Kubilius	isCitizenOf	Lithuania
+Andrius_Kubilius	isPoliticianOf	Lithuania
+
+http://dbpedia.org/resource/Vygaudas_Ušackas	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Andrius_Kubilius
+Vygaudas_Ušackas	Andrius_Kubilius
+Vygaudas_Ušackas	graduatedFrom	Vilnius_University
+Vygaudas_Ušackas	graduatedFrom	Vilnius_University
+Andrius_Kubilius	graduatedFrom	Vilnius_University
+Andrius_Kubilius	graduatedFrom	Vilnius_University
+
+http://dbpedia.org/resource/Vygaudas_Ušackas	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Andrius_Kubilius
+Vygaudas_Ušackas	Andrius_Kubilius
+Vygaudas_Ušackas	graduatedFrom	Vilnius_University
+Vygaudas_Ušackas	graduatedFrom	Vilnius_University
+Vilnius_University	isLocatedIn	Lithuania
+Vilnius_University	isLocatedIn	Lithuania
+Andrius_Kubilius	isCitizenOf	Lithuania
+Andrius_Kubilius	isPoliticianOf	Lithuania
+Andrius_Kubilius	isCitizenOf	Lithuania
+Andrius_Kubilius	isPoliticianOf	Lithuania
+
+http://dbpedia.org/resource/Vygaudas_Ušackas	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Andrius_Kubilius
+Vygaudas_Ušackas	Andrius_Kubilius
+Vygaudas_Ušackas	graduatedFrom	Vilnius_University
+Vygaudas_Ušackas	graduatedFrom	Vilnius_University
+Vilnius_University	isLocatedIn	Vilnius
+Vilnius_University	isLocatedIn	Vilnius
+Andrius_Kubilius	wasBornIn	Vilnius
+Andrius_Kubilius	wasBornIn	Vilnius
+
+http://dbpedia.org/resource/Tan_Siew_Sin	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Abdul_Razak_Hussein
+Tan_Siew_Sin	Abdul_Razak_Hussein
+Tan_Siew_Sin	isPoliticianOf	Malaysia
+Tan_Siew_Sin	isCitizenOf	Malaysia
+Tan_Siew_Sin	isPoliticianOf	Malaysia
+Tan_Siew_Sin	isCitizenOf	Malaysia
+Rahah_Noah	isCitizenOf	Malaysia
+Rahah_Noah	isPoliticianOf	Malaysia
+Rahah_Noah	isCitizenOf	Malaysia
+Rahah_Noah	isPoliticianOf	Malaysia
+Rahah_Noah	isMarriedTo	Abdul_Razak_Hussein
+Abdul_Razak_Hussein	isMarriedTo	Rahah_Noah
+Rahah_Noah	isMarriedTo	Abdul_Razak_Hussein
+Abdul_Razak_Hussein	isMarriedTo	Rahah_Noah
+
+http://dbpedia.org/resource/Habiba_Zehi_Ben_Romdhane	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Mohamed_Ghannouchi
+Habiba_Zehi_Ben_Romdhane	Mohamed_Ghannouchi
+Habiba_Zehi_Ben_Romdhane	graduatedFrom	Tunis_University
+Habiba_Zehi_Ben_Romdhane	graduatedFrom	Tunis_University
+Mohamed_Ghannouchi	graduatedFrom	Tunis_University
+Mohamed_Ghannouchi	graduatedFrom	Tunis_University
+
+http://dbpedia.org/resource/Einars_Repše	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Valdis_Dombrovskis
+Einars_Repše	Valdis_Dombrovskis
+Einars_Repše	isAffiliatedTo	New_Era_Party
+Einars_Repše	isAffiliatedTo	New_Era_Party
+Valdis_Dombrovskis	isAffiliatedTo	New_Era_Party
+Valdis_Dombrovskis	isAffiliatedTo	New_Era_Party
+
+http://dbpedia.org/resource/Einars_Repše	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Valdis_Dombrovskis
+Einars_Repše	Valdis_Dombrovskis
+Einars_Repše	isAffiliatedTo	New_Era_Party
+Einars_Repše	isAffiliatedTo	New_Era_Party
+New_Era_Party	isAffiliatedTo	Unity_(Latvian_political_party)
+New_Era_Party	isAffiliatedTo	Unity_(Latvian_political_party)
+Valdis_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+Valdis_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+
+http://dbpedia.org/resource/António_de_Sousa_Franco	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/António_Guterres
+António_de_Sousa_Franco	António_Guterres
+António_de_Sousa_Franco	graduatedFrom	University_of_Lisbon
+António_de_Sousa_Franco	graduatedFrom	University_of_Lisbon
+António_Guterres	graduatedFrom	University_of_Lisbon
+António_Guterres	graduatedFrom	University_of_Lisbon
+
+http://dbpedia.org/resource/Jure_Bilić	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Ante_Marković
+Jure_Bilić	Ante_Marković
+Jure_Bilić	diedIn	Zagreb
+Jure_Bilić	diedIn	Zagreb
+Ante_Marković	diedIn	Zagreb
+Ante_Marković	diedIn	Zagreb
+
+http://dbpedia.org/resource/Jure_Bilić	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Ante_Marković
+Jure_Bilić	Ante_Marković
+Jure_Bilić	isAffiliatedTo	League_of_Communists_of_Yugoslavia
+Jure_Bilić	isAffiliatedTo	League_of_Communists_of_Yugoslavia
+Ante_Marković	isAffiliatedTo	League_of_Communists_of_Yugoslavia
+Ante_Marković	isAffiliatedTo	League_of_Communists_of_Yugoslavia
+
+http://dbpedia.org/resource/Ilze_Viņķele	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Valdis_Dombrovskis
+Ilze_Viņķele	Valdis_Dombrovskis
+Ilze_Viņķele	isAffiliatedTo	Unity_(Latvian_political_party)
+Ilze_Viņķele	isAffiliatedTo	Unity_(Latvian_political_party)
+New_Era_Party	isAffiliatedTo	Unity_(Latvian_political_party)
+New_Era_Party	isAffiliatedTo	Unity_(Latvian_political_party)
+Valdis_Dombrovskis	isAffiliatedTo	New_Era_Party
+Valdis_Dombrovskis	isAffiliatedTo	New_Era_Party
+
+http://dbpedia.org/resource/Ilze_Viņķele	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Valdis_Dombrovskis
+Ilze_Viņķele	Valdis_Dombrovskis
+Ilze_Viņķele	isAffiliatedTo	Unity_(Latvian_political_party)
+Ilze_Viņķele	isAffiliatedTo	Unity_(Latvian_political_party)
+Valdis_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+Valdis_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+
+http://dbpedia.org/resource/Zvonimir_Šeparović	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Franjo_Gregurić
+Zvonimir_Šeparović	Franjo_Gregurić
+Zvonimir_Šeparović	graduatedFrom	University_of_Zagreb
+Zvonimir_Šeparović	graduatedFrom	University_of_Zagreb
+Franjo_Gregurić	graduatedFrom	University_of_Zagreb
+Franjo_Gregurić	graduatedFrom	University_of_Zagreb
+
+http://dbpedia.org/resource/Dawee_Chullasapya	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Seni_Pramoj
+Dawee_Chullasapya	Seni_Pramoj
+Dawee_Chullasapya	isPoliticianOf	Thailand
+Dawee_Chullasapya	isCitizenOf	Thailand
+Dawee_Chullasapya	isPoliticianOf	Thailand
+Dawee_Chullasapya	isCitizenOf	Thailand
+Seni_Pramoj	isCitizenOf	Thailand
+Seni_Pramoj	isPoliticianOf	Thailand
+Seni_Pramoj	isCitizenOf	Thailand
+Seni_Pramoj	isPoliticianOf	Thailand
+
+http://dbpedia.org/resource/Ingrīda_Circene	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Einars_Repše
+Ingrīda_Circene	Einars_Repše
+Ingrīda_Circene	isAffiliatedTo	Unity_(Latvian_political_party)
+Ingrīda_Circene	isAffiliatedTo	Unity_(Latvian_political_party)
+New_Era_Party	isAffiliatedTo	Unity_(Latvian_political_party)
+New_Era_Party	isAffiliatedTo	Unity_(Latvian_political_party)
+Einars_Repše	isAffiliatedTo	New_Era_Party
+Einars_Repše	isAffiliatedTo	New_Era_Party
+
+http://dbpedia.org/resource/Gordon_O'Connor	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Stephen_Harper
+Gordon_O'Connor	Stephen_Harper
+Gordon_O'Connor	isAffiliatedTo	Conservative_Party_of_Canada
+Gordon_O'Connor	isAffiliatedTo	Conservative_Party_of_Canada
+Stephen_Harper	isAffiliatedTo	Conservative_Party_of_Canada
+Stephen_Harper	isAffiliatedTo	Conservative_Party_of_Canada
+
+http://dbpedia.org/resource/Javier_Solana	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Felipe_González
+Javier_Solana	Felipe_González
+Javier_Solana	isAffiliatedTo	Spanish_Socialist_Workers'_Party
+Javier_Solana	isAffiliatedTo	Spanish_Socialist_Workers'_Party
+Felipe_González	isAffiliatedTo	Spanish_Socialist_Workers'_Party
+Felipe_González	isAffiliatedTo	Spanish_Socialist_Workers'_Party
+
+http://dbpedia.org/resource/Sirimavo_Bandaranaike	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Dudley_Senanayake
+Sirimavo_Bandaranaike	Dudley_Senanayake
+Sirimavo_Bandaranaike	isPoliticianOf	Sri_Lanka
+Sirimavo_Bandaranaike	isCitizenOf	Sri_Lanka
+Sirimavo_Bandaranaike	isPoliticianOf	Sri_Lanka
+Sirimavo_Bandaranaike	isCitizenOf	Sri_Lanka
+Dudley_Senanayake	isCitizenOf	Sri_Lanka
+Dudley_Senanayake	wasBornIn	Sri_Lanka
+Dudley_Senanayake	isPoliticianOf	Sri_Lanka
+Dudley_Senanayake	isCitizenOf	Sri_Lanka
+Dudley_Senanayake	wasBornIn	Sri_Lanka
+Dudley_Senanayake	isPoliticianOf	Sri_Lanka
+
+http://dbpedia.org/resource/Carlo_Trigilia	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Enrico_Letta
+Carlo_Trigilia	Enrico_Letta
+Carlo_Trigilia	isAffiliatedTo	Democratic_Party_(Italy)
+Carlo_Trigilia	isAffiliatedTo	Democratic_Party_(Italy)
+Enrico_Letta	isAffiliatedTo	Democratic_Party_(Italy)
+Enrico_Letta	isAffiliatedTo	Democratic_Party_(Italy)
+
+http://dbpedia.org/resource/Leopoldo_Calvo-Sotelo	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Adolfo_Suárez
+Leopoldo_Calvo-Sotelo	Adolfo_Suárez
+Leopoldo_Calvo-Sotelo	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Leopoldo_Calvo-Sotelo	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Adolfo_Suárez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Adolfo_Suárez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+
+http://dbpedia.org/resource/J._R._Jayewardene	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Dudley_Senanayake
+J._R._Jayewardene	Dudley_Senanayake
+J._R._Jayewardene	diedIn	Sri_Lanka
+J._R._Jayewardene	isCitizenOf	Sri_Lanka
+J._R._Jayewardene	isPoliticianOf	Sri_Lanka
+J._R._Jayewardene	diedIn	Sri_Lanka
+J._R._Jayewardene	isCitizenOf	Sri_Lanka
+J._R._Jayewardene	isPoliticianOf	Sri_Lanka
+Dudley_Senanayake	isCitizenOf	Sri_Lanka
+Dudley_Senanayake	wasBornIn	Sri_Lanka
+Dudley_Senanayake	isPoliticianOf	Sri_Lanka
+Dudley_Senanayake	isCitizenOf	Sri_Lanka
+Dudley_Senanayake	wasBornIn	Sri_Lanka
+Dudley_Senanayake	isPoliticianOf	Sri_Lanka
+
+http://dbpedia.org/resource/Alberto_Madruga_da_Costa	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/António_Guterres
+Alberto_Madruga_da_Costa	António_Guterres
+Alberto_Madruga_da_Costa	graduatedFrom	University_of_Lisbon
+Alberto_Madruga_da_Costa	graduatedFrom	University_of_Lisbon
+António_Guterres	graduatedFrom	University_of_Lisbon
+António_Guterres	graduatedFrom	University_of_Lisbon
+
+http://dbpedia.org/resource/Erkki_Tuomioja	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Paavo_Lipponen
+Erkki_Tuomioja	Paavo_Lipponen
+Erkki_Tuomioja	graduatedFrom	University_of_Helsinki
+Erkki_Tuomioja	graduatedFrom	University_of_Helsinki
+Paavo_Lipponen	graduatedFrom	University_of_Helsinki
+Paavo_Lipponen	graduatedFrom	University_of_Helsinki
+
+http://dbpedia.org/resource/Bidhya_Devi_Bhandari	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Madhav_Kumar_Nepal
+Bidhya_Devi_Bhandari	Madhav_Kumar_Nepal
+Bidhya_Devi_Bhandari	isLeaderOf	Nepal
+Bidhya_Devi_Bhandari	isPoliticianOf	Nepal
+Bidhya_Devi_Bhandari	isCitizenOf	Nepal
+Bidhya_Devi_Bhandari	isLeaderOf	Nepal
+Bidhya_Devi_Bhandari	isPoliticianOf	Nepal
+Bidhya_Devi_Bhandari	isCitizenOf	Nepal
+Communist_Party_of_Nepal_(Unified_Marxist–Leninist)	isLocatedIn	Nepal
+Communist_Party_of_Nepal_(Unified_Marxist–Leninist)	isLocatedIn	Nepal
+Madhav_Kumar_Nepal	isAffiliatedTo	Communist_Party_of_Nepal_(Unified_Marxist–Leninist)
+Madhav_Kumar_Nepal	isAffiliatedTo	Communist_Party_of_Nepal_(Unified_Marxist–Leninist)
+
+http://dbpedia.org/resource/Emilio_Colombo	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Giovanni_Spadolini
+Emilio_Colombo	Giovanni_Spadolini
+Emilio_Colombo	isAffiliatedTo	Italian_Republican_Party
+Emilio_Colombo	isAffiliatedTo	Italian_Republican_Party
+Giovanni_Spadolini	isAffiliatedTo	Italian_Republican_Party
+Giovanni_Spadolini	isAffiliatedTo	Italian_Republican_Party
+
+http://dbpedia.org/resource/Pranab_Mukherjee	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Indira_Gandhi
+Pranab_Mukherjee	Indira_Gandhi
+Pranab_Mukherjee	isMarriedTo	Suvra_Mukherjee
+Suvra_Mukherjee	isMarriedTo	Pranab_Mukherjee
+Pranab_Mukherjee	isMarriedTo	Suvra_Mukherjee
+Suvra_Mukherjee	isMarriedTo	Pranab_Mukherjee
+Suvra_Mukherjee	livesIn	New_Delhi
+Suvra_Mukherjee	diedIn	New_Delhi
+Suvra_Mukherjee	livesIn	New_Delhi
+Suvra_Mukherjee	diedIn	New_Delhi
+Indira_Gandhi	diedIn	New_Delhi
+Indira_Gandhi	diedIn	New_Delhi
+
+http://dbpedia.org/resource/Ingibjörg_Sólrún_Gísladóttir	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Geir_Haarde
+Ingibjörg_Sólrún_Gísladóttir	Geir_Haarde
+Ingibjörg_Sólrún_Gísladóttir	isPoliticianOf	Iceland
+Ingibjörg_Sólrún_Gísladóttir	isCitizenOf	Iceland
+Ingibjörg_Sólrún_Gísladóttir	isPoliticianOf	Iceland
+Ingibjörg_Sólrún_Gísladóttir	isCitizenOf	Iceland
+Geir_Haarde	isPoliticianOf	Iceland
+Geir_Haarde	isCitizenOf	Iceland
+Geir_Haarde	isPoliticianOf	Iceland
+Geir_Haarde	isCitizenOf	Iceland
+
+http://dbpedia.org/resource/Henrique_Medina_Carreira	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Mário_Soares
+Henrique_Medina_Carreira	Mário_Soares
+Henrique_Medina_Carreira	graduatedFrom	University_of_Lisbon
+Henrique_Medina_Carreira	graduatedFrom	University_of_Lisbon
+University_of_Lisbon	isLocatedIn	Lisbon
+University_of_Lisbon	isLocatedIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+
+http://dbpedia.org/resource/Henrique_Medina_Carreira	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Mário_Soares
+Henrique_Medina_Carreira	Mário_Soares
+Henrique_Medina_Carreira	graduatedFrom	University_of_Lisbon
+Henrique_Medina_Carreira	graduatedFrom	University_of_Lisbon
+João_Soares_(politician)	graduatedFrom	University_of_Lisbon
+João_Soares_(politician)	graduatedFrom	University_of_Lisbon
+Mário_Soares	hasChild	João_Soares_(politician)
+Mário_Soares	hasChild	João_Soares_(politician)
+
+http://dbpedia.org/resource/Henrique_Medina_Carreira	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Mário_Soares
+Henrique_Medina_Carreira	Mário_Soares
+Henrique_Medina_Carreira	graduatedFrom	University_of_Lisbon
+Henrique_Medina_Carreira	graduatedFrom	University_of_Lisbon
+Mário_Soares	graduatedFrom	University_of_Lisbon
+Mário_Soares	graduatedFrom	University_of_Lisbon
+
+http://dbpedia.org/resource/Henrique_Medina_Carreira	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Mário_Soares
+Henrique_Medina_Carreira	Mário_Soares
+Henrique_Medina_Carreira	graduatedFrom	University_of_Lisbon
+Henrique_Medina_Carreira	graduatedFrom	University_of_Lisbon
+Maria_Barroso	graduatedFrom	University_of_Lisbon
+Maria_Barroso	graduatedFrom	University_of_Lisbon
+Mário_Soares	isMarriedTo	Maria_Barroso
+Maria_Barroso	isMarriedTo	Mário_Soares
+Mário_Soares	isMarriedTo	Maria_Barroso
+Maria_Barroso	isMarriedTo	Mário_Soares
+
+http://dbpedia.org/resource/Henrique_Medina_Carreira	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Mário_Soares
+Henrique_Medina_Carreira	Mário_Soares
+Henrique_Medina_Carreira	isAffiliatedTo	Socialist_Party_(Portugal)
+Henrique_Medina_Carreira	isAffiliatedTo	Socialist_Party_(Portugal)
+Mário_Soares	isAffiliatedTo	Socialist_Party_(Portugal)
+Mário_Soares	isLeaderOf	Socialist_Party_(Portugal)
+Mário_Soares	isAffiliatedTo	Socialist_Party_(Portugal)
+Mário_Soares	isLeaderOf	Socialist_Party_(Portugal)
+
+http://dbpedia.org/resource/Henrique_Medina_Carreira	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Mário_Soares
+Henrique_Medina_Carreira	Mário_Soares
+Henrique_Medina_Carreira	isAffiliatedTo	Socialist_Party_(Portugal)
+Henrique_Medina_Carreira	isAffiliatedTo	Socialist_Party_(Portugal)
+Socialist_Party_(Portugal)	isLocatedIn	Lisbon
+Socialist_Party_(Portugal)	isLocatedIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+
+http://dbpedia.org/resource/Henrique_Medina_Carreira	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Mário_Soares
+Henrique_Medina_Carreira	Mário_Soares
+Henrique_Medina_Carreira	isAffiliatedTo	Socialist_Party_(Portugal)
+Henrique_Medina_Carreira	isAffiliatedTo	Socialist_Party_(Portugal)
+João_Soares_(politician)	isAffiliatedTo	Socialist_Party_(Portugal)
+João_Soares_(politician)	isAffiliatedTo	Socialist_Party_(Portugal)
+Mário_Soares	hasChild	João_Soares_(politician)
+Mário_Soares	hasChild	João_Soares_(politician)
+
+http://dbpedia.org/resource/Luigi_Berlinguer	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Massimo_D'Alema
+Luigi_Berlinguer	Massimo_D'Alema
+Luigi_Berlinguer	isAffiliatedTo	Democrats_of_the_Left
+Luigi_Berlinguer	isAffiliatedTo	Democrats_of_the_Left
+Democrats_of_the_Left	isAffiliatedTo	The_Olive_Tree_(Italy)
+Democrats_of_the_Left	isAffiliatedTo	The_Olive_Tree_(Italy)
+Massimo_D'Alema	isAffiliatedTo	The_Olive_Tree_(Italy)
+Massimo_D'Alema	isAffiliatedTo	The_Olive_Tree_(Italy)
+
+http://dbpedia.org/resource/Luigi_Berlinguer	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Massimo_D'Alema
+Luigi_Berlinguer	Massimo_D'Alema
+Luigi_Berlinguer	isAffiliatedTo	Democrats_of_the_Left
+Luigi_Berlinguer	isAffiliatedTo	Democrats_of_the_Left
+Massimo_D'Alema	isLeaderOf	Democrats_of_the_Left
+Massimo_D'Alema	isLeaderOf	Democrats_of_the_Left
+
+http://dbpedia.org/resource/Luigi_Berlinguer	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Massimo_D'Alema
+Luigi_Berlinguer	Massimo_D'Alema
+Luigi_Berlinguer	isAffiliatedTo	Democratic_Party_(Italy)
+Luigi_Berlinguer	isAffiliatedTo	Democratic_Party_(Italy)
+Massimo_D'Alema	isAffiliatedTo	Democratic_Party_(Italy)
+Massimo_D'Alema	isAffiliatedTo	Democratic_Party_(Italy)
+
+http://dbpedia.org/resource/Mário_Soares	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/António_Guterres
+Mário_Soares	António_Guterres
+Mário_Soares	isMarriedTo	Maria_Barroso
+Maria_Barroso	isMarriedTo	Mário_Soares
+Mário_Soares	isMarriedTo	Maria_Barroso
+Maria_Barroso	isMarriedTo	Mário_Soares
+Maria_Barroso	graduatedFrom	University_of_Lisbon
+Maria_Barroso	graduatedFrom	University_of_Lisbon
+António_Guterres	graduatedFrom	University_of_Lisbon
+António_Guterres	graduatedFrom	University_of_Lisbon
+
+http://dbpedia.org/resource/Mário_Soares	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/António_Guterres
+Mário_Soares	António_Guterres
+Mário_Soares	hasChild	João_Soares_(politician)
+Mário_Soares	hasChild	João_Soares_(politician)
+João_Soares_(politician)	graduatedFrom	University_of_Lisbon
+João_Soares_(politician)	graduatedFrom	University_of_Lisbon
+António_Guterres	graduatedFrom	University_of_Lisbon
+António_Guterres	graduatedFrom	University_of_Lisbon
+
+http://dbpedia.org/resource/Mário_Soares	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/António_Guterres
+Mário_Soares	António_Guterres
+Mário_Soares	hasChild	João_Soares_(politician)
+Mário_Soares	hasChild	João_Soares_(politician)
+João_Soares_(politician)	isAffiliatedTo	Socialist_Party_(Portugal)
+João_Soares_(politician)	isAffiliatedTo	Socialist_Party_(Portugal)
+António_Guterres	isAffiliatedTo	Socialist_Party_(Portugal)
+António_Guterres	isAffiliatedTo	Socialist_Party_(Portugal)
+
+http://dbpedia.org/resource/Hussein_Onn	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Abdul_Razak_Hussein
+Hussein_Onn	Abdul_Razak_Hussein
+Hussein_Onn	isCitizenOf	Malaysia
+Hussein_Onn	isPoliticianOf	Malaysia
+Hussein_Onn	isCitizenOf	Malaysia
+Hussein_Onn	isPoliticianOf	Malaysia
+Rahah_Noah	isCitizenOf	Malaysia
+Rahah_Noah	isPoliticianOf	Malaysia
+Rahah_Noah	isCitizenOf	Malaysia
+Rahah_Noah	isPoliticianOf	Malaysia
+Rahah_Noah	isMarriedTo	Abdul_Razak_Hussein
+Abdul_Razak_Hussein	isMarriedTo	Rahah_Noah
+Rahah_Noah	isMarriedTo	Abdul_Razak_Hussein
+Abdul_Razak_Hussein	isMarriedTo	Rahah_Noah
+
+http://dbpedia.org/resource/Valdas_Adamkus	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Algirdas_Brazauskas
+Valdas_Adamkus	Algirdas_Brazauskas
+Valdas_Adamkus	isMarriedTo	Alma_Adamkienė
+Alma_Adamkienė	isMarriedTo	Valdas_Adamkus
+Valdas_Adamkus	isMarriedTo	Alma_Adamkienė
+Alma_Adamkienė	isMarriedTo	Valdas_Adamkus
+Alma_Adamkienė	isCitizenOf	Lithuania
+Alma_Adamkienė	isCitizenOf	Lithuania
+Algirdas_Brazauskas	isCitizenOf	Lithuania
+Algirdas_Brazauskas	isPoliticianOf	Lithuania
+Algirdas_Brazauskas	isCitizenOf	Lithuania
+Algirdas_Brazauskas	isPoliticianOf	Lithuania
+
+http://dbpedia.org/resource/Valdas_Adamkus	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Algirdas_Brazauskas
+Valdas_Adamkus	Algirdas_Brazauskas
+Valdas_Adamkus	isPoliticianOf	Lithuania
+Valdas_Adamkus	isCitizenOf	Lithuania
+Valdas_Adamkus	isPoliticianOf	Lithuania
+Valdas_Adamkus	isCitizenOf	Lithuania
+Algirdas_Brazauskas	isCitizenOf	Lithuania
+Algirdas_Brazauskas	isPoliticianOf	Lithuania
+Algirdas_Brazauskas	isCitizenOf	Lithuania
+Algirdas_Brazauskas	isPoliticianOf	Lithuania
+
+http://dbpedia.org/resource/Sam_Hinds	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Janet_Jagan
+Sam_Hinds	Janet_Jagan
+Sam_Hinds	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+Sam_Hinds	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+Cheddi_Jagan	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+Cheddi_Jagan	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+Cheddi_Jagan	isMarriedTo	Janet_Jagan
+Janet_Jagan	isMarriedTo	Cheddi_Jagan
+Cheddi_Jagan	isMarriedTo	Janet_Jagan
+Janet_Jagan	isMarriedTo	Cheddi_Jagan
+
+http://dbpedia.org/resource/Sam_Hinds	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Janet_Jagan
+Sam_Hinds	Janet_Jagan
+Sam_Hinds	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+Sam_Hinds	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+Janet_Jagan	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+Janet_Jagan	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+
+http://dbpedia.org/resource/Hok_Lundy	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Ung_Huot
+Hok_Lundy	Ung_Huot
+Hok_Lundy	isPoliticianOf	Phnom_Penh
+Hok_Lundy	isPoliticianOf	Phnom_Penh
+FUNCINPEC	isLocatedIn	Phnom_Penh
+FUNCINPEC	isLocatedIn	Phnom_Penh
+Ung_Huot	isAffiliatedTo	FUNCINPEC
+Ung_Huot	isAffiliatedTo	FUNCINPEC
+
+http://dbpedia.org/resource/Charles_Helou	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Abdallah_El-Yafi
+Charles_Helou	Abdallah_El-Yafi
+Charles_Helou	isCitizenOf	Lebanon
+Charles_Helou	isPoliticianOf	Lebanon
+Charles_Helou	isCitizenOf	Lebanon
+Charles_Helou	isPoliticianOf	Lebanon
+Abdallah_El-Yafi	isCitizenOf	Lebanon
+Abdallah_El-Yafi	isPoliticianOf	Lebanon
+Abdallah_El-Yafi	isCitizenOf	Lebanon
+Abdallah_El-Yafi	isPoliticianOf	Lebanon
+
+http://dbpedia.org/resource/Charles_Helou	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Abdallah_El-Yafi
+Charles_Helou	Abdallah_El-Yafi
+Charles_Helou	graduatedFrom	Saint_Joseph_University
+Charles_Helou	graduatedFrom	Saint_Joseph_University
+Saint_Joseph_University	isLocatedIn	Lebanon
+Saint_Joseph_University	isLocatedIn	Lebanon
+Abdallah_El-Yafi	isCitizenOf	Lebanon
+Abdallah_El-Yafi	isPoliticianOf	Lebanon
+Abdallah_El-Yafi	isCitizenOf	Lebanon
+Abdallah_El-Yafi	isPoliticianOf	Lebanon
+
+http://dbpedia.org/resource/Óscar_Carmona	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Artur_Ivens_Ferraz
+Óscar_Carmona	Artur_Ivens_Ferraz
+Óscar_Carmona	diedIn	Lisbon
+Óscar_Carmona	wasBornIn	Lisbon
+Óscar_Carmona	diedIn	Lisbon
+Óscar_Carmona	wasBornIn	Lisbon
+Artur_Ivens_Ferraz	wasBornIn	Lisbon
+Artur_Ivens_Ferraz	diedIn	Lisbon
+Artur_Ivens_Ferraz	wasBornIn	Lisbon
+Artur_Ivens_Ferraz	diedIn	Lisbon
+
+http://dbpedia.org/resource/John_Wrathall	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Ian_Smith
+John_Wrathall	Ian_Smith
+John_Wrathall	isAffiliatedTo	Rhodesian_Front
+John_Wrathall	isAffiliatedTo	Rhodesian_Front
+Ian_Smith	isLeaderOf	Rhodesian_Front
+Ian_Smith	isAffiliatedTo	Rhodesian_Front
+Ian_Smith	isLeaderOf	Rhodesian_Front
+Ian_Smith	isAffiliatedTo	Rhodesian_Front
+
+http://dbpedia.org/resource/Igor_Lukšić	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Milo_Đukanović
+Igor_Lukšić	Milo_Đukanović
+Igor_Lukšić	isPoliticianOf	Montenegro
+Igor_Lukšić	isCitizenOf	Montenegro
+Igor_Lukšić	isPoliticianOf	Montenegro
+Igor_Lukšić	isCitizenOf	Montenegro
+Milo_Đukanović	isCitizenOf	Montenegro
+Milo_Đukanović	isPoliticianOf	Montenegro
+Milo_Đukanović	isCitizenOf	Montenegro
+Milo_Đukanović	isPoliticianOf	Montenegro
+
+http://dbpedia.org/resource/Igor_Lukšić	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Milo_Đukanović
+Igor_Lukšić	Milo_Đukanović
+Igor_Lukšić	isPoliticianOf	Montenegro
+Igor_Lukšić	isCitizenOf	Montenegro
+Igor_Lukšić	isPoliticianOf	Montenegro
+Igor_Lukšić	isCitizenOf	Montenegro
+Nikšić	isLocatedIn	Montenegro
+Nikšić	isLocatedIn	Montenegro
+Milo_Đukanović	wasBornIn	Nikšić
+Milo_Đukanović	wasBornIn	Nikšić
+
+http://dbpedia.org/resource/Stephen_Kinnock	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Helle_Thorning-Schmidt
+Stephen_Kinnock	Helle_Thorning-Schmidt
+Stephen_Kinnock	isMarriedTo	Helle_Thorning-Schmidt
+Helle_Thorning-Schmidt	isMarriedTo	Stephen_Kinnock
+Stephen_Kinnock	isMarriedTo	Helle_Thorning-Schmidt
+Helle_Thorning-Schmidt	isMarriedTo	Stephen_Kinnock
+
+http://dbpedia.org/resource/Marlies_Amann-Marxer	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Adrian_Hasler
+Marlies_Amann-Marxer	Adrian_Hasler
+Marlies_Amann-Marxer	isCitizenOf	Liechtenstein
+Marlies_Amann-Marxer	isPoliticianOf	Liechtenstein
+Marlies_Amann-Marxer	isCitizenOf	Liechtenstein
+Marlies_Amann-Marxer	isPoliticianOf	Liechtenstein
+Adrian_Hasler	isPoliticianOf	Liechtenstein
+Adrian_Hasler	isCitizenOf	Liechtenstein
+Adrian_Hasler	isLeaderOf	Liechtenstein
+Adrian_Hasler	isPoliticianOf	Liechtenstein
+Adrian_Hasler	isCitizenOf	Liechtenstein
+Adrian_Hasler	isLeaderOf	Liechtenstein
+
+http://dbpedia.org/resource/Cécile_Kyenge	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Enrico_Letta
+Cécile_Kyenge	Enrico_Letta
+Cécile_Kyenge	isAffiliatedTo	Democratic_Party_(Italy)
+Cécile_Kyenge	isAffiliatedTo	Democratic_Party_(Italy)
+Enrico_Letta	isAffiliatedTo	Democratic_Party_(Italy)
+Enrico_Letta	isAffiliatedTo	Democratic_Party_(Italy)
+
+http://dbpedia.org/resource/Evripidis_Stylianidis	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Antonis_Samaras
+Evripidis_Stylianidis	Antonis_Samaras
+Evripidis_Stylianidis	isAffiliatedTo	New_Democracy_(Greece)
+Evripidis_Stylianidis	isAffiliatedTo	New_Democracy_(Greece)
+Antonis_Samaras	isAffiliatedTo	New_Democracy_(Greece)
+Antonis_Samaras	isAffiliatedTo	New_Democracy_(Greece)
+
+http://dbpedia.org/resource/Mahathir_Mohamad	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Abdul_Razak_Hussein
+Mahathir_Mohamad	Abdul_Razak_Hussein
+Mahathir_Mohamad	isCitizenOf	Malaysia
+Mahathir_Mohamad	isPoliticianOf	Malaysia
+Mahathir_Mohamad	isCitizenOf	Malaysia
+Mahathir_Mohamad	isPoliticianOf	Malaysia
+Rahah_Noah	isCitizenOf	Malaysia
+Rahah_Noah	isPoliticianOf	Malaysia
+Rahah_Noah	isCitizenOf	Malaysia
+Rahah_Noah	isPoliticianOf	Malaysia
+Rahah_Noah	isMarriedTo	Abdul_Razak_Hussein
+Abdul_Razak_Hussein	isMarriedTo	Rahah_Noah
+Rahah_Noah	isMarriedTo	Abdul_Razak_Hussein
+Abdul_Razak_Hussein	isMarriedTo	Rahah_Noah
+
+http://dbpedia.org/resource/Vjačeslavs_Dombrovskis	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Valdis_Dombrovskis
+Vjačeslavs_Dombrovskis	Valdis_Dombrovskis
+Vjačeslavs_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+Vjačeslavs_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+New_Era_Party	isAffiliatedTo	Unity_(Latvian_political_party)
+New_Era_Party	isAffiliatedTo	Unity_(Latvian_political_party)
+Valdis_Dombrovskis	isAffiliatedTo	New_Era_Party
+Valdis_Dombrovskis	isAffiliatedTo	New_Era_Party
+
+http://dbpedia.org/resource/Vjačeslavs_Dombrovskis	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Valdis_Dombrovskis
+Vjačeslavs_Dombrovskis	Valdis_Dombrovskis
+Vjačeslavs_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+Vjačeslavs_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+Valdis_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+Valdis_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+
+http://dbpedia.org/resource/Vjačeslavs_Dombrovskis	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Valdis_Dombrovskis
+Vjačeslavs_Dombrovskis	Valdis_Dombrovskis
+Vjačeslavs_Dombrovskis	wasBornIn	Riga
+Vjačeslavs_Dombrovskis	wasBornIn	Riga
+Unity_(Latvian_political_party)	isLocatedIn	Riga
+Unity_(Latvian_political_party)	isLocatedIn	Riga
+Valdis_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+Valdis_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+
+http://dbpedia.org/resource/Julius_Nyerere	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Rashidi_Kawawa
+Julius_Nyerere	Rashidi_Kawawa
+Julius_Nyerere	hasChild	Makongoro_Nyerere
+Julius_Nyerere	hasChild	Makongoro_Nyerere
+Makongoro_Nyerere	isAffiliatedTo	Chama_Cha_Mapinduzi
+Makongoro_Nyerere	isAffiliatedTo	Chama_Cha_Mapinduzi
+Rashidi_Kawawa	isAffiliatedTo	Chama_Cha_Mapinduzi
+Rashidi_Kawawa	isAffiliatedTo	Chama_Cha_Mapinduzi
+
+http://dbpedia.org/resource/Igor_Lukšič	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Borut_Pahor
+Igor_Lukšič	Borut_Pahor
+Igor_Lukšič	isAffiliatedTo	Social_Democrats_(Slovenia)
+Igor_Lukšič	isAffiliatedTo	Social_Democrats_(Slovenia)
+Borut_Pahor	isAffiliatedTo	Social_Democrats_(Slovenia)
+Borut_Pahor	isAffiliatedTo	Social_Democrats_(Slovenia)
+
+http://dbpedia.org/resource/Rahah_Noah	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Abdul_Razak_Hussein
+Rahah_Noah	Abdul_Razak_Hussein
+Rahah_Noah	isMarriedTo	Abdul_Razak_Hussein
+Abdul_Razak_Hussein	isMarriedTo	Rahah_Noah
+Rahah_Noah	isMarriedTo	Abdul_Razak_Hussein
+Abdul_Razak_Hussein	isMarriedTo	Rahah_Noah
+
+http://dbpedia.org/resource/Rahah_Noah	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Abdul_Razak_Hussein
+Rahah_Noah	Abdul_Razak_Hussein
+Rahah_Noah	hasChild	Najib_Razak
+Rahah_Noah	hasChild	Najib_Razak
+Rahah_Noah	hasChild	Najib_Razak
+Rahah_Noah	hasChild	Najib_Razak
+Rahah_Noah	isMarriedTo	Abdul_Razak_Hussein
+Abdul_Razak_Hussein	isMarriedTo	Rahah_Noah
+Rahah_Noah	isMarriedTo	Abdul_Razak_Hussein
+Abdul_Razak_Hussein	isMarriedTo	Rahah_Noah
+
+http://dbpedia.org/resource/Rahah_Noah	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Abdul_Razak_Hussein
+Rahah_Noah	Abdul_Razak_Hussein
+Rahah_Noah	hasChild	Nazir_Razak
+Rahah_Noah	hasChild	Nazir_Razak
+Abdul_Razak_Hussein	hasChild	Nazir_Razak
+Abdul_Razak_Hussein	hasChild	Nazir_Razak
+
+http://dbpedia.org/resource/Rahah_Noah	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Abdul_Razak_Hussein
+Rahah_Noah	Abdul_Razak_Hussein
+Rahah_Noah	hasChild	Nazir_Razak
+Rahah_Noah	hasChild	Nazir_Razak
+Rahah_Noah	hasChild	Nazir_Razak
+Rahah_Noah	hasChild	Nazir_Razak
+Rahah_Noah	isMarriedTo	Abdul_Razak_Hussein
+Abdul_Razak_Hussein	isMarriedTo	Rahah_Noah
+Rahah_Noah	isMarriedTo	Abdul_Razak_Hussein
+Abdul_Razak_Hussein	isMarriedTo	Rahah_Noah
+
+http://dbpedia.org/resource/Rahah_Noah	http://dbpedia.org/ontology/primeMinister	http://dbpedia.org/resource/Abdul_Razak_Hussein
+Rahah_Noah	Abdul_Razak_Hussein
+Rahah_Noah	isCitizenOf	Malaysia
+Rahah_Noah	isPoliticianOf	Malaysia
+Rahah_Noah	isCitizenOf	Malaysia
+Rahah_Noah	isPoliticianOf	Malaysia
+Rahah_Noah	isCitizenOf	Malaysia
+Rahah_Noah	isPoliticianOf	Malaysia
+Rahah_Noah	isCitizenOf	Malaysia
+Rahah_Noah	isPoliticianOf	Malaysia
+Rahah_Noah	isMarriedTo	Abdul_Razak_Hussein
+Abdul_Razak_Hussein	isMarriedTo	Rahah_Noah
+Rahah_Noah	isMarriedTo	Abdul_Razak_Hussein
+Abdul_Razak_Hussein	isMarriedTo	Rahah_Noah
+

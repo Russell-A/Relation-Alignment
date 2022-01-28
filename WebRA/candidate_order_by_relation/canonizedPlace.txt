@@ -1,0 +1,50 @@
+http://dbpedia.org/resource/Mary_Magdalene_de'_Pazzi	http://dbpedia.org/ontology/canonizedPlace	http://dbpedia.org/resource/Rome
+Mary_Magdalene_de'_Pazzi	Rome
+Mary_Magdalene_de'_Pazzi	wasBornIn	Florence
+Mary_Magdalene_de'_Pazzi	wasBornIn	Florence
+Istituto_Europeo_di_Design	isLocatedIn	Florence
+Istituto_Europeo_di_Design	isLocatedIn	Florence
+Istituto_Europeo_di_Design	isLocatedIn	Rome
+Istituto_Europeo_di_Design	isLocatedIn	Rome
+
+http://dbpedia.org/resource/Mary_Magdalene_de'_Pazzi	http://dbpedia.org/ontology/canonizedPlace	http://dbpedia.org/resource/Rome
+Mary_Magdalene_de'_Pazzi	Rome
+Mary_Magdalene_de'_Pazzi	wasBornIn	Florence
+Mary_Magdalene_de'_Pazzi	wasBornIn	Florence
+The_Stendhal_Syndrome	isLocatedIn	Florence
+The_Stendhal_Syndrome	isLocatedIn	Florence
+The_Stendhal_Syndrome	isLocatedIn	Rome
+The_Stendhal_Syndrome	isLocatedIn	Rome
+
+http://dbpedia.org/resource/Mary_Magdalene_de'_Pazzi	http://dbpedia.org/ontology/canonizedPlace	http://dbpedia.org/resource/Rome
+Mary_Magdalene_de'_Pazzi	Rome
+Mary_Magdalene_de'_Pazzi	influences	Francisca_Josefa_de_la_Concepción
+Mary_Magdalene_de'_Pazzi	influences	Francisca_Josefa_de_la_Concepción
+Ignatius_of_Loyola	influences	Francisca_Josefa_de_la_Concepción
+Ignatius_of_Loyola	influences	Francisca_Josefa_de_la_Concepción
+Ignatius_of_Loyola	diedIn	Rome
+Ignatius_of_Loyola	diedIn	Rome
+
+http://dbpedia.org/resource/Francis_of_Assisi	http://dbpedia.org/ontology/canonizedPlace	http://dbpedia.org/resource/Assisi
+Francis_of_Assisi	Assisi
+Francis_of_Assisi	influences	James_D._Kirylo
+Francis_of_Assisi	influences	James_D._Kirylo
+Francis_of_Assisi	influences	James_D._Kirylo
+Francis_of_Assisi	influences	James_D._Kirylo
+Francis_of_Assisi	wasBornIn	Assisi
+Francis_of_Assisi	wasBornIn	Assisi
+
+http://dbpedia.org/resource/Francis_of_Assisi	http://dbpedia.org/ontology/canonizedPlace	http://dbpedia.org/resource/Assisi
+Francis_of_Assisi	Assisi
+Francis_of_Assisi	wasBornIn	Assisi
+Francis_of_Assisi	wasBornIn	Assisi
+
+http://dbpedia.org/resource/Francis_of_Assisi	http://dbpedia.org/ontology/canonizedPlace	http://dbpedia.org/resource/Assisi
+Francis_of_Assisi	Assisi
+Francis_of_Assisi	influences	Jan_Kasprowicz
+Francis_of_Assisi	influences	Jan_Kasprowicz
+Francis_of_Assisi	influences	Jan_Kasprowicz
+Francis_of_Assisi	influences	Jan_Kasprowicz
+Francis_of_Assisi	wasBornIn	Assisi
+Francis_of_Assisi	wasBornIn	Assisi
+

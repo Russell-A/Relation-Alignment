@@ -1,0 +1,345 @@
+http://dbpedia.org/resource/Henry_Louis_Larsen	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Laurence_Wild
+Henry_Louis_Larsen	Laurence_Wild
+Henry_Louis_Larsen	isPoliticianOf	American_Samoa
+Henry_Louis_Larsen	isCitizenOf	American_Samoa
+Henry_Louis_Larsen	isPoliticianOf	American_Samoa
+Henry_Louis_Larsen	isCitizenOf	American_Samoa
+Laurence_Wild	isPoliticianOf	American_Samoa
+Laurence_Wild	isCitizenOf	American_Samoa
+Laurence_Wild	isPoliticianOf	American_Samoa
+Laurence_Wild	isCitizenOf	American_Samoa
+
+http://dbpedia.org/resource/Salvador_M._Padilla_Escabi	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Rafael_Hernández_Colón
+Salvador_M._Padilla_Escabi	Rafael_Hernández_Colón
+Salvador_M._Padilla_Escabi	diedIn	Hato_Rey,_Puerto_Rico
+Salvador_M._Padilla_Escabi	diedIn	Hato_Rey,_Puerto_Rico
+Hato_Rey,_Puerto_Rico	isLocatedIn	Puerto_Rico
+Hato_Rey,_Puerto_Rico	isLocatedIn	Puerto_Rico
+Rafael_Hernández_Colón	isCitizenOf	Puerto_Rico
+Rafael_Hernández_Colón	isPoliticianOf	Puerto_Rico
+Rafael_Hernández_Colón	isCitizenOf	Puerto_Rico
+Rafael_Hernández_Colón	isPoliticianOf	Puerto_Rico
+
+http://dbpedia.org/resource/Salvador_M._Padilla_Escabi	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Rafael_Hernández_Colón
+Salvador_M._Padilla_Escabi	Rafael_Hernández_Colón
+Salvador_M._Padilla_Escabi	wasBornIn	Cabo_Rojo,_Puerto_Rico
+Salvador_M._Padilla_Escabi	wasBornIn	Cabo_Rojo,_Puerto_Rico
+Cabo_Rojo,_Puerto_Rico	isLocatedIn	Puerto_Rico
+Cabo_Rojo,_Puerto_Rico	isLocatedIn	Puerto_Rico
+Rafael_Hernández_Colón	isCitizenOf	Puerto_Rico
+Rafael_Hernández_Colón	isPoliticianOf	Puerto_Rico
+Rafael_Hernández_Colón	isCitizenOf	Puerto_Rico
+Rafael_Hernández_Colón	isPoliticianOf	Puerto_Rico
+
+http://dbpedia.org/resource/Salvador_M._Padilla_Escabi	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Rafael_Hernández_Colón
+Salvador_M._Padilla_Escabi	Rafael_Hernández_Colón
+Salvador_M._Padilla_Escabi	isCitizenOf	Puerto_Rico
+Salvador_M._Padilla_Escabi	isCitizenOf	Puerto_Rico
+Rafael_Hernández_Colón	isCitizenOf	Puerto_Rico
+Rafael_Hernández_Colón	isPoliticianOf	Puerto_Rico
+Rafael_Hernández_Colón	isCitizenOf	Puerto_Rico
+Rafael_Hernández_Colón	isPoliticianOf	Puerto_Rico
+
+http://dbpedia.org/resource/Héctor_Luis_Acevedo	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Rafael_Hernández_Colón
+Héctor_Luis_Acevedo	Rafael_Hernández_Colón
+Héctor_Luis_Acevedo	isCitizenOf	Puerto_Rico
+Héctor_Luis_Acevedo	isCitizenOf	Puerto_Rico
+Rafael_Hernández_Colón	isCitizenOf	Puerto_Rico
+Rafael_Hernández_Colón	isPoliticianOf	Puerto_Rico
+Rafael_Hernández_Colón	isCitizenOf	Puerto_Rico
+Rafael_Hernández_Colón	isPoliticianOf	Puerto_Rico
+
+http://dbpedia.org/resource/Héctor_Luis_Acevedo	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Rafael_Hernández_Colón
+Héctor_Luis_Acevedo	Rafael_Hernández_Colón
+Héctor_Luis_Acevedo	graduatedFrom	University_of_Puerto_Rico,_Río_Piedras_Campus
+Héctor_Luis_Acevedo	graduatedFrom	University_of_Puerto_Rico,_Río_Piedras_Campus
+University_of_Puerto_Rico,_Río_Piedras_Campus	isLocatedIn	Puerto_Rico
+University_of_Puerto_Rico,_Río_Piedras_Campus	isLocatedIn	Puerto_Rico
+Rafael_Hernández_Colón	isCitizenOf	Puerto_Rico
+Rafael_Hernández_Colón	isPoliticianOf	Puerto_Rico
+Rafael_Hernández_Colón	isCitizenOf	Puerto_Rico
+Rafael_Hernández_Colón	isPoliticianOf	Puerto_Rico
+
+http://dbpedia.org/resource/Héctor_Luis_Acevedo	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Rafael_Hernández_Colón
+Héctor_Luis_Acevedo	Rafael_Hernández_Colón
+Héctor_Luis_Acevedo	isAffiliatedTo	Popular_Democratic_Party_(Puerto_Rico)
+Héctor_Luis_Acevedo	isAffiliatedTo	Popular_Democratic_Party_(Puerto_Rico)
+Rafael_Hernández_Colón	isAffiliatedTo	Popular_Democratic_Party_(Puerto_Rico)
+Rafael_Hernández_Colón	isAffiliatedTo	Popular_Democratic_Party_(Puerto_Rico)
+
+http://dbpedia.org/resource/Héctor_Luis_Acevedo	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Rafael_Hernández_Colón
+Héctor_Luis_Acevedo	Rafael_Hernández_Colón
+Héctor_Luis_Acevedo	isAffiliatedTo	Popular_Democratic_Party_(Puerto_Rico)
+Héctor_Luis_Acevedo	isAffiliatedTo	Popular_Democratic_Party_(Puerto_Rico)
+Popular_Democratic_Party_(Puerto_Rico)	isLocatedIn	Puerto_Rico
+Popular_Democratic_Party_(Puerto_Rico)	isLocatedIn	Puerto_Rico
+Rafael_Hernández_Colón	isCitizenOf	Puerto_Rico
+Rafael_Hernández_Colón	isPoliticianOf	Puerto_Rico
+Rafael_Hernández_Colón	isCitizenOf	Puerto_Rico
+Rafael_Hernández_Colón	isPoliticianOf	Puerto_Rico
+
+http://dbpedia.org/resource/Bob_Miller_(Nevada_governor)	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Richard_Bryan
+Bob_Miller_(Nevada_governor)	Richard_Bryan
+Bob_Miller_(Nevada_governor)	livesIn	Henderson,_Nevada
+Bob_Miller_(Nevada_governor)	livesIn	Henderson,_Nevada
+Las_Vegas_Valley	isLocatedIn	Henderson,_Nevada
+Las_Vegas_Valley	isLocatedIn	Henderson,_Nevada
+Richard_Bryan	livesIn	Las_Vegas_Valley
+Richard_Bryan	livesIn	Las_Vegas_Valley
+
+http://dbpedia.org/resource/Olene_Walker	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Mike_Leavitt
+Olene_Walker	Mike_Leavitt
+Olene_Walker	isPoliticianOf	Utah
+Olene_Walker	isPoliticianOf	Utah
+Dixie_L._Leavitt	wasBornIn	Utah
+Dixie_L._Leavitt	wasBornIn	Utah
+Dixie_L._Leavitt	hasChild	Mike_Leavitt
+Dixie_L._Leavitt	hasChild	Mike_Leavitt
+
+http://dbpedia.org/resource/Luren_Dickinson	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Albert_Sleeper
+Luren_Dickinson	Albert_Sleeper
+Luren_Dickinson	diedIn	Charlotte,_Michigan
+Luren_Dickinson	diedIn	Charlotte,_Michigan
+Charlotte,_Michigan	isLocatedIn	Michigan
+Charlotte,_Michigan	isLocatedIn	Michigan
+Albert_Sleeper	isPoliticianOf	Michigan
+Albert_Sleeper	isPoliticianOf	Michigan
+
+http://dbpedia.org/resource/Luren_Dickinson	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Albert_Sleeper
+Luren_Dickinson	Albert_Sleeper
+Luren_Dickinson	isPoliticianOf	Michigan
+Luren_Dickinson	isPoliticianOf	Michigan
+Albert_Sleeper	isPoliticianOf	Michigan
+Albert_Sleeper	isPoliticianOf	Michigan
+
+http://dbpedia.org/resource/Luren_Dickinson	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Wilber_M._Brucker
+Luren_Dickinson	Wilber_M._Brucker
+Luren_Dickinson	diedIn	Charlotte,_Michigan
+Luren_Dickinson	diedIn	Charlotte,_Michigan
+Charlotte,_Michigan	isLocatedIn	Michigan
+Charlotte,_Michigan	isLocatedIn	Michigan
+Wilber_M._Brucker	isPoliticianOf	Michigan
+Wilber_M._Brucker	isPoliticianOf	Michigan
+
+http://dbpedia.org/resource/Luren_Dickinson	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Wilber_M._Brucker
+Luren_Dickinson	Wilber_M._Brucker
+Luren_Dickinson	isPoliticianOf	Michigan
+Luren_Dickinson	isPoliticianOf	Michigan
+Wilber_M._Brucker	isPoliticianOf	Michigan
+Wilber_M._Brucker	isPoliticianOf	Michigan
+
+http://dbpedia.org/resource/Ude_Oko_Chukwu	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Okezie_Ikpeazu
+Ude_Oko_Chukwu	Okezie_Ikpeazu
+Ude_Oko_Chukwu	isAffiliatedTo	People's_Democratic_Party_(Nigeria)
+Ude_Oko_Chukwu	isAffiliatedTo	People's_Democratic_Party_(Nigeria)
+Okezie_Ikpeazu	isAffiliatedTo	People's_Democratic_Party_(Nigeria)
+Okezie_Ikpeazu	isAffiliatedTo	People's_Democratic_Party_(Nigeria)
+
+http://dbpedia.org/resource/Bill_Nelson	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Jeb_Bush
+Bill_Nelson	Jeb_Bush
+Bill_Nelson	isPoliticianOf	Florida
+Bill_Nelson	isPoliticianOf	Florida
+Jeb_Bush	isPoliticianOf	Florida
+Jeb_Bush	isPoliticianOf	Florida
+
+http://dbpedia.org/resource/Bill_Nelson	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Jeb_Bush
+Bill_Nelson	Jeb_Bush
+Bill_Nelson	isLeaderOf	Upper_Eastside
+Bill_Nelson	isLeaderOf	Upper_Eastside
+Upper_Eastside	isLocatedIn	Florida
+Upper_Eastside	isLocatedIn	Florida
+Jeb_Bush	isPoliticianOf	Florida
+Jeb_Bush	isPoliticianOf	Florida
+
+http://dbpedia.org/resource/Horace_Eaton	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/William_Slade
+Horace_Eaton	William_Slade
+Horace_Eaton	diedIn	Middlebury,_Vermont
+Horace_Eaton	diedIn	Middlebury,_Vermont
+William_Slade	diedIn	Middlebury,_Vermont
+William_Slade	diedIn	Middlebury,_Vermont
+
+http://dbpedia.org/resource/Horace_Eaton	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/William_Slade
+Horace_Eaton	William_Slade
+Horace_Eaton	isPoliticianOf	Vermont
+Horace_Eaton	isPoliticianOf	Vermont
+Middlebury,_Vermont	isLocatedIn	Vermont
+Middlebury,_Vermont	isLocatedIn	Vermont
+William_Slade	diedIn	Middlebury,_Vermont
+William_Slade	diedIn	Middlebury,_Vermont
+
+http://dbpedia.org/resource/Carole_Crist	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Charlie_Crist
+Carole_Crist	Charlie_Crist
+Charlie_Crist	isMarriedTo	Carole_Crist
+Carole_Crist	isMarriedTo	Charlie_Crist
+Charlie_Crist	isMarriedTo	Carole_Crist
+Carole_Crist	isMarriedTo	Charlie_Crist
+
+http://dbpedia.org/resource/Albert_Brewer	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Lurleen_Wallace
+Albert_Brewer	Lurleen_Wallace
+Albert_Brewer	isPoliticianOf	Alabama
+Albert_Brewer	isPoliticianOf	Alabama
+Montgomery,_Alabama	isLocatedIn	Alabama
+Alabama	hasCapital	Montgomery,_Alabama
+Alabama	isLocatedIn	Montgomery,_Alabama
+Montgomery,_Alabama	isLocatedIn	Alabama
+Alabama	hasCapital	Montgomery,_Alabama
+Alabama	isLocatedIn	Montgomery,_Alabama
+Lurleen_Wallace	diedIn	Montgomery,_Alabama
+Lurleen_Wallace	diedIn	Montgomery,_Alabama
+
+http://dbpedia.org/resource/Roberto_Sánchez_Vilella	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Luis_Muñoz_Marín
+Roberto_Sánchez_Vilella	Luis_Muñoz_Marín
+Roberto_Sánchez_Vilella	isPoliticianOf	Puerto_Rico
+Roberto_Sánchez_Vilella	isCitizenOf	Puerto_Rico
+Roberto_Sánchez_Vilella	isPoliticianOf	Puerto_Rico
+Roberto_Sánchez_Vilella	isCitizenOf	Puerto_Rico
+Inés_Mendoza	isCitizenOf	Puerto_Rico
+Inés_Mendoza	isCitizenOf	Puerto_Rico
+Inés_Mendoza	isMarriedTo	Luis_Muñoz_Marín
+Luis_Muñoz_Marín	isMarriedTo	Inés_Mendoza
+Inés_Mendoza	isMarriedTo	Luis_Muñoz_Marín
+Luis_Muñoz_Marín	isMarriedTo	Inés_Mendoza
+
+http://dbpedia.org/resource/Roberto_Sánchez_Vilella	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Luis_Muñoz_Marín
+Roberto_Sánchez_Vilella	Luis_Muñoz_Marín
+Roberto_Sánchez_Vilella	diedIn	San_Juan,_Puerto_Rico
+Roberto_Sánchez_Vilella	diedIn	San_Juan,_Puerto_Rico
+Luis_Muñoz_Marín	diedIn	San_Juan,_Puerto_Rico
+Luis_Muñoz_Marín	wasBornIn	San_Juan,_Puerto_Rico
+Luis_Muñoz_Marín	diedIn	San_Juan,_Puerto_Rico
+Luis_Muñoz_Marín	wasBornIn	San_Juan,_Puerto_Rico
+
+http://dbpedia.org/resource/Roberto_Sánchez_Vilella	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Luis_Muñoz_Marín
+Roberto_Sánchez_Vilella	Luis_Muñoz_Marín
+Roberto_Sánchez_Vilella	diedIn	San_Juan,_Puerto_Rico
+Roberto_Sánchez_Vilella	diedIn	San_Juan,_Puerto_Rico
+Victoria_Muñoz_Mendoza	wasBornIn	San_Juan,_Puerto_Rico
+Victoria_Muñoz_Mendoza	wasBornIn	San_Juan,_Puerto_Rico
+Luis_Muñoz_Marín	hasChild	Victoria_Muñoz_Mendoza
+Luis_Muñoz_Marín	hasChild	Victoria_Muñoz_Mendoza
+
+http://dbpedia.org/resource/Umeh_Kalu	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Okezie_Ikpeazu
+Umeh_Kalu	Okezie_Ikpeazu
+Umeh_Kalu	isAffiliatedTo	People's_Democratic_Party_(Nigeria)
+Umeh_Kalu	isAffiliatedTo	People's_Democratic_Party_(Nigeria)
+Okezie_Ikpeazu	isAffiliatedTo	People's_Democratic_Party_(Nigeria)
+Okezie_Ikpeazu	isAffiliatedTo	People's_Democratic_Party_(Nigeria)
+
+http://dbpedia.org/resource/Lynton_Y._Ballentine	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/R._Gregg_Cherry
+Lynton_Y._Ballentine	R._Gregg_Cherry
+Lynton_Y._Ballentine	isPoliticianOf	North_Carolina
+Lynton_Y._Ballentine	isPoliticianOf	North_Carolina
+Gastonia,_North_Carolina	isLocatedIn	North_Carolina
+Gastonia,_North_Carolina	isLocatedIn	North_Carolina
+R._Gregg_Cherry	diedIn	Gastonia,_North_Carolina
+R._Gregg_Cherry	diedIn	Gastonia,_North_Carolina
+
+http://dbpedia.org/resource/Donald_S._Whitehead	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/C._A._Bottolfsen
+Donald_S._Whitehead	C._A._Bottolfsen
+Donald_S._Whitehead	isPoliticianOf	Idaho
+Donald_S._Whitehead	isPoliticianOf	Idaho
+C._A._Bottolfsen	isPoliticianOf	Idaho
+C._A._Bottolfsen	isPoliticianOf	Idaho
+
+http://dbpedia.org/resource/Donald_S._Whitehead	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/C._A._Bottolfsen
+Donald_S._Whitehead	C._A._Bottolfsen
+Donald_S._Whitehead	diedIn	Boise,_Idaho
+Donald_S._Whitehead	diedIn	Boise,_Idaho
+Boise,_Idaho	isLocatedIn	Idaho
+Idaho	isLocatedIn	Boise,_Idaho
+Idaho	hasCapital	Boise,_Idaho
+Boise,_Idaho	isLocatedIn	Idaho
+Idaho	isLocatedIn	Boise,_Idaho
+Idaho	hasCapital	Boise,_Idaho
+C._A._Bottolfsen	isPoliticianOf	Idaho
+C._A._Bottolfsen	isPoliticianOf	Idaho
+
+http://dbpedia.org/resource/Fagaoalii_Satele_Sunia	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Tauese_Sunia
+Fagaoalii_Satele_Sunia	Tauese_Sunia
+Fagaoalii_Satele_Sunia	isMarriedTo	Tauese_Sunia
+Tauese_Sunia	isMarriedTo	Fagaoalii_Satele_Sunia
+Fagaoalii_Satele_Sunia	isMarriedTo	Tauese_Sunia
+Tauese_Sunia	isMarriedTo	Fagaoalii_Satele_Sunia
+
+http://dbpedia.org/resource/Fagaoalii_Satele_Sunia	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Tauese_Sunia
+Fagaoalii_Satele_Sunia	Tauese_Sunia
+Fagaoalii_Satele_Sunia	isCitizenOf	American_Samoa
+Fagaoalii_Satele_Sunia	isCitizenOf	American_Samoa
+American_Samoa	dealsWith	Samoa
+American_Samoa	dealsWith	Samoa
+Tauese_Sunia	isCitizenOf	Samoa
+Tauese_Sunia	isCitizenOf	Samoa
+
+http://dbpedia.org/resource/Antonio_Bonfatti	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Hermes_Binner
+Antonio_Bonfatti	Hermes_Binner
+Antonio_Bonfatti	graduatedFrom	National_University_of_Rosario
+Antonio_Bonfatti	graduatedFrom	National_University_of_Rosario
+Hermes_Binner	graduatedFrom	National_University_of_Rosario
+Hermes_Binner	graduatedFrom	National_University_of_Rosario
+
+http://dbpedia.org/resource/Antonio_Bonfatti	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Hermes_Binner
+Antonio_Bonfatti	Hermes_Binner
+Antonio_Bonfatti	isAffiliatedTo	Socialist_Party_(Argentina)
+Antonio_Bonfatti	isAffiliatedTo	Socialist_Party_(Argentina)
+Hermes_Binner	isAffiliatedTo	Socialist_Party_(Argentina)
+Hermes_Binner	isAffiliatedTo	Socialist_Party_(Argentina)
+
+http://dbpedia.org/resource/Antonio_Bonfatti	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Hermes_Binner
+Antonio_Bonfatti	Hermes_Binner
+Antonio_Bonfatti	isPoliticianOf	Santa_Fe_Province
+Antonio_Bonfatti	isPoliticianOf	Santa_Fe_Province
+Hermes_Binner	isPoliticianOf	Santa_Fe_Province
+Hermes_Binner	isPoliticianOf	Santa_Fe_Province
+
+http://dbpedia.org/resource/Columba_Bush	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Jeb_Bush
+Columba_Bush	Jeb_Bush
+Jeb_Bush	isMarriedTo	Columba_Bush
+Columba_Bush	isMarriedTo	Jeb_Bush
+Jeb_Bush	isMarriedTo	Columba_Bush
+Columba_Bush	isMarriedTo	Jeb_Bush
+
+http://dbpedia.org/resource/Columba_Bush	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Jeb_Bush
+Columba_Bush	Jeb_Bush
+Columba_Bush	hasChild	George_P._Bush
+Columba_Bush	hasChild	George_P._Bush
+Jeb_Bush	hasChild	George_P._Bush
+Jeb_Bush	hasChild	George_P._Bush
+
+http://dbpedia.org/resource/Columba_Bush	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Jeb_Bush
+Columba_Bush	Jeb_Bush
+Columba_Bush	hasChild	George_P._Bush
+Columba_Bush	hasChild	George_P._Bush
+Columba_Bush	hasChild	George_P._Bush
+Columba_Bush	hasChild	George_P._Bush
+Jeb_Bush	isMarriedTo	Columba_Bush
+Columba_Bush	isMarriedTo	Jeb_Bush
+Jeb_Bush	isMarriedTo	Columba_Bush
+Columba_Bush	isMarriedTo	Jeb_Bush
+
+http://dbpedia.org/resource/George_Robertson_(congressman)	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Thomas_Metcalfe_(Kentucky)
+George_Robertson_(congressman)	Thomas_Metcalfe_(Kentucky)
+George_Robertson_(congressman)	isAffiliatedTo	Whig_Party_(United_States)
+George_Robertson_(congressman)	isAffiliatedTo	Whig_Party_(United_States)
+Thomas_Metcalfe_(Kentucky)	isAffiliatedTo	Whig_Party_(United_States)
+Thomas_Metcalfe_(Kentucky)	isAffiliatedTo	Whig_Party_(United_States)
+
+http://dbpedia.org/resource/Adenan_Satem	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Abdul_Taib_Mahmud
+Adenan_Satem	Abdul_Taib_Mahmud
+Adenan_Satem	diedIn	Kota_Samarahan
+Adenan_Satem	diedIn	Kota_Samarahan
+Kota_Samarahan	isLocatedIn	Sarawak
+Kota_Samarahan	isLocatedIn	Sarawak
+Abdul_Taib_Mahmud	isPoliticianOf	Sarawak
+Abdul_Taib_Mahmud	isLeaderOf	Sarawak
+Abdul_Taib_Mahmud	isPoliticianOf	Sarawak
+Abdul_Taib_Mahmud	isLeaderOf	Sarawak
+
+http://dbpedia.org/resource/Adenan_Satem	http://dbpedia.org/ontology/governor	http://dbpedia.org/resource/Abdul_Taib_Mahmud
+Adenan_Satem	Abdul_Taib_Mahmud
+Adenan_Satem	isAffiliatedTo	Parti_Pesaka_Bumiputera_Bersatu
+Adenan_Satem	isAffiliatedTo	Parti_Pesaka_Bumiputera_Bersatu
+Sulaiman_Abdul_Rahman_Taib	isAffiliatedTo	Parti_Pesaka_Bumiputera_Bersatu
+Sulaiman_Abdul_Rahman_Taib	isAffiliatedTo	Parti_Pesaka_Bumiputera_Bersatu
+Abdul_Taib_Mahmud	hasChild	Sulaiman_Abdul_Rahman_Taib
+Abdul_Taib_Mahmud	hasChild	Sulaiman_Abdul_Rahman_Taib
+

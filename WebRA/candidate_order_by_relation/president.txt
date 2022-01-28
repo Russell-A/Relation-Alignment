@@ -1,0 +1,3559 @@
+http://dbpedia.org/resource/Viktor_Yanukovych	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Viktor_Yushchenko
+Viktor_Yanukovych	Viktor_Yushchenko
+Viktor_Yanukovych	isPoliticianOf	Ukraine
+Viktor_Yanukovych	isCitizenOf	Ukraine
+Viktor_Yanukovych	isPoliticianOf	Ukraine
+Viktor_Yanukovych	isCitizenOf	Ukraine
+Kateryna_Yushchenko	isCitizenOf	Ukraine
+Kateryna_Yushchenko	isCitizenOf	Ukraine
+Viktor_Yushchenko	isMarriedTo	Kateryna_Yushchenko
+Kateryna_Yushchenko	isMarriedTo	Viktor_Yushchenko
+Viktor_Yushchenko	isMarriedTo	Kateryna_Yushchenko
+Kateryna_Yushchenko	isMarriedTo	Viktor_Yushchenko
+
+http://dbpedia.org/resource/Viktor_Yanukovych	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Viktor_Yushchenko
+Viktor_Yanukovych	Viktor_Yushchenko
+Viktor_Yanukovych	isPoliticianOf	Ukraine
+Viktor_Yanukovych	isCitizenOf	Ukraine
+Viktor_Yanukovych	isPoliticianOf	Ukraine
+Viktor_Yanukovych	isCitizenOf	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+
+http://dbpedia.org/resource/Viktor_Yanukovych	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Viktor_Yushchenko
+Viktor_Yanukovych	Viktor_Yushchenko
+Viktor_Yanukovych	graduatedFrom	Donetsk_National_Technical_University
+Viktor_Yanukovych	graduatedFrom	Donetsk_National_Technical_University
+Donetsk_National_Technical_University	isLocatedIn	Ukraine
+Donetsk_National_Technical_University	isLocatedIn	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+
+http://dbpedia.org/resource/Isabel_Martínez_de_Perón	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Juan_Perón
+Isabel_Martínez_de_Perón	Juan_Perón
+Isabel_Martínez_de_Perón	isMarriedTo	Juan_Perón
+Juan_Perón	isMarriedTo	Isabel_Martínez_de_Perón
+Isabel_Martínez_de_Perón	isMarriedTo	Juan_Perón
+Juan_Perón	isMarriedTo	Isabel_Martínez_de_Perón
+
+http://dbpedia.org/resource/Isabel_Martínez_de_Perón	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Juan_Perón
+Isabel_Martínez_de_Perón	Juan_Perón
+Isabel_Martínez_de_Perón	isAffiliatedTo	Justicialist_Party
+Isabel_Martínez_de_Perón	isAffiliatedTo	Justicialist_Party
+Eva_Perón	isAffiliatedTo	Justicialist_Party
+Eva_Perón	isAffiliatedTo	Justicialist_Party
+Juan_Perón	isMarriedTo	Eva_Perón
+Eva_Perón	isMarriedTo	Juan_Perón
+Juan_Perón	isMarriedTo	Eva_Perón
+Eva_Perón	isMarriedTo	Juan_Perón
+
+http://dbpedia.org/resource/Isabel_Martínez_de_Perón	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Juan_Perón
+Isabel_Martínez_de_Perón	Juan_Perón
+Isabel_Martínez_de_Perón	isAffiliatedTo	Justicialist_Party
+Isabel_Martínez_de_Perón	isAffiliatedTo	Justicialist_Party
+Juan_Perón	isAffiliatedTo	Justicialist_Party
+Juan_Perón	isLeaderOf	Justicialist_Party
+Juan_Perón	isAffiliatedTo	Justicialist_Party
+Juan_Perón	isLeaderOf	Justicialist_Party
+
+http://dbpedia.org/resource/Isabel_Martínez_de_Perón	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Juan_Perón
+Isabel_Martínez_de_Perón	Juan_Perón
+Isabel_Martínez_de_Perón	isAffiliatedTo	Justicialist_Party
+Isabel_Martínez_de_Perón	isAffiliatedTo	Justicialist_Party
+Isabel_Martínez_de_Perón	isAffiliatedTo	Justicialist_Party
+Isabel_Martínez_de_Perón	isAffiliatedTo	Justicialist_Party
+Isabel_Martínez_de_Perón	isMarriedTo	Juan_Perón
+Juan_Perón	isMarriedTo	Isabel_Martínez_de_Perón
+Isabel_Martínez_de_Perón	isMarriedTo	Juan_Perón
+Juan_Perón	isMarriedTo	Isabel_Martínez_de_Perón
+
+http://dbpedia.org/resource/Hanna_Tetteh	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/John_Atta_Mills
+Hanna_Tetteh	John_Atta_Mills
+Hanna_Tetteh	isAffiliatedTo	National_Democratic_Congress_(Ghana)
+Hanna_Tetteh	isAffiliatedTo	National_Democratic_Congress_(Ghana)
+John_Atta_Mills	isAffiliatedTo	National_Democratic_Congress_(Ghana)
+John_Atta_Mills	isAffiliatedTo	National_Democratic_Congress_(Ghana)
+
+http://dbpedia.org/resource/I._I._Chundrigar	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Iskander_Mirza
+I._I._Chundrigar	Iskander_Mirza
+I._I._Chundrigar	graduatedFrom	University_of_Mumbai
+I._I._Chundrigar	graduatedFrom	University_of_Mumbai
+Iskander_Mirza	graduatedFrom	University_of_Mumbai
+Iskander_Mirza	graduatedFrom	University_of_Mumbai
+
+http://dbpedia.org/resource/Laredo_Community_College	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Juan_L._Maldonado
+Laredo_Community_College	Juan_L._Maldonado
+Laredo_Community_College	isLocatedIn	Texas
+Laredo_Community_College	isLocatedIn	Texas
+Texas_Woman's_University	isLocatedIn	Texas
+Texas_Woman's_University	isLocatedIn	Texas
+Juan_L._Maldonado	graduatedFrom	Texas_Woman's_University
+Juan_L._Maldonado	graduatedFrom	Texas_Woman's_University
+
+http://dbpedia.org/resource/Laredo_Community_College	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Juan_L._Maldonado
+Laredo_Community_College	Juan_L._Maldonado
+Mercurio_Martinez	graduatedFrom	Laredo_Community_College
+Mercurio_Martinez	graduatedFrom	Laredo_Community_College
+Mercurio_Martinez	graduatedFrom	University_of_North_Texas
+Mercurio_Martinez	graduatedFrom	University_of_North_Texas
+Juan_L._Maldonado	graduatedFrom	University_of_North_Texas
+Juan_L._Maldonado	graduatedFrom	University_of_North_Texas
+
+http://dbpedia.org/resource/Fernando_Teixeira_dos_Santos	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Mário_Soares
+Fernando_Teixeira_dos_Santos	Mário_Soares
+Fernando_Teixeira_dos_Santos	isAffiliatedTo	Socialist_Party_(Portugal)
+Fernando_Teixeira_dos_Santos	isAffiliatedTo	Socialist_Party_(Portugal)
+Mário_Soares	isAffiliatedTo	Socialist_Party_(Portugal)
+Mário_Soares	isLeaderOf	Socialist_Party_(Portugal)
+Mário_Soares	isAffiliatedTo	Socialist_Party_(Portugal)
+Mário_Soares	isLeaderOf	Socialist_Party_(Portugal)
+
+http://dbpedia.org/resource/Fernando_Teixeira_dos_Santos	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Mário_Soares
+Fernando_Teixeira_dos_Santos	Mário_Soares
+Fernando_Teixeira_dos_Santos	isAffiliatedTo	Socialist_Party_(Portugal)
+Fernando_Teixeira_dos_Santos	isAffiliatedTo	Socialist_Party_(Portugal)
+Socialist_Party_(Portugal)	isLocatedIn	Lisbon
+Socialist_Party_(Portugal)	isLocatedIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+
+http://dbpedia.org/resource/Fernando_Teixeira_dos_Santos	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Mário_Soares
+Fernando_Teixeira_dos_Santos	Mário_Soares
+Fernando_Teixeira_dos_Santos	isAffiliatedTo	Socialist_Party_(Portugal)
+Fernando_Teixeira_dos_Santos	isAffiliatedTo	Socialist_Party_(Portugal)
+João_Soares_(politician)	isAffiliatedTo	Socialist_Party_(Portugal)
+João_Soares_(politician)	isAffiliatedTo	Socialist_Party_(Portugal)
+Mário_Soares	hasChild	João_Soares_(politician)
+Mário_Soares	hasChild	João_Soares_(politician)
+
+http://dbpedia.org/resource/Dariga_Nazarbayeva	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Nursultan_Nazarbayev
+Dariga_Nazarbayeva	Nursultan_Nazarbayev
+Dariga_Nazarbayeva	isMarriedTo	Rakhat_Aliyev
+Rakhat_Aliyev	isMarriedTo	Dariga_Nazarbayeva
+Dariga_Nazarbayeva	isMarriedTo	Rakhat_Aliyev
+Rakhat_Aliyev	isMarriedTo	Dariga_Nazarbayeva
+Dariga_Nazarbayeva	isMarriedTo	Rakhat_Aliyev
+Rakhat_Aliyev	isMarriedTo	Dariga_Nazarbayeva
+Dariga_Nazarbayeva	isMarriedTo	Rakhat_Aliyev
+Rakhat_Aliyev	isMarriedTo	Dariga_Nazarbayeva
+Nursultan_Nazarbayev	hasChild	Dariga_Nazarbayeva
+Nursultan_Nazarbayev	hasChild	Dariga_Nazarbayeva
+
+http://dbpedia.org/resource/Dariga_Nazarbayeva	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Nursultan_Nazarbayev
+Dariga_Nazarbayeva	Nursultan_Nazarbayev
+Nursultan_Nazarbayev	hasChild	Dariga_Nazarbayeva
+Nursultan_Nazarbayev	hasChild	Dariga_Nazarbayeva
+
+http://dbpedia.org/resource/Dariga_Nazarbayeva	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Nursultan_Nazarbayev
+Dariga_Nazarbayeva	Nursultan_Nazarbayev
+Dariga_Nazarbayeva	isCitizenOf	Kazakhstan
+Dariga_Nazarbayeva	isCitizenOf	Kazakhstan
+Nursultan_Nazarbayev	isPoliticianOf	Kazakhstan
+Nursultan_Nazarbayev	isLeaderOf	Kazakhstan
+Nursultan_Nazarbayev	isCitizenOf	Kazakhstan
+Nursultan_Nazarbayev	isPoliticianOf	Kazakhstan
+Nursultan_Nazarbayev	isLeaderOf	Kazakhstan
+Nursultan_Nazarbayev	isCitizenOf	Kazakhstan
+
+http://dbpedia.org/resource/Dariga_Nazarbayeva	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Nursultan_Nazarbayev
+Dariga_Nazarbayeva	Nursultan_Nazarbayev
+Dariga_Nazarbayeva	isCitizenOf	Kazakhstan
+Dariga_Nazarbayeva	isCitizenOf	Kazakhstan
+Dariga_Nazarbayeva	isCitizenOf	Kazakhstan
+Dariga_Nazarbayeva	isCitizenOf	Kazakhstan
+Nursultan_Nazarbayev	hasChild	Dariga_Nazarbayeva
+Nursultan_Nazarbayev	hasChild	Dariga_Nazarbayeva
+
+http://dbpedia.org/resource/Yaarub_Bader	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Yaarub_Bader	Bashar_al-Assad
+Yaarub_Bader	isCitizenOf	Syria
+Yaarub_Bader	isPoliticianOf	Syria
+Yaarub_Bader	wasBornIn	Syria
+Yaarub_Bader	isCitizenOf	Syria
+Yaarub_Bader	isPoliticianOf	Syria
+Yaarub_Bader	wasBornIn	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Yaarub_Bader	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Yaarub_Bader	Bashar_al-Assad
+Yaarub_Bader	isCitizenOf	Syria
+Yaarub_Bader	isPoliticianOf	Syria
+Yaarub_Bader	wasBornIn	Syria
+Yaarub_Bader	isCitizenOf	Syria
+Yaarub_Bader	isPoliticianOf	Syria
+Yaarub_Bader	wasBornIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Harry_Schwarz	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/F._W._de_Klerk
+Harry_Schwarz	F._W._de_Klerk
+Harry_Schwarz	isAffiliatedTo	United_Party_(South_Africa)
+Harry_Schwarz	isAffiliatedTo	United_Party_(South_Africa)
+United_Party_(South_Africa)	isLocatedIn	South_Africa
+United_Party_(South_Africa)	isLocatedIn	South_Africa
+F._W._de_Klerk	isPoliticianOf	South_Africa
+F._W._de_Klerk	livesIn	South_Africa
+F._W._de_Klerk	isCitizenOf	South_Africa
+F._W._de_Klerk	isPoliticianOf	South_Africa
+F._W._de_Klerk	livesIn	South_Africa
+F._W._de_Klerk	isCitizenOf	South_Africa
+
+http://dbpedia.org/resource/Harry_Schwarz	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/F._W._de_Klerk
+Harry_Schwarz	F._W._de_Klerk
+Harry_Schwarz	isCitizenOf	South_Africa
+Harry_Schwarz	isCitizenOf	South_Africa
+F._W._de_Klerk	isPoliticianOf	South_Africa
+F._W._de_Klerk	livesIn	South_Africa
+F._W._de_Klerk	isCitizenOf	South_Africa
+F._W._de_Klerk	isPoliticianOf	South_Africa
+F._W._de_Klerk	livesIn	South_Africa
+F._W._de_Klerk	isCitizenOf	South_Africa
+
+http://dbpedia.org/resource/Francisco_José_Jattin_Safar	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/César_Gaviria
+Francisco_José_Jattin_Safar	César_Gaviria
+Francisco_José_Jattin_Safar	isAffiliatedTo	Colombian_Liberal_Party
+Francisco_José_Jattin_Safar	isAffiliatedTo	Colombian_Liberal_Party
+Ana_Milena_Muñoz_Gómez	isAffiliatedTo	Colombian_Liberal_Party
+Ana_Milena_Muñoz_Gómez	isAffiliatedTo	Colombian_Liberal_Party
+Ana_Milena_Muñoz_Gómez	isMarriedTo	César_Gaviria
+César_Gaviria	isMarriedTo	Ana_Milena_Muñoz_Gómez
+Ana_Milena_Muñoz_Gómez	isMarriedTo	César_Gaviria
+César_Gaviria	isMarriedTo	Ana_Milena_Muñoz_Gómez
+
+http://dbpedia.org/resource/Francisco_José_Jattin_Safar	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/César_Gaviria
+Francisco_José_Jattin_Safar	César_Gaviria
+Francisco_José_Jattin_Safar	isAffiliatedTo	Colombian_Liberal_Party
+Francisco_José_Jattin_Safar	isAffiliatedTo	Colombian_Liberal_Party
+César_Gaviria	isAffiliatedTo	Colombian_Liberal_Party
+César_Gaviria	isAffiliatedTo	Colombian_Liberal_Party
+
+http://dbpedia.org/resource/Amin_Amidu_Sulemana	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/John_Atta_Mills
+Amin_Amidu_Sulemana	John_Atta_Mills
+Amin_Amidu_Sulemana	isAffiliatedTo	National_Democratic_Congress_(Ghana)
+Amin_Amidu_Sulemana	isAffiliatedTo	National_Democratic_Congress_(Ghana)
+John_Atta_Mills	isAffiliatedTo	National_Democratic_Congress_(Ghana)
+John_Atta_Mills	isAffiliatedTo	National_Democratic_Congress_(Ghana)
+
+http://dbpedia.org/resource/Gurbanguly_Berdimuhamedow	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Saparmurat_Niyazov
+Gurbanguly_Berdimuhamedow	Saparmurat_Niyazov
+Gurbanguly_Berdimuhamedow	isAffiliatedTo	Democratic_Party_of_Turkmenistan
+Gurbanguly_Berdimuhamedow	isAffiliatedTo	Democratic_Party_of_Turkmenistan
+Saparmurat_Niyazov	isAffiliatedTo	Democratic_Party_of_Turkmenistan
+Saparmurat_Niyazov	created	Democratic_Party_of_Turkmenistan
+Saparmurat_Niyazov	isAffiliatedTo	Democratic_Party_of_Turkmenistan
+Saparmurat_Niyazov	created	Democratic_Party_of_Turkmenistan
+
+http://dbpedia.org/resource/Tertius_Delport	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/F._W._de_Klerk
+Tertius_Delport	F._W._de_Klerk
+Tertius_Delport	isCitizenOf	South_Africa
+Tertius_Delport	isPoliticianOf	South_Africa
+Tertius_Delport	isCitizenOf	South_Africa
+Tertius_Delport	isPoliticianOf	South_Africa
+F._W._de_Klerk	isPoliticianOf	South_Africa
+F._W._de_Klerk	livesIn	South_Africa
+F._W._de_Klerk	isCitizenOf	South_Africa
+F._W._de_Klerk	isPoliticianOf	South_Africa
+F._W._de_Klerk	livesIn	South_Africa
+F._W._de_Klerk	isCitizenOf	South_Africa
+
+http://dbpedia.org/resource/Sam_Hinds	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Janet_Jagan
+Sam_Hinds	Janet_Jagan
+Sam_Hinds	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+Sam_Hinds	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+Cheddi_Jagan	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+Cheddi_Jagan	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+Cheddi_Jagan	isMarriedTo	Janet_Jagan
+Janet_Jagan	isMarriedTo	Cheddi_Jagan
+Cheddi_Jagan	isMarriedTo	Janet_Jagan
+Janet_Jagan	isMarriedTo	Cheddi_Jagan
+
+http://dbpedia.org/resource/Sam_Hinds	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Janet_Jagan
+Sam_Hinds	Janet_Jagan
+Sam_Hinds	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+Sam_Hinds	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+Janet_Jagan	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+Janet_Jagan	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+
+http://dbpedia.org/resource/Tertius_Zongo	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Blaise_Compaoré
+Tertius_Zongo	Blaise_Compaoré
+Tertius_Zongo	isPoliticianOf	Burkina_Faso
+Tertius_Zongo	isCitizenOf	Burkina_Faso
+Tertius_Zongo	isPoliticianOf	Burkina_Faso
+Tertius_Zongo	isCitizenOf	Burkina_Faso
+Chantal_Compaoré	isCitizenOf	Burkina_Faso
+Chantal_Compaoré	isCitizenOf	Burkina_Faso
+Chantal_Compaoré	isMarriedTo	Blaise_Compaoré
+Blaise_Compaoré	isMarriedTo	Chantal_Compaoré
+Chantal_Compaoré	isMarriedTo	Blaise_Compaoré
+Blaise_Compaoré	isMarriedTo	Chantal_Compaoré
+
+http://dbpedia.org/resource/Tertius_Zongo	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Blaise_Compaoré
+Tertius_Zongo	Blaise_Compaoré
+Tertius_Zongo	isPoliticianOf	Burkina_Faso
+Tertius_Zongo	isCitizenOf	Burkina_Faso
+Tertius_Zongo	isPoliticianOf	Burkina_Faso
+Tertius_Zongo	isCitizenOf	Burkina_Faso
+Blaise_Compaoré	isPoliticianOf	Burkina_Faso
+Blaise_Compaoré	isCitizenOf	Burkina_Faso
+Blaise_Compaoré	isPoliticianOf	Burkina_Faso
+Blaise_Compaoré	isCitizenOf	Burkina_Faso
+
+http://dbpedia.org/resource/Tertius_Zongo	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Blaise_Compaoré
+Tertius_Zongo	Blaise_Compaoré
+Tertius_Zongo	wasBornIn	Koudougou
+Tertius_Zongo	wasBornIn	Koudougou
+Koudougou	isLocatedIn	Burkina_Faso
+Koudougou	isLocatedIn	Burkina_Faso
+Blaise_Compaoré	isPoliticianOf	Burkina_Faso
+Blaise_Compaoré	isCitizenOf	Burkina_Faso
+Blaise_Compaoré	isPoliticianOf	Burkina_Faso
+Blaise_Compaoré	isCitizenOf	Burkina_Faso
+
+http://dbpedia.org/resource/Aigars_Kalvītis	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Valdis_Zatlers
+Aigars_Kalvītis	Valdis_Zatlers
+Aigars_Kalvītis	isAffiliatedTo	New_Era_Party
+Aigars_Kalvītis	isAffiliatedTo	New_Era_Party
+New_Era_Party	isLocatedIn	Riga
+New_Era_Party	isLocatedIn	Riga
+Valdis_Zatlers	wasBornIn	Riga
+Valdis_Zatlers	wasBornIn	Riga
+
+http://dbpedia.org/resource/Aigars_Kalvītis	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Valdis_Zatlers
+Aigars_Kalvītis	Valdis_Zatlers
+Aigars_Kalvītis	isAffiliatedTo	People's_Party_(Latvia)
+Aigars_Kalvītis	isAffiliatedTo	People's_Party_(Latvia)
+People's_Party_(Latvia)	isLocatedIn	Riga
+People's_Party_(Latvia)	isLocatedIn	Riga
+Valdis_Zatlers	wasBornIn	Riga
+Valdis_Zatlers	wasBornIn	Riga
+
+http://dbpedia.org/resource/Aigars_Kalvītis	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Valdis_Zatlers
+Aigars_Kalvītis	Valdis_Zatlers
+Aigars_Kalvītis	wasBornIn	Riga
+Aigars_Kalvītis	wasBornIn	Riga
+Valdis_Zatlers	wasBornIn	Riga
+Valdis_Zatlers	wasBornIn	Riga
+
+http://dbpedia.org/resource/Chiang_Pin-kung	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Wang_Jin-pyng
+Chiang_Pin-kung	Wang_Jin-pyng
+Chiang_Pin-kung	isAffiliatedTo	Kuomintang
+Chiang_Pin-kung	isAffiliatedTo	Kuomintang
+Wang_Jin-pyng	isAffiliatedTo	Kuomintang
+Wang_Jin-pyng	isAffiliatedTo	Kuomintang
+
+http://dbpedia.org/resource/Janet_Jagan	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Cheddi_Jagan
+Janet_Jagan	Cheddi_Jagan
+Cheddi_Jagan	isMarriedTo	Janet_Jagan
+Janet_Jagan	isMarriedTo	Cheddi_Jagan
+Cheddi_Jagan	isMarriedTo	Janet_Jagan
+Janet_Jagan	isMarriedTo	Cheddi_Jagan
+
+http://dbpedia.org/resource/PAIS_Alliance	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Rafael_Correa
+PAIS_Alliance	Rafael_Correa
+Agustín_Delgado	isAffiliatedTo	PAIS_Alliance
+Agustín_Delgado	isAffiliatedTo	PAIS_Alliance
+Agustín_Delgado	isAffiliatedTo	PAIS_Alliance
+Agustín_Delgado	isAffiliatedTo	PAIS_Alliance
+Rafael_Correa	isAffiliatedTo	PAIS_Alliance
+Rafael_Correa	isAffiliatedTo	PAIS_Alliance
+
+http://dbpedia.org/resource/PAIS_Alliance	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Rafael_Correa
+PAIS_Alliance	Rafael_Correa
+Augusto_Barrera	isAffiliatedTo	PAIS_Alliance
+Augusto_Barrera	isAffiliatedTo	PAIS_Alliance
+Augusto_Barrera	isAffiliatedTo	PAIS_Alliance
+Augusto_Barrera	isAffiliatedTo	PAIS_Alliance
+Rafael_Correa	isAffiliatedTo	PAIS_Alliance
+Rafael_Correa	isAffiliatedTo	PAIS_Alliance
+
+http://dbpedia.org/resource/PAIS_Alliance	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Rafael_Correa
+PAIS_Alliance	Rafael_Correa
+Marcela_Aguiñaga	isAffiliatedTo	PAIS_Alliance
+Marcela_Aguiñaga	isAffiliatedTo	PAIS_Alliance
+Marcela_Aguiñaga	isAffiliatedTo	PAIS_Alliance
+Marcela_Aguiñaga	isAffiliatedTo	PAIS_Alliance
+Rafael_Correa	isAffiliatedTo	PAIS_Alliance
+Rafael_Correa	isAffiliatedTo	PAIS_Alliance
+
+http://dbpedia.org/resource/PAIS_Alliance	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Rafael_Correa
+PAIS_Alliance	Rafael_Correa
+Rafael_Correa	isAffiliatedTo	PAIS_Alliance
+Rafael_Correa	isAffiliatedTo	PAIS_Alliance
+
+http://dbpedia.org/resource/PAIS_Alliance	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Rafael_Correa
+PAIS_Alliance	Rafael_Correa
+Gabriela_Rivadeneira	isAffiliatedTo	PAIS_Alliance
+Gabriela_Rivadeneira	isAffiliatedTo	PAIS_Alliance
+Gabriela_Rivadeneira	isAffiliatedTo	PAIS_Alliance
+Gabriela_Rivadeneira	isAffiliatedTo	PAIS_Alliance
+Rafael_Correa	isAffiliatedTo	PAIS_Alliance
+Rafael_Correa	isAffiliatedTo	PAIS_Alliance
+
+http://dbpedia.org/resource/Anandatissa_de_Alwis	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/J._R._Jayewardene
+Anandatissa_de_Alwis	J._R._Jayewardene
+Anandatissa_de_Alwis	isCitizenOf	Sri_Lanka
+Anandatissa_de_Alwis	isPoliticianOf	Sri_Lanka
+Anandatissa_de_Alwis	isCitizenOf	Sri_Lanka
+Anandatissa_de_Alwis	isPoliticianOf	Sri_Lanka
+J._R._Jayewardene	diedIn	Sri_Lanka
+J._R._Jayewardene	isCitizenOf	Sri_Lanka
+J._R._Jayewardene	isPoliticianOf	Sri_Lanka
+J._R._Jayewardene	diedIn	Sri_Lanka
+J._R._Jayewardene	isCitizenOf	Sri_Lanka
+J._R._Jayewardene	isPoliticianOf	Sri_Lanka
+
+http://dbpedia.org/resource/Aitzaz_Ahsan	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Ghulam_Ishaq_Khan
+Aitzaz_Ahsan	Ghulam_Ishaq_Khan
+Aitzaz_Ahsan	isPoliticianOf	Pakistan
+Aitzaz_Ahsan	isCitizenOf	Pakistan
+Aitzaz_Ahsan	isPoliticianOf	Pakistan
+Aitzaz_Ahsan	isCitizenOf	Pakistan
+Peshawar	isLocatedIn	Pakistan
+Peshawar	isLocatedIn	Pakistan
+Ghulam_Ishaq_Khan	diedIn	Peshawar
+Ghulam_Ishaq_Khan	diedIn	Peshawar
+
+http://dbpedia.org/resource/Alex_Tettey-Enyo	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/John_Atta_Mills
+Alex_Tettey-Enyo	John_Atta_Mills
+Alex_Tettey-Enyo	isAffiliatedTo	National_Democratic_Congress_(Ghana)
+Alex_Tettey-Enyo	isAffiliatedTo	National_Democratic_Congress_(Ghana)
+John_Atta_Mills	isAffiliatedTo	National_Democratic_Congress_(Ghana)
+John_Atta_Mills	isAffiliatedTo	National_Democratic_Congress_(Ghana)
+
+http://dbpedia.org/resource/Roedad_Khan	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Ghulam_Ishaq_Khan
+Roedad_Khan	Ghulam_Ishaq_Khan
+Roedad_Khan	isCitizenOf	Pakistan
+Roedad_Khan	isCitizenOf	Pakistan
+Peshawar	isLocatedIn	Pakistan
+Peshawar	isLocatedIn	Pakistan
+Ghulam_Ishaq_Khan	diedIn	Peshawar
+Ghulam_Ishaq_Khan	diedIn	Peshawar
+
+http://dbpedia.org/resource/Mohamed_Abdul_Salam_Mahgoub	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Hosni_Mubarak
+Mohamed_Abdul_Salam_Mahgoub	Hosni_Mubarak
+Mohamed_Abdul_Salam_Mahgoub	graduatedFrom	Egyptian_Military_Academy
+Mohamed_Abdul_Salam_Mahgoub	graduatedFrom	Egyptian_Military_Academy
+Hosni_Mubarak	graduatedFrom	Egyptian_Military_Academy
+Hosni_Mubarak	graduatedFrom	Egyptian_Military_Academy
+
+http://dbpedia.org/resource/Ghazi_Kanaan	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Ghazi_Kanaan	Bashar_al-Assad
+Ghazi_Kanaan	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Ghazi_Kanaan	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Ghazi_Kanaan	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Ghazi_Kanaan	Bashar_al-Assad
+Ghazi_Kanaan	diedIn	Damascus
+Ghazi_Kanaan	diedIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+
+http://dbpedia.org/resource/Ghazi_Kanaan	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Ghazi_Kanaan	Bashar_al-Assad
+Ghazi_Kanaan	diedIn	Damascus
+Ghazi_Kanaan	diedIn	Damascus
+Damascus_University	isLocatedIn	Damascus
+Damascus_University	isLocatedIn	Damascus
+Bashar_al-Assad	graduatedFrom	Damascus_University
+Bashar_al-Assad	graduatedFrom	Damascus_University
+
+http://dbpedia.org/resource/Ghazi_Kanaan	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Ghazi_Kanaan	Bashar_al-Assad
+Ghazi_Kanaan	isCitizenOf	Syria
+Ghazi_Kanaan	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Ghazi_Kanaan	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Ghazi_Kanaan	Bashar_al-Assad
+Ghazi_Kanaan	isCitizenOf	Syria
+Ghazi_Kanaan	isCitizenOf	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Ghazi_Kanaan	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Ghazi_Kanaan	Bashar_al-Assad
+Ghazi_Kanaan	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Ghazi_Kanaan	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Ghazi_Kanaan	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Ghazi_Kanaan	Bashar_al-Assad
+Ghazi_Kanaan	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Ghazi_Kanaan	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Damascus
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+
+http://dbpedia.org/resource/Ellen_Axson_Wilson	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Woodrow_Wilson
+Ellen_Axson_Wilson	Woodrow_Wilson
+Ellen_Axson_Wilson	isMarriedTo	Woodrow_Wilson
+Woodrow_Wilson	isMarriedTo	Ellen_Axson_Wilson
+Ellen_Axson_Wilson	isMarriedTo	Woodrow_Wilson
+Woodrow_Wilson	isMarriedTo	Ellen_Axson_Wilson
+
+http://dbpedia.org/resource/Ellen_Axson_Wilson	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Woodrow_Wilson
+Ellen_Axson_Wilson	Woodrow_Wilson
+Ellen_Axson_Wilson	hasChild	Margaret_Woodrow_Wilson
+Ellen_Axson_Wilson	hasChild	Margaret_Woodrow_Wilson
+Margaret_Woodrow_Wilson	isMarriedTo	Woodrow_Wilson
+Woodrow_Wilson	isMarriedTo	Margaret_Woodrow_Wilson
+Woodrow_Wilson	hasChild	Margaret_Woodrow_Wilson
+Margaret_Woodrow_Wilson	isMarriedTo	Woodrow_Wilson
+Woodrow_Wilson	isMarriedTo	Margaret_Woodrow_Wilson
+Woodrow_Wilson	hasChild	Margaret_Woodrow_Wilson
+
+http://dbpedia.org/resource/Ellen_Axson_Wilson	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Woodrow_Wilson
+Ellen_Axson_Wilson	Woodrow_Wilson
+Ellen_Axson_Wilson	hasChild	Margaret_Woodrow_Wilson
+Ellen_Axson_Wilson	hasChild	Margaret_Woodrow_Wilson
+Ellen_Axson_Wilson	hasChild	Margaret_Woodrow_Wilson
+Ellen_Axson_Wilson	hasChild	Margaret_Woodrow_Wilson
+Ellen_Axson_Wilson	isMarriedTo	Woodrow_Wilson
+Woodrow_Wilson	isMarriedTo	Ellen_Axson_Wilson
+Ellen_Axson_Wilson	isMarriedTo	Woodrow_Wilson
+Woodrow_Wilson	isMarriedTo	Ellen_Axson_Wilson
+
+http://dbpedia.org/resource/Ali_Habib_Mahmud	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Ali_Habib_Mahmud	Bashar_al-Assad
+Ali_Habib_Mahmud	isCitizenOf	Syria
+Ali_Habib_Mahmud	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Ali_Habib_Mahmud	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Ali_Habib_Mahmud	Bashar_al-Assad
+Ali_Habib_Mahmud	isCitizenOf	Syria
+Ali_Habib_Mahmud	isCitizenOf	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Ali_Habib_Mahmud	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Ali_Habib_Mahmud	Bashar_al-Assad
+Ali_Habib_Mahmud	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Ali_Habib_Mahmud	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Ali_Habib_Mahmud	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Ali_Habib_Mahmud	Bashar_al-Assad
+Ali_Habib_Mahmud	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Ali_Habib_Mahmud	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Ali_Habib_Mahmud	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Ali_Habib_Mahmud	Bashar_al-Assad
+Ali_Habib_Mahmud	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Ali_Habib_Mahmud	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Damascus
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+
+http://dbpedia.org/resource/Aftab_Shaban_Mirani	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Ghulam_Ishaq_Khan
+Aftab_Shaban_Mirani	Ghulam_Ishaq_Khan
+Aftab_Shaban_Mirani	isPoliticianOf	Pakistan
+Aftab_Shaban_Mirani	isCitizenOf	Pakistan
+Aftab_Shaban_Mirani	isPoliticianOf	Pakistan
+Aftab_Shaban_Mirani	isCitizenOf	Pakistan
+Peshawar	isLocatedIn	Pakistan
+Peshawar	isLocatedIn	Pakistan
+Ghulam_Ishaq_Khan	diedIn	Peshawar
+Ghulam_Ishaq_Khan	diedIn	Peshawar
+
+http://dbpedia.org/resource/Angelica_Singleton_Van_Buren	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Martin_Van_Buren
+Angelica_Singleton_Van_Buren	Martin_Van_Buren
+Abraham_Van_Buren	isMarriedTo	Angelica_Singleton_Van_Buren
+Angelica_Singleton_Van_Buren	isMarriedTo	Abraham_Van_Buren
+Abraham_Van_Buren	isMarriedTo	Angelica_Singleton_Van_Buren
+Angelica_Singleton_Van_Buren	isMarriedTo	Abraham_Van_Buren
+Abraham_Van_Buren	isMarriedTo	Angelica_Singleton_Van_Buren
+Angelica_Singleton_Van_Buren	isMarriedTo	Abraham_Van_Buren
+Abraham_Van_Buren	isMarriedTo	Angelica_Singleton_Van_Buren
+Angelica_Singleton_Van_Buren	isMarriedTo	Abraham_Van_Buren
+Martin_Van_Buren	isMarriedTo	Angelica_Singleton_Van_Buren
+Angelica_Singleton_Van_Buren	isMarriedTo	Martin_Van_Buren
+Martin_Van_Buren	isMarriedTo	Angelica_Singleton_Van_Buren
+Angelica_Singleton_Van_Buren	isMarriedTo	Martin_Van_Buren
+
+http://dbpedia.org/resource/Angelica_Singleton_Van_Buren	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Martin_Van_Buren
+Angelica_Singleton_Van_Buren	Martin_Van_Buren
+Abraham_Van_Buren	isMarriedTo	Angelica_Singleton_Van_Buren
+Angelica_Singleton_Van_Buren	isMarriedTo	Abraham_Van_Buren
+Abraham_Van_Buren	isMarriedTo	Angelica_Singleton_Van_Buren
+Angelica_Singleton_Van_Buren	isMarriedTo	Abraham_Van_Buren
+Hannah_Van_Buren	hasChild	Abraham_Van_Buren
+Hannah_Van_Buren	hasChild	Abraham_Van_Buren
+Hannah_Van_Buren	isMarriedTo	Martin_Van_Buren
+Martin_Van_Buren	isMarriedTo	Hannah_Van_Buren
+Hannah_Van_Buren	isMarriedTo	Martin_Van_Buren
+Martin_Van_Buren	isMarriedTo	Hannah_Van_Buren
+
+http://dbpedia.org/resource/Angelica_Singleton_Van_Buren	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Martin_Van_Buren
+Angelica_Singleton_Van_Buren	Martin_Van_Buren
+Martin_Van_Buren	isMarriedTo	Angelica_Singleton_Van_Buren
+Angelica_Singleton_Van_Buren	isMarriedTo	Martin_Van_Buren
+Martin_Van_Buren	isMarriedTo	Angelica_Singleton_Van_Buren
+Angelica_Singleton_Van_Buren	isMarriedTo	Martin_Van_Buren
+
+http://dbpedia.org/resource/Mustapha_Ben_Jafar	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Fouad_Mebazaa
+Mustapha_Ben_Jafar	Fouad_Mebazaa
+Mustapha_Ben_Jafar	isCitizenOf	Tunisia
+Mustapha_Ben_Jafar	isPoliticianOf	Tunisia
+Mustapha_Ben_Jafar	isCitizenOf	Tunisia
+Mustapha_Ben_Jafar	isPoliticianOf	Tunisia
+Fouad_Mebazaa	isCitizenOf	Tunisia
+Fouad_Mebazaa	isPoliticianOf	Tunisia
+Fouad_Mebazaa	isCitizenOf	Tunisia
+Fouad_Mebazaa	isPoliticianOf	Tunisia
+
+http://dbpedia.org/resource/Chiang_Wei-kuo	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Lee_Teng-hui
+Chiang_Wei-kuo	Lee_Teng-hui
+Chiang_Kai-shek	hasChild	Chiang_Wei-kuo
+Chiang_Kai-shek	hasChild	Chiang_Wei-kuo
+Chiang_Kai-shek	isAffiliatedTo	Kuomintang
+Chiang_Kai-shek	isAffiliatedTo	Kuomintang
+Lee_Teng-hui	isAffiliatedTo	Kuomintang
+Lee_Teng-hui	isAffiliatedTo	Kuomintang
+
+http://dbpedia.org/resource/Chiang_Wei-kuo	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Lee_Teng-hui
+Chiang_Wei-kuo	Lee_Teng-hui
+Soong_Mei-ling	hasChild	Chiang_Wei-kuo
+Soong_Mei-ling	hasChild	Chiang_Wei-kuo
+Soong_Mei-ling	isAffiliatedTo	Kuomintang
+Soong_Mei-ling	isAffiliatedTo	Kuomintang
+Lee_Teng-hui	isAffiliatedTo	Kuomintang
+Lee_Teng-hui	isAffiliatedTo	Kuomintang
+
+http://dbpedia.org/resource/Chiang_Wei-kuo	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Lee_Teng-hui
+Chiang_Wei-kuo	Lee_Teng-hui
+Chiang_Wei-kuo	diedIn	Taipei
+Chiang_Wei-kuo	diedIn	Taipei
+Kuomintang	isLocatedIn	Taipei
+Kuomintang	isLocatedIn	Taipei
+Lee_Teng-hui	isAffiliatedTo	Kuomintang
+Lee_Teng-hui	isAffiliatedTo	Kuomintang
+
+http://dbpedia.org/resource/Kawkab_Sabah_al-Daya	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Kawkab_Sabah_al-Daya	Bashar_al-Assad
+Kawkab_Sabah_al-Daya	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Kawkab_Sabah_al-Daya	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Kawkab_Sabah_al-Daya	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Kawkab_Sabah_al-Daya	Bashar_al-Assad
+Kawkab_Sabah_al-Daya	graduatedFrom	Damascus_University
+Kawkab_Sabah_al-Daya	graduatedFrom	Damascus_University
+Bashar_al-Assad	graduatedFrom	Damascus_University
+Bashar_al-Assad	graduatedFrom	Damascus_University
+
+http://dbpedia.org/resource/Kawkab_Sabah_al-Daya	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Kawkab_Sabah_al-Daya	Bashar_al-Assad
+Kawkab_Sabah_al-Daya	graduatedFrom	Damascus_University
+Kawkab_Sabah_al-Daya	graduatedFrom	Damascus_University
+Damascus_University	isLocatedIn	Damascus
+Damascus_University	isLocatedIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+
+http://dbpedia.org/resource/Kawkab_Sabah_al-Daya	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Kawkab_Sabah_al-Daya	Bashar_al-Assad
+Kawkab_Sabah_al-Daya	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Kawkab_Sabah_al-Daya	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Kawkab_Sabah_al-Daya	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Kawkab_Sabah_al-Daya	Bashar_al-Assad
+Kawkab_Sabah_al-Daya	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Kawkab_Sabah_al-Daya	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Damascus
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+
+http://dbpedia.org/resource/Kawkab_Sabah_al-Daya	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Kawkab_Sabah_al-Daya	Bashar_al-Assad
+Kawkab_Sabah_al-Daya	isCitizenOf	Syria
+Kawkab_Sabah_al-Daya	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Kawkab_Sabah_al-Daya	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Kawkab_Sabah_al-Daya	Bashar_al-Assad
+Kawkab_Sabah_al-Daya	isCitizenOf	Syria
+Kawkab_Sabah_al-Daya	isCitizenOf	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Einars_Repše	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Valdis_Zatlers
+Einars_Repše	Valdis_Zatlers
+Einars_Repše	isAffiliatedTo	New_Era_Party
+Einars_Repše	isAffiliatedTo	New_Era_Party
+New_Era_Party	isLocatedIn	Riga
+New_Era_Party	isLocatedIn	Riga
+Valdis_Zatlers	wasBornIn	Riga
+Valdis_Zatlers	wasBornIn	Riga
+
+http://dbpedia.org/resource/Luis_Guillermo_Vélez	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Julio_César_Turbay_Ayala
+Luis_Guillermo_Vélez	Julio_César_Turbay_Ayala
+Luis_Guillermo_Vélez	isAffiliatedTo	Colombian_Liberal_Party
+Luis_Guillermo_Vélez	isAffiliatedTo	Colombian_Liberal_Party
+Julio_César_Turbay_Ayala	isAffiliatedTo	Colombian_Liberal_Party
+Julio_César_Turbay_Ayala	isAffiliatedTo	Colombian_Liberal_Party
+
+http://dbpedia.org/resource/Daniel_Ona_Ondo	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Ali_Bongo_Ondimba
+Daniel_Ona_Ondo	Ali_Bongo_Ondimba
+Daniel_Ona_Ondo	isCitizenOf	Gabon
+Daniel_Ona_Ondo	isPoliticianOf	Gabon
+Daniel_Ona_Ondo	isCitizenOf	Gabon
+Daniel_Ona_Ondo	isPoliticianOf	Gabon
+Ali_Bongo_Ondimba	isPoliticianOf	Gabon
+Ali_Bongo_Ondimba	isLeaderOf	Gabon
+Ali_Bongo_Ondimba	isCitizenOf	Gabon
+Ali_Bongo_Ondimba	isPoliticianOf	Gabon
+Ali_Bongo_Ondimba	isLeaderOf	Gabon
+Ali_Bongo_Ondimba	isCitizenOf	Gabon
+
+http://dbpedia.org/resource/Daniel_Ona_Ondo	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Ali_Bongo_Ondimba
+Daniel_Ona_Ondo	Ali_Bongo_Ondimba
+Daniel_Ona_Ondo	isAffiliatedTo	Gabonese_Democratic_Party
+Daniel_Ona_Ondo	isAffiliatedTo	Gabonese_Democratic_Party
+Gabonese_Democratic_Party	isLocatedIn	Gabon
+Gabonese_Democratic_Party	isLocatedIn	Gabon
+Ali_Bongo_Ondimba	isPoliticianOf	Gabon
+Ali_Bongo_Ondimba	isLeaderOf	Gabon
+Ali_Bongo_Ondimba	isCitizenOf	Gabon
+Ali_Bongo_Ondimba	isPoliticianOf	Gabon
+Ali_Bongo_Ondimba	isLeaderOf	Gabon
+Ali_Bongo_Ondimba	isCitizenOf	Gabon
+
+http://dbpedia.org/resource/Daniel_Ona_Ondo	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Ali_Bongo_Ondimba
+Daniel_Ona_Ondo	Ali_Bongo_Ondimba
+Daniel_Ona_Ondo	isAffiliatedTo	Gabonese_Democratic_Party
+Daniel_Ona_Ondo	isAffiliatedTo	Gabonese_Democratic_Party
+Ali_Bongo_Ondimba	isAffiliatedTo	Gabonese_Democratic_Party
+Ali_Bongo_Ondimba	isAffiliatedTo	Gabonese_Democratic_Party
+
+http://dbpedia.org/resource/António_de_Sousa_Franco	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Jorge_Sampaio
+António_de_Sousa_Franco	Jorge_Sampaio
+António_de_Sousa_Franco	wasBornIn	Lisbon
+António_de_Sousa_Franco	wasBornIn	Lisbon
+Jorge_Sampaio	wasBornIn	Lisbon
+Jorge_Sampaio	wasBornIn	Lisbon
+
+http://dbpedia.org/resource/António_de_Sousa_Franco	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Jorge_Sampaio
+António_de_Sousa_Franco	Jorge_Sampaio
+António_de_Sousa_Franco	graduatedFrom	University_of_Lisbon
+António_de_Sousa_Franco	graduatedFrom	University_of_Lisbon
+Jorge_Sampaio	graduatedFrom	University_of_Lisbon
+Jorge_Sampaio	graduatedFrom	University_of_Lisbon
+
+http://dbpedia.org/resource/António_de_Sousa_Franco	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Jorge_Sampaio
+António_de_Sousa_Franco	Jorge_Sampaio
+António_de_Sousa_Franco	graduatedFrom	University_of_Lisbon
+António_de_Sousa_Franco	graduatedFrom	University_of_Lisbon
+University_of_Lisbon	isLocatedIn	Lisbon
+University_of_Lisbon	isLocatedIn	Lisbon
+Jorge_Sampaio	wasBornIn	Lisbon
+Jorge_Sampaio	wasBornIn	Lisbon
+
+http://dbpedia.org/resource/Paul_Bomani	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Julius_Nyerere
+Paul_Bomani	Julius_Nyerere
+Paul_Bomani	diedIn	Dar_es_Salaam
+Paul_Bomani	diedIn	Dar_es_Salaam
+Tanganyika	hasCapital	Dar_es_Salaam
+Tanganyika	hasCapital	Dar_es_Salaam
+Julius_Nyerere	isPoliticianOf	Tanganyika
+Julius_Nyerere	isPoliticianOf	Tanganyika
+
+http://dbpedia.org/resource/Hasri_Ainun_Habibie	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/B._J._Habibie
+Hasri_Ainun_Habibie	B._J._Habibie
+B._J._Habibie	isMarriedTo	Hasri_Ainun_Habibie
+Hasri_Ainun_Habibie	isMarriedTo	B._J._Habibie
+B._J._Habibie	isMarriedTo	Hasri_Ainun_Habibie
+Hasri_Ainun_Habibie	isMarriedTo	B._J._Habibie
+
+http://dbpedia.org/resource/Ihor_Kharchenko	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Viktor_Yushchenko
+Ihor_Kharchenko	Viktor_Yushchenko
+Ihor_Kharchenko	isCitizenOf	Ukraine
+Ihor_Kharchenko	isCitizenOf	Ukraine
+Kateryna_Yushchenko	isCitizenOf	Ukraine
+Kateryna_Yushchenko	isCitizenOf	Ukraine
+Viktor_Yushchenko	isMarriedTo	Kateryna_Yushchenko
+Kateryna_Yushchenko	isMarriedTo	Viktor_Yushchenko
+Viktor_Yushchenko	isMarriedTo	Kateryna_Yushchenko
+Kateryna_Yushchenko	isMarriedTo	Viktor_Yushchenko
+
+http://dbpedia.org/resource/Ihor_Kharchenko	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Viktor_Yushchenko
+Ihor_Kharchenko	Viktor_Yushchenko
+Ihor_Kharchenko	isCitizenOf	Ukraine
+Ihor_Kharchenko	isCitizenOf	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+
+http://dbpedia.org/resource/Kassym-Jomart_Tokayev	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Nursultan_Nazarbayev
+Kassym-Jomart_Tokayev	Nursultan_Nazarbayev
+Kassym-Jomart_Tokayev	isCitizenOf	Kazakhstan
+Kassym-Jomart_Tokayev	isPoliticianOf	Kazakhstan
+Kassym-Jomart_Tokayev	isCitizenOf	Kazakhstan
+Kassym-Jomart_Tokayev	isPoliticianOf	Kazakhstan
+Nursultan_Nazarbayev	isPoliticianOf	Kazakhstan
+Nursultan_Nazarbayev	isLeaderOf	Kazakhstan
+Nursultan_Nazarbayev	isCitizenOf	Kazakhstan
+Nursultan_Nazarbayev	isPoliticianOf	Kazakhstan
+Nursultan_Nazarbayev	isLeaderOf	Kazakhstan
+Nursultan_Nazarbayev	isCitizenOf	Kazakhstan
+
+http://dbpedia.org/resource/Kassym-Jomart_Tokayev	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Nursultan_Nazarbayev
+Kassym-Jomart_Tokayev	Nursultan_Nazarbayev
+Kassym-Jomart_Tokayev	isCitizenOf	Kazakhstan
+Kassym-Jomart_Tokayev	isPoliticianOf	Kazakhstan
+Kassym-Jomart_Tokayev	isCitizenOf	Kazakhstan
+Kassym-Jomart_Tokayev	isPoliticianOf	Kazakhstan
+Dariga_Nazarbayeva	isCitizenOf	Kazakhstan
+Dariga_Nazarbayeva	isCitizenOf	Kazakhstan
+Nursultan_Nazarbayev	hasChild	Dariga_Nazarbayeva
+Nursultan_Nazarbayev	hasChild	Dariga_Nazarbayeva
+
+http://dbpedia.org/resource/Kassym-Jomart_Tokayev	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Nursultan_Nazarbayev
+Kassym-Jomart_Tokayev	Nursultan_Nazarbayev
+Kassym-Jomart_Tokayev	isAffiliatedTo	Nur_Otan
+Kassym-Jomart_Tokayev	isAffiliatedTo	Nur_Otan
+Nursultan_Nazarbayev	isLeaderOf	Nur_Otan
+Nursultan_Nazarbayev	isAffiliatedTo	Nur_Otan
+Nursultan_Nazarbayev	isLeaderOf	Nur_Otan
+Nursultan_Nazarbayev	isAffiliatedTo	Nur_Otan
+
+http://dbpedia.org/resource/Kassym-Jomart_Tokayev	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Nursultan_Nazarbayev
+Kassym-Jomart_Tokayev	Nursultan_Nazarbayev
+Kassym-Jomart_Tokayev	isAffiliatedTo	Nur_Otan
+Kassym-Jomart_Tokayev	isAffiliatedTo	Nur_Otan
+Dariga_Nazarbayeva	isAffiliatedTo	Nur_Otan
+Dariga_Nazarbayeva	isAffiliatedTo	Nur_Otan
+Nursultan_Nazarbayev	hasChild	Dariga_Nazarbayeva
+Nursultan_Nazarbayev	hasChild	Dariga_Nazarbayeva
+
+http://dbpedia.org/resource/Radwan_al-Habib	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Radwan_al-Habib	Bashar_al-Assad
+Radwan_al-Habib	isPoliticianOf	Syria
+Radwan_al-Habib	isCitizenOf	Syria
+Radwan_al-Habib	isPoliticianOf	Syria
+Radwan_al-Habib	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Radwan_al-Habib	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Radwan_al-Habib	Bashar_al-Assad
+Radwan_al-Habib	isPoliticianOf	Syria
+Radwan_al-Habib	isCitizenOf	Syria
+Radwan_al-Habib	isPoliticianOf	Syria
+Radwan_al-Habib	isCitizenOf	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Albadé_Abouba	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Mamadou_Tandja
+Albadé_Abouba	Mamadou_Tandja
+Albadé_Abouba	isCitizenOf	Niger
+Albadé_Abouba	isPoliticianOf	Niger
+Albadé_Abouba	isCitizenOf	Niger
+Albadé_Abouba	isPoliticianOf	Niger
+Mamadou_Tandja	isPoliticianOf	Niger
+Mamadou_Tandja	isCitizenOf	Niger
+Mamadou_Tandja	isPoliticianOf	Niger
+Mamadou_Tandja	isCitizenOf	Niger
+
+http://dbpedia.org/resource/Albadé_Abouba	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Mamadou_Tandja
+Albadé_Abouba	Mamadou_Tandja
+Albadé_Abouba	isAffiliatedTo	National_Movement_for_the_Development_of_Society
+Albadé_Abouba	isAffiliatedTo	National_Movement_for_the_Development_of_Society
+Mamadou_Tandja	isAffiliatedTo	National_Movement_for_the_Development_of_Society
+Mamadou_Tandja	isAffiliatedTo	National_Movement_for_the_Development_of_Society
+
+http://dbpedia.org/resource/Albadé_Abouba	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Mamadou_Tandja
+Albadé_Abouba	Mamadou_Tandja
+Albadé_Abouba	isAffiliatedTo	National_Movement_for_the_Development_of_Society
+Albadé_Abouba	isAffiliatedTo	National_Movement_for_the_Development_of_Society
+National_Movement_for_the_Development_of_Society	isLocatedIn	Niger
+National_Movement_for_the_Development_of_Society	isLocatedIn	Niger
+Mamadou_Tandja	isPoliticianOf	Niger
+Mamadou_Tandja	isCitizenOf	Niger
+Mamadou_Tandja	isPoliticianOf	Niger
+Mamadou_Tandja	isCitizenOf	Niger
+
+http://dbpedia.org/resource/Adnan_Omran	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Adnan_Omran	Bashar_al-Assad
+Adnan_Omran	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Adnan_Omran	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Adnan_Omran	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Adnan_Omran	Bashar_al-Assad
+Adnan_Omran	graduatedFrom	Damascus_University
+Adnan_Omran	graduatedFrom	Damascus_University
+Bashar_al-Assad	graduatedFrom	Damascus_University
+Bashar_al-Assad	graduatedFrom	Damascus_University
+
+http://dbpedia.org/resource/Adnan_Omran	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Adnan_Omran	Bashar_al-Assad
+Adnan_Omran	graduatedFrom	Damascus_University
+Adnan_Omran	graduatedFrom	Damascus_University
+Damascus_University	isLocatedIn	Damascus
+Damascus_University	isLocatedIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+
+http://dbpedia.org/resource/Adnan_Omran	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Adnan_Omran	Bashar_al-Assad
+Adnan_Omran	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Adnan_Omran	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Adnan_Omran	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Adnan_Omran	Bashar_al-Assad
+Adnan_Omran	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Adnan_Omran	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Damascus
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+
+http://dbpedia.org/resource/Adnan_Omran	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Adnan_Omran	Bashar_al-Assad
+Adnan_Omran	isCitizenOf	Syria
+Adnan_Omran	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Adnan_Omran	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Adnan_Omran	Bashar_al-Assad
+Adnan_Omran	isCitizenOf	Syria
+Adnan_Omran	isCitizenOf	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Vagif_Aliyev	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Heydar_Aliyev
+Vagif_Aliyev	Heydar_Aliyev
+Vagif_Aliyev	wasBornIn	Nakhichevan_Autonomous_Soviet_Socialist_Republic
+Vagif_Aliyev	wasBornIn	Nakhichevan_Autonomous_Soviet_Socialist_Republic
+Heydar_Aliyev	wasBornIn	Nakhichevan_Autonomous_Soviet_Socialist_Republic
+Heydar_Aliyev	wasBornIn	Nakhichevan_Autonomous_Soviet_Socialist_Republic
+
+http://dbpedia.org/resource/Vagif_Aliyev	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Heydar_Aliyev
+Vagif_Aliyev	Heydar_Aliyev
+Vagif_Aliyev	isAffiliatedTo	New_Azerbaijan_Party
+Vagif_Aliyev	isAffiliatedTo	New_Azerbaijan_Party
+Heydar_Aliyev	created	New_Azerbaijan_Party
+Heydar_Aliyev	isAffiliatedTo	New_Azerbaijan_Party
+Heydar_Aliyev	created	New_Azerbaijan_Party
+Heydar_Aliyev	isAffiliatedTo	New_Azerbaijan_Party
+
+http://dbpedia.org/resource/Ashwin_Adhin	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Dési_Bouterse
+Ashwin_Adhin	Dési_Bouterse
+Ashwin_Adhin	isPoliticianOf	Suriname
+Ashwin_Adhin	isCitizenOf	Suriname
+Ashwin_Adhin	isLeaderOf	Suriname
+Ashwin_Adhin	isPoliticianOf	Suriname
+Ashwin_Adhin	isCitizenOf	Suriname
+Ashwin_Adhin	isLeaderOf	Suriname
+Dési_Bouterse	isLeaderOf	Suriname
+Dési_Bouterse	isCitizenOf	Suriname
+Dési_Bouterse	isPoliticianOf	Suriname
+Dési_Bouterse	isLeaderOf	Suriname
+Dési_Bouterse	isCitizenOf	Suriname
+Dési_Bouterse	isPoliticianOf	Suriname
+
+http://dbpedia.org/resource/Cameroon_People's_Democratic_Movement	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Paul_Biya
+Cameroon_People's_Democratic_Movement	Paul_Biya
+Paul_Biya	isAffiliatedTo	Cameroon_People's_Democratic_Movement
+Paul_Biya	isAffiliatedTo	Cameroon_People's_Democratic_Movement
+
+http://dbpedia.org/resource/Cameroon_People's_Democratic_Movement	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Paul_Biya
+Cameroon_People's_Democratic_Movement	Paul_Biya
+Simon_Achidi_Achu	isAffiliatedTo	Cameroon_People's_Democratic_Movement
+Simon_Achidi_Achu	isAffiliatedTo	Cameroon_People's_Democratic_Movement
+Simon_Achidi_Achu	isAffiliatedTo	Cameroon_People's_Democratic_Movement
+Simon_Achidi_Achu	isAffiliatedTo	Cameroon_People's_Democratic_Movement
+Paul_Biya	isAffiliatedTo	Cameroon_People's_Democratic_Movement
+Paul_Biya	isAffiliatedTo	Cameroon_People's_Democratic_Movement
+
+http://dbpedia.org/resource/Kokhir_Rasulzoda	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Emomali_Rahmon
+Kokhir_Rasulzoda	Emomali_Rahmon
+Kokhir_Rasulzoda	isPoliticianOf	Tajikistan
+Kokhir_Rasulzoda	isLeaderOf	Tajikistan
+Kokhir_Rasulzoda	isCitizenOf	Tajikistan
+Kokhir_Rasulzoda	isPoliticianOf	Tajikistan
+Kokhir_Rasulzoda	isLeaderOf	Tajikistan
+Kokhir_Rasulzoda	isCitizenOf	Tajikistan
+Emomali_Rahmon	isPoliticianOf	Tajikistan
+Emomali_Rahmon	isLeaderOf	Tajikistan
+Emomali_Rahmon	isCitizenOf	Tajikistan
+Emomali_Rahmon	isPoliticianOf	Tajikistan
+Emomali_Rahmon	isLeaderOf	Tajikistan
+Emomali_Rahmon	isCitizenOf	Tajikistan
+
+http://dbpedia.org/resource/Ghassan_al-Rifai	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Ghassan_al-Rifai	Bashar_al-Assad
+Ghassan_al-Rifai	isCitizenOf	Syria
+Ghassan_al-Rifai	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Ghassan_al-Rifai	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Ghassan_al-Rifai	Bashar_al-Assad
+Ghassan_al-Rifai	isCitizenOf	Syria
+Ghassan_al-Rifai	isCitizenOf	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Tancrède_Auguste	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Florvil_Hyppolite
+Tancrède_Auguste	Florvil_Hyppolite
+Tancrède_Auguste	wasBornIn	Cap-Haïtien
+Tancrède_Auguste	wasBornIn	Cap-Haïtien
+Florvil_Hyppolite	wasBornIn	Cap-Haïtien
+Florvil_Hyppolite	wasBornIn	Cap-Haïtien
+
+http://dbpedia.org/resource/Inonge_Wina	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Edgar_Lungu
+Inonge_Wina	Edgar_Lungu
+Inonge_Wina	isAffiliatedTo	Patriotic_Front_(Zambia)
+Inonge_Wina	isAffiliatedTo	Patriotic_Front_(Zambia)
+Edgar_Lungu	isAffiliatedTo	Patriotic_Front_(Zambia)
+Edgar_Lungu	isAffiliatedTo	Patriotic_Front_(Zambia)
+
+http://dbpedia.org/resource/Luis_Alberto_Machado	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Rafael_Caldera
+Luis_Alberto_Machado	Rafael_Caldera
+Luis_Alberto_Machado	isCitizenOf	Venezuela
+Luis_Alberto_Machado	isPoliticianOf	Venezuela
+Luis_Alberto_Machado	isCitizenOf	Venezuela
+Luis_Alberto_Machado	isPoliticianOf	Venezuela
+Rafael_Caldera	isCitizenOf	Venezuela
+Rafael_Caldera	isPoliticianOf	Venezuela
+Rafael_Caldera	isCitizenOf	Venezuela
+Rafael_Caldera	isPoliticianOf	Venezuela
+
+http://dbpedia.org/resource/Luis_Alberto_Machado	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Rafael_Caldera
+Luis_Alberto_Machado	Rafael_Caldera
+Luis_Alberto_Machado	isCitizenOf	Venezuela
+Luis_Alberto_Machado	isPoliticianOf	Venezuela
+Luis_Alberto_Machado	isCitizenOf	Venezuela
+Luis_Alberto_Machado	isPoliticianOf	Venezuela
+Copei	isLocatedIn	Venezuela
+Copei	isLocatedIn	Venezuela
+Rafael_Caldera	isAffiliatedTo	Copei
+Rafael_Caldera	isLeaderOf	Copei
+Rafael_Caldera	isAffiliatedTo	Copei
+Rafael_Caldera	isLeaderOf	Copei
+
+http://dbpedia.org/resource/Luis_Alberto_Machado	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Rafael_Caldera
+Luis_Alberto_Machado	Rafael_Caldera
+Luis_Alberto_Machado	wasBornIn	Caracas
+Luis_Alberto_Machado	wasBornIn	Caracas
+Caracas	isLocatedIn	Venezuela
+Venezuela	hasCapital	Caracas
+Caracas	isLocatedIn	Venezuela
+Venezuela	hasCapital	Caracas
+Rafael_Caldera	isCitizenOf	Venezuela
+Rafael_Caldera	isPoliticianOf	Venezuela
+Rafael_Caldera	isCitizenOf	Venezuela
+Rafael_Caldera	isPoliticianOf	Venezuela
+
+http://dbpedia.org/resource/Macky_Sall	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Abdoulaye_Wade
+Macky_Sall	Abdoulaye_Wade
+Macky_Sall	isPoliticianOf	Senegal
+Macky_Sall	isCitizenOf	Senegal
+Macky_Sall	isLeaderOf	Senegal
+Macky_Sall	isPoliticianOf	Senegal
+Macky_Sall	isCitizenOf	Senegal
+Macky_Sall	isLeaderOf	Senegal
+Abdoulaye_Wade	isPoliticianOf	Senegal
+Abdoulaye_Wade	isCitizenOf	Senegal
+Abdoulaye_Wade	isPoliticianOf	Senegal
+Abdoulaye_Wade	isCitizenOf	Senegal
+
+http://dbpedia.org/resource/José_Antonio_Griñán	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Felipe_González
+José_Antonio_Griñán	Felipe_González
+José_Antonio_Griñán	graduatedFrom	University_of_Seville
+José_Antonio_Griñán	graduatedFrom	University_of_Seville
+Felipe_González	graduatedFrom	University_of_Seville
+Felipe_González	graduatedFrom	University_of_Seville
+
+http://dbpedia.org/resource/José_Antonio_Griñán	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Felipe_González
+José_Antonio_Griñán	Felipe_González
+José_Antonio_Griñán	graduatedFrom	University_of_Seville
+José_Antonio_Griñán	graduatedFrom	University_of_Seville
+University_of_Seville	isLocatedIn	Seville
+University_of_Seville	isLocatedIn	Seville
+Felipe_González	wasBornIn	Seville
+Felipe_González	wasBornIn	Seville
+
+http://dbpedia.org/resource/José_Antonio_Griñán	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Felipe_González
+José_Antonio_Griñán	Felipe_González
+José_Antonio_Griñán	isAffiliatedTo	Spanish_Socialist_Workers'_Party
+José_Antonio_Griñán	isAffiliatedTo	Spanish_Socialist_Workers'_Party
+Felipe_González	isAffiliatedTo	Spanish_Socialist_Workers'_Party
+Felipe_González	isAffiliatedTo	Spanish_Socialist_Workers'_Party
+
+http://dbpedia.org/resource/José_Antonio_Griñán	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Felipe_González
+José_Antonio_Griñán	Felipe_González
+José_Antonio_Griñán	isPoliticianOf	Andalusia
+José_Antonio_Griñán	isPoliticianOf	Andalusia
+Andalusia	isLocatedIn	Seville
+Andalusia	hasCapital	Seville
+Seville	isLocatedIn	Andalusia
+Andalusia	isLocatedIn	Seville
+Andalusia	hasCapital	Seville
+Seville	isLocatedIn	Andalusia
+Felipe_González	wasBornIn	Seville
+Felipe_González	wasBornIn	Seville
+
+http://dbpedia.org/resource/Said_Mohammad_Sammour	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Said_Mohammad_Sammour	Bashar_al-Assad
+Said_Mohammad_Sammour	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Said_Mohammad_Sammour	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Said_Mohammad_Sammour	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Said_Mohammad_Sammour	Bashar_al-Assad
+Said_Mohammad_Sammour	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Said_Mohammad_Sammour	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Damascus
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+
+http://dbpedia.org/resource/Said_Mohammad_Sammour	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Said_Mohammad_Sammour	Bashar_al-Assad
+Said_Mohammad_Sammour	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Said_Mohammad_Sammour	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Said_Mohammad_Sammour	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Said_Mohammad_Sammour	Bashar_al-Assad
+Said_Mohammad_Sammour	isCitizenOf	Syria
+Said_Mohammad_Sammour	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Said_Mohammad_Sammour	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Said_Mohammad_Sammour	Bashar_al-Assad
+Said_Mohammad_Sammour	isCitizenOf	Syria
+Said_Mohammad_Sammour	isCitizenOf	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Pedro_Passos_Coelho	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aníbal_Cavaco_Silva
+Pedro_Passos_Coelho	Aníbal_Cavaco_Silva
+Pedro_Passos_Coelho	graduatedFrom	University_of_Lisbon
+Pedro_Passos_Coelho	graduatedFrom	University_of_Lisbon
+Maria_Cavaco_Silva	graduatedFrom	University_of_Lisbon
+Maria_Cavaco_Silva	graduatedFrom	University_of_Lisbon
+Maria_Cavaco_Silva	isMarriedTo	Aníbal_Cavaco_Silva
+Aníbal_Cavaco_Silva	isMarriedTo	Maria_Cavaco_Silva
+Maria_Cavaco_Silva	isMarriedTo	Aníbal_Cavaco_Silva
+Aníbal_Cavaco_Silva	isMarriedTo	Maria_Cavaco_Silva
+
+http://dbpedia.org/resource/Francisco_Fernández_Ordóñez	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Leopoldo_Calvo-Sotelo
+Francisco_Fernández_Ordóñez	Leopoldo_Calvo-Sotelo
+Francisco_Fernández_Ordóñez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Francisco_Fernández_Ordóñez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Leopoldo_Calvo-Sotelo	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Leopoldo_Calvo-Sotelo	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+
+http://dbpedia.org/resource/Bess_Truman	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Harry_S._Truman
+Bess_Truman	Harry_S._Truman
+Bess_Truman	diedIn	Independence,_Missouri
+Bess_Truman	wasBornIn	Independence,_Missouri
+Bess_Truman	diedIn	Independence,_Missouri
+Bess_Truman	wasBornIn	Independence,_Missouri
+Bess_Truman	diedIn	Independence,_Missouri
+Bess_Truman	wasBornIn	Independence,_Missouri
+Bess_Truman	diedIn	Independence,_Missouri
+Bess_Truman	wasBornIn	Independence,_Missouri
+Bess_Truman	isMarriedTo	Harry_S._Truman
+Harry_S._Truman	isMarriedTo	Bess_Truman
+Bess_Truman	isMarriedTo	Harry_S._Truman
+Harry_S._Truman	isMarriedTo	Bess_Truman
+
+http://dbpedia.org/resource/Bess_Truman	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Harry_S._Truman
+Bess_Truman	Harry_S._Truman
+Bess_Truman	diedIn	Independence,_Missouri
+Bess_Truman	wasBornIn	Independence,_Missouri
+Bess_Truman	diedIn	Independence,_Missouri
+Bess_Truman	wasBornIn	Independence,_Missouri
+Margaret_Truman	wasBornIn	Independence,_Missouri
+Margaret_Truman	wasBornIn	Independence,_Missouri
+Harry_S._Truman	hasChild	Margaret_Truman
+Harry_S._Truman	hasChild	Margaret_Truman
+
+http://dbpedia.org/resource/Bess_Truman	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Harry_S._Truman
+Bess_Truman	Harry_S._Truman
+Bess_Truman	hasChild	Margaret_Truman
+Bess_Truman	hasChild	Margaret_Truman
+Harry_S._Truman	hasChild	Margaret_Truman
+Harry_S._Truman	hasChild	Margaret_Truman
+
+http://dbpedia.org/resource/Bess_Truman	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Harry_S._Truman
+Bess_Truman	Harry_S._Truman
+Bess_Truman	hasChild	Margaret_Truman
+Bess_Truman	hasChild	Margaret_Truman
+Bess_Truman	hasChild	Margaret_Truman
+Bess_Truman	hasChild	Margaret_Truman
+Bess_Truman	isMarriedTo	Harry_S._Truman
+Harry_S._Truman	isMarriedTo	Bess_Truman
+Bess_Truman	isMarriedTo	Harry_S._Truman
+Harry_S._Truman	isMarriedTo	Bess_Truman
+
+http://dbpedia.org/resource/Bess_Truman	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Harry_S._Truman
+Bess_Truman	Harry_S._Truman
+Bess_Truman	isMarriedTo	Harry_S._Truman
+Harry_S._Truman	isMarriedTo	Bess_Truman
+Bess_Truman	isMarriedTo	Harry_S._Truman
+Harry_S._Truman	isMarriedTo	Bess_Truman
+
+http://dbpedia.org/resource/Sufian_Allaw	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Sufian_Allaw	Bashar_al-Assad
+Sufian_Allaw	isCitizenOf	Syria
+Sufian_Allaw	isPoliticianOf	Syria
+Sufian_Allaw	isCitizenOf	Syria
+Sufian_Allaw	isPoliticianOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Sufian_Allaw	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Sufian_Allaw	Bashar_al-Assad
+Sufian_Allaw	isCitizenOf	Syria
+Sufian_Allaw	isPoliticianOf	Syria
+Sufian_Allaw	isCitizenOf	Syria
+Sufian_Allaw	isPoliticianOf	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Teresa_Patrício_de_Gouveia	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Jorge_Sampaio
+Teresa_Patrício_de_Gouveia	Jorge_Sampaio
+Teresa_Patrício_de_Gouveia	wasBornIn	Lisbon
+Teresa_Patrício_de_Gouveia	wasBornIn	Lisbon
+Jorge_Sampaio	wasBornIn	Lisbon
+Jorge_Sampaio	wasBornIn	Lisbon
+
+http://dbpedia.org/resource/José_de_Obaldía	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/José_Hilario_López
+José_de_Obaldía	José_Hilario_López
+José_de_Obaldía	isAffiliatedTo	Colombian_Liberal_Party
+José_de_Obaldía	isAffiliatedTo	Colombian_Liberal_Party
+José_Hilario_López	isAffiliatedTo	Colombian_Liberal_Party
+José_Hilario_López	isAffiliatedTo	Colombian_Liberal_Party
+
+http://dbpedia.org/resource/João_Bernardo_Vieira	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Luís_Cabral
+João_Bernardo_Vieira	Luís_Cabral
+João_Bernardo_Vieira	diedIn	Bissau
+João_Bernardo_Vieira	wasBornIn	Bissau
+João_Bernardo_Vieira	diedIn	Bissau
+João_Bernardo_Vieira	wasBornIn	Bissau
+Luís_Cabral	wasBornIn	Bissau
+Luís_Cabral	wasBornIn	Bissau
+
+http://dbpedia.org/resource/Betty_Ford	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Gerald_Ford
+Betty_Ford	Gerald_Ford
+Gerald_Ford	isMarriedTo	Betty_Ford
+Betty_Ford	isMarriedTo	Gerald_Ford
+Gerald_Ford	isMarriedTo	Betty_Ford
+Betty_Ford	isMarriedTo	Gerald_Ford
+
+http://dbpedia.org/resource/Betty_Ford	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Gerald_Ford
+Betty_Ford	Gerald_Ford
+Betty_Ford	diedIn	Rancho_Mirage,_California
+Betty_Ford	diedIn	Rancho_Mirage,_California
+Betty_Ford	diedIn	Rancho_Mirage,_California
+Betty_Ford	diedIn	Rancho_Mirage,_California
+Gerald_Ford	isMarriedTo	Betty_Ford
+Betty_Ford	isMarriedTo	Gerald_Ford
+Gerald_Ford	isMarriedTo	Betty_Ford
+Betty_Ford	isMarriedTo	Gerald_Ford
+
+http://dbpedia.org/resource/Teresa_Patrício_de_Gouveia	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Mário_Soares
+Teresa_Patrício_de_Gouveia	Mário_Soares
+Teresa_Patrício_de_Gouveia	wasBornIn	Lisbon
+Teresa_Patrício_de_Gouveia	wasBornIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+
+http://dbpedia.org/resource/Teresa_Patrício_de_Gouveia	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Mário_Soares
+Teresa_Patrício_de_Gouveia	Mário_Soares
+Teresa_Patrício_de_Gouveia	wasBornIn	Lisbon
+Teresa_Patrício_de_Gouveia	wasBornIn	Lisbon
+Maria_Barroso	diedIn	Lisbon
+Maria_Barroso	diedIn	Lisbon
+Mário_Soares	isMarriedTo	Maria_Barroso
+Maria_Barroso	isMarriedTo	Mário_Soares
+Mário_Soares	isMarriedTo	Maria_Barroso
+Maria_Barroso	isMarriedTo	Mário_Soares
+
+http://dbpedia.org/resource/Teresa_Patrício_de_Gouveia	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Mário_Soares
+Teresa_Patrício_de_Gouveia	Mário_Soares
+Teresa_Patrício_de_Gouveia	isAffiliatedTo	Social_Democratic_Party_(Portugal)
+Teresa_Patrício_de_Gouveia	isAffiliatedTo	Social_Democratic_Party_(Portugal)
+Mário_Soares	isAffiliatedTo	Social_Democratic_Party_(Portugal)
+Mário_Soares	isAffiliatedTo	Social_Democratic_Party_(Portugal)
+
+http://dbpedia.org/resource/José_Pardo_y_Barreda	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Eduardo_López_de_Romaña
+José_Pardo_y_Barreda	Eduardo_López_de_Romaña
+José_Pardo_y_Barreda	isAffiliatedTo	Civilista_Party
+José_Pardo_y_Barreda	isLeaderOf	Civilista_Party
+José_Pardo_y_Barreda	isAffiliatedTo	Civilista_Party
+José_Pardo_y_Barreda	isLeaderOf	Civilista_Party
+Eduardo_López_de_Romaña	isAffiliatedTo	Civilista_Party
+Eduardo_López_de_Romaña	isLeaderOf	Civilista_Party
+Eduardo_López_de_Romaña	isAffiliatedTo	Civilista_Party
+Eduardo_López_de_Romaña	isLeaderOf	Civilista_Party
+
+http://dbpedia.org/resource/Alonso_Lujambio	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Felipe_Calderón
+Alonso_Lujambio	Felipe_Calderón
+Alonso_Lujambio	graduatedFrom	Instituto_Tecnológico_Autónomo_de_México
+Alonso_Lujambio	graduatedFrom	Instituto_Tecnológico_Autónomo_de_México
+Felipe_Calderón	graduatedFrom	Instituto_Tecnológico_Autónomo_de_México
+Felipe_Calderón	graduatedFrom	Instituto_Tecnológico_Autónomo_de_México
+
+http://dbpedia.org/resource/Adnan_Abdo_al-Sukhni	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Adnan_Abdo_al-Sukhni	Bashar_al-Assad
+Adnan_Abdo_al-Sukhni	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Adnan_Abdo_al-Sukhni	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Adnan_Abdo_al-Sukhni	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Adnan_Abdo_al-Sukhni	Bashar_al-Assad
+Adnan_Abdo_al-Sukhni	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Adnan_Abdo_al-Sukhni	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Adnan_Abdo_al-Sukhni	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Adnan_Abdo_al-Sukhni	Bashar_al-Assad
+Adnan_Abdo_al-Sukhni	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Adnan_Abdo_al-Sukhni	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Damascus
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+
+http://dbpedia.org/resource/Adnan_Abdo_al-Sukhni	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Adnan_Abdo_al-Sukhni	Bashar_al-Assad
+Adnan_Abdo_al-Sukhni	isCitizenOf	Syria
+Adnan_Abdo_al-Sukhni	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Adnan_Abdo_al-Sukhni	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Adnan_Abdo_al-Sukhni	Bashar_al-Assad
+Adnan_Abdo_al-Sukhni	isCitizenOf	Syria
+Adnan_Abdo_al-Sukhni	isCitizenOf	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/H._Sophie_Newcomb_Memorial_College	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Scott_Cowen
+H._Sophie_Newcomb_Memorial_College	Scott_Cowen
+H._Sophie_Newcomb_Memorial_College	isLocatedIn	New_Orleans
+H._Sophie_Newcomb_Memorial_College	isLocatedIn	New_Orleans
+Tulane_University	isLocatedIn	New_Orleans
+Tulane_University	isLocatedIn	New_Orleans
+Scott_Cowen	worksAt	Tulane_University
+Scott_Cowen	worksAt	Tulane_University
+
+http://dbpedia.org/resource/Ghulam_Mustafa_Khar	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Fazal_Ilahi_Chaudhry
+Ghulam_Mustafa_Khar	Fazal_Ilahi_Chaudhry
+Ghulam_Mustafa_Khar	isPoliticianOf	Punjab,_Pakistan
+Ghulam_Mustafa_Khar	isPoliticianOf	Punjab,_Pakistan
+Kharian	isLocatedIn	Punjab,_Pakistan
+Kharian	isLocatedIn	Punjab,_Pakistan
+Fazal_Ilahi_Chaudhry	wasBornIn	Kharian
+Fazal_Ilahi_Chaudhry	wasBornIn	Kharian
+
+http://dbpedia.org/resource/Nicholas_F._Brady	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/George_H._W._Bush
+Nicholas_F._Brady	George_H._W._Bush
+Nicholas_F._Brady	graduatedFrom	Harvard_Business_School
+Nicholas_F._Brady	graduatedFrom	Harvard_Business_School
+George_W._Bush	graduatedFrom	Harvard_Business_School
+George_W._Bush	graduatedFrom	Harvard_Business_School
+George_H._W._Bush	hasChild	George_W._Bush
+George_H._W._Bush	hasChild	George_W._Bush
+
+http://dbpedia.org/resource/Mohammed_Nasif_Kheirbek	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Mohammed_Nasif_Kheirbek	Bashar_al-Assad
+Mohammed_Nasif_Kheirbek	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Mohammed_Nasif_Kheirbek	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Mohammed_Nasif_Kheirbek	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Mohammed_Nasif_Kheirbek	Bashar_al-Assad
+Mohammed_Nasif_Kheirbek	diedIn	Damascus
+Mohammed_Nasif_Kheirbek	diedIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+
+http://dbpedia.org/resource/Mohammed_Nasif_Kheirbek	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Mohammed_Nasif_Kheirbek	Bashar_al-Assad
+Mohammed_Nasif_Kheirbek	diedIn	Damascus
+Mohammed_Nasif_Kheirbek	diedIn	Damascus
+Damascus_University	isLocatedIn	Damascus
+Damascus_University	isLocatedIn	Damascus
+Bashar_al-Assad	graduatedFrom	Damascus_University
+Bashar_al-Assad	graduatedFrom	Damascus_University
+
+http://dbpedia.org/resource/Mohammed_Nasif_Kheirbek	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Mohammed_Nasif_Kheirbek	Bashar_al-Assad
+Mohammed_Nasif_Kheirbek	isCitizenOf	Syria
+Mohammed_Nasif_Kheirbek	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Mohammed_Nasif_Kheirbek	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Mohammed_Nasif_Kheirbek	Bashar_al-Assad
+Mohammed_Nasif_Kheirbek	isCitizenOf	Syria
+Mohammed_Nasif_Kheirbek	isCitizenOf	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/José_Antonio_Meade_Kuribreña	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Felipe_Calderón
+José_Antonio_Meade_Kuribreña	Felipe_Calderón
+José_Antonio_Meade_Kuribreña	graduatedFrom	Instituto_Tecnológico_Autónomo_de_México
+José_Antonio_Meade_Kuribreña	graduatedFrom	Instituto_Tecnológico_Autónomo_de_México
+Felipe_Calderón	graduatedFrom	Instituto_Tecnológico_Autónomo_de_México
+Felipe_Calderón	graduatedFrom	Instituto_Tecnológico_Autónomo_de_México
+
+http://dbpedia.org/resource/Alberto_Madruga_da_Costa	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Mário_Soares
+Alberto_Madruga_da_Costa	Mário_Soares
+Alberto_Madruga_da_Costa	graduatedFrom	University_of_Lisbon
+Alberto_Madruga_da_Costa	graduatedFrom	University_of_Lisbon
+University_of_Lisbon	isLocatedIn	Lisbon
+University_of_Lisbon	isLocatedIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+
+http://dbpedia.org/resource/Alberto_Madruga_da_Costa	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Mário_Soares
+Alberto_Madruga_da_Costa	Mário_Soares
+Alberto_Madruga_da_Costa	graduatedFrom	University_of_Lisbon
+Alberto_Madruga_da_Costa	graduatedFrom	University_of_Lisbon
+João_Soares_(politician)	graduatedFrom	University_of_Lisbon
+João_Soares_(politician)	graduatedFrom	University_of_Lisbon
+Mário_Soares	hasChild	João_Soares_(politician)
+Mário_Soares	hasChild	João_Soares_(politician)
+
+http://dbpedia.org/resource/Alberto_Madruga_da_Costa	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Mário_Soares
+Alberto_Madruga_da_Costa	Mário_Soares
+Alberto_Madruga_da_Costa	graduatedFrom	University_of_Lisbon
+Alberto_Madruga_da_Costa	graduatedFrom	University_of_Lisbon
+Mário_Soares	graduatedFrom	University_of_Lisbon
+Mário_Soares	graduatedFrom	University_of_Lisbon
+
+http://dbpedia.org/resource/Alberto_Madruga_da_Costa	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Mário_Soares
+Alberto_Madruga_da_Costa	Mário_Soares
+Alberto_Madruga_da_Costa	graduatedFrom	University_of_Lisbon
+Alberto_Madruga_da_Costa	graduatedFrom	University_of_Lisbon
+Maria_Barroso	graduatedFrom	University_of_Lisbon
+Maria_Barroso	graduatedFrom	University_of_Lisbon
+Mário_Soares	isMarriedTo	Maria_Barroso
+Maria_Barroso	isMarriedTo	Mário_Soares
+Mário_Soares	isMarriedTo	Maria_Barroso
+Maria_Barroso	isMarriedTo	Mário_Soares
+
+http://dbpedia.org/resource/Doreen_Chung	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Arthur_Chung
+Doreen_Chung	Arthur_Chung
+Doreen_Chung	isMarriedTo	Arthur_Chung
+Arthur_Chung	isMarriedTo	Doreen_Chung
+Doreen_Chung	isMarriedTo	Arthur_Chung
+Arthur_Chung	isMarriedTo	Doreen_Chung
+
+http://dbpedia.org/resource/Doreen_Chung	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Arthur_Chung
+Doreen_Chung	Arthur_Chung
+Doreen_Chung	livesIn	Guyana
+Doreen_Chung	isCitizenOf	Guyana
+Doreen_Chung	livesIn	Guyana
+Doreen_Chung	isCitizenOf	Guyana
+Doreen_Chung	livesIn	Guyana
+Doreen_Chung	isCitizenOf	Guyana
+Doreen_Chung	livesIn	Guyana
+Doreen_Chung	isCitizenOf	Guyana
+Doreen_Chung	isMarriedTo	Arthur_Chung
+Arthur_Chung	isMarriedTo	Doreen_Chung
+Doreen_Chung	isMarriedTo	Arthur_Chung
+Arthur_Chung	isMarriedTo	Doreen_Chung
+
+http://dbpedia.org/resource/Doreen_Chung	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Arthur_Chung
+Doreen_Chung	Arthur_Chung
+Doreen_Chung	livesIn	Guyana
+Doreen_Chung	isCitizenOf	Guyana
+Doreen_Chung	livesIn	Guyana
+Doreen_Chung	isCitizenOf	Guyana
+Arthur_Chung	isPoliticianOf	Guyana
+Arthur_Chung	isCitizenOf	Guyana
+Arthur_Chung	diedIn	Guyana
+Arthur_Chung	isPoliticianOf	Guyana
+Arthur_Chung	isCitizenOf	Guyana
+Arthur_Chung	diedIn	Guyana
+
+http://dbpedia.org/resource/Gustavo_Balcázar_Monzón	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Julio_César_Turbay_Ayala
+Gustavo_Balcázar_Monzón	Julio_César_Turbay_Ayala
+Gustavo_Balcázar_Monzón	isMarriedTo	Nydia_Quintero_Turbay
+Nydia_Quintero_Turbay	isMarriedTo	Gustavo_Balcázar_Monzón
+Gustavo_Balcázar_Monzón	isMarriedTo	Nydia_Quintero_Turbay
+Nydia_Quintero_Turbay	isMarriedTo	Gustavo_Balcázar_Monzón
+Nydia_Quintero_Turbay	isAffiliatedTo	Colombian_Liberal_Party
+Nydia_Quintero_Turbay	isAffiliatedTo	Colombian_Liberal_Party
+Julio_César_Turbay_Ayala	isAffiliatedTo	Colombian_Liberal_Party
+Julio_César_Turbay_Ayala	isAffiliatedTo	Colombian_Liberal_Party
+
+http://dbpedia.org/resource/Union_of_the_Democratic_Centre_(Spain)	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Adolfo_Suárez
+Union_of_the_Democratic_Centre_(Spain)	Adolfo_Suárez
+Adolfo_Suárez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Adolfo_Suárez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+
+http://dbpedia.org/resource/Union_of_the_Democratic_Centre_(Spain)	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Adolfo_Suárez
+Union_of_the_Democratic_Centre_(Spain)	Adolfo_Suárez
+Paulino_Rivero	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Paulino_Rivero	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Paulino_Rivero	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Paulino_Rivero	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Adolfo_Suárez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Adolfo_Suárez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+
+http://dbpedia.org/resource/Union_of_the_Democratic_Centre_(Spain)	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Adolfo_Suárez
+Union_of_the_Democratic_Centre_(Spain)	Adolfo_Suárez
+José_García-Margallo_y_Marfil	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+José_García-Margallo_y_Marfil	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+José_García-Margallo_y_Marfil	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+José_García-Margallo_y_Marfil	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Adolfo_Suárez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Adolfo_Suárez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+
+http://dbpedia.org/resource/Union_of_the_Democratic_Centre_(Spain)	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Adolfo_Suárez
+Union_of_the_Democratic_Centre_(Spain)	Adolfo_Suárez
+Leopoldo_Calvo-Sotelo	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Leopoldo_Calvo-Sotelo	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Leopoldo_Calvo-Sotelo	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Leopoldo_Calvo-Sotelo	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Adolfo_Suárez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Adolfo_Suárez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+
+http://dbpedia.org/resource/Union_of_the_Democratic_Centre_(Spain)	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Adolfo_Suárez
+Union_of_the_Democratic_Centre_(Spain)	Adolfo_Suárez
+Pío_Cabanillas_Gallas	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Pío_Cabanillas_Gallas	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Pío_Cabanillas_Gallas	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Pío_Cabanillas_Gallas	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Adolfo_Suárez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Adolfo_Suárez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+
+http://dbpedia.org/resource/Union_of_the_Democratic_Centre_(Spain)	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Adolfo_Suárez
+Union_of_the_Democratic_Centre_(Spain)	Adolfo_Suárez
+Francisco_Fernández_Ordóñez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Francisco_Fernández_Ordóñez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Francisco_Fernández_Ordóñez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Francisco_Fernández_Ordóñez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Adolfo_Suárez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Adolfo_Suárez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+
+http://dbpedia.org/resource/Union_of_the_Democratic_Centre_(Spain)	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Adolfo_Suárez
+Union_of_the_Democratic_Centre_(Spain)	Adolfo_Suárez
+José_Ignacio_Wert	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+José_Ignacio_Wert	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+José_Ignacio_Wert	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+José_Ignacio_Wert	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Adolfo_Suárez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Adolfo_Suárez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+
+http://dbpedia.org/resource/Edith_Wilson	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Woodrow_Wilson
+Edith_Wilson	Woodrow_Wilson
+Woodrow_Wilson	isMarriedTo	Edith_Wilson
+Edith_Wilson	isMarriedTo	Woodrow_Wilson
+Woodrow_Wilson	isMarriedTo	Edith_Wilson
+Edith_Wilson	isMarriedTo	Woodrow_Wilson
+
+http://dbpedia.org/resource/Fernando_Teixeira_dos_Santos	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Jorge_Sampaio
+Fernando_Teixeira_dos_Santos	Jorge_Sampaio
+Fernando_Teixeira_dos_Santos	isAffiliatedTo	Socialist_Party_(Portugal)
+Fernando_Teixeira_dos_Santos	isAffiliatedTo	Socialist_Party_(Portugal)
+Jorge_Sampaio	isAffiliatedTo	Socialist_Party_(Portugal)
+Jorge_Sampaio	isAffiliatedTo	Socialist_Party_(Portugal)
+
+http://dbpedia.org/resource/Fernando_Teixeira_dos_Santos	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Jorge_Sampaio
+Fernando_Teixeira_dos_Santos	Jorge_Sampaio
+Fernando_Teixeira_dos_Santos	isAffiliatedTo	Socialist_Party_(Portugal)
+Fernando_Teixeira_dos_Santos	isAffiliatedTo	Socialist_Party_(Portugal)
+Socialist_Party_(Portugal)	isLocatedIn	Lisbon
+Socialist_Party_(Portugal)	isLocatedIn	Lisbon
+Jorge_Sampaio	wasBornIn	Lisbon
+Jorge_Sampaio	wasBornIn	Lisbon
+
+http://dbpedia.org/resource/Jose_Maria_Quijano_Wallis	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Eustorgio_Salgar
+Jose_Maria_Quijano_Wallis	Eustorgio_Salgar
+Jose_Maria_Quijano_Wallis	isAffiliatedTo	Colombian_Liberal_Party
+Jose_Maria_Quijano_Wallis	isAffiliatedTo	Colombian_Liberal_Party
+Eustorgio_Salgar	isAffiliatedTo	Colombian_Liberal_Party
+Eustorgio_Salgar	isAffiliatedTo	Colombian_Liberal_Party
+
+http://dbpedia.org/resource/Drago_Prgomet	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Kolinda_Grabar-Kitarović
+Drago_Prgomet	Kolinda_Grabar-Kitarović
+Drago_Prgomet	isAffiliatedTo	Croatian_Democratic_Union
+Drago_Prgomet	isAffiliatedTo	Croatian_Democratic_Union
+Kolinda_Grabar-Kitarović	isAffiliatedTo	Croatian_Democratic_Union
+Kolinda_Grabar-Kitarović	isAffiliatedTo	Croatian_Democratic_Union
+
+http://dbpedia.org/resource/Frank_Hsieh	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Chen_Shui-bian
+Frank_Hsieh	Chen_Shui-bian
+Frank_Hsieh	graduatedFrom	National_Taiwan_University
+Frank_Hsieh	graduatedFrom	National_Taiwan_University
+Chen_Shui-bian	graduatedFrom	National_Taiwan_University
+Chen_Shui-bian	graduatedFrom	National_Taiwan_University
+
+http://dbpedia.org/resource/Frank_Hsieh	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Chen_Shui-bian
+Frank_Hsieh	Chen_Shui-bian
+Frank_Hsieh	isAffiliatedTo	Democratic_Progressive_Party
+Frank_Hsieh	isAffiliatedTo	Democratic_Progressive_Party
+Chen_Shui-bian	isAffiliatedTo	Democratic_Progressive_Party
+Chen_Shui-bian	isAffiliatedTo	Democratic_Progressive_Party
+
+http://dbpedia.org/resource/Aníbal_Cavaco_Silva	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Mário_Soares
+Aníbal_Cavaco_Silva	Mário_Soares
+Aníbal_Cavaco_Silva	graduatedFrom	Technical_University_of_Lisbon
+Aníbal_Cavaco_Silva	graduatedFrom	Technical_University_of_Lisbon
+Technical_University_of_Lisbon	isLocatedIn	Lisbon
+Technical_University_of_Lisbon	isLocatedIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+
+http://dbpedia.org/resource/Vincent_Siew	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Lee_Teng-hui
+Vincent_Siew	Lee_Teng-hui
+Vincent_Siew	isAffiliatedTo	Kuomintang
+Vincent_Siew	isAffiliatedTo	Kuomintang
+Lee_Teng-hui	isAffiliatedTo	Kuomintang
+Lee_Teng-hui	isAffiliatedTo	Kuomintang
+
+http://dbpedia.org/resource/Li_Yuan-tsu	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Lee_Teng-hui
+Li_Yuan-tsu	Lee_Teng-hui
+Li_Yuan-tsu	isAffiliatedTo	Kuomintang
+Li_Yuan-tsu	isAffiliatedTo	Kuomintang
+Lee_Teng-hui	isAffiliatedTo	Kuomintang
+Lee_Teng-hui	isAffiliatedTo	Kuomintang
+
+http://dbpedia.org/resource/Oleksandr_Turchynov	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Viktor_Yushchenko
+Oleksandr_Turchynov	Viktor_Yushchenko
+Oleksandr_Turchynov	isAffiliatedTo	Yulia_Tymoshenko_Bloc
+Oleksandr_Turchynov	isLeaderOf	Yulia_Tymoshenko_Bloc
+Oleksandr_Turchynov	isAffiliatedTo	Yulia_Tymoshenko_Bloc
+Oleksandr_Turchynov	isLeaderOf	Yulia_Tymoshenko_Bloc
+Yulia_Tymoshenko_Bloc	isLocatedIn	Ukraine
+Yulia_Tymoshenko_Bloc	isLocatedIn	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+
+http://dbpedia.org/resource/Oleksandr_Turchynov	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Viktor_Yushchenko
+Oleksandr_Turchynov	Viktor_Yushchenko
+Oleksandr_Turchynov	graduatedFrom	National_Metallurgical_Academy_of_Ukraine
+Oleksandr_Turchynov	graduatedFrom	National_Metallurgical_Academy_of_Ukraine
+National_Metallurgical_Academy_of_Ukraine	isLocatedIn	Ukraine
+National_Metallurgical_Academy_of_Ukraine	isLocatedIn	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+
+http://dbpedia.org/resource/Oleksandr_Turchynov	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Viktor_Yushchenko
+Oleksandr_Turchynov	Viktor_Yushchenko
+Oleksandr_Turchynov	isCitizenOf	Ukraine
+Oleksandr_Turchynov	isPoliticianOf	Ukraine
+Oleksandr_Turchynov	isCitizenOf	Ukraine
+Oleksandr_Turchynov	isPoliticianOf	Ukraine
+Kateryna_Yushchenko	isCitizenOf	Ukraine
+Kateryna_Yushchenko	isCitizenOf	Ukraine
+Viktor_Yushchenko	isMarriedTo	Kateryna_Yushchenko
+Kateryna_Yushchenko	isMarriedTo	Viktor_Yushchenko
+Viktor_Yushchenko	isMarriedTo	Kateryna_Yushchenko
+Kateryna_Yushchenko	isMarriedTo	Viktor_Yushchenko
+
+http://dbpedia.org/resource/Oleksandr_Turchynov	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Viktor_Yushchenko
+Oleksandr_Turchynov	Viktor_Yushchenko
+Oleksandr_Turchynov	isCitizenOf	Ukraine
+Oleksandr_Turchynov	isPoliticianOf	Ukraine
+Oleksandr_Turchynov	isCitizenOf	Ukraine
+Oleksandr_Turchynov	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+
+http://dbpedia.org/resource/Perng_Fai-nan	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Lee_Teng-hui
+Perng_Fai-nan	Lee_Teng-hui
+Perng_Fai-nan	isAffiliatedTo	Kuomintang
+Perng_Fai-nan	isAffiliatedTo	Kuomintang
+Lee_Teng-hui	isAffiliatedTo	Kuomintang
+Lee_Teng-hui	isAffiliatedTo	Kuomintang
+
+http://dbpedia.org/resource/Germán_Zea_Hernández	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Julio_César_Turbay_Ayala
+Germán_Zea_Hernández	Julio_César_Turbay_Ayala
+Germán_Zea_Hernández	isAffiliatedTo	Colombian_Liberal_Party
+Germán_Zea_Hernández	isAffiliatedTo	Colombian_Liberal_Party
+Julio_César_Turbay_Ayala	isAffiliatedTo	Colombian_Liberal_Party
+Julio_César_Turbay_Ayala	isAffiliatedTo	Colombian_Liberal_Party
+
+http://dbpedia.org/resource/Fabio_Valencia_Cossio	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Álvaro_Uribe
+Fabio_Valencia_Cossio	Álvaro_Uribe
+Fabio_Valencia_Cossio	graduatedFrom	University_of_Antioquia
+Fabio_Valencia_Cossio	graduatedFrom	University_of_Antioquia
+Álvaro_Uribe	graduatedFrom	University_of_Antioquia
+Álvaro_Uribe	graduatedFrom	University_of_Antioquia
+
+http://dbpedia.org/resource/Sam_Hinds	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Cheddi_Jagan
+Sam_Hinds	Cheddi_Jagan
+Sam_Hinds	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+Sam_Hinds	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+Cheddi_Jagan	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+Cheddi_Jagan	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+
+http://dbpedia.org/resource/Sam_Hinds	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Cheddi_Jagan
+Sam_Hinds	Cheddi_Jagan
+Sam_Hinds	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+Sam_Hinds	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+Janet_Jagan	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+Janet_Jagan	isAffiliatedTo	People's_Progressive_Party_(Guyana)
+Cheddi_Jagan	isMarriedTo	Janet_Jagan
+Janet_Jagan	isMarriedTo	Cheddi_Jagan
+Cheddi_Jagan	isMarriedTo	Janet_Jagan
+Janet_Jagan	isMarriedTo	Cheddi_Jagan
+
+http://dbpedia.org/resource/Valdis_Dombrovskis	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Valdis_Zatlers
+Valdis_Dombrovskis	Valdis_Zatlers
+Valdis_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+Valdis_Dombrovskis	isAffiliatedTo	Unity_(Latvian_political_party)
+Unity_(Latvian_political_party)	isLocatedIn	Riga
+Unity_(Latvian_political_party)	isLocatedIn	Riga
+Valdis_Zatlers	wasBornIn	Riga
+Valdis_Zatlers	wasBornIn	Riga
+
+http://dbpedia.org/resource/António_de_Sousa_Franco	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Mário_Soares
+António_de_Sousa_Franco	Mário_Soares
+António_de_Sousa_Franco	wasBornIn	Lisbon
+António_de_Sousa_Franco	wasBornIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+
+http://dbpedia.org/resource/António_de_Sousa_Franco	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Mário_Soares
+António_de_Sousa_Franco	Mário_Soares
+António_de_Sousa_Franco	wasBornIn	Lisbon
+António_de_Sousa_Franco	wasBornIn	Lisbon
+Maria_Barroso	diedIn	Lisbon
+Maria_Barroso	diedIn	Lisbon
+Mário_Soares	isMarriedTo	Maria_Barroso
+Maria_Barroso	isMarriedTo	Mário_Soares
+Mário_Soares	isMarriedTo	Maria_Barroso
+Maria_Barroso	isMarriedTo	Mário_Soares
+
+http://dbpedia.org/resource/António_de_Sousa_Franco	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Mário_Soares
+António_de_Sousa_Franco	Mário_Soares
+António_de_Sousa_Franco	graduatedFrom	University_of_Lisbon
+António_de_Sousa_Franco	graduatedFrom	University_of_Lisbon
+University_of_Lisbon	isLocatedIn	Lisbon
+University_of_Lisbon	isLocatedIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+
+http://dbpedia.org/resource/António_de_Sousa_Franco	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Mário_Soares
+António_de_Sousa_Franco	Mário_Soares
+António_de_Sousa_Franco	graduatedFrom	University_of_Lisbon
+António_de_Sousa_Franco	graduatedFrom	University_of_Lisbon
+João_Soares_(politician)	graduatedFrom	University_of_Lisbon
+João_Soares_(politician)	graduatedFrom	University_of_Lisbon
+Mário_Soares	hasChild	João_Soares_(politician)
+Mário_Soares	hasChild	João_Soares_(politician)
+
+http://dbpedia.org/resource/António_de_Sousa_Franco	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Mário_Soares
+António_de_Sousa_Franco	Mário_Soares
+António_de_Sousa_Franco	graduatedFrom	University_of_Lisbon
+António_de_Sousa_Franco	graduatedFrom	University_of_Lisbon
+Mário_Soares	graduatedFrom	University_of_Lisbon
+Mário_Soares	graduatedFrom	University_of_Lisbon
+
+http://dbpedia.org/resource/António_de_Sousa_Franco	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Mário_Soares
+António_de_Sousa_Franco	Mário_Soares
+António_de_Sousa_Franco	graduatedFrom	University_of_Lisbon
+António_de_Sousa_Franco	graduatedFrom	University_of_Lisbon
+Maria_Barroso	graduatedFrom	University_of_Lisbon
+Maria_Barroso	graduatedFrom	University_of_Lisbon
+Mário_Soares	isMarriedTo	Maria_Barroso
+Maria_Barroso	isMarriedTo	Mário_Soares
+Mário_Soares	isMarriedTo	Maria_Barroso
+Maria_Barroso	isMarriedTo	Mário_Soares
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Walter_Sharpe	isAffiliatedTo	Detroit_Pistons
+Walter_Sharpe	isAffiliatedTo	Detroit_Pistons
+Walter_Sharpe	isAffiliatedTo	Detroit_Pistons
+Walter_Sharpe	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Quincy_Miller	isAffiliatedTo	Detroit_Pistons
+Quincy_Miller	isAffiliatedTo	Detroit_Pistons
+Quincy_Miller	isAffiliatedTo	Detroit_Pistons
+Quincy_Miller	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Josh_Harrellson	isAffiliatedTo	Detroit_Pistons
+Josh_Harrellson	isAffiliatedTo	Detroit_Pistons
+Josh_Harrellson	isAffiliatedTo	Detroit_Pistons
+Josh_Harrellson	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Josh_Harrellson	isAffiliatedTo	Detroit_Pistons
+Josh_Harrellson	isAffiliatedTo	Detroit_Pistons
+Josh_Harrellson	isAffiliatedTo	Miami_Heat
+Josh_Harrellson	isAffiliatedTo	Miami_Heat
+Stan_Van_Gundy	isAffiliatedTo	Miami_Heat
+Stan_Van_Gundy	isAffiliatedTo	Miami_Heat
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Ricky_Pierce	isAffiliatedTo	Detroit_Pistons
+Ricky_Pierce	isAffiliatedTo	Detroit_Pistons
+Ricky_Pierce	isAffiliatedTo	Detroit_Pistons
+Ricky_Pierce	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Andre_Wakefield	isAffiliatedTo	Detroit_Pistons
+Andre_Wakefield	isAffiliatedTo	Detroit_Pistons
+Andre_Wakefield	isAffiliatedTo	Detroit_Pistons
+Andre_Wakefield	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Brandon_Knight_(basketball)	isAffiliatedTo	Detroit_Pistons
+Brandon_Knight_(basketball)	isAffiliatedTo	Detroit_Pistons
+Brandon_Knight_(basketball)	isAffiliatedTo	Detroit_Pistons
+Brandon_Knight_(basketball)	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Tom_Gores	owns	Detroit_Pistons
+Tom_Gores	owns	Detroit_Pistons
+Tom_Gores	owns	Detroit_Pistons
+Tom_Gores	owns	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Reggie_Harding	isAffiliatedTo	Detroit_Pistons
+Reggie_Harding	isAffiliatedTo	Detroit_Pistons
+Reggie_Harding	isAffiliatedTo	Detroit_Pistons
+Reggie_Harding	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Lionel_Hollins	isAffiliatedTo	Detroit_Pistons
+Lionel_Hollins	isAffiliatedTo	Detroit_Pistons
+Lionel_Hollins	isAffiliatedTo	Detroit_Pistons
+Lionel_Hollins	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+George_Trapp	isAffiliatedTo	Detroit_Pistons
+George_Trapp	isAffiliatedTo	Detroit_Pistons
+George_Trapp	isAffiliatedTo	Detroit_Pistons
+George_Trapp	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Walter_Dukes	isAffiliatedTo	Detroit_Pistons
+Walter_Dukes	isAffiliatedTo	Detroit_Pistons
+Walter_Dukes	isAffiliatedTo	Detroit_Pistons
+Walter_Dukes	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Kurt_Nimphius	isAffiliatedTo	Detroit_Pistons
+Kurt_Nimphius	isAffiliatedTo	Detroit_Pistons
+Kurt_Nimphius	isAffiliatedTo	Detroit_Pistons
+Kurt_Nimphius	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Alvin_Gentry	isAffiliatedTo	Detroit_Pistons
+Alvin_Gentry	isAffiliatedTo	Detroit_Pistons
+Alvin_Gentry	isAffiliatedTo	Detroit_Pistons
+Alvin_Gentry	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Alvin_Gentry	isAffiliatedTo	Detroit_Pistons
+Alvin_Gentry	isAffiliatedTo	Detroit_Pistons
+Alvin_Gentry	isAffiliatedTo	Miami_Heat
+Alvin_Gentry	isAffiliatedTo	Miami_Heat
+Stan_Van_Gundy	isAffiliatedTo	Miami_Heat
+Stan_Van_Gundy	isAffiliatedTo	Miami_Heat
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Maurice_Cheeks	isAffiliatedTo	Detroit_Pistons
+Maurice_Cheeks	isAffiliatedTo	Detroit_Pistons
+Maurice_Cheeks	isAffiliatedTo	Detroit_Pistons
+Maurice_Cheeks	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Mel_Peterson	isAffiliatedTo	Detroit_Pistons
+Mel_Peterson	isAffiliatedTo	Detroit_Pistons
+Mel_Peterson	isAffiliatedTo	Detroit_Pistons
+Mel_Peterson	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Tobias_Harris	isAffiliatedTo	Detroit_Pistons
+Tobias_Harris	isAffiliatedTo	Detroit_Pistons
+Tobias_Harris	isAffiliatedTo	Detroit_Pistons
+Tobias_Harris	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Tobias_Harris	isAffiliatedTo	Detroit_Pistons
+Tobias_Harris	isAffiliatedTo	Detroit_Pistons
+Tobias_Harris	isAffiliatedTo	Orlando_Magic
+Tobias_Harris	isAffiliatedTo	Orlando_Magic
+Stan_Van_Gundy	isAffiliatedTo	Orlando_Magic
+Stan_Van_Gundy	isAffiliatedTo	Orlando_Magic
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Sidney_Lowe	isAffiliatedTo	Detroit_Pistons
+Sidney_Lowe	isAffiliatedTo	Detroit_Pistons
+Sidney_Lowe	isAffiliatedTo	Detroit_Pistons
+Sidney_Lowe	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Peyton_Siva	isAffiliatedTo	Detroit_Pistons
+Peyton_Siva	isAffiliatedTo	Detroit_Pistons
+Peyton_Siva	isAffiliatedTo	Detroit_Pistons
+Peyton_Siva	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Otto_Moore	isAffiliatedTo	Detroit_Pistons
+Otto_Moore	isAffiliatedTo	Detroit_Pistons
+Otto_Moore	isAffiliatedTo	Detroit_Pistons
+Otto_Moore	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Detroit_Pistons	isLocatedIn	Auburn_Hills,_Michigan
+Detroit_Pistons	isLocatedIn	Auburn_Hills,_Michigan
+Detroit_Pistons	isLocatedIn	Auburn_Hills,_Michigan
+Detroit_Pistons	isLocatedIn	Auburn_Hills,_Michigan
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Steve_Blake	isAffiliatedTo	Detroit_Pistons
+Steve_Blake	isAffiliatedTo	Detroit_Pistons
+Steve_Blake	isAffiliatedTo	Detroit_Pistons
+Steve_Blake	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Primož_Brezec	isAffiliatedTo	Detroit_Pistons
+Primož_Brezec	isAffiliatedTo	Detroit_Pistons
+Primož_Brezec	isAffiliatedTo	Detroit_Pistons
+Primož_Brezec	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Bob_Nash_(basketball)	isAffiliatedTo	Detroit_Pistons
+Bob_Nash_(basketball)	isAffiliatedTo	Detroit_Pistons
+Bob_Nash_(basketball)	isAffiliatedTo	Detroit_Pistons
+Bob_Nash_(basketball)	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Ralph_Lewis_(basketball)	isAffiliatedTo	Detroit_Pistons
+Ralph_Lewis_(basketball)	isAffiliatedTo	Detroit_Pistons
+Ralph_Lewis_(basketball)	isAffiliatedTo	Detroit_Pistons
+Ralph_Lewis_(basketball)	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Larry_Drew	isAffiliatedTo	Detroit_Pistons
+Larry_Drew	isAffiliatedTo	Detroit_Pistons
+Larry_Drew	isAffiliatedTo	Detroit_Pistons
+Larry_Drew	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Aaron_Gray	isAffiliatedTo	Detroit_Pistons
+Aaron_Gray	isAffiliatedTo	Detroit_Pistons
+Aaron_Gray	isAffiliatedTo	Detroit_Pistons
+Aaron_Gray	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Rick_Carlisle	isAffiliatedTo	Detroit_Pistons
+Rick_Carlisle	isAffiliatedTo	Detroit_Pistons
+Rick_Carlisle	isAffiliatedTo	Detroit_Pistons
+Rick_Carlisle	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Dave_Bing	isAffiliatedTo	Detroit_Pistons
+Dave_Bing	isAffiliatedTo	Detroit_Pistons
+Dave_Bing	isAffiliatedTo	Detroit_Pistons
+Dave_Bing	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Andreas_Glyniadakis	isAffiliatedTo	Detroit_Pistons
+Andreas_Glyniadakis	isAffiliatedTo	Detroit_Pistons
+Andreas_Glyniadakis	isAffiliatedTo	Detroit_Pistons
+Andreas_Glyniadakis	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Ronald_Murray	isAffiliatedTo	Detroit_Pistons
+Ronald_Murray	isAffiliatedTo	Detroit_Pistons
+Ronald_Murray	isAffiliatedTo	Detroit_Pistons
+Ronald_Murray	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Detroit_Pistons	isLocatedIn	Michigan
+Detroit_Pistons	isLocatedIn	Michigan
+Detroit_Pistons	isLocatedIn	Michigan
+Detroit_Pistons	isLocatedIn	Michigan
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Tony_Mitchell_(basketball,_born_1992)	isAffiliatedTo	Detroit_Pistons
+Tony_Mitchell_(basketball,_born_1992)	isAffiliatedTo	Detroit_Pistons
+Tony_Mitchell_(basketball,_born_1992)	isAffiliatedTo	Detroit_Pistons
+Tony_Mitchell_(basketball,_born_1992)	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Detroit_Pistons	isLocatedIn	Detroit
+Detroit_Pistons	isLocatedIn	Detroit
+Detroit_Pistons	isLocatedIn	Detroit
+Detroit_Pistons	isLocatedIn	Detroit
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Brandon_Jennings	isAffiliatedTo	Detroit_Pistons
+Brandon_Jennings	isAffiliatedTo	Detroit_Pistons
+Brandon_Jennings	isAffiliatedTo	Orlando_Magic
+Brandon_Jennings	isAffiliatedTo	Orlando_Magic
+Stan_Van_Gundy	isAffiliatedTo	Orlando_Magic
+Stan_Van_Gundy	isAffiliatedTo	Orlando_Magic
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Brandon_Jennings	isAffiliatedTo	Detroit_Pistons
+Brandon_Jennings	isAffiliatedTo	Detroit_Pistons
+Brandon_Jennings	isAffiliatedTo	Detroit_Pistons
+Brandon_Jennings	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Jodie_Meeks	isAffiliatedTo	Detroit_Pistons
+Jodie_Meeks	isAffiliatedTo	Detroit_Pistons
+Jodie_Meeks	isAffiliatedTo	Orlando_Magic
+Jodie_Meeks	isAffiliatedTo	Orlando_Magic
+Stan_Van_Gundy	isAffiliatedTo	Orlando_Magic
+Stan_Van_Gundy	isAffiliatedTo	Orlando_Magic
+
+http://dbpedia.org/resource/Detroit_Pistons	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Stan_Van_Gundy
+Detroit_Pistons	Stan_Van_Gundy
+Jodie_Meeks	isAffiliatedTo	Detroit_Pistons
+Jodie_Meeks	isAffiliatedTo	Detroit_Pistons
+Jodie_Meeks	isAffiliatedTo	Detroit_Pistons
+Jodie_Meeks	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+Stan_Van_Gundy	isAffiliatedTo	Detroit_Pistons
+
+http://dbpedia.org/resource/Mohammad_al-Shaar	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Mohammad_al-Shaar	Bashar_al-Assad
+Mohammad_al-Shaar	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Mohammad_al-Shaar	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Mohammad_al-Shaar	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Mohammad_al-Shaar	Bashar_al-Assad
+Mohammad_al-Shaar	isCitizenOf	Syria
+Mohammad_al-Shaar	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Mohammad_al-Shaar	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Mohammad_al-Shaar	Bashar_al-Assad
+Mohammad_al-Shaar	isCitizenOf	Syria
+Mohammad_al-Shaar	isCitizenOf	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Mohammad_al-Shaar	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Mohammad_al-Shaar	Bashar_al-Assad
+Mohammad_al-Shaar	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Mohammad_al-Shaar	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Mohammad_al-Shaar	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Mohammad_al-Shaar	Bashar_al-Assad
+Mohammad_al-Shaar	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Mohammad_al-Shaar	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Damascus
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+
+http://dbpedia.org/resource/Volodymyr_Lytvyn	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Viktor_Yushchenko
+Volodymyr_Lytvyn	Viktor_Yushchenko
+Volodymyr_Lytvyn	isAffiliatedTo	For_United_Ukraine!
+Volodymyr_Lytvyn	isAffiliatedTo	For_United_Ukraine!
+For_United_Ukraine!	isLocatedIn	Ukraine
+For_United_Ukraine!	isLocatedIn	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+
+http://dbpedia.org/resource/Volodymyr_Lytvyn	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Viktor_Yushchenko
+Volodymyr_Lytvyn	Viktor_Yushchenko
+Volodymyr_Lytvyn	isCitizenOf	Ukraine
+Volodymyr_Lytvyn	isCitizenOf	Ukraine
+Kateryna_Yushchenko	isCitizenOf	Ukraine
+Kateryna_Yushchenko	isCitizenOf	Ukraine
+Viktor_Yushchenko	isMarriedTo	Kateryna_Yushchenko
+Kateryna_Yushchenko	isMarriedTo	Viktor_Yushchenko
+Viktor_Yushchenko	isMarriedTo	Kateryna_Yushchenko
+Kateryna_Yushchenko	isMarriedTo	Viktor_Yushchenko
+
+http://dbpedia.org/resource/Volodymyr_Lytvyn	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Viktor_Yushchenko
+Volodymyr_Lytvyn	Viktor_Yushchenko
+Volodymyr_Lytvyn	isCitizenOf	Ukraine
+Volodymyr_Lytvyn	isCitizenOf	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Nikola_Prkačin	isAffiliatedTo	KK_Cibona
+Nikola_Prkačin	isAffiliatedTo	KK_Cibona
+Nikola_Prkačin	isAffiliatedTo	KK_Cibona
+Nikola_Prkačin	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Nikola_Prkačin	isAffiliatedTo	KK_Cibona
+Nikola_Prkačin	isAffiliatedTo	KK_Cibona
+Nikola_Prkačin	isAffiliatedTo	KK_Zagreb
+Nikola_Prkačin	isAffiliatedTo	KK_Zagreb
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Zagreb
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Zagreb
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Jure_Lalić	isAffiliatedTo	KK_Cibona
+Jure_Lalić	isAffiliatedTo	KK_Cibona
+Jure_Lalić	isAffiliatedTo	KK_Cibona
+Jure_Lalić	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Ante_Krapić	isAffiliatedTo	KK_Cibona
+Ante_Krapić	isAffiliatedTo	KK_Cibona
+Ante_Krapić	isAffiliatedTo	KK_Cibona
+Ante_Krapić	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Ante_Krapić	isAffiliatedTo	KK_Cibona
+Ante_Krapić	isAffiliatedTo	KK_Cibona
+Ante_Krapić	isAffiliatedTo	KK_Zagreb
+Ante_Krapić	isAffiliatedTo	KK_Zagreb
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Zagreb
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Zagreb
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Bruno_Šundov	isAffiliatedTo	KK_Cibona
+Bruno_Šundov	isAffiliatedTo	KK_Cibona
+Bruno_Šundov	isAffiliatedTo	KK_Cibona
+Bruno_Šundov	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Veljko_Mršić	isAffiliatedTo	KK_Cibona
+Veljko_Mršić	isAffiliatedTo	KK_Cibona
+Veljko_Mršić	isAffiliatedTo	KK_Cibona
+Veljko_Mršić	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Veljko_Mršić	isAffiliatedTo	KK_Cibona
+Veljko_Mršić	isAffiliatedTo	KK_Cibona
+Veljko_Mršić	isAffiliatedTo	KK_Cedevita
+Veljko_Mršić	isAffiliatedTo	KK_Cedevita
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cedevita
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cedevita
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Marko_Popović_(basketball,_born_1982)	isAffiliatedTo	KK_Cibona
+Marko_Popović_(basketball,_born_1982)	isAffiliatedTo	KK_Cibona
+Marko_Popović_(basketball,_born_1982)	isAffiliatedTo	KK_Cibona
+Marko_Popović_(basketball,_born_1982)	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Davor_Marcelić	isAffiliatedTo	KK_Cibona
+Davor_Marcelić	isAffiliatedTo	KK_Cibona
+Davor_Marcelić	isAffiliatedTo	KK_Cibona
+Davor_Marcelić	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Vedran_Morović	isAffiliatedTo	KK_Cibona
+Vedran_Morović	isAffiliatedTo	KK_Cibona
+Vedran_Morović	isAffiliatedTo	KK_Zagreb
+Vedran_Morović	isAffiliatedTo	KK_Zagreb
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Zagreb
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Zagreb
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Vedran_Morović	isAffiliatedTo	KK_Cibona
+Vedran_Morović	isAffiliatedTo	KK_Cibona
+Vedran_Morović	isAffiliatedTo	KK_Cibona
+Vedran_Morović	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Dražen_Petrović	isAffiliatedTo	KK_Cibona
+Dražen_Petrović	isAffiliatedTo	KK_Cibona
+Dražen_Petrović	isAffiliatedTo	KK_Cibona
+Dražen_Petrović	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Nikola_Radulović	isAffiliatedTo	KK_Cibona
+Nikola_Radulović	isAffiliatedTo	KK_Cibona
+Nikola_Radulović	isAffiliatedTo	KK_Cibona
+Nikola_Radulović	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Neven_Spahija	isAffiliatedTo	KK_Cibona
+Neven_Spahija	isAffiliatedTo	KK_Cibona
+Neven_Spahija	isAffiliatedTo	KK_Cibona
+Neven_Spahija	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Karlo_Vragović	isAffiliatedTo	KK_Cibona
+Karlo_Vragović	isAffiliatedTo	KK_Cibona
+Karlo_Vragović	isAffiliatedTo	KK_Cibona
+Karlo_Vragović	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Žan_Mark_Šiško	isAffiliatedTo	KK_Cibona
+Žan_Mark_Šiško	isAffiliatedTo	KK_Cibona
+Žan_Mark_Šiško	isAffiliatedTo	KK_Cibona
+Žan_Mark_Šiško	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Tomislav_Zubčić	isAffiliatedTo	KK_Cibona
+Tomislav_Zubčić	isAffiliatedTo	KK_Cibona
+Tomislav_Zubčić	isAffiliatedTo	KK_Cibona
+Tomislav_Zubčić	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Tomislav_Zubčić	isAffiliatedTo	KK_Cibona
+Tomislav_Zubčić	isAffiliatedTo	KK_Cibona
+Tomislav_Zubčić	isAffiliatedTo	KK_Cedevita
+Tomislav_Zubčić	isAffiliatedTo	KK_Cedevita
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cedevita
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cedevita
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Luka_Žorić	isAffiliatedTo	KK_Cibona
+Luka_Žorić	isAffiliatedTo	KK_Cibona
+Luka_Žorić	isAffiliatedTo	KK_Cibona
+Luka_Žorić	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Luka_Žorić	isAffiliatedTo	KK_Cibona
+Luka_Žorić	isAffiliatedTo	KK_Cibona
+Luka_Žorić	isAffiliatedTo	KK_Cedevita
+Luka_Žorić	isAffiliatedTo	KK_Cedevita
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cedevita
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cedevita
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Luka_Žorić	isAffiliatedTo	KK_Cibona
+Luka_Žorić	isAffiliatedTo	KK_Cibona
+Luka_Žorić	isAffiliatedTo	KK_Zagreb
+Luka_Žorić	isAffiliatedTo	KK_Zagreb
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Zagreb
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Zagreb
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Dino_Rađa	isAffiliatedTo	KK_Cibona
+Dino_Rađa	isAffiliatedTo	KK_Cibona
+Dino_Rađa	isAffiliatedTo	KK_Cibona
+Dino_Rađa	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Velimir_Perasović	isAffiliatedTo	KK_Cibona
+Velimir_Perasović	isAffiliatedTo	KK_Cibona
+Velimir_Perasović	isAffiliatedTo	KK_Cibona
+Velimir_Perasović	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Mate_Skelin	isAffiliatedTo	KK_Cibona
+Mate_Skelin	isAffiliatedTo	KK_Cibona
+Mate_Skelin	isAffiliatedTo	KK_Cedevita
+Mate_Skelin	isAffiliatedTo	KK_Cedevita
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cedevita
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cedevita
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Mate_Skelin	isAffiliatedTo	KK_Cibona
+Mate_Skelin	isAffiliatedTo	KK_Cibona
+Mate_Skelin	isAffiliatedTo	KK_Cibona
+Mate_Skelin	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Andrija_Žižić	isAffiliatedTo	KK_Cibona
+Andrija_Žižić	isAffiliatedTo	KK_Cibona
+Andrija_Žižić	isAffiliatedTo	KK_Cedevita
+Andrija_Žižić	isAffiliatedTo	KK_Cedevita
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cedevita
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cedevita
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Andrija_Žižić	isAffiliatedTo	KK_Cibona
+Andrija_Žižić	isAffiliatedTo	KK_Cibona
+Andrija_Žižić	isAffiliatedTo	KK_Cibona
+Andrija_Žižić	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+
+http://dbpedia.org/resource/KK_Cibona	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Aleksandar_Petrović_(basketball)
+KK_Cibona	Aleksandar_Petrović_(basketball)
+Gordan_Giriček	isAffiliatedTo	KK_Cibona
+Gordan_Giriček	isAffiliatedTo	KK_Cibona
+Gordan_Giriček	isAffiliatedTo	KK_Cibona
+Gordan_Giriček	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+Aleksandar_Petrović_(basketball)	isAffiliatedTo	KK_Cibona
+
+http://dbpedia.org/resource/Mwai_Kibaki	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Daniel_arap_Moi
+Mwai_Kibaki	Daniel_arap_Moi
+Mwai_Kibaki	isAffiliatedTo	Kenya_African_National_Union
+Mwai_Kibaki	isAffiliatedTo	Kenya_African_National_Union
+Gideon_Moi	isAffiliatedTo	Kenya_African_National_Union
+Gideon_Moi	isAffiliatedTo	Kenya_African_National_Union
+Daniel_arap_Moi	hasChild	Gideon_Moi
+Daniel_arap_Moi	hasChild	Gideon_Moi
+
+http://dbpedia.org/resource/Mohammad_al-Hussein	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Mohammad_al-Hussein	Bashar_al-Assad
+Mohammad_al-Hussein	isPoliticianOf	Syria
+Mohammad_al-Hussein	isCitizenOf	Syria
+Mohammad_al-Hussein	isPoliticianOf	Syria
+Mohammad_al-Hussein	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Mohammad_al-Hussein	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Mohammad_al-Hussein	Bashar_al-Assad
+Mohammad_al-Hussein	isPoliticianOf	Syria
+Mohammad_al-Hussein	isCitizenOf	Syria
+Mohammad_al-Hussein	isPoliticianOf	Syria
+Mohammad_al-Hussein	isCitizenOf	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Alfonso_Gómez_Méndez	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/César_Gaviria
+Alfonso_Gómez_Méndez	César_Gaviria
+Alfonso_Gómez_Méndez	isAffiliatedTo	Colombian_Liberal_Party
+Alfonso_Gómez_Méndez	isAffiliatedTo	Colombian_Liberal_Party
+Ana_Milena_Muñoz_Gómez	isAffiliatedTo	Colombian_Liberal_Party
+Ana_Milena_Muñoz_Gómez	isAffiliatedTo	Colombian_Liberal_Party
+Ana_Milena_Muñoz_Gómez	isMarriedTo	César_Gaviria
+César_Gaviria	isMarriedTo	Ana_Milena_Muñoz_Gómez
+Ana_Milena_Muñoz_Gómez	isMarriedTo	César_Gaviria
+César_Gaviria	isMarriedTo	Ana_Milena_Muñoz_Gómez
+
+http://dbpedia.org/resource/Alfonso_Gómez_Méndez	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/César_Gaviria
+Alfonso_Gómez_Méndez	César_Gaviria
+Alfonso_Gómez_Méndez	isAffiliatedTo	Colombian_Liberal_Party
+Alfonso_Gómez_Méndez	isAffiliatedTo	Colombian_Liberal_Party
+César_Gaviria	isAffiliatedTo	Colombian_Liberal_Party
+César_Gaviria	isAffiliatedTo	Colombian_Liberal_Party
+
+http://dbpedia.org/resource/Habiba_Zehi_Ben_Romdhane	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Fouad_Mebazaa
+Habiba_Zehi_Ben_Romdhane	Fouad_Mebazaa
+Habiba_Zehi_Ben_Romdhane	isCitizenOf	Tunisia
+Habiba_Zehi_Ben_Romdhane	isPoliticianOf	Tunisia
+Habiba_Zehi_Ben_Romdhane	isCitizenOf	Tunisia
+Habiba_Zehi_Ben_Romdhane	isPoliticianOf	Tunisia
+Fouad_Mebazaa	isCitizenOf	Tunisia
+Fouad_Mebazaa	isPoliticianOf	Tunisia
+Fouad_Mebazaa	isCitizenOf	Tunisia
+Fouad_Mebazaa	isPoliticianOf	Tunisia
+
+http://dbpedia.org/resource/Habiba_Zehi_Ben_Romdhane	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Fouad_Mebazaa
+Habiba_Zehi_Ben_Romdhane	Fouad_Mebazaa
+Habiba_Zehi_Ben_Romdhane	graduatedFrom	Tunis_University
+Habiba_Zehi_Ben_Romdhane	graduatedFrom	Tunis_University
+Tunis_University	isLocatedIn	Tunis
+Tunis_University	isLocatedIn	Tunis
+Fouad_Mebazaa	wasBornIn	Tunis
+Fouad_Mebazaa	wasBornIn	Tunis
+
+http://dbpedia.org/resource/Habiba_Zehi_Ben_Romdhane	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Fouad_Mebazaa
+Habiba_Zehi_Ben_Romdhane	Fouad_Mebazaa
+Habiba_Zehi_Ben_Romdhane	graduatedFrom	Tunis_University
+Habiba_Zehi_Ben_Romdhane	graduatedFrom	Tunis_University
+Tunis_University	isLocatedIn	Tunisia
+Tunis_University	isLocatedIn	Tunisia
+Fouad_Mebazaa	isCitizenOf	Tunisia
+Fouad_Mebazaa	isPoliticianOf	Tunisia
+Fouad_Mebazaa	isCitizenOf	Tunisia
+Fouad_Mebazaa	isPoliticianOf	Tunisia
+
+http://dbpedia.org/resource/Masood_Sharif_Khan_Khattak	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Ghulam_Ishaq_Khan
+Masood_Sharif_Khan_Khattak	Ghulam_Ishaq_Khan
+Masood_Sharif_Khan_Khattak	isCitizenOf	Pakistan
+Masood_Sharif_Khan_Khattak	isCitizenOf	Pakistan
+Peshawar	isLocatedIn	Pakistan
+Peshawar	isLocatedIn	Pakistan
+Ghulam_Ishaq_Khan	diedIn	Peshawar
+Ghulam_Ishaq_Khan	diedIn	Peshawar
+
+http://dbpedia.org/resource/Yuriy_Yekhanurov	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Viktor_Yushchenko
+Yuriy_Yekhanurov	Viktor_Yushchenko
+Yuriy_Yekhanurov	isCitizenOf	Ukraine
+Yuriy_Yekhanurov	isPoliticianOf	Ukraine
+Yuriy_Yekhanurov	isCitizenOf	Ukraine
+Yuriy_Yekhanurov	isPoliticianOf	Ukraine
+Kateryna_Yushchenko	isCitizenOf	Ukraine
+Kateryna_Yushchenko	isCitizenOf	Ukraine
+Viktor_Yushchenko	isMarriedTo	Kateryna_Yushchenko
+Kateryna_Yushchenko	isMarriedTo	Viktor_Yushchenko
+Viktor_Yushchenko	isMarriedTo	Kateryna_Yushchenko
+Kateryna_Yushchenko	isMarriedTo	Viktor_Yushchenko
+
+http://dbpedia.org/resource/Yuriy_Yekhanurov	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Viktor_Yushchenko
+Yuriy_Yekhanurov	Viktor_Yushchenko
+Yuriy_Yekhanurov	isCitizenOf	Ukraine
+Yuriy_Yekhanurov	isPoliticianOf	Ukraine
+Yuriy_Yekhanurov	isCitizenOf	Ukraine
+Yuriy_Yekhanurov	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+
+http://dbpedia.org/resource/Yuriy_Yekhanurov	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Viktor_Yushchenko
+Yuriy_Yekhanurov	Viktor_Yushchenko
+Yuriy_Yekhanurov	isAffiliatedTo	Our_Ukraine–People's_Self-Defense_Bloc
+Yuriy_Yekhanurov	isAffiliatedTo	Our_Ukraine–People's_Self-Defense_Bloc
+Viktor_Yushchenko	isAffiliatedTo	Our_Ukraine–People's_Self-Defense_Bloc
+Viktor_Yushchenko	isAffiliatedTo	Our_Ukraine–People's_Self-Defense_Bloc
+
+http://dbpedia.org/resource/Yuriy_Yekhanurov	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Viktor_Yushchenko
+Yuriy_Yekhanurov	Viktor_Yushchenko
+Yuriy_Yekhanurov	isAffiliatedTo	Our_Ukraine–People's_Self-Defense_Bloc
+Yuriy_Yekhanurov	isAffiliatedTo	Our_Ukraine–People's_Self-Defense_Bloc
+Our_Ukraine–People's_Self-Defense_Bloc	isLocatedIn	Ukraine
+Our_Ukraine–People's_Self-Defense_Bloc	isLocatedIn	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+
+http://dbpedia.org/resource/Yuriy_Yekhanurov	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Viktor_Yushchenko
+Yuriy_Yekhanurov	Viktor_Yushchenko
+Yuriy_Yekhanurov	isAffiliatedTo	Our_Ukraine_(political_party)
+Yuriy_Yekhanurov	isAffiliatedTo	Our_Ukraine_(political_party)
+Our_Ukraine_(political_party)	isLocatedIn	Ukraine
+Our_Ukraine_(political_party)	isLocatedIn	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+
+http://dbpedia.org/resource/National_Liberal_Party_(Lebanon)	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Dory_Chamoun
+National_Liberal_Party_(Lebanon)	Dory_Chamoun
+Dory_Chamoun	isAffiliatedTo	National_Liberal_Party_(Lebanon)
+Dory_Chamoun	isLeaderOf	National_Liberal_Party_(Lebanon)
+Dory_Chamoun	isAffiliatedTo	National_Liberal_Party_(Lebanon)
+Dory_Chamoun	isLeaderOf	National_Liberal_Party_(Lebanon)
+
+http://dbpedia.org/resource/National_Liberal_Party_(Lebanon)	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Dory_Chamoun
+National_Liberal_Party_(Lebanon)	Dory_Chamoun
+Sami_as-Solh	isAffiliatedTo	National_Liberal_Party_(Lebanon)
+Sami_as-Solh	isAffiliatedTo	National_Liberal_Party_(Lebanon)
+Sami_as-Solh	isAffiliatedTo	National_Liberal_Party_(Lebanon)
+Sami_as-Solh	isAffiliatedTo	National_Liberal_Party_(Lebanon)
+Dory_Chamoun	isAffiliatedTo	National_Liberal_Party_(Lebanon)
+Dory_Chamoun	isLeaderOf	National_Liberal_Party_(Lebanon)
+Dory_Chamoun	isAffiliatedTo	National_Liberal_Party_(Lebanon)
+Dory_Chamoun	isLeaderOf	National_Liberal_Party_(Lebanon)
+
+http://dbpedia.org/resource/Gilberto_Echeverri_Mejía	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/César_Gaviria
+Gilberto_Echeverri_Mejía	César_Gaviria
+Gilberto_Echeverri_Mejía	isAffiliatedTo	Colombian_Liberal_Party
+Gilberto_Echeverri_Mejía	isAffiliatedTo	Colombian_Liberal_Party
+Ana_Milena_Muñoz_Gómez	isAffiliatedTo	Colombian_Liberal_Party
+Ana_Milena_Muñoz_Gómez	isAffiliatedTo	Colombian_Liberal_Party
+Ana_Milena_Muñoz_Gómez	isMarriedTo	César_Gaviria
+César_Gaviria	isMarriedTo	Ana_Milena_Muñoz_Gómez
+Ana_Milena_Muñoz_Gómez	isMarriedTo	César_Gaviria
+César_Gaviria	isMarriedTo	Ana_Milena_Muñoz_Gómez
+
+http://dbpedia.org/resource/Gilberto_Echeverri_Mejía	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/César_Gaviria
+Gilberto_Echeverri_Mejía	César_Gaviria
+Gilberto_Echeverri_Mejía	isAffiliatedTo	Colombian_Liberal_Party
+Gilberto_Echeverri_Mejía	isAffiliatedTo	Colombian_Liberal_Party
+César_Gaviria	isAffiliatedTo	Colombian_Liberal_Party
+César_Gaviria	isAffiliatedTo	Colombian_Liberal_Party
+
+http://dbpedia.org/resource/Sotero_Laurel	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Corazon_Aquino
+Sotero_Laurel	Corazon_Aquino
+Sotero_Laurel	isPoliticianOf	Philippines
+Sotero_Laurel	isCitizenOf	Philippines
+Sotero_Laurel	isPoliticianOf	Philippines
+Sotero_Laurel	isCitizenOf	Philippines
+Corazon_Aquino	isCitizenOf	Philippines
+Corazon_Aquino	isPoliticianOf	Philippines
+Corazon_Aquino	isCitizenOf	Philippines
+Corazon_Aquino	isPoliticianOf	Philippines
+
+http://dbpedia.org/resource/Rashidi_Kawawa	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Julius_Nyerere
+Rashidi_Kawawa	Julius_Nyerere
+Rashidi_Kawawa	hasChild	Vita_Kawawa
+Rashidi_Kawawa	hasChild	Vita_Kawawa
+Vita_Kawawa	wasBornIn	Tanganyika
+Vita_Kawawa	wasBornIn	Tanganyika
+Julius_Nyerere	isPoliticianOf	Tanganyika
+Julius_Nyerere	isPoliticianOf	Tanganyika
+
+http://dbpedia.org/resource/Rashidi_Kawawa	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Julius_Nyerere
+Rashidi_Kawawa	Julius_Nyerere
+Rashidi_Kawawa	hasChild	Vita_Kawawa
+Rashidi_Kawawa	hasChild	Vita_Kawawa
+Vita_Kawawa	isAffiliatedTo	Chama_Cha_Mapinduzi
+Vita_Kawawa	isAffiliatedTo	Chama_Cha_Mapinduzi
+Julius_Nyerere	created	Chama_Cha_Mapinduzi
+Julius_Nyerere	isAffiliatedTo	Chama_Cha_Mapinduzi
+Julius_Nyerere	created	Chama_Cha_Mapinduzi
+Julius_Nyerere	isAffiliatedTo	Chama_Cha_Mapinduzi
+
+http://dbpedia.org/resource/Massimo_D'Alema	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Oscar_Luigi_Scalfaro
+Massimo_D'Alema	Oscar_Luigi_Scalfaro
+Massimo_D'Alema	isAffiliatedTo	Democratic_Party_(Italy)
+Massimo_D'Alema	isAffiliatedTo	Democratic_Party_(Italy)
+Oscar_Luigi_Scalfaro	isAffiliatedTo	Democratic_Party_(Italy)
+Oscar_Luigi_Scalfaro	isAffiliatedTo	Democratic_Party_(Italy)
+
+http://dbpedia.org/resource/Lee_R._Scherer	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Jimmy_Carter
+Lee_R._Scherer	Jimmy_Carter
+Lee_R._Scherer	graduatedFrom	United_States_Naval_Academy
+Lee_R._Scherer	graduatedFrom	United_States_Naval_Academy
+Jimmy_Carter	graduatedFrom	United_States_Naval_Academy
+Jimmy_Carter	graduatedFrom	United_States_Naval_Academy
+
+http://dbpedia.org/resource/Mohamed_Ghannouchi	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Fouad_Mebazaa
+Mohamed_Ghannouchi	Fouad_Mebazaa
+Mohamed_Ghannouchi	isPoliticianOf	Tunisia
+Mohamed_Ghannouchi	isCitizenOf	Tunisia
+Mohamed_Ghannouchi	isPoliticianOf	Tunisia
+Mohamed_Ghannouchi	isCitizenOf	Tunisia
+Fouad_Mebazaa	isCitizenOf	Tunisia
+Fouad_Mebazaa	isPoliticianOf	Tunisia
+Fouad_Mebazaa	isCitizenOf	Tunisia
+Fouad_Mebazaa	isPoliticianOf	Tunisia
+
+http://dbpedia.org/resource/Michel_Kafando	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Blaise_Compaoré
+Michel_Kafando	Blaise_Compaoré
+Michel_Kafando	isCitizenOf	Burkina_Faso
+Michel_Kafando	isPoliticianOf	Burkina_Faso
+Michel_Kafando	isCitizenOf	Burkina_Faso
+Michel_Kafando	isPoliticianOf	Burkina_Faso
+Chantal_Compaoré	isCitizenOf	Burkina_Faso
+Chantal_Compaoré	isCitizenOf	Burkina_Faso
+Chantal_Compaoré	isMarriedTo	Blaise_Compaoré
+Blaise_Compaoré	isMarriedTo	Chantal_Compaoré
+Chantal_Compaoré	isMarriedTo	Blaise_Compaoré
+Blaise_Compaoré	isMarriedTo	Chantal_Compaoré
+
+http://dbpedia.org/resource/Michel_Kafando	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Blaise_Compaoré
+Michel_Kafando	Blaise_Compaoré
+Michel_Kafando	isCitizenOf	Burkina_Faso
+Michel_Kafando	isPoliticianOf	Burkina_Faso
+Michel_Kafando	isCitizenOf	Burkina_Faso
+Michel_Kafando	isPoliticianOf	Burkina_Faso
+Blaise_Compaoré	isPoliticianOf	Burkina_Faso
+Blaise_Compaoré	isCitizenOf	Burkina_Faso
+Blaise_Compaoré	isPoliticianOf	Burkina_Faso
+Blaise_Compaoré	isCitizenOf	Burkina_Faso
+
+http://dbpedia.org/resource/Michel_Kafando	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Blaise_Compaoré
+Michel_Kafando	Blaise_Compaoré
+Michel_Kafando	wasBornIn	Ouagadougou
+Michel_Kafando	wasBornIn	Ouagadougou
+Ouagadougou	isLocatedIn	Burkina_Faso
+Ouagadougou	isLocatedIn	Burkina_Faso
+Blaise_Compaoré	isPoliticianOf	Burkina_Faso
+Blaise_Compaoré	isCitizenOf	Burkina_Faso
+Blaise_Compaoré	isPoliticianOf	Burkina_Faso
+Blaise_Compaoré	isCitizenOf	Burkina_Faso
+
+http://dbpedia.org/resource/Pravind_Jugnauth	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Anerood_Jugnauth
+Pravind_Jugnauth	Anerood_Jugnauth
+Pravind_Jugnauth	wasBornIn	Vacoas-Phoenix
+Pravind_Jugnauth	wasBornIn	Vacoas-Phoenix
+Sarojini_Jugnauth	livesIn	Vacoas-Phoenix
+Sarojini_Jugnauth	livesIn	Vacoas-Phoenix
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+
+http://dbpedia.org/resource/Pravind_Jugnauth	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Anerood_Jugnauth
+Pravind_Jugnauth	Anerood_Jugnauth
+Pravind_Jugnauth	wasBornIn	Vacoas-Phoenix
+Pravind_Jugnauth	wasBornIn	Vacoas-Phoenix
+Pravind_Jugnauth	wasBornIn	Vacoas-Phoenix
+Pravind_Jugnauth	wasBornIn	Vacoas-Phoenix
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+
+http://dbpedia.org/resource/Pravind_Jugnauth	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Anerood_Jugnauth
+Pravind_Jugnauth	Anerood_Jugnauth
+Pravind_Jugnauth	wasBornIn	Vacoas-Phoenix
+Pravind_Jugnauth	wasBornIn	Vacoas-Phoenix
+Anerood_Jugnauth	wasBornIn	Vacoas-Phoenix
+Anerood_Jugnauth	wasBornIn	Vacoas-Phoenix
+
+http://dbpedia.org/resource/Pravind_Jugnauth	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Anerood_Jugnauth
+Pravind_Jugnauth	Anerood_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+
+http://dbpedia.org/resource/Pravind_Jugnauth	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Anerood_Jugnauth
+Pravind_Jugnauth	Anerood_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+Sarojini_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Sarojini_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Anerood_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Anerood_Jugnauth	created	Militant_Socialist_Movement
+Anerood_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Anerood_Jugnauth	created	Militant_Socialist_Movement
+
+http://dbpedia.org/resource/Pravind_Jugnauth	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Anerood_Jugnauth
+Pravind_Jugnauth	Anerood_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+
+http://dbpedia.org/resource/Pravind_Jugnauth	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Anerood_Jugnauth
+Pravind_Jugnauth	Anerood_Jugnauth
+Pravind_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Pravind_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Anerood_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Anerood_Jugnauth	created	Militant_Socialist_Movement
+Anerood_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Anerood_Jugnauth	created	Militant_Socialist_Movement
+
+http://dbpedia.org/resource/Pravind_Jugnauth	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Anerood_Jugnauth
+Pravind_Jugnauth	Anerood_Jugnauth
+Pravind_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Pravind_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Sarojini_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Sarojini_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+
+http://dbpedia.org/resource/Pravind_Jugnauth	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Anerood_Jugnauth
+Pravind_Jugnauth	Anerood_Jugnauth
+Pravind_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Pravind_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Pravind_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Pravind_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+
+http://dbpedia.org/resource/Pravind_Jugnauth	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Anerood_Jugnauth
+Pravind_Jugnauth	Anerood_Jugnauth
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+
+http://dbpedia.org/resource/Yitzhak_Shamir	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Chaim_Herzog
+Yitzhak_Shamir	Chaim_Herzog
+Yitzhak_Shamir	diedIn	Tel_Aviv
+Yitzhak_Shamir	diedIn	Tel_Aviv
+Chaim_Herzog	diedIn	Tel_Aviv
+Chaim_Herzog	diedIn	Tel_Aviv
+
+http://dbpedia.org/resource/Yuriy_A._Sergeyev	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Viktor_Yushchenko
+Yuriy_A._Sergeyev	Viktor_Yushchenko
+Yuriy_A._Sergeyev	isCitizenOf	Ukraine
+Yuriy_A._Sergeyev	isCitizenOf	Ukraine
+Kateryna_Yushchenko	isCitizenOf	Ukraine
+Kateryna_Yushchenko	isCitizenOf	Ukraine
+Viktor_Yushchenko	isMarriedTo	Kateryna_Yushchenko
+Kateryna_Yushchenko	isMarriedTo	Viktor_Yushchenko
+Viktor_Yushchenko	isMarriedTo	Kateryna_Yushchenko
+Kateryna_Yushchenko	isMarriedTo	Viktor_Yushchenko
+
+http://dbpedia.org/resource/Yuriy_A._Sergeyev	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Viktor_Yushchenko
+Yuriy_A._Sergeyev	Viktor_Yushchenko
+Yuriy_A._Sergeyev	isCitizenOf	Ukraine
+Yuriy_A._Sergeyev	isCitizenOf	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+Viktor_Yushchenko	isPoliticianOf	Ukraine
+Viktor_Yushchenko	isCitizenOf	Ukraine
+
+http://dbpedia.org/resource/Najah_al-Attar	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Najah_al-Attar	Bashar_al-Assad
+Najah_al-Attar	isPoliticianOf	Syria
+Najah_al-Attar	isCitizenOf	Syria
+Najah_al-Attar	isPoliticianOf	Syria
+Najah_al-Attar	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Najah_al-Attar	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Najah_al-Attar	Bashar_al-Assad
+Najah_al-Attar	isPoliticianOf	Syria
+Najah_al-Attar	isCitizenOf	Syria
+Najah_al-Attar	isPoliticianOf	Syria
+Najah_al-Attar	isCitizenOf	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Najah_al-Attar	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Najah_al-Attar	Bashar_al-Assad
+Najah_al-Attar	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Najah_al-Attar	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Najah_al-Attar	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Najah_al-Attar	Bashar_al-Assad
+Najah_al-Attar	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Najah_al-Attar	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Damascus
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+
+http://dbpedia.org/resource/Najah_al-Attar	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Najah_al-Attar	Bashar_al-Assad
+Najah_al-Attar	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Najah_al-Attar	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Najah_al-Attar	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Najah_al-Attar	Bashar_al-Assad
+Najah_al-Attar	wasBornIn	Damascus
+Najah_al-Attar	wasBornIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+
+http://dbpedia.org/resource/Najah_al-Attar	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Najah_al-Attar	Bashar_al-Assad
+Najah_al-Attar	wasBornIn	Damascus
+Najah_al-Attar	wasBornIn	Damascus
+Damascus_University	isLocatedIn	Damascus
+Damascus_University	isLocatedIn	Damascus
+Bashar_al-Assad	graduatedFrom	Damascus_University
+Bashar_al-Assad	graduatedFrom	Damascus_University
+
+http://dbpedia.org/resource/Alma_Adamkienė	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Valdas_Adamkus
+Alma_Adamkienė	Valdas_Adamkus
+Valdas_Adamkus	isMarriedTo	Alma_Adamkienė
+Alma_Adamkienė	isMarriedTo	Valdas_Adamkus
+Valdas_Adamkus	isMarriedTo	Alma_Adamkienė
+Alma_Adamkienė	isMarriedTo	Valdas_Adamkus
+
+http://dbpedia.org/resource/David_Parirenyatwa	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Robert_Mugabe
+David_Parirenyatwa	Robert_Mugabe
+Tichafa_Samuel_Parirenyatwa	hasChild	David_Parirenyatwa
+Tichafa_Samuel_Parirenyatwa	hasChild	David_Parirenyatwa
+Tichafa_Samuel_Parirenyatwa	graduatedFrom	University_of_Fort_Hare
+Tichafa_Samuel_Parirenyatwa	graduatedFrom	University_of_Fort_Hare
+Robert_Mugabe	graduatedFrom	University_of_Fort_Hare
+Robert_Mugabe	graduatedFrom	University_of_Fort_Hare
+
+http://dbpedia.org/resource/David_Parirenyatwa	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Robert_Mugabe
+David_Parirenyatwa	Robert_Mugabe
+Tichafa_Samuel_Parirenyatwa	hasChild	David_Parirenyatwa
+Tichafa_Samuel_Parirenyatwa	hasChild	David_Parirenyatwa
+Tichafa_Samuel_Parirenyatwa	isAffiliatedTo	Zimbabwe_African_People's_Union
+Tichafa_Samuel_Parirenyatwa	isAffiliatedTo	Zimbabwe_African_People's_Union
+Robert_Mugabe	isAffiliatedTo	Zimbabwe_African_People's_Union
+Robert_Mugabe	isAffiliatedTo	Zimbabwe_African_People's_Union
+
+http://dbpedia.org/resource/Muhammad_Ismail_Rahoo	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Ghulam_Ishaq_Khan
+Muhammad_Ismail_Rahoo	Ghulam_Ishaq_Khan
+Muhammad_Ismail_Rahoo	isCitizenOf	Pakistan
+Muhammad_Ismail_Rahoo	isCitizenOf	Pakistan
+Peshawar	isLocatedIn	Pakistan
+Peshawar	isLocatedIn	Pakistan
+Ghulam_Ishaq_Khan	diedIn	Peshawar
+Ghulam_Ishaq_Khan	diedIn	Peshawar
+
+http://dbpedia.org/resource/Ghulam_Mustafa_Jatoi	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Ghulam_Ishaq_Khan
+Ghulam_Mustafa_Jatoi	Ghulam_Ishaq_Khan
+Ghulam_Mustafa_Jatoi	isPoliticianOf	Pakistan
+Ghulam_Mustafa_Jatoi	isCitizenOf	Pakistan
+Ghulam_Mustafa_Jatoi	isPoliticianOf	Pakistan
+Ghulam_Mustafa_Jatoi	isCitizenOf	Pakistan
+Peshawar	isLocatedIn	Pakistan
+Peshawar	isLocatedIn	Pakistan
+Ghulam_Ishaq_Khan	diedIn	Peshawar
+Ghulam_Ishaq_Khan	diedIn	Peshawar
+
+http://dbpedia.org/resource/Penehupifo_Pohamba	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Hifikepunye_Pohamba
+Penehupifo_Pohamba	Hifikepunye_Pohamba
+Hifikepunye_Pohamba	isMarriedTo	Penehupifo_Pohamba
+Penehupifo_Pohamba	isMarriedTo	Hifikepunye_Pohamba
+Hifikepunye_Pohamba	isMarriedTo	Penehupifo_Pohamba
+Penehupifo_Pohamba	isMarriedTo	Hifikepunye_Pohamba
+
+http://dbpedia.org/resource/Penehupifo_Pohamba	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Hifikepunye_Pohamba
+Penehupifo_Pohamba	Hifikepunye_Pohamba
+Penehupifo_Pohamba	wasBornIn	Ohangwena_Region
+Penehupifo_Pohamba	wasBornIn	Ohangwena_Region
+Penehupifo_Pohamba	wasBornIn	Ohangwena_Region
+Penehupifo_Pohamba	wasBornIn	Ohangwena_Region
+Hifikepunye_Pohamba	isMarriedTo	Penehupifo_Pohamba
+Penehupifo_Pohamba	isMarriedTo	Hifikepunye_Pohamba
+Hifikepunye_Pohamba	isMarriedTo	Penehupifo_Pohamba
+Penehupifo_Pohamba	isMarriedTo	Hifikepunye_Pohamba
+
+http://dbpedia.org/resource/Fayssal_Abbas	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Fayssal_Abbas	Bashar_al-Assad
+Fayssal_Abbas	isPoliticianOf	Syria
+Fayssal_Abbas	isCitizenOf	Syria
+Fayssal_Abbas	isPoliticianOf	Syria
+Fayssal_Abbas	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Fayssal_Abbas	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Fayssal_Abbas	Bashar_al-Assad
+Fayssal_Abbas	isPoliticianOf	Syria
+Fayssal_Abbas	isCitizenOf	Syria
+Fayssal_Abbas	isPoliticianOf	Syria
+Fayssal_Abbas	isCitizenOf	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Fayssal_Abbas	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Fayssal_Abbas	Bashar_al-Assad
+Fayssal_Abbas	graduatedFrom	Damascus_University
+Fayssal_Abbas	graduatedFrom	Damascus_University
+Bashar_al-Assad	graduatedFrom	Damascus_University
+Bashar_al-Assad	graduatedFrom	Damascus_University
+
+http://dbpedia.org/resource/Fayssal_Abbas	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Fayssal_Abbas	Bashar_al-Assad
+Fayssal_Abbas	graduatedFrom	Damascus_University
+Fayssal_Abbas	graduatedFrom	Damascus_University
+Damascus_University	isLocatedIn	Damascus
+Damascus_University	isLocatedIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+
+http://dbpedia.org/resource/Francisco_Fernández_Ordóñez	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Adolfo_Suárez
+Francisco_Fernández_Ordóñez	Adolfo_Suárez
+Francisco_Fernández_Ordóñez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Francisco_Fernández_Ordóñez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Adolfo_Suárez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Adolfo_Suárez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+
+http://dbpedia.org/resource/Felipe_Calderón	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Vicente_Fox
+Felipe_Calderón	Vicente_Fox
+Felipe_Calderón	isAffiliatedTo	National_Action_Party_(Mexico)
+Felipe_Calderón	isAffiliatedTo	National_Action_Party_(Mexico)
+Vicente_Fox	isAffiliatedTo	National_Action_Party_(Mexico)
+Vicente_Fox	isAffiliatedTo	National_Action_Party_(Mexico)
+
+http://dbpedia.org/resource/Sergio_Ramírez	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Daniel_Ortega
+Sergio_Ramírez	Daniel_Ortega
+Sergio_Ramírez	isPoliticianOf	Nicaragua
+Sergio_Ramírez	isCitizenOf	Nicaragua
+Sergio_Ramírez	isPoliticianOf	Nicaragua
+Sergio_Ramírez	isCitizenOf	Nicaragua
+Daniel_Ortega	isPoliticianOf	Nicaragua
+Daniel_Ortega	isCitizenOf	Nicaragua
+Daniel_Ortega	isLeaderOf	Nicaragua
+Daniel_Ortega	isPoliticianOf	Nicaragua
+Daniel_Ortega	isCitizenOf	Nicaragua
+Daniel_Ortega	isLeaderOf	Nicaragua
+
+http://dbpedia.org/resource/Alejandro_Poiré_Romero	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Felipe_Calderón
+Alejandro_Poiré_Romero	Felipe_Calderón
+Alejandro_Poiré_Romero	graduatedFrom	Instituto_Tecnológico_Autónomo_de_México
+Alejandro_Poiré_Romero	graduatedFrom	Instituto_Tecnológico_Autónomo_de_México
+Felipe_Calderón	graduatedFrom	Instituto_Tecnológico_Autónomo_de_México
+Felipe_Calderón	graduatedFrom	Instituto_Tecnológico_Autónomo_de_México
+
+http://dbpedia.org/resource/Alejandro_Poiré_Romero	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Felipe_Calderón
+Alejandro_Poiré_Romero	Felipe_Calderón
+Alejandro_Poiré_Romero	isAffiliatedTo	National_Action_Party_(Mexico)
+Alejandro_Poiré_Romero	isAffiliatedTo	National_Action_Party_(Mexico)
+Margarita_Zavala	isAffiliatedTo	National_Action_Party_(Mexico)
+Margarita_Zavala	isAffiliatedTo	National_Action_Party_(Mexico)
+Margarita_Zavala	isMarriedTo	Felipe_Calderón
+Felipe_Calderón	isMarriedTo	Margarita_Zavala
+Margarita_Zavala	isMarriedTo	Felipe_Calderón
+Felipe_Calderón	isMarriedTo	Margarita_Zavala
+
+http://dbpedia.org/resource/Alejandro_Poiré_Romero	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Felipe_Calderón
+Alejandro_Poiré_Romero	Felipe_Calderón
+Alejandro_Poiré_Romero	isAffiliatedTo	National_Action_Party_(Mexico)
+Alejandro_Poiré_Romero	isAffiliatedTo	National_Action_Party_(Mexico)
+Felipe_Calderón	isAffiliatedTo	National_Action_Party_(Mexico)
+Felipe_Calderón	isAffiliatedTo	National_Action_Party_(Mexico)
+
+http://dbpedia.org/resource/Giorgi_Kvirikashvili	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Giorgi_Margvelashvili
+Giorgi_Kvirikashvili	Giorgi_Margvelashvili
+Giorgi_Kvirikashvili	isLeaderOf	Georgian_Dream
+Giorgi_Kvirikashvili	isAffiliatedTo	Georgian_Dream
+Giorgi_Kvirikashvili	isLeaderOf	Georgian_Dream
+Giorgi_Kvirikashvili	isAffiliatedTo	Georgian_Dream
+Giorgi_Margvelashvili	isAffiliatedTo	Georgian_Dream
+Giorgi_Margvelashvili	isAffiliatedTo	Georgian_Dream
+
+http://dbpedia.org/resource/Fahd_Jassem_al-Freij	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Fahd_Jassem_al-Freij	Bashar_al-Assad
+Fahd_Jassem_al-Freij	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Fahd_Jassem_al-Freij	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Fahd_Jassem_al-Freij	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Fahd_Jassem_al-Freij	Bashar_al-Assad
+Fahd_Jassem_al-Freij	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Fahd_Jassem_al-Freij	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Damascus
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+
+http://dbpedia.org/resource/Fahd_Jassem_al-Freij	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Fahd_Jassem_al-Freij	Bashar_al-Assad
+Fahd_Jassem_al-Freij	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Fahd_Jassem_al-Freij	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Fahd_Jassem_al-Freij	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Fahd_Jassem_al-Freij	Bashar_al-Assad
+Fahd_Jassem_al-Freij	isLeaderOf	Syrian_Army
+Fahd_Jassem_al-Freij	isLeaderOf	Syrian_Army
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+
+http://dbpedia.org/resource/Fahd_Jassem_al-Freij	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Fahd_Jassem_al-Freij	Bashar_al-Assad
+Fahd_Jassem_al-Freij	isLeaderOf	Syrian_Army
+Fahd_Jassem_al-Freij	isLeaderOf	Syrian_Army
+Syrian_Army	isLocatedIn	Damascus
+Syrian_Army	isLocatedIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+
+http://dbpedia.org/resource/Fahd_Jassem_al-Freij	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Fahd_Jassem_al-Freij	Bashar_al-Assad
+Fahd_Jassem_al-Freij	isCitizenOf	Syria
+Fahd_Jassem_al-Freij	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Fahd_Jassem_al-Freij	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Fahd_Jassem_al-Freij	Bashar_al-Assad
+Fahd_Jassem_al-Freij	isCitizenOf	Syria
+Fahd_Jassem_al-Freij	isCitizenOf	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/National_Chung_Hsing_University	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Der-Tsai_Lee
+National_Chung_Hsing_University	Der-Tsai_Lee
+Lai_In-jaw	graduatedFrom	National_Chung_Hsing_University
+Lai_In-jaw	graduatedFrom	National_Chung_Hsing_University
+Lai_In-jaw	graduatedFrom	National_Taiwan_University
+Lai_In-jaw	graduatedFrom	National_Taiwan_University
+Der-Tsai_Lee	graduatedFrom	National_Taiwan_University
+Der-Tsai_Lee	graduatedFrom	National_Taiwan_University
+
+http://dbpedia.org/resource/National_Chung_Hsing_University	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Der-Tsai_Lee
+National_Chung_Hsing_University	Der-Tsai_Lee
+Chen_Wu-hsiung	graduatedFrom	National_Chung_Hsing_University
+Chen_Wu-hsiung	graduatedFrom	National_Chung_Hsing_University
+Chen_Wu-hsiung	graduatedFrom	University_of_Illinois_at_Urbana–Champaign
+Chen_Wu-hsiung	graduatedFrom	University_of_Illinois_at_Urbana–Champaign
+Der-Tsai_Lee	graduatedFrom	University_of_Illinois_at_Urbana–Champaign
+Der-Tsai_Lee	graduatedFrom	University_of_Illinois_at_Urbana–Champaign
+
+http://dbpedia.org/resource/National_Chung_Hsing_University	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Der-Tsai_Lee
+National_Chung_Hsing_University	Der-Tsai_Lee
+Lee_Chin-yung	graduatedFrom	National_Chung_Hsing_University
+Lee_Chin-yung	graduatedFrom	National_Chung_Hsing_University
+Lee_Chin-yung	graduatedFrom	National_Taiwan_University
+Lee_Chin-yung	graduatedFrom	National_Taiwan_University
+Der-Tsai_Lee	graduatedFrom	National_Taiwan_University
+Der-Tsai_Lee	graduatedFrom	National_Taiwan_University
+
+http://dbpedia.org/resource/National_Chung_Hsing_University	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Der-Tsai_Lee
+National_Chung_Hsing_University	Der-Tsai_Lee
+Lee_Shying-jow	graduatedFrom	National_Chung_Hsing_University
+Lee_Shying-jow	graduatedFrom	National_Chung_Hsing_University
+Lee_Shying-jow	graduatedFrom	National_Taiwan_University
+Lee_Shying-jow	graduatedFrom	National_Taiwan_University
+Der-Tsai_Lee	graduatedFrom	National_Taiwan_University
+Der-Tsai_Lee	graduatedFrom	National_Taiwan_University
+
+http://dbpedia.org/resource/Kwaku_Boateng_(politician)	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Kwame_Nkrumah
+Kwaku_Boateng_(politician)	Kwame_Nkrumah
+Kwaku_Boateng_(politician)	isCitizenOf	Ghana
+Kwaku_Boateng_(politician)	isPoliticianOf	Ghana
+Kwaku_Boateng_(politician)	isCitizenOf	Ghana
+Kwaku_Boateng_(politician)	isPoliticianOf	Ghana
+Gamal_Nkrumah	isCitizenOf	Ghana
+Gamal_Nkrumah	isCitizenOf	Ghana
+Kwame_Nkrumah	hasChild	Gamal_Nkrumah
+Kwame_Nkrumah	hasChild	Gamal_Nkrumah
+
+http://dbpedia.org/resource/Julio_César_Turbay_Ayala	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/César_Gaviria
+Julio_César_Turbay_Ayala	César_Gaviria
+Julio_César_Turbay_Ayala	isMarriedTo	Nydia_Quintero_Turbay
+Nydia_Quintero_Turbay	isMarriedTo	Julio_César_Turbay_Ayala
+Julio_César_Turbay_Ayala	isMarriedTo	Nydia_Quintero_Turbay
+Nydia_Quintero_Turbay	isMarriedTo	Julio_César_Turbay_Ayala
+Nydia_Quintero_Turbay	isAffiliatedTo	Colombian_Liberal_Party
+Nydia_Quintero_Turbay	isAffiliatedTo	Colombian_Liberal_Party
+César_Gaviria	isAffiliatedTo	Colombian_Liberal_Party
+César_Gaviria	isAffiliatedTo	Colombian_Liberal_Party
+
+http://dbpedia.org/resource/Julio_César_Turbay_Ayala	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/César_Gaviria
+Julio_César_Turbay_Ayala	César_Gaviria
+Julio_César_Turbay_Ayala	isAffiliatedTo	Colombian_Liberal_Party
+Julio_César_Turbay_Ayala	isAffiliatedTo	Colombian_Liberal_Party
+Ana_Milena_Muñoz_Gómez	isAffiliatedTo	Colombian_Liberal_Party
+Ana_Milena_Muñoz_Gómez	isAffiliatedTo	Colombian_Liberal_Party
+Ana_Milena_Muñoz_Gómez	isMarriedTo	César_Gaviria
+César_Gaviria	isMarriedTo	Ana_Milena_Muñoz_Gómez
+Ana_Milena_Muñoz_Gómez	isMarriedTo	César_Gaviria
+César_Gaviria	isMarriedTo	Ana_Milena_Muñoz_Gómez
+
+http://dbpedia.org/resource/Julio_César_Turbay_Ayala	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/César_Gaviria
+Julio_César_Turbay_Ayala	César_Gaviria
+Julio_César_Turbay_Ayala	isAffiliatedTo	Colombian_Liberal_Party
+Julio_César_Turbay_Ayala	isAffiliatedTo	Colombian_Liberal_Party
+César_Gaviria	isAffiliatedTo	Colombian_Liberal_Party
+César_Gaviria	isAffiliatedTo	Colombian_Liberal_Party
+
+http://dbpedia.org/resource/Festus_Mogae	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Quett_Masire
+Festus_Mogae	Quett_Masire
+Festus_Mogae	isAffiliatedTo	Botswana_Democratic_Party
+Festus_Mogae	isAffiliatedTo	Botswana_Democratic_Party
+Quett_Masire	isAffiliatedTo	Botswana_Democratic_Party
+Quett_Masire	isAffiliatedTo	Botswana_Democratic_Party
+
+http://dbpedia.org/resource/Olive_Lembe_di_Sita	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Joseph_Kabila
+Olive_Lembe_di_Sita	Joseph_Kabila
+Olive_Lembe_di_Sita	isMarriedTo	Joseph_Kabila
+Joseph_Kabila	isMarriedTo	Olive_Lembe_di_Sita
+Olive_Lembe_di_Sita	isMarriedTo	Joseph_Kabila
+Joseph_Kabila	isMarriedTo	Olive_Lembe_di_Sita
+
+http://dbpedia.org/resource/José_de_Obaldía	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/José_María_Obando
+José_de_Obaldía	José_María_Obando
+José_de_Obaldía	isAffiliatedTo	Colombian_Liberal_Party
+José_de_Obaldía	isAffiliatedTo	Colombian_Liberal_Party
+José_María_Obando	isAffiliatedTo	Colombian_Liberal_Party
+José_María_Obando	isAffiliatedTo	Colombian_Liberal_Party
+
+http://dbpedia.org/resource/Rebeca_Grynspan	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Óscar_Arias
+Rebeca_Grynspan	Óscar_Arias
+Rebeca_Grynspan	isAffiliatedTo	National_Liberation_Party_(Costa_Rica)
+Rebeca_Grynspan	isAffiliatedTo	National_Liberation_Party_(Costa_Rica)
+Óscar_Arias	isAffiliatedTo	National_Liberation_Party_(Costa_Rica)
+Óscar_Arias	isAffiliatedTo	National_Liberation_Party_(Costa_Rica)
+
+http://dbpedia.org/resource/Abdul_Halim_Khaddam	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Abdul_Halim_Khaddam	Bashar_al-Assad
+Abdul_Halim_Khaddam	isCitizenOf	Syria
+Abdul_Halim_Khaddam	isPoliticianOf	Syria
+Abdul_Halim_Khaddam	isCitizenOf	Syria
+Abdul_Halim_Khaddam	isPoliticianOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	isPoliticianOf	Syria
+Hafez_al-Assad	isCitizenOf	Syria
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Abdul_Halim_Khaddam	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Abdul_Halim_Khaddam	Bashar_al-Assad
+Abdul_Halim_Khaddam	isCitizenOf	Syria
+Abdul_Halim_Khaddam	isPoliticianOf	Syria
+Abdul_Halim_Khaddam	isCitizenOf	Syria
+Abdul_Halim_Khaddam	isPoliticianOf	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isLeaderOf	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Bashar_al-Assad	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Abdul_Halim_Khaddam	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Bashar_al-Assad
+Abdul_Halim_Khaddam	Bashar_al-Assad
+Abdul_Halim_Khaddam	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Abdul_Halim_Khaddam	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+
+http://dbpedia.org/resource/Saad_Hariri	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Michel_Suleiman
+Saad_Hariri	Michel_Suleiman
+Saad_Hariri	isPoliticianOf	Lebanon
+Saad_Hariri	isCitizenOf	Lebanon
+Saad_Hariri	isLeaderOf	Lebanon
+Saad_Hariri	isPoliticianOf	Lebanon
+Saad_Hariri	isCitizenOf	Lebanon
+Saad_Hariri	isLeaderOf	Lebanon
+Wafaa_Sleiman	isCitizenOf	Lebanon
+Wafaa_Sleiman	isCitizenOf	Lebanon
+Wafaa_Sleiman	isMarriedTo	Michel_Suleiman
+Michel_Suleiman	isMarriedTo	Wafaa_Sleiman
+Wafaa_Sleiman	isMarriedTo	Michel_Suleiman
+Michel_Suleiman	isMarriedTo	Wafaa_Sleiman
+
+http://dbpedia.org/resource/Gilberto_Echeverri_Mejía	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/Julio_César_Turbay_Ayala
+Gilberto_Echeverri_Mejía	Julio_César_Turbay_Ayala
+Gilberto_Echeverri_Mejía	isAffiliatedTo	Colombian_Liberal_Party
+Gilberto_Echeverri_Mejía	isAffiliatedTo	Colombian_Liberal_Party
+Julio_César_Turbay_Ayala	isAffiliatedTo	Colombian_Liberal_Party
+Julio_César_Turbay_Ayala	isAffiliatedTo	Colombian_Liberal_Party
+
+http://dbpedia.org/resource/West_Virginia_University	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/E._Gordon_Gee
+West_Virginia_University	E._Gordon_Gee
+Henry_W._Gould	worksAt	West_Virginia_University
+Henry_W._Gould	worksAt	West_Virginia_University
+Henry_W._Gould	livesIn	Morgantown,_West_Virginia
+Henry_W._Gould	livesIn	Morgantown,_West_Virginia
+E._Gordon_Gee	livesIn	Morgantown,_West_Virginia
+E._Gordon_Gee	livesIn	Morgantown,_West_Virginia
+
+http://dbpedia.org/resource/West_Virginia_University	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/E._Gordon_Gee
+West_Virginia_University	E._Gordon_Gee
+West_Virginia_University	isLocatedIn	Monongalia_County,_West_Virginia
+West_Virginia_University	isLocatedIn	Monongalia_County,_West_Virginia
+Monongalia_County,_West_Virginia	isLocatedIn	Morgantown,_West_Virginia
+Morgantown,_West_Virginia	isLocatedIn	Monongalia_County,_West_Virginia
+Monongalia_County,_West_Virginia	isLocatedIn	Morgantown,_West_Virginia
+Morgantown,_West_Virginia	isLocatedIn	Monongalia_County,_West_Virginia
+E._Gordon_Gee	livesIn	Morgantown,_West_Virginia
+E._Gordon_Gee	livesIn	Morgantown,_West_Virginia
+
+http://dbpedia.org/resource/West_Virginia_University	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/E._Gordon_Gee
+West_Virginia_University	E._Gordon_Gee
+Cindy_Frich	graduatedFrom	West_Virginia_University
+Cindy_Frich	graduatedFrom	West_Virginia_University
+Cindy_Frich	livesIn	Morgantown,_West_Virginia
+Cindy_Frich	livesIn	Morgantown,_West_Virginia
+E._Gordon_Gee	livesIn	Morgantown,_West_Virginia
+E._Gordon_Gee	livesIn	Morgantown,_West_Virginia
+
+http://dbpedia.org/resource/West_Virginia_University	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/E._Gordon_Gee
+West_Virginia_University	E._Gordon_Gee
+West_Virginia_University	isLocatedIn	Morgantown,_West_Virginia
+West_Virginia_University	isLocatedIn	Morgantown,_West_Virginia
+E._Gordon_Gee	livesIn	Morgantown,_West_Virginia
+E._Gordon_Gee	livesIn	Morgantown,_West_Virginia
+
+http://dbpedia.org/resource/West_Virginia_University	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/E._Gordon_Gee
+West_Virginia_University	E._Gordon_Gee
+Charles_E._Hodges	graduatedFrom	West_Virginia_University
+Charles_E._Hodges	graduatedFrom	West_Virginia_University
+Charles_E._Hodges	livesIn	Morgantown,_West_Virginia
+Charles_E._Hodges	livesIn	Morgantown,_West_Virginia
+E._Gordon_Gee	livesIn	Morgantown,_West_Virginia
+E._Gordon_Gee	livesIn	Morgantown,_West_Virginia
+

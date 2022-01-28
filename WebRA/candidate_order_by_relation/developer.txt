@@ -1,0 +1,19 @@
+http://dbpedia.org/resource/Martin_After_Dark	http://dbpedia.org/ontology/developer	http://dbpedia.org/resource/ABS-CBN
+Martin_After_Dark	ABS-CBN
+ABS-CBN	created	Martin_After_Dark
+ABS-CBN	created	Martin_After_Dark
+
+http://dbpedia.org/resource/Martin_After_Dark	http://dbpedia.org/ontology/developer	http://dbpedia.org/resource/ABS-CBN
+Martin_After_Dark	ABS-CBN
+GMA_Network	created	Martin_After_Dark
+GMA_Network	created	Martin_After_Dark
+GMA_Network	created	Martin_After_Dark
+GMA_Network	created	Martin_After_Dark
+ABS-CBN	created	Martin_After_Dark
+ABS-CBN	created	Martin_After_Dark
+
+http://dbpedia.org/resource/Wowowee	http://dbpedia.org/ontology/developer	http://dbpedia.org/resource/Willie_Revillame
+Wowowee	Willie_Revillame
+Willie_Revillame	created	Wowowee
+Willie_Revillame	created	Wowowee
+

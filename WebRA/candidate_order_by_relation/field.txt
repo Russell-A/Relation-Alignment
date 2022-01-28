@@ -1,0 +1,264 @@
+http://dbpedia.org/resource/Max_Weber	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Max_Weber
+Max_Weber	Max_Weber
+Max_Weber	influences	Georg_Simmel
+Georg_Simmel	influences	Max_Weber
+Max_Weber	influences	Georg_Simmel
+Georg_Simmel	influences	Max_Weber
+Max_Weber	influences	Georg_Simmel
+Georg_Simmel	influences	Max_Weber
+Max_Weber	influences	Georg_Simmel
+Georg_Simmel	influences	Max_Weber
+
+http://dbpedia.org/resource/Max_Weber	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Max_Weber
+Max_Weber	Max_Weber
+Wilhelm_Windelband	influences	Max_Weber
+Wilhelm_Windelband	influences	Max_Weber
+Wilhelm_Windelband	influences	Heinrich_Rickert
+Wilhelm_Windelband	influences	Heinrich_Rickert
+Heinrich_Rickert	influences	Max_Weber
+Heinrich_Rickert	influences	Max_Weber
+
+http://dbpedia.org/resource/Max_Weber	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Max_Weber
+Max_Weber	Max_Weber
+Wilhelm_Windelband	influences	Max_Weber
+Wilhelm_Windelband	influences	Max_Weber
+Wilhelm_Windelband	influences	Max_Weber
+Wilhelm_Windelband	influences	Max_Weber
+
+http://dbpedia.org/resource/Max_Weber	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Max_Weber
+Max_Weber	Max_Weber
+Max_Weber	influences	Jacques_Ellul
+Max_Weber	influences	Jacques_Ellul
+Max_Weber	influences	Jacques_Ellul
+Max_Weber	influences	Jacques_Ellul
+
+http://dbpedia.org/resource/Max_Weber	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Max_Weber
+Max_Weber	Max_Weber
+Max_Weber	influences	Clifford_Geertz
+Max_Weber	influences	Clifford_Geertz
+Alfred_Schütz	influences	Clifford_Geertz
+Alfred_Schütz	influences	Clifford_Geertz
+Max_Weber	influences	Alfred_Schütz
+Max_Weber	influences	Alfred_Schütz
+
+http://dbpedia.org/resource/Max_Weber	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Max_Weber
+Max_Weber	Max_Weber
+Max_Weber	influences	Lewis_Gordon
+Max_Weber	influences	Lewis_Gordon
+Max_Weber	influences	Lewis_Gordon
+Max_Weber	influences	Lewis_Gordon
+
+http://dbpedia.org/resource/Max_Weber	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Max_Weber
+Max_Weber	Max_Weber
+Max_Weber	influences	Gopal_Balakrishnan
+Max_Weber	influences	Gopal_Balakrishnan
+Max_Weber	influences	Gopal_Balakrishnan
+Max_Weber	influences	Gopal_Balakrishnan
+
+http://dbpedia.org/resource/Max_Weber	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Max_Weber
+Max_Weber	Max_Weber
+Werner_Sombart	influences	Max_Weber
+Werner_Sombart	influences	Max_Weber
+Werner_Sombart	influences	Max_Weber
+Werner_Sombart	influences	Max_Weber
+
+http://dbpedia.org/resource/Max_Weber	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Max_Weber
+Max_Weber	Max_Weber
+Werner_Sombart	influences	Max_Weber
+Werner_Sombart	influences	Max_Weber
+Werner_Sombart	influences	Karl_Polanyi
+Werner_Sombart	influences	Karl_Polanyi
+Max_Weber	influences	Karl_Polanyi
+Max_Weber	influences	Karl_Polanyi
+
+http://dbpedia.org/resource/Max_Weber	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Max_Weber
+Max_Weber	Max_Weber
+Max_Weber	influences	Charles_Taylor_(philosopher)
+Max_Weber	influences	Charles_Taylor_(philosopher)
+Max_Weber	influences	Charles_Taylor_(philosopher)
+Max_Weber	influences	Charles_Taylor_(philosopher)
+
+http://dbpedia.org/resource/Max_Weber	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Max_Weber
+Max_Weber	Max_Weber
+Max_Weber	influences	Juan_José_Sebreli
+Max_Weber	influences	Juan_José_Sebreli
+Max_Weber	influences	Juan_José_Sebreli
+Max_Weber	influences	Juan_José_Sebreli
+
+http://dbpedia.org/resource/Max_Weber	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Max_Weber
+Max_Weber	Max_Weber
+Max_Weber	influences	György_Lukács
+Max_Weber	influences	György_Lukács
+Max_Weber	influences	György_Lukács
+Max_Weber	influences	György_Lukács
+
+http://dbpedia.org/resource/Max_Weber	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Max_Weber
+Max_Weber	Max_Weber
+Max_Weber	influences	Alfred_Schütz
+Max_Weber	influences	Alfred_Schütz
+Alfred_Schütz	influences	Anthony_Giddens
+Alfred_Schütz	influences	Anthony_Giddens
+Max_Weber	influences	Anthony_Giddens
+Max_Weber	influences	Anthony_Giddens
+
+http://dbpedia.org/resource/Max_Weber	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Max_Weber
+Max_Weber	Max_Weber
+Max_Weber	influences	Alfred_Schütz
+Max_Weber	influences	Alfred_Schütz
+Max_Weber	influences	Alfred_Schütz
+Max_Weber	influences	Alfred_Schütz
+
+http://dbpedia.org/resource/Max_Weber	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Max_Weber
+Max_Weber	Max_Weber
+Max_Weber	influences	Jacob_Taubes
+Max_Weber	influences	Jacob_Taubes
+Max_Weber	influences	Jacob_Taubes
+Max_Weber	influences	Jacob_Taubes
+
+http://dbpedia.org/resource/Max_Weber	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Max_Weber
+Max_Weber	Max_Weber
+Max_Weber	influences	Ernest_Gellner
+Max_Weber	influences	Ernest_Gellner
+Ernest_Gellner	influences	Andrey_Korotayev
+Ernest_Gellner	influences	Andrey_Korotayev
+Max_Weber	influences	Andrey_Korotayev
+Max_Weber	influences	Andrey_Korotayev
+
+http://dbpedia.org/resource/Max_Weber	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Max_Weber
+Max_Weber	Max_Weber
+Max_Weber	influences	Ernest_Gellner
+Max_Weber	influences	Ernest_Gellner
+Max_Weber	influences	Ernest_Gellner
+Max_Weber	influences	Ernest_Gellner
+
+http://dbpedia.org/resource/Max_Weber	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Max_Weber
+Max_Weber	Max_Weber
+Max_Weber	influences	Alexander_Gerschenkron
+Max_Weber	influences	Alexander_Gerschenkron
+Max_Weber	influences	Alexander_Gerschenkron
+Max_Weber	influences	Alexander_Gerschenkron
+
+http://dbpedia.org/resource/Max_Weber	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Max_Weber
+Max_Weber	Max_Weber
+Max_Weber	influences	Randall_Collins
+Max_Weber	influences	Randall_Collins
+Max_Weber	influences	Randall_Collins
+Max_Weber	influences	Randall_Collins
+
+http://dbpedia.org/resource/Ramesh_Prasad_Mohapatra	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Odisha
+Ramesh_Prasad_Mohapatra	Odisha
+Ramesh_Prasad_Mohapatra	wasBornIn	Dhenkanal_district
+Ramesh_Prasad_Mohapatra	wasBornIn	Dhenkanal_district
+Gati_Krushna_Misra	wasBornIn	Dhenkanal_district
+Gati_Krushna_Misra	wasBornIn	Dhenkanal_district
+Gati_Krushna_Misra	isPoliticianOf	Odisha
+Gati_Krushna_Misra	isPoliticianOf	Odisha
+
+http://dbpedia.org/resource/Ramesh_Prasad_Mohapatra	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Odisha
+Ramesh_Prasad_Mohapatra	Odisha
+Ramesh_Prasad_Mohapatra	wasBornIn	Dhenkanal_district
+Ramesh_Prasad_Mohapatra	wasBornIn	Dhenkanal_district
+Dhenkanal_district	isLocatedIn	Odisha
+Dhenkanal_district	isLocatedIn	Odisha
+
+http://dbpedia.org/resource/Ramesh_Prasad_Mohapatra	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Odisha
+Ramesh_Prasad_Mohapatra	Odisha
+Ramesh_Prasad_Mohapatra	graduatedFrom	Utkal_University
+Ramesh_Prasad_Mohapatra	graduatedFrom	Utkal_University
+Utkal_University	isLocatedIn	Bhubaneswar
+Utkal_University	isLocatedIn	Bhubaneswar
+Bhubaneswar	isLocatedIn	Odisha
+Odisha	isLocatedIn	Bhubaneswar
+Odisha	hasCapital	Bhubaneswar
+Bhubaneswar	isLocatedIn	Odisha
+Odisha	isLocatedIn	Bhubaneswar
+Odisha	hasCapital	Bhubaneswar
+
+http://dbpedia.org/resource/Ramesh_Prasad_Mohapatra	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Odisha
+Ramesh_Prasad_Mohapatra	Odisha
+Ramesh_Prasad_Mohapatra	graduatedFrom	Utkal_University
+Ramesh_Prasad_Mohapatra	graduatedFrom	Utkal_University
+Bhanu_Pratap_Jena	graduatedFrom	Utkal_University
+Bhanu_Pratap_Jena	graduatedFrom	Utkal_University
+Bhanu_Pratap_Jena	wasBornIn	Odisha
+Bhanu_Pratap_Jena	wasBornIn	Odisha
+
+http://dbpedia.org/resource/Ramesh_Prasad_Mohapatra	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Odisha
+Ramesh_Prasad_Mohapatra	Odisha
+Ramesh_Prasad_Mohapatra	graduatedFrom	Utkal_University
+Ramesh_Prasad_Mohapatra	graduatedFrom	Utkal_University
+Utkal_University	isLocatedIn	Odisha
+Utkal_University	isLocatedIn	Odisha
+
+http://dbpedia.org/resource/Ramesh_Prasad_Mohapatra	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Odisha
+Ramesh_Prasad_Mohapatra	Odisha
+Ramesh_Prasad_Mohapatra	graduatedFrom	Utkal_University
+Ramesh_Prasad_Mohapatra	graduatedFrom	Utkal_University
+Devdas_Chhotray	graduatedFrom	Utkal_University
+Devdas_Chhotray	graduatedFrom	Utkal_University
+Devdas_Chhotray	livesIn	Odisha
+Devdas_Chhotray	livesIn	Odisha
+
+http://dbpedia.org/resource/Ramesh_Prasad_Mohapatra	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Odisha
+Ramesh_Prasad_Mohapatra	Odisha
+Ramesh_Prasad_Mohapatra	graduatedFrom	Utkal_University
+Ramesh_Prasad_Mohapatra	graduatedFrom	Utkal_University
+Janaki_Ballabh_Patnaik	graduatedFrom	Utkal_University
+Janaki_Ballabh_Patnaik	graduatedFrom	Utkal_University
+Janaki_Ballabh_Patnaik	isPoliticianOf	Odisha
+Janaki_Ballabh_Patnaik	isPoliticianOf	Odisha
+
+http://dbpedia.org/resource/Ramesh_Prasad_Mohapatra	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Odisha
+Ramesh_Prasad_Mohapatra	Odisha
+Ramesh_Prasad_Mohapatra	diedIn	Bhubaneswar
+Ramesh_Prasad_Mohapatra	diedIn	Bhubaneswar
+Bhubaneswar	isLocatedIn	Odisha
+Odisha	isLocatedIn	Bhubaneswar
+Odisha	hasCapital	Bhubaneswar
+Bhubaneswar	isLocatedIn	Odisha
+Odisha	isLocatedIn	Bhubaneswar
+Odisha	hasCapital	Bhubaneswar
+
+http://dbpedia.org/resource/Ramesh_Prasad_Mohapatra	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Odisha
+Ramesh_Prasad_Mohapatra	Odisha
+Ramesh_Prasad_Mohapatra	graduatedFrom	Ravenshaw_College
+Ramesh_Prasad_Mohapatra	graduatedFrom	Ravenshaw_College
+Biju_Patnaik	graduatedFrom	Ravenshaw_College
+Biju_Patnaik	graduatedFrom	Ravenshaw_College
+Biju_Patnaik	isPoliticianOf	Odisha
+Biju_Patnaik	isPoliticianOf	Odisha
+
+http://dbpedia.org/resource/Ramesh_Prasad_Mohapatra	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Odisha
+Ramesh_Prasad_Mohapatra	Odisha
+Ramesh_Prasad_Mohapatra	graduatedFrom	Ravenshaw_College
+Ramesh_Prasad_Mohapatra	graduatedFrom	Ravenshaw_College
+Harekrushna_Mahatab	graduatedFrom	Ravenshaw_College
+Harekrushna_Mahatab	graduatedFrom	Ravenshaw_College
+Harekrushna_Mahatab	isPoliticianOf	Odisha
+Harekrushna_Mahatab	isPoliticianOf	Odisha
+
+http://dbpedia.org/resource/Ramesh_Prasad_Mohapatra	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Odisha
+Ramesh_Prasad_Mohapatra	Odisha
+Ramesh_Prasad_Mohapatra	graduatedFrom	Ravenshaw_College
+Ramesh_Prasad_Mohapatra	graduatedFrom	Ravenshaw_College
+Biswanath_Das	graduatedFrom	Ravenshaw_College
+Biswanath_Das	graduatedFrom	Ravenshaw_College
+Biswanath_Das	isPoliticianOf	Odisha
+Biswanath_Das	isPoliticianOf	Odisha
+
+http://dbpedia.org/resource/Ramesh_Prasad_Mohapatra	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Odisha
+Ramesh_Prasad_Mohapatra	Odisha
+Ramesh_Prasad_Mohapatra	graduatedFrom	Ravenshaw_College
+Ramesh_Prasad_Mohapatra	graduatedFrom	Ravenshaw_College
+Ravenshaw_College	isLocatedIn	Odisha
+Ravenshaw_College	isLocatedIn	Odisha
+
+http://dbpedia.org/resource/Ramesh_Prasad_Mohapatra	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/Odisha
+Ramesh_Prasad_Mohapatra	Odisha
+Ramesh_Prasad_Mohapatra	graduatedFrom	Ravenshaw_College
+Ramesh_Prasad_Mohapatra	graduatedFrom	Ravenshaw_College
+Devdas_Chhotray	graduatedFrom	Ravenshaw_College
+Devdas_Chhotray	graduatedFrom	Ravenshaw_College
+Devdas_Chhotray	livesIn	Odisha
+Devdas_Chhotray	livesIn	Odisha
+

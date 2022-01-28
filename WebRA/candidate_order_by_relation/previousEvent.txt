@@ -1,0 +1,44 @@
+http://dbpedia.org/resource/2015_in_SUPERKOMBAT	http://dbpedia.org/ontology/previousEvent	http://dbpedia.org/resource/2015_in_SUPERKOMBAT
+2015_in_SUPERKOMBAT	2015_in_SUPERKOMBAT
+2015_in_SUPERKOMBAT	isLocatedIn	Spreitenbach
+2015_in_SUPERKOMBAT	isLocatedIn	Spreitenbach
+2015_in_SUPERKOMBAT	isLocatedIn	Spreitenbach
+2015_in_SUPERKOMBAT	isLocatedIn	Spreitenbach
+
+http://dbpedia.org/resource/2015_in_SUPERKOMBAT	http://dbpedia.org/ontology/previousEvent	http://dbpedia.org/resource/2015_in_SUPERKOMBAT
+2015_in_SUPERKOMBAT	2015_in_SUPERKOMBAT
+2015_in_SUPERKOMBAT	isLocatedIn	Spreitenbach
+2015_in_SUPERKOMBAT	isLocatedIn	Spreitenbach
+Spreitenbach	isLocatedIn	Switzerland
+Spreitenbach	isLocatedIn	Switzerland
+2015_in_SUPERKOMBAT	isLocatedIn	Switzerland
+2015_in_SUPERKOMBAT	isLocatedIn	Switzerland
+
+http://dbpedia.org/resource/2015_in_SUPERKOMBAT	http://dbpedia.org/ontology/previousEvent	http://dbpedia.org/resource/2015_in_SUPERKOMBAT
+2015_in_SUPERKOMBAT	2015_in_SUPERKOMBAT
+2015_in_SUPERKOMBAT	isLocatedIn	Switzerland
+2015_in_SUPERKOMBAT	isLocatedIn	Switzerland
+2015_in_SUPERKOMBAT	isLocatedIn	Switzerland
+2015_in_SUPERKOMBAT	isLocatedIn	Switzerland
+
+http://dbpedia.org/resource/House_of_Hardcore	http://dbpedia.org/ontology/previousEvent	http://dbpedia.org/resource/House_of_Hardcore
+House_of_Hardcore	House_of_Hardcore
+House_of_Hardcore	isLocatedIn	Metuchen,_New_Jersey
+House_of_Hardcore	isLocatedIn	Metuchen,_New_Jersey
+House_of_Hardcore	isLocatedIn	Metuchen,_New_Jersey
+House_of_Hardcore	isLocatedIn	Metuchen,_New_Jersey
+
+http://dbpedia.org/resource/House_of_Hardcore	http://dbpedia.org/ontology/previousEvent	http://dbpedia.org/resource/House_of_Hardcore
+House_of_Hardcore	House_of_Hardcore
+House_of_Hardcore	isLocatedIn	Pasadena,_Texas
+House_of_Hardcore	isLocatedIn	Pasadena,_Texas
+House_of_Hardcore	isLocatedIn	Pasadena,_Texas
+House_of_Hardcore	isLocatedIn	Pasadena,_Texas
+
+http://dbpedia.org/resource/House_of_Hardcore	http://dbpedia.org/ontology/previousEvent	http://dbpedia.org/resource/House_of_Hardcore
+House_of_Hardcore	House_of_Hardcore
+House_of_Hardcore	isLocatedIn	Poughkeepsie,_New_York
+House_of_Hardcore	isLocatedIn	Poughkeepsie,_New_York
+House_of_Hardcore	isLocatedIn	Poughkeepsie,_New_York
+House_of_Hardcore	isLocatedIn	Poughkeepsie,_New_York
+

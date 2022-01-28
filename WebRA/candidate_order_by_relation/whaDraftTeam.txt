@@ -1,0 +1,1297 @@
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Bowling_Green_State_University
+Mike_Liut	isAffiliatedTo	Bowling_Green_State_University
+Mike_Liut	isAffiliatedTo	Bowling_Green_State_University
+Mike_Liut	isAffiliatedTo	Bowling_Green_State_University
+Mike_Liut	isAffiliatedTo	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Bowling_Green_State_University
+Mike_Liut	isAffiliatedTo	Bowling_Green_State_University
+Marc_Potvin	isAffiliatedTo	Bowling_Green_State_University
+Marc_Potvin	isAffiliatedTo	Bowling_Green_State_University
+Marc_Potvin	isAffiliatedTo	Hartford_Whalers
+Marc_Potvin	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Bowling_Green_State_University
+Mike_Liut	isAffiliatedTo	Bowling_Green_State_University
+Ken_Morrow	isAffiliatedTo	Bowling_Green_State_University
+Ken_Morrow	isAffiliatedTo	Bowling_Green_State_University
+Ken_Morrow	isAffiliatedTo	Hartford_Whalers
+Ken_Morrow	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Bowling_Green_State_University
+Mike_Liut	isAffiliatedTo	Bowling_Green_State_University
+Nelson_Emerson	isAffiliatedTo	Bowling_Green_State_University
+Nelson_Emerson	isAffiliatedTo	Bowling_Green_State_University
+Nelson_Emerson	isAffiliatedTo	Hartford_Whalers
+Nelson_Emerson	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Marc_Bergevin	isAffiliatedTo	St._Louis_Blues
+Marc_Bergevin	isAffiliatedTo	St._Louis_Blues
+Marc_Bergevin	isAffiliatedTo	Hartford_Whalers
+Marc_Bergevin	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Risto_Siltanen	isAffiliatedTo	St._Louis_Blues
+Risto_Siltanen	isAffiliatedTo	St._Louis_Blues
+Risto_Siltanen	isAffiliatedTo	Hartford_Whalers
+Risto_Siltanen	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Brendan_Shanahan	isAffiliatedTo	St._Louis_Blues
+Brendan_Shanahan	isAffiliatedTo	St._Louis_Blues
+Brendan_Shanahan	isAffiliatedTo	Hartford_Whalers
+Brendan_Shanahan	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Jim_Roberts_(ice_hockey,_born_1940)	isAffiliatedTo	St._Louis_Blues
+Jim_Roberts_(ice_hockey,_born_1940)	isAffiliatedTo	St._Louis_Blues
+Jim_Roberts_(ice_hockey,_born_1940)	isAffiliatedTo	Hartford_Whalers
+Jim_Roberts_(ice_hockey,_born_1940)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Terry_Yake	isAffiliatedTo	St._Louis_Blues
+Terry_Yake	isAffiliatedTo	St._Louis_Blues
+Terry_Yake	isAffiliatedTo	Hartford_Whalers
+Terry_Yake	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Greg_Millen	isAffiliatedTo	St._Louis_Blues
+Greg_Millen	isAffiliatedTo	St._Louis_Blues
+Greg_Millen	isAffiliatedTo	Hartford_Whalers
+Greg_Millen	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Eric_Weinrich	isAffiliatedTo	St._Louis_Blues
+Eric_Weinrich	isAffiliatedTo	St._Louis_Blues
+Eric_Weinrich	isAffiliatedTo	Hartford_Whalers
+Eric_Weinrich	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Ray_Ferraro	isAffiliatedTo	St._Louis_Blues
+Ray_Ferraro	isAffiliatedTo	St._Louis_Blues
+Ray_Ferraro	isAffiliatedTo	Hartford_Whalers
+Ray_Ferraro	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Nelson_Emerson	isAffiliatedTo	St._Louis_Blues
+Nelson_Emerson	isAffiliatedTo	St._Louis_Blues
+Nelson_Emerson	isAffiliatedTo	Hartford_Whalers
+Nelson_Emerson	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Joel_Quenneville	isAffiliatedTo	St._Louis_Blues
+Joel_Quenneville	isAffiliatedTo	St._Louis_Blues
+Joel_Quenneville	isAffiliatedTo	Hartford_Whalers
+Joel_Quenneville	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Rick_Meagher	isAffiliatedTo	St._Louis_Blues
+Rick_Meagher	isAffiliatedTo	St._Louis_Blues
+Rick_Meagher	isAffiliatedTo	Hartford_Whalers
+Rick_Meagher	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Bill_Baker_(ice_hockey)	isAffiliatedTo	St._Louis_Blues
+Bill_Baker_(ice_hockey)	isAffiliatedTo	St._Louis_Blues
+Bill_Baker_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+Bill_Baker_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Róbert_Petrovický	isAffiliatedTo	St._Louis_Blues
+Róbert_Petrovický	isAffiliatedTo	St._Louis_Blues
+Róbert_Petrovický	isAffiliatedTo	Hartford_Whalers
+Róbert_Petrovický	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Chris_Pronger	isAffiliatedTo	St._Louis_Blues
+Chris_Pronger	isAffiliatedTo	St._Louis_Blues
+Chris_Pronger	isAffiliatedTo	Hartford_Whalers
+Chris_Pronger	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Gordie_Roberts	isAffiliatedTo	St._Louis_Blues
+Gordie_Roberts	isAffiliatedTo	St._Louis_Blues
+Gordie_Roberts	isAffiliatedTo	Hartford_Whalers
+Gordie_Roberts	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Scott_Young_(ice_hockey,_born_1967)	isAffiliatedTo	St._Louis_Blues
+Scott_Young_(ice_hockey,_born_1967)	isAffiliatedTo	St._Louis_Blues
+Scott_Young_(ice_hockey,_born_1967)	isAffiliatedTo	Hartford_Whalers
+Scott_Young_(ice_hockey,_born_1967)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Jeff_Brown_(ice_hockey,_born_1966)	isAffiliatedTo	St._Louis_Blues
+Jeff_Brown_(ice_hockey,_born_1966)	isAffiliatedTo	St._Louis_Blues
+Jeff_Brown_(ice_hockey,_born_1966)	isAffiliatedTo	Hartford_Whalers
+Jeff_Brown_(ice_hockey,_born_1966)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Lee_Norwood	isAffiliatedTo	St._Louis_Blues
+Lee_Norwood	isAffiliatedTo	St._Louis_Blues
+Lee_Norwood	isAffiliatedTo	Hartford_Whalers
+Lee_Norwood	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Manny_Legace	isAffiliatedTo	St._Louis_Blues
+Manny_Legace	isAffiliatedTo	St._Louis_Blues
+Manny_Legace	isAffiliatedTo	Hartford_Whalers
+Manny_Legace	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Darren_Turcotte	isAffiliatedTo	St._Louis_Blues
+Darren_Turcotte	isAffiliatedTo	St._Louis_Blues
+Darren_Turcotte	isAffiliatedTo	Hartford_Whalers
+Darren_Turcotte	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mark_Johnson_(ice_hockey)	isAffiliatedTo	St._Louis_Blues
+Mark_Johnson_(ice_hockey)	isAffiliatedTo	St._Louis_Blues
+Mark_Johnson_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+Mark_Johnson_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Jim_McKenzie_(ice_hockey,_born_1969)	isAffiliatedTo	Washington_Capitals
+Jim_McKenzie_(ice_hockey,_born_1969)	isAffiliatedTo	Washington_Capitals
+Jim_McKenzie_(ice_hockey,_born_1969)	isAffiliatedTo	Hartford_Whalers
+Jim_McKenzie_(ice_hockey,_born_1969)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Dean_Evason	isAffiliatedTo	Washington_Capitals
+Dean_Evason	isAffiliatedTo	Washington_Capitals
+Dean_Evason	isAffiliatedTo	Hartford_Whalers
+Dean_Evason	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Peter_Sidorkiewicz	isAffiliatedTo	Washington_Capitals
+Peter_Sidorkiewicz	isAffiliatedTo	Washington_Capitals
+Peter_Sidorkiewicz	isAffiliatedTo	Hartford_Whalers
+Peter_Sidorkiewicz	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Curtis_Leschyshyn	isAffiliatedTo	Washington_Capitals
+Curtis_Leschyshyn	isAffiliatedTo	Washington_Capitals
+Curtis_Leschyshyn	isAffiliatedTo	Hartford_Whalers
+Curtis_Leschyshyn	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Sylvain_Côté	isAffiliatedTo	Washington_Capitals
+Sylvain_Côté	isAffiliatedTo	Washington_Capitals
+Sylvain_Côté	isAffiliatedTo	Hartford_Whalers
+Sylvain_Côté	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Michael_Nylander	isAffiliatedTo	Washington_Capitals
+Michael_Nylander	isAffiliatedTo	Washington_Capitals
+Michael_Nylander	isAffiliatedTo	Hartford_Whalers
+Michael_Nylander	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Terry_Yake	isAffiliatedTo	Washington_Capitals
+Terry_Yake	isAffiliatedTo	Washington_Capitals
+Terry_Yake	isAffiliatedTo	Hartford_Whalers
+Terry_Yake	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Jeff_Brown_(ice_hockey,_born_1966)	isAffiliatedTo	Washington_Capitals
+Jeff_Brown_(ice_hockey,_born_1966)	isAffiliatedTo	Washington_Capitals
+Jeff_Brown_(ice_hockey,_born_1966)	isAffiliatedTo	Hartford_Whalers
+Jeff_Brown_(ice_hockey,_born_1966)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Lee_Norwood	isAffiliatedTo	Washington_Capitals
+Lee_Norwood	isAffiliatedTo	Washington_Capitals
+Lee_Norwood	isAffiliatedTo	Hartford_Whalers
+Lee_Norwood	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+František_Kučera	isAffiliatedTo	Washington_Capitals
+František_Kučera	isAffiliatedTo	Washington_Capitals
+František_Kučera	isAffiliatedTo	Hartford_Whalers
+František_Kučera	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Dave_Tippett	isAffiliatedTo	Washington_Capitals
+Dave_Tippett	isAffiliatedTo	Washington_Capitals
+Dave_Tippett	isAffiliatedTo	Hartford_Whalers
+Dave_Tippett	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Mike_Liut	isAffiliatedTo	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Greg_Adams_(ice_hockey,_born_1960)	isAffiliatedTo	Washington_Capitals
+Greg_Adams_(ice_hockey,_born_1960)	isAffiliatedTo	Washington_Capitals
+Greg_Adams_(ice_hockey,_born_1960)	isAffiliatedTo	Hartford_Whalers
+Greg_Adams_(ice_hockey,_born_1960)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+Mike_Liut	isAffiliatedTo	Washington_Capitals
+James_Black_(ice_hockey)	isAffiliatedTo	Washington_Capitals
+James_Black_(ice_hockey)	isAffiliatedTo	Washington_Capitals
+James_Black_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+James_Black_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	wasBornIn	Weston,_Toronto
+Mike_Liut	wasBornIn	Weston,_Toronto
+Paul_Coffey	wasBornIn	Weston,_Toronto
+Paul_Coffey	wasBornIn	Weston,_Toronto
+Paul_Coffey	isAffiliatedTo	Hartford_Whalers
+Paul_Coffey	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	wasBornIn	Weston,_Toronto
+Mike_Liut	wasBornIn	Weston,_Toronto
+Mike_Liut	wasBornIn	Weston,_Toronto
+Mike_Liut	wasBornIn	Weston,_Toronto
+Mike_Liut	isAffiliatedTo	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Mike_Liut	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Mike_Liut	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Marc_Bergevin	isAffiliatedTo	St._Louis_Blues
+Marc_Bergevin	isAffiliatedTo	St._Louis_Blues
+Marc_Bergevin	isAffiliatedTo	Hartford_Whalers
+Marc_Bergevin	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Risto_Siltanen	isAffiliatedTo	St._Louis_Blues
+Risto_Siltanen	isAffiliatedTo	St._Louis_Blues
+Risto_Siltanen	isAffiliatedTo	Hartford_Whalers
+Risto_Siltanen	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Brendan_Shanahan	isAffiliatedTo	St._Louis_Blues
+Brendan_Shanahan	isAffiliatedTo	St._Louis_Blues
+Brendan_Shanahan	isAffiliatedTo	Hartford_Whalers
+Brendan_Shanahan	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	St._Louis_Blues
+Mike_Liut	isAffiliatedTo	Hartford_Whalers
+Mike_Liut	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Jim_Roberts_(ice_hockey,_born_1940)	isAffiliatedTo	St._Louis_Blues
+Jim_Roberts_(ice_hockey,_born_1940)	isAffiliatedTo	St._Louis_Blues
+Jim_Roberts_(ice_hockey,_born_1940)	isAffiliatedTo	Hartford_Whalers
+Jim_Roberts_(ice_hockey,_born_1940)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Terry_Yake	isAffiliatedTo	St._Louis_Blues
+Terry_Yake	isAffiliatedTo	St._Louis_Blues
+Terry_Yake	isAffiliatedTo	Hartford_Whalers
+Terry_Yake	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Greg_Millen	isAffiliatedTo	St._Louis_Blues
+Greg_Millen	isAffiliatedTo	St._Louis_Blues
+Greg_Millen	isAffiliatedTo	Hartford_Whalers
+Greg_Millen	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Eric_Weinrich	isAffiliatedTo	St._Louis_Blues
+Eric_Weinrich	isAffiliatedTo	St._Louis_Blues
+Eric_Weinrich	isAffiliatedTo	Hartford_Whalers
+Eric_Weinrich	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Ray_Ferraro	isAffiliatedTo	St._Louis_Blues
+Ray_Ferraro	isAffiliatedTo	St._Louis_Blues
+Ray_Ferraro	isAffiliatedTo	Hartford_Whalers
+Ray_Ferraro	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Nelson_Emerson	isAffiliatedTo	St._Louis_Blues
+Nelson_Emerson	isAffiliatedTo	St._Louis_Blues
+Nelson_Emerson	isAffiliatedTo	Hartford_Whalers
+Nelson_Emerson	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Joel_Quenneville	isAffiliatedTo	St._Louis_Blues
+Joel_Quenneville	isAffiliatedTo	St._Louis_Blues
+Joel_Quenneville	isAffiliatedTo	Hartford_Whalers
+Joel_Quenneville	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Rick_Meagher	isAffiliatedTo	St._Louis_Blues
+Rick_Meagher	isAffiliatedTo	St._Louis_Blues
+Rick_Meagher	isAffiliatedTo	Hartford_Whalers
+Rick_Meagher	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Bill_Baker_(ice_hockey)	isAffiliatedTo	St._Louis_Blues
+Bill_Baker_(ice_hockey)	isAffiliatedTo	St._Louis_Blues
+Bill_Baker_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+Bill_Baker_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Róbert_Petrovický	isAffiliatedTo	St._Louis_Blues
+Róbert_Petrovický	isAffiliatedTo	St._Louis_Blues
+Róbert_Petrovický	isAffiliatedTo	Hartford_Whalers
+Róbert_Petrovický	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Chris_Pronger	isAffiliatedTo	St._Louis_Blues
+Chris_Pronger	isAffiliatedTo	St._Louis_Blues
+Chris_Pronger	isAffiliatedTo	Hartford_Whalers
+Chris_Pronger	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Gordie_Roberts	isAffiliatedTo	St._Louis_Blues
+Gordie_Roberts	isAffiliatedTo	St._Louis_Blues
+Gordie_Roberts	isAffiliatedTo	Hartford_Whalers
+Gordie_Roberts	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Scott_Young_(ice_hockey,_born_1967)	isAffiliatedTo	St._Louis_Blues
+Scott_Young_(ice_hockey,_born_1967)	isAffiliatedTo	St._Louis_Blues
+Scott_Young_(ice_hockey,_born_1967)	isAffiliatedTo	Hartford_Whalers
+Scott_Young_(ice_hockey,_born_1967)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Jeff_Brown_(ice_hockey,_born_1966)	isAffiliatedTo	St._Louis_Blues
+Jeff_Brown_(ice_hockey,_born_1966)	isAffiliatedTo	St._Louis_Blues
+Jeff_Brown_(ice_hockey,_born_1966)	isAffiliatedTo	Hartford_Whalers
+Jeff_Brown_(ice_hockey,_born_1966)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Lee_Norwood	isAffiliatedTo	St._Louis_Blues
+Lee_Norwood	isAffiliatedTo	St._Louis_Blues
+Lee_Norwood	isAffiliatedTo	Hartford_Whalers
+Lee_Norwood	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Manny_Legace	isAffiliatedTo	St._Louis_Blues
+Manny_Legace	isAffiliatedTo	St._Louis_Blues
+Manny_Legace	isAffiliatedTo	Hartford_Whalers
+Manny_Legace	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Darren_Turcotte	isAffiliatedTo	St._Louis_Blues
+Darren_Turcotte	isAffiliatedTo	St._Louis_Blues
+Darren_Turcotte	isAffiliatedTo	Hartford_Whalers
+Darren_Turcotte	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Blake_Dunlop	isAffiliatedTo	St._Louis_Blues
+Mark_Johnson_(ice_hockey)	isAffiliatedTo	St._Louis_Blues
+Mark_Johnson_(ice_hockey)	isAffiliatedTo	St._Louis_Blues
+Mark_Johnson_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+Mark_Johnson_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Minnesota_North_Stars
+Blake_Dunlop	isAffiliatedTo	Minnesota_North_Stars
+Brian_Propp	isAffiliatedTo	Minnesota_North_Stars
+Brian_Propp	isAffiliatedTo	Minnesota_North_Stars
+Brian_Propp	isAffiliatedTo	Hartford_Whalers
+Brian_Propp	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Minnesota_North_Stars
+Blake_Dunlop	isAffiliatedTo	Minnesota_North_Stars
+Mark_Janssens	isAffiliatedTo	Minnesota_North_Stars
+Mark_Janssens	isAffiliatedTo	Minnesota_North_Stars
+Mark_Janssens	isAffiliatedTo	Hartford_Whalers
+Mark_Janssens	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Minnesota_North_Stars
+Blake_Dunlop	isAffiliatedTo	Minnesota_North_Stars
+James_Black_(ice_hockey)	isAffiliatedTo	Minnesota_North_Stars
+James_Black_(ice_hockey)	isAffiliatedTo	Minnesota_North_Stars
+James_Black_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+James_Black_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Minnesota_North_Stars
+Blake_Dunlop	isAffiliatedTo	Minnesota_North_Stars
+Mark_Johnson_(ice_hockey)	isAffiliatedTo	Minnesota_North_Stars
+Mark_Johnson_(ice_hockey)	isAffiliatedTo	Minnesota_North_Stars
+Mark_Johnson_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+Mark_Johnson_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Minnesota_North_Stars
+Blake_Dunlop	isAffiliatedTo	Minnesota_North_Stars
+Ville_Sirén	isAffiliatedTo	Minnesota_North_Stars
+Ville_Sirén	isAffiliatedTo	Minnesota_North_Stars
+Ville_Sirén	isAffiliatedTo	Hartford_Whalers
+Ville_Sirén	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Minnesota_North_Stars
+Blake_Dunlop	isAffiliatedTo	Minnesota_North_Stars
+Gordie_Roberts	isAffiliatedTo	Minnesota_North_Stars
+Gordie_Roberts	isAffiliatedTo	Minnesota_North_Stars
+Gordie_Roberts	isAffiliatedTo	Hartford_Whalers
+Gordie_Roberts	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Minnesota_North_Stars
+Blake_Dunlop	isAffiliatedTo	Minnesota_North_Stars
+Brian_Lawton	isAffiliatedTo	Minnesota_North_Stars
+Brian_Lawton	isAffiliatedTo	Minnesota_North_Stars
+Brian_Lawton	isAffiliatedTo	Hartford_Whalers
+Brian_Lawton	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Minnesota_North_Stars
+Blake_Dunlop	isAffiliatedTo	Minnesota_North_Stars
+Dave_Semenko	isAffiliatedTo	Minnesota_North_Stars
+Dave_Semenko	isAffiliatedTo	Minnesota_North_Stars
+Dave_Semenko	isAffiliatedTo	Hartford_Whalers
+Dave_Semenko	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Scott_Daniels_(ice_hockey)	isAffiliatedTo	Philadelphia_Flyers
+Scott_Daniels_(ice_hockey)	isAffiliatedTo	Philadelphia_Flyers
+Scott_Daniels_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+Scott_Daniels_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Kent_Manderville	isAffiliatedTo	Philadelphia_Flyers
+Kent_Manderville	isAffiliatedTo	Philadelphia_Flyers
+Kent_Manderville	isAffiliatedTo	Hartford_Whalers
+Kent_Manderville	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Chris_Pronger	isAffiliatedTo	Philadelphia_Flyers
+Chris_Pronger	isAffiliatedTo	Philadelphia_Flyers
+Chris_Pronger	isAffiliatedTo	Hartford_Whalers
+Chris_Pronger	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Sami_Kapanen	isAffiliatedTo	Philadelphia_Flyers
+Sami_Kapanen	isAffiliatedTo	Philadelphia_Flyers
+Sami_Kapanen	isAffiliatedTo	Hartford_Whalers
+Sami_Kapanen	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Eric_Weinrich	isAffiliatedTo	Philadelphia_Flyers
+Eric_Weinrich	isAffiliatedTo	Philadelphia_Flyers
+Eric_Weinrich	isAffiliatedTo	Hartford_Whalers
+Eric_Weinrich	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Mark_Howe	isAffiliatedTo	Philadelphia_Flyers
+Mark_Howe	isAffiliatedTo	Philadelphia_Flyers
+Mark_Howe	isAffiliatedTo	Hartford_Whalers
+Mark_Howe	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Mikael_Andersson_(ice_hockey,_born_1966)	isAffiliatedTo	Philadelphia_Flyers
+Mikael_Andersson_(ice_hockey,_born_1966)	isAffiliatedTo	Philadelphia_Flyers
+Mikael_Andersson_(ice_hockey,_born_1966)	isAffiliatedTo	Hartford_Whalers
+Mikael_Andersson_(ice_hockey,_born_1966)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Dave_Tippett	isAffiliatedTo	Philadelphia_Flyers
+Dave_Tippett	isAffiliatedTo	Philadelphia_Flyers
+Dave_Tippett	isAffiliatedTo	Hartford_Whalers
+Dave_Tippett	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Murray_Craven	isAffiliatedTo	Philadelphia_Flyers
+Murray_Craven	isAffiliatedTo	Philadelphia_Flyers
+Murray_Craven	isAffiliatedTo	Hartford_Whalers
+Murray_Craven	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Greg_Adams_(ice_hockey,_born_1960)	isAffiliatedTo	Philadelphia_Flyers
+Greg_Adams_(ice_hockey,_born_1960)	isAffiliatedTo	Philadelphia_Flyers
+Greg_Adams_(ice_hockey,_born_1960)	isAffiliatedTo	Hartford_Whalers
+Greg_Adams_(ice_hockey,_born_1960)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Geoff_Sanderson	isAffiliatedTo	Philadelphia_Flyers
+Geoff_Sanderson	isAffiliatedTo	Philadelphia_Flyers
+Geoff_Sanderson	isAffiliatedTo	Hartford_Whalers
+Geoff_Sanderson	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Ulf_Samuelsson	isAffiliatedTo	Philadelphia_Flyers
+Ulf_Samuelsson	isAffiliatedTo	Philadelphia_Flyers
+Ulf_Samuelsson	isAffiliatedTo	Hartford_Whalers
+Ulf_Samuelsson	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Zarley_Zalapski	isAffiliatedTo	Philadelphia_Flyers
+Zarley_Zalapski	isAffiliatedTo	Philadelphia_Flyers
+Zarley_Zalapski	isAffiliatedTo	Hartford_Whalers
+Zarley_Zalapski	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Gordie_Roberts	isAffiliatedTo	Philadelphia_Flyers
+Gordie_Roberts	isAffiliatedTo	Philadelphia_Flyers
+Gordie_Roberts	isAffiliatedTo	Hartford_Whalers
+Gordie_Roberts	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Kevin_Haller	isAffiliatedTo	Philadelphia_Flyers
+Kevin_Haller	isAffiliatedTo	Philadelphia_Flyers
+Kevin_Haller	isAffiliatedTo	Hartford_Whalers
+Kevin_Haller	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Jody_Hull	isAffiliatedTo	Philadelphia_Flyers
+Jody_Hull	isAffiliatedTo	Philadelphia_Flyers
+Jody_Hull	isAffiliatedTo	Hartford_Whalers
+Jody_Hull	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Kevin_Dineen	isAffiliatedTo	Philadelphia_Flyers
+Kevin_Dineen	isAffiliatedTo	Philadelphia_Flyers
+Kevin_Dineen	isAffiliatedTo	Hartford_Whalers
+Kevin_Dineen	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Sean_Burke	isAffiliatedTo	Philadelphia_Flyers
+Sean_Burke	isAffiliatedTo	Philadelphia_Flyers
+Sean_Burke	isAffiliatedTo	Hartford_Whalers
+Sean_Burke	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Rick_MacLeish	isAffiliatedTo	Philadelphia_Flyers
+Rick_MacLeish	isAffiliatedTo	Philadelphia_Flyers
+Rick_MacLeish	isAffiliatedTo	Hartford_Whalers
+Rick_MacLeish	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Keith_Primeau	isAffiliatedTo	Philadelphia_Flyers
+Keith_Primeau	isAffiliatedTo	Philadelphia_Flyers
+Keith_Primeau	isAffiliatedTo	Hartford_Whalers
+Keith_Primeau	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Paul_Coffey	isAffiliatedTo	Philadelphia_Flyers
+Paul_Coffey	isAffiliatedTo	Philadelphia_Flyers
+Paul_Coffey	isAffiliatedTo	Hartford_Whalers
+Paul_Coffey	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Brad_McCrimmon	isAffiliatedTo	Philadelphia_Flyers
+Brad_McCrimmon	isAffiliatedTo	Philadelphia_Flyers
+Brad_McCrimmon	isAffiliatedTo	Hartford_Whalers
+Brad_McCrimmon	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Paul_Ranheim	isAffiliatedTo	Philadelphia_Flyers
+Paul_Ranheim	isAffiliatedTo	Philadelphia_Flyers
+Paul_Ranheim	isAffiliatedTo	Hartford_Whalers
+Paul_Ranheim	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Brian_Propp	isAffiliatedTo	Philadelphia_Flyers
+Brian_Propp	isAffiliatedTo	Philadelphia_Flyers
+Brian_Propp	isAffiliatedTo	Hartford_Whalers
+Brian_Propp	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Blake_Dunlop	isAffiliatedTo	Philadelphia_Flyers
+Reid_Bailey	isAffiliatedTo	Philadelphia_Flyers
+Reid_Bailey	isAffiliatedTo	Philadelphia_Flyers
+Reid_Bailey	isAffiliatedTo	Hartford_Whalers
+Reid_Bailey	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Dan_Bolduc	isAffiliatedTo	Detroit_Red_Wings
+Dan_Bolduc	isAffiliatedTo	Detroit_Red_Wings
+Dan_Bolduc	isAffiliatedTo	Hartford_Whalers
+Dan_Bolduc	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Pat_Verbeek	isAffiliatedTo	Detroit_Red_Wings
+Pat_Verbeek	isAffiliatedTo	Detroit_Red_Wings
+Pat_Verbeek	isAffiliatedTo	Hartford_Whalers
+Pat_Verbeek	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Rick_MacLeish	isAffiliatedTo	Detroit_Red_Wings
+Rick_MacLeish	isAffiliatedTo	Detroit_Red_Wings
+Rick_MacLeish	isAffiliatedTo	Hartford_Whalers
+Rick_MacLeish	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Stu_Grimson	isAffiliatedTo	Detroit_Red_Wings
+Stu_Grimson	isAffiliatedTo	Detroit_Red_Wings
+Stu_Grimson	isAffiliatedTo	Hartford_Whalers
+Stu_Grimson	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Keith_Primeau	isAffiliatedTo	Detroit_Red_Wings
+Keith_Primeau	isAffiliatedTo	Detroit_Red_Wings
+Keith_Primeau	isAffiliatedTo	Hartford_Whalers
+Keith_Primeau	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Jimmy_Carson	isAffiliatedTo	Detroit_Red_Wings
+Jimmy_Carson	isAffiliatedTo	Detroit_Red_Wings
+Jimmy_Carson	isAffiliatedTo	Hartford_Whalers
+Jimmy_Carson	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Bob_McGill	isAffiliatedTo	Detroit_Red_Wings
+Bob_McGill	isAffiliatedTo	Detroit_Red_Wings
+Bob_McGill	isAffiliatedTo	Hartford_Whalers
+Bob_McGill	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Greg_Millen	isAffiliatedTo	Detroit_Red_Wings
+Greg_Millen	isAffiliatedTo	Detroit_Red_Wings
+Greg_Millen	isAffiliatedTo	Hartford_Whalers
+Greg_Millen	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Mark_Howe	isAffiliatedTo	Detroit_Red_Wings
+Mark_Howe	isAffiliatedTo	Detroit_Red_Wings
+Mark_Howe	isAffiliatedTo	Hartford_Whalers
+Mark_Howe	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Chris_Tancill	isAffiliatedTo	Detroit_Red_Wings
+Chris_Tancill	isAffiliatedTo	Detroit_Red_Wings
+Chris_Tancill	isAffiliatedTo	Hartford_Whalers
+Chris_Tancill	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Brendan_Shanahan	isAffiliatedTo	Detroit_Red_Wings
+Brendan_Shanahan	isAffiliatedTo	Detroit_Red_Wings
+Brendan_Shanahan	isAffiliatedTo	Hartford_Whalers
+Brendan_Shanahan	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Ulf_Samuelsson	isAffiliatedTo	Detroit_Red_Wings
+Ulf_Samuelsson	isAffiliatedTo	Detroit_Red_Wings
+Ulf_Samuelsson	isAffiliatedTo	Hartford_Whalers
+Ulf_Samuelsson	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Marc_Bergevin	isAffiliatedTo	Detroit_Red_Wings
+Marc_Bergevin	isAffiliatedTo	Detroit_Red_Wings
+Marc_Bergevin	isAffiliatedTo	Hartford_Whalers
+Marc_Bergevin	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Paul_Coffey	isAffiliatedTo	Detroit_Red_Wings
+Paul_Coffey	isAffiliatedTo	Detroit_Red_Wings
+Paul_Coffey	isAffiliatedTo	Hartford_Whalers
+Paul_Coffey	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Brad_McCrimmon	isAffiliatedTo	Detroit_Red_Wings
+Brad_McCrimmon	isAffiliatedTo	Detroit_Red_Wings
+Brad_McCrimmon	isAffiliatedTo	Hartford_Whalers
+Brad_McCrimmon	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Greg_Adams_(ice_hockey,_born_1960)	isAffiliatedTo	Detroit_Red_Wings
+Greg_Adams_(ice_hockey,_born_1960)	isAffiliatedTo	Detroit_Red_Wings
+Greg_Adams_(ice_hockey,_born_1960)	isAffiliatedTo	Hartford_Whalers
+Greg_Adams_(ice_hockey,_born_1960)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Murray_Craven	isAffiliatedTo	Detroit_Red_Wings
+Murray_Craven	isAffiliatedTo	Detroit_Red_Wings
+Murray_Craven	isAffiliatedTo	Hartford_Whalers
+Murray_Craven	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+John_McKenzie_(ice_hockey)	isAffiliatedTo	Detroit_Red_Wings
+John_McKenzie_(ice_hockey)	isAffiliatedTo	Detroit_Red_Wings
+John_McKenzie_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+John_McKenzie_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Doug_Houda	isAffiliatedTo	Detroit_Red_Wings
+Doug_Houda	isAffiliatedTo	Detroit_Red_Wings
+Doug_Houda	isAffiliatedTo	Hartford_Whalers
+Doug_Houda	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Lee_Norwood	isAffiliatedTo	Detroit_Red_Wings
+Lee_Norwood	isAffiliatedTo	Detroit_Red_Wings
+Lee_Norwood	isAffiliatedTo	Hartford_Whalers
+Lee_Norwood	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Steve_Chiasson	isAffiliatedTo	Detroit_Red_Wings
+Steve_Chiasson	isAffiliatedTo	Detroit_Red_Wings
+Steve_Chiasson	isAffiliatedTo	Hartford_Whalers
+Steve_Chiasson	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Marc_Potvin	isAffiliatedTo	Detroit_Red_Wings
+Marc_Potvin	isAffiliatedTo	Detroit_Red_Wings
+Marc_Potvin	isAffiliatedTo	Hartford_Whalers
+Marc_Potvin	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Tom_Webster_(ice_hockey)	isAffiliatedTo	Detroit_Red_Wings
+Tom_Webster_(ice_hockey)	isAffiliatedTo	Detroit_Red_Wings
+Tom_Webster_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+Tom_Webster_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Blake_Dunlop	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Blake_Dunlop	Hartford_Whalers
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Blake_Dunlop	isAffiliatedTo	Detroit_Red_Wings
+Manny_Legace	isAffiliatedTo	Detroit_Red_Wings
+Manny_Legace	isAffiliatedTo	Detroit_Red_Wings
+Manny_Legace	isAffiliatedTo	Hartford_Whalers
+Manny_Legace	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	EV_Landshut
+Matti_Hagman	isAffiliatedTo	EV_Landshut
+Al_Sims	isAffiliatedTo	EV_Landshut
+Al_Sims	isAffiliatedTo	EV_Landshut
+Al_Sims	isAffiliatedTo	Hartford_Whalers
+Al_Sims	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	EV_Landshut
+Matti_Hagman	isAffiliatedTo	EV_Landshut
+Dean_Evason	isAffiliatedTo	EV_Landshut
+Dean_Evason	isAffiliatedTo	EV_Landshut
+Dean_Evason	isAffiliatedTo	Hartford_Whalers
+Dean_Evason	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	EV_Landshut
+Matti_Hagman	isAffiliatedTo	EV_Landshut
+Matti_Hagman	isAffiliatedTo	EV_Landshut
+Matti_Hagman	isAffiliatedTo	EV_Landshut
+Matti_Hagman	isAffiliatedTo	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	EV_Landshut
+Matti_Hagman	isAffiliatedTo	EV_Landshut
+Scott_Young_(ice_hockey,_born_1967)	isAffiliatedTo	EV_Landshut
+Scott_Young_(ice_hockey,_born_1967)	isAffiliatedTo	EV_Landshut
+Scott_Young_(ice_hockey,_born_1967)	isAffiliatedTo	Hartford_Whalers
+Scott_Young_(ice_hockey,_born_1967)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Rick_MacLeish	isAffiliatedTo	Boston_Bruins
+Rick_MacLeish	isAffiliatedTo	Boston_Bruins
+Rick_MacLeish	isAffiliatedTo	Hartford_Whalers
+Rick_MacLeish	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Brian_Propp	isAffiliatedTo	Boston_Bruins
+Brian_Propp	isAffiliatedTo	Boston_Bruins
+Brian_Propp	isAffiliatedTo	Hartford_Whalers
+Brian_Propp	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Al_Sims	isAffiliatedTo	Boston_Bruins
+Al_Sims	isAffiliatedTo	Boston_Bruins
+Al_Sims	isAffiliatedTo	Hartford_Whalers
+Al_Sims	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Marc_Potvin	isAffiliatedTo	Boston_Bruins
+Marc_Potvin	isAffiliatedTo	Boston_Bruins
+Marc_Potvin	isAffiliatedTo	Hartford_Whalers
+Marc_Potvin	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Matti_Hagman	isAffiliatedTo	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Marty_Howe	isAffiliatedTo	Boston_Bruins
+Marty_Howe	isAffiliatedTo	Boston_Bruins
+Marty_Howe	isAffiliatedTo	Hartford_Whalers
+Marty_Howe	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Tom_Webster_(ice_hockey)	isAffiliatedTo	Boston_Bruins
+Tom_Webster_(ice_hockey)	isAffiliatedTo	Boston_Bruins
+Tom_Webster_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+Tom_Webster_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Brian_Lawton	isAffiliatedTo	Boston_Bruins
+Brian_Lawton	isAffiliatedTo	Boston_Bruins
+Brian_Lawton	isAffiliatedTo	Hartford_Whalers
+Brian_Lawton	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Eric_Weinrich	isAffiliatedTo	Boston_Bruins
+Eric_Weinrich	isAffiliatedTo	Boston_Bruins
+Eric_Weinrich	isAffiliatedTo	Hartford_Whalers
+Eric_Weinrich	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Gordie_Roberts	isAffiliatedTo	Boston_Bruins
+Gordie_Roberts	isAffiliatedTo	Boston_Bruins
+Gordie_Roberts	isAffiliatedTo	Hartford_Whalers
+Gordie_Roberts	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+John_McKenzie_(ice_hockey)	isAffiliatedTo	Boston_Bruins
+John_McKenzie_(ice_hockey)	isAffiliatedTo	Boston_Bruins
+John_McKenzie_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+John_McKenzie_(ice_hockey)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Glen_Wesley	isAffiliatedTo	Boston_Bruins
+Glen_Wesley	isAffiliatedTo	Boston_Bruins
+Glen_Wesley	isAffiliatedTo	Hartford_Whalers
+Glen_Wesley	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Mark_Howe	isAffiliatedTo	Boston_Bruins
+Mark_Howe	isAffiliatedTo	Boston_Bruins
+Mark_Howe	isAffiliatedTo	Hartford_Whalers
+Mark_Howe	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Brad_McCrimmon	isAffiliatedTo	Boston_Bruins
+Brad_McCrimmon	isAffiliatedTo	Boston_Bruins
+Brad_McCrimmon	isAffiliatedTo	Hartford_Whalers
+Brad_McCrimmon	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Michael_Nylander	isAffiliatedTo	Boston_Bruins
+Michael_Nylander	isAffiliatedTo	Boston_Bruins
+Michael_Nylander	isAffiliatedTo	Hartford_Whalers
+Michael_Nylander	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Craig_MacDonald_(ice_hockey,_born_1977)	isAffiliatedTo	Boston_Bruins
+Craig_MacDonald_(ice_hockey,_born_1977)	isAffiliatedTo	Boston_Bruins
+Craig_MacDonald_(ice_hockey,_born_1977)	isAffiliatedTo	Hartford_Whalers
+Craig_MacDonald_(ice_hockey,_born_1977)	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Matti_Hagman	isAffiliatedTo	Boston_Bruins
+Paul_Coffey	isAffiliatedTo	Boston_Bruins
+Paul_Coffey	isAffiliatedTo	Boston_Bruins
+Paul_Coffey	isAffiliatedTo	Hartford_Whalers
+Paul_Coffey	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isCitizenOf	Finland
+Matti_Hagman	isCitizenOf	Finland
+Chris_Pronger	isCitizenOf	Finland
+Chris_Pronger	isCitizenOf	Finland
+Chris_Pronger	isAffiliatedTo	Hartford_Whalers
+Chris_Pronger	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Matti_Hagman	http://dbpedia.org/ontology/whaDraftTeam	http://dbpedia.org/resource/Hartford_Whalers
+Matti_Hagman	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	Hartford_Whalers
+Matti_Hagman	isAffiliatedTo	Hartford_Whalers
+

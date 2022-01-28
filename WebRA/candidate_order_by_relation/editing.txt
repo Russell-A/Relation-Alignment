@@ -1,0 +1,185 @@
+http://dbpedia.org/resource/Melancholia_(2008_film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/Lav_Diaz
+Melancholia_(2008_film)	Lav_Diaz
+Lav_Diaz	wroteMusicFor	Melancholia_(2008_film)
+Lav_Diaz	directed	Melancholia_(2008_film)
+Lav_Diaz	created	Melancholia_(2008_film)
+Lav_Diaz	wroteMusicFor	Melancholia_(2008_film)
+Lav_Diaz	directed	Melancholia_(2008_film)
+Lav_Diaz	created	Melancholia_(2008_film)
+
+http://dbpedia.org/resource/2046_(film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/William_Chang
+2046_(film)	William_Chang
+Gong_Li	actedIn	2046_(film)
+Gong_Li	actedIn	2046_(film)
+Gong_Li	actedIn	2046_(film)
+Gong_Li	actedIn	2046_(film)
+William_Chang	edited	2046_(film)
+William_Chang	edited	2046_(film)
+
+http://dbpedia.org/resource/2046_(film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/William_Chang
+2046_(film)	William_Chang
+Carina_Lau	actedIn	2046_(film)
+Carina_Lau	actedIn	2046_(film)
+Carina_Lau	actedIn	Ashes_of_Time
+Carina_Lau	actedIn	Ashes_of_Time
+William_Chang	edited	Ashes_of_Time
+William_Chang	edited	Ashes_of_Time
+
+http://dbpedia.org/resource/2046_(film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/William_Chang
+2046_(film)	William_Chang
+Tony_Leung_Chiu-wai	actedIn	2046_(film)
+Tony_Leung_Chiu-wai	actedIn	2046_(film)
+Tony_Leung_Chiu-wai	actedIn	The_Grandmaster_(film)
+Tony_Leung_Chiu-wai	actedIn	The_Grandmaster_(film)
+William_Chang	edited	The_Grandmaster_(film)
+William_Chang	edited	The_Grandmaster_(film)
+
+http://dbpedia.org/resource/2046_(film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/William_Chang
+2046_(film)	William_Chang
+Tony_Leung_Chiu-wai	actedIn	2046_(film)
+Tony_Leung_Chiu-wai	actedIn	2046_(film)
+Tony_Leung_Chiu-wai	actedIn	Happy_Together_(1997_film)
+Tony_Leung_Chiu-wai	actedIn	Happy_Together_(1997_film)
+William_Chang	edited	Happy_Together_(1997_film)
+William_Chang	edited	Happy_Together_(1997_film)
+
+http://dbpedia.org/resource/2046_(film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/William_Chang
+2046_(film)	William_Chang
+Tony_Leung_Chiu-wai	actedIn	2046_(film)
+Tony_Leung_Chiu-wai	actedIn	2046_(film)
+Tony_Leung_Chiu-wai	actedIn	In_the_Mood_for_Love
+Tony_Leung_Chiu-wai	actedIn	In_the_Mood_for_Love
+William_Chang	edited	In_the_Mood_for_Love
+William_Chang	edited	In_the_Mood_for_Love
+
+http://dbpedia.org/resource/2046_(film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/William_Chang
+2046_(film)	William_Chang
+Maggie_Cheung	actedIn	2046_(film)
+Maggie_Cheung	actedIn	2046_(film)
+Maggie_Cheung	actedIn	As_Tears_Go_By_(film)
+Maggie_Cheung	actedIn	As_Tears_Go_By_(film)
+William_Chang	edited	As_Tears_Go_By_(film)
+William_Chang	edited	As_Tears_Go_By_(film)
+
+http://dbpedia.org/resource/2046_(film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/William_Chang
+2046_(film)	William_Chang
+Zhang_Ziyi	actedIn	2046_(film)
+Zhang_Ziyi	actedIn	2046_(film)
+Zhang_Ziyi	actedIn	The_Grandmaster_(film)
+Zhang_Ziyi	actedIn	The_Grandmaster_(film)
+William_Chang	edited	The_Grandmaster_(film)
+William_Chang	edited	The_Grandmaster_(film)
+
+http://dbpedia.org/resource/2046_(film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/William_Chang
+2046_(film)	William_Chang
+Zhang_Ziyi	actedIn	2046_(film)
+Zhang_Ziyi	actedIn	2046_(film)
+Zhang_Ziyi	actedIn	2046_(film)
+Zhang_Ziyi	actedIn	2046_(film)
+William_Chang	edited	2046_(film)
+William_Chang	edited	2046_(film)
+
+http://dbpedia.org/resource/2046_(film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/William_Chang
+2046_(film)	William_Chang
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	directed	As_Tears_Go_By_(film)
+Wong_Kar-wai	directed	As_Tears_Go_By_(film)
+William_Chang	edited	As_Tears_Go_By_(film)
+William_Chang	edited	As_Tears_Go_By_(film)
+
+http://dbpedia.org/resource/2046_(film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/William_Chang
+2046_(film)	William_Chang
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	directed	My_Blueberry_Nights
+Wong_Kar-wai	directed	My_Blueberry_Nights
+William_Chang	edited	My_Blueberry_Nights
+William_Chang	edited	My_Blueberry_Nights
+
+http://dbpedia.org/resource/2046_(film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/William_Chang
+2046_(film)	William_Chang
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	directed	2046_(film)
+William_Chang	edited	2046_(film)
+William_Chang	edited	2046_(film)
+
+http://dbpedia.org/resource/2046_(film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/William_Chang
+2046_(film)	William_Chang
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	directed	The_Grandmaster_(film)
+Wong_Kar-wai	directed	The_Grandmaster_(film)
+William_Chang	edited	The_Grandmaster_(film)
+William_Chang	edited	The_Grandmaster_(film)
+
+http://dbpedia.org/resource/2046_(film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/William_Chang
+2046_(film)	William_Chang
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	directed	In_the_Mood_for_Love
+Wong_Kar-wai	directed	In_the_Mood_for_Love
+William_Chang	edited	In_the_Mood_for_Love
+William_Chang	edited	In_the_Mood_for_Love
+
+http://dbpedia.org/resource/2046_(film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/William_Chang
+2046_(film)	William_Chang
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	created	Happy_Together_(1997_film)
+Wong_Kar-wai	created	Happy_Together_(1997_film)
+William_Chang	edited	Happy_Together_(1997_film)
+William_Chang	edited	Happy_Together_(1997_film)
+
+http://dbpedia.org/resource/2046_(film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/William_Chang
+2046_(film)	William_Chang
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	directed	2046_(film)
+Wong_Kar-wai	directed	Ashes_of_Time
+Wong_Kar-wai	directed	Ashes_of_Time
+William_Chang	edited	Ashes_of_Time
+William_Chang	edited	Ashes_of_Time
+
+http://dbpedia.org/resource/2046_(film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/William_Chang
+2046_(film)	William_Chang
+Thongchai_McIntyre	actedIn	2046_(film)
+Thongchai_McIntyre	actedIn	2046_(film)
+Thongchai_McIntyre	actedIn	2046_(film)
+Thongchai_McIntyre	actedIn	2046_(film)
+William_Chang	edited	2046_(film)
+William_Chang	edited	2046_(film)
+
+http://dbpedia.org/resource/2046_(film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/William_Chang
+2046_(film)	William_Chang
+William_Chang	edited	2046_(film)
+William_Chang	edited	2046_(film)
+
+http://dbpedia.org/resource/2046_(film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/William_Chang
+2046_(film)	William_Chang
+Shigeru_Umebayashi	wroteMusicFor	2046_(film)
+Shigeru_Umebayashi	wroteMusicFor	2046_(film)
+Shigeru_Umebayashi	wroteMusicFor	In_the_Mood_for_Love
+Shigeru_Umebayashi	wroteMusicFor	In_the_Mood_for_Love
+William_Chang	edited	In_the_Mood_for_Love
+William_Chang	edited	In_the_Mood_for_Love
+
+http://dbpedia.org/resource/2046_(film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/William_Chang
+2046_(film)	William_Chang
+Shigeru_Umebayashi	wroteMusicFor	2046_(film)
+Shigeru_Umebayashi	wroteMusicFor	2046_(film)
+Shigeru_Umebayashi	wroteMusicFor	The_Grandmaster_(film)
+Shigeru_Umebayashi	wroteMusicFor	The_Grandmaster_(film)
+William_Chang	edited	The_Grandmaster_(film)
+William_Chang	edited	The_Grandmaster_(film)
+
+http://dbpedia.org/resource/2046_(film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/William_Chang
+2046_(film)	William_Chang
+Shigeru_Umebayashi	wroteMusicFor	2046_(film)
+Shigeru_Umebayashi	wroteMusicFor	2046_(film)
+Shigeru_Umebayashi	wroteMusicFor	2046_(film)
+Shigeru_Umebayashi	wroteMusicFor	2046_(film)
+William_Chang	edited	2046_(film)
+William_Chang	edited	2046_(film)
+

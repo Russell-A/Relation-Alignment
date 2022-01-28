@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/Copa_Airlines	http://dbpedia.org/ontology/lounge	http://dbpedia.org/resource/Copa_Airlines
+Copa_Airlines	Copa_Airlines
+Copa_Airlines	owns	Copa_Airlines_Colombia
+Copa_Airlines	owns	Copa_Airlines_Colombia
+Copa_Airlines	owns	Copa_Airlines_Colombia
+Copa_Airlines	owns	Copa_Airlines_Colombia
+

@@ -1,0 +1,859 @@
+http://dbpedia.org/resource/Interstate_17	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Flagstaff,_Arizona
+Interstate_17	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Phoenix,_Arizona
+Interstate_17	isLocatedIn	Phoenix,_Arizona
+Phoenix,_Arizona	isLocatedIn	Arizona
+Arizona	hasCapital	Phoenix,_Arizona
+Phoenix,_Arizona	isLocatedIn	Arizona
+Arizona	hasCapital	Phoenix,_Arizona
+Flagstaff,_Arizona	isLocatedIn	Arizona
+Flagstaff,_Arizona	isLocatedIn	Arizona
+
+http://dbpedia.org/resource/Interstate_17	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Flagstaff,_Arizona
+Interstate_17	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Flagstaff,_Arizona
+
+http://dbpedia.org/resource/Interstate_17	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Flagstaff,_Arizona
+Interstate_17	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Interstate_10
+Interstate_17	isLocatedIn	Interstate_10
+Interstate_10	isLocatedIn	Arizona
+Interstate_10	isLocatedIn	Arizona
+Flagstaff,_Arizona	isLocatedIn	Arizona
+Flagstaff,_Arizona	isLocatedIn	Arizona
+
+http://dbpedia.org/resource/Interstate_17	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Flagstaff,_Arizona
+Interstate_17	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Interstate_10
+Interstate_17	isLocatedIn	Interstate_10
+Interstate_17	isLocatedIn	Interstate_10
+Interstate_17	isLocatedIn	Interstate_10
+Interstate_17	isLocatedIn	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Flagstaff,_Arizona
+
+http://dbpedia.org/resource/Interstate_17	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Flagstaff,_Arizona
+Interstate_17	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Arizona
+Interstate_17	isLocatedIn	Arizona
+Coconino_County,_Arizona	isLocatedIn	Arizona
+Coconino_County,_Arizona	isLocatedIn	Arizona
+Coconino_County,_Arizona	isLocatedIn	Flagstaff,_Arizona
+Flagstaff,_Arizona	isLocatedIn	Coconino_County,_Arizona
+Coconino_County,_Arizona	isLocatedIn	Flagstaff,_Arizona
+Flagstaff,_Arizona	isLocatedIn	Coconino_County,_Arizona
+
+http://dbpedia.org/resource/Interstate_17	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Flagstaff,_Arizona
+Interstate_17	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Arizona
+Interstate_17	isLocatedIn	Arizona
+Northern_Arizona_University	isLocatedIn	Arizona
+Northern_Arizona_University	isLocatedIn	Arizona
+Northern_Arizona_University	isLocatedIn	Flagstaff,_Arizona
+Northern_Arizona_University	isLocatedIn	Flagstaff,_Arizona
+
+http://dbpedia.org/resource/Interstate_17	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Flagstaff,_Arizona
+Interstate_17	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Arizona
+Interstate_17	isLocatedIn	Arizona
+Flagstaff,_Arizona	isLocatedIn	Arizona
+Flagstaff,_Arizona	isLocatedIn	Arizona
+
+http://dbpedia.org/resource/Interstate_17	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Flagstaff,_Arizona
+Interstate_17	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Interstate_40
+Interstate_17	isLocatedIn	Interstate_40
+Interstate_40	isLocatedIn	Arizona
+Interstate_40	isLocatedIn	Arizona
+Flagstaff,_Arizona	isLocatedIn	Arizona
+Flagstaff,_Arizona	isLocatedIn	Arizona
+
+http://dbpedia.org/resource/Interstate_17	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Flagstaff,_Arizona
+Interstate_17	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Interstate_40
+Interstate_17	isLocatedIn	Interstate_40
+Interstate_17	isLocatedIn	Interstate_40
+Interstate_17	isLocatedIn	Interstate_40
+Interstate_17	isLocatedIn	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Flagstaff,_Arizona
+
+http://dbpedia.org/resource/U.S._Route_4	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Portsmouth,_New_Hampshire
+U.S._Route_4	Portsmouth,_New_Hampshire
+U.S._Route_4	isLocatedIn	Portsmouth,_New_Hampshire
+U.S._Route_4	isLocatedIn	Portsmouth,_New_Hampshire
+
+http://dbpedia.org/resource/U.S._Route_4	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Portsmouth,_New_Hampshire
+U.S._Route_4	Portsmouth,_New_Hampshire
+U.S._Route_4	isLocatedIn	New_Hampshire
+U.S._Route_4	isLocatedIn	New_Hampshire
+Pease_Air_National_Guard_Base	isLocatedIn	New_Hampshire
+Pease_Air_National_Guard_Base	isLocatedIn	New_Hampshire
+Pease_Air_National_Guard_Base	isLocatedIn	Portsmouth,_New_Hampshire
+Pease_Air_National_Guard_Base	isLocatedIn	Portsmouth,_New_Hampshire
+
+http://dbpedia.org/resource/U.S._Route_4	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Portsmouth,_New_Hampshire
+U.S._Route_4	Portsmouth,_New_Hampshire
+U.S._Route_4	isLocatedIn	New_Hampshire
+U.S._Route_4	isLocatedIn	New_Hampshire
+Rockingham_County,_New_Hampshire	isLocatedIn	New_Hampshire
+Rockingham_County,_New_Hampshire	isLocatedIn	New_Hampshire
+Portsmouth,_New_Hampshire	isLocatedIn	Rockingham_County,_New_Hampshire
+Portsmouth,_New_Hampshire	isLocatedIn	Rockingham_County,_New_Hampshire
+
+http://dbpedia.org/resource/U.S._Route_4	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Portsmouth,_New_Hampshire
+U.S._Route_4	Portsmouth,_New_Hampshire
+U.S._Route_4	isLocatedIn	U.S._Route_20
+U.S._Route_4	isLocatedIn	U.S._Route_20
+U.S._Route_4	isLocatedIn	U.S._Route_20
+U.S._Route_4	isLocatedIn	U.S._Route_20
+U.S._Route_4	isLocatedIn	Portsmouth,_New_Hampshire
+U.S._Route_4	isLocatedIn	Portsmouth,_New_Hampshire
+
+http://dbpedia.org/resource/U.S._Route_4	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Portsmouth,_New_Hampshire
+U.S._Route_4	Portsmouth,_New_Hampshire
+U.S._Route_4	isLocatedIn	Interstate_95
+U.S._Route_4	isLocatedIn	Interstate_95
+U.S._Route_4	isLocatedIn	Interstate_95
+U.S._Route_4	isLocatedIn	Interstate_95
+U.S._Route_4	isLocatedIn	Portsmouth,_New_Hampshire
+U.S._Route_4	isLocatedIn	Portsmouth,_New_Hampshire
+
+http://dbpedia.org/resource/U.S._Route_4	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Portsmouth,_New_Hampshire
+U.S._Route_4	Portsmouth,_New_Hampshire
+U.S._Route_4	isLocatedIn	U.S._Route_1
+U.S._Route_4	isLocatedIn	U.S._Route_1
+U.S._Route_4	isLocatedIn	U.S._Route_1
+U.S._Route_4	isLocatedIn	U.S._Route_1
+U.S._Route_4	isLocatedIn	Portsmouth,_New_Hampshire
+U.S._Route_4	isLocatedIn	Portsmouth,_New_Hampshire
+
+http://dbpedia.org/resource/Interstate_26	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Charleston,_South_Carolina
+Interstate_26	Charleston,_South_Carolina
+Interstate_26	isLocatedIn	Kingsport,_Tennessee
+Interstate_26	isLocatedIn	Kingsport,_Tennessee
+Interstate_26	isLocatedIn	Kingsport,_Tennessee
+Interstate_26	isLocatedIn	Kingsport,_Tennessee
+Interstate_26	isLocatedIn	Charleston,_South_Carolina
+Interstate_26	isLocatedIn	Charleston,_South_Carolina
+
+http://dbpedia.org/resource/Interstate_26	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Charleston,_South_Carolina
+Interstate_26	Charleston,_South_Carolina
+Interstate_77	isLocatedIn	Interstate_26
+Interstate_77	isLocatedIn	Interstate_26
+Interstate_77	isLocatedIn	Interstate_26
+Interstate_77	isLocatedIn	Interstate_26
+Interstate_26	isLocatedIn	Charleston,_South_Carolina
+Interstate_26	isLocatedIn	Charleston,_South_Carolina
+
+http://dbpedia.org/resource/Interstate_26	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Charleston,_South_Carolina
+Interstate_26	Charleston,_South_Carolina
+Interstate_26	isLocatedIn	Johnson_City,_Tennessee
+Interstate_26	isLocatedIn	Johnson_City,_Tennessee
+Interstate_26	isLocatedIn	Johnson_City,_Tennessee
+Interstate_26	isLocatedIn	Johnson_City,_Tennessee
+Interstate_26	isLocatedIn	Charleston,_South_Carolina
+Interstate_26	isLocatedIn	Charleston,_South_Carolina
+
+http://dbpedia.org/resource/Interstate_26	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Charleston,_South_Carolina
+Interstate_26	Charleston,_South_Carolina
+Interstate_26	isLocatedIn	South_Carolina
+Interstate_26	isLocatedIn	South_Carolina
+Wade_Hampton_III	isPoliticianOf	South_Carolina
+Wade_Hampton_III	isPoliticianOf	South_Carolina
+Wade_Hampton_III	wasBornIn	Charleston,_South_Carolina
+Wade_Hampton_III	wasBornIn	Charleston,_South_Carolina
+
+http://dbpedia.org/resource/Interstate_26	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Charleston,_South_Carolina
+Interstate_26	Charleston,_South_Carolina
+Interstate_26	isLocatedIn	North_Carolina
+Interstate_26	isLocatedIn	North_Carolina
+U.S._Route_701	isLocatedIn	North_Carolina
+U.S._Route_701	isLocatedIn	North_Carolina
+U.S._Route_701	isLocatedIn	Charleston,_South_Carolina
+U.S._Route_701	isLocatedIn	Charleston,_South_Carolina
+
+http://dbpedia.org/resource/Interstate_26	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Charleston,_South_Carolina
+Interstate_26	Charleston,_South_Carolina
+Interstate_26	isLocatedIn	North_Carolina
+Interstate_26	isLocatedIn	North_Carolina
+Interstate_26	isLocatedIn	North_Carolina
+Interstate_26	isLocatedIn	North_Carolina
+Interstate_26	isLocatedIn	Charleston,_South_Carolina
+Interstate_26	isLocatedIn	Charleston,_South_Carolina
+
+http://dbpedia.org/resource/Interstate_26	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Charleston,_South_Carolina
+Interstate_26	Charleston,_South_Carolina
+Interstate_26	isLocatedIn	Charleston,_South_Carolina
+Interstate_26	isLocatedIn	Charleston,_South_Carolina
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+WrestleMania_2	happenedIn	Illinois
+WrestleMania_2	isLocatedIn	Illinois
+WrestleMania_2	happenedIn	Illinois
+WrestleMania_2	isLocatedIn	Illinois
+WrestleMania_2	isLocatedIn	Chicago
+WrestleMania_2	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+2012_in_UFC	isLocatedIn	Illinois
+2012_in_UFC	isLocatedIn	Illinois
+2012_in_UFC	isLocatedIn	Chicago
+2012_in_UFC	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+John_Marshall_Law_School_(Chicago)	isLocatedIn	Illinois
+John_Marshall_Law_School_(Chicago)	isLocatedIn	Illinois
+John_Marshall_Law_School_(Chicago)	isLocatedIn	Chicago
+John_Marshall_Law_School_(Chicago)	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Soldier_Field	isLocatedIn	Illinois
+Soldier_Field	isLocatedIn	Illinois
+Chicago	owns	Soldier_Field
+Soldier_Field	isLocatedIn	Chicago
+Chicago	owns	Soldier_Field
+Soldier_Field	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Loyola_University_Chicago_School_of_Law	isLocatedIn	Illinois
+Loyola_University_Chicago_School_of_Law	isLocatedIn	Illinois
+Loyola_University_Chicago_School_of_Law	isLocatedIn	Chicago
+Loyola_University_Chicago_School_of_Law	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Brunswick_Corporation	isLocatedIn	Illinois
+Brunswick_Corporation	isLocatedIn	Illinois
+Brunswick_Corporation	isLocatedIn	Chicago
+Brunswick_Corporation	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Monroe_Heath	livesIn	Illinois
+Monroe_Heath	livesIn	Illinois
+Monroe_Heath	livesIn	Chicago
+Monroe_Heath	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+University_of_Chicago_Law_School	isLocatedIn	Illinois
+University_of_Chicago_Law_School	isLocatedIn	Illinois
+University_of_Chicago_Law_School	isLocatedIn	Chicago
+University_of_Chicago_Law_School	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Judith_D._Sally	livesIn	Illinois
+Judith_D._Sally	livesIn	Illinois
+Judith_D._Sally	livesIn	Chicago
+Judith_D._Sally	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Rush_University	isLocatedIn	Illinois
+Rush_University	isLocatedIn	Illinois
+Rush_University	isLocatedIn	Chicago
+Rush_University	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Danny_K._Davis	livesIn	Illinois
+Danny_K._Davis	livesIn	Illinois
+Danny_K._Davis	livesIn	Chicago
+Danny_K._Davis	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Hempstead_Washburne	livesIn	Illinois
+Hempstead_Washburne	livesIn	Illinois
+Hempstead_Washburne	diedIn	Chicago
+Hempstead_Washburne	livesIn	Chicago
+Hempstead_Washburne	diedIn	Chicago
+Hempstead_Washburne	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Three_First_National_Plaza	isLocatedIn	Illinois
+Three_First_National_Plaza	isLocatedIn	Illinois
+Three_First_National_Plaza	isLocatedIn	Chicago
+Three_First_National_Plaza	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+John_T._Cacioppo	livesIn	Illinois
+John_T._Cacioppo	livesIn	Illinois
+John_T._Cacioppo	livesIn	Chicago
+John_T._Cacioppo	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+University_of_Chicago_Divinity_School	isLocatedIn	Illinois
+University_of_Chicago_Divinity_School	isLocatedIn	Illinois
+University_of_Chicago_Divinity_School	isLocatedIn	Chicago
+University_of_Chicago_Divinity_School	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+International_Harvester	isLocatedIn	Illinois
+International_Harvester	isLocatedIn	Illinois
+International_Harvester	isLocatedIn	Chicago
+International_Harvester	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Moody_Bible_Institute	isLocatedIn	Illinois
+Moody_Bible_Institute	isLocatedIn	Illinois
+Moody_Bible_Institute	isLocatedIn	Chicago
+Moody_Bible_Institute	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Big_Ten_Network	isLocatedIn	Illinois
+Big_Ten_Network	isLocatedIn	Illinois
+Big_Ten_Network	isLocatedIn	Chicago
+Big_Ten_Network	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+WWME-CD	isLocatedIn	Illinois
+WWME-CD	isLocatedIn	Illinois
+WWME-CD	isLocatedIn	Chicago
+WWME-CD	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+WCIU-TV	isLocatedIn	Illinois
+WCIU-TV	isLocatedIn	Illinois
+WCIU-TV	isLocatedIn	Chicago
+WCIU-TV	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+WCPX-TV	isLocatedIn	Illinois
+WCPX-TV	isLocatedIn	Illinois
+WCPX-TV	isLocatedIn	Chicago
+WCPX-TV	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+WXFT-DT	isLocatedIn	Illinois
+WXFT-DT	isLocatedIn	Illinois
+WXFT-DT	isLocatedIn	Chicago
+WXFT-DT	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Chicago_Bears	isLocatedIn	Illinois
+Chicago_Bears	isLocatedIn	Illinois
+Chicago_Bears	isLocatedIn	Chicago
+Chicago_Bears	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Cook_County,_Illinois	isLocatedIn	Illinois
+Cook_County,_Illinois	isLocatedIn	Illinois
+Cook_County,_Illinois	isLocatedIn	Chicago
+Chicago	isLocatedIn	Cook_County,_Illinois
+Cook_County,_Illinois	isLocatedIn	Chicago
+Chicago	isLocatedIn	Cook_County,_Illinois
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Willis_Tower	isLocatedIn	Illinois
+Willis_Tower	isLocatedIn	Illinois
+Willis_Tower	isLocatedIn	Chicago
+Willis_Tower	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Harvey_Doolittle_Colvin	livesIn	Illinois
+Harvey_Doolittle_Colvin	livesIn	Illinois
+Harvey_Doolittle_Colvin	livesIn	Chicago
+Harvey_Doolittle_Colvin	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Chicago_Blackhawks	isLocatedIn	Illinois
+Chicago_Blackhawks	isLocatedIn	Illinois
+Chicago_Blackhawks	isLocatedIn	Chicago
+Chicago_Blackhawks	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+311_South_Wacker_Drive	isLocatedIn	Illinois
+311_South_Wacker_Drive	isLocatedIn	Illinois
+311_South_Wacker_Drive	isLocatedIn	Chicago
+311_South_Wacker_Drive	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Cushman_&_Wakefield	isLocatedIn	Illinois
+Cushman_&_Wakefield	isLocatedIn	Illinois
+Cushman_&_Wakefield	isLocatedIn	Chicago
+Cushman_&_Wakefield	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Grant_DePorter	livesIn	Illinois
+Grant_DePorter	livesIn	Illinois
+Grant_DePorter	livesIn	Chicago
+Grant_DePorter	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+John_Bachtell	livesIn	Illinois
+John_Bachtell	livesIn	Illinois
+John_Bachtell	livesIn	Chicago
+John_Bachtell	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Greg_Harris_(Illinois_politician)	livesIn	Illinois
+Greg_Harris_(Illinois_politician)	livesIn	Illinois
+Greg_Harris_(Illinois_politician)	livesIn	Chicago
+Greg_Harris_(Illinois_politician)	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Chicago_Enforcers	isLocatedIn	Illinois
+Chicago_Enforcers	isLocatedIn	Illinois
+Chicago_Enforcers	isLocatedIn	Chicago
+Chicago_Enforcers	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Chicago_Bulls	isLocatedIn	Illinois
+Chicago_Bulls	isLocatedIn	Illinois
+Chicago_Bulls	isLocatedIn	Chicago
+Chicago_Bulls	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Don_Lincoln	livesIn	Illinois
+Don_Lincoln	livesIn	Illinois
+Don_Lincoln	livesIn	Chicago
+Don_Lincoln	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+United_Airlines	isLocatedIn	Illinois
+United_Airlines	isLocatedIn	Illinois
+United_Airlines	isLocatedIn	Chicago
+United_Airlines	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Wrigley_Field	isLocatedIn	Illinois
+Wrigley_Field	isLocatedIn	Illinois
+Wrigley_Field	isLocatedIn	Chicago
+Wrigley_Field	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+WBBM_(AM)	isLocatedIn	Illinois
+WBBM_(AM)	isLocatedIn	Illinois
+WBBM_(AM)	isLocatedIn	Chicago
+WBBM_(AM)	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Mark_Hanson	livesIn	Illinois
+Mark_Hanson	livesIn	Illinois
+Mark_Hanson	livesIn	Chicago
+Mark_Hanson	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Chicago
+321_North_Clark	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+WMAQ-TV	isLocatedIn	Illinois
+WMAQ-TV	isLocatedIn	Illinois
+WMAQ-TV	isLocatedIn	Chicago
+WMAQ-TV	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Sarfaraz_K._Niazi	livesIn	Illinois
+Sarfaraz_K._Niazi	livesIn	Illinois
+Sarfaraz_K._Niazi	livesIn	Chicago
+Sarfaraz_K._Niazi	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+United_Express	isLocatedIn	Illinois
+United_Express	isLocatedIn	Illinois
+United_Express	isLocatedIn	Chicago
+United_Express	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Kellogg_School_of_Management	isLocatedIn	Illinois
+Kellogg_School_of_Management	isLocatedIn	Illinois
+Kellogg_School_of_Management	isLocatedIn	Chicago
+Kellogg_School_of_Management	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Extreme_Rules_(2012)	isLocatedIn	Illinois
+Extreme_Rules_(2012)	isLocatedIn	Illinois
+Extreme_Rules_(2012)	isLocatedIn	Chicago
+Extreme_Rules_(2012)	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Interstate_57	isLocatedIn	Illinois
+Interstate_57	isLocatedIn	Illinois
+Interstate_57	isLocatedIn	Chicago
+Interstate_57	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Fred_Donner	livesIn	Illinois
+Fred_Donner	livesIn	Illinois
+Fred_Donner	livesIn	Chicago
+Fred_Donner	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Checker_Records	isLocatedIn	Illinois
+Checker_Records	isLocatedIn	Illinois
+Checker_Records	isLocatedIn	Chicago
+Checker_Records	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Fred_A._Busse	livesIn	Illinois
+Fred_A._Busse	livesIn	Illinois
+Fred_A._Busse	diedIn	Chicago
+Fred_A._Busse	livesIn	Chicago
+Fred_A._Busse	wasBornIn	Chicago
+Fred_A._Busse	diedIn	Chicago
+Fred_A._Busse	livesIn	Chicago
+Fred_A._Busse	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+Franklin_Center_(Chicago)	isLocatedIn	Chicago
+Franklin_Center_(Chicago)	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+WrestleMania_22	isLocatedIn	Illinois
+WrestleMania_22	isLocatedIn	Illinois
+WrestleMania_22	isLocatedIn	Chicago
+WrestleMania_22	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+United_Center	isLocatedIn	Illinois
+United_Center	isLocatedIn	Illinois
+United_Center	isLocatedIn	Chicago
+United_Center	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Henry_Horner	isPoliticianOf	Illinois
+Henry_Horner	isPoliticianOf	Illinois
+Henry_Horner	wasBornIn	Chicago
+Henry_Horner	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+EyeOpener_(U.S._TV_program)	isLocatedIn	Illinois
+EyeOpener_(U.S._TV_program)	isLocatedIn	Illinois
+EyeOpener_(U.S._TV_program)	isLocatedIn	Chicago
+EyeOpener_(U.S._TV_program)	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Harpo_Productions	isLocatedIn	Illinois
+Harpo_Productions	isLocatedIn	Illinois
+Harpo_Productions	isLocatedIn	Chicago
+Harpo_Productions	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Westwood_College	isLocatedIn	Illinois
+Westwood_College	isLocatedIn	Illinois
+Westwood_College	isLocatedIn	Chicago
+Westwood_College	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+United_Continental_Holdings	isLocatedIn	Illinois
+United_Continental_Holdings	isLocatedIn	Illinois
+United_Continental_Holdings	isLocatedIn	Chicago
+United_Continental_Holdings	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_39	isLocatedIn	Interstate_55
+Interstate_39	isLocatedIn	Interstate_55
+Interstate_39	isLocatedIn	Interstate_55
+Interstate_39	isLocatedIn	Interstate_55
+Interstate_55	isLocatedIn	Chicago
+Interstate_55	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Chicago
+Interstate_55	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	U.S._Route_41
+Interstate_55	isLocatedIn	U.S._Route_41
+Interstate_55	isLocatedIn	U.S._Route_41
+Interstate_55	isLocatedIn	U.S._Route_41
+Interstate_55	isLocatedIn	Chicago
+Interstate_55	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Interstate_10
+Interstate_55	isLocatedIn	Interstate_10
+Interstate_55	isLocatedIn	Interstate_10
+Interstate_55	isLocatedIn	Interstate_10
+Interstate_55	isLocatedIn	Chicago
+Interstate_55	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_220_(Mississippi)	isLocatedIn	Interstate_55
+Interstate_220_(Mississippi)	isLocatedIn	Interstate_55
+Interstate_220_(Mississippi)	isLocatedIn	Interstate_55
+Interstate_220_(Mississippi)	isLocatedIn	Interstate_55
+Interstate_55	isLocatedIn	Chicago
+Interstate_55	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_44	isLocatedIn	Interstate_55
+Interstate_44	isLocatedIn	Interstate_55
+Interstate_44	isLocatedIn	Interstate_55
+Interstate_44	isLocatedIn	Interstate_55
+Interstate_55	isLocatedIn	Chicago
+Interstate_55	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Arkansas
+Interstate_55	isLocatedIn	Arkansas
+Interstate_55	isLocatedIn	Arkansas
+Interstate_55	isLocatedIn	Arkansas
+Interstate_55	isLocatedIn	Chicago
+Interstate_55	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	LaPlace,_Louisiana
+Interstate_55	isLocatedIn	LaPlace,_Louisiana
+Interstate_55	isLocatedIn	LaPlace,_Louisiana
+Interstate_55	isLocatedIn	LaPlace,_Louisiana
+Interstate_55	isLocatedIn	Chicago
+Interstate_55	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Missouri
+Interstate_55	isLocatedIn	Missouri
+Interstate_55	isLocatedIn	Missouri
+Interstate_55	isLocatedIn	Missouri
+Interstate_55	isLocatedIn	Chicago
+Interstate_55	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_80	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Tybee_Island,_Georgia
+U.S._Route_80	Tybee_Island,_Georgia
+U.S._Route_80	isLocatedIn	Interstate_30
+U.S._Route_80	isLocatedIn	Interstate_30
+U.S._Route_80	isLocatedIn	Interstate_30
+U.S._Route_80	isLocatedIn	Interstate_30
+U.S._Route_80	isLocatedIn	Tybee_Island,_Georgia
+U.S._Route_80	isLocatedIn	Tybee_Island,_Georgia
+
+http://dbpedia.org/resource/U.S._Route_80	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Tybee_Island,_Georgia
+U.S._Route_80	Tybee_Island,_Georgia
+U.S._Route_79	isLocatedIn	U.S._Route_80
+U.S._Route_79	isLocatedIn	U.S._Route_80
+U.S._Route_79	isLocatedIn	U.S._Route_80
+U.S._Route_79	isLocatedIn	U.S._Route_80
+U.S._Route_80	isLocatedIn	Tybee_Island,_Georgia
+U.S._Route_80	isLocatedIn	Tybee_Island,_Georgia
+
+http://dbpedia.org/resource/U.S._Route_80	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Tybee_Island,_Georgia
+U.S._Route_80	Tybee_Island,_Georgia
+U.S._Route_80	isLocatedIn	Tybee_Island,_Georgia
+U.S._Route_80	isLocatedIn	Tybee_Island,_Georgia
+
+http://dbpedia.org/resource/U.S._Route_11	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Rouses_Point,_New_York
+U.S._Route_11	Rouses_Point,_New_York
+U.S._Route_11	isLocatedIn	Rouses_Point,_New_York
+U.S._Route_11	isLocatedIn	Rouses_Point,_New_York
+
+http://dbpedia.org/resource/U.S._Route_11	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Rouses_Point,_New_York
+U.S._Route_11	Rouses_Point,_New_York
+U.S._Route_11	isLocatedIn	U.S._Route_90
+U.S._Route_11	isLocatedIn	U.S._Route_90
+U.S._Route_11	isLocatedIn	U.S._Route_90
+U.S._Route_11	isLocatedIn	U.S._Route_90
+U.S._Route_11	isLocatedIn	Rouses_Point,_New_York
+U.S._Route_11	isLocatedIn	Rouses_Point,_New_York
+
+http://dbpedia.org/resource/U.S._Route_11	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Rouses_Point,_New_York
+U.S._Route_11	Rouses_Point,_New_York
+U.S._Route_11	isLocatedIn	Georgia_(U.S._state)
+U.S._Route_11	isLocatedIn	Georgia_(U.S._state)
+U.S._Route_11	isLocatedIn	Georgia_(U.S._state)
+U.S._Route_11	isLocatedIn	Georgia_(U.S._state)
+U.S._Route_11	isLocatedIn	Rouses_Point,_New_York
+U.S._Route_11	isLocatedIn	Rouses_Point,_New_York
+
+http://dbpedia.org/resource/U.S._Route_50	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Ocean_City,_Maryland
+U.S._Route_50	Ocean_City,_Maryland
+U.S._Route_50	isLocatedIn	Ocean_City,_Maryland
+U.S._Route_50	isLocatedIn	Ocean_City,_Maryland
+
+http://dbpedia.org/resource/U.S._Route_50	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Ocean_City,_Maryland
+U.S._Route_50	Ocean_City,_Maryland
+Baltimore–Washington_Parkway	isLocatedIn	U.S._Route_50
+Baltimore–Washington_Parkway	isLocatedIn	U.S._Route_50
+Baltimore–Washington_Parkway	isLocatedIn	U.S._Route_50
+Baltimore–Washington_Parkway	isLocatedIn	U.S._Route_50
+U.S._Route_50	isLocatedIn	Ocean_City,_Maryland
+U.S._Route_50	isLocatedIn	Ocean_City,_Maryland
+
+http://dbpedia.org/resource/U.S._Route_50	http://dbpedia.org/ontology/routeEnd	http://dbpedia.org/resource/Ocean_City,_Maryland
+U.S._Route_50	Ocean_City,_Maryland
+U.S._Route_50	isLocatedIn	Kansas
+U.S._Route_50	isLocatedIn	Kansas
+U.S._Route_50	isLocatedIn	Kansas
+U.S._Route_50	isLocatedIn	Kansas
+U.S._Route_50	isLocatedIn	Ocean_City,_Maryland
+U.S._Route_50	isLocatedIn	Ocean_City,_Maryland
+

@@ -1,0 +1,168 @@
+http://dbpedia.org/resource/Young_Andersen	http://dbpedia.org/ontology/composer	http://dbpedia.org/resource/Jacob_Groth
+Young_Andersen	Jacob_Groth
+Jacob_Groth	created	Young_Andersen
+Jacob_Groth	created	Young_Andersen
+
+http://dbpedia.org/resource/Pernikahan_Dini	http://dbpedia.org/ontology/composer	http://dbpedia.org/resource/Melly_Goeslaw
+Pernikahan_Dini	Melly_Goeslaw
+Melly_Goeslaw	created	Pernikahan_Dini
+Melly_Goeslaw	created	Pernikahan_Dini
+
+http://dbpedia.org/resource/Power_Rangers_in_Space	http://dbpedia.org/ontology/composer	http://dbpedia.org/resource/Inon_Zur
+Power_Rangers_in_Space	Inon_Zur
+Haim_Saban	created	Power_Rangers_in_Space
+Haim_Saban	created	Power_Rangers_in_Space
+Haim_Saban	created	Power_Rangers_Time_Force
+Haim_Saban	created	Power_Rangers_Time_Force
+Inon_Zur	created	Power_Rangers_Time_Force
+Inon_Zur	created	Power_Rangers_Time_Force
+
+http://dbpedia.org/resource/Power_Rangers_in_Space	http://dbpedia.org/ontology/composer	http://dbpedia.org/resource/Inon_Zur
+Power_Rangers_in_Space	Inon_Zur
+Power_Rangers_in_Space	isLocatedIn	Santa_Clarita,_California
+Power_Rangers_in_Space	isLocatedIn	Santa_Clarita,_California
+Power_Rangers_Lightspeed_Rescue	isLocatedIn	Santa_Clarita,_California
+Power_Rangers_Lightspeed_Rescue	isLocatedIn	Santa_Clarita,_California
+Inon_Zur	created	Power_Rangers_Lightspeed_Rescue
+Inon_Zur	created	Power_Rangers_Lightspeed_Rescue
+
+http://dbpedia.org/resource/Power_Rangers_in_Space	http://dbpedia.org/ontology/composer	http://dbpedia.org/resource/Inon_Zur
+Power_Rangers_in_Space	Inon_Zur
+Power_Rangers_in_Space	isLocatedIn	Santa_Clarita,_California
+Power_Rangers_in_Space	isLocatedIn	Santa_Clarita,_California
+Power_Rangers_Lost_Galaxy	isLocatedIn	Santa_Clarita,_California
+Power_Rangers_Lost_Galaxy	isLocatedIn	Santa_Clarita,_California
+Inon_Zur	created	Power_Rangers_Lost_Galaxy
+Inon_Zur	created	Power_Rangers_Lost_Galaxy
+
+http://dbpedia.org/resource/Power_Rangers_in_Space	http://dbpedia.org/ontology/composer	http://dbpedia.org/resource/Inon_Zur
+Power_Rangers_in_Space	Inon_Zur
+Power_Rangers_in_Space	isLocatedIn	Santa_Clarita,_California
+Power_Rangers_in_Space	isLocatedIn	Santa_Clarita,_California
+Power_Rangers_in_Space	isLocatedIn	Santa_Clarita,_California
+Power_Rangers_in_Space	isLocatedIn	Santa_Clarita,_California
+Inon_Zur	created	Power_Rangers_in_Space
+Inon_Zur	created	Power_Rangers_in_Space
+
+http://dbpedia.org/resource/Power_Rangers_in_Space	http://dbpedia.org/ontology/composer	http://dbpedia.org/resource/Inon_Zur
+Power_Rangers_in_Space	Inon_Zur
+Power_Rangers_in_Space	isLocatedIn	Santa_Clarita,_California
+Power_Rangers_in_Space	isLocatedIn	Santa_Clarita,_California
+Power_Rangers_Turbo	isLocatedIn	Santa_Clarita,_California
+Power_Rangers_Turbo	isLocatedIn	Santa_Clarita,_California
+Inon_Zur	created	Power_Rangers_Turbo
+Inon_Zur	created	Power_Rangers_Turbo
+
+http://dbpedia.org/resource/Power_Rangers_in_Space	http://dbpedia.org/ontology/composer	http://dbpedia.org/resource/Inon_Zur
+Power_Rangers_in_Space	Inon_Zur
+Power_Rangers_in_Space	isLocatedIn	Santa_Clarita,_California
+Power_Rangers_in_Space	isLocatedIn	Santa_Clarita,_California
+Power_Rangers_Time_Force	isLocatedIn	Santa_Clarita,_California
+Power_Rangers_Time_Force	isLocatedIn	Santa_Clarita,_California
+Inon_Zur	created	Power_Rangers_Time_Force
+Inon_Zur	created	Power_Rangers_Time_Force
+
+http://dbpedia.org/resource/Power_Rangers_in_Space	http://dbpedia.org/ontology/composer	http://dbpedia.org/resource/Inon_Zur
+Power_Rangers_in_Space	Inon_Zur
+Paul_Gordon_(musician)	created	Power_Rangers_in_Space
+Paul_Gordon_(musician)	created	Power_Rangers_in_Space
+Paul_Gordon_(musician)	created	Power_Rangers_in_Space
+Paul_Gordon_(musician)	created	Power_Rangers_in_Space
+Inon_Zur	created	Power_Rangers_in_Space
+Inon_Zur	created	Power_Rangers_in_Space
+
+http://dbpedia.org/resource/Power_Rangers_in_Space	http://dbpedia.org/ontology/composer	http://dbpedia.org/resource/Inon_Zur
+Power_Rangers_in_Space	Inon_Zur
+Paul_Gordon_(musician)	created	Power_Rangers_in_Space
+Paul_Gordon_(musician)	created	Power_Rangers_in_Space
+Paul_Gordon_(musician)	created	Power_Rangers_Turbo
+Paul_Gordon_(musician)	created	Power_Rangers_Turbo
+Inon_Zur	created	Power_Rangers_Turbo
+Inon_Zur	created	Power_Rangers_Turbo
+
+http://dbpedia.org/resource/Power_Rangers_in_Space	http://dbpedia.org/ontology/composer	http://dbpedia.org/resource/Inon_Zur
+Power_Rangers_in_Space	Inon_Zur
+Toei_Company	created	Power_Rangers_in_Space
+Toei_Company	created	Power_Rangers_in_Space
+Toei_Company	created	Power_Rangers_Lost_Galaxy
+Toei_Company	created	Power_Rangers_Lost_Galaxy
+Inon_Zur	created	Power_Rangers_Lost_Galaxy
+Inon_Zur	created	Power_Rangers_Lost_Galaxy
+
+http://dbpedia.org/resource/Power_Rangers_in_Space	http://dbpedia.org/ontology/composer	http://dbpedia.org/resource/Inon_Zur
+Power_Rangers_in_Space	Inon_Zur
+Toei_Company	created	Power_Rangers_in_Space
+Toei_Company	created	Power_Rangers_in_Space
+Toei_Company	created	Power_Rangers_Lightspeed_Rescue
+Toei_Company	created	Power_Rangers_Lightspeed_Rescue
+Inon_Zur	created	Power_Rangers_Lightspeed_Rescue
+Inon_Zur	created	Power_Rangers_Lightspeed_Rescue
+
+http://dbpedia.org/resource/Power_Rangers_in_Space	http://dbpedia.org/ontology/composer	http://dbpedia.org/resource/Inon_Zur
+Power_Rangers_in_Space	Inon_Zur
+Toei_Company	created	Power_Rangers_in_Space
+Toei_Company	created	Power_Rangers_in_Space
+Toei_Company	created	Power_Rangers_Turbo
+Toei_Company	created	Power_Rangers_Turbo
+Inon_Zur	created	Power_Rangers_Turbo
+Inon_Zur	created	Power_Rangers_Turbo
+
+http://dbpedia.org/resource/Power_Rangers_in_Space	http://dbpedia.org/ontology/composer	http://dbpedia.org/resource/Inon_Zur
+Power_Rangers_in_Space	Inon_Zur
+Toei_Company	created	Power_Rangers_in_Space
+Toei_Company	created	Power_Rangers_in_Space
+Toei_Company	created	Power_Rangers_Time_Force
+Toei_Company	created	Power_Rangers_Time_Force
+Inon_Zur	created	Power_Rangers_Time_Force
+Inon_Zur	created	Power_Rangers_Time_Force
+
+http://dbpedia.org/resource/Power_Rangers_in_Space	http://dbpedia.org/ontology/composer	http://dbpedia.org/resource/Inon_Zur
+Power_Rangers_in_Space	Inon_Zur
+Toei_Company	created	Power_Rangers_in_Space
+Toei_Company	created	Power_Rangers_in_Space
+Toei_Company	created	Power_Rangers_in_Space
+Toei_Company	created	Power_Rangers_in_Space
+Inon_Zur	created	Power_Rangers_in_Space
+Inon_Zur	created	Power_Rangers_in_Space
+
+http://dbpedia.org/resource/Power_Rangers_in_Space	http://dbpedia.org/ontology/composer	http://dbpedia.org/resource/Inon_Zur
+Power_Rangers_in_Space	Inon_Zur
+Inon_Zur	created	Power_Rangers_in_Space
+Inon_Zur	created	Power_Rangers_in_Space
+
+http://dbpedia.org/resource/Power_Rangers_in_Space	http://dbpedia.org/ontology/composer	http://dbpedia.org/resource/Inon_Zur
+Power_Rangers_in_Space	Inon_Zur
+Shuki_Levy	created	Power_Rangers_in_Space
+Shuki_Levy	created	Power_Rangers_in_Space
+Shuki_Levy	created	Power_Rangers_Lightspeed_Rescue
+Shuki_Levy	created	Power_Rangers_Lightspeed_Rescue
+Inon_Zur	created	Power_Rangers_Lightspeed_Rescue
+Inon_Zur	created	Power_Rangers_Lightspeed_Rescue
+
+http://dbpedia.org/resource/Power_Rangers_in_Space	http://dbpedia.org/ontology/composer	http://dbpedia.org/resource/Inon_Zur
+Power_Rangers_in_Space	Inon_Zur
+Shuki_Levy	created	Power_Rangers_in_Space
+Shuki_Levy	created	Power_Rangers_in_Space
+Shuki_Levy	created	Mystic_Knights_of_Tir_Na_Nog
+Shuki_Levy	created	Mystic_Knights_of_Tir_Na_Nog
+Inon_Zur	created	Mystic_Knights_of_Tir_Na_Nog
+Inon_Zur	created	Mystic_Knights_of_Tir_Na_Nog
+
+http://dbpedia.org/resource/Power_Rangers_in_Space	http://dbpedia.org/ontology/composer	http://dbpedia.org/resource/Inon_Zur
+Power_Rangers_in_Space	Inon_Zur
+Shuki_Levy	created	Power_Rangers_in_Space
+Shuki_Levy	created	Power_Rangers_in_Space
+Shuki_Levy	created	Power_Rangers_in_Space
+Shuki_Levy	created	Power_Rangers_in_Space
+Inon_Zur	created	Power_Rangers_in_Space
+Inon_Zur	created	Power_Rangers_in_Space
+
+http://dbpedia.org/resource/Power_Rangers_in_Space	http://dbpedia.org/ontology/composer	http://dbpedia.org/resource/Inon_Zur
+Power_Rangers_in_Space	Inon_Zur
+Shuki_Levy	created	Power_Rangers_in_Space
+Shuki_Levy	created	Power_Rangers_in_Space
+Shuki_Levy	created	Power_Rangers_Time_Force
+Shuki_Levy	created	Power_Rangers_Time_Force
+Inon_Zur	created	Power_Rangers_Time_Force
+Inon_Zur	created	Power_Rangers_Time_Force
+

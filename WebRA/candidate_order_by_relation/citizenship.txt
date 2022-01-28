@@ -1,0 +1,2313 @@
+http://dbpedia.org/resource/Messoud_Efendiev	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Azerbaijan_Soviet_Socialist_Republic
+Messoud_Efendiev	Azerbaijan_Soviet_Socialist_Republic
+Messoud_Efendiev	isCitizenOf	Azerbaijan_Soviet_Socialist_Republic
+Messoud_Efendiev	isCitizenOf	Azerbaijan_Soviet_Socialist_Republic
+
+http://dbpedia.org/resource/Messoud_Efendiev	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Azerbaijan_Soviet_Socialist_Republic
+Messoud_Efendiev	Azerbaijan_Soviet_Socialist_Republic
+Messoud_Efendiev	wasBornIn	Zaqatala_(city)
+Messoud_Efendiev	wasBornIn	Zaqatala_(city)
+Messoud_Efendiev	wasBornIn	Zaqatala_(city)
+Messoud_Efendiev	wasBornIn	Zaqatala_(city)
+Messoud_Efendiev	isCitizenOf	Azerbaijan_Soviet_Socialist_Republic
+Messoud_Efendiev	isCitizenOf	Azerbaijan_Soviet_Socialist_Republic
+
+http://dbpedia.org/resource/Messoud_Efendiev	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Azerbaijan_Soviet_Socialist_Republic
+Messoud_Efendiev	Azerbaijan_Soviet_Socialist_Republic
+Messoud_Efendiev	isCitizenOf	Azerbaijan
+Messoud_Efendiev	isCitizenOf	Azerbaijan
+Messoud_Efendiev	isCitizenOf	Azerbaijan
+Messoud_Efendiev	isCitizenOf	Azerbaijan
+Messoud_Efendiev	isCitizenOf	Azerbaijan_Soviet_Socialist_Republic
+Messoud_Efendiev	isCitizenOf	Azerbaijan_Soviet_Socialist_Republic
+
+http://dbpedia.org/resource/Michael_Shirima	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Tanzania
+Michael_Shirima	Tanzania
+Michael_Shirima	livesIn	Tanzania
+Michael_Shirima	wasBornIn	Tanzania
+Michael_Shirima	isCitizenOf	Tanzania
+Michael_Shirima	livesIn	Tanzania
+Michael_Shirima	wasBornIn	Tanzania
+Michael_Shirima	isCitizenOf	Tanzania
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	livesIn	Kenya
+Jane_Wanjiru_Michuki	isCitizenOf	Kenya
+Jane_Wanjiru_Michuki	wasBornIn	Kenya
+Jane_Wanjiru_Michuki	livesIn	Kenya
+Jane_Wanjiru_Michuki	isCitizenOf	Kenya
+Jane_Wanjiru_Michuki	wasBornIn	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Mutahi_Kagwe	graduatedFrom	University_of_Nairobi
+Mutahi_Kagwe	graduatedFrom	University_of_Nairobi
+Mutahi_Kagwe	isCitizenOf	Kenya
+Mutahi_Kagwe	isPoliticianOf	Kenya
+Mutahi_Kagwe	isCitizenOf	Kenya
+Mutahi_Kagwe	isPoliticianOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Kembi_Gitura	graduatedFrom	University_of_Nairobi
+Kembi_Gitura	graduatedFrom	University_of_Nairobi
+Kembi_Gitura	isCitizenOf	Kenya
+Kembi_Gitura	isCitizenOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Musalia_Mudavadi	graduatedFrom	University_of_Nairobi
+Musalia_Mudavadi	graduatedFrom	University_of_Nairobi
+Musalia_Mudavadi	isCitizenOf	Kenya
+Musalia_Mudavadi	isPoliticianOf	Kenya
+Musalia_Mudavadi	isCitizenOf	Kenya
+Musalia_Mudavadi	isPoliticianOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Willy_Mutunga	graduatedFrom	University_of_Nairobi
+Willy_Mutunga	graduatedFrom	University_of_Nairobi
+Willy_Mutunga	isCitizenOf	Kenya
+Willy_Mutunga	isCitizenOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Erastus_J._O._Mwencha	graduatedFrom	University_of_Nairobi
+Erastus_J._O._Mwencha	graduatedFrom	University_of_Nairobi
+Erastus_J._O._Mwencha	isCitizenOf	Kenya
+Erastus_J._O._Mwencha	isCitizenOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Olive_Mugenda	graduatedFrom	University_of_Nairobi
+Olive_Mugenda	graduatedFrom	University_of_Nairobi
+Olive_Mugenda	livesIn	Kenya
+Olive_Mugenda	wasBornIn	Kenya
+Olive_Mugenda	isCitizenOf	Kenya
+Olive_Mugenda	livesIn	Kenya
+Olive_Mugenda	wasBornIn	Kenya
+Olive_Mugenda	isCitizenOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Patrick_Ngugi_Njoroge	graduatedFrom	University_of_Nairobi
+Patrick_Ngugi_Njoroge	graduatedFrom	University_of_Nairobi
+Patrick_Ngugi_Njoroge	isCitizenOf	Kenya
+Patrick_Ngugi_Njoroge	wasBornIn	Kenya
+Patrick_Ngugi_Njoroge	livesIn	Kenya
+Patrick_Ngugi_Njoroge	isCitizenOf	Kenya
+Patrick_Ngugi_Njoroge	wasBornIn	Kenya
+Patrick_Ngugi_Njoroge	livesIn	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Henry_Rotich	graduatedFrom	University_of_Nairobi
+Henry_Rotich	graduatedFrom	University_of_Nairobi
+Henry_Rotich	isCitizenOf	Kenya
+Henry_Rotich	isCitizenOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Avril_(singer)	graduatedFrom	University_of_Nairobi
+Avril_(singer)	graduatedFrom	University_of_Nairobi
+Avril_(singer)	isCitizenOf	Kenya
+Avril_(singer)	isCitizenOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+James_Mwangi	graduatedFrom	University_of_Nairobi
+James_Mwangi	graduatedFrom	University_of_Nairobi
+James_Mwangi	isCitizenOf	Kenya
+James_Mwangi	isCitizenOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Wangari_Maathai	graduatedFrom	University_of_Nairobi
+Wangari_Maathai	graduatedFrom	University_of_Nairobi
+Wangari_Maathai	isCitizenOf	Kenya
+Wangari_Maathai	isCitizenOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+University_of_Nairobi	isLocatedIn	Kenya
+University_of_Nairobi	isLocatedIn	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Kinoti_Gatobu	graduatedFrom	University_of_Nairobi
+Kinoti_Gatobu	graduatedFrom	University_of_Nairobi
+Kinoti_Gatobu	isCitizenOf	Kenya
+Kinoti_Gatobu	wasBornIn	Kenya
+Kinoti_Gatobu	isCitizenOf	Kenya
+Kinoti_Gatobu	wasBornIn	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Kenneth_Marende	graduatedFrom	University_of_Nairobi
+Kenneth_Marende	graduatedFrom	University_of_Nairobi
+Kenneth_Marende	isCitizenOf	Kenya
+Kenneth_Marende	isCitizenOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Benson_Wairegi	graduatedFrom	University_of_Nairobi
+Benson_Wairegi	graduatedFrom	University_of_Nairobi
+Benson_Wairegi	isCitizenOf	Kenya
+Benson_Wairegi	isCitizenOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Adan_Mohammed	graduatedFrom	University_of_Nairobi
+Adan_Mohammed	graduatedFrom	University_of_Nairobi
+Adan_Mohammed	isCitizenOf	Kenya
+Adan_Mohammed	isCitizenOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+William_Ruto	graduatedFrom	University_of_Nairobi
+William_Ruto	graduatedFrom	University_of_Nairobi
+William_Ruto	isLeaderOf	Kenya
+William_Ruto	isCitizenOf	Kenya
+William_Ruto	isPoliticianOf	Kenya
+William_Ruto	isLeaderOf	Kenya
+William_Ruto	isCitizenOf	Kenya
+William_Ruto	isPoliticianOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Wycliffe_Oparanya	graduatedFrom	University_of_Nairobi
+Wycliffe_Oparanya	graduatedFrom	University_of_Nairobi
+Wycliffe_Oparanya	isPoliticianOf	Kenya
+Wycliffe_Oparanya	isCitizenOf	Kenya
+Wycliffe_Oparanya	isPoliticianOf	Kenya
+Wycliffe_Oparanya	isCitizenOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	livesIn	Kenya
+Jane_Wanjiru_Michuki	isCitizenOf	Kenya
+Jane_Wanjiru_Michuki	wasBornIn	Kenya
+Jane_Wanjiru_Michuki	livesIn	Kenya
+Jane_Wanjiru_Michuki	isCitizenOf	Kenya
+Jane_Wanjiru_Michuki	wasBornIn	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Wanjiku_Mugane	graduatedFrom	University_of_Nairobi
+Wanjiku_Mugane	graduatedFrom	University_of_Nairobi
+Wanjiku_Mugane	livesIn	Kenya
+Wanjiku_Mugane	wasBornIn	Kenya
+Wanjiku_Mugane	isCitizenOf	Kenya
+Wanjiku_Mugane	livesIn	Kenya
+Wanjiku_Mugane	wasBornIn	Kenya
+Wanjiku_Mugane	isCitizenOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Githu_Muigai	graduatedFrom	University_of_Nairobi
+Githu_Muigai	graduatedFrom	University_of_Nairobi
+Githu_Muigai	isLeaderOf	Kenya
+Githu_Muigai	isCitizenOf	Kenya
+Githu_Muigai	isLeaderOf	Kenya
+Githu_Muigai	isCitizenOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Peter_Kenneth	graduatedFrom	University_of_Nairobi
+Peter_Kenneth	graduatedFrom	University_of_Nairobi
+Peter_Kenneth	isCitizenOf	Kenya
+Peter_Kenneth	isCitizenOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Ekwee_Ethuro	graduatedFrom	University_of_Nairobi
+Ekwee_Ethuro	graduatedFrom	University_of_Nairobi
+Ekwee_Ethuro	isCitizenOf	Kenya
+Ekwee_Ethuro	isLeaderOf	Kenya
+Ekwee_Ethuro	isCitizenOf	Kenya
+Ekwee_Ethuro	isLeaderOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Joseph_Ole_Lenku	graduatedFrom	University_of_Nairobi
+Joseph_Ole_Lenku	graduatedFrom	University_of_Nairobi
+Joseph_Ole_Lenku	isCitizenOf	Kenya
+Joseph_Ole_Lenku	isPoliticianOf	Kenya
+Joseph_Ole_Lenku	isCitizenOf	Kenya
+Joseph_Ole_Lenku	isPoliticianOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Evans_Kidero	graduatedFrom	University_of_Nairobi
+Evans_Kidero	graduatedFrom	University_of_Nairobi
+Evans_Kidero	isCitizenOf	Kenya
+Evans_Kidero	isPoliticianOf	Kenya
+Evans_Kidero	isCitizenOf	Kenya
+Evans_Kidero	isPoliticianOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Cornel_Rasanga_Amoth	graduatedFrom	University_of_Nairobi
+Cornel_Rasanga_Amoth	graduatedFrom	University_of_Nairobi
+Cornel_Rasanga_Amoth	isPoliticianOf	Kenya
+Cornel_Rasanga_Amoth	isCitizenOf	Kenya
+Cornel_Rasanga_Amoth	isPoliticianOf	Kenya
+Cornel_Rasanga_Amoth	isCitizenOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Justin_Muturi	graduatedFrom	University_of_Nairobi
+Justin_Muturi	graduatedFrom	University_of_Nairobi
+Justin_Muturi	isLeaderOf	Kenya
+Justin_Muturi	isCitizenOf	Kenya
+Justin_Muturi	isLeaderOf	Kenya
+Justin_Muturi	isCitizenOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Kizito_Osore_Wangalwa	graduatedFrom	University_of_Nairobi
+Kizito_Osore_Wangalwa	graduatedFrom	University_of_Nairobi
+Kizito_Osore_Wangalwa	isCitizenOf	Kenya
+Kizito_Osore_Wangalwa	isCitizenOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Peter_Munya	graduatedFrom	University_of_Nairobi
+Peter_Munya	graduatedFrom	University_of_Nairobi
+Peter_Munya	isPoliticianOf	Kenya
+Peter_Munya	isCitizenOf	Kenya
+Peter_Munya	isPoliticianOf	Kenya
+Peter_Munya	isCitizenOf	Kenya
+
+http://dbpedia.org/resource/Jane_Wanjiru_Michuki	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Jane_Wanjiru_Michuki	Kenya
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Jane_Wanjiru_Michuki	graduatedFrom	University_of_Nairobi
+Njuguna_Ndung'u	graduatedFrom	University_of_Nairobi
+Njuguna_Ndung'u	graduatedFrom	University_of_Nairobi
+Njuguna_Ndung'u	isCitizenOf	Kenya
+Njuguna_Ndung'u	wasBornIn	Kenya
+Njuguna_Ndung'u	isCitizenOf	Kenya
+Njuguna_Ndung'u	wasBornIn	Kenya
+
+http://dbpedia.org/resource/Kristína_Royová	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Austria-Hungary
+Kristína_Royová	Austria-Hungary
+Kristína_Royová	wasBornIn	Stará_Turá
+Kristína_Royová	diedIn	Stará_Turá
+Kristína_Royová	wasBornIn	Stará_Turá
+Kristína_Royová	diedIn	Stará_Turá
+Kristína_Royová	wasBornIn	Stará_Turá
+Kristína_Royová	diedIn	Stará_Turá
+Kristína_Royová	wasBornIn	Stará_Turá
+Kristína_Royová	diedIn	Stará_Turá
+Kristína_Royová	isCitizenOf	Austria-Hungary
+Kristína_Royová	isCitizenOf	Austria-Hungary
+
+http://dbpedia.org/resource/Kristína_Royová	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Austria-Hungary
+Kristína_Royová	Austria-Hungary
+Kristína_Royová	wasBornIn	Stará_Turá
+Kristína_Royová	diedIn	Stará_Turá
+Kristína_Royová	wasBornIn	Stará_Turá
+Kristína_Royová	diedIn	Stará_Turá
+Jozef_Roháček	wasBornIn	Stará_Turá
+Jozef_Roháček	wasBornIn	Stará_Turá
+Jozef_Roháček	isCitizenOf	Austria-Hungary
+Jozef_Roháček	isCitizenOf	Austria-Hungary
+
+http://dbpedia.org/resource/Kristína_Royová	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Austria-Hungary
+Kristína_Royová	Austria-Hungary
+Kristína_Royová	isCitizenOf	Austria-Hungary
+Kristína_Royová	isCitizenOf	Austria-Hungary
+
+http://dbpedia.org/resource/Debrework_Zewdie	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Ethiopia
+Debrework_Zewdie	Ethiopia
+Debrework_Zewdie	worksAt	World_Bank
+Debrework_Zewdie	worksAt	World_Bank
+Debrework_Zewdie	worksAt	World_Bank
+Debrework_Zewdie	worksAt	World_Bank
+Debrework_Zewdie	isCitizenOf	Ethiopia
+Debrework_Zewdie	isCitizenOf	Ethiopia
+
+http://dbpedia.org/resource/Debrework_Zewdie	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Ethiopia
+Debrework_Zewdie	Ethiopia
+Debrework_Zewdie	isCitizenOf	Ethiopia
+Debrework_Zewdie	isCitizenOf	Ethiopia
+
+http://dbpedia.org/resource/Debrework_Zewdie	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Ethiopia
+Debrework_Zewdie	Ethiopia
+Debrework_Zewdie	graduatedFrom	Addis_Ababa_University
+Debrework_Zewdie	graduatedFrom	Addis_Ababa_University
+Zeresenay_Alemseged	graduatedFrom	Addis_Ababa_University
+Zeresenay_Alemseged	graduatedFrom	Addis_Ababa_University
+Zeresenay_Alemseged	isCitizenOf	Ethiopia
+Zeresenay_Alemseged	isCitizenOf	Ethiopia
+
+http://dbpedia.org/resource/Debrework_Zewdie	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Ethiopia
+Debrework_Zewdie	Ethiopia
+Debrework_Zewdie	graduatedFrom	Addis_Ababa_University
+Debrework_Zewdie	graduatedFrom	Addis_Ababa_University
+Addis_Ababa_University	isLocatedIn	Ethiopia
+Addis_Ababa_University	isLocatedIn	Ethiopia
+
+http://dbpedia.org/resource/Debrework_Zewdie	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Ethiopia
+Debrework_Zewdie	Ethiopia
+Debrework_Zewdie	graduatedFrom	Addis_Ababa_University
+Debrework_Zewdie	graduatedFrom	Addis_Ababa_University
+Birtukan_Mideksa	graduatedFrom	Addis_Ababa_University
+Birtukan_Mideksa	graduatedFrom	Addis_Ababa_University
+Birtukan_Mideksa	isCitizenOf	Ethiopia
+Birtukan_Mideksa	isCitizenOf	Ethiopia
+
+http://dbpedia.org/resource/Debrework_Zewdie	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Ethiopia
+Debrework_Zewdie	Ethiopia
+Debrework_Zewdie	graduatedFrom	Addis_Ababa_University
+Debrework_Zewdie	graduatedFrom	Addis_Ababa_University
+Merera_Gudina	graduatedFrom	Addis_Ababa_University
+Merera_Gudina	graduatedFrom	Addis_Ababa_University
+Merera_Gudina	isCitizenOf	Ethiopia
+Merera_Gudina	isCitizenOf	Ethiopia
+
+http://dbpedia.org/resource/Debrework_Zewdie	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Ethiopia
+Debrework_Zewdie	Ethiopia
+Debrework_Zewdie	graduatedFrom	Addis_Ababa_University
+Debrework_Zewdie	graduatedFrom	Addis_Ababa_University
+Beyene_Petros	graduatedFrom	Addis_Ababa_University
+Beyene_Petros	graduatedFrom	Addis_Ababa_University
+Beyene_Petros	isCitizenOf	Ethiopia
+Beyene_Petros	isCitizenOf	Ethiopia
+
+http://dbpedia.org/resource/Debrework_Zewdie	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Ethiopia
+Debrework_Zewdie	Ethiopia
+Debrework_Zewdie	graduatedFrom	Addis_Ababa_University
+Debrework_Zewdie	graduatedFrom	Addis_Ababa_University
+Hailemariam_Desalegn	graduatedFrom	Addis_Ababa_University
+Hailemariam_Desalegn	graduatedFrom	Addis_Ababa_University
+Hailemariam_Desalegn	isLeaderOf	Ethiopia
+Hailemariam_Desalegn	isPoliticianOf	Ethiopia
+Hailemariam_Desalegn	isCitizenOf	Ethiopia
+Hailemariam_Desalegn	isLeaderOf	Ethiopia
+Hailemariam_Desalegn	isPoliticianOf	Ethiopia
+Hailemariam_Desalegn	isCitizenOf	Ethiopia
+
+http://dbpedia.org/resource/Debrework_Zewdie	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Ethiopia
+Debrework_Zewdie	Ethiopia
+Debrework_Zewdie	graduatedFrom	Addis_Ababa_University
+Debrework_Zewdie	graduatedFrom	Addis_Ababa_University
+Sophia_Yilma	graduatedFrom	Addis_Ababa_University
+Sophia_Yilma	graduatedFrom	Addis_Ababa_University
+Sophia_Yilma	isCitizenOf	Ethiopia
+Sophia_Yilma	isCitizenOf	Ethiopia
+
+http://dbpedia.org/resource/Debrework_Zewdie	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Ethiopia
+Debrework_Zewdie	Ethiopia
+Debrework_Zewdie	graduatedFrom	Addis_Ababa_University
+Debrework_Zewdie	graduatedFrom	Addis_Ababa_University
+Debrework_Zewdie	graduatedFrom	Addis_Ababa_University
+Debrework_Zewdie	graduatedFrom	Addis_Ababa_University
+Debrework_Zewdie	isCitizenOf	Ethiopia
+Debrework_Zewdie	isCitizenOf	Ethiopia
+
+http://dbpedia.org/resource/Debrework_Zewdie	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Ethiopia
+Debrework_Zewdie	Ethiopia
+Debrework_Zewdie	graduatedFrom	Addis_Ababa_University
+Debrework_Zewdie	graduatedFrom	Addis_Ababa_University
+Debretsion_Gebremichael	graduatedFrom	Addis_Ababa_University
+Debretsion_Gebremichael	graduatedFrom	Addis_Ababa_University
+Debretsion_Gebremichael	isPoliticianOf	Ethiopia
+Debretsion_Gebremichael	isCitizenOf	Ethiopia
+Debretsion_Gebremichael	isPoliticianOf	Ethiopia
+Debretsion_Gebremichael	isCitizenOf	Ethiopia
+
+http://dbpedia.org/resource/Debrework_Zewdie	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Ethiopia
+Debrework_Zewdie	Ethiopia
+Debrework_Zewdie	graduatedFrom	Addis_Ababa_University
+Debrework_Zewdie	graduatedFrom	Addis_Ababa_University
+Demeke_Mekonnen	graduatedFrom	Addis_Ababa_University
+Demeke_Mekonnen	graduatedFrom	Addis_Ababa_University
+Demeke_Mekonnen	isPoliticianOf	Ethiopia
+Demeke_Mekonnen	isCitizenOf	Ethiopia
+Demeke_Mekonnen	isPoliticianOf	Ethiopia
+Demeke_Mekonnen	isCitizenOf	Ethiopia
+
+http://dbpedia.org/resource/Debrework_Zewdie	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Ethiopia
+Debrework_Zewdie	Ethiopia
+Debrework_Zewdie	wasBornIn	Harar
+Debrework_Zewdie	wasBornIn	Harar
+Debrework_Zewdie	wasBornIn	Harar
+Debrework_Zewdie	wasBornIn	Harar
+Debrework_Zewdie	isCitizenOf	Ethiopia
+Debrework_Zewdie	isCitizenOf	Ethiopia
+
+http://dbpedia.org/resource/Debrework_Zewdie	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Ethiopia
+Debrework_Zewdie	Ethiopia
+Debrework_Zewdie	wasBornIn	Harar
+Debrework_Zewdie	wasBornIn	Harar
+Harar	isLocatedIn	Ethiopia
+Harar	isLocatedIn	Ethiopia
+
+http://dbpedia.org/resource/Debrework_Zewdie	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Ethiopia
+Debrework_Zewdie	Ethiopia
+Debrework_Zewdie	wasBornIn	Harar
+Debrework_Zewdie	wasBornIn	Harar
+Princess_Tenagnework	wasBornIn	Harar
+Princess_Tenagnework	wasBornIn	Harar
+Princess_Tenagnework	isCitizenOf	Ethiopia
+Princess_Tenagnework	isCitizenOf	Ethiopia
+
+http://dbpedia.org/resource/José_do_Canto	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+José_do_Canto	Portugal
+José_do_Canto	wasBornIn	Ponta_Delgada
+José_do_Canto	livesIn	Ponta_Delgada
+José_do_Canto	diedIn	Ponta_Delgada
+José_do_Canto	wasBornIn	Ponta_Delgada
+José_do_Canto	livesIn	Ponta_Delgada
+José_do_Canto	diedIn	Ponta_Delgada
+Berta_Cabral	wasBornIn	Ponta_Delgada
+Berta_Cabral	wasBornIn	Ponta_Delgada
+Berta_Cabral	isCitizenOf	Portugal
+Berta_Cabral	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/José_do_Canto	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+José_do_Canto	Portugal
+José_do_Canto	wasBornIn	Ponta_Delgada
+José_do_Canto	livesIn	Ponta_Delgada
+José_do_Canto	diedIn	Ponta_Delgada
+José_do_Canto	wasBornIn	Ponta_Delgada
+José_do_Canto	livesIn	Ponta_Delgada
+José_do_Canto	diedIn	Ponta_Delgada
+University_of_the_Azores	isLocatedIn	Ponta_Delgada
+University_of_the_Azores	isLocatedIn	Ponta_Delgada
+University_of_the_Azores	isLocatedIn	Portugal
+University_of_the_Azores	isLocatedIn	Portugal
+
+http://dbpedia.org/resource/José_do_Canto	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+José_do_Canto	Portugal
+José_do_Canto	wasBornIn	Ponta_Delgada
+José_do_Canto	livesIn	Ponta_Delgada
+José_do_Canto	diedIn	Ponta_Delgada
+José_do_Canto	wasBornIn	Ponta_Delgada
+José_do_Canto	livesIn	Ponta_Delgada
+José_do_Canto	diedIn	Ponta_Delgada
+Carlos_César	wasBornIn	Ponta_Delgada
+Carlos_César	wasBornIn	Ponta_Delgada
+Carlos_César	isCitizenOf	Portugal
+Carlos_César	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/José_do_Canto	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+José_do_Canto	Portugal
+José_do_Canto	graduatedFrom	University_of_Coimbra
+José_do_Canto	graduatedFrom	University_of_Coimbra
+João_Teixeira_Soares_de_Sousa	graduatedFrom	University_of_Coimbra
+João_Teixeira_Soares_de_Sousa	graduatedFrom	University_of_Coimbra
+João_Teixeira_Soares_de_Sousa	isCitizenOf	Portugal
+João_Teixeira_Soares_de_Sousa	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/José_do_Canto	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+José_do_Canto	Portugal
+José_do_Canto	graduatedFrom	University_of_Coimbra
+José_do_Canto	graduatedFrom	University_of_Coimbra
+Joaquim_Pimenta_de_Castro	graduatedFrom	University_of_Coimbra
+Joaquim_Pimenta_de_Castro	graduatedFrom	University_of_Coimbra
+Joaquim_Pimenta_de_Castro	isCitizenOf	Portugal
+Joaquim_Pimenta_de_Castro	isPoliticianOf	Portugal
+Joaquim_Pimenta_de_Castro	isCitizenOf	Portugal
+Joaquim_Pimenta_de_Castro	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/José_do_Canto	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+José_do_Canto	Portugal
+José_do_Canto	graduatedFrom	University_of_Coimbra
+José_do_Canto	graduatedFrom	University_of_Coimbra
+Domingos_Leite_Pereira	graduatedFrom	University_of_Coimbra
+Domingos_Leite_Pereira	graduatedFrom	University_of_Coimbra
+Domingos_Leite_Pereira	isPoliticianOf	Portugal
+Domingos_Leite_Pereira	isCitizenOf	Portugal
+Domingos_Leite_Pereira	isPoliticianOf	Portugal
+Domingos_Leite_Pereira	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Albert_Zerkowitz	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Austria-Hungary
+Albert_Zerkowitz	Austria-Hungary
+Albert_Zerkowitz	isCitizenOf	Austria-Hungary
+Albert_Zerkowitz	isCitizenOf	Austria-Hungary
+
+http://dbpedia.org/resource/Albert_Zerkowitz	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Austria-Hungary
+Albert_Zerkowitz	Austria-Hungary
+Albert_Zerkowitz	isCitizenOf	Hungary
+Albert_Zerkowitz	isCitizenOf	Hungary
+Theodor_Escherich	isCitizenOf	Hungary
+Theodor_Escherich	isCitizenOf	Hungary
+Theodor_Escherich	isCitizenOf	Austria-Hungary
+Theodor_Escherich	isCitizenOf	Austria-Hungary
+
+http://dbpedia.org/resource/Albert_Zerkowitz	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Austria-Hungary
+Albert_Zerkowitz	Austria-Hungary
+Albert_Zerkowitz	isCitizenOf	Hungary
+Albert_Zerkowitz	isCitizenOf	Hungary
+Albert_Szent-Györgyi	isCitizenOf	Hungary
+Albert_Szent-Györgyi	isCitizenOf	Hungary
+Albert_Szent-Györgyi	isCitizenOf	Austria-Hungary
+Albert_Szent-Györgyi	isCitizenOf	Austria-Hungary
+
+http://dbpedia.org/resource/Albert_Zerkowitz	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Austria-Hungary
+Albert_Zerkowitz	Austria-Hungary
+Albert_Zerkowitz	diedIn	Manhattan
+Albert_Zerkowitz	diedIn	Manhattan
+Albert_Zerkowitz	diedIn	Manhattan
+Albert_Zerkowitz	diedIn	Manhattan
+Albert_Zerkowitz	isCitizenOf	Austria-Hungary
+Albert_Zerkowitz	isCitizenOf	Austria-Hungary
+
+http://dbpedia.org/resource/Aage_B._Sørensen	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Aage_B._Sørensen	Denmark
+Aage_B._Sørensen	wasBornIn	Silkeborg
+Aage_B._Sørensen	wasBornIn	Silkeborg
+Kasper_Dolberg	wasBornIn	Silkeborg
+Kasper_Dolberg	wasBornIn	Silkeborg
+Kasper_Dolberg	isCitizenOf	Denmark
+Kasper_Dolberg	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Aage_B._Sørensen	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Aage_B._Sørensen	Denmark
+Aage_B._Sørensen	wasBornIn	Silkeborg
+Aage_B._Sørensen	wasBornIn	Silkeborg
+Aage_B._Sørensen	wasBornIn	Silkeborg
+Aage_B._Sørensen	wasBornIn	Silkeborg
+Aage_B._Sørensen	isCitizenOf	Denmark
+Aage_B._Sørensen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Aage_B._Sørensen	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Aage_B._Sørensen	Denmark
+Aage_B._Sørensen	wasBornIn	Silkeborg
+Aage_B._Sørensen	wasBornIn	Silkeborg
+Nocko_Joković	wasBornIn	Silkeborg
+Nocko_Joković	wasBornIn	Silkeborg
+Nocko_Joković	isCitizenOf	Denmark
+Nocko_Joković	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Aage_B._Sørensen	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Aage_B._Sørensen	Denmark
+Aage_B._Sørensen	wasBornIn	Silkeborg
+Aage_B._Sørensen	wasBornIn	Silkeborg
+Silkeborg	isLocatedIn	Denmark
+Silkeborg	isLocatedIn	Denmark
+
+http://dbpedia.org/resource/Aage_B._Sørensen	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Aage_B._Sørensen	Denmark
+Aage_B._Sørensen	wasBornIn	Silkeborg
+Aage_B._Sørensen	wasBornIn	Silkeborg
+Johannes_Fibiger	wasBornIn	Silkeborg
+Johannes_Fibiger	wasBornIn	Silkeborg
+Johannes_Fibiger	isCitizenOf	Denmark
+Johannes_Fibiger	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Aage_B._Sørensen	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Aage_B._Sørensen	Denmark
+Aage_B._Sørensen	hasAcademicAdvisor	James_Samuel_Coleman
+Aage_B._Sørensen	hasAcademicAdvisor	James_Samuel_Coleman
+Aage_B._Sørensen	hasAcademicAdvisor	James_Samuel_Coleman
+Aage_B._Sørensen	hasAcademicAdvisor	James_Samuel_Coleman
+Aage_B._Sørensen	isCitizenOf	Denmark
+Aage_B._Sørensen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Aage_B._Sørensen	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Aage_B._Sørensen	Denmark
+Aage_B._Sørensen	worksAt	University_of_Wisconsin–Madison
+Aage_B._Sørensen	worksAt	University_of_Wisconsin–Madison
+Dick_Jorgensen	graduatedFrom	University_of_Wisconsin–Madison
+Dick_Jorgensen	graduatedFrom	University_of_Wisconsin–Madison
+Dick_Jorgensen	isCitizenOf	Denmark
+Dick_Jorgensen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Aage_B._Sørensen	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Aage_B._Sørensen	Denmark
+Aage_B._Sørensen	worksAt	University_of_Wisconsin–Madison
+Aage_B._Sørensen	worksAt	University_of_Wisconsin–Madison
+Gene_Likens	graduatedFrom	University_of_Wisconsin–Madison
+Gene_Likens	graduatedFrom	University_of_Wisconsin–Madison
+Gene_Likens	isCitizenOf	Denmark
+Gene_Likens	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Aage_B._Sørensen	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Aage_B._Sørensen	Denmark
+Aage_B._Sørensen	graduatedFrom	Johns_Hopkins_University
+Aage_B._Sørensen	graduatedFrom	Johns_Hopkins_University
+Albert_Gjedde	worksAt	Johns_Hopkins_University
+Albert_Gjedde	worksAt	Johns_Hopkins_University
+Albert_Gjedde	isCitizenOf	Denmark
+Albert_Gjedde	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Aage_B._Sørensen	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Aage_B._Sørensen	Denmark
+Aage_B._Sørensen	graduatedFrom	Johns_Hopkins_University
+Aage_B._Sørensen	graduatedFrom	Johns_Hopkins_University
+Aage_B._Sørensen	graduatedFrom	Johns_Hopkins_University
+Aage_B._Sørensen	graduatedFrom	Johns_Hopkins_University
+Aage_B._Sørensen	isCitizenOf	Denmark
+Aage_B._Sørensen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Aage_B._Sørensen	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Aage_B._Sørensen	Denmark
+Aage_B._Sørensen	worksAt	Harvard_University
+Aage_B._Sørensen	worksAt	Harvard_University
+Thorkild_Jacobsen	worksAt	Harvard_University
+Thorkild_Jacobsen	worksAt	Harvard_University
+Thorkild_Jacobsen	isCitizenOf	Denmark
+Thorkild_Jacobsen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Aage_B._Sørensen	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Aage_B._Sørensen	Denmark
+Aage_B._Sørensen	isCitizenOf	Denmark
+Aage_B._Sørensen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Karl_August_Gustav_Fiebrig	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Paraguay
+Karl_August_Gustav_Fiebrig	Paraguay
+Karl_August_Gustav_Fiebrig	livesIn	Paraguay
+Karl_August_Gustav_Fiebrig	isCitizenOf	Paraguay
+Karl_August_Gustav_Fiebrig	livesIn	Paraguay
+Karl_August_Gustav_Fiebrig	isCitizenOf	Paraguay
+
+http://dbpedia.org/resource/Epeli_Hauʻofa	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Fiji
+Epeli_Hauʻofa	Fiji
+Epeli_Hauʻofa	diedIn	Suva
+Epeli_Hauʻofa	diedIn	Suva
+Fiji	hasCapital	Suva
+Suva	isLocatedIn	Fiji
+Fiji	hasCapital	Suva
+Suva	isLocatedIn	Fiji
+
+http://dbpedia.org/resource/Epeli_Hauʻofa	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Fiji
+Epeli_Hauʻofa	Fiji
+Epeli_Hauʻofa	diedIn	Suva
+Epeli_Hauʻofa	diedIn	Suva
+Kamisese_Mara	diedIn	Suva
+Kamisese_Mara	diedIn	Suva
+Kamisese_Mara	isPoliticianOf	Fiji
+Kamisese_Mara	isCitizenOf	Fiji
+Kamisese_Mara	isPoliticianOf	Fiji
+Kamisese_Mara	isCitizenOf	Fiji
+
+http://dbpedia.org/resource/Epeli_Hauʻofa	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Fiji
+Epeli_Hauʻofa	Fiji
+Epeli_Hauʻofa	isCitizenOf	Fiji
+Epeli_Hauʻofa	isCitizenOf	Fiji
+
+http://dbpedia.org/resource/Michael_Athans	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Greece
+Michael_Athans	Greece
+Jeff_S._Shamma	hasAcademicAdvisor	Michael_Athans
+Jeff_S._Shamma	hasAcademicAdvisor	Michael_Athans
+Jeff_S._Shamma	hasAcademicAdvisor	Michael_Athans
+Jeff_S._Shamma	hasAcademicAdvisor	Michael_Athans
+Michael_Athans	isCitizenOf	Greece
+Michael_Athans	isCitizenOf	Greece
+
+http://dbpedia.org/resource/Michael_Athans	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Greece
+Michael_Athans	Greece
+Michael_Athans	isCitizenOf	Greece
+Michael_Athans	isCitizenOf	Greece
+
+http://dbpedia.org/resource/Michael_Athans	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Greece
+Michael_Athans	Greece
+Michael_Athans	worksAt	Massachusetts_Institute_of_Technology
+Michael_Athans	worksAt	Massachusetts_Institute_of_Technology
+Gerasimos_Arsenis	graduatedFrom	Massachusetts_Institute_of_Technology
+Gerasimos_Arsenis	graduatedFrom	Massachusetts_Institute_of_Technology
+Gerasimos_Arsenis	isPoliticianOf	Greece
+Gerasimos_Arsenis	isCitizenOf	Greece
+Gerasimos_Arsenis	isPoliticianOf	Greece
+Gerasimos_Arsenis	isCitizenOf	Greece
+
+http://dbpedia.org/resource/Michael_Athans	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Greece
+Michael_Athans	Greece
+Michael_Athans	worksAt	Massachusetts_Institute_of_Technology
+Michael_Athans	worksAt	Massachusetts_Institute_of_Technology
+Mihalis_Dafermos	worksAt	Massachusetts_Institute_of_Technology
+Mihalis_Dafermos	worksAt	Massachusetts_Institute_of_Technology
+Mihalis_Dafermos	isCitizenOf	Greece
+Mihalis_Dafermos	isCitizenOf	Greece
+
+http://dbpedia.org/resource/Ruhila_Adatia-Sood	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Ruhila_Adatia-Sood	Kenya
+Ruhila_Adatia-Sood	isCitizenOf	Kenya
+Ruhila_Adatia-Sood	livesIn	Kenya
+Ruhila_Adatia-Sood	isCitizenOf	Kenya
+Ruhila_Adatia-Sood	livesIn	Kenya
+
+http://dbpedia.org/resource/Ruhila_Adatia-Sood	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Ruhila_Adatia-Sood	Kenya
+Ruhila_Adatia-Sood	diedIn	Nairobi
+Ruhila_Adatia-Sood	diedIn	Nairobi
+Evans_Kidero	wasBornIn	Nairobi
+Evans_Kidero	isLeaderOf	Nairobi
+Evans_Kidero	wasBornIn	Nairobi
+Evans_Kidero	isLeaderOf	Nairobi
+Evans_Kidero	isCitizenOf	Kenya
+Evans_Kidero	isPoliticianOf	Kenya
+Evans_Kidero	isCitizenOf	Kenya
+Evans_Kidero	isPoliticianOf	Kenya
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	livesIn	Denmark
+Agnete_Bræstrup	isCitizenOf	Denmark
+Agnete_Bræstrup	livesIn	Denmark
+Agnete_Bræstrup	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	graduatedFrom	University_of_Copenhagen
+Agnete_Bræstrup	graduatedFrom	University_of_Copenhagen
+Karen_Hækkerup	graduatedFrom	University_of_Copenhagen
+Karen_Hækkerup	graduatedFrom	University_of_Copenhagen
+Karen_Hækkerup	isPoliticianOf	Denmark
+Karen_Hækkerup	isCitizenOf	Denmark
+Karen_Hækkerup	isPoliticianOf	Denmark
+Karen_Hækkerup	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	graduatedFrom	University_of_Copenhagen
+Agnete_Bræstrup	graduatedFrom	University_of_Copenhagen
+Mikael_Bols	worksAt	University_of_Copenhagen
+Mikael_Bols	worksAt	University_of_Copenhagen
+Mikael_Bols	isCitizenOf	Denmark
+Mikael_Bols	livesIn	Denmark
+Mikael_Bols	isCitizenOf	Denmark
+Mikael_Bols	livesIn	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	graduatedFrom	University_of_Copenhagen
+Agnete_Bræstrup	graduatedFrom	University_of_Copenhagen
+Lars_Løkke_Rasmussen	graduatedFrom	University_of_Copenhagen
+Lars_Løkke_Rasmussen	graduatedFrom	University_of_Copenhagen
+Lars_Løkke_Rasmussen	isPoliticianOf	Denmark
+Lars_Løkke_Rasmussen	isLeaderOf	Denmark
+Lars_Løkke_Rasmussen	isCitizenOf	Denmark
+Lars_Løkke_Rasmussen	isPoliticianOf	Denmark
+Lars_Løkke_Rasmussen	isLeaderOf	Denmark
+Lars_Løkke_Rasmussen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	graduatedFrom	University_of_Copenhagen
+Agnete_Bræstrup	graduatedFrom	University_of_Copenhagen
+Sara_Olsvig	graduatedFrom	University_of_Copenhagen
+Sara_Olsvig	graduatedFrom	University_of_Copenhagen
+Sara_Olsvig	isCitizenOf	Denmark
+Sara_Olsvig	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Danisco	isLocatedIn	Copenhagen
+Danisco	isLocatedIn	Copenhagen
+Danisco	isLocatedIn	Denmark
+Danisco	isLocatedIn	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Svend_Auken	diedIn	Copenhagen
+Svend_Auken	diedIn	Copenhagen
+Svend_Auken	isCitizenOf	Denmark
+Svend_Auken	isPoliticianOf	Denmark
+Svend_Auken	isCitizenOf	Denmark
+Svend_Auken	isPoliticianOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Søren_Kierkegaard	wasBornIn	Copenhagen
+Søren_Kierkegaard	diedIn	Copenhagen
+Søren_Kierkegaard	wasBornIn	Copenhagen
+Søren_Kierkegaard	diedIn	Copenhagen
+Søren_Kierkegaard	isCitizenOf	Denmark
+Søren_Kierkegaard	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Henning_Bahs	wasBornIn	Copenhagen
+Henning_Bahs	wasBornIn	Copenhagen
+Henning_Bahs	isCitizenOf	Denmark
+Henning_Bahs	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Godthaab_Church,_Copenhagen	isLocatedIn	Copenhagen
+Godthaab_Church,_Copenhagen	isLocatedIn	Copenhagen
+Godthaab_Church,_Copenhagen	isLocatedIn	Denmark
+Godthaab_Church,_Copenhagen	isLocatedIn	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Claus_Hjort_Frederiksen	wasBornIn	Copenhagen
+Claus_Hjort_Frederiksen	wasBornIn	Copenhagen
+Claus_Hjort_Frederiksen	isPoliticianOf	Denmark
+Claus_Hjort_Frederiksen	isCitizenOf	Denmark
+Claus_Hjort_Frederiksen	isPoliticianOf	Denmark
+Claus_Hjort_Frederiksen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+John_of_Denmark_(1518–1532)	wasBornIn	Copenhagen
+John_of_Denmark_(1518–1532)	wasBornIn	Copenhagen
+John_of_Denmark_(1518–1532)	isCitizenOf	Denmark
+John_of_Denmark_(1518–1532)	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Kris_Stadsgaard	wasBornIn	Copenhagen
+Kris_Stadsgaard	wasBornIn	Copenhagen
+Kris_Stadsgaard	isCitizenOf	Denmark
+Kris_Stadsgaard	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Sven_Methling	wasBornIn	Copenhagen
+Sven_Methling	wasBornIn	Copenhagen
+Sven_Methling	isCitizenOf	Denmark
+Sven_Methling	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Bashkim_Kadrii	wasBornIn	Copenhagen
+Bashkim_Kadrii	wasBornIn	Copenhagen
+Bashkim_Kadrii	isCitizenOf	Denmark
+Bashkim_Kadrii	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	livesIn	Denmark
+Agnete_Bræstrup	isCitizenOf	Denmark
+Agnete_Bræstrup	livesIn	Denmark
+Agnete_Bræstrup	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Thomas_Madsen-Mygdal	diedIn	Copenhagen
+Thomas_Madsen-Mygdal	diedIn	Copenhagen
+Thomas_Madsen-Mygdal	isPoliticianOf	Denmark
+Thomas_Madsen-Mygdal	isCitizenOf	Denmark
+Thomas_Madsen-Mygdal	isPoliticianOf	Denmark
+Thomas_Madsen-Mygdal	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Mads_Bødker	wasBornIn	Copenhagen
+Mads_Bødker	wasBornIn	Copenhagen
+Mads_Bødker	isCitizenOf	Denmark
+Mads_Bødker	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Patrick_Banggaard	wasBornIn	Copenhagen
+Patrick_Banggaard	wasBornIn	Copenhagen
+Patrick_Banggaard	isCitizenOf	Denmark
+Patrick_Banggaard	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Thorkild_Jacobsen	wasBornIn	Copenhagen
+Thorkild_Jacobsen	wasBornIn	Copenhagen
+Thorkild_Jacobsen	isCitizenOf	Denmark
+Thorkild_Jacobsen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Knud_Rasmussen	diedIn	Copenhagen
+Knud_Rasmussen	diedIn	Copenhagen
+Knud_Rasmussen	isCitizenOf	Denmark
+Knud_Rasmussen	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Copenhagen	isLocatedIn	Denmark
+Denmark	hasCapital	Copenhagen
+Copenhagen	isLocatedIn	Denmark
+Denmark	hasCapital	Copenhagen
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Prince_George_Valdemar_of_Denmark	diedIn	Copenhagen
+Prince_George_Valdemar_of_Denmark	diedIn	Copenhagen
+Prince_George_Valdemar_of_Denmark	isCitizenOf	Denmark
+Prince_George_Valdemar_of_Denmark	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Princess_Sophia_Hedwig_of_Denmark	wasBornIn	Copenhagen
+Princess_Sophia_Hedwig_of_Denmark	wasBornIn	Copenhagen
+Princess_Sophia_Hedwig_of_Denmark	isCitizenOf	Denmark
+Princess_Sophia_Hedwig_of_Denmark	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Hinrich_Johannes_Rink	wasBornIn	Copenhagen
+Hinrich_Johannes_Rink	wasBornIn	Copenhagen
+Hinrich_Johannes_Rink	isCitizenOf	Denmark
+Hinrich_Johannes_Rink	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Lars_Brygmann	wasBornIn	Copenhagen
+Lars_Brygmann	wasBornIn	Copenhagen
+Lars_Brygmann	isCitizenOf	Denmark
+Lars_Brygmann	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Nicolas_Bro	wasBornIn	Copenhagen
+Nicolas_Bro	wasBornIn	Copenhagen
+Nicolas_Bro	isCitizenOf	Denmark
+Nicolas_Bro	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Thorvald_Sørensen	diedIn	Copenhagen
+Thorvald_Sørensen	diedIn	Copenhagen
+Thorvald_Sørensen	isCitizenOf	Denmark
+Thorvald_Sørensen	wasBornIn	Denmark
+Thorvald_Sørensen	isCitizenOf	Denmark
+Thorvald_Sørensen	wasBornIn	Denmark
+
+http://dbpedia.org/resource/Agnete_Bræstrup	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Denmark
+Agnete_Bræstrup	Denmark
+Agnete_Bræstrup	diedIn	Copenhagen
+Agnete_Bræstrup	diedIn	Copenhagen
+Princess_Marie_of_Orléans_(1865–1909)	diedIn	Copenhagen
+Princess_Marie_of_Orléans_(1865–1909)	diedIn	Copenhagen
+Princess_Marie_of_Orléans_(1865–1909)	isCitizenOf	Denmark
+Princess_Marie_of_Orléans_(1865–1909)	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Marsilio_Ficino	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Republic_of_Florence
+Marsilio_Ficino	Republic_of_Florence
+John_Argyropoulos	influences	Marsilio_Ficino
+John_Argyropoulos	influences	Marsilio_Ficino
+John_Argyropoulos	influences	Marsilio_Ficino
+John_Argyropoulos	influences	Marsilio_Ficino
+Marsilio_Ficino	isCitizenOf	Republic_of_Florence
+Marsilio_Ficino	isCitizenOf	Republic_of_Florence
+
+http://dbpedia.org/resource/Marsilio_Ficino	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Republic_of_Florence
+Marsilio_Ficino	Republic_of_Florence
+Marsilio_Ficino	influences	Giovanni_Pico_della_Mirandola
+Marsilio_Ficino	influences	Giovanni_Pico_della_Mirandola
+Marsilio_Ficino	influences	Giovanni_Pico_della_Mirandola
+Marsilio_Ficino	influences	Giovanni_Pico_della_Mirandola
+Marsilio_Ficino	isCitizenOf	Republic_of_Florence
+Marsilio_Ficino	isCitizenOf	Republic_of_Florence
+
+http://dbpedia.org/resource/Marsilio_Ficino	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Republic_of_Florence
+Marsilio_Ficino	Republic_of_Florence
+Marsilio_Ficino	wasBornIn	Figline_Valdarno
+Marsilio_Ficino	wasBornIn	Figline_Valdarno
+Marsilio_Ficino	wasBornIn	Figline_Valdarno
+Marsilio_Ficino	wasBornIn	Figline_Valdarno
+Marsilio_Ficino	isCitizenOf	Republic_of_Florence
+Marsilio_Ficino	isCitizenOf	Republic_of_Florence
+
+http://dbpedia.org/resource/Marsilio_Ficino	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Republic_of_Florence
+Marsilio_Ficino	Republic_of_Florence
+Marsilio_Ficino	isCitizenOf	Republic_of_Florence
+Marsilio_Ficino	isCitizenOf	Republic_of_Florence
+
+http://dbpedia.org/resource/Marsilio_Ficino	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Republic_of_Florence
+Marsilio_Ficino	Republic_of_Florence
+Gemistus_Pletho	influences	Marsilio_Ficino
+Gemistus_Pletho	influences	Marsilio_Ficino
+Gemistus_Pletho	influences	Marsilio_Ficino
+Gemistus_Pletho	influences	Marsilio_Ficino
+Marsilio_Ficino	isCitizenOf	Republic_of_Florence
+Marsilio_Ficino	isCitizenOf	Republic_of_Florence
+
+http://dbpedia.org/resource/Marsilio_Ficino	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Republic_of_Florence
+Marsilio_Ficino	Republic_of_Florence
+Plotinus	influences	Marsilio_Ficino
+Plotinus	influences	Marsilio_Ficino
+Plotinus	influences	Marsilio_Ficino
+Plotinus	influences	Marsilio_Ficino
+Marsilio_Ficino	isCitizenOf	Republic_of_Florence
+Marsilio_Ficino	isCitizenOf	Republic_of_Florence
+
+http://dbpedia.org/resource/Marsilio_Ficino	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Republic_of_Florence
+Marsilio_Ficino	Republic_of_Florence
+Proclus	influences	Marsilio_Ficino
+Proclus	influences	Marsilio_Ficino
+Proclus	influences	Marsilio_Ficino
+Proclus	influences	Marsilio_Ficino
+Marsilio_Ficino	isCitizenOf	Republic_of_Florence
+Marsilio_Ficino	isCitizenOf	Republic_of_Florence
+
+http://dbpedia.org/resource/Teuku_Jacob	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Indonesia
+Teuku_Jacob	Indonesia
+Teuku_Jacob	isCitizenOf	Indonesia
+Teuku_Jacob	isCitizenOf	Indonesia
+
+http://dbpedia.org/resource/Teuku_Jacob	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Indonesia
+Teuku_Jacob	Indonesia
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Jakob_Oetama	graduatedFrom	Gadjah_Mada_University
+Jakob_Oetama	graduatedFrom	Gadjah_Mada_University
+Jakob_Oetama	isCitizenOf	Indonesia
+Jakob_Oetama	isCitizenOf	Indonesia
+
+http://dbpedia.org/resource/Teuku_Jacob	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Indonesia
+Teuku_Jacob	Indonesia
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Burhanuddin_Harahap	graduatedFrom	Gadjah_Mada_University
+Burhanuddin_Harahap	graduatedFrom	Gadjah_Mada_University
+Burhanuddin_Harahap	isPoliticianOf	Indonesia
+Burhanuddin_Harahap	isCitizenOf	Indonesia
+Burhanuddin_Harahap	isPoliticianOf	Indonesia
+Burhanuddin_Harahap	isCitizenOf	Indonesia
+
+http://dbpedia.org/resource/Teuku_Jacob	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Indonesia
+Teuku_Jacob	Indonesia
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Retno_Marsudi	graduatedFrom	Gadjah_Mada_University
+Retno_Marsudi	graduatedFrom	Gadjah_Mada_University
+Retno_Marsudi	isPoliticianOf	Indonesia
+Retno_Marsudi	isCitizenOf	Indonesia
+Retno_Marsudi	isPoliticianOf	Indonesia
+Retno_Marsudi	isCitizenOf	Indonesia
+
+http://dbpedia.org/resource/Teuku_Jacob	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Indonesia
+Teuku_Jacob	Indonesia
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Muhaimin_Iskandar	graduatedFrom	Gadjah_Mada_University
+Muhaimin_Iskandar	graduatedFrom	Gadjah_Mada_University
+Muhaimin_Iskandar	isCitizenOf	Indonesia
+Muhaimin_Iskandar	isCitizenOf	Indonesia
+
+http://dbpedia.org/resource/Teuku_Jacob	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Indonesia
+Teuku_Jacob	Indonesia
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Mohammad_Mahfud	graduatedFrom	Gadjah_Mada_University
+Mohammad_Mahfud	graduatedFrom	Gadjah_Mada_University
+Mohammad_Mahfud	isCitizenOf	Indonesia
+Mohammad_Mahfud	isCitizenOf	Indonesia
+
+http://dbpedia.org/resource/Teuku_Jacob	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Indonesia
+Teuku_Jacob	Indonesia
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Gadjah_Mada_University	isLocatedIn	Indonesia
+Gadjah_Mada_University	isLocatedIn	Indonesia
+
+http://dbpedia.org/resource/Teuku_Jacob	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Indonesia
+Teuku_Jacob	Indonesia
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Teuku_Jacob	isCitizenOf	Indonesia
+Teuku_Jacob	isCitizenOf	Indonesia
+
+http://dbpedia.org/resource/Teuku_Jacob	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Indonesia
+Teuku_Jacob	Indonesia
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Ben_Mang_Reng_Say	graduatedFrom	Gadjah_Mada_University
+Ben_Mang_Reng_Say	graduatedFrom	Gadjah_Mada_University
+Ben_Mang_Reng_Say	isCitizenOf	Indonesia
+Ben_Mang_Reng_Say	isCitizenOf	Indonesia
+
+http://dbpedia.org/resource/Teuku_Jacob	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Indonesia
+Teuku_Jacob	Indonesia
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Joko_Widodo	graduatedFrom	Gadjah_Mada_University
+Joko_Widodo	graduatedFrom	Gadjah_Mada_University
+Joko_Widodo	isPoliticianOf	Indonesia
+Joko_Widodo	isCitizenOf	Indonesia
+Joko_Widodo	isLeaderOf	Indonesia
+Joko_Widodo	isPoliticianOf	Indonesia
+Joko_Widodo	isCitizenOf	Indonesia
+Joko_Widodo	isLeaderOf	Indonesia
+
+http://dbpedia.org/resource/Teuku_Jacob	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Indonesia
+Teuku_Jacob	Indonesia
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Siti_Fadilah	graduatedFrom	Gadjah_Mada_University
+Siti_Fadilah	graduatedFrom	Gadjah_Mada_University
+Siti_Fadilah	isCitizenOf	Indonesia
+Siti_Fadilah	isPoliticianOf	Indonesia
+Siti_Fadilah	isCitizenOf	Indonesia
+Siti_Fadilah	isPoliticianOf	Indonesia
+
+http://dbpedia.org/resource/Teuku_Jacob	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Indonesia
+Teuku_Jacob	Indonesia
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Anies_Baswedan	graduatedFrom	Gadjah_Mada_University
+Anies_Baswedan	graduatedFrom	Gadjah_Mada_University
+Anies_Baswedan	isPoliticianOf	Indonesia
+Anies_Baswedan	isCitizenOf	Indonesia
+Anies_Baswedan	isPoliticianOf	Indonesia
+Anies_Baswedan	isCitizenOf	Indonesia
+
+http://dbpedia.org/resource/Teuku_Jacob	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Indonesia
+Teuku_Jacob	Indonesia
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Teuku_Jacob	worksAt	Gadjah_Mada_University
+Roy_Suryo	graduatedFrom	Gadjah_Mada_University
+Roy_Suryo	graduatedFrom	Gadjah_Mada_University
+Roy_Suryo	isCitizenOf	Indonesia
+Roy_Suryo	isPoliticianOf	Indonesia
+Roy_Suryo	isCitizenOf	Indonesia
+Roy_Suryo	isPoliticianOf	Indonesia
+
+http://dbpedia.org/resource/Olive_Mugenda	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Olive_Mugenda	Kenya
+Olive_Mugenda	livesIn	Kenya
+Olive_Mugenda	wasBornIn	Kenya
+Olive_Mugenda	isCitizenOf	Kenya
+Olive_Mugenda	livesIn	Kenya
+Olive_Mugenda	wasBornIn	Kenya
+Olive_Mugenda	isCitizenOf	Kenya
+
+http://dbpedia.org/resource/Olive_Mugenda	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Kenya
+Olive_Mugenda	Kenya
+Olive_Mugenda	livesIn	Nairobi
+Olive_Mugenda	livesIn	Nairobi
+Evans_Kidero	wasBornIn	Nairobi
+Evans_Kidero	isLeaderOf	Nairobi
+Evans_Kidero	wasBornIn	Nairobi
+Evans_Kidero	isLeaderOf	Nairobi
+Evans_Kidero	isCitizenOf	Kenya
+Evans_Kidero	isPoliticianOf	Kenya
+Evans_Kidero	isCitizenOf	Kenya
+Evans_Kidero	isPoliticianOf	Kenya
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	created	Ve_Plus_TV
+Gustavo_Cisneros	created	Ve_Plus_TV
+Gustavo_Cisneros	created	Ve_Plus_TV
+Gustavo_Cisneros	created	Ve_Plus_TV
+Gustavo_Cisneros	isCitizenOf	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	graduatedFrom	Babson_College
+Gustavo_Cisneros	graduatedFrom	Babson_College
+Gustavo_Cisneros	graduatedFrom	Babson_College
+Gustavo_Cisneros	graduatedFrom	Babson_College
+Gustavo_Cisneros	isCitizenOf	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+José_Desiderio_Valverde	isCitizenOf	Dominica
+José_Desiderio_Valverde	isCitizenOf	Dominica
+José_Desiderio_Valverde	isPoliticianOf	Dominican_Republic
+José_Desiderio_Valverde	isCitizenOf	Dominican_Republic
+José_Desiderio_Valverde	isPoliticianOf	Dominican_Republic
+José_Desiderio_Valverde	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+Carmen_Castillo	isCitizenOf	Dominica
+Carmen_Castillo	isCitizenOf	Dominica
+Carmen_Castillo	isCitizenOf	Dominican_Republic
+Carmen_Castillo	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+Juan_Bosch	isCitizenOf	Dominica
+Juan_Bosch	isCitizenOf	Dominica
+Juan_Bosch	isPoliticianOf	Dominican_Republic
+Juan_Bosch	isCitizenOf	Dominican_Republic
+Juan_Bosch	isPoliticianOf	Dominican_Republic
+Juan_Bosch	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+Joel_Carreño	isCitizenOf	Dominica
+Joel_Carreño	isCitizenOf	Dominica
+Joel_Carreño	isCitizenOf	Dominican_Republic
+Joel_Carreño	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+Abraham_Almonte	isCitizenOf	Dominica
+Abraham_Almonte	isCitizenOf	Dominica
+Abraham_Almonte	isCitizenOf	Dominican_Republic
+Abraham_Almonte	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+Marcell_Ozuna	isCitizenOf	Dominica
+Marcell_Ozuna	isCitizenOf	Dominica
+Marcell_Ozuna	isCitizenOf	Dominican_Republic
+Marcell_Ozuna	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+Francia_Jackson	isCitizenOf	Dominica
+Francia_Jackson	isCitizenOf	Dominica
+Francia_Jackson	isCitizenOf	Dominican_Republic
+Francia_Jackson	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+Juan_Jiménez_(baseball)	isCitizenOf	Dominica
+Juan_Jiménez_(baseball)	isCitizenOf	Dominica
+Juan_Jiménez_(baseball)	isCitizenOf	Dominican_Republic
+Juan_Jiménez_(baseball)	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+Joaquín_Balaguer	isCitizenOf	Dominica
+Joaquín_Balaguer	isCitizenOf	Dominica
+Joaquín_Balaguer	isCitizenOf	Dominican_Republic
+Joaquín_Balaguer	isPoliticianOf	Dominican_Republic
+Joaquín_Balaguer	isCitizenOf	Dominican_Republic
+Joaquín_Balaguer	isPoliticianOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+Juan_Orlando_Mercedes	isCitizenOf	Dominica
+Juan_Orlando_Mercedes	isCitizenOf	Dominica
+Juan_Orlando_Mercedes	isCitizenOf	Dominican_Republic
+Juan_Orlando_Mercedes	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+José_del_Castillo_Saviñón	isCitizenOf	Dominica
+José_del_Castillo_Saviñón	isCitizenOf	Dominica
+José_del_Castillo_Saviñón	isPoliticianOf	Dominican_Republic
+José_del_Castillo_Saviñón	isCitizenOf	Dominican_Republic
+José_del_Castillo_Saviñón	isPoliticianOf	Dominican_Republic
+José_del_Castillo_Saviñón	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+Manuel_Jimenes	isCitizenOf	Dominica
+Manuel_Jimenes	isCitizenOf	Dominica
+Manuel_Jimenes	isCitizenOf	Dominican_Republic
+Manuel_Jimenes	isPoliticianOf	Dominican_Republic
+Manuel_Jimenes	isCitizenOf	Dominican_Republic
+Manuel_Jimenes	isPoliticianOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+Melky_Cabrera	isCitizenOf	Dominica
+Melky_Cabrera	isCitizenOf	Dominica
+Melky_Cabrera	isCitizenOf	Dominican_Republic
+Melky_Cabrera	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+Arodys_Vizcaíno	isCitizenOf	Dominica
+Arodys_Vizcaíno	isCitizenOf	Dominica
+Arodys_Vizcaíno	isCitizenOf	Dominican_Republic
+Arodys_Vizcaíno	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+José_Rafael_Abinader	isCitizenOf	Dominica
+José_Rafael_Abinader	isCitizenOf	Dominica
+José_Rafael_Abinader	isCitizenOf	Dominican_Republic
+José_Rafael_Abinader	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+Ramón_Cáceres	isCitizenOf	Dominica
+Ramón_Cáceres	isCitizenOf	Dominica
+Ramón_Cáceres	isPoliticianOf	Dominican_Republic
+Ramón_Cáceres	isCitizenOf	Dominican_Republic
+Ramón_Cáceres	isPoliticianOf	Dominican_Republic
+Ramón_Cáceres	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+Pedro_Santana	isCitizenOf	Dominica
+Pedro_Santana	isCitizenOf	Dominica
+Pedro_Santana	isPoliticianOf	Dominican_Republic
+Pedro_Santana	isCitizenOf	Dominican_Republic
+Pedro_Santana	isPoliticianOf	Dominican_Republic
+Pedro_Santana	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+Jonathan_Aro	isCitizenOf	Dominica
+Jonathan_Aro	isCitizenOf	Dominica
+Jonathan_Aro	isCitizenOf	Dominican_Republic
+Jonathan_Aro	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+Francisco_Gregorio_Billini	isCitizenOf	Dominica
+Francisco_Gregorio_Billini	isCitizenOf	Dominica
+Francisco_Gregorio_Billini	isPoliticianOf	Dominican_Republic
+Francisco_Gregorio_Billini	isCitizenOf	Dominican_Republic
+Francisco_Gregorio_Billini	isPoliticianOf	Dominican_Republic
+Francisco_Gregorio_Billini	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+Donald_Reid_Cabral	isCitizenOf	Dominica
+Donald_Reid_Cabral	isCitizenOf	Dominica
+Donald_Reid_Cabral	isCitizenOf	Dominican_Republic
+Donald_Reid_Cabral	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+Charlie_Mariotti	isCitizenOf	Dominica
+Charlie_Mariotti	isCitizenOf	Dominica
+Charlie_Mariotti	isCitizenOf	Dominican_Republic
+Charlie_Mariotti	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+Lucía_Medina	isCitizenOf	Dominica
+Lucía_Medina	isCitizenOf	Dominica
+Lucía_Medina	isCitizenOf	Dominican_Republic
+Lucía_Medina	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominica
+Gustavo_Cisneros	isCitizenOf	Dominica
+José_Capellán	isCitizenOf	Dominica
+José_Capellán	isCitizenOf	Dominica
+José_Capellán	isCitizenOf	Dominican_Republic
+José_Capellán	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Gustavo_Cisneros	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Dominican_Republic
+Gustavo_Cisneros	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominican_Republic
+Gustavo_Cisneros	isCitizenOf	Dominican_Republic
+
+http://dbpedia.org/resource/Hashim_Djojohadikusumo	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Indonesia
+Hashim_Djojohadikusumo	Indonesia
+Hashim_Djojohadikusumo	isCitizenOf	Indonesia
+Hashim_Djojohadikusumo	livesIn	Indonesia
+Hashim_Djojohadikusumo	isCitizenOf	Indonesia
+Hashim_Djojohadikusumo	livesIn	Indonesia
+
+http://dbpedia.org/resource/Ivana_Brlić-Mažuranić	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Austria-Hungary
+Ivana_Brlić-Mažuranić	Austria-Hungary
+Ivana_Brlić-Mažuranić	isCitizenOf	Austria-Hungary
+Ivana_Brlić-Mažuranić	isCitizenOf	Austria-Hungary
+
+http://dbpedia.org/resource/Ivana_Brlić-Mažuranić	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Austria-Hungary
+Ivana_Brlić-Mažuranić	Austria-Hungary
+Ivana_Brlić-Mažuranić	wasBornIn	Ogulin
+Ivana_Brlić-Mažuranić	wasBornIn	Ogulin
+Ivana_Brlić-Mažuranić	wasBornIn	Ogulin
+Ivana_Brlić-Mažuranić	wasBornIn	Ogulin
+Ivana_Brlić-Mažuranić	isCitizenOf	Austria-Hungary
+Ivana_Brlić-Mažuranić	isCitizenOf	Austria-Hungary
+
+http://dbpedia.org/resource/Ivana_Brlić-Mažuranić	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Austria-Hungary
+Ivana_Brlić-Mažuranić	Austria-Hungary
+Ivana_Brlić-Mažuranić	isCitizenOf	Hungary
+Ivana_Brlić-Mažuranić	isCitizenOf	Hungary
+Theodor_Escherich	isCitizenOf	Hungary
+Theodor_Escherich	isCitizenOf	Hungary
+Theodor_Escherich	isCitizenOf	Austria-Hungary
+Theodor_Escherich	isCitizenOf	Austria-Hungary
+
+http://dbpedia.org/resource/Ivana_Brlić-Mažuranić	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Austria-Hungary
+Ivana_Brlić-Mažuranić	Austria-Hungary
+Ivana_Brlić-Mažuranić	isCitizenOf	Hungary
+Ivana_Brlić-Mažuranić	isCitizenOf	Hungary
+Albert_Szent-Györgyi	isCitizenOf	Hungary
+Albert_Szent-Györgyi	isCitizenOf	Hungary
+Albert_Szent-Györgyi	isCitizenOf	Austria-Hungary
+Albert_Szent-Györgyi	isCitizenOf	Austria-Hungary
+
+http://dbpedia.org/resource/Gustaw_Morcinek	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Austria-Hungary
+Gustaw_Morcinek	Austria-Hungary
+Gustaw_Morcinek	isCitizenOf	Austria-Hungary
+Gustaw_Morcinek	isCitizenOf	Austria-Hungary
+
+http://dbpedia.org/resource/Gustaw_Morcinek	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Austria-Hungary
+Gustaw_Morcinek	Austria-Hungary
+Gustaw_Morcinek	isCitizenOf	Hungary
+Gustaw_Morcinek	isCitizenOf	Hungary
+Theodor_Escherich	isCitizenOf	Hungary
+Theodor_Escherich	isCitizenOf	Hungary
+Theodor_Escherich	isCitizenOf	Austria-Hungary
+Theodor_Escherich	isCitizenOf	Austria-Hungary
+
+http://dbpedia.org/resource/Gustaw_Morcinek	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Austria-Hungary
+Gustaw_Morcinek	Austria-Hungary
+Gustaw_Morcinek	isCitizenOf	Hungary
+Gustaw_Morcinek	isCitizenOf	Hungary
+Albert_Szent-Györgyi	isCitizenOf	Hungary
+Albert_Szent-Györgyi	isCitizenOf	Hungary
+Albert_Szent-Györgyi	isCitizenOf	Austria-Hungary
+Albert_Szent-Györgyi	isCitizenOf	Austria-Hungary
+
+http://dbpedia.org/resource/Gustaw_Morcinek	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Austria-Hungary
+Gustaw_Morcinek	Austria-Hungary
+Gustaw_Morcinek	diedIn	Kraków
+Gustaw_Morcinek	diedIn	Kraków
+Shimon_Sofer	diedIn	Kraków
+Shimon_Sofer	diedIn	Kraków
+Shimon_Sofer	isCitizenOf	Austria-Hungary
+Shimon_Sofer	isCitizenOf	Austria-Hungary
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	graduatedFrom	University_of_Coimbra
+António_Cordeiro	graduatedFrom	University_of_Coimbra
+João_Teixeira_Soares_de_Sousa	graduatedFrom	University_of_Coimbra
+João_Teixeira_Soares_de_Sousa	graduatedFrom	University_of_Coimbra
+João_Teixeira_Soares_de_Sousa	isCitizenOf	Portugal
+João_Teixeira_Soares_de_Sousa	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	graduatedFrom	University_of_Coimbra
+António_Cordeiro	graduatedFrom	University_of_Coimbra
+Joaquim_Pimenta_de_Castro	graduatedFrom	University_of_Coimbra
+Joaquim_Pimenta_de_Castro	graduatedFrom	University_of_Coimbra
+Joaquim_Pimenta_de_Castro	isCitizenOf	Portugal
+Joaquim_Pimenta_de_Castro	isPoliticianOf	Portugal
+Joaquim_Pimenta_de_Castro	isCitizenOf	Portugal
+Joaquim_Pimenta_de_Castro	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	graduatedFrom	University_of_Coimbra
+António_Cordeiro	graduatedFrom	University_of_Coimbra
+Domingos_Leite_Pereira	graduatedFrom	University_of_Coimbra
+Domingos_Leite_Pereira	graduatedFrom	University_of_Coimbra
+Domingos_Leite_Pereira	isPoliticianOf	Portugal
+Domingos_Leite_Pereira	isCitizenOf	Portugal
+Domingos_Leite_Pereira	isPoliticianOf	Portugal
+Domingos_Leite_Pereira	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	isCitizenOf	Portugal
+António_Cordeiro	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	wasBornIn	Angra_do_Heroísmo
+António_Cordeiro	wasBornIn	Angra_do_Heroísmo
+Dinis_Gregório_de_Melo_Castro_e_Mendonça	diedIn	Angra_do_Heroísmo
+Dinis_Gregório_de_Melo_Castro_e_Mendonça	livesIn	Angra_do_Heroísmo
+Dinis_Gregório_de_Melo_Castro_e_Mendonça	diedIn	Angra_do_Heroísmo
+Dinis_Gregório_de_Melo_Castro_e_Mendonça	livesIn	Angra_do_Heroísmo
+Dinis_Gregório_de_Melo_Castro_e_Mendonça	isCitizenOf	Portugal
+Dinis_Gregório_de_Melo_Castro_e_Mendonça	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	wasBornIn	Angra_do_Heroísmo
+António_Cordeiro	wasBornIn	Angra_do_Heroísmo
+Dionísio_Mendes_de_Sousa	wasBornIn	Angra_do_Heroísmo
+Dionísio_Mendes_de_Sousa	wasBornIn	Angra_do_Heroísmo
+Dionísio_Mendes_de_Sousa	isCitizenOf	Portugal
+Dionísio_Mendes_de_Sousa	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Conchita_Cintrón	diedIn	Lisbon
+Conchita_Cintrón	diedIn	Lisbon
+Conchita_Cintrón	isCitizenOf	Portugal
+Conchita_Cintrón	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Artur_Ivens_Ferraz	wasBornIn	Lisbon
+Artur_Ivens_Ferraz	diedIn	Lisbon
+Artur_Ivens_Ferraz	wasBornIn	Lisbon
+Artur_Ivens_Ferraz	diedIn	Lisbon
+Artur_Ivens_Ferraz	isPoliticianOf	Portugal
+Artur_Ivens_Ferraz	isCitizenOf	Portugal
+Artur_Ivens_Ferraz	isPoliticianOf	Portugal
+Artur_Ivens_Ferraz	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Miguel_Monteiro	wasBornIn	Lisbon
+Miguel_Monteiro	wasBornIn	Lisbon
+Miguel_Monteiro	isCitizenOf	Portugal
+Miguel_Monteiro	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Fininho_(Portuguese_footballer)	wasBornIn	Lisbon
+Fininho_(Portuguese_footballer)	wasBornIn	Lisbon
+Fininho_(Portuguese_footballer)	isCitizenOf	Portugal
+Fininho_(Portuguese_footballer)	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Jaime_Montestrela	wasBornIn	Lisbon
+Jaime_Montestrela	wasBornIn	Lisbon
+Jaime_Montestrela	isCitizenOf	Portugal
+Jaime_Montestrela	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Anselmo_José_Braamcamp	diedIn	Lisbon
+Anselmo_José_Braamcamp	wasBornIn	Lisbon
+Anselmo_José_Braamcamp	diedIn	Lisbon
+Anselmo_José_Braamcamp	wasBornIn	Lisbon
+Anselmo_José_Braamcamp	isPoliticianOf	Portugal
+Anselmo_José_Braamcamp	isCitizenOf	Portugal
+Anselmo_José_Braamcamp	isPoliticianOf	Portugal
+Anselmo_José_Braamcamp	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Beatrice_of_Castile_(1293–1359)	diedIn	Lisbon
+Beatrice_of_Castile_(1293–1359)	diedIn	Lisbon
+Beatrice_of_Castile_(1293–1359)	isCitizenOf	Portugal
+Beatrice_of_Castile_(1293–1359)	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Pedro_I_of_Brazil	diedIn	Lisbon
+Pedro_I_of_Brazil	diedIn	Lisbon
+Pedro_I_of_Brazil	isCitizenOf	Portugal
+Pedro_I_of_Brazil	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Afonso_IV_of_Portugal	wasBornIn	Lisbon
+Afonso_IV_of_Portugal	diedIn	Lisbon
+Afonso_IV_of_Portugal	wasBornIn	Lisbon
+Afonso_IV_of_Portugal	diedIn	Lisbon
+Afonso_IV_of_Portugal	isCitizenOf	Portugal
+Afonso_IV_of_Portugal	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Vasco_da_Gama_Fernandes	diedIn	Lisbon
+Vasco_da_Gama_Fernandes	diedIn	Lisbon
+Vasco_da_Gama_Fernandes	isCitizenOf	Portugal
+Vasco_da_Gama_Fernandes	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Álvaro_de_Campos	diedIn	Lisbon
+Álvaro_de_Campos	diedIn	Lisbon
+Álvaro_de_Campos	isCitizenOf	Portugal
+Álvaro_de_Campos	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Bruno_Simão	wasBornIn	Lisbon
+Bruno_Simão	wasBornIn	Lisbon
+Bruno_Simão	isCitizenOf	Portugal
+Bruno_Simão	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+Mário_Soares	isCitizenOf	Portugal
+Mário_Soares	isPoliticianOf	Portugal
+Mário_Soares	isCitizenOf	Portugal
+Mário_Soares	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Luís_of_Portugal,_Duke_of_Beja	diedIn	Lisbon
+Luís_of_Portugal,_Duke_of_Beja	diedIn	Lisbon
+Luís_of_Portugal,_Duke_of_Beja	isCitizenOf	Portugal
+Luís_of_Portugal,_Duke_of_Beja	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+José_Bernardino_de_Portugal_e_Castro	diedIn	Lisbon
+José_Bernardino_de_Portugal_e_Castro	diedIn	Lisbon
+José_Bernardino_de_Portugal_e_Castro	isPoliticianOf	Portugal
+José_Bernardino_de_Portugal_e_Castro	isCitizenOf	Portugal
+José_Bernardino_de_Portugal_e_Castro	isPoliticianOf	Portugal
+José_Bernardino_de_Portugal_e_Castro	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Said_Baaghil	livesIn	Lisbon
+Said_Baaghil	livesIn	Lisbon
+Said_Baaghil	livesIn	Portugal
+Said_Baaghil	livesIn	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+José_Couceiro	wasBornIn	Lisbon
+José_Couceiro	wasBornIn	Lisbon
+José_Couceiro	isCitizenOf	Portugal
+José_Couceiro	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Pina_Manique	wasBornIn	Lisbon
+Pina_Manique	diedIn	Lisbon
+Pina_Manique	wasBornIn	Lisbon
+Pina_Manique	diedIn	Lisbon
+Pina_Manique	isCitizenOf	Portugal
+Pina_Manique	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Henry,_King_of_Portugal	wasBornIn	Lisbon
+Henry,_King_of_Portugal	wasBornIn	Lisbon
+Henry,_King_of_Portugal	isCitizenOf	Portugal
+Henry,_King_of_Portugal	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+First_Portuguese_Republic	hasCapital	Lisbon
+First_Portuguese_Republic	hasCapital	Lisbon
+First_Portuguese_Republic	isLocatedIn	Portugal
+First_Portuguese_Republic	isLocatedIn	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Infanta_Maria_Doroteia_of_Portugal	diedIn	Lisbon
+Infanta_Maria_Doroteia_of_Portugal	wasBornIn	Lisbon
+Infanta_Maria_Doroteia_of_Portugal	diedIn	Lisbon
+Infanta_Maria_Doroteia_of_Portugal	wasBornIn	Lisbon
+Infanta_Maria_Doroteia_of_Portugal	isCitizenOf	Portugal
+Infanta_Maria_Doroteia_of_Portugal	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Alfredo_Abrantes	wasBornIn	Lisbon
+Alfredo_Abrantes	wasBornIn	Lisbon
+Alfredo_Abrantes	isCitizenOf	Portugal
+Alfredo_Abrantes	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Universidade_Nova_de_Lisboa	isLocatedIn	Lisbon
+Universidade_Nova_de_Lisboa	isLocatedIn	Lisbon
+Universidade_Nova_de_Lisboa	isLocatedIn	Portugal
+Universidade_Nova_de_Lisboa	isLocatedIn	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Soledad_Miranda	diedIn	Lisbon
+Soledad_Miranda	diedIn	Lisbon
+Soledad_Miranda	isCitizenOf	Portugal
+Soledad_Miranda	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+António_de_Sousa_Franco	wasBornIn	Lisbon
+António_de_Sousa_Franco	wasBornIn	Lisbon
+António_de_Sousa_Franco	isCitizenOf	Portugal
+António_de_Sousa_Franco	isPoliticianOf	Portugal
+António_de_Sousa_Franco	isCitizenOf	Portugal
+António_de_Sousa_Franco	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+João_Crisóstomo_de_Abreu_e_Sousa	wasBornIn	Lisbon
+João_Crisóstomo_de_Abreu_e_Sousa	diedIn	Lisbon
+João_Crisóstomo_de_Abreu_e_Sousa	wasBornIn	Lisbon
+João_Crisóstomo_de_Abreu_e_Sousa	diedIn	Lisbon
+João_Crisóstomo_de_Abreu_e_Sousa	isPoliticianOf	Portugal
+João_Crisóstomo_de_Abreu_e_Sousa	isCitizenOf	Portugal
+João_Crisóstomo_de_Abreu_e_Sousa	isPoliticianOf	Portugal
+João_Crisóstomo_de_Abreu_e_Sousa	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Infanta_Maria_Ana_Francisca_of_Portugal	wasBornIn	Lisbon
+Infanta_Maria_Ana_Francisca_of_Portugal	wasBornIn	Lisbon
+Infanta_Maria_Ana_Francisca_of_Portugal	isCitizenOf	Portugal
+Infanta_Maria_Ana_Francisca_of_Portugal	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Bruno_Nogueira	wasBornIn	Lisbon
+Bruno_Nogueira	wasBornIn	Lisbon
+Bruno_Nogueira	isCitizenOf	Portugal
+Bruno_Nogueira	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Mile_Mrkšić	diedIn	Lisbon
+Mile_Mrkšić	diedIn	Lisbon
+Mile_Mrkšić	isCitizenOf	Portugal
+Mile_Mrkšić	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Teresa_Patrício_de_Gouveia	wasBornIn	Lisbon
+Teresa_Patrício_de_Gouveia	wasBornIn	Lisbon
+Teresa_Patrício_de_Gouveia	isPoliticianOf	Portugal
+Teresa_Patrício_de_Gouveia	isCitizenOf	Portugal
+Teresa_Patrício_de_Gouveia	isPoliticianOf	Portugal
+Teresa_Patrício_de_Gouveia	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Nuno_Manuel_Soares_Gomes	wasBornIn	Lisbon
+Nuno_Manuel_Soares_Gomes	wasBornIn	Lisbon
+Nuno_Manuel_Soares_Gomes	isCitizenOf	Portugal
+Nuno_Manuel_Soares_Gomes	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+António_de_Spínola	diedIn	Lisbon
+António_de_Spínola	diedIn	Lisbon
+António_de_Spínola	isCitizenOf	Portugal
+António_de_Spínola	isPoliticianOf	Portugal
+António_de_Spínola	isCitizenOf	Portugal
+António_de_Spínola	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Antão_de_Almada,_12th_Count_of_Avranches	diedIn	Lisbon
+Antão_de_Almada,_12th_Count_of_Avranches	diedIn	Lisbon
+Antão_de_Almada,_12th_Count_of_Avranches	isCitizenOf	Portugal
+Antão_de_Almada,_12th_Count_of_Avranches	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Vítor_Constâncio	wasBornIn	Lisbon
+Vítor_Constâncio	wasBornIn	Lisbon
+Vítor_Constâncio	isCitizenOf	Portugal
+Vítor_Constâncio	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Vasco_de_Almeida_e_Costa	wasBornIn	Lisbon
+Vasco_de_Almeida_e_Costa	diedIn	Lisbon
+Vasco_de_Almeida_e_Costa	wasBornIn	Lisbon
+Vasco_de_Almeida_e_Costa	diedIn	Lisbon
+Vasco_de_Almeida_e_Costa	isCitizenOf	Portugal
+Vasco_de_Almeida_e_Costa	isPoliticianOf	Portugal
+Vasco_de_Almeida_e_Costa	isCitizenOf	Portugal
+Vasco_de_Almeida_e_Costa	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Teófilo_Braga	diedIn	Lisbon
+Teófilo_Braga	diedIn	Lisbon
+Teófilo_Braga	isCitizenOf	Portugal
+Teófilo_Braga	isPoliticianOf	Portugal
+Teófilo_Braga	isCitizenOf	Portugal
+Teófilo_Braga	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+José_of_Braganza,_Archbishop_of_Braga	wasBornIn	Lisbon
+José_of_Braganza,_Archbishop_of_Braga	wasBornIn	Lisbon
+José_of_Braganza,_Archbishop_of_Braga	isCitizenOf	Portugal
+José_of_Braganza,_Archbishop_of_Braga	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Lisbon	isLocatedIn	Lisboa_Region
+Lisbon	isLocatedIn	Lisboa_Region
+Lisboa_Region	isLocatedIn	Portugal
+Lisboa_Region	isLocatedIn	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Salvador_de_Sá	diedIn	Lisbon
+Salvador_de_Sá	diedIn	Lisbon
+Salvador_de_Sá	isCitizenOf	Portugal
+Salvador_de_Sá	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Pedro_Mota_Soares	wasBornIn	Lisbon
+Pedro_Mota_Soares	wasBornIn	Lisbon
+Pedro_Mota_Soares	isCitizenOf	Portugal
+Pedro_Mota_Soares	isPoliticianOf	Portugal
+Pedro_Mota_Soares	isCitizenOf	Portugal
+Pedro_Mota_Soares	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Joaquim_Pedro_de_Oliveira_Martins	wasBornIn	Lisbon
+Joaquim_Pedro_de_Oliveira_Martins	diedIn	Lisbon
+Joaquim_Pedro_de_Oliveira_Martins	wasBornIn	Lisbon
+Joaquim_Pedro_de_Oliveira_Martins	diedIn	Lisbon
+Joaquim_Pedro_de_Oliveira_Martins	isPoliticianOf	Portugal
+Joaquim_Pedro_de_Oliveira_Martins	isCitizenOf	Portugal
+Joaquim_Pedro_de_Oliveira_Martins	isPoliticianOf	Portugal
+Joaquim_Pedro_de_Oliveira_Martins	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+José_Travassos_Valdez,_1st_Count_of_Bonfim	diedIn	Lisbon
+José_Travassos_Valdez,_1st_Count_of_Bonfim	diedIn	Lisbon
+José_Travassos_Valdez,_1st_Count_of_Bonfim	isCitizenOf	Portugal
+José_Travassos_Valdez,_1st_Count_of_Bonfim	isPoliticianOf	Portugal
+José_Travassos_Valdez,_1st_Count_of_Bonfim	isCitizenOf	Portugal
+José_Travassos_Valdez,_1st_Count_of_Bonfim	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Sidónio_Pais	diedIn	Lisbon
+Sidónio_Pais	diedIn	Lisbon
+Sidónio_Pais	isCitizenOf	Portugal
+Sidónio_Pais	isPoliticianOf	Portugal
+Sidónio_Pais	isCitizenOf	Portugal
+Sidónio_Pais	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Luís_Boa_Morte	wasBornIn	Lisbon
+Luís_Boa_Morte	wasBornIn	Lisbon
+Luís_Boa_Morte	isCitizenOf	Portugal
+Luís_Boa_Morte	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Pedro_Jorge_Ramos_Moreira	wasBornIn	Lisbon
+Pedro_Jorge_Ramos_Moreira	wasBornIn	Lisbon
+Pedro_Jorge_Ramos_Moreira	isCitizenOf	Portugal
+Pedro_Jorge_Ramos_Moreira	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+António_Morato	wasBornIn	Lisbon
+António_Morato	wasBornIn	Lisbon
+António_Morato	isCitizenOf	Portugal
+António_Morato	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Liberato_Pinto	diedIn	Lisbon
+Liberato_Pinto	wasBornIn	Lisbon
+Liberato_Pinto	diedIn	Lisbon
+Liberato_Pinto	wasBornIn	Lisbon
+Liberato_Pinto	isPoliticianOf	Portugal
+Liberato_Pinto	isCitizenOf	Portugal
+Liberato_Pinto	isPoliticianOf	Portugal
+Liberato_Pinto	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Lisbon	isLocatedIn	Portugal
+Portugal	hasCapital	Lisbon
+Lisbon	isLocatedIn	Portugal
+Portugal	hasCapital	Lisbon
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Global_Media_Group	isLocatedIn	Lisbon
+Global_Media_Group	isLocatedIn	Lisbon
+Global_Media_Group	isLocatedIn	Portugal
+Global_Media_Group	isLocatedIn	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Maria_of_Portugal,_Duchess_of_Viseu	wasBornIn	Lisbon
+Maria_of_Portugal,_Duchess_of_Viseu	diedIn	Lisbon
+Maria_of_Portugal,_Duchess_of_Viseu	wasBornIn	Lisbon
+Maria_of_Portugal,_Duchess_of_Viseu	diedIn	Lisbon
+Maria_of_Portugal,_Duchess_of_Viseu	isCitizenOf	Portugal
+Maria_of_Portugal,_Duchess_of_Viseu	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+José_Sebastião_e_Silva	diedIn	Lisbon
+José_Sebastião_e_Silva	diedIn	Lisbon
+José_Sebastião_e_Silva	isCitizenOf	Portugal
+José_Sebastião_e_Silva	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Cafú_(footballer,_born_1977)	wasBornIn	Lisbon
+Cafú_(footballer,_born_1977)	wasBornIn	Lisbon
+Cafú_(footballer,_born_1977)	isCitizenOf	Portugal
+Cafú_(footballer,_born_1977)	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+António_Vitorino	wasBornIn	Lisbon
+António_Vitorino	wasBornIn	Lisbon
+António_Vitorino	isCitizenOf	Portugal
+António_Vitorino	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Luís_Marques_Guedes	wasBornIn	Lisbon
+Luís_Marques_Guedes	wasBornIn	Lisbon
+Luís_Marques_Guedes	isCitizenOf	Portugal
+Luís_Marques_Guedes	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Camilo_Castelo_Branco	wasBornIn	Lisbon
+Camilo_Castelo_Branco	wasBornIn	Lisbon
+Camilo_Castelo_Branco	isCitizenOf	Portugal
+Camilo_Castelo_Branco	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Jorge_Sampaio	wasBornIn	Lisbon
+Jorge_Sampaio	wasBornIn	Lisbon
+Jorge_Sampaio	isCitizenOf	Portugal
+Jorge_Sampaio	isPoliticianOf	Portugal
+Jorge_Sampaio	isCitizenOf	Portugal
+Jorge_Sampaio	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Manuel_de_Arriaga	diedIn	Lisbon
+Manuel_de_Arriaga	diedIn	Lisbon
+Manuel_de_Arriaga	isPoliticianOf	Portugal
+Manuel_de_Arriaga	isCitizenOf	Portugal
+Manuel_de_Arriaga	isPoliticianOf	Portugal
+Manuel_de_Arriaga	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Fontes_Pereira_de_Melo	diedIn	Lisbon
+Fontes_Pereira_de_Melo	wasBornIn	Lisbon
+Fontes_Pereira_de_Melo	diedIn	Lisbon
+Fontes_Pereira_de_Melo	wasBornIn	Lisbon
+Fontes_Pereira_de_Melo	isCitizenOf	Portugal
+Fontes_Pereira_de_Melo	isPoliticianOf	Portugal
+Fontes_Pereira_de_Melo	isCitizenOf	Portugal
+Fontes_Pereira_de_Melo	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+António_Cordeiro	diedIn	Lisbon
+António_Cordeiro	diedIn	Lisbon
+Siege_of_Lisbon_(1384)	happenedIn	Lisbon
+Siege_of_Lisbon_(1384)	happenedIn	Lisbon
+Siege_of_Lisbon_(1384)	happenedIn	Portugal
+Siege_of_Lisbon_(1384)	happenedIn	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+Gaspar_Frutuoso	influences	António_Cordeiro
+Gaspar_Frutuoso	influences	António_Cordeiro
+Gaspar_Frutuoso	isCitizenOf	Portugal
+Gaspar_Frutuoso	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/António_Cordeiro	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Portugal
+António_Cordeiro	Portugal
+Gaspar_Frutuoso	influences	António_Cordeiro
+Gaspar_Frutuoso	influences	António_Cordeiro
+Gaspar_Frutuoso	influences	António_Cordeiro
+Gaspar_Frutuoso	influences	António_Cordeiro
+António_Cordeiro	isCitizenOf	Portugal
+António_Cordeiro	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/Julius_Edgar_Lilienfeld	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Austria-Hungary
+Julius_Edgar_Lilienfeld	Austria-Hungary
+Julius_Edgar_Lilienfeld	isCitizenOf	Austria-Hungary
+Julius_Edgar_Lilienfeld	isCitizenOf	Austria-Hungary
+
+http://dbpedia.org/resource/Julius_Edgar_Lilienfeld	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Austria-Hungary
+Julius_Edgar_Lilienfeld	Austria-Hungary
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Emil_Warburg
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Emil_Warburg
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Emil_Warburg
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Emil_Warburg
+Julius_Edgar_Lilienfeld	isCitizenOf	Austria-Hungary
+Julius_Edgar_Lilienfeld	isCitizenOf	Austria-Hungary
+
+http://dbpedia.org/resource/Julius_Edgar_Lilienfeld	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Austria-Hungary
+Julius_Edgar_Lilienfeld	Austria-Hungary
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Max_Planck
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Max_Planck
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Max_Planck
+Julius_Edgar_Lilienfeld	hasAcademicAdvisor	Max_Planck
+Julius_Edgar_Lilienfeld	isCitizenOf	Austria-Hungary
+Julius_Edgar_Lilienfeld	isCitizenOf	Austria-Hungary
+
+http://dbpedia.org/resource/Julius_Edgar_Lilienfeld	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/Austria-Hungary
+Julius_Edgar_Lilienfeld	Austria-Hungary
+Julius_Edgar_Lilienfeld	worksAt	Leipzig_University
+Julius_Edgar_Lilienfeld	worksAt	Leipzig_University
+Julius_Edgar_Lilienfeld	worksAt	Leipzig_University
+Julius_Edgar_Lilienfeld	worksAt	Leipzig_University
+Julius_Edgar_Lilienfeld	isCitizenOf	Austria-Hungary
+Julius_Edgar_Lilienfeld	isCitizenOf	Austria-Hungary
+

@@ -1,0 +1,722 @@
+http://dbpedia.org/resource/Special_Services_Group	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Siege_of_Lal_Masjid
+Special_Services_Group	Siege_of_Lal_Masjid
+Special_Services_Group	participatedIn	Siege_of_Lal_Masjid
+Special_Services_Group	participatedIn	Siege_of_Lal_Masjid
+
+http://dbpedia.org/resource/Khalil_al-Wazir	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Siege_of_Beirut
+Khalil_al-Wazir	Siege_of_Beirut
+Khalil_al-Wazir	isAffiliatedTo	Palestine_Liberation_Organization
+Khalil_al-Wazir	isAffiliatedTo	Palestine_Liberation_Organization
+Palestine_Liberation_Organization	participatedIn	Siege_of_Beirut
+Palestine_Liberation_Organization	participatedIn	Siege_of_Beirut
+
+http://dbpedia.org/resource/Free_Libyan_Air_Force	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Libyan_Civil_War_(2011)
+Free_Libyan_Air_Force	Libyan_Civil_War_(2011)
+Free_Libyan_Air_Force	participatedIn	Battle_of_Ajdabiya
+Free_Libyan_Air_Force	participatedIn	Battle_of_Ajdabiya
+National_Liberation_Army_(Libya)	participatedIn	Battle_of_Ajdabiya
+National_Liberation_Army_(Libya)	participatedIn	Battle_of_Ajdabiya
+National_Liberation_Army_(Libya)	participatedIn	Libyan_Civil_War_(2011)
+National_Liberation_Army_(Libya)	participatedIn	Libyan_Civil_War_(2011)
+
+http://dbpedia.org/resource/Free_Libyan_Air_Force	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Libyan_Civil_War_(2011)
+Free_Libyan_Air_Force	Libyan_Civil_War_(2011)
+Free_Libyan_Air_Force	participatedIn	Battle_of_Brega–Ajdabiya_road
+Free_Libyan_Air_Force	participatedIn	Battle_of_Brega–Ajdabiya_road
+National_Liberation_Army_(Libya)	participatedIn	Battle_of_Brega–Ajdabiya_road
+National_Liberation_Army_(Libya)	participatedIn	Battle_of_Brega–Ajdabiya_road
+National_Liberation_Army_(Libya)	participatedIn	Libyan_Civil_War_(2011)
+National_Liberation_Army_(Libya)	participatedIn	Libyan_Civil_War_(2011)
+
+http://dbpedia.org/resource/Christiaan_de_Wet	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Sanna's_Post
+Christiaan_de_Wet	Sanna's_Post
+Christiaan_de_Wet	isPoliticianOf	Orange_Free_State
+Christiaan_de_Wet	isPoliticianOf	Orange_Free_State
+Orange_Free_State	participatedIn	Sanna's_Post
+Sanna's_Post	happenedIn	Orange_Free_State
+Orange_Free_State	participatedIn	Sanna's_Post
+Sanna's_Post	happenedIn	Orange_Free_State
+
+http://dbpedia.org/resource/Christiaan_de_Wet	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Sanna's_Post
+Christiaan_de_Wet	Sanna's_Post
+Christiaan_de_Wet	hasChild	Colin_Fraser_Steyn
+Christiaan_de_Wet	hasChild	Colin_Fraser_Steyn
+Colin_Fraser_Steyn	wasBornIn	Bloemfontein
+Colin_Fraser_Steyn	diedIn	Bloemfontein
+Colin_Fraser_Steyn	wasBornIn	Bloemfontein
+Colin_Fraser_Steyn	diedIn	Bloemfontein
+Sanna's_Post	happenedIn	Bloemfontein
+Sanna's_Post	isLocatedIn	Bloemfontein
+Sanna's_Post	happenedIn	Bloemfontein
+Sanna's_Post	isLocatedIn	Bloemfontein
+
+http://dbpedia.org/resource/Daniel_Srb	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Croatian_War_of_Independence
+Daniel_Srb	Croatian_War_of_Independence
+Daniel_Srb	livesIn	Croatia
+Daniel_Srb	isCitizenOf	Croatia
+Daniel_Srb	livesIn	Croatia
+Daniel_Srb	isCitizenOf	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+
+http://dbpedia.org/resource/Daniel_Srb	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Croatian_War_of_Independence
+Daniel_Srb	Croatian_War_of_Independence
+Daniel_Srb	graduatedFrom	University_of_Zagreb
+Daniel_Srb	graduatedFrom	University_of_Zagreb
+University_of_Zagreb	isLocatedIn	Croatia
+University_of_Zagreb	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+
+http://dbpedia.org/resource/Abu_Ali_al-Anbari	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Military_intervention_against_ISIL
+Abu_Ali_al-Anbari	Military_intervention_against_ISIL
+Abu_Ali_al-Anbari	isCitizenOf	Syria
+Abu_Ali_al-Anbari	diedIn	Syria
+Abu_Ali_al-Anbari	isCitizenOf	Syria
+Abu_Ali_al-Anbari	diedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+
+http://dbpedia.org/resource/Abu_Ali_al-Anbari	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Military_intervention_against_ISIL
+Abu_Ali_al-Anbari	Military_intervention_against_ISIL
+Abu_Ali_al-Anbari	isCitizenOf	Iraq
+Abu_Ali_al-Anbari	isCitizenOf	Iraq
+Iraq	dealsWith	Syria
+Syria	dealsWith	Iraq
+Iraq	dealsWith	Syria
+Syria	dealsWith	Iraq
+Military_intervention_against_ISIL	happenedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+
+http://dbpedia.org/resource/Iraqi_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Iran–Iraq_War
+Iraqi_Army	Iran–Iraq_War
+Iraqi_Army	participatedIn	1991_uprising_in_Karbala
+Iraqi_Army	participatedIn	1991_uprising_in_Karbala
+Islamic_Dawa_Party	participatedIn	1991_uprising_in_Karbala
+Islamic_Dawa_Party	participatedIn	1991_uprising_in_Karbala
+Islamic_Dawa_Party	participatedIn	Iran–Iraq_War
+Islamic_Dawa_Party	participatedIn	Iran–Iraq_War
+
+http://dbpedia.org/resource/Iraqi_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Iran–Iraq_War
+Iraqi_Army	Iran–Iraq_War
+Iraqi_Army	participatedIn	1991_uprisings_in_Iraq
+Iraqi_Army	participatedIn	1991_uprisings_in_Iraq
+Islamic_Dawa_Party	participatedIn	1991_uprisings_in_Iraq
+Islamic_Dawa_Party	participatedIn	1991_uprisings_in_Iraq
+Islamic_Dawa_Party	participatedIn	Iran–Iraq_War
+Islamic_Dawa_Party	participatedIn	Iran–Iraq_War
+
+http://dbpedia.org/resource/Iraqi_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Iran–Iraq_War
+Iraqi_Army	Iran–Iraq_War
+Iraqi_Army	participatedIn	1991_uprising_in_Basra
+Iraqi_Army	participatedIn	1991_uprising_in_Basra
+Islamic_Dawa_Party	participatedIn	1991_uprising_in_Basra
+Islamic_Dawa_Party	participatedIn	1991_uprising_in_Basra
+Islamic_Dawa_Party	participatedIn	Iran–Iraq_War
+Islamic_Dawa_Party	participatedIn	Iran–Iraq_War
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/1948_Arab–Israeli_War
+Syrian_Army	1948_Arab–Israeli_War
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+Bashar_al-Assad	isLeaderOf	Syrian_Armed_Forces
+Bashar_al-Assad	isLeaderOf	Syrian_Armed_Forces
+Syrian_Armed_Forces	participatedIn	1948_Arab–Israeli_War
+Syrian_Armed_Forces	participatedIn	1948_Arab–Israeli_War
+
+http://dbpedia.org/resource/Steve_Russell_(politician)	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Tikrit
+Steve_Russell_(politician)	Tikrit
+Steve_Russell_(politician)	isCitizenOf	Iraq
+Steve_Russell_(politician)	isCitizenOf	Iraq
+Sajida_Talfah	isCitizenOf	Iraq
+Sajida_Talfah	isCitizenOf	Iraq
+Sajida_Talfah	wasBornIn	Tikrit
+Sajida_Talfah	wasBornIn	Tikrit
+
+http://dbpedia.org/resource/Steve_Russell_(politician)	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Tikrit
+Steve_Russell_(politician)	Tikrit
+Steve_Russell_(politician)	isCitizenOf	Iraq
+Steve_Russell_(politician)	isCitizenOf	Iraq
+Popular_Army_(Iraq)	isLocatedIn	Iraq
+Popular_Army_(Iraq)	isLocatedIn	Iraq
+Popular_Army_(Iraq)	isLocatedIn	Tikrit
+Popular_Army_(Iraq)	isLocatedIn	Tikrit
+
+http://dbpedia.org/resource/Brazilian_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Contestado_War
+Brazilian_Army	Contestado_War
+Brazilian_Army	participatedIn	Constitutionalist_Revolution
+Brazilian_Army	participatedIn	Constitutionalist_Revolution
+Brazilian_Army	participatedIn	Constitutionalist_Revolution
+Brazilian_Army	participatedIn	Constitutionalist_Revolution
+Brazilian_Army	participatedIn	Contestado_War
+Brazilian_Army	participatedIn	Contestado_War
+
+http://dbpedia.org/resource/Brazilian_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Contestado_War
+Brazilian_Army	Contestado_War
+Michel_Temer	isLeaderOf	Brazilian_Army
+Michel_Temer	isLeaderOf	Brazilian_Army
+Michel_Temer	isLeaderOf	Brazilian_Air_Force
+Michel_Temer	isLeaderOf	Brazilian_Air_Force
+Brazilian_Air_Force	participatedIn	Contestado_War
+Brazilian_Air_Force	participatedIn	Contestado_War
+
+http://dbpedia.org/resource/Brazilian_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Contestado_War
+Brazilian_Army	Contestado_War
+Michel_Temer	isLeaderOf	Brazilian_Army
+Michel_Temer	isLeaderOf	Brazilian_Army
+Michel_Temer	isLeaderOf	Brazilian_Army
+Michel_Temer	isLeaderOf	Brazilian_Army
+Brazilian_Army	participatedIn	Contestado_War
+Brazilian_Army	participatedIn	Contestado_War
+
+http://dbpedia.org/resource/Brazilian_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Contestado_War
+Brazilian_Army	Contestado_War
+Brazilian_Army	participatedIn	War_of_Independence_of_Brazil
+Brazilian_Army	participatedIn	War_of_Independence_of_Brazil
+Brazilian_Army	participatedIn	War_of_Independence_of_Brazil
+Brazilian_Army	participatedIn	War_of_Independence_of_Brazil
+Brazilian_Army	participatedIn	Contestado_War
+Brazilian_Army	participatedIn	Contestado_War
+
+http://dbpedia.org/resource/Brazilian_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Contestado_War
+Brazilian_Army	Contestado_War
+Brazilian_Army	participatedIn	Contestado_War
+Brazilian_Army	participatedIn	Contestado_War
+
+http://dbpedia.org/resource/Yugoslav_Air_Force	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Croatian_War_of_Independence
+Yugoslav_Air_Force	Croatian_War_of_Independence
+Yugoslav_Air_Force	participatedIn	Battle_of_the_Barracks
+Yugoslav_Air_Force	participatedIn	Battle_of_the_Barracks
+Battle_of_the_Barracks	happenedIn	Croatia
+Battle_of_the_Barracks	happenedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+
+http://dbpedia.org/resource/Yugoslav_Air_Force	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Croatian_War_of_Independence
+Yugoslav_Air_Force	Croatian_War_of_Independence
+Yugoslav_Air_Force	participatedIn	Operation_Swath-10
+Yugoslav_Air_Force	participatedIn	Operation_Swath-10
+Croatia	participatedIn	Operation_Swath-10
+Operation_Swath-10	isLocatedIn	Croatia
+Croatia	participatedIn	Operation_Swath-10
+Operation_Swath-10	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+
+http://dbpedia.org/resource/Yugoslav_Air_Force	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Croatian_War_of_Independence
+Yugoslav_Air_Force	Croatian_War_of_Independence
+Yugoslav_Air_Force	participatedIn	1991_Yugoslav_campaign_in_Croatia
+Yugoslav_Air_Force	participatedIn	1991_Yugoslav_campaign_in_Croatia
+1991_Yugoslav_campaign_in_Croatia	happenedIn	Croatia
+1991_Yugoslav_campaign_in_Croatia	happenedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+
+http://dbpedia.org/resource/Yugoslav_Air_Force	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Croatian_War_of_Independence
+Yugoslav_Air_Force	Croatian_War_of_Independence
+Yugoslav_Air_Force	participatedIn	Battle_of_Zadar
+Yugoslav_Air_Force	participatedIn	Battle_of_Zadar
+Battle_of_Zadar	happenedIn	Croatia
+Croatia	participatedIn	Battle_of_Zadar
+Battle_of_Zadar	happenedIn	Croatia
+Croatia	participatedIn	Battle_of_Zadar
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+
+http://dbpedia.org/resource/Yugoslav_Air_Force	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Croatian_War_of_Independence
+Yugoslav_Air_Force	Croatian_War_of_Independence
+Yugoslav_Air_Force	participatedIn	Battle_of_the_Dalmatian_Channels
+Yugoslav_Air_Force	participatedIn	Battle_of_the_Dalmatian_Channels
+Battle_of_the_Dalmatian_Channels	happenedIn	Croatia
+Battle_of_the_Dalmatian_Channels	happenedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+
+http://dbpedia.org/resource/Ali_Habib_Mahmud	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Yom_Kippur_War
+Ali_Habib_Mahmud	Yom_Kippur_War
+Ali_Habib_Mahmud	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Ali_Habib_Mahmud	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Hikmat_al-Shihabi	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Hikmat_al-Shihabi	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Hikmat_al-Shihabi	participatedIn	Yom_Kippur_War
+Hikmat_al-Shihabi	participatedIn	Yom_Kippur_War
+
+http://dbpedia.org/resource/Veljko_Kadijević	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Croatian_War_of_Independence
+Veljko_Kadijević	Croatian_War_of_Independence
+Veljko_Kadijević	wasBornIn	Imotski
+Veljko_Kadijević	wasBornIn	Imotski
+Imotski	isLocatedIn	Croatia
+Imotski	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+
+http://dbpedia.org/resource/Veljko_Kadijević	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Croatian_War_of_Independence
+Veljko_Kadijević	Croatian_War_of_Independence
+Veljko_Kadijević	isCitizenOf	Croatia
+Veljko_Kadijević	isCitizenOf	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+
+http://dbpedia.org/resource/Ante_Kotromanović	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Croatian_War_of_Independence
+Ante_Kotromanović	Croatian_War_of_Independence
+Ante_Kotromanović	isCitizenOf	Croatia
+Ante_Kotromanović	isPoliticianOf	Croatia
+Ante_Kotromanović	isCitizenOf	Croatia
+Ante_Kotromanović	isPoliticianOf	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+
+http://dbpedia.org/resource/Ali_Hassan_al-Majid	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Iraqi–Kurdish_conflict
+Ali_Hassan_al-Majid	Iraqi–Kurdish_conflict
+Ali_Hassan_al-Majid	isLeaderOf	National_Defense_Battalions_(Iraq)
+Ali_Hassan_al-Majid	isLeaderOf	National_Defense_Battalions_(Iraq)
+National_Defense_Battalions_(Iraq)	participatedIn	Iraqi–Kurdish_conflict
+National_Defense_Battalions_(Iraq)	participatedIn	Iraqi–Kurdish_conflict
+
+http://dbpedia.org/resource/Muath_Al-Kasasbeh	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Military_intervention_against_ISIL
+Muath_Al-Kasasbeh	Military_intervention_against_ISIL
+Muath_Al-Kasasbeh	isCitizenOf	Iraq
+Muath_Al-Kasasbeh	isCitizenOf	Iraq
+Iraq	dealsWith	Syria
+Syria	dealsWith	Iraq
+Iraq	dealsWith	Syria
+Syria	dealsWith	Iraq
+Military_intervention_against_ISIL	happenedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+
+http://dbpedia.org/resource/Muath_Al-Kasasbeh	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Military_intervention_against_ISIL
+Muath_Al-Kasasbeh	Military_intervention_against_ISIL
+Muath_Al-Kasasbeh	isCitizenOf	Syria
+Muath_Al-Kasasbeh	isCitizenOf	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+
+http://dbpedia.org/resource/Argentine_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Platine_War
+Argentine_Army	Platine_War
+Argentine_Army	participatedIn	Platine_War
+Argentine_Army	participatedIn	Platine_War
+
+http://dbpedia.org/resource/Argentine_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Platine_War
+Argentine_Army	Platine_War
+Argentine_Army	participatedIn	Battle_of_Lomas_Valentinas
+Argentine_Army	participatedIn	Battle_of_Lomas_Valentinas
+Argentine_Army	participatedIn	Battle_of_Lomas_Valentinas
+Argentine_Army	participatedIn	Battle_of_Lomas_Valentinas
+Argentine_Army	participatedIn	Platine_War
+Argentine_Army	participatedIn	Platine_War
+
+http://dbpedia.org/resource/Argentine_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Platine_War
+Argentine_Army	Platine_War
+Argentine_Army	participatedIn	Cisplatine_War
+Argentine_Army	participatedIn	Cisplatine_War
+Argentine_Army	participatedIn	Cisplatine_War
+Argentine_Army	participatedIn	Cisplatine_War
+Argentine_Army	participatedIn	Platine_War
+Argentine_Army	participatedIn	Platine_War
+
+http://dbpedia.org/resource/Argentine_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Platine_War
+Argentine_Army	Platine_War
+Argentine_Army	participatedIn	Pikysyry_maneuver
+Argentine_Army	participatedIn	Pikysyry_maneuver
+Argentine_Navy	participatedIn	Pikysyry_maneuver
+Argentine_Navy	participatedIn	Pikysyry_maneuver
+Argentine_Navy	participatedIn	Platine_War
+Argentine_Navy	participatedIn	Platine_War
+
+http://dbpedia.org/resource/Argentine_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Platine_War
+Argentine_Army	Platine_War
+Argentine_Army	participatedIn	Pikysyry_maneuver
+Argentine_Army	participatedIn	Pikysyry_maneuver
+Argentine_Army	participatedIn	Pikysyry_maneuver
+Argentine_Army	participatedIn	Pikysyry_maneuver
+Argentine_Army	participatedIn	Platine_War
+Argentine_Army	participatedIn	Platine_War
+
+http://dbpedia.org/resource/Argentine_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Platine_War
+Argentine_Army	Platine_War
+Argentine_Army	participatedIn	Campaign_of_the_Hills
+Argentine_Army	participatedIn	Campaign_of_the_Hills
+Argentine_Army	participatedIn	Campaign_of_the_Hills
+Argentine_Army	participatedIn	Campaign_of_the_Hills
+Argentine_Army	participatedIn	Platine_War
+Argentine_Army	participatedIn	Platine_War
+
+http://dbpedia.org/resource/Argentine_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Platine_War
+Argentine_Army	Platine_War
+Argentine_Army	participatedIn	Battle_of_Tuyutí
+Argentine_Army	participatedIn	Battle_of_Tuyutí
+Argentine_Army	participatedIn	Battle_of_Tuyutí
+Argentine_Army	participatedIn	Battle_of_Tuyutí
+Argentine_Army	participatedIn	Platine_War
+Argentine_Army	participatedIn	Platine_War
+
+http://dbpedia.org/resource/Argentine_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Platine_War
+Argentine_Army	Platine_War
+Argentine_Army	participatedIn	Battle_of_Estero_Bellaco
+Argentine_Army	participatedIn	Battle_of_Estero_Bellaco
+Argentine_Army	participatedIn	Battle_of_Estero_Bellaco
+Argentine_Army	participatedIn	Battle_of_Estero_Bellaco
+Argentine_Army	participatedIn	Platine_War
+Argentine_Army	participatedIn	Platine_War
+
+http://dbpedia.org/resource/Petros_Voulgaris	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Balkan_Wars
+Petros_Voulgaris	Balkan_Wars
+Petros_Voulgaris	wasBornIn	Hydra_(island)
+Petros_Voulgaris	wasBornIn	Hydra_(island)
+Hydra_(island)	isLocatedIn	Aegean_Sea
+Hydra_(island)	isLocatedIn	Aegean_Sea
+Balkan_Wars	happenedIn	Aegean_Sea
+Balkan_Wars	happenedIn	Aegean_Sea
+
+http://dbpedia.org/resource/Manuel_Belgrano	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Battle_of_Salta
+Manuel_Belgrano	Battle_of_Salta
+Manuel_Belgrano	wasBornIn	Buenos_Aires
+Manuel_Belgrano	wasBornIn	Buenos_Aires
+United_Provinces_of_the_Rio_de_la_Plata	hasCapital	Buenos_Aires
+United_Provinces_of_the_Rio_de_la_Plata	hasCapital	Buenos_Aires
+United_Provinces_of_the_Rio_de_la_Plata	participatedIn	Battle_of_Salta
+Battle_of_Salta	happenedIn	United_Provinces_of_the_Rio_de_la_Plata
+United_Provinces_of_the_Rio_de_la_Plata	participatedIn	Battle_of_Salta
+Battle_of_Salta	happenedIn	United_Provinces_of_the_Rio_de_la_Plata
+
+http://dbpedia.org/resource/Manuel_Belgrano	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Battle_of_Salta
+Manuel_Belgrano	Battle_of_Salta
+Manuel_Belgrano	diedIn	United_Provinces_of_the_Rio_de_la_Plata
+Manuel_Belgrano	diedIn	United_Provinces_of_the_Rio_de_la_Plata
+United_Provinces_of_the_Rio_de_la_Plata	participatedIn	Battle_of_Salta
+Battle_of_Salta	happenedIn	United_Provinces_of_the_Rio_de_la_Plata
+United_Provinces_of_the_Rio_de_la_Plata	participatedIn	Battle_of_Salta
+Battle_of_Salta	happenedIn	United_Provinces_of_the_Rio_de_la_Plata
+
+http://dbpedia.org/resource/Jesse_L._Reno	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Battle_of_South_Mountain
+Jesse_L._Reno	Battle_of_South_Mountain
+Jesse_L._Reno	diedIn	Boonsboro,_Maryland
+Jesse_L._Reno	diedIn	Boonsboro,_Maryland
+Battle_of_South_Mountain	isLocatedIn	Boonsboro,_Maryland
+Battle_of_South_Mountain	happenedIn	Boonsboro,_Maryland
+Battle_of_South_Mountain	isLocatedIn	Boonsboro,_Maryland
+Battle_of_South_Mountain	happenedIn	Boonsboro,_Maryland
+
+http://dbpedia.org/resource/Khalil_al-Wazir	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Battle_of_Karameh
+Khalil_al-Wazir	Battle_of_Karameh
+Khalil_al-Wazir	isAffiliatedTo	Palestine_Liberation_Organization
+Khalil_al-Wazir	isAffiliatedTo	Palestine_Liberation_Organization
+Palestine_Liberation_Organization	participatedIn	Battle_of_Karameh
+Palestine_Liberation_Organization	participatedIn	Battle_of_Karameh
+
+http://dbpedia.org/resource/Iraqi_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Northern_Iraq_offensive_(June_2014)
+Iraqi_Army	Northern_Iraq_offensive_(June_2014)
+Iraqi_Army	participatedIn	Iraqi–Kurdish_conflict
+Iraqi_Army	participatedIn	Iraqi–Kurdish_conflict
+Iraqi_Communist_Party	participatedIn	Iraqi–Kurdish_conflict
+Iraqi_Communist_Party	participatedIn	Iraqi–Kurdish_conflict
+Iraqi_Communist_Party	participatedIn	Northern_Iraq_offensive_(June_2014)
+Iraqi_Communist_Party	participatedIn	Northern_Iraq_offensive_(June_2014)
+
+http://dbpedia.org/resource/Iraqi_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Northern_Iraq_offensive_(June_2014)
+Iraqi_Army	Northern_Iraq_offensive_(June_2014)
+Iraqi_Army	participatedIn	1991_uprisings_in_Iraq
+Iraqi_Army	participatedIn	1991_uprisings_in_Iraq
+Assyrian_Democratic_Movement	participatedIn	1991_uprisings_in_Iraq
+Assyrian_Democratic_Movement	participatedIn	1991_uprisings_in_Iraq
+Assyrian_Democratic_Movement	participatedIn	Northern_Iraq_offensive_(June_2014)
+Assyrian_Democratic_Movement	participatedIn	Northern_Iraq_offensive_(June_2014)
+
+http://dbpedia.org/resource/Iraqi_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Northern_Iraq_offensive_(June_2014)
+Iraqi_Army	Northern_Iraq_offensive_(June_2014)
+Iraqi_Army	participatedIn	1991_uprisings_in_Iraq
+Iraqi_Army	participatedIn	1991_uprisings_in_Iraq
+Iraqi_Communist_Party	participatedIn	1991_uprisings_in_Iraq
+Iraqi_Communist_Party	participatedIn	1991_uprisings_in_Iraq
+Iraqi_Communist_Party	participatedIn	Northern_Iraq_offensive_(June_2014)
+Iraqi_Communist_Party	participatedIn	Northern_Iraq_offensive_(June_2014)
+
+http://dbpedia.org/resource/Iraqi_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Northern_Iraq_offensive_(June_2014)
+Iraqi_Army	Northern_Iraq_offensive_(June_2014)
+Iraqi_Army	participatedIn	2013_Hawija_clashes
+Iraqi_Army	participatedIn	2013_Hawija_clashes
+2013_Hawija_clashes	happenedIn	Kirkuk_Governorate
+2013_Hawija_clashes	happenedIn	Kirkuk_Governorate
+Northern_Iraq_offensive_(June_2014)	happenedIn	Kirkuk_Governorate
+Northern_Iraq_offensive_(June_2014)	happenedIn	Kirkuk_Governorate
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Yom_Kippur_War
+Syrian_Army	Yom_Kippur_War
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+Bashar_al-Assad	isLeaderOf	Syrian_Armed_Forces
+Bashar_al-Assad	isLeaderOf	Syrian_Armed_Forces
+Syrian_Armed_Forces	participatedIn	Yom_Kippur_War
+Syrian_Armed_Forces	participatedIn	Yom_Kippur_War
+
+http://dbpedia.org/resource/Brazilian_Navy	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Constitutionalist_Revolution
+Brazilian_Navy	Constitutionalist_Revolution
+Michel_Temer	isLeaderOf	Brazilian_Navy
+Michel_Temer	isLeaderOf	Brazilian_Navy
+Michel_Temer	isLeaderOf	Brazilian_Navy
+Michel_Temer	isLeaderOf	Brazilian_Navy
+Brazilian_Navy	participatedIn	Constitutionalist_Revolution
+Brazilian_Navy	participatedIn	Constitutionalist_Revolution
+
+http://dbpedia.org/resource/Brazilian_Navy	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Constitutionalist_Revolution
+Brazilian_Navy	Constitutionalist_Revolution
+Michel_Temer	isLeaderOf	Brazilian_Navy
+Michel_Temer	isLeaderOf	Brazilian_Navy
+Michel_Temer	isLeaderOf	Brazilian_Air_Force
+Michel_Temer	isLeaderOf	Brazilian_Air_Force
+Brazilian_Air_Force	participatedIn	Constitutionalist_Revolution
+Brazilian_Air_Force	participatedIn	Constitutionalist_Revolution
+
+http://dbpedia.org/resource/Brazilian_Navy	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Constitutionalist_Revolution
+Brazilian_Navy	Constitutionalist_Revolution
+Michel_Temer	isLeaderOf	Brazilian_Navy
+Michel_Temer	isLeaderOf	Brazilian_Navy
+Michel_Temer	isLeaderOf	Brazilian_Army
+Michel_Temer	isLeaderOf	Brazilian_Army
+Brazilian_Army	participatedIn	Constitutionalist_Revolution
+Brazilian_Army	participatedIn	Constitutionalist_Revolution
+
+http://dbpedia.org/resource/Brazilian_Navy	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Constitutionalist_Revolution
+Brazilian_Navy	Constitutionalist_Revolution
+Brazilian_Navy	participatedIn	War_of_Independence_of_Brazil
+Brazilian_Navy	participatedIn	War_of_Independence_of_Brazil
+Brazilian_Army	participatedIn	War_of_Independence_of_Brazil
+Brazilian_Army	participatedIn	War_of_Independence_of_Brazil
+Brazilian_Army	participatedIn	Constitutionalist_Revolution
+Brazilian_Army	participatedIn	Constitutionalist_Revolution
+
+http://dbpedia.org/resource/Brazilian_Navy	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Constitutionalist_Revolution
+Brazilian_Navy	Constitutionalist_Revolution
+Brazilian_Navy	participatedIn	War_of_Independence_of_Brazil
+Brazilian_Navy	participatedIn	War_of_Independence_of_Brazil
+Brazilian_Navy	participatedIn	War_of_Independence_of_Brazil
+Brazilian_Navy	participatedIn	War_of_Independence_of_Brazil
+Brazilian_Navy	participatedIn	Constitutionalist_Revolution
+Brazilian_Navy	participatedIn	Constitutionalist_Revolution
+
+http://dbpedia.org/resource/Brazilian_Navy	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Constitutionalist_Revolution
+Brazilian_Navy	Constitutionalist_Revolution
+Brazilian_Navy	participatedIn	Constitutionalist_Revolution
+Brazilian_Navy	participatedIn	Constitutionalist_Revolution
+
+http://dbpedia.org/resource/Free_Libyan_Air_Force	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Battle_of_Ajdabiya
+Free_Libyan_Air_Force	Battle_of_Ajdabiya
+Free_Libyan_Air_Force	participatedIn	Battle_of_Ajdabiya
+Free_Libyan_Air_Force	participatedIn	Battle_of_Ajdabiya
+
+http://dbpedia.org/resource/Free_Libyan_Air_Force	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Battle_of_Ajdabiya
+Free_Libyan_Air_Force	Battle_of_Ajdabiya
+Free_Libyan_Air_Force	participatedIn	Battle_of_Brega–Ajdabiya_road
+Free_Libyan_Air_Force	participatedIn	Battle_of_Brega–Ajdabiya_road
+Battle_of_Brega–Ajdabiya_road	happenedIn	Ajdabiya
+Battle_of_Brega–Ajdabiya_road	happenedIn	Ajdabiya
+Battle_of_Ajdabiya	happenedIn	Ajdabiya
+Battle_of_Ajdabiya	happenedIn	Ajdabiya
+
+http://dbpedia.org/resource/Free_Libyan_Air_Force	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Battle_of_Ajdabiya
+Free_Libyan_Air_Force	Battle_of_Ajdabiya
+Free_Libyan_Air_Force	participatedIn	Battle_of_Brega–Ajdabiya_road
+Free_Libyan_Air_Force	participatedIn	Battle_of_Brega–Ajdabiya_road
+Libyan_Army_(1951–2011)	participatedIn	Battle_of_Brega–Ajdabiya_road
+Libyan_Army_(1951–2011)	participatedIn	Battle_of_Brega–Ajdabiya_road
+Libyan_Army_(1951–2011)	participatedIn	Battle_of_Ajdabiya
+Libyan_Army_(1951–2011)	participatedIn	Battle_of_Ajdabiya
+
+http://dbpedia.org/resource/Free_Libyan_Air_Force	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Battle_of_Ajdabiya
+Free_Libyan_Air_Force	Battle_of_Ajdabiya
+Free_Libyan_Air_Force	participatedIn	Battle_of_Brega–Ajdabiya_road
+Free_Libyan_Air_Force	participatedIn	Battle_of_Brega–Ajdabiya_road
+Free_Libyan_Air_Force	participatedIn	Battle_of_Brega–Ajdabiya_road
+Free_Libyan_Air_Force	participatedIn	Battle_of_Brega–Ajdabiya_road
+Free_Libyan_Air_Force	participatedIn	Battle_of_Ajdabiya
+Free_Libyan_Air_Force	participatedIn	Battle_of_Ajdabiya
+
+http://dbpedia.org/resource/Free_Libyan_Air_Force	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Battle_of_Ajdabiya
+Free_Libyan_Air_Force	Battle_of_Ajdabiya
+Free_Libyan_Air_Force	participatedIn	Battle_of_Brega–Ajdabiya_road
+Free_Libyan_Air_Force	participatedIn	Battle_of_Brega–Ajdabiya_road
+National_Liberation_Army_(Libya)	participatedIn	Battle_of_Brega–Ajdabiya_road
+National_Liberation_Army_(Libya)	participatedIn	Battle_of_Brega–Ajdabiya_road
+National_Liberation_Army_(Libya)	participatedIn	Battle_of_Ajdabiya
+National_Liberation_Army_(Libya)	participatedIn	Battle_of_Ajdabiya
+
+http://dbpedia.org/resource/Gojko_Šušak	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Croatian_War_of_Independence
+Gojko_Šušak	Croatian_War_of_Independence
+Gojko_Šušak	isCitizenOf	Croatia
+Gojko_Šušak	isPoliticianOf	Croatia
+Gojko_Šušak	isCitizenOf	Croatia
+Gojko_Šušak	isPoliticianOf	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+
+http://dbpedia.org/resource/Special_Services_Group	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Operation_Zarb-e-Azb
+Special_Services_Group	Operation_Zarb-e-Azb
+Special_Services_Group	isLocatedIn	Pakistan
+Special_Services_Group	isLocatedIn	Pakistan
+Operation_Zarb-e-Azb	happenedIn	Pakistan
+Operation_Zarb-e-Azb	isLocatedIn	Pakistan
+Pakistan	participatedIn	Operation_Zarb-e-Azb
+Operation_Zarb-e-Azb	happenedIn	Pakistan
+Operation_Zarb-e-Azb	isLocatedIn	Pakistan
+Pakistan	participatedIn	Operation_Zarb-e-Azb
+
+http://dbpedia.org/resource/Special_Services_Group	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Operation_Zarb-e-Azb
+Special_Services_Group	Operation_Zarb-e-Azb
+Special_Services_Group	participatedIn	Siege_of_Lal_Masjid
+Special_Services_Group	participatedIn	Siege_of_Lal_Masjid
+Siege_of_Lal_Masjid	isLocatedIn	Pakistan
+Pakistan	participatedIn	Siege_of_Lal_Masjid
+Siege_of_Lal_Masjid	isLocatedIn	Pakistan
+Pakistan	participatedIn	Siege_of_Lal_Masjid
+Operation_Zarb-e-Azb	happenedIn	Pakistan
+Operation_Zarb-e-Azb	isLocatedIn	Pakistan
+Pakistan	participatedIn	Operation_Zarb-e-Azb
+Operation_Zarb-e-Azb	happenedIn	Pakistan
+Operation_Zarb-e-Azb	isLocatedIn	Pakistan
+Pakistan	participatedIn	Operation_Zarb-e-Azb
+
+http://dbpedia.org/resource/Special_Services_Group	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Operation_Zarb-e-Azb
+Special_Services_Group	Operation_Zarb-e-Azb
+Special_Services_Group	participatedIn	Operation_Zarb-e-Azb
+Special_Services_Group	participatedIn	Operation_Zarb-e-Azb
+
+http://dbpedia.org/resource/Brazilian_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Constitutionalist_Revolution
+Brazilian_Army	Constitutionalist_Revolution
+Brazilian_Army	participatedIn	Constitutionalist_Revolution
+Brazilian_Army	participatedIn	Constitutionalist_Revolution
+
+http://dbpedia.org/resource/Brazilian_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Constitutionalist_Revolution
+Brazilian_Army	Constitutionalist_Revolution
+Michel_Temer	isLeaderOf	Brazilian_Army
+Michel_Temer	isLeaderOf	Brazilian_Army
+Michel_Temer	isLeaderOf	Brazilian_Navy
+Michel_Temer	isLeaderOf	Brazilian_Navy
+Brazilian_Navy	participatedIn	Constitutionalist_Revolution
+Brazilian_Navy	participatedIn	Constitutionalist_Revolution
+
+http://dbpedia.org/resource/Brazilian_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Constitutionalist_Revolution
+Brazilian_Army	Constitutionalist_Revolution
+Michel_Temer	isLeaderOf	Brazilian_Army
+Michel_Temer	isLeaderOf	Brazilian_Army
+Michel_Temer	isLeaderOf	Brazilian_Air_Force
+Michel_Temer	isLeaderOf	Brazilian_Air_Force
+Brazilian_Air_Force	participatedIn	Constitutionalist_Revolution
+Brazilian_Air_Force	participatedIn	Constitutionalist_Revolution
+
+http://dbpedia.org/resource/Brazilian_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Constitutionalist_Revolution
+Brazilian_Army	Constitutionalist_Revolution
+Michel_Temer	isLeaderOf	Brazilian_Army
+Michel_Temer	isLeaderOf	Brazilian_Army
+Michel_Temer	isLeaderOf	Brazilian_Army
+Michel_Temer	isLeaderOf	Brazilian_Army
+Brazilian_Army	participatedIn	Constitutionalist_Revolution
+Brazilian_Army	participatedIn	Constitutionalist_Revolution
+
+http://dbpedia.org/resource/Brazilian_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Constitutionalist_Revolution
+Brazilian_Army	Constitutionalist_Revolution
+Brazilian_Army	participatedIn	War_of_Independence_of_Brazil
+Brazilian_Army	participatedIn	War_of_Independence_of_Brazil
+Brazilian_Army	participatedIn	War_of_Independence_of_Brazil
+Brazilian_Army	participatedIn	War_of_Independence_of_Brazil
+Brazilian_Army	participatedIn	Constitutionalist_Revolution
+Brazilian_Army	participatedIn	Constitutionalist_Revolution
+
+http://dbpedia.org/resource/Brazilian_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Constitutionalist_Revolution
+Brazilian_Army	Constitutionalist_Revolution
+Brazilian_Army	participatedIn	War_of_Independence_of_Brazil
+Brazilian_Army	participatedIn	War_of_Independence_of_Brazil
+Brazilian_Navy	participatedIn	War_of_Independence_of_Brazil
+Brazilian_Navy	participatedIn	War_of_Independence_of_Brazil
+Brazilian_Navy	participatedIn	Constitutionalist_Revolution
+Brazilian_Navy	participatedIn	Constitutionalist_Revolution
+
+http://dbpedia.org/resource/Brazilian_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Constitutionalist_Revolution
+Brazilian_Army	Constitutionalist_Revolution
+Brazilian_Army	participatedIn	Contestado_War
+Brazilian_Army	participatedIn	Contestado_War
+Brazilian_Army	participatedIn	Contestado_War
+Brazilian_Army	participatedIn	Contestado_War
+Brazilian_Army	participatedIn	Constitutionalist_Revolution
+Brazilian_Army	participatedIn	Constitutionalist_Revolution
+
+http://dbpedia.org/resource/Ivan_Vekić	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Croatian_War_of_Independence
+Ivan_Vekić	Croatian_War_of_Independence
+Ivan_Vekić	isPoliticianOf	Croatia
+Ivan_Vekić	isCitizenOf	Croatia
+Ivan_Vekić	isPoliticianOf	Croatia
+Ivan_Vekić	isCitizenOf	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+
+http://dbpedia.org/resource/Martin_Špegelj	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Croatian_War_of_Independence
+Martin_Špegelj	Croatian_War_of_Independence
+Martin_Špegelj	isCitizenOf	Croatia
+Martin_Špegelj	isPoliticianOf	Croatia
+Martin_Špegelj	isCitizenOf	Croatia
+Martin_Špegelj	isPoliticianOf	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+Croatian_War_of_Independence	happenedIn	Croatia
+Croatia	participatedIn	Croatian_War_of_Independence
+Croatian_War_of_Independence	isLocatedIn	Croatia
+
+http://dbpedia.org/resource/Iraqi_Army	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/Military_intervention_against_ISIL
+Iraqi_Army	Military_intervention_against_ISIL
+Iraqi_Army	isLocatedIn	Iraq
+Iraqi_Army	isLocatedIn	Iraq
+Iraq	dealsWith	Syria
+Syria	dealsWith	Iraq
+Iraq	dealsWith	Syria
+Syria	dealsWith	Iraq
+Military_intervention_against_ISIL	happenedIn	Syria
+Military_intervention_against_ISIL	happenedIn	Syria
+

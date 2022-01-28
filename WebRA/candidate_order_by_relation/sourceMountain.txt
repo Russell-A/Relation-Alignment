@@ -1,0 +1,104 @@
+http://dbpedia.org/resource/Komati_River	http://dbpedia.org/ontology/sourceMountain	http://dbpedia.org/resource/Ermelo,_Mpumalanga
+Komati_River	Ermelo,_Mpumalanga
+Komati_River	isLocatedIn	Mpumalanga
+Komati_River	isLocatedIn	Mpumalanga
+Ermelo,_Mpumalanga	isLocatedIn	Mpumalanga
+Ermelo,_Mpumalanga	isLocatedIn	Mpumalanga
+
+http://dbpedia.org/resource/Komati_River	http://dbpedia.org/ontology/sourceMountain	http://dbpedia.org/resource/Ermelo,_Mpumalanga
+Komati_River	Ermelo,_Mpumalanga
+Komati_River	isLocatedIn	Mpumalanga
+Komati_River	isLocatedIn	Mpumalanga
+N2_road_(South_Africa)	isLocatedIn	Mpumalanga
+N2_road_(South_Africa)	isLocatedIn	Mpumalanga
+N2_road_(South_Africa)	isLocatedIn	Ermelo,_Mpumalanga
+N2_road_(South_Africa)	isLocatedIn	Ermelo,_Mpumalanga
+
+http://dbpedia.org/resource/Androscoggin_River	http://dbpedia.org/ontology/sourceMountain	http://dbpedia.org/resource/Coös_County,_New_Hampshire
+Androscoggin_River	Coös_County,_New_Hampshire
+Androscoggin_River	isLocatedIn	Coös_County,_New_Hampshire
+Androscoggin_River	isLocatedIn	Coös_County,_New_Hampshire
+
+http://dbpedia.org/resource/Androscoggin_River	http://dbpedia.org/ontology/sourceMountain	http://dbpedia.org/resource/Coös_County,_New_Hampshire
+Androscoggin_River	Coös_County,_New_Hampshire
+Androscoggin_River	isLocatedIn	New_Hampshire
+Androscoggin_River	isLocatedIn	New_Hampshire
+Mount_Washington_(New_Hampshire)	isLocatedIn	New_Hampshire
+Mount_Washington_(New_Hampshire)	isLocatedIn	New_Hampshire
+Mount_Washington_(New_Hampshire)	isLocatedIn	Coös_County,_New_Hampshire
+Mount_Washington_(New_Hampshire)	isLocatedIn	Coös_County,_New_Hampshire
+
+http://dbpedia.org/resource/Androscoggin_River	http://dbpedia.org/ontology/sourceMountain	http://dbpedia.org/resource/Coös_County,_New_Hampshire
+Androscoggin_River	Coös_County,_New_Hampshire
+Androscoggin_River	isLocatedIn	New_Hampshire
+Androscoggin_River	isLocatedIn	New_Hampshire
+Randolph,_New_Hampshire	isLocatedIn	New_Hampshire
+Randolph,_New_Hampshire	isLocatedIn	New_Hampshire
+Randolph,_New_Hampshire	isLocatedIn	Coös_County,_New_Hampshire
+Randolph,_New_Hampshire	isLocatedIn	Coös_County,_New_Hampshire
+
+http://dbpedia.org/resource/Androscoggin_River	http://dbpedia.org/ontology/sourceMountain	http://dbpedia.org/resource/Coös_County,_New_Hampshire
+Androscoggin_River	Coös_County,_New_Hampshire
+Androscoggin_River	isLocatedIn	New_Hampshire
+Androscoggin_River	isLocatedIn	New_Hampshire
+Androscoggin_River	isLocatedIn	New_Hampshire
+Androscoggin_River	isLocatedIn	New_Hampshire
+Androscoggin_River	isLocatedIn	Coös_County,_New_Hampshire
+Androscoggin_River	isLocatedIn	Coös_County,_New_Hampshire
+
+http://dbpedia.org/resource/Androscoggin_River	http://dbpedia.org/ontology/sourceMountain	http://dbpedia.org/resource/Coös_County,_New_Hampshire
+Androscoggin_River	Coös_County,_New_Hampshire
+Androscoggin_River	isLocatedIn	New_Hampshire
+Androscoggin_River	isLocatedIn	New_Hampshire
+Connecticut_River	isLocatedIn	New_Hampshire
+Connecticut_River	isLocatedIn	New_Hampshire
+Connecticut_River	isLocatedIn	Coös_County,_New_Hampshire
+Connecticut_River	isLocatedIn	Coös_County,_New_Hampshire
+
+http://dbpedia.org/resource/Androscoggin_River	http://dbpedia.org/ontology/sourceMountain	http://dbpedia.org/resource/Coös_County,_New_Hampshire
+Androscoggin_River	Coös_County,_New_Hampshire
+Androscoggin_River	isLocatedIn	New_Hampshire
+Androscoggin_River	isLocatedIn	New_Hampshire
+Lancaster,_New_Hampshire	isLocatedIn	New_Hampshire
+Lancaster,_New_Hampshire	isLocatedIn	New_Hampshire
+Lancaster,_New_Hampshire	isLocatedIn	Coös_County,_New_Hampshire
+Coös_County,_New_Hampshire	isLocatedIn	Lancaster,_New_Hampshire
+Lancaster,_New_Hampshire	isLocatedIn	Coös_County,_New_Hampshire
+Coös_County,_New_Hampshire	isLocatedIn	Lancaster,_New_Hampshire
+
+http://dbpedia.org/resource/Androscoggin_River	http://dbpedia.org/ontology/sourceMountain	http://dbpedia.org/resource/Coös_County,_New_Hampshire
+Androscoggin_River	Coös_County,_New_Hampshire
+Androscoggin_River	isLocatedIn	New_Hampshire
+Androscoggin_River	isLocatedIn	New_Hampshire
+Mount_Webster	isLocatedIn	New_Hampshire
+Mount_Webster	isLocatedIn	New_Hampshire
+Mount_Webster	isLocatedIn	Coös_County,_New_Hampshire
+Mount_Webster	isLocatedIn	Coös_County,_New_Hampshire
+
+http://dbpedia.org/resource/Androscoggin_River	http://dbpedia.org/ontology/sourceMountain	http://dbpedia.org/resource/Coös_County,_New_Hampshire
+Androscoggin_River	Coös_County,_New_Hampshire
+Androscoggin_River	isLocatedIn	New_Hampshire
+Androscoggin_River	isLocatedIn	New_Hampshire
+Boott_Spur	isLocatedIn	New_Hampshire
+Boott_Spur	isLocatedIn	New_Hampshire
+Boott_Spur	isLocatedIn	Coös_County,_New_Hampshire
+Boott_Spur	isLocatedIn	Coös_County,_New_Hampshire
+
+http://dbpedia.org/resource/Androscoggin_River	http://dbpedia.org/ontology/sourceMountain	http://dbpedia.org/resource/Coös_County,_New_Hampshire
+Androscoggin_River	Coös_County,_New_Hampshire
+Androscoggin_River	isLocatedIn	Androscoggin_County,_Maine
+Androscoggin_River	isLocatedIn	Androscoggin_County,_Maine
+Androscoggin_River	isLocatedIn	Androscoggin_County,_Maine
+Androscoggin_River	isLocatedIn	Androscoggin_County,_Maine
+Androscoggin_River	isLocatedIn	Coös_County,_New_Hampshire
+Androscoggin_River	isLocatedIn	Coös_County,_New_Hampshire
+
+http://dbpedia.org/resource/Androscoggin_River	http://dbpedia.org/ontology/sourceMountain	http://dbpedia.org/resource/Coös_County,_New_Hampshire
+Androscoggin_River	Coös_County,_New_Hampshire
+Androscoggin_River	isLocatedIn	Sagadahoc_County,_Maine
+Androscoggin_River	isLocatedIn	Sagadahoc_County,_Maine
+Androscoggin_River	isLocatedIn	Sagadahoc_County,_Maine
+Androscoggin_River	isLocatedIn	Sagadahoc_County,_Maine
+Androscoggin_River	isLocatedIn	Coös_County,_New_Hampshire
+Androscoggin_River	isLocatedIn	Coös_County,_New_Hampshire
+

@@ -1,0 +1,602 @@
+http://dbpedia.org/resource/Peter_L._Pond	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Cambodia
+Peter_L._Pond	Cambodia
+Peter_L._Pond	isCitizenOf	Cambodia
+Peter_L._Pond	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Peter_L._Pond	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Cambodia
+Peter_L._Pond	Cambodia
+Peter_L._Pond	hasChild	Arn_Chorn-Pond
+Peter_L._Pond	hasChild	Arn_Chorn-Pond
+Arn_Chorn-Pond	isCitizenOf	Cambodia
+Arn_Chorn-Pond	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Peter_L._Pond	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Cambodia
+Peter_L._Pond	Cambodia
+Peter_L._Pond	hasChild	Arn_Chorn-Pond
+Peter_L._Pond	hasChild	Arn_Chorn-Pond
+Peter_L._Pond	hasChild	Arn_Chorn-Pond
+Peter_L._Pond	hasChild	Arn_Chorn-Pond
+Peter_L._Pond	isCitizenOf	Cambodia
+Peter_L._Pond	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/Peter_L._Pond	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Cambodia
+Peter_L._Pond	Cambodia
+Peter_L._Pond	hasChild	Arn_Chorn-Pond
+Peter_L._Pond	hasChild	Arn_Chorn-Pond
+Arn_Chorn-Pond	wasBornIn	Battambang
+Arn_Chorn-Pond	wasBornIn	Battambang
+Battambang	isLocatedIn	Cambodia
+Battambang	isLocatedIn	Cambodia
+
+http://dbpedia.org/resource/Peter_L._Pond	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Cambodia
+Peter_L._Pond	Cambodia
+Peter_L._Pond	wasBornIn	Milford,_Connecticut
+Peter_L._Pond	wasBornIn	Milford,_Connecticut
+Peter_L._Pond	wasBornIn	Milford,_Connecticut
+Peter_L._Pond	wasBornIn	Milford,_Connecticut
+Peter_L._Pond	isCitizenOf	Cambodia
+Peter_L._Pond	isCitizenOf	Cambodia
+
+http://dbpedia.org/resource/G._Viswanathan	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/VIT_University
+G._Viswanathan	VIT_University
+G._Viswanathan	created	VIT_University
+G._Viswanathan	created	VIT_University
+
+http://dbpedia.org/resource/G._Viswanathan	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/VIT_University
+G._Viswanathan	VIT_University
+G._Viswanathan	graduatedFrom	Loyola_College,_Chennai
+G._Viswanathan	graduatedFrom	Loyola_College,_Chennai
+G._Viswanathan	graduatedFrom	Loyola_College,_Chennai
+G._Viswanathan	graduatedFrom	Loyola_College,_Chennai
+G._Viswanathan	created	VIT_University
+G._Viswanathan	created	VIT_University
+
+http://dbpedia.org/resource/Stephen_A._Schwarzman	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/The_Blackstone_Group
+Stephen_A._Schwarzman	The_Blackstone_Group
+Stephen_A._Schwarzman	created	The_Blackstone_Group
+Stephen_A._Schwarzman	created	The_Blackstone_Group
+
+http://dbpedia.org/resource/Stephen_A._Schwarzman	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/The_Blackstone_Group
+Stephen_A._Schwarzman	The_Blackstone_Group
+Stephen_A._Schwarzman	graduatedFrom	Harvard_Business_School
+Stephen_A._Schwarzman	graduatedFrom	Harvard_Business_School
+Stephen_A._Schwarzman	graduatedFrom	Harvard_Business_School
+Stephen_A._Schwarzman	graduatedFrom	Harvard_Business_School
+Stephen_A._Schwarzman	created	The_Blackstone_Group
+Stephen_A._Schwarzman	created	The_Blackstone_Group
+
+http://dbpedia.org/resource/Stephen_A._Schwarzman	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/The_Blackstone_Group
+Stephen_A._Schwarzman	The_Blackstone_Group
+Stephen_A._Schwarzman	graduatedFrom	Yale_University
+Stephen_A._Schwarzman	graduatedFrom	Yale_University
+Stephen_A._Schwarzman	graduatedFrom	Yale_University
+Stephen_A._Schwarzman	graduatedFrom	Yale_University
+Stephen_A._Schwarzman	created	The_Blackstone_Group
+Stephen_A._Schwarzman	created	The_Blackstone_Group
+
+http://dbpedia.org/resource/Hiroshi_Mikitani	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Rakuten
+Hiroshi_Mikitani	Rakuten
+Hiroshi_Mikitani	created	Rakuten
+Hiroshi_Mikitani	created	Rakuten
+
+http://dbpedia.org/resource/Hiroshi_Mikitani	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Rakuten
+Hiroshi_Mikitani	Rakuten
+Hiroshi_Mikitani	wasBornIn	Kobe
+Hiroshi_Mikitani	wasBornIn	Kobe
+Hiroshi_Mikitani	wasBornIn	Kobe
+Hiroshi_Mikitani	wasBornIn	Kobe
+Hiroshi_Mikitani	created	Rakuten
+Hiroshi_Mikitani	created	Rakuten
+
+http://dbpedia.org/resource/Hary_Tanoesoedibjo	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Media_Nusantara_Citra
+Hary_Tanoesoedibjo	Media_Nusantara_Citra
+Hary_Tanoesoedibjo	graduatedFrom	University_of_Ottawa
+Hary_Tanoesoedibjo	graduatedFrom	University_of_Ottawa
+Hary_Tanoesoedibjo	graduatedFrom	University_of_Ottawa
+Hary_Tanoesoedibjo	graduatedFrom	University_of_Ottawa
+Hary_Tanoesoedibjo	created	Media_Nusantara_Citra
+Hary_Tanoesoedibjo	created	Media_Nusantara_Citra
+
+http://dbpedia.org/resource/Hary_Tanoesoedibjo	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Media_Nusantara_Citra
+Hary_Tanoesoedibjo	Media_Nusantara_Citra
+Hary_Tanoesoedibjo	graduatedFrom	Carleton_University
+Hary_Tanoesoedibjo	graduatedFrom	Carleton_University
+Hary_Tanoesoedibjo	graduatedFrom	Carleton_University
+Hary_Tanoesoedibjo	graduatedFrom	Carleton_University
+Hary_Tanoesoedibjo	created	Media_Nusantara_Citra
+Hary_Tanoesoedibjo	created	Media_Nusantara_Citra
+
+http://dbpedia.org/resource/Hary_Tanoesoedibjo	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Media_Nusantara_Citra
+Hary_Tanoesoedibjo	Media_Nusantara_Citra
+Hary_Tanoesoedibjo	isCitizenOf	Indonesia
+Hary_Tanoesoedibjo	isCitizenOf	Indonesia
+Media_Nusantara_Citra	isLocatedIn	Indonesia
+Media_Nusantara_Citra	isLocatedIn	Indonesia
+
+http://dbpedia.org/resource/Hary_Tanoesoedibjo	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Media_Nusantara_Citra
+Hary_Tanoesoedibjo	Media_Nusantara_Citra
+Hary_Tanoesoedibjo	created	Media_Nusantara_Citra
+Hary_Tanoesoedibjo	created	Media_Nusantara_Citra
+
+http://dbpedia.org/resource/Ioannis_Papadiamantopoulos_(elder)	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Greek_War_of_Independence
+Ioannis_Papadiamantopoulos_(elder)	Greek_War_of_Independence
+Ioannis_Papadiamantopoulos_(elder)	isCitizenOf	Greece
+Ioannis_Papadiamantopoulos_(elder)	isCitizenOf	Greece
+Greek_War_of_Independence	isLocatedIn	Greece
+Greek_War_of_Independence	happenedIn	Greece
+Greek_War_of_Independence	isLocatedIn	Greece
+Greek_War_of_Independence	happenedIn	Greece
+
+http://dbpedia.org/resource/Ioannis_Papadiamantopoulos_(elder)	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Greek_War_of_Independence
+Ioannis_Papadiamantopoulos_(elder)	Greek_War_of_Independence
+Ioannis_Papadiamantopoulos_(elder)	wasBornIn	Corinth
+Ioannis_Papadiamantopoulos_(elder)	wasBornIn	Corinth
+Corinth	isLocatedIn	Greece
+Corinth	isLocatedIn	Greece
+Greek_War_of_Independence	isLocatedIn	Greece
+Greek_War_of_Independence	happenedIn	Greece
+Greek_War_of_Independence	isLocatedIn	Greece
+Greek_War_of_Independence	happenedIn	Greece
+
+http://dbpedia.org/resource/Ioannis_Diakos	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Greek_War_of_Independence
+Ioannis_Diakos	Greek_War_of_Independence
+Ioannis_Diakos	isCitizenOf	Greece
+Ioannis_Diakos	isCitizenOf	Greece
+Greek_War_of_Independence	isLocatedIn	Greece
+Greek_War_of_Independence	happenedIn	Greece
+Greek_War_of_Independence	isLocatedIn	Greece
+Greek_War_of_Independence	happenedIn	Greece
+
+http://dbpedia.org/resource/George_Washington_Baines	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Baylor_University
+George_Washington_Baines	Baylor_University
+George_Washington_Baines	diedIn	Belton,_Texas
+George_Washington_Baines	diedIn	Belton,_Texas
+Belton,_Texas	isLocatedIn	Texas
+Belton,_Texas	isLocatedIn	Texas
+Baylor_University	isLocatedIn	Texas
+Baylor_University	isLocatedIn	Texas
+
+http://dbpedia.org/resource/Forest_Shely	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Taylor_County,_Kentucky
+Forest_Shely	Taylor_County,_Kentucky
+Forest_Shely	graduatedFrom	Campbellsville_University
+Forest_Shely	graduatedFrom	Campbellsville_University
+Campbellsville_University	isLocatedIn	Campbellsville,_Kentucky
+Campbellsville_University	isLocatedIn	Campbellsville,_Kentucky
+Campbellsville,_Kentucky	isLocatedIn	Taylor_County,_Kentucky
+Taylor_County,_Kentucky	isLocatedIn	Campbellsville,_Kentucky
+Campbellsville,_Kentucky	isLocatedIn	Taylor_County,_Kentucky
+Taylor_County,_Kentucky	isLocatedIn	Campbellsville,_Kentucky
+
+http://dbpedia.org/resource/Forest_Shely	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Taylor_County,_Kentucky
+Forest_Shely	Taylor_County,_Kentucky
+Forest_Shely	diedIn	Campbellsville,_Kentucky
+Forest_Shely	diedIn	Campbellsville,_Kentucky
+Campbellsville,_Kentucky	isLocatedIn	Taylor_County,_Kentucky
+Taylor_County,_Kentucky	isLocatedIn	Campbellsville,_Kentucky
+Campbellsville,_Kentucky	isLocatedIn	Taylor_County,_Kentucky
+Taylor_County,_Kentucky	isLocatedIn	Campbellsville,_Kentucky
+
+http://dbpedia.org/resource/Parmeshwar_Godrej	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Adi_Godrej
+Parmeshwar_Godrej	Adi_Godrej
+Adi_Godrej	isMarriedTo	Parmeshwar_Godrej
+Parmeshwar_Godrej	isMarriedTo	Adi_Godrej
+Adi_Godrej	isMarriedTo	Parmeshwar_Godrej
+Parmeshwar_Godrej	isMarriedTo	Adi_Godrej
+
+http://dbpedia.org/resource/Parmeshwar_Godrej	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Adi_Godrej
+Parmeshwar_Godrej	Adi_Godrej
+Parmeshwar_Godrej	hasChild	Tanya_Dubash
+Parmeshwar_Godrej	hasChild	Tanya_Dubash
+Adi_Godrej	hasChild	Tanya_Dubash
+Adi_Godrej	hasChild	Tanya_Dubash
+
+http://dbpedia.org/resource/Parmeshwar_Godrej	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Adi_Godrej
+Parmeshwar_Godrej	Adi_Godrej
+Parmeshwar_Godrej	hasChild	Tanya_Dubash
+Parmeshwar_Godrej	hasChild	Tanya_Dubash
+Parmeshwar_Godrej	hasChild	Tanya_Dubash
+Parmeshwar_Godrej	hasChild	Tanya_Dubash
+Adi_Godrej	isMarriedTo	Parmeshwar_Godrej
+Parmeshwar_Godrej	isMarriedTo	Adi_Godrej
+Adi_Godrej	isMarriedTo	Parmeshwar_Godrej
+Parmeshwar_Godrej	isMarriedTo	Adi_Godrej
+
+http://dbpedia.org/resource/W._J._Adkins	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Laredo_Community_College
+W._J._Adkins	Laredo_Community_College
+W._J._Adkins	graduatedFrom	University_of_North_Texas
+W._J._Adkins	graduatedFrom	University_of_North_Texas
+Mercurio_Martinez	graduatedFrom	University_of_North_Texas
+Mercurio_Martinez	graduatedFrom	University_of_North_Texas
+Mercurio_Martinez	graduatedFrom	Laredo_Community_College
+Mercurio_Martinez	graduatedFrom	Laredo_Community_College
+
+http://dbpedia.org/resource/John_N._Raney	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/College_Station,_Texas
+John_N._Raney	College_Station,_Texas
+John_N._Raney	graduatedFrom	Texas_A&M_University
+John_N._Raney	graduatedFrom	Texas_A&M_University
+Texas_A&M_University	isLocatedIn	Brazos_County,_Texas
+Texas_A&M_University	isLocatedIn	Brazos_County,_Texas
+College_Station,_Texas	isLocatedIn	Brazos_County,_Texas
+College_Station,_Texas	isLocatedIn	Brazos_County,_Texas
+
+http://dbpedia.org/resource/John_N._Raney	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/College_Station,_Texas
+John_N._Raney	College_Station,_Texas
+John_N._Raney	graduatedFrom	Texas_A&M_University
+John_N._Raney	graduatedFrom	Texas_A&M_University
+Muhammad_Suhail_Zubairy	worksAt	Texas_A&M_University
+Muhammad_Suhail_Zubairy	worksAt	Texas_A&M_University
+Muhammad_Suhail_Zubairy	livesIn	College_Station,_Texas
+Muhammad_Suhail_Zubairy	livesIn	College_Station,_Texas
+
+http://dbpedia.org/resource/John_N._Raney	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/College_Station,_Texas
+John_N._Raney	College_Station,_Texas
+John_N._Raney	graduatedFrom	Texas_A&M_University
+John_N._Raney	graduatedFrom	Texas_A&M_University
+Betty_Miller_Unterberger	worksAt	Texas_A&M_University
+Betty_Miller_Unterberger	worksAt	Texas_A&M_University
+Betty_Miller_Unterberger	diedIn	College_Station,_Texas
+Betty_Miller_Unterberger	diedIn	College_Station,_Texas
+
+http://dbpedia.org/resource/John_N._Raney	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/College_Station,_Texas
+John_N._Raney	College_Station,_Texas
+John_N._Raney	livesIn	College_Station,_Texas
+John_N._Raney	livesIn	College_Station,_Texas
+
+http://dbpedia.org/resource/John_N._Raney	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/College_Station,_Texas
+John_N._Raney	College_Station,_Texas
+John_N._Raney	livesIn	Brazos_County,_Texas
+John_N._Raney	livesIn	Brazos_County,_Texas
+Henry_C._Dethloff	livesIn	Brazos_County,_Texas
+Henry_C._Dethloff	livesIn	Brazos_County,_Texas
+Henry_C._Dethloff	livesIn	College_Station,_Texas
+Henry_C._Dethloff	livesIn	College_Station,_Texas
+
+http://dbpedia.org/resource/John_N._Raney	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/College_Station,_Texas
+John_N._Raney	College_Station,_Texas
+John_N._Raney	livesIn	Brazos_County,_Texas
+John_N._Raney	livesIn	Brazos_County,_Texas
+Robert_A._Calvert	livesIn	Brazos_County,_Texas
+Robert_A._Calvert	livesIn	Brazos_County,_Texas
+Robert_A._Calvert	livesIn	College_Station,_Texas
+Robert_A._Calvert	livesIn	College_Station,_Texas
+
+http://dbpedia.org/resource/John_N._Raney	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/College_Station,_Texas
+John_N._Raney	College_Station,_Texas
+John_N._Raney	livesIn	Brazos_County,_Texas
+John_N._Raney	livesIn	Brazos_County,_Texas
+John_N._Raney	livesIn	Brazos_County,_Texas
+John_N._Raney	livesIn	Brazos_County,_Texas
+John_N._Raney	livesIn	College_Station,_Texas
+John_N._Raney	livesIn	College_Station,_Texas
+
+http://dbpedia.org/resource/John_N._Raney	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/College_Station,_Texas
+John_N._Raney	College_Station,_Texas
+John_N._Raney	livesIn	Brazos_County,_Texas
+John_N._Raney	livesIn	Brazos_County,_Texas
+College_Station,_Texas	isLocatedIn	Brazos_County,_Texas
+College_Station,_Texas	isLocatedIn	Brazos_County,_Texas
+
+http://dbpedia.org/resource/Erick_Thohir	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Visi_Media_Asia
+Erick_Thohir	Visi_Media_Asia
+Erick_Thohir	isCitizenOf	Indonesia
+Erick_Thohir	isCitizenOf	Indonesia
+Antv	isLocatedIn	Indonesia
+Antv	isLocatedIn	Indonesia
+Visi_Media_Asia	owns	Antv
+Visi_Media_Asia	owns	Antv
+
+http://dbpedia.org/resource/Stephen_M._Ross	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Miami_Dolphins
+Stephen_M._Ross	Miami_Dolphins
+Stephen_M._Ross	graduatedFrom	Wayne_State_University
+Stephen_M._Ross	graduatedFrom	Wayne_State_University
+Stephen_M._Ross	graduatedFrom	Wayne_State_University
+Stephen_M._Ross	graduatedFrom	Wayne_State_University
+Stephen_M._Ross	owns	Miami_Dolphins
+Stephen_M._Ross	owns	Miami_Dolphins
+
+http://dbpedia.org/resource/Stephen_M._Ross	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Miami_Dolphins
+Stephen_M._Ross	Miami_Dolphins
+Stephen_M._Ross	graduatedFrom	University_of_Michigan
+Stephen_M._Ross	graduatedFrom	University_of_Michigan
+Stephen_M._Ross	graduatedFrom	University_of_Michigan
+Stephen_M._Ross	graduatedFrom	University_of_Michigan
+Stephen_M._Ross	owns	Miami_Dolphins
+Stephen_M._Ross	owns	Miami_Dolphins
+
+http://dbpedia.org/resource/Stephen_M._Ross	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Miami_Dolphins
+Stephen_M._Ross	Miami_Dolphins
+Stephen_M._Ross	owns	Miami_Dolphins
+Stephen_M._Ross	owns	Miami_Dolphins
+
+http://dbpedia.org/resource/Kalanithi_Maran	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Sun_Group
+Kalanithi_Maran	Sun_Group
+Kalanithi_Maran	owns	Sunrisers_Hyderabad
+Kalanithi_Maran	owns	Sunrisers_Hyderabad
+Sun_Group	owns	Sunrisers_Hyderabad
+Sun_Group	owns	Sunrisers_Hyderabad
+
+http://dbpedia.org/resource/Perry_H._Howard	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Baton_Rouge,_Louisiana
+Perry_H._Howard	Baton_Rouge,_Louisiana
+Perry_H._Howard	diedIn	Baton_Rouge,_Louisiana
+Perry_H._Howard	diedIn	Baton_Rouge,_Louisiana
+
+http://dbpedia.org/resource/Perry_H._Howard	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Baton_Rouge,_Louisiana
+Perry_H._Howard	Baton_Rouge,_Louisiana
+Perry_H._Howard	graduatedFrom	Harvard_University
+Perry_H._Howard	graduatedFrom	Harvard_University
+Kevin_Reilly_(Louisiana_politician)	graduatedFrom	Harvard_University
+Kevin_Reilly_(Louisiana_politician)	graduatedFrom	Harvard_University
+Kevin_Reilly_(Louisiana_politician)	diedIn	Baton_Rouge,_Louisiana
+Kevin_Reilly_(Louisiana_politician)	diedIn	Baton_Rouge,_Louisiana
+
+http://dbpedia.org/resource/Shobha_Kapoor	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Balaji_Telefilms
+Shobha_Kapoor	Balaji_Telefilms
+Shobha_Kapoor	isMarriedTo	Jeetendra
+Jeetendra	isMarriedTo	Shobha_Kapoor
+Shobha_Kapoor	isMarriedTo	Jeetendra
+Jeetendra	isMarriedTo	Shobha_Kapoor
+Jeetendra	created	Balaji_Telefilms
+Jeetendra	created	Balaji_Telefilms
+
+http://dbpedia.org/resource/Malcolm_Turnbull	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Malcolm_Turnbull
+Malcolm_Turnbull	Malcolm_Turnbull
+Coral_Lansbury	hasChild	Malcolm_Turnbull
+Coral_Lansbury	isMarriedTo	Malcolm_Turnbull
+Malcolm_Turnbull	isMarriedTo	Coral_Lansbury
+Coral_Lansbury	hasChild	Malcolm_Turnbull
+Coral_Lansbury	isMarriedTo	Malcolm_Turnbull
+Malcolm_Turnbull	isMarriedTo	Coral_Lansbury
+Coral_Lansbury	hasChild	Malcolm_Turnbull
+Coral_Lansbury	isMarriedTo	Malcolm_Turnbull
+Malcolm_Turnbull	isMarriedTo	Coral_Lansbury
+Coral_Lansbury	hasChild	Malcolm_Turnbull
+Coral_Lansbury	isMarriedTo	Malcolm_Turnbull
+Malcolm_Turnbull	isMarriedTo	Coral_Lansbury
+
+http://dbpedia.org/resource/Dave_Yeske	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Golden_Gate_University
+Dave_Yeske	Golden_Gate_University
+Dave_Yeske	livesIn	San_Francisco
+Dave_Yeske	livesIn	San_Francisco
+Golden_Gate_University	isLocatedIn	San_Francisco
+Golden_Gate_University	isLocatedIn	San_Francisco
+
+http://dbpedia.org/resource/Dave_Yeske	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Golden_Gate_University
+Dave_Yeske	Golden_Gate_University
+Dave_Yeske	livesIn	San_Francisco
+Dave_Yeske	livesIn	San_Francisco
+Fiona_Ma	livesIn	San_Francisco
+Fiona_Ma	livesIn	San_Francisco
+Fiona_Ma	graduatedFrom	Golden_Gate_University
+Fiona_Ma	graduatedFrom	Golden_Gate_University
+
+http://dbpedia.org/resource/Dave_Yeske	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Golden_Gate_University
+Dave_Yeske	Golden_Gate_University
+Dave_Yeske	graduatedFrom	University_of_San_Francisco
+Dave_Yeske	graduatedFrom	University_of_San_Francisco
+University_of_San_Francisco	isLocatedIn	San_Francisco
+University_of_San_Francisco	isLocatedIn	San_Francisco
+Golden_Gate_University	isLocatedIn	San_Francisco
+Golden_Gate_University	isLocatedIn	San_Francisco
+
+http://dbpedia.org/resource/Dave_Yeske	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Golden_Gate_University
+Dave_Yeske	Golden_Gate_University
+Dave_Yeske	graduatedFrom	University_of_San_Francisco
+Dave_Yeske	graduatedFrom	University_of_San_Francisco
+Ross_Mirkarimi	graduatedFrom	University_of_San_Francisco
+Ross_Mirkarimi	graduatedFrom	University_of_San_Francisco
+Ross_Mirkarimi	graduatedFrom	Golden_Gate_University
+Ross_Mirkarimi	graduatedFrom	Golden_Gate_University
+
+http://dbpedia.org/resource/Dave_Yeske	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Golden_Gate_University
+Dave_Yeske	Golden_Gate_University
+Dave_Yeske	graduatedFrom	University_of_San_Francisco
+Dave_Yeske	graduatedFrom	University_of_San_Francisco
+Dave_Yeske	graduatedFrom	University_of_San_Francisco
+Dave_Yeske	graduatedFrom	University_of_San_Francisco
+Dave_Yeske	graduatedFrom	Golden_Gate_University
+Dave_Yeske	graduatedFrom	Golden_Gate_University
+
+http://dbpedia.org/resource/Dave_Yeske	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Golden_Gate_University
+Dave_Yeske	Golden_Gate_University
+Dave_Yeske	graduatedFrom	Golden_Gate_University
+Dave_Yeske	graduatedFrom	Golden_Gate_University
+
+http://dbpedia.org/resource/Dave_Yeske	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Golden_Gate_University
+Dave_Yeske	Golden_Gate_University
+Dave_Yeske	livesIn	Vienna,_Virginia
+Dave_Yeske	livesIn	Vienna,_Virginia
+Dave_Yeske	livesIn	Vienna,_Virginia
+Dave_Yeske	livesIn	Vienna,_Virginia
+Dave_Yeske	graduatedFrom	Golden_Gate_University
+Dave_Yeske	graduatedFrom	Golden_Gate_University
+
+http://dbpedia.org/resource/Mark_Cuban	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Dallas_Mavericks
+Mark_Cuban	Dallas_Mavericks
+Mark_Cuban	livesIn	Texas
+Mark_Cuban	livesIn	Texas
+Dallas_Mavericks	isLocatedIn	Texas
+Dallas_Mavericks	isLocatedIn	Texas
+
+http://dbpedia.org/resource/Mark_Cuban	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Dallas_Mavericks
+Mark_Cuban	Dallas_Mavericks
+Mark_Cuban	graduatedFrom	Kelley_School_of_Business
+Mark_Cuban	graduatedFrom	Kelley_School_of_Business
+Mark_Cuban	graduatedFrom	Kelley_School_of_Business
+Mark_Cuban	graduatedFrom	Kelley_School_of_Business
+Mark_Cuban	owns	Dallas_Mavericks
+Mark_Cuban	owns	Dallas_Mavericks
+
+http://dbpedia.org/resource/Mark_Cuban	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Dallas_Mavericks
+Mark_Cuban	Dallas_Mavericks
+Mark_Cuban	owns	Dallas_Mavericks
+Mark_Cuban	owns	Dallas_Mavericks
+
+http://dbpedia.org/resource/Anastasios_Christopoulos	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Greek_War_of_Independence
+Anastasios_Christopoulos	Greek_War_of_Independence
+Anastasios_Christopoulos	isCitizenOf	Greece
+Anastasios_Christopoulos	isCitizenOf	Greece
+Greek_War_of_Independence	isLocatedIn	Greece
+Greek_War_of_Independence	happenedIn	Greece
+Greek_War_of_Independence	isLocatedIn	Greece
+Greek_War_of_Independence	happenedIn	Greece
+
+http://dbpedia.org/resource/Neil_Frank	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/National_Hurricane_Center
+Neil_Frank	National_Hurricane_Center
+Neil_Frank	graduatedFrom	Florida_State_University
+Neil_Frank	graduatedFrom	Florida_State_University
+Florida_State_University	isLocatedIn	Florida
+Florida_State_University	isLocatedIn	Florida
+National_Hurricane_Center	isLocatedIn	Florida
+National_Hurricane_Center	isLocatedIn	Florida
+
+http://dbpedia.org/resource/Phil_Knight	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Nike,_Inc.
+Phil_Knight	Nike,_Inc.
+Phil_Knight	graduatedFrom	University_of_Oregon
+Phil_Knight	graduatedFrom	University_of_Oregon
+University_of_Oregon	isLocatedIn	Oregon
+University_of_Oregon	isLocatedIn	Oregon
+Nike,_Inc.	isLocatedIn	Oregon
+Nike,_Inc.	isLocatedIn	Oregon
+
+http://dbpedia.org/resource/Phil_Knight	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Nike,_Inc.
+Phil_Knight	Nike,_Inc.
+William_W._Knight_(publisher)	hasChild	Phil_Knight
+William_W._Knight_(publisher)	hasChild	Phil_Knight
+William_W._Knight_(publisher)	hasChild	Phil_Knight
+William_W._Knight_(publisher)	hasChild	Phil_Knight
+Phil_Knight	created	Nike,_Inc.
+Phil_Knight	created	Nike,_Inc.
+
+http://dbpedia.org/resource/Phil_Knight	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Nike,_Inc.
+Phil_Knight	Nike,_Inc.
+Phil_Knight	created	Nike,_Inc.
+Phil_Knight	created	Nike,_Inc.
+
+http://dbpedia.org/resource/Shahid_Khan	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Jacksonville_Jaguars
+Shahid_Khan	Jacksonville_Jaguars
+Shahid_Khan	livesIn	Naples,_Florida
+Shahid_Khan	livesIn	Naples,_Florida
+Shahid_Khan	livesIn	Naples,_Florida
+Shahid_Khan	livesIn	Naples,_Florida
+Shahid_Khan	owns	Jacksonville_Jaguars
+Shahid_Khan	owns	Jacksonville_Jaguars
+
+http://dbpedia.org/resource/Shahid_Khan	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Jacksonville_Jaguars
+Shahid_Khan	Jacksonville_Jaguars
+Shahid_Khan	livesIn	Naples,_Florida
+Shahid_Khan	livesIn	Naples,_Florida
+Naples,_Florida	isLocatedIn	Florida
+Naples,_Florida	isLocatedIn	Florida
+Jacksonville_Jaguars	isLocatedIn	Florida
+Jacksonville_Jaguars	isLocatedIn	Florida
+
+http://dbpedia.org/resource/Shahid_Khan	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Jacksonville_Jaguars
+Shahid_Khan	Jacksonville_Jaguars
+Shahid_Khan	owns	Jacksonville_Jaguars
+Shahid_Khan	owns	Jacksonville_Jaguars
+
+http://dbpedia.org/resource/Malcolm_Glazer	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Tampa_Bay_Buccaneers
+Malcolm_Glazer	Tampa_Bay_Buccaneers
+Malcolm_Glazer	owns	Tampa_Bay_Buccaneers
+Malcolm_Glazer	owns	Tampa_Bay_Buccaneers
+
+http://dbpedia.org/resource/Panagiotakis_Fotilas	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Greek_War_of_Independence
+Panagiotakis_Fotilas	Greek_War_of_Independence
+Panagiotakis_Fotilas	isCitizenOf	Greece
+Panagiotakis_Fotilas	diedIn	Greece
+Panagiotakis_Fotilas	isCitizenOf	Greece
+Panagiotakis_Fotilas	diedIn	Greece
+Greek_War_of_Independence	isLocatedIn	Greece
+Greek_War_of_Independence	happenedIn	Greece
+Greek_War_of_Independence	isLocatedIn	Greece
+Greek_War_of_Independence	happenedIn	Greece
+
+http://dbpedia.org/resource/Chrysanthos_Sisinis_(died_1845)	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Greek_War_of_Independence
+Chrysanthos_Sisinis_(died_1845)	Greek_War_of_Independence
+Chrysanthos_Sisinis_(died_1845)	diedIn	Greece
+Chrysanthos_Sisinis_(died_1845)	isCitizenOf	Greece
+Chrysanthos_Sisinis_(died_1845)	diedIn	Greece
+Chrysanthos_Sisinis_(died_1845)	isCitizenOf	Greece
+Greek_War_of_Independence	isLocatedIn	Greece
+Greek_War_of_Independence	happenedIn	Greece
+Greek_War_of_Independence	isLocatedIn	Greece
+Greek_War_of_Independence	happenedIn	Greece
+
+http://dbpedia.org/resource/Shahid_Karimullah	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Saudi_Arabia
+Shahid_Karimullah	Saudi_Arabia
+Shahid_Karimullah	isCitizenOf	Saudi_Arabia
+Shahid_Karimullah	isCitizenOf	Saudi_Arabia
+
+http://dbpedia.org/resource/Shahid_Karimullah	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Saudi_Arabia
+Shahid_Karimullah	Saudi_Arabia
+Shahid_Karimullah	isCitizenOf	Pakistan
+Shahid_Karimullah	isCitizenOf	Pakistan
+Pakistan	participatedIn	United_Nations_Operation_in_Somalia_II
+Pakistan	participatedIn	United_Nations_Operation_in_Somalia_II
+Saudi_Arabia	participatedIn	United_Nations_Operation_in_Somalia_II
+Saudi_Arabia	participatedIn	United_Nations_Operation_in_Somalia_II
+
+http://dbpedia.org/resource/Shahid_Karimullah	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Saudi_Arabia
+Shahid_Karimullah	Saudi_Arabia
+Shahid_Karimullah	isCitizenOf	Pakistan
+Shahid_Karimullah	isCitizenOf	Pakistan
+Abu_Ammaar_Yasir_Qadhi	isCitizenOf	Pakistan
+Abu_Ammaar_Yasir_Qadhi	isCitizenOf	Pakistan
+Abu_Ammaar_Yasir_Qadhi	isCitizenOf	Saudi_Arabia
+Abu_Ammaar_Yasir_Qadhi	isCitizenOf	Saudi_Arabia
+
+http://dbpedia.org/resource/Shahid_Karimullah	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Saudi_Arabia
+Shahid_Karimullah	Saudi_Arabia
+Shahid_Karimullah	graduatedFrom	National_Defence_University,_Pakistan
+Shahid_Karimullah	graduatedFrom	National_Defence_University,_Pakistan
+Shahid_Karimullah	graduatedFrom	National_Defence_University,_Pakistan
+Shahid_Karimullah	graduatedFrom	National_Defence_University,_Pakistan
+Shahid_Karimullah	isCitizenOf	Saudi_Arabia
+Shahid_Karimullah	isCitizenOf	Saudi_Arabia
+
+http://dbpedia.org/resource/Anna_Harriet_Heyer	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/University_of_North_Texas
+Anna_Harriet_Heyer	University_of_North_Texas
+Anna_Harriet_Heyer	graduatedFrom	Texas_Christian_University
+Anna_Harriet_Heyer	graduatedFrom	Texas_Christian_University
+Phyllis_George	graduatedFrom	Texas_Christian_University
+Phyllis_George	graduatedFrom	Texas_Christian_University
+Phyllis_George	graduatedFrom	University_of_North_Texas
+Phyllis_George	graduatedFrom	University_of_North_Texas
+
+http://dbpedia.org/resource/Henri_Nestlé	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Nestlé
+Henri_Nestlé	Nestlé
+Henri_Nestlé	created	Nestlé
+Henri_Nestlé	created	Nestlé
+
+http://dbpedia.org/resource/Henri_Nestlé	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Nestlé
+Henri_Nestlé	Nestlé
+Henri_Nestlé	diedIn	Montreux
+Henri_Nestlé	diedIn	Montreux
+Henri_Nestlé	diedIn	Montreux
+Henri_Nestlé	diedIn	Montreux
+Henri_Nestlé	created	Nestlé
+Henri_Nestlé	created	Nestlé
+
+http://dbpedia.org/resource/Shahid_Khan	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Shahid_Khan
+Shahid_Khan	Shahid_Khan
+Shahid_Khan	livesIn	Naples,_Florida
+Shahid_Khan	livesIn	Naples,_Florida
+Shahid_Khan	livesIn	Naples,_Florida
+Shahid_Khan	livesIn	Naples,_Florida
+
+http://dbpedia.org/resource/Shahid_Khan	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Shahid_Khan
+Shahid_Khan	Shahid_Khan
+Shahid_Khan	owns	Jacksonville_Jaguars
+Shahid_Khan	owns	Jacksonville_Jaguars
+Shahid_Khan	owns	Jacksonville_Jaguars
+Shahid_Khan	owns	Jacksonville_Jaguars
+
+http://dbpedia.org/resource/Juan_L._Maldonado	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/Laredo_Community_College
+Juan_L._Maldonado	Laredo_Community_College
+Juan_L._Maldonado	graduatedFrom	University_of_North_Texas
+Juan_L._Maldonado	graduatedFrom	University_of_North_Texas
+Mercurio_Martinez	graduatedFrom	University_of_North_Texas
+Mercurio_Martinez	graduatedFrom	University_of_North_Texas
+Mercurio_Martinez	graduatedFrom	Laredo_Community_College
+Mercurio_Martinez	graduatedFrom	Laredo_Community_College
+

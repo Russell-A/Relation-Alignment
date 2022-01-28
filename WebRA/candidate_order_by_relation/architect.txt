@@ -1,0 +1,679 @@
+http://dbpedia.org/resource/AT&T_Midtown_Center	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+AT&T_Midtown_Center	Skidmore,_Owings_&_Merrill
+BellSouth_Telecommunications	isLocatedIn	AT&T_Midtown_Center
+BellSouth_Telecommunications	isLocatedIn	AT&T_Midtown_Center
+BellSouth_Telecommunications	isLocatedIn	AT&T_Midtown_Center
+BellSouth_Telecommunications	isLocatedIn	AT&T_Midtown_Center
+Skidmore,_Owings_&_Merrill	created	AT&T_Midtown_Center
+Skidmore,_Owings_&_Merrill	created	AT&T_Midtown_Center
+
+http://dbpedia.org/resource/AT&T_Midtown_Center	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+AT&T_Midtown_Center	Skidmore,_Owings_&_Merrill
+Skidmore,_Owings_&_Merrill	created	AT&T_Midtown_Center
+Skidmore,_Owings_&_Merrill	created	AT&T_Midtown_Center
+
+http://dbpedia.org/resource/AT&T_Midtown_Center	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+AT&T_Midtown_Center	Skidmore,_Owings_&_Merrill
+FABRAP	created	AT&T_Midtown_Center
+FABRAP	created	AT&T_Midtown_Center
+FABRAP	created	AT&T_Midtown_Center
+FABRAP	created	AT&T_Midtown_Center
+Skidmore,_Owings_&_Merrill	created	AT&T_Midtown_Center
+Skidmore,_Owings_&_Merrill	created	AT&T_Midtown_Center
+
+http://dbpedia.org/resource/IWireless_Center	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Ellerbe_Becket
+IWireless_Center	Ellerbe_Becket
+Ellerbe_Becket	created	IWireless_Center
+Ellerbe_Becket	created	IWireless_Center
+
+http://dbpedia.org/resource/IWireless_Center	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Ellerbe_Becket
+IWireless_Center	Ellerbe_Becket
+IWireless_Center	isLocatedIn	Illinois
+IWireless_Center	isLocatedIn	Illinois
+IWireless_Center	isLocatedIn	Illinois
+IWireless_Center	isLocatedIn	Illinois
+Ellerbe_Becket	created	IWireless_Center
+Ellerbe_Becket	created	IWireless_Center
+
+http://dbpedia.org/resource/Landsford_Canal	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Robert_Mills_(architect)
+Landsford_Canal	Robert_Mills_(architect)
+Landsford_Canal	isLocatedIn	Lancaster_County,_South_Carolina
+Landsford_Canal	isLocatedIn	Lancaster_County,_South_Carolina
+Landsford_Canal	isLocatedIn	Lancaster_County,_South_Carolina
+Landsford_Canal	isLocatedIn	Lancaster_County,_South_Carolina
+Robert_Mills_(architect)	created	Landsford_Canal
+Robert_Mills_(architect)	created	Landsford_Canal
+
+http://dbpedia.org/resource/Landsford_Canal	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Robert_Mills_(architect)
+Landsford_Canal	Robert_Mills_(architect)
+Robert_Mills_(architect)	created	Landsford_Canal
+Robert_Mills_(architect)	created	Landsford_Canal
+
+http://dbpedia.org/resource/Willis_Tower	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Fazlur_Rahman_Khan
+Willis_Tower	Fazlur_Rahman_Khan
+The_Blackstone_Group	owns	Willis_Tower
+The_Blackstone_Group	owns	Willis_Tower
+The_Blackstone_Group	owns	Willis_Tower
+The_Blackstone_Group	owns	Willis_Tower
+Fazlur_Rahman_Khan	created	Willis_Tower
+Fazlur_Rahman_Khan	created	Willis_Tower
+
+http://dbpedia.org/resource/Willis_Tower	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Fazlur_Rahman_Khan
+Willis_Tower	Fazlur_Rahman_Khan
+United_Airlines	isLocatedIn	Willis_Tower
+United_Airlines	isLocatedIn	Willis_Tower
+United_Airlines	isLocatedIn	Willis_Tower
+United_Airlines	isLocatedIn	Willis_Tower
+Fazlur_Rahman_Khan	created	Willis_Tower
+Fazlur_Rahman_Khan	created	Willis_Tower
+
+http://dbpedia.org/resource/Willis_Tower	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Fazlur_Rahman_Khan
+Willis_Tower	Fazlur_Rahman_Khan
+United_Continental_Holdings	isLocatedIn	Willis_Tower
+United_Continental_Holdings	isLocatedIn	Willis_Tower
+United_Continental_Holdings	isLocatedIn	Willis_Tower
+United_Continental_Holdings	isLocatedIn	Willis_Tower
+Fazlur_Rahman_Khan	created	Willis_Tower
+Fazlur_Rahman_Khan	created	Willis_Tower
+
+http://dbpedia.org/resource/Willis_Tower	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Fazlur_Rahman_Khan
+Willis_Tower	Fazlur_Rahman_Khan
+Fazlur_Rahman_Khan	created	Willis_Tower
+Fazlur_Rahman_Khan	created	Willis_Tower
+
+http://dbpedia.org/resource/Willis_Tower	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Fazlur_Rahman_Khan
+Willis_Tower	Fazlur_Rahman_Khan
+Willis_Tower	isLocatedIn	Illinois
+Willis_Tower	isLocatedIn	Illinois
+Willis_Tower	isLocatedIn	Illinois
+Willis_Tower	isLocatedIn	Illinois
+Fazlur_Rahman_Khan	created	Willis_Tower
+Fazlur_Rahman_Khan	created	Willis_Tower
+
+http://dbpedia.org/resource/Hubert_H._Humphrey_Metrodome	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Leo_A_Daly
+Hubert_H._Humphrey_Metrodome	Leo_A_Daly
+Leo_A_Daly	created	Hubert_H._Humphrey_Metrodome
+Leo_A_Daly	created	Hubert_H._Humphrey_Metrodome
+
+http://dbpedia.org/resource/Hubert_H._Humphrey_Metrodome	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Leo_A_Daly
+Hubert_H._Humphrey_Metrodome	Leo_A_Daly
+Skidmore,_Owings_&_Merrill	created	Hubert_H._Humphrey_Metrodome
+Skidmore,_Owings_&_Merrill	created	Hubert_H._Humphrey_Metrodome
+Skidmore,_Owings_&_Merrill	created	Hubert_H._Humphrey_Metrodome
+Skidmore,_Owings_&_Merrill	created	Hubert_H._Humphrey_Metrodome
+Leo_A_Daly	created	Hubert_H._Humphrey_Metrodome
+Leo_A_Daly	created	Hubert_H._Humphrey_Metrodome
+
+http://dbpedia.org/resource/Hubert_H._Humphrey_Metrodome	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Leo_A_Daly
+Hubert_H._Humphrey_Metrodome	Leo_A_Daly
+Minnesota_Vikings	isLocatedIn	Hubert_H._Humphrey_Metrodome
+Minnesota_Vikings	isLocatedIn	Hubert_H._Humphrey_Metrodome
+Minnesota_Vikings	isLocatedIn	Hubert_H._Humphrey_Metrodome
+Minnesota_Vikings	isLocatedIn	Hubert_H._Humphrey_Metrodome
+Leo_A_Daly	created	Hubert_H._Humphrey_Metrodome
+Leo_A_Daly	created	Hubert_H._Humphrey_Metrodome
+
+http://dbpedia.org/resource/Turner_Field	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Ellerbe_Becket
+Turner_Field	Ellerbe_Becket
+Atlanta_Braves	owns	Turner_Field
+Atlanta_Braves	owns	Turner_Field
+Atlanta_Braves	owns	Turner_Field
+Atlanta_Braves	owns	Turner_Field
+Ellerbe_Becket	created	Turner_Field
+Ellerbe_Becket	created	Turner_Field
+
+http://dbpedia.org/resource/Turner_Field	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Ellerbe_Becket
+Turner_Field	Ellerbe_Becket
+Ellerbe_Becket	created	Turner_Field
+Ellerbe_Becket	created	Turner_Field
+
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Malaysian_Highway_Authority
+Malaysia–Singapore_Second_Link	Malaysian_Highway_Authority
+Malaysian_Highway_Authority	created	Malaysia–Singapore_Second_Link
+Malaysian_Highway_Authority	created	Malaysia–Singapore_Second_Link
+
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Malaysian_Highway_Authority
+Malaysia–Singapore_Second_Link	Malaysian_Highway_Authority
+Malaysia–Singapore_Second_Link	isLocatedIn	Tanjung_Kupang
+Malaysia–Singapore_Second_Link	isLocatedIn	Tanjung_Kupang
+Malaysia–Singapore_Second_Link	isLocatedIn	Tanjung_Kupang
+Malaysia–Singapore_Second_Link	isLocatedIn	Tanjung_Kupang
+Malaysian_Highway_Authority	created	Malaysia–Singapore_Second_Link
+Malaysian_Highway_Authority	created	Malaysia–Singapore_Second_Link
+
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Malaysian_Highway_Authority
+Malaysia–Singapore_Second_Link	Malaysian_Highway_Authority
+Malaysia–Singapore_Second_Link	isLocatedIn	Tanjung_Kupang
+Malaysia–Singapore_Second_Link	isLocatedIn	Tanjung_Kupang
+Sultan_Abu_Bakar_Complex	isLocatedIn	Tanjung_Kupang
+Sultan_Abu_Bakar_Complex	isLocatedIn	Tanjung_Kupang
+Malaysian_Highway_Authority	owns	Sultan_Abu_Bakar_Complex
+Malaysian_Highway_Authority	created	Sultan_Abu_Bakar_Complex
+Malaysian_Highway_Authority	owns	Sultan_Abu_Bakar_Complex
+Malaysian_Highway_Authority	created	Sultan_Abu_Bakar_Complex
+
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Malaysian_Highway_Authority
+Malaysia–Singapore_Second_Link	Malaysian_Highway_Authority
+UEM_Group	created	Malaysia–Singapore_Second_Link
+UEM_Group	created	Malaysia–Singapore_Second_Link
+UEM_Group	created	Malaysia–Singapore_Second_Link
+UEM_Group	created	Malaysia–Singapore_Second_Link
+Malaysian_Highway_Authority	created	Malaysia–Singapore_Second_Link
+Malaysian_Highway_Authority	created	Malaysia–Singapore_Second_Link
+
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Malaysian_Highway_Authority
+Malaysia–Singapore_Second_Link	Malaysian_Highway_Authority
+UEM_Group	created	Malaysia–Singapore_Second_Link
+UEM_Group	created	Malaysia–Singapore_Second_Link
+UEM_Group	created	Sultan_Abu_Bakar_Complex
+UEM_Group	created	Sultan_Abu_Bakar_Complex
+Malaysian_Highway_Authority	owns	Sultan_Abu_Bakar_Complex
+Malaysian_Highway_Authority	created	Sultan_Abu_Bakar_Complex
+Malaysian_Highway_Authority	owns	Sultan_Abu_Bakar_Complex
+Malaysian_Highway_Authority	created	Sultan_Abu_Bakar_Complex
+
+http://dbpedia.org/resource/Capella_Tower	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Pei_Cobb_Freed_&_Partners
+Capella_Tower	Pei_Cobb_Freed_&_Partners
+Pei_Cobb_Freed_&_Partners	created	Capella_Tower
+Pei_Cobb_Freed_&_Partners	created	Capella_Tower
+
+http://dbpedia.org/resource/AT&T_Center	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Ellerbe_Becket
+AT&T_Center	Ellerbe_Becket
+Ellerbe_Becket	created	AT&T_Center
+Ellerbe_Becket	created	AT&T_Center
+
+http://dbpedia.org/resource/Chase_Tower_(Dallas)	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+Chase_Tower_(Dallas)	Skidmore,_Owings_&_Merrill
+Skidmore,_Owings_&_Merrill	created	Chase_Tower_(Dallas)
+Skidmore,_Owings_&_Merrill	created	Chase_Tower_(Dallas)
+
+http://dbpedia.org/resource/Chase_Tower_(Dallas)	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+Chase_Tower_(Dallas)	Skidmore,_Owings_&_Merrill
+Trammell_Crow	created	Chase_Tower_(Dallas)
+Trammell_Crow	created	Chase_Tower_(Dallas)
+Trammell_Crow	created	Chase_Tower_(Dallas)
+Trammell_Crow	created	Chase_Tower_(Dallas)
+Skidmore,_Owings_&_Merrill	created	Chase_Tower_(Dallas)
+Skidmore,_Owings_&_Merrill	created	Chase_Tower_(Dallas)
+
+http://dbpedia.org/resource/Chase_Tower_(Dallas)	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+Chase_Tower_(Dallas)	Skidmore,_Owings_&_Merrill
+Trammell_Crow	created	Chase_Tower_(Dallas)
+Trammell_Crow	created	Chase_Tower_(Dallas)
+Trammell_Crow	created	Trammell_Crow_Center
+Trammell_Crow	created	Trammell_Crow_Center
+Skidmore,_Owings_&_Merrill	created	Trammell_Crow_Center
+Skidmore,_Owings_&_Merrill	created	Trammell_Crow_Center
+
+http://dbpedia.org/resource/Seagram_Building	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Philip_Johnson
+Seagram_Building	Philip_Johnson
+Philip_Johnson	created	Seagram_Building
+Philip_Johnson	created	Seagram_Building
+
+http://dbpedia.org/resource/Seagram_Building	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Philip_Johnson
+Seagram_Building	Philip_Johnson
+Seagram_Building	isLocatedIn	Park_Avenue
+Seagram_Building	isLocatedIn	Park_Avenue
+Seagram_Building	isLocatedIn	Park_Avenue
+Seagram_Building	isLocatedIn	Park_Avenue
+Philip_Johnson	created	Seagram_Building
+Philip_Johnson	created	Seagram_Building
+
+http://dbpedia.org/resource/Seagram_Building	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Philip_Johnson
+Seagram_Building	Philip_Johnson
+Ludwig_Mies_van_der_Rohe	created	Seagram_Building
+Ludwig_Mies_van_der_Rohe	created	Seagram_Building
+Ludwig_Mies_van_der_Rohe	created	Seagram_Building
+Ludwig_Mies_van_der_Rohe	created	Seagram_Building
+Philip_Johnson	created	Seagram_Building
+Philip_Johnson	created	Seagram_Building
+
+http://dbpedia.org/resource/McCarthey_Athletic_Center	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Ellerbe_Becket
+McCarthey_Athletic_Center	Ellerbe_Becket
+Ellerbe_Becket	created	McCarthey_Athletic_Center
+Ellerbe_Becket	created	McCarthey_Athletic_Center
+
+http://dbpedia.org/resource/McCarthey_Athletic_Center	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Ellerbe_Becket
+McCarthey_Athletic_Center	Ellerbe_Becket
+McCarthey_Athletic_Center	isLocatedIn	Washington_(state)
+McCarthey_Athletic_Center	isLocatedIn	Washington_(state)
+CenturyLink_Field	isLocatedIn	Washington_(state)
+CenturyLink_Field	isLocatedIn	Washington_(state)
+Ellerbe_Becket	created	CenturyLink_Field
+Ellerbe_Becket	created	CenturyLink_Field
+
+http://dbpedia.org/resource/McCarthey_Athletic_Center	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Ellerbe_Becket
+McCarthey_Athletic_Center	Ellerbe_Becket
+Gonzaga_University	owns	McCarthey_Athletic_Center
+Gonzaga_University	owns	McCarthey_Athletic_Center
+Gonzaga_University	owns	McCarthey_Athletic_Center
+Gonzaga_University	owns	McCarthey_Athletic_Center
+Ellerbe_Becket	created	McCarthey_Athletic_Center
+Ellerbe_Becket	created	McCarthey_Athletic_Center
+
+http://dbpedia.org/resource/East_Jefferson_Avenue_Residential_TR	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Albert_Kahn_(architect)
+East_Jefferson_Avenue_Residential_TR	Albert_Kahn_(architect)
+Albert_Kahn_(architect)	created	East_Jefferson_Avenue_Residential_TR
+Albert_Kahn_(architect)	created	East_Jefferson_Avenue_Residential_TR
+
+http://dbpedia.org/resource/East_Jefferson_Avenue_Residential_TR	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Albert_Kahn_(architect)
+East_Jefferson_Avenue_Residential_TR	Albert_Kahn_(architect)
+East_Jefferson_Avenue_Residential_TR	isLocatedIn	Michigan
+East_Jefferson_Avenue_Residential_TR	isLocatedIn	Michigan
+East_Jefferson_Avenue_Residential_TR	isLocatedIn	Michigan
+East_Jefferson_Avenue_Residential_TR	isLocatedIn	Michigan
+Albert_Kahn_(architect)	created	East_Jefferson_Avenue_Residential_TR
+Albert_Kahn_(architect)	created	East_Jefferson_Avenue_Residential_TR
+
+http://dbpedia.org/resource/East_Jefferson_Avenue_Residential_TR	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Albert_Kahn_(architect)
+East_Jefferson_Avenue_Residential_TR	Albert_Kahn_(architect)
+East_Jefferson_Avenue_Residential_TR	isLocatedIn	Michigan
+East_Jefferson_Avenue_Residential_TR	isLocatedIn	Michigan
+Kales_Building	isLocatedIn	Michigan
+Kales_Building	isLocatedIn	Michigan
+Albert_Kahn_(architect)	created	Kales_Building
+Albert_Kahn_(architect)	created	Kales_Building
+
+http://dbpedia.org/resource/Franklin_Center_(Chicago)	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Adrian_Smith_(architect)
+Franklin_Center_(Chicago)	Adrian_Smith_(architect)
+Franklin_Center_(Chicago)	isLocatedIn	Chicago
+Franklin_Center_(Chicago)	isLocatedIn	Chicago
+Adrian_Smith_(architect)	wasBornIn	Chicago
+Adrian_Smith_(architect)	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Franklin_Center_(Chicago)	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Adrian_Smith_(architect)
+Franklin_Center_(Chicago)	Adrian_Smith_(architect)
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+Adrian_Smith_(architect)	created	Franklin_Center_(Chicago)
+Adrian_Smith_(architect)	created	Franklin_Center_(Chicago)
+
+http://dbpedia.org/resource/Franklin_Center_(Chicago)	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Adrian_Smith_(architect)
+Franklin_Center_(Chicago)	Adrian_Smith_(architect)
+Adrian_Smith_(architect)	created	Franklin_Center_(Chicago)
+Adrian_Smith_(architect)	created	Franklin_Center_(Chicago)
+
+http://dbpedia.org/resource/Franklin_Center_(Chicago)	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Adrian_Smith_(architect)
+Franklin_Center_(Chicago)	Adrian_Smith_(architect)
+AT&T	created	Franklin_Center_(Chicago)
+AT&T	created	Franklin_Center_(Chicago)
+AT&T	created	Franklin_Center_(Chicago)
+AT&T	created	Franklin_Center_(Chicago)
+Adrian_Smith_(architect)	created	Franklin_Center_(Chicago)
+Adrian_Smith_(architect)	created	Franklin_Center_(Chicago)
+
+http://dbpedia.org/resource/Franklin_Center_(Chicago)	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Adrian_Smith_(architect)
+Franklin_Center_(Chicago)	Adrian_Smith_(architect)
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+Adrian_Smith_(architect)	created	Franklin_Center_(Chicago)
+Adrian_Smith_(architect)	created	Franklin_Center_(Chicago)
+
+http://dbpedia.org/resource/Experimental_Breeder_Reactor_I	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/United_States_Atomic_Energy_Commission
+Experimental_Breeder_Reactor_I	United_States_Atomic_Energy_Commission
+Experimental_Breeder_Reactor_I	isLocatedIn	Butte_County,_Idaho
+Experimental_Breeder_Reactor_I	isLocatedIn	Butte_County,_Idaho
+Experimental_Breeder_Reactor_I	isLocatedIn	Butte_County,_Idaho
+Experimental_Breeder_Reactor_I	isLocatedIn	Butte_County,_Idaho
+United_States_Atomic_Energy_Commission	created	Experimental_Breeder_Reactor_I
+United_States_Atomic_Energy_Commission	created	Experimental_Breeder_Reactor_I
+
+http://dbpedia.org/resource/Experimental_Breeder_Reactor_I	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/United_States_Atomic_Energy_Commission
+Experimental_Breeder_Reactor_I	United_States_Atomic_Energy_Commission
+United_States_Atomic_Energy_Commission	created	Experimental_Breeder_Reactor_I
+United_States_Atomic_Energy_Commission	created	Experimental_Breeder_Reactor_I
+
+http://dbpedia.org/resource/Gerald_J._Ford_Stadium	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Ellerbe_Becket
+Gerald_J._Ford_Stadium	Ellerbe_Becket
+Ellerbe_Becket	created	Gerald_J._Ford_Stadium
+Ellerbe_Becket	created	Gerald_J._Ford_Stadium
+
+http://dbpedia.org/resource/Johnny_Unitas_Stadium	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Ellerbe_Becket
+Johnny_Unitas_Stadium	Ellerbe_Becket
+Towson_University	owns	Johnny_Unitas_Stadium
+Towson_University	owns	Johnny_Unitas_Stadium
+Towson_University	owns	Johnny_Unitas_Stadium
+Towson_University	owns	Johnny_Unitas_Stadium
+Ellerbe_Becket	created	Johnny_Unitas_Stadium
+Ellerbe_Becket	created	Johnny_Unitas_Stadium
+
+http://dbpedia.org/resource/Johnny_Unitas_Stadium	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Ellerbe_Becket
+Johnny_Unitas_Stadium	Ellerbe_Becket
+Ellerbe_Becket	created	Johnny_Unitas_Stadium
+Ellerbe_Becket	created	Johnny_Unitas_Stadium
+
+http://dbpedia.org/resource/Hubert_H._Humphrey_Metrodome	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+Hubert_H._Humphrey_Metrodome	Skidmore,_Owings_&_Merrill
+Leo_A_Daly	created	Hubert_H._Humphrey_Metrodome
+Leo_A_Daly	created	Hubert_H._Humphrey_Metrodome
+Leo_A_Daly	created	Hubert_H._Humphrey_Metrodome
+Leo_A_Daly	created	Hubert_H._Humphrey_Metrodome
+Skidmore,_Owings_&_Merrill	created	Hubert_H._Humphrey_Metrodome
+Skidmore,_Owings_&_Merrill	created	Hubert_H._Humphrey_Metrodome
+
+http://dbpedia.org/resource/Hubert_H._Humphrey_Metrodome	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+Hubert_H._Humphrey_Metrodome	Skidmore,_Owings_&_Merrill
+Skidmore,_Owings_&_Merrill	created	Hubert_H._Humphrey_Metrodome
+Skidmore,_Owings_&_Merrill	created	Hubert_H._Humphrey_Metrodome
+
+http://dbpedia.org/resource/Hubert_H._Humphrey_Metrodome	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+Hubert_H._Humphrey_Metrodome	Skidmore,_Owings_&_Merrill
+Minnesota_Vikings	isLocatedIn	Hubert_H._Humphrey_Metrodome
+Minnesota_Vikings	isLocatedIn	Hubert_H._Humphrey_Metrodome
+Minnesota_Vikings	isLocatedIn	Hubert_H._Humphrey_Metrodome
+Minnesota_Vikings	isLocatedIn	Hubert_H._Humphrey_Metrodome
+Skidmore,_Owings_&_Merrill	created	Hubert_H._Humphrey_Metrodome
+Skidmore,_Owings_&_Merrill	created	Hubert_H._Humphrey_Metrodome
+
+http://dbpedia.org/resource/One_Bush_Plaza	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+One_Bush_Plaza	Skidmore,_Owings_&_Merrill
+Tishman_Speyer	owns	One_Bush_Plaza
+Tishman_Speyer	owns	One_Bush_Plaza
+Tishman_Speyer	owns	One_Bush_Plaza
+Tishman_Speyer	owns	One_Bush_Plaza
+Skidmore,_Owings_&_Merrill	created	One_Bush_Plaza
+Skidmore,_Owings_&_Merrill	created	One_Bush_Plaza
+
+http://dbpedia.org/resource/One_Bush_Plaza	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+One_Bush_Plaza	Skidmore,_Owings_&_Merrill
+Skidmore,_Owings_&_Merrill	created	One_Bush_Plaza
+Skidmore,_Owings_&_Merrill	created	One_Bush_Plaza
+
+http://dbpedia.org/resource/Franklin_Center_(Chicago)	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+Franklin_Center_(Chicago)	Skidmore,_Owings_&_Merrill
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+
+http://dbpedia.org/resource/Franklin_Center_(Chicago)	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+Franklin_Center_(Chicago)	Skidmore,_Owings_&_Merrill
+Adrian_Smith_(architect)	created	Franklin_Center_(Chicago)
+Adrian_Smith_(architect)	created	Franklin_Center_(Chicago)
+Adrian_Smith_(architect)	created	Franklin_Center_(Chicago)
+Adrian_Smith_(architect)	created	Franklin_Center_(Chicago)
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+
+http://dbpedia.org/resource/Franklin_Center_(Chicago)	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+Franklin_Center_(Chicago)	Skidmore,_Owings_&_Merrill
+AT&T	created	Franklin_Center_(Chicago)
+AT&T	created	Franklin_Center_(Chicago)
+AT&T	created	Franklin_Center_(Chicago)
+AT&T	created	Franklin_Center_(Chicago)
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+
+http://dbpedia.org/resource/Franklin_Center_(Chicago)	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+Franklin_Center_(Chicago)	Skidmore,_Owings_&_Merrill
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+Three_First_National_Plaza	isLocatedIn	Illinois
+Three_First_National_Plaza	isLocatedIn	Illinois
+Skidmore,_Owings_&_Merrill	created	Three_First_National_Plaza
+Skidmore,_Owings_&_Merrill	created	Three_First_National_Plaza
+
+http://dbpedia.org/resource/Franklin_Center_(Chicago)	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+Franklin_Center_(Chicago)	Skidmore,_Owings_&_Merrill
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Illinois
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+
+http://dbpedia.org/resource/Franklin_Center_(Chicago)	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+Franklin_Center_(Chicago)	Skidmore,_Owings_&_Merrill
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+
+http://dbpedia.org/resource/555_17th_Street	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+555_17th_Street	Skidmore,_Owings_&_Merrill
+Qwest	owns	555_17th_Street
+Qwest	owns	555_17th_Street
+Qwest	owns	555_17th_Street
+Qwest	owns	555_17th_Street
+Skidmore,_Owings_&_Merrill	created	555_17th_Street
+Skidmore,_Owings_&_Merrill	created	555_17th_Street
+
+http://dbpedia.org/resource/555_17th_Street	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+555_17th_Street	Skidmore,_Owings_&_Merrill
+Skidmore,_Owings_&_Merrill	created	555_17th_Street
+Skidmore,_Owings_&_Merrill	created	555_17th_Street
+
+http://dbpedia.org/resource/Gunston_Hall	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/George_Mason
+Gunston_Hall	George_Mason
+George_Mason	created	Gunston_Hall
+George_Mason	diedIn	Gunston_Hall
+George_Mason	created	Gunston_Hall
+George_Mason	diedIn	Gunston_Hall
+
+http://dbpedia.org/resource/Gunston_Hall	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/George_Mason
+Gunston_Hall	George_Mason
+Gunston_Hall	isLocatedIn	Fairfax_County,_Virginia
+Gunston_Hall	isLocatedIn	Fairfax_County,_Virginia
+Gunston_Hall	isLocatedIn	Fairfax_County,_Virginia
+Gunston_Hall	isLocatedIn	Fairfax_County,_Virginia
+George_Mason	created	Gunston_Hall
+George_Mason	diedIn	Gunston_Hall
+George_Mason	created	Gunston_Hall
+George_Mason	diedIn	Gunston_Hall
+
+http://dbpedia.org/resource/Scottrade_Center	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Ellerbe_Becket
+Scottrade_Center	Ellerbe_Becket
+Judgment_Day_(2007)	isLocatedIn	Scottrade_Center
+Judgment_Day_(2007)	isLocatedIn	Scottrade_Center
+Judgment_Day_(2007)	isLocatedIn	Scottrade_Center
+Judgment_Day_(2007)	isLocatedIn	Scottrade_Center
+Ellerbe_Becket	created	Scottrade_Center
+Ellerbe_Becket	created	Scottrade_Center
+
+http://dbpedia.org/resource/Scottrade_Center	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Ellerbe_Becket
+Scottrade_Center	Ellerbe_Becket
+Ellerbe_Becket	created	Scottrade_Center
+Ellerbe_Becket	created	Scottrade_Center
+
+http://dbpedia.org/resource/Scottrade_Center	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Ellerbe_Becket
+Scottrade_Center	Ellerbe_Becket
+Survivor_Series_(2014)	isLocatedIn	Scottrade_Center
+Survivor_Series_(2014)	isLocatedIn	Scottrade_Center
+Survivor_Series_(2014)	isLocatedIn	Scottrade_Center
+Survivor_Series_(2014)	isLocatedIn	Scottrade_Center
+Ellerbe_Becket	created	Scottrade_Center
+Ellerbe_Becket	created	Scottrade_Center
+
+http://dbpedia.org/resource/Wells_Fargo_Center_(Philadelphia)	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Ellerbe_Becket
+Wells_Fargo_Center_(Philadelphia)	Ellerbe_Becket
+Ellerbe_Becket	created	Wells_Fargo_Center_(Philadelphia)
+Ellerbe_Becket	created	Wells_Fargo_Center_(Philadelphia)
+
+http://dbpedia.org/resource/Wells_Fargo_Center_(Philadelphia)	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Ellerbe_Becket
+Wells_Fargo_Center_(Philadelphia)	Ellerbe_Becket
+Comcast_Spectacor	owns	Wells_Fargo_Center_(Philadelphia)
+Comcast_Spectacor	owns	Wells_Fargo_Center_(Philadelphia)
+Comcast_Spectacor	owns	Wells_Fargo_Center_(Philadelphia)
+Comcast_Spectacor	owns	Wells_Fargo_Center_(Philadelphia)
+Ellerbe_Becket	created	Wells_Fargo_Center_(Philadelphia)
+Ellerbe_Becket	created	Wells_Fargo_Center_(Philadelphia)
+
+http://dbpedia.org/resource/Wells_Fargo_Center_(Jacksonville)	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/KBJ_Architects
+Wells_Fargo_Center_(Jacksonville)	KBJ_Architects
+Wells_Fargo_Center_(Jacksonville)	isLocatedIn	Florida
+Wells_Fargo_Center_(Jacksonville)	isLocatedIn	Florida
+Bryan_Simpson_United_States_Courthouse	isLocatedIn	Florida
+Bryan_Simpson_United_States_Courthouse	isLocatedIn	Florida
+KBJ_Architects	created	Bryan_Simpson_United_States_Courthouse
+KBJ_Architects	created	Bryan_Simpson_United_States_Courthouse
+
+http://dbpedia.org/resource/Wells_Fargo_Center_(Jacksonville)	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/KBJ_Architects
+Wells_Fargo_Center_(Jacksonville)	KBJ_Architects
+KBJ_Architects	created	Wells_Fargo_Center_(Jacksonville)
+KBJ_Architects	created	Wells_Fargo_Center_(Jacksonville)
+
+http://dbpedia.org/resource/Wells_Fargo_Center_(Jacksonville)	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/KBJ_Architects
+Wells_Fargo_Center_(Jacksonville)	KBJ_Architects
+Wells_Fargo_Center_(Jacksonville)	isLocatedIn	Jacksonville,_Florida
+Wells_Fargo_Center_(Jacksonville)	isLocatedIn	Jacksonville,_Florida
+Thomas_V._Porter_House	isLocatedIn	Jacksonville,_Florida
+Thomas_V._Porter_House	isLocatedIn	Jacksonville,_Florida
+KBJ_Architects	isLocatedIn	Thomas_V._Porter_House
+KBJ_Architects	isLocatedIn	Thomas_V._Porter_House
+
+http://dbpedia.org/resource/Wells_Fargo_Center_(Jacksonville)	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/KBJ_Architects
+Wells_Fargo_Center_(Jacksonville)	KBJ_Architects
+Wells_Fargo_Center_(Jacksonville)	isLocatedIn	Jacksonville,_Florida
+Wells_Fargo_Center_(Jacksonville)	isLocatedIn	Jacksonville,_Florida
+Wells_Fargo_Center_(Jacksonville)	isLocatedIn	Jacksonville,_Florida
+Wells_Fargo_Center_(Jacksonville)	isLocatedIn	Jacksonville,_Florida
+KBJ_Architects	created	Wells_Fargo_Center_(Jacksonville)
+KBJ_Architects	created	Wells_Fargo_Center_(Jacksonville)
+
+http://dbpedia.org/resource/Willis_Tower	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+Willis_Tower	Skidmore,_Owings_&_Merrill
+Willis_Tower	isLocatedIn	Illinois
+Willis_Tower	isLocatedIn	Illinois
+Three_First_National_Plaza	isLocatedIn	Illinois
+Three_First_National_Plaza	isLocatedIn	Illinois
+Skidmore,_Owings_&_Merrill	created	Three_First_National_Plaza
+Skidmore,_Owings_&_Merrill	created	Three_First_National_Plaza
+
+http://dbpedia.org/resource/Willis_Tower	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+Willis_Tower	Skidmore,_Owings_&_Merrill
+Willis_Tower	isLocatedIn	Illinois
+Willis_Tower	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Illinois
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+
+http://dbpedia.org/resource/Willis_Tower	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+Willis_Tower	Skidmore,_Owings_&_Merrill
+Willis_Tower	isLocatedIn	Illinois
+Willis_Tower	isLocatedIn	Illinois
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+
+http://dbpedia.org/resource/Burj_Khalifa	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Adrian_Smith_(architect)
+Burj_Khalifa	Adrian_Smith_(architect)
+Adrian_Smith_(architect)	created	Burj_Khalifa
+Adrian_Smith_(architect)	created	Burj_Khalifa
+
+http://dbpedia.org/resource/Burj_Khalifa	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Adrian_Smith_(architect)
+Burj_Khalifa	Adrian_Smith_(architect)
+Burj_Khalifa	isLocatedIn	Dubai
+Burj_Khalifa	isLocatedIn	Dubai
+Burj_Khalifa	isLocatedIn	Dubai
+Burj_Khalifa	isLocatedIn	Dubai
+Adrian_Smith_(architect)	created	Burj_Khalifa
+Adrian_Smith_(architect)	created	Burj_Khalifa
+
+http://dbpedia.org/resource/321_North_Clark	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+321_North_Clark	Skidmore,_Owings_&_Merrill
+Hines_Interests_Limited_Partnership	created	321_North_Clark
+Hines_Interests_Limited_Partnership	owns	321_North_Clark
+Hines_Interests_Limited_Partnership	created	321_North_Clark
+Hines_Interests_Limited_Partnership	owns	321_North_Clark
+Hines_Interests_Limited_Partnership	created	321_North_Clark
+Hines_Interests_Limited_Partnership	owns	321_North_Clark
+Hines_Interests_Limited_Partnership	created	321_North_Clark
+Hines_Interests_Limited_Partnership	owns	321_North_Clark
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+
+http://dbpedia.org/resource/321_North_Clark	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+321_North_Clark	Skidmore,_Owings_&_Merrill
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+
+http://dbpedia.org/resource/321_North_Clark	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+321_North_Clark	Skidmore,_Owings_&_Merrill
+321_North_Clark	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Illinois
+Three_First_National_Plaza	isLocatedIn	Illinois
+Three_First_National_Plaza	isLocatedIn	Illinois
+Skidmore,_Owings_&_Merrill	created	Three_First_National_Plaza
+Skidmore,_Owings_&_Merrill	created	Three_First_National_Plaza
+
+http://dbpedia.org/resource/321_North_Clark	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+321_North_Clark	Skidmore,_Owings_&_Merrill
+321_North_Clark	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Illinois
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+Skidmore,_Owings_&_Merrill	created	321_North_Clark
+
+http://dbpedia.org/resource/321_North_Clark	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+321_North_Clark	Skidmore,_Owings_&_Merrill
+321_North_Clark	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Illinois
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+Skidmore,_Owings_&_Merrill	created	Franklin_Center_(Chicago)
+
+http://dbpedia.org/resource/101_California_Street	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Philip_Johnson
+101_California_Street	Philip_Johnson
+Hines_Interests_Limited_Partnership	owns	101_California_Street
+Hines_Interests_Limited_Partnership	created	101_California_Street
+Hines_Interests_Limited_Partnership	owns	101_California_Street
+Hines_Interests_Limited_Partnership	created	101_California_Street
+Hines_Interests_Limited_Partnership	created	One_Detroit_Center
+Hines_Interests_Limited_Partnership	created	One_Detroit_Center
+Philip_Johnson	created	One_Detroit_Center
+Philip_Johnson	created	One_Detroit_Center
+
+http://dbpedia.org/resource/10_Universal_City_Plaza	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+10_Universal_City_Plaza	Skidmore,_Owings_&_Merrill
+Comcast	owns	10_Universal_City_Plaza
+Comcast	owns	10_Universal_City_Plaza
+Comcast	owns	10_Universal_City_Plaza
+Comcast	owns	10_Universal_City_Plaza
+Skidmore,_Owings_&_Merrill	created	10_Universal_City_Plaza
+Skidmore,_Owings_&_Merrill	created	10_Universal_City_Plaza
+
+http://dbpedia.org/resource/10_Universal_City_Plaza	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+10_Universal_City_Plaza	Skidmore,_Owings_&_Merrill
+NBC	isLocatedIn	10_Universal_City_Plaza
+NBC	isLocatedIn	10_Universal_City_Plaza
+NBC	isLocatedIn	10_Universal_City_Plaza
+NBC	isLocatedIn	10_Universal_City_Plaza
+Skidmore,_Owings_&_Merrill	created	10_Universal_City_Plaza
+Skidmore,_Owings_&_Merrill	created	10_Universal_City_Plaza
+
+http://dbpedia.org/resource/10_Universal_City_Plaza	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+10_Universal_City_Plaza	Skidmore,_Owings_&_Merrill
+Skidmore,_Owings_&_Merrill	created	10_Universal_City_Plaza
+Skidmore,_Owings_&_Merrill	created	10_Universal_City_Plaza
+
+http://dbpedia.org/resource/10_Universal_City_Plaza	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill
+10_Universal_City_Plaza	Skidmore,_Owings_&_Merrill
+10_Universal_City_Plaza	isLocatedIn	Universal_City,_California
+10_Universal_City_Plaza	isLocatedIn	Universal_City,_California
+10_Universal_City_Plaza	isLocatedIn	Universal_City,_California
+10_Universal_City_Plaza	isLocatedIn	Universal_City,_California
+Skidmore,_Owings_&_Merrill	created	10_Universal_City_Plaza
+Skidmore,_Owings_&_Merrill	created	10_Universal_City_Plaza
+
+http://dbpedia.org/resource/The_Elms_(Newport,_Rhode_Island)	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Horace_Trumbauer
+The_Elms_(Newport,_Rhode_Island)	Horace_Trumbauer
+Horace_Trumbauer	created	The_Elms_(Newport,_Rhode_Island)
+Horace_Trumbauer	created	The_Elms_(Newport,_Rhode_Island)
+
+http://dbpedia.org/resource/The_Elms_(Newport,_Rhode_Island)	http://dbpedia.org/ontology/architect	http://dbpedia.org/resource/Horace_Trumbauer
+The_Elms_(Newport,_Rhode_Island)	Horace_Trumbauer
+The_Elms_(Newport,_Rhode_Island)	isLocatedIn	Rhode_Island
+The_Elms_(Newport,_Rhode_Island)	isLocatedIn	Rhode_Island
+The_Elms_(Newport,_Rhode_Island)	isLocatedIn	Rhode_Island
+The_Elms_(Newport,_Rhode_Island)	isLocatedIn	Rhode_Island
+Horace_Trumbauer	created	The_Elms_(Newport,_Rhode_Island)
+Horace_Trumbauer	created	The_Elms_(Newport,_Rhode_Island)
+

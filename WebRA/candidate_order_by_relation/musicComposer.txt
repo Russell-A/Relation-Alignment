@@ -1,0 +1,3033 @@
+http://dbpedia.org/resource/Stella_(1955_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Manos_Hatzidakis
+Stella_(1955_film)	Manos_Hatzidakis
+Alekos_Alexandrakis	actedIn	Stella_(1955_film)
+Alekos_Alexandrakis	actedIn	Stella_(1955_film)
+Alekos_Alexandrakis	actedIn	Stella_(1955_film)
+Alekos_Alexandrakis	actedIn	Stella_(1955_film)
+Manos_Hatzidakis	wroteMusicFor	Stella_(1955_film)
+Manos_Hatzidakis	wroteMusicFor	Stella_(1955_film)
+
+http://dbpedia.org/resource/Stella_(1955_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Manos_Hatzidakis
+Stella_(1955_film)	Manos_Hatzidakis
+Alekos_Alexandrakis	actedIn	Stella_(1955_film)
+Alekos_Alexandrakis	actedIn	Stella_(1955_film)
+Alekos_Alexandrakis	actedIn	Rantevou_stin_Kerkyra
+Alekos_Alexandrakis	actedIn	Rantevou_stin_Kerkyra
+Manos_Hatzidakis	wroteMusicFor	Rantevou_stin_Kerkyra
+Manos_Hatzidakis	wroteMusicFor	Rantevou_stin_Kerkyra
+
+http://dbpedia.org/resource/Stella_(1955_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Manos_Hatzidakis
+Stella_(1955_film)	Manos_Hatzidakis
+Iakovos_Kambanellis	created	Stella_(1955_film)
+Iakovos_Kambanellis	created	Stella_(1955_film)
+Iakovos_Kambanellis	created	Stella_(1955_film)
+Iakovos_Kambanellis	created	Stella_(1955_film)
+Manos_Hatzidakis	wroteMusicFor	Stella_(1955_film)
+Manos_Hatzidakis	wroteMusicFor	Stella_(1955_film)
+
+http://dbpedia.org/resource/Stella_(1955_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Manos_Hatzidakis
+Stella_(1955_film)	Manos_Hatzidakis
+Manos_Hatzidakis	wroteMusicFor	Stella_(1955_film)
+Manos_Hatzidakis	wroteMusicFor	Stella_(1955_film)
+
+http://dbpedia.org/resource/I_Love_Maria	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+I_Love_Maria	James_Wong_(lyricist)
+James_Wong_(lyricist)	wroteMusicFor	I_Love_Maria
+James_Wong_(lyricist)	wroteMusicFor	I_Love_Maria
+
+http://dbpedia.org/resource/I_Love_Maria	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+I_Love_Maria	James_Wong_(lyricist)
+Tsui_Hark	actedIn	I_Love_Maria
+Tsui_Hark	actedIn	I_Love_Maria
+Tsui_Hark	directed	The_Swordsman_(1990_film)
+Tsui_Hark	directed	The_Swordsman_(1990_film)
+James_Wong_(lyricist)	wroteMusicFor	The_Swordsman_(1990_film)
+James_Wong_(lyricist)	wroteMusicFor	The_Swordsman_(1990_film)
+
+http://dbpedia.org/resource/I_Love_Maria	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+I_Love_Maria	James_Wong_(lyricist)
+Tsui_Hark	actedIn	I_Love_Maria
+Tsui_Hark	actedIn	I_Love_Maria
+Tsui_Hark	directed	Peking_Opera_Blues
+Tsui_Hark	directed	Peking_Opera_Blues
+James_Wong_(lyricist)	wroteMusicFor	Peking_Opera_Blues
+James_Wong_(lyricist)	wroteMusicFor	Peking_Opera_Blues
+
+http://dbpedia.org/resource/I_Love_Maria	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+I_Love_Maria	James_Wong_(lyricist)
+Tsui_Hark	actedIn	I_Love_Maria
+Tsui_Hark	actedIn	I_Love_Maria
+Tsui_Hark	directed	Once_Upon_a_Time_in_China_(film_series)
+Tsui_Hark	directed	Once_Upon_a_Time_in_China_(film_series)
+James_Wong_(lyricist)	wroteMusicFor	Once_Upon_a_Time_in_China_(film_series)
+James_Wong_(lyricist)	wroteMusicFor	Once_Upon_a_Time_in_China_(film_series)
+
+http://dbpedia.org/resource/I_Love_Maria	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+I_Love_Maria	James_Wong_(lyricist)
+Sally_Yeh	actedIn	I_Love_Maria
+Sally_Yeh	actedIn	I_Love_Maria
+Sally_Yeh	actedIn	Shanghai_Blues
+Sally_Yeh	actedIn	Shanghai_Blues
+James_Wong_(lyricist)	wroteMusicFor	Shanghai_Blues
+James_Wong_(lyricist)	wroteMusicFor	Shanghai_Blues
+
+http://dbpedia.org/resource/I_Love_Maria	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+I_Love_Maria	James_Wong_(lyricist)
+Sally_Yeh	actedIn	I_Love_Maria
+Sally_Yeh	actedIn	I_Love_Maria
+Sally_Yeh	actedIn	I_Love_Maria
+Sally_Yeh	actedIn	I_Love_Maria
+James_Wong_(lyricist)	wroteMusicFor	I_Love_Maria
+James_Wong_(lyricist)	wroteMusicFor	I_Love_Maria
+
+http://dbpedia.org/resource/I_Love_Maria	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+I_Love_Maria	James_Wong_(lyricist)
+Sally_Yeh	actedIn	I_Love_Maria
+Sally_Yeh	actedIn	I_Love_Maria
+Sally_Yeh	actedIn	Peking_Opera_Blues
+Sally_Yeh	actedIn	Peking_Opera_Blues
+James_Wong_(lyricist)	wroteMusicFor	Peking_Opera_Blues
+James_Wong_(lyricist)	wroteMusicFor	Peking_Opera_Blues
+
+http://dbpedia.org/resource/I_Love_Maria	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+I_Love_Maria	James_Wong_(lyricist)
+Tony_Leung_Chiu-wai	actedIn	I_Love_Maria
+Tony_Leung_Chiu-wai	actedIn	I_Love_Maria
+Tony_Leung_Chiu-wai	actedIn	A_Chinese_Ghost_Story_III
+Tony_Leung_Chiu-wai	actedIn	A_Chinese_Ghost_Story_III
+James_Wong_(lyricist)	wroteMusicFor	A_Chinese_Ghost_Story_III
+James_Wong_(lyricist)	wroteMusicFor	A_Chinese_Ghost_Story_III
+
+http://dbpedia.org/resource/I_Love_Maria	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+I_Love_Maria	James_Wong_(lyricist)
+Tony_Leung_Chiu-wai	actedIn	I_Love_Maria
+Tony_Leung_Chiu-wai	actedIn	I_Love_Maria
+Tony_Leung_Chiu-wai	actedIn	I_Love_Maria
+Tony_Leung_Chiu-wai	actedIn	I_Love_Maria
+James_Wong_(lyricist)	wroteMusicFor	I_Love_Maria
+James_Wong_(lyricist)	wroteMusicFor	I_Love_Maria
+
+http://dbpedia.org/resource/I_Love_Maria	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+I_Love_Maria	James_Wong_(lyricist)
+Tony_Leung_Chiu-wai	actedIn	I_Love_Maria
+Tony_Leung_Chiu-wai	actedIn	I_Love_Maria
+Tony_Leung_Chiu-wai	actedIn	The_Eagle_Shooting_Heroes
+Tony_Leung_Chiu-wai	actedIn	The_Eagle_Shooting_Heroes
+James_Wong_(lyricist)	wroteMusicFor	The_Eagle_Shooting_Heroes
+James_Wong_(lyricist)	wroteMusicFor	The_Eagle_Shooting_Heroes
+
+http://dbpedia.org/resource/I_Love_Maria	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+I_Love_Maria	James_Wong_(lyricist)
+John_Shum	actedIn	I_Love_Maria
+John_Shum	actedIn	I_Love_Maria
+John_Shum	actedIn	I_Love_Maria
+John_Shum	actedIn	I_Love_Maria
+James_Wong_(lyricist)	wroteMusicFor	I_Love_Maria
+James_Wong_(lyricist)	wroteMusicFor	I_Love_Maria
+
+http://dbpedia.org/resource/A_Beautiful_Life_(2011_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Beautiful_Life_(2011_film)	Chan_Kwong-wing
+Shu_Qi	actedIn	A_Beautiful_Life_(2011_film)
+Shu_Qi	actedIn	A_Beautiful_Life_(2011_film)
+Shu_Qi	actedIn	A_Beautiful_Life_(2011_film)
+Shu_Qi	actedIn	A_Beautiful_Life_(2011_film)
+Chan_Kwong-wing	wroteMusicFor	A_Beautiful_Life_(2011_film)
+Chan_Kwong-wing	wroteMusicFor	A_Beautiful_Life_(2011_film)
+
+http://dbpedia.org/resource/A_Beautiful_Life_(2011_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Beautiful_Life_(2011_film)	Chan_Kwong-wing
+Shu_Qi	actedIn	A_Beautiful_Life_(2011_film)
+Shu_Qi	actedIn	A_Beautiful_Life_(2011_film)
+Shu_Qi	actedIn	Confession_of_Pain
+Shu_Qi	actedIn	Confession_of_Pain
+Chan_Kwong-wing	wroteMusicFor	Confession_of_Pain
+Chan_Kwong-wing	wroteMusicFor	Confession_of_Pain
+
+http://dbpedia.org/resource/A_Beautiful_Life_(2011_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Beautiful_Life_(2011_film)	Chan_Kwong-wing
+Shu_Qi	actedIn	A_Beautiful_Life_(2011_film)
+Shu_Qi	actedIn	A_Beautiful_Life_(2011_film)
+Shu_Qi	actedIn	The_Wesley's_Mysterious_File
+Shu_Qi	actedIn	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+
+http://dbpedia.org/resource/A_Beautiful_Life_(2011_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Beautiful_Life_(2011_film)	Chan_Kwong-wing
+Shu_Qi	actedIn	A_Beautiful_Life_(2011_film)
+Shu_Qi	actedIn	A_Beautiful_Life_(2011_film)
+Shu_Qi	actedIn	A_Man_Called_Hero
+Shu_Qi	actedIn	A_Man_Called_Hero
+Chan_Kwong-wing	wroteMusicFor	A_Man_Called_Hero
+Chan_Kwong-wing	wroteMusicFor	A_Man_Called_Hero
+
+http://dbpedia.org/resource/A_Beautiful_Life_(2011_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Beautiful_Life_(2011_film)	Chan_Kwong-wing
+Shu_Qi	actedIn	A_Beautiful_Life_(2011_film)
+Shu_Qi	actedIn	A_Beautiful_Life_(2011_film)
+Shu_Qi	actedIn	For_Bad_Boys_Only
+Shu_Qi	actedIn	For_Bad_Boys_Only
+Chan_Kwong-wing	wroteMusicFor	For_Bad_Boys_Only
+Chan_Kwong-wing	wroteMusicFor	For_Bad_Boys_Only
+
+http://dbpedia.org/resource/A_Beautiful_Life_(2011_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Beautiful_Life_(2011_film)	Chan_Kwong-wing
+Shu_Qi	actedIn	A_Beautiful_Life_(2011_film)
+Shu_Qi	actedIn	A_Beautiful_Life_(2011_film)
+Shu_Qi	actedIn	Born_to_Be_King
+Shu_Qi	actedIn	Born_to_Be_King
+Chan_Kwong-wing	wroteMusicFor	Born_to_Be_King
+Chan_Kwong-wing	wroteMusicFor	Born_to_Be_King
+
+http://dbpedia.org/resource/A_Beautiful_Life_(2011_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Beautiful_Life_(2011_film)	Chan_Kwong-wing
+Shu_Qi	actedIn	A_Beautiful_Life_(2011_film)
+Shu_Qi	actedIn	A_Beautiful_Life_(2011_film)
+Shu_Qi	actedIn	Love_Me,_Love_My_Money
+Shu_Qi	actedIn	Love_Me,_Love_My_Money
+Chan_Kwong-wing	wroteMusicFor	Love_Me,_Love_My_Money
+Chan_Kwong-wing	wroteMusicFor	Love_Me,_Love_My_Money
+
+http://dbpedia.org/resource/A_Beautiful_Life_(2011_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Beautiful_Life_(2011_film)	Chan_Kwong-wing
+Shu_Qi	actedIn	A_Beautiful_Life_(2011_film)
+Shu_Qi	actedIn	A_Beautiful_Life_(2011_film)
+Shu_Qi	actedIn	Look_for_a_Star
+Shu_Qi	actedIn	Look_for_a_Star
+Chan_Kwong-wing	wroteMusicFor	Look_for_a_Star
+Chan_Kwong-wing	wroteMusicFor	Look_for_a_Star
+
+http://dbpedia.org/resource/A_Beautiful_Life_(2011_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Beautiful_Life_(2011_film)	Chan_Kwong-wing
+Andrew_Lau	directed	A_Beautiful_Life_(2011_film)
+Andrew_Lau	directed	A_Beautiful_Life_(2011_film)
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+
+http://dbpedia.org/resource/A_Beautiful_Life_(2011_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Beautiful_Life_(2011_film)	Chan_Kwong-wing
+Andrew_Lau	directed	A_Beautiful_Life_(2011_film)
+Andrew_Lau	directed	A_Beautiful_Life_(2011_film)
+Andrew_Lau	directed	The_Guillotines
+Andrew_Lau	directed	The_Guillotines
+Chan_Kwong-wing	wroteMusicFor	The_Guillotines
+Chan_Kwong-wing	wroteMusicFor	The_Guillotines
+
+http://dbpedia.org/resource/A_Beautiful_Life_(2011_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Beautiful_Life_(2011_film)	Chan_Kwong-wing
+Andrew_Lau	directed	A_Beautiful_Life_(2011_film)
+Andrew_Lau	directed	A_Beautiful_Life_(2011_film)
+Andrew_Lau	directed	Infernal_Affairs_II
+Andrew_Lau	directed	Infernal_Affairs_II
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_II
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_II
+
+http://dbpedia.org/resource/A_Beautiful_Life_(2011_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Beautiful_Life_(2011_film)	Chan_Kwong-wing
+Andrew_Lau	directed	A_Beautiful_Life_(2011_film)
+Andrew_Lau	directed	A_Beautiful_Life_(2011_film)
+Andrew_Lau	directed	Infernal_Affairs
+Andrew_Lau	directed	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+
+http://dbpedia.org/resource/A_Beautiful_Life_(2011_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Beautiful_Life_(2011_film)	Chan_Kwong-wing
+Chan_Kwong-wing	wroteMusicFor	A_Beautiful_Life_(2011_film)
+Chan_Kwong-wing	wroteMusicFor	A_Beautiful_Life_(2011_film)
+
+http://dbpedia.org/resource/Martial_Arts_of_Shaolin	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Martial_Arts_of_Shaolin	James_Wong_(lyricist)
+Jet_Li	actedIn	Martial_Arts_of_Shaolin
+Jet_Li	actedIn	Martial_Arts_of_Shaolin
+Jet_Li	actedIn	Fong_Sai-yuk_(film)
+Jet_Li	actedIn	Fong_Sai-yuk_(film)
+James_Wong_(lyricist)	wroteMusicFor	Fong_Sai-yuk_(film)
+James_Wong_(lyricist)	wroteMusicFor	Fong_Sai-yuk_(film)
+
+http://dbpedia.org/resource/Martial_Arts_of_Shaolin	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Martial_Arts_of_Shaolin	James_Wong_(lyricist)
+Jet_Li	actedIn	Martial_Arts_of_Shaolin
+Jet_Li	actedIn	Martial_Arts_of_Shaolin
+Jet_Li	actedIn	Martial_Arts_of_Shaolin
+Jet_Li	actedIn	Martial_Arts_of_Shaolin
+James_Wong_(lyricist)	wroteMusicFor	Martial_Arts_of_Shaolin
+James_Wong_(lyricist)	wroteMusicFor	Martial_Arts_of_Shaolin
+
+http://dbpedia.org/resource/Martial_Arts_of_Shaolin	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Martial_Arts_of_Shaolin	James_Wong_(lyricist)
+James_Wong_(lyricist)	wroteMusicFor	Martial_Arts_of_Shaolin
+James_Wong_(lyricist)	wroteMusicFor	Martial_Arts_of_Shaolin
+
+http://dbpedia.org/resource/Kung_Fu_VS_Acrobatic	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Kung_Fu_VS_Acrobatic	Lowell_Lo
+Yuen_Wah	actedIn	Kung_Fu_VS_Acrobatic
+Yuen_Wah	actedIn	Kung_Fu_VS_Acrobatic
+Yuen_Wah	actedIn	The_Black_Panther_Warriors
+Yuen_Wah	actedIn	The_Black_Panther_Warriors
+Lowell_Lo	wroteMusicFor	The_Black_Panther_Warriors
+Lowell_Lo	wroteMusicFor	The_Black_Panther_Warriors
+
+http://dbpedia.org/resource/Kung_Fu_VS_Acrobatic	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Kung_Fu_VS_Acrobatic	Lowell_Lo
+Joey_Wong	actedIn	Kung_Fu_VS_Acrobatic
+Joey_Wong	actedIn	Kung_Fu_VS_Acrobatic
+Joey_Wong	actedIn	Kung_Fu_VS_Acrobatic
+Joey_Wong	actedIn	Kung_Fu_VS_Acrobatic
+Lowell_Lo	wroteMusicFor	Kung_Fu_VS_Acrobatic
+Lowell_Lo	wroteMusicFor	Kung_Fu_VS_Acrobatic
+
+http://dbpedia.org/resource/Kung_Fu_VS_Acrobatic	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Kung_Fu_VS_Acrobatic	Lowell_Lo
+Joey_Wong	actedIn	Kung_Fu_VS_Acrobatic
+Joey_Wong	actedIn	Kung_Fu_VS_Acrobatic
+Joey_Wong	actedIn	The_Banquet_(1991_film)
+Joey_Wong	actedIn	The_Banquet_(1991_film)
+Lowell_Lo	wroteMusicFor	The_Banquet_(1991_film)
+Lowell_Lo	wroteMusicFor	The_Banquet_(1991_film)
+
+http://dbpedia.org/resource/Kung_Fu_VS_Acrobatic	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Kung_Fu_VS_Acrobatic	Lowell_Lo
+Natalis_Chan	actedIn	Kung_Fu_VS_Acrobatic
+Natalis_Chan	actedIn	Kung_Fu_VS_Acrobatic
+Natalis_Chan	actedIn	No_Risk,_No_Gain
+Natalis_Chan	actedIn	No_Risk,_No_Gain
+Lowell_Lo	wroteMusicFor	No_Risk,_No_Gain
+Lowell_Lo	wroteMusicFor	No_Risk,_No_Gain
+
+http://dbpedia.org/resource/Kung_Fu_VS_Acrobatic	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Kung_Fu_VS_Acrobatic	Lowell_Lo
+Lowell_Lo	wroteMusicFor	Kung_Fu_VS_Acrobatic
+Lowell_Lo	wroteMusicFor	Kung_Fu_VS_Acrobatic
+
+http://dbpedia.org/resource/The_Romancing_Star_III	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+The_Romancing_Star_III	James_Wong_(lyricist)
+James_Wong_(lyricist)	actedIn	The_Romancing_Star_III
+James_Wong_(lyricist)	actedIn	The_Romancing_Star_III
+
+http://dbpedia.org/resource/The_Romancing_Star_III	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+The_Romancing_Star_III	James_Wong_(lyricist)
+Stanley_Fung	actedIn	The_Romancing_Star_III
+Stanley_Fung	actedIn	The_Romancing_Star_III
+Stanley_Fung	actedIn	The_Romancing_Star_III
+Stanley_Fung	actedIn	The_Romancing_Star_III
+James_Wong_(lyricist)	actedIn	The_Romancing_Star_III
+James_Wong_(lyricist)	actedIn	The_Romancing_Star_III
+
+http://dbpedia.org/resource/Fong_Sai-yuk_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mark_Lui
+Fong_Sai-yuk_(film)	Mark_Lui
+Josephine_Siao	actedIn	Fong_Sai-yuk_(film)
+Josephine_Siao	actedIn	Fong_Sai-yuk_(film)
+Josephine_Siao	actedIn	Fong_Sai-yuk_(film)
+Josephine_Siao	actedIn	Fong_Sai-yuk_(film)
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+
+http://dbpedia.org/resource/Fong_Sai-yuk_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mark_Lui
+Fong_Sai-yuk_(film)	Mark_Lui
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+
+http://dbpedia.org/resource/Fong_Sai-yuk_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mark_Lui
+Fong_Sai-yuk_(film)	Mark_Lui
+Jet_Li	actedIn	Fong_Sai-yuk_(film)
+Jet_Li	actedIn	Fong_Sai-yuk_(film)
+Jet_Li	actedIn	Fong_Sai-yuk_(film)
+Jet_Li	actedIn	Fong_Sai-yuk_(film)
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+
+http://dbpedia.org/resource/Getawarayo	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/W._D._Amaradeva
+Getawarayo	W._D._Amaradeva
+W._D._Amaradeva	wroteMusicFor	Getawarayo
+W._D._Amaradeva	wroteMusicFor	Getawarayo
+
+http://dbpedia.org/resource/Getawarayo	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/W._D._Amaradeva
+Getawarayo	W._D._Amaradeva
+Gamini_Fonseka	actedIn	Getawarayo
+Gamini_Fonseka	actedIn	Getawarayo
+Gamini_Fonseka	actedIn	Adata_Vediya_Heta_Hondai
+Gamini_Fonseka	actedIn	Adata_Vediya_Heta_Hondai
+W._D._Amaradeva	wroteMusicFor	Adata_Vediya_Heta_Hondai
+W._D._Amaradeva	wroteMusicFor	Adata_Vediya_Heta_Hondai
+
+http://dbpedia.org/resource/Getawarayo	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/W._D._Amaradeva
+Getawarayo	W._D._Amaradeva
+Gamini_Fonseka	actedIn	Getawarayo
+Gamini_Fonseka	actedIn	Getawarayo
+Gamini_Fonseka	actedIn	Getawarayo
+Gamini_Fonseka	actedIn	Getawarayo
+W._D._Amaradeva	wroteMusicFor	Getawarayo
+W._D._Amaradeva	wroteMusicFor	Getawarayo
+
+http://dbpedia.org/resource/Getawarayo	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/W._D._Amaradeva
+Getawarayo	W._D._Amaradeva
+Joe_Abeywickrama	actedIn	Getawarayo
+Joe_Abeywickrama	actedIn	Getawarayo
+Joe_Abeywickrama	actedIn	Madol_Duwa
+Joe_Abeywickrama	actedIn	Madol_Duwa
+W._D._Amaradeva	wroteMusicFor	Madol_Duwa
+W._D._Amaradeva	wroteMusicFor	Madol_Duwa
+
+http://dbpedia.org/resource/Getawarayo	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/W._D._Amaradeva
+Getawarayo	W._D._Amaradeva
+Joe_Abeywickrama	actedIn	Getawarayo
+Joe_Abeywickrama	actedIn	Getawarayo
+Joe_Abeywickrama	actedIn	Getawarayo
+Joe_Abeywickrama	actedIn	Getawarayo
+W._D._Amaradeva	wroteMusicFor	Getawarayo
+W._D._Amaradeva	wroteMusicFor	Getawarayo
+
+http://dbpedia.org/resource/Infernal_Affairs_III	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs_III	Chan_Kwong-wing
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_III
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Infernal_Affairs_III	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs_III	Chan_Kwong-wing
+Andrew_Lau	directed	Infernal_Affairs_III
+Andrew_Lau	directed	Infernal_Affairs_III
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+
+http://dbpedia.org/resource/Infernal_Affairs_III	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs_III	Chan_Kwong-wing
+Andrew_Lau	directed	Infernal_Affairs_III
+Andrew_Lau	directed	Infernal_Affairs_III
+Andrew_Lau	directed	The_Guillotines
+Andrew_Lau	directed	The_Guillotines
+Chan_Kwong-wing	wroteMusicFor	The_Guillotines
+Chan_Kwong-wing	wroteMusicFor	The_Guillotines
+
+http://dbpedia.org/resource/Infernal_Affairs_III	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs_III	Chan_Kwong-wing
+Andrew_Lau	directed	Infernal_Affairs_III
+Andrew_Lau	directed	Infernal_Affairs_III
+Andrew_Lau	directed	Infernal_Affairs_II
+Andrew_Lau	directed	Infernal_Affairs_II
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_II
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_II
+
+http://dbpedia.org/resource/Infernal_Affairs_III	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs_III	Chan_Kwong-wing
+Andrew_Lau	directed	Infernal_Affairs_III
+Andrew_Lau	directed	Infernal_Affairs_III
+Andrew_Lau	directed	Infernal_Affairs
+Andrew_Lau	directed	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+
+http://dbpedia.org/resource/Infernal_Affairs_III	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs_III	Chan_Kwong-wing
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs_III
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs_III
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs_III
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs_III
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_III
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Infernal_Affairs_III	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs_III	Chan_Kwong-wing
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs_III
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs_III
+Tony_Leung_Chiu-wai	actedIn	Confession_of_Pain
+Tony_Leung_Chiu-wai	actedIn	Confession_of_Pain
+Chan_Kwong-wing	wroteMusicFor	Confession_of_Pain
+Chan_Kwong-wing	wroteMusicFor	Confession_of_Pain
+
+http://dbpedia.org/resource/Infernal_Affairs_III	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs_III	Chan_Kwong-wing
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs_III
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs_III
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+
+http://dbpedia.org/resource/Infernal_Affairs_III	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs_III	Chan_Kwong-wing
+Leon_Lai	actedIn	Infernal_Affairs_III
+Leon_Lai	actedIn	Infernal_Affairs_III
+Leon_Lai	actedIn	Infernal_Affairs_III
+Leon_Lai	actedIn	Infernal_Affairs_III
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_III
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Infernal_Affairs_III	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs_III	Chan_Kwong-wing
+Eric_Tsang	actedIn	Infernal_Affairs_III
+Eric_Tsang	actedIn	Infernal_Affairs_III
+Eric_Tsang	actedIn	Infernal_Affairs_III
+Eric_Tsang	actedIn	Infernal_Affairs_III
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_III
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Infernal_Affairs_III	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs_III	Chan_Kwong-wing
+Alan_Mak_(director)	directed	Infernal_Affairs_III
+Alan_Mak_(director)	directed	Infernal_Affairs_III
+Alan_Mak_(director)	directed	Initial_D_(film)
+Alan_Mak_(director)	directed	Initial_D_(film)
+Chan_Kwong-wing	wroteMusicFor	Initial_D_(film)
+Chan_Kwong-wing	wroteMusicFor	Initial_D_(film)
+
+http://dbpedia.org/resource/Infernal_Affairs_III	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs_III	Chan_Kwong-wing
+Felix_Chong	created	Infernal_Affairs_III
+Felix_Chong	created	Infernal_Affairs_III
+Felix_Chong	created	Infernal_Affairs_III
+Felix_Chong	created	Infernal_Affairs_III
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_III
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Infernal_Affairs_III	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs_III	Chan_Kwong-wing
+Felix_Chong	created	Infernal_Affairs_III
+Felix_Chong	created	Infernal_Affairs_III
+Felix_Chong	created	Confession_of_Pain
+Felix_Chong	created	Confession_of_Pain
+Chan_Kwong-wing	wroteMusicFor	Confession_of_Pain
+Chan_Kwong-wing	wroteMusicFor	Confession_of_Pain
+
+http://dbpedia.org/resource/Infernal_Affairs_III	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs_III	Chan_Kwong-wing
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+
+http://dbpedia.org/resource/Infernal_Affairs_III	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs_III	Chan_Kwong-wing
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_III
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Saranga	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Zulfiqar_Ali_Bukhari
+Saranga	Zulfiqar_Ali_Bukhari
+Saranga	isLocatedIn	Pakistan
+Saranga	isLocatedIn	Pakistan
+Peshawar	isLocatedIn	Pakistan
+Peshawar	isLocatedIn	Pakistan
+Zulfiqar_Ali_Bukhari	wasBornIn	Peshawar
+Zulfiqar_Ali_Bukhari	wasBornIn	Peshawar
+
+http://dbpedia.org/resource/O_Stratis_parastratise	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Giorgos_Katsaros
+O_Stratis_parastratise	Giorgos_Katsaros
+Dinos_Iliopoulos	actedIn	O_Stratis_parastratise
+Dinos_Iliopoulos	actedIn	O_Stratis_parastratise
+Dinos_Iliopoulos	actedIn	O_Stratis_parastratise
+Dinos_Iliopoulos	actedIn	O_Stratis_parastratise
+Giorgos_Katsaros	wroteMusicFor	O_Stratis_parastratise
+Giorgos_Katsaros	wroteMusicFor	O_Stratis_parastratise
+
+http://dbpedia.org/resource/O_Stratis_parastratise	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Giorgos_Katsaros
+O_Stratis_parastratise	Giorgos_Katsaros
+Nikos_Rizos	actedIn	O_Stratis_parastratise
+Nikos_Rizos	actedIn	O_Stratis_parastratise
+Nikos_Rizos	actedIn	O_Stratis_parastratise
+Nikos_Rizos	actedIn	O_Stratis_parastratise
+Giorgos_Katsaros	wroteMusicFor	O_Stratis_parastratise
+Giorgos_Katsaros	wroteMusicFor	O_Stratis_parastratise
+
+http://dbpedia.org/resource/O_Stratis_parastratise	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Giorgos_Katsaros
+O_Stratis_parastratise	Giorgos_Katsaros
+Nikos_Rizos	actedIn	O_Stratis_parastratise
+Nikos_Rizos	actedIn	O_Stratis_parastratise
+Nikos_Rizos	actedIn	Ah!_Kai_na_'moun_antras
+Nikos_Rizos	actedIn	Ah!_Kai_na_'moun_antras
+Giorgos_Katsaros	wroteMusicFor	Ah!_Kai_na_'moun_antras
+Giorgos_Katsaros	wroteMusicFor	Ah!_Kai_na_'moun_antras
+
+http://dbpedia.org/resource/O_Stratis_parastratise	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Giorgos_Katsaros
+O_Stratis_parastratise	Giorgos_Katsaros
+Giorgos_Katsaros	wroteMusicFor	O_Stratis_parastratise
+Giorgos_Katsaros	wroteMusicFor	O_Stratis_parastratise
+
+http://dbpedia.org/resource/O_Stratis_parastratise	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Giorgos_Katsaros
+O_Stratis_parastratise	Giorgos_Katsaros
+O_Stratis_parastratise	isLocatedIn	Greece
+O_Stratis_parastratise	isLocatedIn	Greece
+O_Stratis_parastratise	isLocatedIn	Greece
+O_Stratis_parastratise	isLocatedIn	Greece
+Giorgos_Katsaros	wroteMusicFor	O_Stratis_parastratise
+Giorgos_Katsaros	wroteMusicFor	O_Stratis_parastratise
+
+http://dbpedia.org/resource/Legend_of_the_Liquid_Sword	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Legend_of_the_Liquid_Sword	James_Wong_(lyricist)
+James_Wong_(lyricist)	wroteMusicFor	Legend_of_the_Liquid_Sword
+James_Wong_(lyricist)	wroteMusicFor	Legend_of_the_Liquid_Sword
+
+http://dbpedia.org/resource/Legend_of_the_Liquid_Sword	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Legend_of_the_Liquid_Sword	James_Wong_(lyricist)
+Aaron_Kwok	actedIn	Legend_of_the_Liquid_Sword
+Aaron_Kwok	actedIn	Legend_of_the_Liquid_Sword
+Aaron_Kwok	actedIn	Legend_of_the_Liquid_Sword
+Aaron_Kwok	actedIn	Legend_of_the_Liquid_Sword
+James_Wong_(lyricist)	wroteMusicFor	Legend_of_the_Liquid_Sword
+James_Wong_(lyricist)	wroteMusicFor	Legend_of_the_Liquid_Sword
+
+http://dbpedia.org/resource/Legend_of_the_Liquid_Sword	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Legend_of_the_Liquid_Sword	James_Wong_(lyricist)
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+Mark_Lui	wroteMusicFor	All's_Well,_Ends_Well_Too
+Mark_Lui	wroteMusicFor	All's_Well,_Ends_Well_Too
+James_Wong_(lyricist)	wroteMusicFor	All's_Well,_Ends_Well_Too
+James_Wong_(lyricist)	wroteMusicFor	All's_Well,_Ends_Well_Too
+
+http://dbpedia.org/resource/Legend_of_the_Liquid_Sword	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Legend_of_the_Liquid_Sword	James_Wong_(lyricist)
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+Mark_Lui	wroteMusicFor	The_Eagle_Shooting_Heroes
+Mark_Lui	wroteMusicFor	The_Eagle_Shooting_Heroes
+James_Wong_(lyricist)	wroteMusicFor	The_Eagle_Shooting_Heroes
+James_Wong_(lyricist)	wroteMusicFor	The_Eagle_Shooting_Heroes
+
+http://dbpedia.org/resource/Legend_of_the_Liquid_Sword	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Legend_of_the_Liquid_Sword	James_Wong_(lyricist)
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+James_Wong_(lyricist)	wroteMusicFor	Legend_of_the_Liquid_Sword
+James_Wong_(lyricist)	wroteMusicFor	Legend_of_the_Liquid_Sword
+
+http://dbpedia.org/resource/Legend_of_the_Liquid_Sword	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Legend_of_the_Liquid_Sword	James_Wong_(lyricist)
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+Mark_Lui	wroteMusicFor	Deadful_Melody
+Mark_Lui	wroteMusicFor	Deadful_Melody
+James_Wong_(lyricist)	wroteMusicFor	Deadful_Melody
+James_Wong_(lyricist)	wroteMusicFor	Deadful_Melody
+
+http://dbpedia.org/resource/Legend_of_the_Liquid_Sword	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Legend_of_the_Liquid_Sword	James_Wong_(lyricist)
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+Mark_Lui	wroteMusicFor	Moon_Warriors
+Mark_Lui	wroteMusicFor	Moon_Warriors
+James_Wong_(lyricist)	wroteMusicFor	Moon_Warriors
+James_Wong_(lyricist)	wroteMusicFor	Moon_Warriors
+
+http://dbpedia.org/resource/Legend_of_the_Liquid_Sword	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Legend_of_the_Liquid_Sword	James_Wong_(lyricist)
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+James_Wong_(lyricist)	wroteMusicFor	Fong_Sai-yuk_(film)
+James_Wong_(lyricist)	wroteMusicFor	Fong_Sai-yuk_(film)
+
+http://dbpedia.org/resource/Legend_of_the_Liquid_Sword	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Legend_of_the_Liquid_Sword	James_Wong_(lyricist)
+Anita_Yuen	actedIn	Legend_of_the_Liquid_Sword
+Anita_Yuen	actedIn	Legend_of_the_Liquid_Sword
+Anita_Yuen	actedIn	Legend_of_the_Liquid_Sword
+Anita_Yuen	actedIn	Legend_of_the_Liquid_Sword
+James_Wong_(lyricist)	wroteMusicFor	Legend_of_the_Liquid_Sword
+James_Wong_(lyricist)	wroteMusicFor	Legend_of_the_Liquid_Sword
+
+http://dbpedia.org/resource/Gia_mia_choufta_Touristries	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Giorgos_Katsaros
+Gia_mia_choufta_Touristries	Giorgos_Katsaros
+Alekos_Alexandrakis	actedIn	Gia_mia_choufta_Touristries
+Alekos_Alexandrakis	actedIn	Gia_mia_choufta_Touristries
+Alekos_Alexandrakis	actedIn	Gia_mia_choufta_Touristries
+Alekos_Alexandrakis	actedIn	Gia_mia_choufta_Touristries
+Giorgos_Katsaros	wroteMusicFor	Gia_mia_choufta_Touristries
+Giorgos_Katsaros	wroteMusicFor	Gia_mia_choufta_Touristries
+
+http://dbpedia.org/resource/Gia_mia_choufta_Touristries	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Giorgos_Katsaros
+Gia_mia_choufta_Touristries	Giorgos_Katsaros
+Gia_mia_choufta_Touristries	isLocatedIn	Greece
+Gia_mia_choufta_Touristries	isLocatedIn	Greece
+O_Stratis_parastratise	isLocatedIn	Greece
+O_Stratis_parastratise	isLocatedIn	Greece
+Giorgos_Katsaros	wroteMusicFor	O_Stratis_parastratise
+Giorgos_Katsaros	wroteMusicFor	O_Stratis_parastratise
+
+http://dbpedia.org/resource/Gia_mia_choufta_Touristries	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Giorgos_Katsaros
+Gia_mia_choufta_Touristries	Giorgos_Katsaros
+Giorgos_Katsaros	wroteMusicFor	Gia_mia_choufta_Touristries
+Giorgos_Katsaros	wroteMusicFor	Gia_mia_choufta_Touristries
+
+http://dbpedia.org/resource/Gia_mia_choufta_Touristries	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Giorgos_Katsaros
+Gia_mia_choufta_Touristries	Giorgos_Katsaros
+Sotiris_Moustakas	actedIn	Gia_mia_choufta_Touristries
+Sotiris_Moustakas	actedIn	Gia_mia_choufta_Touristries
+Sotiris_Moustakas	actedIn	Gia_mia_choufta_Touristries
+Sotiris_Moustakas	actedIn	Gia_mia_choufta_Touristries
+Giorgos_Katsaros	wroteMusicFor	Gia_mia_choufta_Touristries
+Giorgos_Katsaros	wroteMusicFor	Gia_mia_choufta_Touristries
+
+http://dbpedia.org/resource/Gia_mia_choufta_Touristries	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Giorgos_Katsaros
+Gia_mia_choufta_Touristries	Giorgos_Katsaros
+Katerina_Yioulaki	actedIn	Gia_mia_choufta_Touristries
+Katerina_Yioulaki	actedIn	Gia_mia_choufta_Touristries
+Katerina_Yioulaki	actedIn	Ah!_Kai_na_'moun_antras
+Katerina_Yioulaki	actedIn	Ah!_Kai_na_'moun_antras
+Giorgos_Katsaros	wroteMusicFor	Ah!_Kai_na_'moun_antras
+Giorgos_Katsaros	wroteMusicFor	Ah!_Kai_na_'moun_antras
+
+http://dbpedia.org/resource/Gia_mia_choufta_Touristries	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Giorgos_Katsaros
+Gia_mia_choufta_Touristries	Giorgos_Katsaros
+Katerina_Yioulaki	actedIn	Gia_mia_choufta_Touristries
+Katerina_Yioulaki	actedIn	Gia_mia_choufta_Touristries
+Katerina_Yioulaki	actedIn	Gia_mia_choufta_Touristries
+Katerina_Yioulaki	actedIn	Gia_mia_choufta_Touristries
+Giorgos_Katsaros	wroteMusicFor	Gia_mia_choufta_Touristries
+Giorgos_Katsaros	wroteMusicFor	Gia_mia_choufta_Touristries
+
+http://dbpedia.org/resource/Anaconda_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Randy_Edelman
+Anaconda_(film)	Randy_Edelman
+Owen_Wilson	actedIn	Anaconda_(film)
+Owen_Wilson	actedIn	Anaconda_(film)
+Owen_Wilson	actedIn	Anaconda_(film)
+Owen_Wilson	actedIn	Anaconda_(film)
+Randy_Edelman	wroteMusicFor	Anaconda_(film)
+Randy_Edelman	wroteMusicFor	Anaconda_(film)
+
+http://dbpedia.org/resource/Anaconda_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Randy_Edelman
+Anaconda_(film)	Randy_Edelman
+Owen_Wilson	actedIn	Anaconda_(film)
+Owen_Wilson	actedIn	Anaconda_(film)
+Owen_Wilson	actedIn	Shanghai_Knights
+Owen_Wilson	actedIn	Shanghai_Knights
+Randy_Edelman	wroteMusicFor	Shanghai_Knights
+Randy_Edelman	wroteMusicFor	Shanghai_Knights
+
+http://dbpedia.org/resource/Anaconda_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Randy_Edelman
+Anaconda_(film)	Randy_Edelman
+Owen_Wilson	actedIn	Anaconda_(film)
+Owen_Wilson	actedIn	Anaconda_(film)
+Owen_Wilson	actedIn	Shanghai_Noon
+Owen_Wilson	actedIn	Shanghai_Noon
+Randy_Edelman	wroteMusicFor	Shanghai_Noon
+Randy_Edelman	wroteMusicFor	Shanghai_Noon
+
+http://dbpedia.org/resource/Anaconda_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Randy_Edelman
+Anaconda_(film)	Randy_Edelman
+Randy_Edelman	wroteMusicFor	Anaconda_(film)
+Randy_Edelman	wroteMusicFor	Anaconda_(film)
+
+http://dbpedia.org/resource/Anaconda_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Randy_Edelman
+Anaconda_(film)	Randy_Edelman
+Luis_Llosa	directed	Anaconda_(film)
+Luis_Llosa	directed	Anaconda_(film)
+Luis_Llosa	directed	Anaconda_(film)
+Luis_Llosa	directed	Anaconda_(film)
+Randy_Edelman	wroteMusicFor	Anaconda_(film)
+Randy_Edelman	wroteMusicFor	Anaconda_(film)
+
+http://dbpedia.org/resource/The_Chinese_Feast	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+The_Chinese_Feast	Lowell_Lo
+Tsui_Hark	directed	The_Chinese_Feast
+Tsui_Hark	directed	The_Chinese_Feast
+Tsui_Hark	directed	Once_Upon_a_Time_in_China_(film_series)
+Tsui_Hark	directed	Once_Upon_a_Time_in_China_(film_series)
+Lowell_Lo	wroteMusicFor	Once_Upon_a_Time_in_China_(film_series)
+Lowell_Lo	wroteMusicFor	Once_Upon_a_Time_in_China_(film_series)
+
+http://dbpedia.org/resource/The_Chinese_Feast	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+The_Chinese_Feast	Lowell_Lo
+Leslie_Cheung	actedIn	The_Chinese_Feast
+Leslie_Cheung	actedIn	The_Chinese_Feast
+Leslie_Cheung	actedIn	Tristar_(film)
+Leslie_Cheung	actedIn	Tristar_(film)
+Lowell_Lo	wroteMusicFor	Tristar_(film)
+Lowell_Lo	wroteMusicFor	Tristar_(film)
+
+http://dbpedia.org/resource/The_Chinese_Feast	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+The_Chinese_Feast	Lowell_Lo
+Leslie_Cheung	actedIn	The_Chinese_Feast
+Leslie_Cheung	actedIn	The_Chinese_Feast
+Leslie_Cheung	actedIn	The_Banquet_(1991_film)
+Leslie_Cheung	actedIn	The_Banquet_(1991_film)
+Lowell_Lo	wroteMusicFor	The_Banquet_(1991_film)
+Lowell_Lo	wroteMusicFor	The_Banquet_(1991_film)
+
+http://dbpedia.org/resource/The_Chinese_Feast	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+The_Chinese_Feast	Lowell_Lo
+Leslie_Cheung	actedIn	The_Chinese_Feast
+Leslie_Cheung	actedIn	The_Chinese_Feast
+Leslie_Cheung	actedIn	The_Chinese_Feast
+Leslie_Cheung	actedIn	The_Chinese_Feast
+Lowell_Lo	wroteMusicFor	The_Chinese_Feast
+Lowell_Lo	wroteMusicFor	The_Chinese_Feast
+
+http://dbpedia.org/resource/The_Chinese_Feast	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+The_Chinese_Feast	Lowell_Lo
+Law_Kar-ying	actedIn	The_Chinese_Feast
+Law_Kar-ying	actedIn	The_Chinese_Feast
+Law_Kar-ying	actedIn	The_Chinese_Feast
+Law_Kar-ying	actedIn	The_Chinese_Feast
+Lowell_Lo	wroteMusicFor	The_Chinese_Feast
+Lowell_Lo	wroteMusicFor	The_Chinese_Feast
+
+http://dbpedia.org/resource/The_Chinese_Feast	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+The_Chinese_Feast	Lowell_Lo
+Lowell_Lo	wroteMusicFor	The_Chinese_Feast
+Lowell_Lo	wroteMusicFor	The_Chinese_Feast
+
+http://dbpedia.org/resource/Love_@_First_Note	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mark_Lui
+Love_@_First_Note	Mark_Lui
+Alex_Fong_(singer)	actedIn	Love_@_First_Note
+Alex_Fong_(singer)	actedIn	Love_@_First_Note
+Alex_Fong_(singer)	actedIn	Love_@_First_Note
+Alex_Fong_(singer)	actedIn	Love_@_First_Note
+Mark_Lui	wroteMusicFor	Love_@_First_Note
+Mark_Lui	wroteMusicFor	Love_@_First_Note
+
+http://dbpedia.org/resource/Love_@_First_Note	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mark_Lui
+Love_@_First_Note	Mark_Lui
+Mark_Lui	wroteMusicFor	Love_@_First_Note
+Mark_Lui	wroteMusicFor	Love_@_First_Note
+
+http://dbpedia.org/resource/Love_@_First_Note	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mark_Lui
+Love_@_First_Note	Mark_Lui
+Dennis_Law_(film_director)	directed	Love_@_First_Note
+Dennis_Law_(film_director)	directed	Love_@_First_Note
+Dennis_Law_(film_director)	directed	Love_@_First_Note
+Dennis_Law_(film_director)	directed	Love_@_First_Note
+Mark_Lui	wroteMusicFor	Love_@_First_Note
+Mark_Lui	wroteMusicFor	Love_@_First_Note
+
+http://dbpedia.org/resource/Melancholia_(2008_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lav_Diaz
+Melancholia_(2008_film)	Lav_Diaz
+Lav_Diaz	wroteMusicFor	Melancholia_(2008_film)
+Lav_Diaz	directed	Melancholia_(2008_film)
+Lav_Diaz	created	Melancholia_(2008_film)
+Lav_Diaz	wroteMusicFor	Melancholia_(2008_film)
+Lav_Diaz	directed	Melancholia_(2008_film)
+Lav_Diaz	created	Melancholia_(2008_film)
+
+http://dbpedia.org/resource/Raja_Dangdut	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Rhoma_Irama
+Raja_Dangdut	Rhoma_Irama
+Rhoma_Irama	actedIn	Raja_Dangdut
+Rhoma_Irama	created	Raja_Dangdut
+Rhoma_Irama	wroteMusicFor	Raja_Dangdut
+Rhoma_Irama	actedIn	Raja_Dangdut
+Rhoma_Irama	created	Raja_Dangdut
+Rhoma_Irama	wroteMusicFor	Raja_Dangdut
+
+http://dbpedia.org/resource/Raja_Dangdut	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Rhoma_Irama
+Raja_Dangdut	Rhoma_Irama
+Raja_Dangdut	isLocatedIn	Indonesia
+Raja_Dangdut	isLocatedIn	Indonesia
+Rhoma_Irama	isCitizenOf	Indonesia
+Rhoma_Irama	isCitizenOf	Indonesia
+
+http://dbpedia.org/resource/Legend_of_the_Liquid_Sword	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mark_Lui
+Legend_of_the_Liquid_Sword	Mark_Lui
+Aaron_Kwok	actedIn	Legend_of_the_Liquid_Sword
+Aaron_Kwok	actedIn	Legend_of_the_Liquid_Sword
+Aaron_Kwok	actedIn	Legend_of_the_Liquid_Sword
+Aaron_Kwok	actedIn	Legend_of_the_Liquid_Sword
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+
+http://dbpedia.org/resource/Legend_of_the_Liquid_Sword	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mark_Lui
+Legend_of_the_Liquid_Sword	Mark_Lui
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+
+http://dbpedia.org/resource/Legend_of_the_Liquid_Sword	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mark_Lui
+Legend_of_the_Liquid_Sword	Mark_Lui
+Anita_Yuen	actedIn	Legend_of_the_Liquid_Sword
+Anita_Yuen	actedIn	Legend_of_the_Liquid_Sword
+Anita_Yuen	actedIn	Legend_of_the_Liquid_Sword
+Anita_Yuen	actedIn	Legend_of_the_Liquid_Sword
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+
+http://dbpedia.org/resource/Fong_Sai-yuk_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Fong_Sai-yuk_(film)	James_Wong_(lyricist)
+Josephine_Siao	actedIn	Fong_Sai-yuk_(film)
+Josephine_Siao	actedIn	Fong_Sai-yuk_(film)
+Josephine_Siao	actedIn	Fong_Sai-yuk_(film)
+Josephine_Siao	actedIn	Fong_Sai-yuk_(film)
+James_Wong_(lyricist)	wroteMusicFor	Fong_Sai-yuk_(film)
+James_Wong_(lyricist)	wroteMusicFor	Fong_Sai-yuk_(film)
+
+http://dbpedia.org/resource/Fong_Sai-yuk_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Fong_Sai-yuk_(film)	James_Wong_(lyricist)
+James_Wong_(lyricist)	wroteMusicFor	Fong_Sai-yuk_(film)
+James_Wong_(lyricist)	wroteMusicFor	Fong_Sai-yuk_(film)
+
+http://dbpedia.org/resource/Fong_Sai-yuk_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Fong_Sai-yuk_(film)	James_Wong_(lyricist)
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+Mark_Lui	wroteMusicFor	All's_Well,_Ends_Well_Too
+Mark_Lui	wroteMusicFor	All's_Well,_Ends_Well_Too
+James_Wong_(lyricist)	wroteMusicFor	All's_Well,_Ends_Well_Too
+James_Wong_(lyricist)	wroteMusicFor	All's_Well,_Ends_Well_Too
+
+http://dbpedia.org/resource/Fong_Sai-yuk_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Fong_Sai-yuk_(film)	James_Wong_(lyricist)
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+Mark_Lui	wroteMusicFor	The_Eagle_Shooting_Heroes
+Mark_Lui	wroteMusicFor	The_Eagle_Shooting_Heroes
+James_Wong_(lyricist)	wroteMusicFor	The_Eagle_Shooting_Heroes
+James_Wong_(lyricist)	wroteMusicFor	The_Eagle_Shooting_Heroes
+
+http://dbpedia.org/resource/Fong_Sai-yuk_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Fong_Sai-yuk_(film)	James_Wong_(lyricist)
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+James_Wong_(lyricist)	wroteMusicFor	Legend_of_the_Liquid_Sword
+James_Wong_(lyricist)	wroteMusicFor	Legend_of_the_Liquid_Sword
+
+http://dbpedia.org/resource/Fong_Sai-yuk_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Fong_Sai-yuk_(film)	James_Wong_(lyricist)
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+Mark_Lui	wroteMusicFor	Deadful_Melody
+Mark_Lui	wroteMusicFor	Deadful_Melody
+James_Wong_(lyricist)	wroteMusicFor	Deadful_Melody
+James_Wong_(lyricist)	wroteMusicFor	Deadful_Melody
+
+http://dbpedia.org/resource/Fong_Sai-yuk_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Fong_Sai-yuk_(film)	James_Wong_(lyricist)
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+Mark_Lui	wroteMusicFor	Moon_Warriors
+Mark_Lui	wroteMusicFor	Moon_Warriors
+James_Wong_(lyricist)	wroteMusicFor	Moon_Warriors
+James_Wong_(lyricist)	wroteMusicFor	Moon_Warriors
+
+http://dbpedia.org/resource/Fong_Sai-yuk_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Fong_Sai-yuk_(film)	James_Wong_(lyricist)
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+James_Wong_(lyricist)	wroteMusicFor	Fong_Sai-yuk_(film)
+James_Wong_(lyricist)	wroteMusicFor	Fong_Sai-yuk_(film)
+
+http://dbpedia.org/resource/Fong_Sai-yuk_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Fong_Sai-yuk_(film)	James_Wong_(lyricist)
+Jet_Li	actedIn	Fong_Sai-yuk_(film)
+Jet_Li	actedIn	Fong_Sai-yuk_(film)
+Jet_Li	actedIn	Fong_Sai-yuk_(film)
+Jet_Li	actedIn	Fong_Sai-yuk_(film)
+James_Wong_(lyricist)	wroteMusicFor	Fong_Sai-yuk_(film)
+James_Wong_(lyricist)	wroteMusicFor	Fong_Sai-yuk_(film)
+
+http://dbpedia.org/resource/Fong_Sai-yuk_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Fong_Sai-yuk_(film)	James_Wong_(lyricist)
+Jet_Li	actedIn	Fong_Sai-yuk_(film)
+Jet_Li	actedIn	Fong_Sai-yuk_(film)
+Jet_Li	actedIn	Martial_Arts_of_Shaolin
+Jet_Li	actedIn	Martial_Arts_of_Shaolin
+James_Wong_(lyricist)	wroteMusicFor	Martial_Arts_of_Shaolin
+James_Wong_(lyricist)	wroteMusicFor	Martial_Arts_of_Shaolin
+
+http://dbpedia.org/resource/Crazy_Safari	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Crazy_Safari	Lowell_Lo
+Nǃxau_ǂToma	actedIn	Crazy_Safari
+Nǃxau_ǂToma	actedIn	Crazy_Safari
+Nǃxau_ǂToma	actedIn	Crazy_Safari
+Nǃxau_ǂToma	actedIn	Crazy_Safari
+Lowell_Lo	wroteMusicFor	Crazy_Safari
+Lowell_Lo	wroteMusicFor	Crazy_Safari
+
+http://dbpedia.org/resource/Crazy_Safari	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Crazy_Safari	Lowell_Lo
+Lowell_Lo	wroteMusicFor	Crazy_Safari
+Lowell_Lo	wroteMusicFor	Crazy_Safari
+
+http://dbpedia.org/resource/Crazy_Safari	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Crazy_Safari	Lowell_Lo
+Barry_Wong	created	Crazy_Safari
+Barry_Wong	created	Crazy_Safari
+Barry_Wong	created	Crazy_Safari
+Barry_Wong	created	Crazy_Safari
+Lowell_Lo	wroteMusicFor	Crazy_Safari
+Lowell_Lo	wroteMusicFor	Crazy_Safari
+
+http://dbpedia.org/resource/Ghunghat_(1996_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Amjad_Bobby
+Ghunghat_(1996_film)	Amjad_Bobby
+Ghunghat_(1996_film)	isLocatedIn	Pakistan
+Ghunghat_(1996_film)	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Amjad_Bobby	hasWonPrize	Nigar_Awards
+Amjad_Bobby	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Ghunghat_(1996_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Amjad_Bobby
+Ghunghat_(1996_film)	Amjad_Bobby
+Amjad_Bobby	wroteMusicFor	Ghunghat_(1996_film)
+Amjad_Bobby	wroteMusicFor	Ghunghat_(1996_film)
+
+http://dbpedia.org/resource/Off_Track	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Off_Track	Lowell_Lo
+Lowell_Lo	wroteMusicFor	Off_Track
+Lowell_Lo	wroteMusicFor	Off_Track
+
+http://dbpedia.org/resource/Kabhi_Pyar_Na_Karna	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Amjad_Bobby
+Kabhi_Pyar_Na_Karna	Amjad_Bobby
+Veena_Malik	actedIn	Kabhi_Pyar_Na_Karna
+Veena_Malik	actedIn	Kabhi_Pyar_Na_Karna
+Veena_Malik	actedIn	Kabhi_Pyar_Na_Karna
+Veena_Malik	actedIn	Kabhi_Pyar_Na_Karna
+Amjad_Bobby	wroteMusicFor	Kabhi_Pyar_Na_Karna
+Amjad_Bobby	wroteMusicFor	Kabhi_Pyar_Na_Karna
+
+http://dbpedia.org/resource/Kabhi_Pyar_Na_Karna	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Amjad_Bobby
+Kabhi_Pyar_Na_Karna	Amjad_Bobby
+Veena_Malik	actedIn	Kabhi_Pyar_Na_Karna
+Veena_Malik	actedIn	Kabhi_Pyar_Na_Karna
+Veena_Malik	actedIn	Koi_Tujh_Sa_Kahaan
+Veena_Malik	actedIn	Koi_Tujh_Sa_Kahaan
+Amjad_Bobby	wroteMusicFor	Koi_Tujh_Sa_Kahaan
+Amjad_Bobby	wroteMusicFor	Koi_Tujh_Sa_Kahaan
+
+http://dbpedia.org/resource/Kabhi_Pyar_Na_Karna	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Amjad_Bobby
+Kabhi_Pyar_Na_Karna	Amjad_Bobby
+Veena_Malik	actedIn	Kabhi_Pyar_Na_Karna
+Veena_Malik	actedIn	Kabhi_Pyar_Na_Karna
+Veena_Malik	actedIn	Tere_Pyar_Mein
+Veena_Malik	actedIn	Tere_Pyar_Mein
+Amjad_Bobby	wroteMusicFor	Tere_Pyar_Mein
+Amjad_Bobby	wroteMusicFor	Tere_Pyar_Mein
+
+http://dbpedia.org/resource/Kabhi_Pyar_Na_Karna	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Amjad_Bobby
+Kabhi_Pyar_Na_Karna	Amjad_Bobby
+Veena_Malik	actedIn	Kabhi_Pyar_Na_Karna
+Veena_Malik	actedIn	Kabhi_Pyar_Na_Karna
+Veena_Malik	hasWonPrize	Nigar_Awards
+Veena_Malik	hasWonPrize	Nigar_Awards
+Amjad_Bobby	hasWonPrize	Nigar_Awards
+Amjad_Bobby	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Kabhi_Pyar_Na_Karna	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Amjad_Bobby
+Kabhi_Pyar_Na_Karna	Amjad_Bobby
+Amjad_Bobby	wroteMusicFor	Kabhi_Pyar_Na_Karna
+Amjad_Bobby	wroteMusicFor	Kabhi_Pyar_Na_Karna
+
+http://dbpedia.org/resource/Kabhi_Pyar_Na_Karna	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Amjad_Bobby
+Kabhi_Pyar_Na_Karna	Amjad_Bobby
+Shamil_Khan	actedIn	Kabhi_Pyar_Na_Karna
+Shamil_Khan	actedIn	Kabhi_Pyar_Na_Karna
+Shamil_Khan	actedIn	Kabhi_Pyar_Na_Karna
+Shamil_Khan	actedIn	Kabhi_Pyar_Na_Karna
+Amjad_Bobby	wroteMusicFor	Kabhi_Pyar_Na_Karna
+Amjad_Bobby	wroteMusicFor	Kabhi_Pyar_Na_Karna
+
+http://dbpedia.org/resource/Kabhi_Pyar_Na_Karna	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Amjad_Bobby
+Kabhi_Pyar_Na_Karna	Amjad_Bobby
+Humera_Arshad	wroteMusicFor	Kabhi_Pyar_Na_Karna
+Humera_Arshad	wroteMusicFor	Kabhi_Pyar_Na_Karna
+Humera_Arshad	wroteMusicFor	Kabhi_Pyar_Na_Karna
+Humera_Arshad	wroteMusicFor	Kabhi_Pyar_Na_Karna
+Amjad_Bobby	wroteMusicFor	Kabhi_Pyar_Na_Karna
+Amjad_Bobby	wroteMusicFor	Kabhi_Pyar_Na_Karna
+
+http://dbpedia.org/resource/Kabhi_Pyar_Na_Karna	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Amjad_Bobby
+Kabhi_Pyar_Na_Karna	Amjad_Bobby
+Kabhi_Pyar_Na_Karna	isLocatedIn	Pakistan
+Kabhi_Pyar_Na_Karna	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Amjad_Bobby	hasWonPrize	Nigar_Awards
+Amjad_Bobby	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/The_Wesley's_Mysterious_File	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Wesley's_Mysterious_File	Chan_Kwong-wing
+Shu_Qi	actedIn	The_Wesley's_Mysterious_File
+Shu_Qi	actedIn	The_Wesley's_Mysterious_File
+Shu_Qi	actedIn	A_Beautiful_Life_(2011_film)
+Shu_Qi	actedIn	A_Beautiful_Life_(2011_film)
+Chan_Kwong-wing	wroteMusicFor	A_Beautiful_Life_(2011_film)
+Chan_Kwong-wing	wroteMusicFor	A_Beautiful_Life_(2011_film)
+
+http://dbpedia.org/resource/The_Wesley's_Mysterious_File	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Wesley's_Mysterious_File	Chan_Kwong-wing
+Shu_Qi	actedIn	The_Wesley's_Mysterious_File
+Shu_Qi	actedIn	The_Wesley's_Mysterious_File
+Shu_Qi	actedIn	Confession_of_Pain
+Shu_Qi	actedIn	Confession_of_Pain
+Chan_Kwong-wing	wroteMusicFor	Confession_of_Pain
+Chan_Kwong-wing	wroteMusicFor	Confession_of_Pain
+
+http://dbpedia.org/resource/The_Wesley's_Mysterious_File	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Wesley's_Mysterious_File	Chan_Kwong-wing
+Shu_Qi	actedIn	The_Wesley's_Mysterious_File
+Shu_Qi	actedIn	The_Wesley's_Mysterious_File
+Shu_Qi	actedIn	The_Wesley's_Mysterious_File
+Shu_Qi	actedIn	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+
+http://dbpedia.org/resource/The_Wesley's_Mysterious_File	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Wesley's_Mysterious_File	Chan_Kwong-wing
+Shu_Qi	actedIn	The_Wesley's_Mysterious_File
+Shu_Qi	actedIn	The_Wesley's_Mysterious_File
+Shu_Qi	actedIn	A_Man_Called_Hero
+Shu_Qi	actedIn	A_Man_Called_Hero
+Chan_Kwong-wing	wroteMusicFor	A_Man_Called_Hero
+Chan_Kwong-wing	wroteMusicFor	A_Man_Called_Hero
+
+http://dbpedia.org/resource/The_Wesley's_Mysterious_File	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Wesley's_Mysterious_File	Chan_Kwong-wing
+Shu_Qi	actedIn	The_Wesley's_Mysterious_File
+Shu_Qi	actedIn	The_Wesley's_Mysterious_File
+Shu_Qi	actedIn	For_Bad_Boys_Only
+Shu_Qi	actedIn	For_Bad_Boys_Only
+Chan_Kwong-wing	wroteMusicFor	For_Bad_Boys_Only
+Chan_Kwong-wing	wroteMusicFor	For_Bad_Boys_Only
+
+http://dbpedia.org/resource/The_Wesley's_Mysterious_File	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Wesley's_Mysterious_File	Chan_Kwong-wing
+Shu_Qi	actedIn	The_Wesley's_Mysterious_File
+Shu_Qi	actedIn	The_Wesley's_Mysterious_File
+Shu_Qi	actedIn	Born_to_Be_King
+Shu_Qi	actedIn	Born_to_Be_King
+Chan_Kwong-wing	wroteMusicFor	Born_to_Be_King
+Chan_Kwong-wing	wroteMusicFor	Born_to_Be_King
+
+http://dbpedia.org/resource/The_Wesley's_Mysterious_File	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Wesley's_Mysterious_File	Chan_Kwong-wing
+Shu_Qi	actedIn	The_Wesley's_Mysterious_File
+Shu_Qi	actedIn	The_Wesley's_Mysterious_File
+Shu_Qi	actedIn	Love_Me,_Love_My_Money
+Shu_Qi	actedIn	Love_Me,_Love_My_Money
+Chan_Kwong-wing	wroteMusicFor	Love_Me,_Love_My_Money
+Chan_Kwong-wing	wroteMusicFor	Love_Me,_Love_My_Money
+
+http://dbpedia.org/resource/The_Wesley's_Mysterious_File	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Wesley's_Mysterious_File	Chan_Kwong-wing
+Shu_Qi	actedIn	The_Wesley's_Mysterious_File
+Shu_Qi	actedIn	The_Wesley's_Mysterious_File
+Shu_Qi	actedIn	Look_for_a_Star
+Shu_Qi	actedIn	Look_for_a_Star
+Chan_Kwong-wing	wroteMusicFor	Look_for_a_Star
+Chan_Kwong-wing	wroteMusicFor	Look_for_a_Star
+
+http://dbpedia.org/resource/The_Wesley's_Mysterious_File	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Wesley's_Mysterious_File	Chan_Kwong-wing
+Andy_Lau	actedIn	The_Wesley's_Mysterious_File
+Andy_Lau	actedIn	The_Wesley's_Mysterious_File
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+
+http://dbpedia.org/resource/The_Wesley's_Mysterious_File	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Wesley's_Mysterious_File	Chan_Kwong-wing
+Andy_Lau	actedIn	The_Wesley's_Mysterious_File
+Andy_Lau	actedIn	The_Wesley's_Mysterious_File
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_III
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_III
+
+http://dbpedia.org/resource/The_Wesley's_Mysterious_File	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Wesley's_Mysterious_File	Chan_Kwong-wing
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+
+http://dbpedia.org/resource/The_Wesley's_Mysterious_File	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Wesley's_Mysterious_File	Chan_Kwong-wing
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+
+http://dbpedia.org/resource/The_Wesley's_Mysterious_File	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Wesley's_Mysterious_File	Chan_Kwong-wing
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Andrew_Lau	directed	The_Guillotines
+Andrew_Lau	directed	The_Guillotines
+Chan_Kwong-wing	wroteMusicFor	The_Guillotines
+Chan_Kwong-wing	wroteMusicFor	The_Guillotines
+
+http://dbpedia.org/resource/The_Wesley's_Mysterious_File	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Wesley's_Mysterious_File	Chan_Kwong-wing
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Andrew_Lau	directed	Infernal_Affairs_II
+Andrew_Lau	directed	Infernal_Affairs_II
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_II
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_II
+
+http://dbpedia.org/resource/The_Wesley's_Mysterious_File	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Wesley's_Mysterious_File	Chan_Kwong-wing
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Andrew_Lau	directed	Infernal_Affairs
+Andrew_Lau	directed	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+
+http://dbpedia.org/resource/The_Guillotines	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Guillotines	Chan_Kwong-wing
+Chan_Kwong-wing	wroteMusicFor	The_Guillotines
+Chan_Kwong-wing	wroteMusicFor	The_Guillotines
+
+http://dbpedia.org/resource/The_Guillotines	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Guillotines	Chan_Kwong-wing
+Andrew_Lau	directed	The_Guillotines
+Andrew_Lau	directed	The_Guillotines
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+
+http://dbpedia.org/resource/The_Guillotines	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Guillotines	Chan_Kwong-wing
+Andrew_Lau	directed	The_Guillotines
+Andrew_Lau	directed	The_Guillotines
+Andrew_Lau	directed	The_Guillotines
+Andrew_Lau	directed	The_Guillotines
+Chan_Kwong-wing	wroteMusicFor	The_Guillotines
+Chan_Kwong-wing	wroteMusicFor	The_Guillotines
+
+http://dbpedia.org/resource/The_Guillotines	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Guillotines	Chan_Kwong-wing
+Andrew_Lau	directed	The_Guillotines
+Andrew_Lau	directed	The_Guillotines
+Andrew_Lau	directed	Infernal_Affairs_II
+Andrew_Lau	directed	Infernal_Affairs_II
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_II
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_II
+
+http://dbpedia.org/resource/The_Guillotines	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Guillotines	Chan_Kwong-wing
+Andrew_Lau	directed	The_Guillotines
+Andrew_Lau	directed	The_Guillotines
+Andrew_Lau	directed	Infernal_Affairs
+Andrew_Lau	directed	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+
+http://dbpedia.org/resource/The_Guillotines	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Guillotines	Chan_Kwong-wing
+Shawn_Yue	actedIn	The_Guillotines
+Shawn_Yue	actedIn	The_Guillotines
+Shawn_Yue	actedIn	Infernal_Affairs_II
+Shawn_Yue	actedIn	Infernal_Affairs_II
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_II
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_II
+
+http://dbpedia.org/resource/The_Guillotines	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Guillotines	Chan_Kwong-wing
+Shawn_Yue	actedIn	The_Guillotines
+Shawn_Yue	actedIn	The_Guillotines
+Shawn_Yue	actedIn	Initial_D_(film)
+Shawn_Yue	actedIn	Initial_D_(film)
+Chan_Kwong-wing	wroteMusicFor	Initial_D_(film)
+Chan_Kwong-wing	wroteMusicFor	Initial_D_(film)
+
+http://dbpedia.org/resource/The_Guillotines	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Guillotines	Chan_Kwong-wing
+Shawn_Yue	actedIn	The_Guillotines
+Shawn_Yue	actedIn	The_Guillotines
+Shawn_Yue	actedIn	The_Guillotines
+Shawn_Yue	actedIn	The_Guillotines
+Chan_Kwong-wing	wroteMusicFor	The_Guillotines
+Chan_Kwong-wing	wroteMusicFor	The_Guillotines
+
+http://dbpedia.org/resource/Gun_n'_Rose	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Gun_n'_Rose	Lowell_Lo
+Lowell_Lo	wroteMusicFor	Gun_n'_Rose
+Lowell_Lo	wroteMusicFor	Gun_n'_Rose
+
+http://dbpedia.org/resource/Gun_n'_Rose	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Gun_n'_Rose	Lowell_Lo
+Carrie_Ng	actedIn	Gun_n'_Rose
+Carrie_Ng	actedIn	Gun_n'_Rose
+Carrie_Ng	actedIn	Gun_n'_Rose
+Carrie_Ng	actedIn	Gun_n'_Rose
+Lowell_Lo	wroteMusicFor	Gun_n'_Rose
+Lowell_Lo	wroteMusicFor	Gun_n'_Rose
+
+http://dbpedia.org/resource/Gun_n'_Rose	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Gun_n'_Rose	Lowell_Lo
+Carrie_Ng	actedIn	Gun_n'_Rose
+Carrie_Ng	actedIn	Gun_n'_Rose
+Carrie_Ng	actedIn	The_Black_Panther_Warriors
+Carrie_Ng	actedIn	The_Black_Panther_Warriors
+Lowell_Lo	wroteMusicFor	The_Black_Panther_Warriors
+Lowell_Lo	wroteMusicFor	The_Black_Panther_Warriors
+
+http://dbpedia.org/resource/Gun_n'_Rose	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Gun_n'_Rose	Lowell_Lo
+Carrie_Ng	actedIn	Gun_n'_Rose
+Carrie_Ng	actedIn	Gun_n'_Rose
+Carrie_Ng	actedIn	The_First_Time_Is_the_Last_Time
+Carrie_Ng	actedIn	The_First_Time_Is_the_Last_Time
+Lowell_Lo	wroteMusicFor	The_First_Time_Is_the_Last_Time
+Lowell_Lo	wroteMusicFor	The_First_Time_Is_the_Last_Time
+
+http://dbpedia.org/resource/Gun_n'_Rose	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Gun_n'_Rose	Lowell_Lo
+Carrie_Ng	actedIn	Gun_n'_Rose
+Carrie_Ng	actedIn	Gun_n'_Rose
+Carrie_Ng	actedIn	Days_of_Tomorrow
+Carrie_Ng	actedIn	Days_of_Tomorrow
+Lowell_Lo	wroteMusicFor	Days_of_Tomorrow
+Lowell_Lo	wroteMusicFor	Days_of_Tomorrow
+
+http://dbpedia.org/resource/Gun_n'_Rose	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Gun_n'_Rose	Lowell_Lo
+Simon_Yam	actedIn	Gun_n'_Rose
+Simon_Yam	actedIn	Gun_n'_Rose
+Simon_Yam	actedIn	The_Black_Panther_Warriors
+Simon_Yam	actedIn	The_Black_Panther_Warriors
+Lowell_Lo	wroteMusicFor	The_Black_Panther_Warriors
+Lowell_Lo	wroteMusicFor	The_Black_Panther_Warriors
+
+http://dbpedia.org/resource/Gun_n'_Rose	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Gun_n'_Rose	Lowell_Lo
+Simon_Yam	actedIn	Gun_n'_Rose
+Simon_Yam	actedIn	Gun_n'_Rose
+Simon_Yam	actedIn	Rose_Rose_I_Love_You_(film)
+Simon_Yam	actedIn	Rose_Rose_I_Love_You_(film)
+Lowell_Lo	wroteMusicFor	Rose_Rose_I_Love_You_(film)
+Lowell_Lo	wroteMusicFor	Rose_Rose_I_Love_You_(film)
+
+http://dbpedia.org/resource/Gun_n'_Rose	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Gun_n'_Rose	Lowell_Lo
+Leon_Lai	actedIn	Gun_n'_Rose
+Leon_Lai	actedIn	Gun_n'_Rose
+Leon_Lai	actedIn	Gun_n'_Rose
+Leon_Lai	actedIn	Gun_n'_Rose
+Lowell_Lo	wroteMusicFor	Gun_n'_Rose
+Lowell_Lo	wroteMusicFor	Gun_n'_Rose
+
+http://dbpedia.org/resource/Gun_n'_Rose	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Gun_n'_Rose	Lowell_Lo
+Alan_Tang	actedIn	Gun_n'_Rose
+Alan_Tang	actedIn	Gun_n'_Rose
+Alan_Tang	actedIn	The_Black_Panther_Warriors
+Alan_Tang	actedIn	The_Black_Panther_Warriors
+Lowell_Lo	wroteMusicFor	The_Black_Panther_Warriors
+Lowell_Lo	wroteMusicFor	The_Black_Panther_Warriors
+
+http://dbpedia.org/resource/Gun_n'_Rose	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Gun_n'_Rose	Lowell_Lo
+Alan_Tang	actedIn	Gun_n'_Rose
+Alan_Tang	actedIn	Gun_n'_Rose
+Alan_Tang	actedIn	Gun_n'_Rose
+Alan_Tang	actedIn	Gun_n'_Rose
+Lowell_Lo	wroteMusicFor	Gun_n'_Rose
+Lowell_Lo	wroteMusicFor	Gun_n'_Rose
+
+http://dbpedia.org/resource/The_Storm_Riders	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Storm_Riders	Chan_Kwong-wing
+Andrew_Lau	directed	The_Storm_Riders
+Andrew_Lau	directed	The_Storm_Riders
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+
+http://dbpedia.org/resource/The_Storm_Riders	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Storm_Riders	Chan_Kwong-wing
+Andrew_Lau	directed	The_Storm_Riders
+Andrew_Lau	directed	The_Storm_Riders
+Andrew_Lau	directed	The_Guillotines
+Andrew_Lau	directed	The_Guillotines
+Chan_Kwong-wing	wroteMusicFor	The_Guillotines
+Chan_Kwong-wing	wroteMusicFor	The_Guillotines
+
+http://dbpedia.org/resource/The_Storm_Riders	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Storm_Riders	Chan_Kwong-wing
+Andrew_Lau	directed	The_Storm_Riders
+Andrew_Lau	directed	The_Storm_Riders
+Andrew_Lau	directed	Infernal_Affairs_II
+Andrew_Lau	directed	Infernal_Affairs_II
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_II
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_II
+
+http://dbpedia.org/resource/The_Storm_Riders	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Storm_Riders	Chan_Kwong-wing
+Andrew_Lau	directed	The_Storm_Riders
+Andrew_Lau	directed	The_Storm_Riders
+Andrew_Lau	directed	Infernal_Affairs
+Andrew_Lau	directed	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+
+http://dbpedia.org/resource/The_Storm_Riders	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Storm_Riders	Chan_Kwong-wing
+Chan_Kwong-wing	wroteMusicFor	The_Storm_Riders
+Chan_Kwong-wing	wroteMusicFor	The_Storm_Riders
+
+http://dbpedia.org/resource/The_Storm_Riders	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Storm_Riders	Chan_Kwong-wing
+Ekin_Cheng	actedIn	The_Storm_Riders
+Ekin_Cheng	actedIn	The_Storm_Riders
+Ekin_Cheng	actedIn	A_Man_Called_Hero
+Ekin_Cheng	actedIn	A_Man_Called_Hero
+Chan_Kwong-wing	wroteMusicFor	A_Man_Called_Hero
+Chan_Kwong-wing	wroteMusicFor	A_Man_Called_Hero
+
+http://dbpedia.org/resource/The_Storm_Riders	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Storm_Riders	Chan_Kwong-wing
+Ekin_Cheng	actedIn	The_Storm_Riders
+Ekin_Cheng	actedIn	The_Storm_Riders
+Ekin_Cheng	actedIn	Anna_in_Kungfuland
+Ekin_Cheng	actedIn	Anna_in_Kungfuland
+Chan_Kwong-wing	wroteMusicFor	Anna_in_Kungfuland
+Chan_Kwong-wing	wroteMusicFor	Anna_in_Kungfuland
+
+http://dbpedia.org/resource/The_Storm_Riders	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Storm_Riders	Chan_Kwong-wing
+Ekin_Cheng	actedIn	The_Storm_Riders
+Ekin_Cheng	actedIn	The_Storm_Riders
+Ekin_Cheng	actedIn	The_Storm_Riders
+Ekin_Cheng	actedIn	The_Storm_Riders
+Chan_Kwong-wing	wroteMusicFor	The_Storm_Riders
+Chan_Kwong-wing	wroteMusicFor	The_Storm_Riders
+
+http://dbpedia.org/resource/The_Storm_Riders	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+The_Storm_Riders	Chan_Kwong-wing
+Aaron_Kwok	actedIn	The_Storm_Riders
+Aaron_Kwok	actedIn	The_Storm_Riders
+Aaron_Kwok	actedIn	The_Storm_Riders
+Aaron_Kwok	actedIn	The_Storm_Riders
+Chan_Kwong-wing	wroteMusicFor	The_Storm_Riders
+Chan_Kwong-wing	wroteMusicFor	The_Storm_Riders
+
+http://dbpedia.org/resource/Always_Be_the_Winners	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Always_Be_the_Winners	Lowell_Lo
+Eric_Tsang	actedIn	Always_Be_the_Winners
+Eric_Tsang	actedIn	Always_Be_the_Winners
+Eric_Tsang	actedIn	The_Banquet_(1991_film)
+Eric_Tsang	actedIn	The_Banquet_(1991_film)
+Lowell_Lo	wroteMusicFor	The_Banquet_(1991_film)
+Lowell_Lo	wroteMusicFor	The_Banquet_(1991_film)
+
+http://dbpedia.org/resource/Always_Be_the_Winners	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Always_Be_the_Winners	Lowell_Lo
+Lowell_Lo	wroteMusicFor	Always_Be_the_Winners
+Lowell_Lo	wroteMusicFor	Always_Be_the_Winners
+
+http://dbpedia.org/resource/Always_Be_the_Winners	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Always_Be_the_Winners	Lowell_Lo
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	Rose_Rose_I_Love_You_(film)
+Tony_Leung_Ka-fai	actedIn	Rose_Rose_I_Love_You_(film)
+Lowell_Lo	wroteMusicFor	Rose_Rose_I_Love_You_(film)
+Lowell_Lo	wroteMusicFor	Rose_Rose_I_Love_You_(film)
+
+http://dbpedia.org/resource/Always_Be_the_Winners	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Always_Be_the_Winners	Lowell_Lo
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Lowell_Lo	wroteMusicFor	Always_Be_the_Winners
+Lowell_Lo	wroteMusicFor	Always_Be_the_Winners
+
+http://dbpedia.org/resource/Always_Be_the_Winners	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Always_Be_the_Winners	Lowell_Lo
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Lowell_Lo	wroteMusicFor	Prison_on_Fire
+Lowell_Lo	wroteMusicFor	Prison_on_Fire
+
+http://dbpedia.org/resource/Always_Be_the_Winners	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Always_Be_the_Winners	Lowell_Lo
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	The_Banquet_(1991_film)
+Tony_Leung_Ka-fai	actedIn	The_Banquet_(1991_film)
+Lowell_Lo	wroteMusicFor	The_Banquet_(1991_film)
+Lowell_Lo	wroteMusicFor	The_Banquet_(1991_film)
+
+http://dbpedia.org/resource/Always_Be_the_Winners	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Always_Be_the_Winners	Lowell_Lo
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	92_Legendary_La_Rose_Noire
+Tony_Leung_Ka-fai	actedIn	92_Legendary_La_Rose_Noire
+Lowell_Lo	wroteMusicFor	92_Legendary_La_Rose_Noire
+Lowell_Lo	wroteMusicFor	92_Legendary_La_Rose_Noire
+
+http://dbpedia.org/resource/Always_Be_the_Winners	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Always_Be_the_Winners	Lowell_Lo
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	The_Black_Panther_Warriors
+Tony_Leung_Ka-fai	actedIn	The_Black_Panther_Warriors
+Lowell_Lo	wroteMusicFor	The_Black_Panther_Warriors
+Lowell_Lo	wroteMusicFor	The_Black_Panther_Warriors
+
+http://dbpedia.org/resource/Always_Be_the_Winners	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Always_Be_the_Winners	Lowell_Lo
+Sandra_Ng	actedIn	Always_Be_the_Winners
+Sandra_Ng	actedIn	Always_Be_the_Winners
+Sandra_Ng	actedIn	Gameboy_Kids
+Sandra_Ng	actedIn	Gameboy_Kids
+Lowell_Lo	wroteMusicFor	Gameboy_Kids
+Lowell_Lo	wroteMusicFor	Gameboy_Kids
+
+http://dbpedia.org/resource/Always_Be_the_Winners	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Always_Be_the_Winners	Lowell_Lo
+Sandra_Ng	actedIn	Always_Be_the_Winners
+Sandra_Ng	actedIn	Always_Be_the_Winners
+Sandra_Ng	actedIn	Always_Be_the_Winners
+Sandra_Ng	actedIn	Always_Be_the_Winners
+Lowell_Lo	wroteMusicFor	Always_Be_the_Winners
+Lowell_Lo	wroteMusicFor	Always_Be_the_Winners
+
+http://dbpedia.org/resource/Always_Be_the_Winners	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Always_Be_the_Winners	Lowell_Lo
+Sandra_Ng	actedIn	Always_Be_the_Winners
+Sandra_Ng	actedIn	Always_Be_the_Winners
+Sandra_Ng	actedIn	Crocodile_Hunter_(film)
+Sandra_Ng	actedIn	Crocodile_Hunter_(film)
+Lowell_Lo	wroteMusicFor	Crocodile_Hunter_(film)
+Lowell_Lo	wroteMusicFor	Crocodile_Hunter_(film)
+
+http://dbpedia.org/resource/Always_Be_the_Winners	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Always_Be_the_Winners	Lowell_Lo
+Sandra_Ng	actedIn	Always_Be_the_Winners
+Sandra_Ng	actedIn	Always_Be_the_Winners
+Sandra_Ng	actedIn	They_Came_to_Rob_Hong_Kong
+Sandra_Ng	actedIn	They_Came_to_Rob_Hong_Kong
+Lowell_Lo	wroteMusicFor	They_Came_to_Rob_Hong_Kong
+Lowell_Lo	wroteMusicFor	They_Came_to_Rob_Hong_Kong
+
+http://dbpedia.org/resource/Always_Be_the_Winners	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Always_Be_the_Winners	Lowell_Lo
+Tony_Leung_Chiu-wai	actedIn	Always_Be_the_Winners
+Tony_Leung_Chiu-wai	actedIn	Always_Be_the_Winners
+Tony_Leung_Chiu-wai	actedIn	Always_Be_the_Winners
+Tony_Leung_Chiu-wai	actedIn	Always_Be_the_Winners
+Lowell_Lo	wroteMusicFor	Always_Be_the_Winners
+Lowell_Lo	wroteMusicFor	Always_Be_the_Winners
+
+http://dbpedia.org/resource/Three..._Extremes	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Three..._Extremes	Chan_Kwong-wing
+Tony_Leung_Ka-fai	actedIn	Three..._Extremes
+Tony_Leung_Ka-fai	actedIn	Three..._Extremes
+Tony_Leung_Ka-fai	actedIn	Bruce_Lee,_My_Brother
+Tony_Leung_Ka-fai	actedIn	Bruce_Lee,_My_Brother
+Chan_Kwong-wing	wroteMusicFor	Bruce_Lee,_My_Brother
+Chan_Kwong-wing	wroteMusicFor	Bruce_Lee,_My_Brother
+
+http://dbpedia.org/resource/Three..._Extremes	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Three..._Extremes	Chan_Kwong-wing
+Tony_Leung_Ka-fai	actedIn	Three..._Extremes
+Tony_Leung_Ka-fai	actedIn	Three..._Extremes
+Tony_Leung_Ka-fai	actedIn	Dumplings_(film)
+Tony_Leung_Ka-fai	actedIn	Dumplings_(film)
+Chan_Kwong-wing	wroteMusicFor	Dumplings_(film)
+Chan_Kwong-wing	wroteMusicFor	Dumplings_(film)
+
+http://dbpedia.org/resource/Three..._Extremes	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Three..._Extremes	Chan_Kwong-wing
+Chan_Kwong-wing	wroteMusicFor	Three..._Extremes
+Chan_Kwong-wing	wroteMusicFor	Three..._Extremes
+
+http://dbpedia.org/resource/Ghunda_Raj	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Zulfiqar_Ali_Bukhari
+Ghunda_Raj	Zulfiqar_Ali_Bukhari
+Ghunda_Raj	isLocatedIn	Pakistan
+Ghunda_Raj	isLocatedIn	Pakistan
+Peshawar	isLocatedIn	Pakistan
+Peshawar	isLocatedIn	Pakistan
+Zulfiqar_Ali_Bukhari	wasBornIn	Peshawar
+Zulfiqar_Ali_Bukhari	wasBornIn	Peshawar
+
+http://dbpedia.org/resource/Police_Story_(film_series)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Jonathan_Lee_(musician)
+Police_Story_(film_series)	Jonathan_Lee_(musician)
+Yuen_Wah	actedIn	Police_Story_(film_series)
+Yuen_Wah	actedIn	Police_Story_(film_series)
+Yuen_Wah	actedIn	Police_Story_(film_series)
+Yuen_Wah	actedIn	Police_Story_(film_series)
+Jonathan_Lee_(musician)	wroteMusicFor	Police_Story_(film_series)
+Jonathan_Lee_(musician)	wroteMusicFor	Police_Story_(film_series)
+
+http://dbpedia.org/resource/Police_Story_(film_series)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Jonathan_Lee_(musician)
+Police_Story_(film_series)	Jonathan_Lee_(musician)
+Jonathan_Lee_(musician)	wroteMusicFor	Police_Story_(film_series)
+Jonathan_Lee_(musician)	wroteMusicFor	Police_Story_(film_series)
+
+http://dbpedia.org/resource/Only_the_Lonely_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Maurice_Jarre
+Only_the_Lonely_(film)	Maurice_Jarre
+Jim_Belushi	actedIn	Only_the_Lonely_(film)
+Jim_Belushi	actedIn	Only_the_Lonely_(film)
+Jim_Belushi	actedIn	Only_the_Lonely_(film)
+Jim_Belushi	actedIn	Only_the_Lonely_(film)
+Maurice_Jarre	wroteMusicFor	Only_the_Lonely_(film)
+Maurice_Jarre	wroteMusicFor	Only_the_Lonely_(film)
+
+http://dbpedia.org/resource/Only_the_Lonely_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Maurice_Jarre
+Only_the_Lonely_(film)	Maurice_Jarre
+Maurice_Jarre	wroteMusicFor	Only_the_Lonely_(film)
+Maurice_Jarre	wroteMusicFor	Only_the_Lonely_(film)
+
+http://dbpedia.org/resource/Only_the_Lonely_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Maurice_Jarre
+Only_the_Lonely_(film)	Maurice_Jarre
+Maureen_O'Hara	actedIn	Only_the_Lonely_(film)
+Maureen_O'Hara	actedIn	Only_the_Lonely_(film)
+Maureen_O'Hara	actedIn	Only_the_Lonely_(film)
+Maureen_O'Hara	actedIn	Only_the_Lonely_(film)
+Maurice_Jarre	wroteMusicFor	Only_the_Lonely_(film)
+Maurice_Jarre	wroteMusicFor	Only_the_Lonely_(film)
+
+http://dbpedia.org/resource/Only_the_Lonely_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Maurice_Jarre
+Only_the_Lonely_(film)	Maurice_Jarre
+Anthony_Quinn	actedIn	Only_the_Lonely_(film)
+Anthony_Quinn	actedIn	Only_the_Lonely_(film)
+Anthony_Quinn	actedIn	Lion_of_the_Desert
+Anthony_Quinn	actedIn	Lion_of_the_Desert
+Maurice_Jarre	wroteMusicFor	Lion_of_the_Desert
+Maurice_Jarre	wroteMusicFor	Lion_of_the_Desert
+
+http://dbpedia.org/resource/Only_the_Lonely_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Maurice_Jarre
+Only_the_Lonely_(film)	Maurice_Jarre
+Anthony_Quinn	actedIn	Only_the_Lonely_(film)
+Anthony_Quinn	actedIn	Only_the_Lonely_(film)
+Anthony_Quinn	actedIn	Only_the_Lonely_(film)
+Anthony_Quinn	actedIn	Only_the_Lonely_(film)
+Maurice_Jarre	wroteMusicFor	Only_the_Lonely_(film)
+Maurice_Jarre	wroteMusicFor	Only_the_Lonely_(film)
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Deeba	actedIn	Roti_(1988_film)
+Deeba	actedIn	Roti_(1988_film)
+Deeba	actedIn	Roti_(1988_film)
+Deeba	actedIn	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Deeba	actedIn	Roti_(1988_film)
+Deeba	actedIn	Roti_(1988_film)
+Deeba	hasWonPrize	Nigar_Awards
+Deeba	hasWonPrize	Nigar_Awards
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Anjuman_(actress)	actedIn	Roti_(1988_film)
+Anjuman_(actress)	actedIn	Roti_(1988_film)
+Anjuman_(actress)	actedIn	Roti_(1988_film)
+Anjuman_(actress)	actedIn	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Anjuman_(actress)	actedIn	Roti_(1988_film)
+Anjuman_(actress)	actedIn	Roti_(1988_film)
+Anjuman_(actress)	actedIn	Chan_Varyam
+Anjuman_(actress)	actedIn	Chan_Varyam
+Mehnaz_Begum	wroteMusicFor	Chan_Varyam
+Mehnaz_Begum	wroteMusicFor	Chan_Varyam
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Abid_Ali_(actor)	actedIn	Roti_(1988_film)
+Abid_Ali_(actor)	actedIn	Roti_(1988_film)
+Abid_Ali_(actor)	actedIn	Roti_(1988_film)
+Abid_Ali_(actor)	actedIn	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Abid_Ali_(actor)	actedIn	Roti_(1988_film)
+Abid_Ali_(actor)	actedIn	Roti_(1988_film)
+Abid_Ali_(actor)	actedIn	Kalay_Chor
+Abid_Ali_(actor)	actedIn	Kalay_Chor
+Mehnaz_Begum	wroteMusicFor	Kalay_Chor
+Mehnaz_Begum	wroteMusicFor	Kalay_Chor
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Abid_Ali_(actor)	actedIn	Roti_(1988_film)
+Abid_Ali_(actor)	actedIn	Roti_(1988_film)
+Abid_Ali_(actor)	hasWonPrize	Nigar_Awards
+Abid_Ali_(actor)	hasWonPrize	Nigar_Awards
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Noor_Jehan	wroteMusicFor	Roti_(1988_film)
+Noor_Jehan	wroteMusicFor	Roti_(1988_film)
+Noor_Jehan	wroteMusicFor	Kalay_Chor
+Noor_Jehan	wroteMusicFor	Kalay_Chor
+Mehnaz_Begum	wroteMusicFor	Kalay_Chor
+Mehnaz_Begum	wroteMusicFor	Kalay_Chor
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Noor_Jehan	wroteMusicFor	Roti_(1988_film)
+Noor_Jehan	wroteMusicFor	Roti_(1988_film)
+Noor_Jehan	wroteMusicFor	Chan_Varyam
+Noor_Jehan	wroteMusicFor	Chan_Varyam
+Mehnaz_Begum	wroteMusicFor	Chan_Varyam
+Mehnaz_Begum	wroteMusicFor	Chan_Varyam
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Noor_Jehan	wroteMusicFor	Roti_(1988_film)
+Noor_Jehan	wroteMusicFor	Roti_(1988_film)
+Noor_Jehan	wroteMusicFor	Roti_(1988_film)
+Noor_Jehan	wroteMusicFor	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Noor_Jehan	wroteMusicFor	Roti_(1988_film)
+Noor_Jehan	wroteMusicFor	Roti_(1988_film)
+Noor_Jehan	hasWonPrize	Nigar_Awards
+Noor_Jehan	hasWonPrize	Nigar_Awards
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Talish	actedIn	Roti_(1988_film)
+Talish	actedIn	Roti_(1988_film)
+Talish	actedIn	Roti_(1988_film)
+Talish	actedIn	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Talish	actedIn	Roti_(1988_film)
+Talish	actedIn	Roti_(1988_film)
+Talish	hasWonPrize	Nigar_Awards
+Talish	hasWonPrize	Nigar_Awards
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Masood_Rana	wroteMusicFor	Roti_(1988_film)
+Masood_Rana	wroteMusicFor	Roti_(1988_film)
+Masood_Rana	hasWonPrize	Nigar_Awards
+Masood_Rana	hasWonPrize	Nigar_Awards
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Masood_Rana	wroteMusicFor	Roti_(1988_film)
+Masood_Rana	wroteMusicFor	Roti_(1988_film)
+Masood_Rana	wroteMusicFor	Roti_(1988_film)
+Masood_Rana	wroteMusicFor	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Mustafa_Qureshi	actedIn	Roti_(1988_film)
+Mustafa_Qureshi	actedIn	Roti_(1988_film)
+Mustafa_Qureshi	hasWonPrize	Nigar_Awards
+Mustafa_Qureshi	hasWonPrize	Nigar_Awards
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Mustafa_Qureshi	actedIn	Roti_(1988_film)
+Mustafa_Qureshi	actedIn	Roti_(1988_film)
+Mustafa_Qureshi	actedIn	Chan_Varyam
+Mustafa_Qureshi	actedIn	Chan_Varyam
+Mehnaz_Begum	wroteMusicFor	Chan_Varyam
+Mehnaz_Begum	wroteMusicFor	Chan_Varyam
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Mustafa_Qureshi	actedIn	Roti_(1988_film)
+Mustafa_Qureshi	actedIn	Roti_(1988_film)
+Mustafa_Qureshi	actedIn	Roti_(1988_film)
+Mustafa_Qureshi	actedIn	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Roti_(1988_film)	isLocatedIn	Pakistan
+Roti_(1988_film)	isLocatedIn	Pakistan
+Kalay_Chor	isLocatedIn	Pakistan
+Kalay_Chor	isLocatedIn	Pakistan
+Mehnaz_Begum	wroteMusicFor	Kalay_Chor
+Mehnaz_Begum	wroteMusicFor	Kalay_Chor
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Roti_(1988_film)	isLocatedIn	Pakistan
+Roti_(1988_film)	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Sultan_Rahi	actedIn	Roti_(1988_film)
+Sultan_Rahi	actedIn	Roti_(1988_film)
+Sultan_Rahi	actedIn	Kalay_Chor
+Sultan_Rahi	actedIn	Kalay_Chor
+Mehnaz_Begum	wroteMusicFor	Kalay_Chor
+Mehnaz_Begum	wroteMusicFor	Kalay_Chor
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Sultan_Rahi	actedIn	Roti_(1988_film)
+Sultan_Rahi	actedIn	Roti_(1988_film)
+Sultan_Rahi	hasWonPrize	Nigar_Awards
+Sultan_Rahi	hasWonPrize	Nigar_Awards
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Sultan_Rahi	actedIn	Roti_(1988_film)
+Sultan_Rahi	actedIn	Roti_(1988_film)
+Sultan_Rahi	actedIn	Roti_(1988_film)
+Sultan_Rahi	actedIn	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+
+http://dbpedia.org/resource/Roti_(1988_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Roti_(1988_film)	Mehnaz_Begum
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+
+http://dbpedia.org/resource/Prison_on_Fire	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Prison_on_Fire	Lowell_Lo
+Chow_Yun-fat	actedIn	Prison_on_Fire
+Chow_Yun-fat	actedIn	Prison_on_Fire
+Chow_Yun-fat	actedIn	The_Killer_(1989_film)
+Chow_Yun-fat	actedIn	The_Killer_(1989_film)
+Lowell_Lo	wroteMusicFor	The_Killer_(1989_film)
+Lowell_Lo	wroteMusicFor	The_Killer_(1989_film)
+
+http://dbpedia.org/resource/Prison_on_Fire	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Prison_on_Fire	Lowell_Lo
+Lowell_Lo	wroteMusicFor	Prison_on_Fire
+Lowell_Lo	wroteMusicFor	Prison_on_Fire
+
+http://dbpedia.org/resource/Prison_on_Fire	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Prison_on_Fire	Lowell_Lo
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Tony_Leung_Ka-fai	actedIn	Rose_Rose_I_Love_You_(film)
+Tony_Leung_Ka-fai	actedIn	Rose_Rose_I_Love_You_(film)
+Lowell_Lo	wroteMusicFor	Rose_Rose_I_Love_You_(film)
+Lowell_Lo	wroteMusicFor	Rose_Rose_I_Love_You_(film)
+
+http://dbpedia.org/resource/Prison_on_Fire	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Prison_on_Fire	Lowell_Lo
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Tony_Leung_Ka-fai	actedIn	Always_Be_the_Winners
+Lowell_Lo	wroteMusicFor	Always_Be_the_Winners
+Lowell_Lo	wroteMusicFor	Always_Be_the_Winners
+
+http://dbpedia.org/resource/Prison_on_Fire	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Prison_on_Fire	Lowell_Lo
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Lowell_Lo	wroteMusicFor	Prison_on_Fire
+Lowell_Lo	wroteMusicFor	Prison_on_Fire
+
+http://dbpedia.org/resource/Prison_on_Fire	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Prison_on_Fire	Lowell_Lo
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Tony_Leung_Ka-fai	actedIn	The_Banquet_(1991_film)
+Tony_Leung_Ka-fai	actedIn	The_Banquet_(1991_film)
+Lowell_Lo	wroteMusicFor	The_Banquet_(1991_film)
+Lowell_Lo	wroteMusicFor	The_Banquet_(1991_film)
+
+http://dbpedia.org/resource/Prison_on_Fire	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Prison_on_Fire	Lowell_Lo
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Tony_Leung_Ka-fai	actedIn	92_Legendary_La_Rose_Noire
+Tony_Leung_Ka-fai	actedIn	92_Legendary_La_Rose_Noire
+Lowell_Lo	wroteMusicFor	92_Legendary_La_Rose_Noire
+Lowell_Lo	wroteMusicFor	92_Legendary_La_Rose_Noire
+
+http://dbpedia.org/resource/Prison_on_Fire	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Prison_on_Fire	Lowell_Lo
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Tony_Leung_Ka-fai	actedIn	Prison_on_Fire
+Tony_Leung_Ka-fai	actedIn	The_Black_Panther_Warriors
+Tony_Leung_Ka-fai	actedIn	The_Black_Panther_Warriors
+Lowell_Lo	wroteMusicFor	The_Black_Panther_Warriors
+Lowell_Lo	wroteMusicFor	The_Black_Panther_Warriors
+
+http://dbpedia.org/resource/No_Risk,_No_Gain	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+No_Risk,_No_Gain	Lowell_Lo
+Alan_Tam	actedIn	No_Risk,_No_Gain
+Alan_Tam	actedIn	No_Risk,_No_Gain
+Alan_Tam	actedIn	No_Risk,_No_Gain
+Alan_Tam	actedIn	No_Risk,_No_Gain
+Lowell_Lo	wroteMusicFor	No_Risk,_No_Gain
+Lowell_Lo	wroteMusicFor	No_Risk,_No_Gain
+
+http://dbpedia.org/resource/No_Risk,_No_Gain	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+No_Risk,_No_Gain	Lowell_Lo
+Alan_Tam	actedIn	No_Risk,_No_Gain
+Alan_Tam	actedIn	No_Risk,_No_Gain
+Alan_Tam	actedIn	The_Banquet_(1991_film)
+Alan_Tam	actedIn	The_Banquet_(1991_film)
+Lowell_Lo	wroteMusicFor	The_Banquet_(1991_film)
+Lowell_Lo	wroteMusicFor	The_Banquet_(1991_film)
+
+http://dbpedia.org/resource/No_Risk,_No_Gain	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+No_Risk,_No_Gain	Lowell_Lo
+Lowell_Lo	wroteMusicFor	No_Risk,_No_Gain
+Lowell_Lo	wroteMusicFor	No_Risk,_No_Gain
+
+http://dbpedia.org/resource/No_Risk,_No_Gain	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+No_Risk,_No_Gain	Lowell_Lo
+May_Lo	actedIn	No_Risk,_No_Gain
+May_Lo	actedIn	No_Risk,_No_Gain
+May_Lo	actedIn	No_Risk,_No_Gain
+May_Lo	actedIn	No_Risk,_No_Gain
+Lowell_Lo	wroteMusicFor	No_Risk,_No_Gain
+Lowell_Lo	wroteMusicFor	No_Risk,_No_Gain
+
+http://dbpedia.org/resource/No_Risk,_No_Gain	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+No_Risk,_No_Gain	Lowell_Lo
+Natalis_Chan	actedIn	No_Risk,_No_Gain
+Natalis_Chan	actedIn	No_Risk,_No_Gain
+Natalis_Chan	actedIn	No_Risk,_No_Gain
+Natalis_Chan	actedIn	No_Risk,_No_Gain
+Lowell_Lo	wroteMusicFor	No_Risk,_No_Gain
+Lowell_Lo	wroteMusicFor	No_Risk,_No_Gain
+
+http://dbpedia.org/resource/No_Risk,_No_Gain	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+No_Risk,_No_Gain	Lowell_Lo
+Anthony_Wong_(Hong_Kong_actor)	actedIn	No_Risk,_No_Gain
+Anthony_Wong_(Hong_Kong_actor)	actedIn	No_Risk,_No_Gain
+Anthony_Wong_(Hong_Kong_actor)	actedIn	No_Risk,_No_Gain
+Anthony_Wong_(Hong_Kong_actor)	actedIn	No_Risk,_No_Gain
+Lowell_Lo	wroteMusicFor	No_Risk,_No_Gain
+Lowell_Lo	wroteMusicFor	No_Risk,_No_Gain
+
+http://dbpedia.org/resource/No_Risk,_No_Gain	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+No_Risk,_No_Gain	Lowell_Lo
+Michelle_Reis	actedIn	No_Risk,_No_Gain
+Michelle_Reis	actedIn	No_Risk,_No_Gain
+Michelle_Reis	actedIn	Fong_Sai-yuk_II
+Michelle_Reis	actedIn	Fong_Sai-yuk_II
+Lowell_Lo	wroteMusicFor	Fong_Sai-yuk_II
+Lowell_Lo	wroteMusicFor	Fong_Sai-yuk_II
+
+http://dbpedia.org/resource/No_Risk,_No_Gain	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+No_Risk,_No_Gain	Lowell_Lo
+Michelle_Reis	actedIn	No_Risk,_No_Gain
+Michelle_Reis	actedIn	No_Risk,_No_Gain
+Michelle_Reis	actedIn	No_Risk,_No_Gain
+Michelle_Reis	actedIn	No_Risk,_No_Gain
+Lowell_Lo	wroteMusicFor	No_Risk,_No_Gain
+Lowell_Lo	wroteMusicFor	No_Risk,_No_Gain
+
+http://dbpedia.org/resource/Crocodile_Hunter_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Crocodile_Hunter_(film)	Lowell_Lo
+Lowell_Lo	wroteMusicFor	Crocodile_Hunter_(film)
+Lowell_Lo	wroteMusicFor	Crocodile_Hunter_(film)
+
+http://dbpedia.org/resource/Crocodile_Hunter_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Crocodile_Hunter_(film)	Lowell_Lo
+Sandra_Ng	actedIn	Crocodile_Hunter_(film)
+Sandra_Ng	actedIn	Crocodile_Hunter_(film)
+Sandra_Ng	actedIn	Gameboy_Kids
+Sandra_Ng	actedIn	Gameboy_Kids
+Lowell_Lo	wroteMusicFor	Gameboy_Kids
+Lowell_Lo	wroteMusicFor	Gameboy_Kids
+
+http://dbpedia.org/resource/Crocodile_Hunter_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Crocodile_Hunter_(film)	Lowell_Lo
+Sandra_Ng	actedIn	Crocodile_Hunter_(film)
+Sandra_Ng	actedIn	Crocodile_Hunter_(film)
+Sandra_Ng	actedIn	Always_Be_the_Winners
+Sandra_Ng	actedIn	Always_Be_the_Winners
+Lowell_Lo	wroteMusicFor	Always_Be_the_Winners
+Lowell_Lo	wroteMusicFor	Always_Be_the_Winners
+
+http://dbpedia.org/resource/Crocodile_Hunter_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Crocodile_Hunter_(film)	Lowell_Lo
+Sandra_Ng	actedIn	Crocodile_Hunter_(film)
+Sandra_Ng	actedIn	Crocodile_Hunter_(film)
+Sandra_Ng	actedIn	Crocodile_Hunter_(film)
+Sandra_Ng	actedIn	Crocodile_Hunter_(film)
+Lowell_Lo	wroteMusicFor	Crocodile_Hunter_(film)
+Lowell_Lo	wroteMusicFor	Crocodile_Hunter_(film)
+
+http://dbpedia.org/resource/Crocodile_Hunter_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Crocodile_Hunter_(film)	Lowell_Lo
+Sandra_Ng	actedIn	Crocodile_Hunter_(film)
+Sandra_Ng	actedIn	Crocodile_Hunter_(film)
+Sandra_Ng	actedIn	They_Came_to_Rob_Hong_Kong
+Sandra_Ng	actedIn	They_Came_to_Rob_Hong_Kong
+Lowell_Lo	wroteMusicFor	They_Came_to_Rob_Hong_Kong
+Lowell_Lo	wroteMusicFor	They_Came_to_Rob_Hong_Kong
+
+http://dbpedia.org/resource/The_First_Time_Is_the_Last_Time	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+The_First_Time_Is_the_Last_Time	Lowell_Lo
+Lowell_Lo	wroteMusicFor	The_First_Time_Is_the_Last_Time
+Lowell_Lo	wroteMusicFor	The_First_Time_Is_the_Last_Time
+
+http://dbpedia.org/resource/The_First_Time_Is_the_Last_Time	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+The_First_Time_Is_the_Last_Time	Lowell_Lo
+Carrie_Ng	actedIn	The_First_Time_Is_the_Last_Time
+Carrie_Ng	actedIn	The_First_Time_Is_the_Last_Time
+Carrie_Ng	actedIn	Gun_n'_Rose
+Carrie_Ng	actedIn	Gun_n'_Rose
+Lowell_Lo	wroteMusicFor	Gun_n'_Rose
+Lowell_Lo	wroteMusicFor	Gun_n'_Rose
+
+http://dbpedia.org/resource/The_First_Time_Is_the_Last_Time	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+The_First_Time_Is_the_Last_Time	Lowell_Lo
+Carrie_Ng	actedIn	The_First_Time_Is_the_Last_Time
+Carrie_Ng	actedIn	The_First_Time_Is_the_Last_Time
+Carrie_Ng	actedIn	The_Black_Panther_Warriors
+Carrie_Ng	actedIn	The_Black_Panther_Warriors
+Lowell_Lo	wroteMusicFor	The_Black_Panther_Warriors
+Lowell_Lo	wroteMusicFor	The_Black_Panther_Warriors
+
+http://dbpedia.org/resource/The_First_Time_Is_the_Last_Time	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+The_First_Time_Is_the_Last_Time	Lowell_Lo
+Carrie_Ng	actedIn	The_First_Time_Is_the_Last_Time
+Carrie_Ng	actedIn	The_First_Time_Is_the_Last_Time
+Carrie_Ng	actedIn	The_First_Time_Is_the_Last_Time
+Carrie_Ng	actedIn	The_First_Time_Is_the_Last_Time
+Lowell_Lo	wroteMusicFor	The_First_Time_Is_the_Last_Time
+Lowell_Lo	wroteMusicFor	The_First_Time_Is_the_Last_Time
+
+http://dbpedia.org/resource/The_First_Time_Is_the_Last_Time	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+The_First_Time_Is_the_Last_Time	Lowell_Lo
+Carrie_Ng	actedIn	The_First_Time_Is_the_Last_Time
+Carrie_Ng	actedIn	The_First_Time_Is_the_Last_Time
+Carrie_Ng	actedIn	Days_of_Tomorrow
+Carrie_Ng	actedIn	Days_of_Tomorrow
+Lowell_Lo	wroteMusicFor	Days_of_Tomorrow
+Lowell_Lo	wroteMusicFor	Days_of_Tomorrow
+
+http://dbpedia.org/resource/Dumplings_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Dumplings_(film)	Chan_Kwong-wing
+Chan_Kwong-wing	wroteMusicFor	Dumplings_(film)
+Chan_Kwong-wing	wroteMusicFor	Dumplings_(film)
+
+http://dbpedia.org/resource/Dumplings_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Dumplings_(film)	Chan_Kwong-wing
+Tony_Leung_Ka-fai	actedIn	Dumplings_(film)
+Tony_Leung_Ka-fai	actedIn	Dumplings_(film)
+Tony_Leung_Ka-fai	actedIn	Bruce_Lee,_My_Brother
+Tony_Leung_Ka-fai	actedIn	Bruce_Lee,_My_Brother
+Chan_Kwong-wing	wroteMusicFor	Bruce_Lee,_My_Brother
+Chan_Kwong-wing	wroteMusicFor	Bruce_Lee,_My_Brother
+
+http://dbpedia.org/resource/Dumplings_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Dumplings_(film)	Chan_Kwong-wing
+Tony_Leung_Ka-fai	actedIn	Dumplings_(film)
+Tony_Leung_Ka-fai	actedIn	Dumplings_(film)
+Tony_Leung_Ka-fai	actedIn	Dumplings_(film)
+Tony_Leung_Ka-fai	actedIn	Dumplings_(film)
+Chan_Kwong-wing	wroteMusicFor	Dumplings_(film)
+Chan_Kwong-wing	wroteMusicFor	Dumplings_(film)
+
+http://dbpedia.org/resource/Dumplings_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Dumplings_(film)	Chan_Kwong-wing
+Miriam_Yeung	actedIn	Dumplings_(film)
+Miriam_Yeung	actedIn	Dumplings_(film)
+Miriam_Yeung	actedIn	Dumplings_(film)
+Miriam_Yeung	actedIn	Dumplings_(film)
+Chan_Kwong-wing	wroteMusicFor	Dumplings_(film)
+Chan_Kwong-wing	wroteMusicFor	Dumplings_(film)
+
+http://dbpedia.org/resource/Dumplings_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Dumplings_(film)	Chan_Kwong-wing
+Miriam_Yeung	actedIn	Dumplings_(film)
+Miriam_Yeung	actedIn	Dumplings_(film)
+Miriam_Yeung	actedIn	Anna_in_Kungfuland
+Miriam_Yeung	actedIn	Anna_in_Kungfuland
+Chan_Kwong-wing	wroteMusicFor	Anna_in_Kungfuland
+Chan_Kwong-wing	wroteMusicFor	Anna_in_Kungfuland
+
+http://dbpedia.org/resource/Initial_D_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Initial_D_(film)	Chan_Kwong-wing
+Shawn_Yue	actedIn	Initial_D_(film)
+Shawn_Yue	actedIn	Initial_D_(film)
+Shawn_Yue	actedIn	Infernal_Affairs_II
+Shawn_Yue	actedIn	Infernal_Affairs_II
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_II
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_II
+
+http://dbpedia.org/resource/Initial_D_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Initial_D_(film)	Chan_Kwong-wing
+Shawn_Yue	actedIn	Initial_D_(film)
+Shawn_Yue	actedIn	Initial_D_(film)
+Shawn_Yue	actedIn	Initial_D_(film)
+Shawn_Yue	actedIn	Initial_D_(film)
+Chan_Kwong-wing	wroteMusicFor	Initial_D_(film)
+Chan_Kwong-wing	wroteMusicFor	Initial_D_(film)
+
+http://dbpedia.org/resource/Initial_D_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Initial_D_(film)	Chan_Kwong-wing
+Shawn_Yue	actedIn	Initial_D_(film)
+Shawn_Yue	actedIn	Initial_D_(film)
+Shawn_Yue	actedIn	The_Guillotines
+Shawn_Yue	actedIn	The_Guillotines
+Chan_Kwong-wing	wroteMusicFor	The_Guillotines
+Chan_Kwong-wing	wroteMusicFor	The_Guillotines
+
+http://dbpedia.org/resource/Initial_D_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Initial_D_(film)	Chan_Kwong-wing
+Chan_Kwong-wing	wroteMusicFor	Initial_D_(film)
+Chan_Kwong-wing	wroteMusicFor	Initial_D_(film)
+
+http://dbpedia.org/resource/Initial_D_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Initial_D_(film)	Chan_Kwong-wing
+Edison_Chen	actedIn	Initial_D_(film)
+Edison_Chen	actedIn	Initial_D_(film)
+Edison_Chen	actedIn	The_Twins_Effect
+Edison_Chen	actedIn	The_Twins_Effect
+Chan_Kwong-wing	wroteMusicFor	The_Twins_Effect
+Chan_Kwong-wing	wroteMusicFor	The_Twins_Effect
+
+http://dbpedia.org/resource/Initial_D_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Initial_D_(film)	Chan_Kwong-wing
+Edison_Chen	actedIn	Initial_D_(film)
+Edison_Chen	actedIn	Initial_D_(film)
+Edison_Chen	actedIn	Initial_D_(film)
+Edison_Chen	actedIn	Initial_D_(film)
+Chan_Kwong-wing	wroteMusicFor	Initial_D_(film)
+Chan_Kwong-wing	wroteMusicFor	Initial_D_(film)
+
+http://dbpedia.org/resource/Initial_D_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Initial_D_(film)	Chan_Kwong-wing
+Edison_Chen	actedIn	Initial_D_(film)
+Edison_Chen	actedIn	Initial_D_(film)
+Edison_Chen	actedIn	Infernal_Affairs_II
+Edison_Chen	actedIn	Infernal_Affairs_II
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_II
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_II
+
+http://dbpedia.org/resource/Initial_D_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Initial_D_(film)	Chan_Kwong-wing
+Andrew_Lau	directed	Initial_D_(film)
+Andrew_Lau	directed	Initial_D_(film)
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+
+http://dbpedia.org/resource/Initial_D_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Initial_D_(film)	Chan_Kwong-wing
+Andrew_Lau	directed	Initial_D_(film)
+Andrew_Lau	directed	Initial_D_(film)
+Andrew_Lau	directed	The_Guillotines
+Andrew_Lau	directed	The_Guillotines
+Chan_Kwong-wing	wroteMusicFor	The_Guillotines
+Chan_Kwong-wing	wroteMusicFor	The_Guillotines
+
+http://dbpedia.org/resource/Initial_D_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Initial_D_(film)	Chan_Kwong-wing
+Andrew_Lau	directed	Initial_D_(film)
+Andrew_Lau	directed	Initial_D_(film)
+Andrew_Lau	directed	Infernal_Affairs_II
+Andrew_Lau	directed	Infernal_Affairs_II
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_II
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_II
+
+http://dbpedia.org/resource/Initial_D_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Initial_D_(film)	Chan_Kwong-wing
+Andrew_Lau	directed	Initial_D_(film)
+Andrew_Lau	directed	Initial_D_(film)
+Andrew_Lau	directed	Infernal_Affairs
+Andrew_Lau	directed	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+
+http://dbpedia.org/resource/Initial_D_(film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Initial_D_(film)	Chan_Kwong-wing
+Alan_Mak_(director)	directed	Initial_D_(film)
+Alan_Mak_(director)	directed	Initial_D_(film)
+Alan_Mak_(director)	directed	Initial_D_(film)
+Alan_Mak_(director)	directed	Initial_D_(film)
+Chan_Kwong-wing	wroteMusicFor	Initial_D_(film)
+Chan_Kwong-wing	wroteMusicFor	Initial_D_(film)
+
+http://dbpedia.org/resource/The_Great_Conqueror's_Concubine	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+The_Great_Conqueror's_Concubine	James_Wong_(lyricist)
+James_Wong_(lyricist)	wroteMusicFor	The_Great_Conqueror's_Concubine
+James_Wong_(lyricist)	wroteMusicFor	The_Great_Conqueror's_Concubine
+
+http://dbpedia.org/resource/The_Great_Conqueror's_Concubine	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+The_Great_Conqueror's_Concubine	James_Wong_(lyricist)
+Gong_Li	actedIn	The_Great_Conqueror's_Concubine
+Gong_Li	actedIn	The_Great_Conqueror's_Concubine
+Gong_Li	actedIn	The_Great_Conqueror's_Concubine
+Gong_Li	actedIn	The_Great_Conqueror's_Concubine
+James_Wong_(lyricist)	wroteMusicFor	The_Great_Conqueror's_Concubine
+James_Wong_(lyricist)	wroteMusicFor	The_Great_Conqueror's_Concubine
+
+http://dbpedia.org/resource/Painted_Faces	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Painted_Faces	Lowell_Lo
+John_Shum	actedIn	Painted_Faces
+John_Shum	actedIn	Painted_Faces
+John_Shum	actedIn	The_Banquet_(1991_film)
+John_Shum	actedIn	The_Banquet_(1991_film)
+Lowell_Lo	wroteMusicFor	The_Banquet_(1991_film)
+Lowell_Lo	wroteMusicFor	The_Banquet_(1991_film)
+
+http://dbpedia.org/resource/Painted_Faces	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Painted_Faces	Lowell_Lo
+Lowell_Lo	wroteMusicFor	Painted_Faces
+Lowell_Lo	wroteMusicFor	Painted_Faces
+
+http://dbpedia.org/resource/Painted_Faces	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Painted_Faces	Lowell_Lo
+Sammo_Hung	actedIn	Painted_Faces
+Sammo_Hung	actedIn	Painted_Faces
+Sammo_Hung	actedIn	Painted_Faces
+Sammo_Hung	actedIn	Painted_Faces
+Lowell_Lo	wroteMusicFor	Painted_Faces
+Lowell_Lo	wroteMusicFor	Painted_Faces
+
+http://dbpedia.org/resource/My_Father_Is_a_Hero	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+My_Father_Is_a_Hero	James_Wong_(lyricist)
+Anita_Mui	actedIn	My_Father_Is_a_Hero
+Anita_Mui	actedIn	My_Father_Is_a_Hero
+Anita_Mui	actedIn	My_Father_Is_a_Hero
+Anita_Mui	actedIn	My_Father_Is_a_Hero
+James_Wong_(lyricist)	wroteMusicFor	My_Father_Is_a_Hero
+James_Wong_(lyricist)	wroteMusicFor	My_Father_Is_a_Hero
+
+http://dbpedia.org/resource/My_Father_Is_a_Hero	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+My_Father_Is_a_Hero	James_Wong_(lyricist)
+Anita_Mui	actedIn	My_Father_Is_a_Hero
+Anita_Mui	actedIn	My_Father_Is_a_Hero
+Anita_Mui	actedIn	Moon_Warriors
+Anita_Mui	actedIn	Moon_Warriors
+James_Wong_(lyricist)	wroteMusicFor	Moon_Warriors
+James_Wong_(lyricist)	wroteMusicFor	Moon_Warriors
+
+http://dbpedia.org/resource/My_Father_Is_a_Hero	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+My_Father_Is_a_Hero	James_Wong_(lyricist)
+Jet_Li	actedIn	My_Father_Is_a_Hero
+Jet_Li	actedIn	My_Father_Is_a_Hero
+Jet_Li	actedIn	Fong_Sai-yuk_(film)
+Jet_Li	actedIn	Fong_Sai-yuk_(film)
+James_Wong_(lyricist)	wroteMusicFor	Fong_Sai-yuk_(film)
+James_Wong_(lyricist)	wroteMusicFor	Fong_Sai-yuk_(film)
+
+http://dbpedia.org/resource/My_Father_Is_a_Hero	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+My_Father_Is_a_Hero	James_Wong_(lyricist)
+Jet_Li	actedIn	My_Father_Is_a_Hero
+Jet_Li	actedIn	My_Father_Is_a_Hero
+Jet_Li	actedIn	Martial_Arts_of_Shaolin
+Jet_Li	actedIn	Martial_Arts_of_Shaolin
+James_Wong_(lyricist)	wroteMusicFor	Martial_Arts_of_Shaolin
+James_Wong_(lyricist)	wroteMusicFor	Martial_Arts_of_Shaolin
+
+http://dbpedia.org/resource/My_Father_Is_a_Hero	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+My_Father_Is_a_Hero	James_Wong_(lyricist)
+James_Wong_(lyricist)	wroteMusicFor	My_Father_Is_a_Hero
+James_Wong_(lyricist)	wroteMusicFor	My_Father_Is_a_Hero
+
+http://dbpedia.org/resource/Top_Bet	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Top_Bet	Lowell_Lo
+Anita_Mui	actedIn	Top_Bet
+Anita_Mui	actedIn	Top_Bet
+Anita_Mui	actedIn	Top_Bet
+Anita_Mui	actedIn	Top_Bet
+Lowell_Lo	wroteMusicFor	Top_Bet
+Lowell_Lo	wroteMusicFor	Top_Bet
+
+http://dbpedia.org/resource/Top_Bet	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Top_Bet	Lowell_Lo
+Anita_Mui	actedIn	Top_Bet
+Anita_Mui	actedIn	Top_Bet
+Anita_Mui	actedIn	The_Banquet_(1991_film)
+Anita_Mui	actedIn	The_Banquet_(1991_film)
+Lowell_Lo	wroteMusicFor	The_Banquet_(1991_film)
+Lowell_Lo	wroteMusicFor	The_Banquet_(1991_film)
+
+http://dbpedia.org/resource/Top_Bet	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Top_Bet	Lowell_Lo
+Jeffrey_Lau	directed	Top_Bet
+Jeffrey_Lau	directed	Top_Bet
+Jeffrey_Lau	created	Days_of_Tomorrow
+Jeffrey_Lau	directed	Days_of_Tomorrow
+Jeffrey_Lau	created	Days_of_Tomorrow
+Jeffrey_Lau	directed	Days_of_Tomorrow
+Lowell_Lo	wroteMusicFor	Days_of_Tomorrow
+Lowell_Lo	wroteMusicFor	Days_of_Tomorrow
+
+http://dbpedia.org/resource/Top_Bet	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Top_Bet	Lowell_Lo
+Corey_Yuen	directed	Top_Bet
+Corey_Yuen	directed	Top_Bet
+Corey_Yuen	directed	Fong_Sai-yuk_II
+Corey_Yuen	directed	Fong_Sai-yuk_II
+Lowell_Lo	wroteMusicFor	Fong_Sai-yuk_II
+Lowell_Lo	wroteMusicFor	Fong_Sai-yuk_II
+
+http://dbpedia.org/resource/Top_Bet	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Top_Bet	Lowell_Lo
+Lowell_Lo	wroteMusicFor	Top_Bet
+Lowell_Lo	wroteMusicFor	Top_Bet
+
+http://dbpedia.org/resource/Top_Bet	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Top_Bet	Lowell_Lo
+Ng_Man-tat	actedIn	Top_Bet
+Ng_Man-tat	actedIn	Top_Bet
+Ng_Man-tat	actedIn	Gameboy_Kids
+Ng_Man-tat	actedIn	Gameboy_Kids
+Lowell_Lo	wroteMusicFor	Gameboy_Kids
+Lowell_Lo	wroteMusicFor	Gameboy_Kids
+
+http://dbpedia.org/resource/Top_Bet	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Top_Bet	Lowell_Lo
+Ng_Man-tat	actedIn	Top_Bet
+Ng_Man-tat	actedIn	Top_Bet
+Ng_Man-tat	actedIn	Shaolin_Soccer
+Ng_Man-tat	actedIn	Shaolin_Soccer
+Lowell_Lo	wroteMusicFor	Shaolin_Soccer
+Lowell_Lo	wroteMusicFor	Shaolin_Soccer
+
+http://dbpedia.org/resource/Top_Bet	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Top_Bet	Lowell_Lo
+Ng_Man-tat	actedIn	Top_Bet
+Ng_Man-tat	actedIn	Top_Bet
+Ng_Man-tat	actedIn	Top_Bet
+Ng_Man-tat	actedIn	Top_Bet
+Lowell_Lo	wroteMusicFor	Top_Bet
+Lowell_Lo	wroteMusicFor	Top_Bet
+
+http://dbpedia.org/resource/Chan_Varyam	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Chan_Varyam	Mehnaz_Begum
+Sultan_Rahi	actedIn	Chan_Varyam
+Sultan_Rahi	actedIn	Chan_Varyam
+Sultan_Rahi	actedIn	Kalay_Chor
+Sultan_Rahi	actedIn	Kalay_Chor
+Mehnaz_Begum	wroteMusicFor	Kalay_Chor
+Mehnaz_Begum	wroteMusicFor	Kalay_Chor
+
+http://dbpedia.org/resource/Chan_Varyam	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Chan_Varyam	Mehnaz_Begum
+Sultan_Rahi	actedIn	Chan_Varyam
+Sultan_Rahi	actedIn	Chan_Varyam
+Sultan_Rahi	hasWonPrize	Nigar_Awards
+Sultan_Rahi	hasWonPrize	Nigar_Awards
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Chan_Varyam	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Chan_Varyam	Mehnaz_Begum
+Sultan_Rahi	actedIn	Chan_Varyam
+Sultan_Rahi	actedIn	Chan_Varyam
+Sultan_Rahi	actedIn	Roti_(1988_film)
+Sultan_Rahi	actedIn	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+
+http://dbpedia.org/resource/Chan_Varyam	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Chan_Varyam	Mehnaz_Begum
+Chan_Varyam	isLocatedIn	Pakistan
+Chan_Varyam	isLocatedIn	Pakistan
+Kalay_Chor	isLocatedIn	Pakistan
+Kalay_Chor	isLocatedIn	Pakistan
+Mehnaz_Begum	wroteMusicFor	Kalay_Chor
+Mehnaz_Begum	wroteMusicFor	Kalay_Chor
+
+http://dbpedia.org/resource/Chan_Varyam	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Chan_Varyam	Mehnaz_Begum
+Chan_Varyam	isLocatedIn	Pakistan
+Chan_Varyam	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Nigar_Awards	isLocatedIn	Pakistan
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Chan_Varyam	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Chan_Varyam	Mehnaz_Begum
+Shagufta_Ejaz	actedIn	Chan_Varyam
+Shagufta_Ejaz	actedIn	Chan_Varyam
+Shagufta_Ejaz	actedIn	Chan_Varyam
+Shagufta_Ejaz	actedIn	Chan_Varyam
+Mehnaz_Begum	wroteMusicFor	Chan_Varyam
+Mehnaz_Begum	wroteMusicFor	Chan_Varyam
+
+http://dbpedia.org/resource/Chan_Varyam	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Chan_Varyam	Mehnaz_Begum
+Shagufta_Ejaz	actedIn	Chan_Varyam
+Shagufta_Ejaz	actedIn	Chan_Varyam
+Shagufta_Ejaz	actedIn	Kalay_Chor
+Shagufta_Ejaz	actedIn	Kalay_Chor
+Mehnaz_Begum	wroteMusicFor	Kalay_Chor
+Mehnaz_Begum	wroteMusicFor	Kalay_Chor
+
+http://dbpedia.org/resource/Chan_Varyam	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Chan_Varyam	Mehnaz_Begum
+Noor_Jehan	wroteMusicFor	Chan_Varyam
+Noor_Jehan	wroteMusicFor	Chan_Varyam
+Noor_Jehan	wroteMusicFor	Kalay_Chor
+Noor_Jehan	wroteMusicFor	Kalay_Chor
+Mehnaz_Begum	wroteMusicFor	Kalay_Chor
+Mehnaz_Begum	wroteMusicFor	Kalay_Chor
+
+http://dbpedia.org/resource/Chan_Varyam	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Chan_Varyam	Mehnaz_Begum
+Noor_Jehan	wroteMusicFor	Chan_Varyam
+Noor_Jehan	wroteMusicFor	Chan_Varyam
+Noor_Jehan	wroteMusicFor	Chan_Varyam
+Noor_Jehan	wroteMusicFor	Chan_Varyam
+Mehnaz_Begum	wroteMusicFor	Chan_Varyam
+Mehnaz_Begum	wroteMusicFor	Chan_Varyam
+
+http://dbpedia.org/resource/Chan_Varyam	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Chan_Varyam	Mehnaz_Begum
+Noor_Jehan	wroteMusicFor	Chan_Varyam
+Noor_Jehan	wroteMusicFor	Chan_Varyam
+Noor_Jehan	wroteMusicFor	Roti_(1988_film)
+Noor_Jehan	wroteMusicFor	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+
+http://dbpedia.org/resource/Chan_Varyam	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Chan_Varyam	Mehnaz_Begum
+Noor_Jehan	wroteMusicFor	Chan_Varyam
+Noor_Jehan	wroteMusicFor	Chan_Varyam
+Noor_Jehan	hasWonPrize	Nigar_Awards
+Noor_Jehan	hasWonPrize	Nigar_Awards
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Chan_Varyam	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Chan_Varyam	Mehnaz_Begum
+Mustafa_Qureshi	actedIn	Chan_Varyam
+Mustafa_Qureshi	actedIn	Chan_Varyam
+Mustafa_Qureshi	hasWonPrize	Nigar_Awards
+Mustafa_Qureshi	hasWonPrize	Nigar_Awards
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+Mehnaz_Begum	hasWonPrize	Nigar_Awards
+
+http://dbpedia.org/resource/Chan_Varyam	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Chan_Varyam	Mehnaz_Begum
+Mustafa_Qureshi	actedIn	Chan_Varyam
+Mustafa_Qureshi	actedIn	Chan_Varyam
+Mustafa_Qureshi	actedIn	Chan_Varyam
+Mustafa_Qureshi	actedIn	Chan_Varyam
+Mehnaz_Begum	wroteMusicFor	Chan_Varyam
+Mehnaz_Begum	wroteMusicFor	Chan_Varyam
+
+http://dbpedia.org/resource/Chan_Varyam	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Chan_Varyam	Mehnaz_Begum
+Mustafa_Qureshi	actedIn	Chan_Varyam
+Mustafa_Qureshi	actedIn	Chan_Varyam
+Mustafa_Qureshi	actedIn	Roti_(1988_film)
+Mustafa_Qureshi	actedIn	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+
+http://dbpedia.org/resource/Chan_Varyam	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Chan_Varyam	Mehnaz_Begum
+Ilyas_Kashmiri_(actor)	actedIn	Chan_Varyam
+Ilyas_Kashmiri_(actor)	actedIn	Chan_Varyam
+Ilyas_Kashmiri_(actor)	actedIn	Chan_Varyam
+Ilyas_Kashmiri_(actor)	actedIn	Chan_Varyam
+Mehnaz_Begum	wroteMusicFor	Chan_Varyam
+Mehnaz_Begum	wroteMusicFor	Chan_Varyam
+
+http://dbpedia.org/resource/Chan_Varyam	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Chan_Varyam	Mehnaz_Begum
+Ilyas_Kashmiri_(actor)	actedIn	Chan_Varyam
+Ilyas_Kashmiri_(actor)	actedIn	Chan_Varyam
+Ilyas_Kashmiri_(actor)	actedIn	Anokha_Daaj
+Ilyas_Kashmiri_(actor)	actedIn	Anokha_Daaj
+Mehnaz_Begum	wroteMusicFor	Anokha_Daaj
+Mehnaz_Begum	wroteMusicFor	Anokha_Daaj
+
+http://dbpedia.org/resource/Chan_Varyam	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Chan_Varyam	Mehnaz_Begum
+Anjuman_(actress)	actedIn	Chan_Varyam
+Anjuman_(actress)	actedIn	Chan_Varyam
+Anjuman_(actress)	actedIn	Roti_(1988_film)
+Anjuman_(actress)	actedIn	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+Mehnaz_Begum	wroteMusicFor	Roti_(1988_film)
+
+http://dbpedia.org/resource/Chan_Varyam	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Chan_Varyam	Mehnaz_Begum
+Anjuman_(actress)	actedIn	Chan_Varyam
+Anjuman_(actress)	actedIn	Chan_Varyam
+Anjuman_(actress)	actedIn	Chan_Varyam
+Anjuman_(actress)	actedIn	Chan_Varyam
+Mehnaz_Begum	wroteMusicFor	Chan_Varyam
+Mehnaz_Begum	wroteMusicFor	Chan_Varyam
+
+http://dbpedia.org/resource/Chan_Varyam	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mehnaz_Begum
+Chan_Varyam	Mehnaz_Begum
+Mehnaz_Begum	wroteMusicFor	Chan_Varyam
+Mehnaz_Begum	wroteMusicFor	Chan_Varyam
+
+http://dbpedia.org/resource/Moon_Warriors	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Moon_Warriors	James_Wong_(lyricist)
+James_Wong_(lyricist)	wroteMusicFor	Moon_Warriors
+James_Wong_(lyricist)	wroteMusicFor	Moon_Warriors
+
+http://dbpedia.org/resource/Moon_Warriors	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Moon_Warriors	James_Wong_(lyricist)
+Mark_Lui	wroteMusicFor	Moon_Warriors
+Mark_Lui	wroteMusicFor	Moon_Warriors
+Mark_Lui	wroteMusicFor	All's_Well,_Ends_Well_Too
+Mark_Lui	wroteMusicFor	All's_Well,_Ends_Well_Too
+James_Wong_(lyricist)	wroteMusicFor	All's_Well,_Ends_Well_Too
+James_Wong_(lyricist)	wroteMusicFor	All's_Well,_Ends_Well_Too
+
+http://dbpedia.org/resource/Moon_Warriors	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Moon_Warriors	James_Wong_(lyricist)
+Mark_Lui	wroteMusicFor	Moon_Warriors
+Mark_Lui	wroteMusicFor	Moon_Warriors
+Mark_Lui	wroteMusicFor	The_Eagle_Shooting_Heroes
+Mark_Lui	wroteMusicFor	The_Eagle_Shooting_Heroes
+James_Wong_(lyricist)	wroteMusicFor	The_Eagle_Shooting_Heroes
+James_Wong_(lyricist)	wroteMusicFor	The_Eagle_Shooting_Heroes
+
+http://dbpedia.org/resource/Moon_Warriors	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Moon_Warriors	James_Wong_(lyricist)
+Mark_Lui	wroteMusicFor	Moon_Warriors
+Mark_Lui	wroteMusicFor	Moon_Warriors
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+Mark_Lui	wroteMusicFor	Legend_of_the_Liquid_Sword
+James_Wong_(lyricist)	wroteMusicFor	Legend_of_the_Liquid_Sword
+James_Wong_(lyricist)	wroteMusicFor	Legend_of_the_Liquid_Sword
+
+http://dbpedia.org/resource/Moon_Warriors	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Moon_Warriors	James_Wong_(lyricist)
+Mark_Lui	wroteMusicFor	Moon_Warriors
+Mark_Lui	wroteMusicFor	Moon_Warriors
+Mark_Lui	wroteMusicFor	Deadful_Melody
+Mark_Lui	wroteMusicFor	Deadful_Melody
+James_Wong_(lyricist)	wroteMusicFor	Deadful_Melody
+James_Wong_(lyricist)	wroteMusicFor	Deadful_Melody
+
+http://dbpedia.org/resource/Moon_Warriors	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Moon_Warriors	James_Wong_(lyricist)
+Mark_Lui	wroteMusicFor	Moon_Warriors
+Mark_Lui	wroteMusicFor	Moon_Warriors
+Mark_Lui	wroteMusicFor	Moon_Warriors
+Mark_Lui	wroteMusicFor	Moon_Warriors
+James_Wong_(lyricist)	wroteMusicFor	Moon_Warriors
+James_Wong_(lyricist)	wroteMusicFor	Moon_Warriors
+
+http://dbpedia.org/resource/Moon_Warriors	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Moon_Warriors	James_Wong_(lyricist)
+Mark_Lui	wroteMusicFor	Moon_Warriors
+Mark_Lui	wroteMusicFor	Moon_Warriors
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+Mark_Lui	wroteMusicFor	Fong_Sai-yuk_(film)
+James_Wong_(lyricist)	wroteMusicFor	Fong_Sai-yuk_(film)
+James_Wong_(lyricist)	wroteMusicFor	Fong_Sai-yuk_(film)
+
+http://dbpedia.org/resource/Moon_Warriors	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Moon_Warriors	James_Wong_(lyricist)
+Anita_Mui	actedIn	Moon_Warriors
+Anita_Mui	actedIn	Moon_Warriors
+Anita_Mui	actedIn	My_Father_Is_a_Hero
+Anita_Mui	actedIn	My_Father_Is_a_Hero
+James_Wong_(lyricist)	wroteMusicFor	My_Father_Is_a_Hero
+James_Wong_(lyricist)	wroteMusicFor	My_Father_Is_a_Hero
+
+http://dbpedia.org/resource/Moon_Warriors	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Moon_Warriors	James_Wong_(lyricist)
+Anita_Mui	actedIn	Moon_Warriors
+Anita_Mui	actedIn	Moon_Warriors
+Anita_Mui	actedIn	Moon_Warriors
+Anita_Mui	actedIn	Moon_Warriors
+James_Wong_(lyricist)	wroteMusicFor	Moon_Warriors
+James_Wong_(lyricist)	wroteMusicFor	Moon_Warriors
+
+http://dbpedia.org/resource/Moon_Warriors	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Moon_Warriors	James_Wong_(lyricist)
+Maggie_Cheung	actedIn	Moon_Warriors
+Maggie_Cheung	actedIn	Moon_Warriors
+Maggie_Cheung	actedIn	The_Eagle_Shooting_Heroes
+Maggie_Cheung	actedIn	The_Eagle_Shooting_Heroes
+James_Wong_(lyricist)	wroteMusicFor	The_Eagle_Shooting_Heroes
+James_Wong_(lyricist)	wroteMusicFor	The_Eagle_Shooting_Heroes
+
+http://dbpedia.org/resource/Moon_Warriors	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Moon_Warriors	James_Wong_(lyricist)
+Maggie_Cheung	actedIn	Moon_Warriors
+Maggie_Cheung	actedIn	Moon_Warriors
+Maggie_Cheung	actedIn	Moon_Warriors
+Maggie_Cheung	actedIn	Moon_Warriors
+James_Wong_(lyricist)	wroteMusicFor	Moon_Warriors
+James_Wong_(lyricist)	wroteMusicFor	Moon_Warriors
+
+http://dbpedia.org/resource/Infernal_Affairs	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs	Chan_Kwong-wing
+Eric_Tsang	actedIn	Infernal_Affairs
+Eric_Tsang	actedIn	Infernal_Affairs
+Eric_Tsang	actedIn	Infernal_Affairs_III
+Eric_Tsang	actedIn	Infernal_Affairs_III
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_III
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Infernal_Affairs	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs	Chan_Kwong-wing
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+
+http://dbpedia.org/resource/Infernal_Affairs	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs	Chan_Kwong-wing
+Alan_Mak_(director)	directed	Infernal_Affairs
+Alan_Mak_(director)	directed	Infernal_Affairs
+Alan_Mak_(director)	directed	Initial_D_(film)
+Alan_Mak_(director)	directed	Initial_D_(film)
+Chan_Kwong-wing	wroteMusicFor	Initial_D_(film)
+Chan_Kwong-wing	wroteMusicFor	Initial_D_(film)
+
+http://dbpedia.org/resource/Infernal_Affairs	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs	Chan_Kwong-wing
+Andrew_Lau	directed	Infernal_Affairs
+Andrew_Lau	directed	Infernal_Affairs
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+
+http://dbpedia.org/resource/Infernal_Affairs	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs	Chan_Kwong-wing
+Andrew_Lau	directed	Infernal_Affairs
+Andrew_Lau	directed	Infernal_Affairs
+Andrew_Lau	directed	The_Guillotines
+Andrew_Lau	directed	The_Guillotines
+Chan_Kwong-wing	wroteMusicFor	The_Guillotines
+Chan_Kwong-wing	wroteMusicFor	The_Guillotines
+
+http://dbpedia.org/resource/Infernal_Affairs	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs	Chan_Kwong-wing
+Andrew_Lau	directed	Infernal_Affairs
+Andrew_Lau	directed	Infernal_Affairs
+Andrew_Lau	directed	Infernal_Affairs_II
+Andrew_Lau	directed	Infernal_Affairs_II
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_II
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_II
+
+http://dbpedia.org/resource/Infernal_Affairs	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs	Chan_Kwong-wing
+Andrew_Lau	directed	Infernal_Affairs
+Andrew_Lau	directed	Infernal_Affairs
+Andrew_Lau	directed	Infernal_Affairs
+Andrew_Lau	directed	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+
+http://dbpedia.org/resource/Infernal_Affairs	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs	Chan_Kwong-wing
+Felix_Chong	created	Infernal_Affairs
+Felix_Chong	created	Infernal_Affairs
+Felix_Chong	created	Infernal_Affairs_III
+Felix_Chong	created	Infernal_Affairs_III
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_III
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Infernal_Affairs	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs	Chan_Kwong-wing
+Felix_Chong	created	Infernal_Affairs
+Felix_Chong	created	Infernal_Affairs
+Felix_Chong	created	Confession_of_Pain
+Felix_Chong	created	Confession_of_Pain
+Chan_Kwong-wing	wroteMusicFor	Confession_of_Pain
+Chan_Kwong-wing	wroteMusicFor	Confession_of_Pain
+
+http://dbpedia.org/resource/Infernal_Affairs	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs	Chan_Kwong-wing
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs_III
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs_III
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_III
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Infernal_Affairs	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs	Chan_Kwong-wing
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Confession_of_Pain
+Tony_Leung_Chiu-wai	actedIn	Confession_of_Pain
+Chan_Kwong-wing	wroteMusicFor	Confession_of_Pain
+Chan_Kwong-wing	wroteMusicFor	Confession_of_Pain
+
+http://dbpedia.org/resource/Infernal_Affairs	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs	Chan_Kwong-wing
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Tony_Leung_Chiu-wai	actedIn	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+
+http://dbpedia.org/resource/Infernal_Affairs	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs	Chan_Kwong-wing
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+
+http://dbpedia.org/resource/Infernal_Affairs	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+Infernal_Affairs	Chan_Kwong-wing
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs
+Andy_Lau	actedIn	Infernal_Affairs_III
+Andy_Lau	actedIn	Infernal_Affairs_III
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_III
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_III
+
+http://dbpedia.org/resource/Die_Fälschung	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Maurice_Jarre
+Die_Fälschung	Maurice_Jarre
+Maurice_Jarre	wroteMusicFor	Die_Fälschung
+Maurice_Jarre	wroteMusicFor	Die_Fälschung
+
+http://dbpedia.org/resource/Fist_of_Fury_1991	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Fist_of_Fury_1991	Lowell_Lo
+Corey_Yuen	actedIn	Fist_of_Fury_1991
+Corey_Yuen	actedIn	Fist_of_Fury_1991
+Corey_Yuen	directed	Fong_Sai-yuk_II
+Corey_Yuen	directed	Fong_Sai-yuk_II
+Lowell_Lo	wroteMusicFor	Fong_Sai-yuk_II
+Lowell_Lo	wroteMusicFor	Fong_Sai-yuk_II
+
+http://dbpedia.org/resource/Fist_of_Fury_1991	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Fist_of_Fury_1991	Lowell_Lo
+Lowell_Lo	wroteMusicFor	Fist_of_Fury_1991
+Lowell_Lo	wroteMusicFor	Fist_of_Fury_1991
+
+http://dbpedia.org/resource/Fist_of_Fury_1991	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Fist_of_Fury_1991	Lowell_Lo
+Jeffrey_Lau	created	Fist_of_Fury_1991
+Jeffrey_Lau	created	Fist_of_Fury_1991
+Jeffrey_Lau	created	Days_of_Tomorrow
+Jeffrey_Lau	directed	Days_of_Tomorrow
+Jeffrey_Lau	created	Days_of_Tomorrow
+Jeffrey_Lau	directed	Days_of_Tomorrow
+Lowell_Lo	wroteMusicFor	Days_of_Tomorrow
+Lowell_Lo	wroteMusicFor	Days_of_Tomorrow
+
+http://dbpedia.org/resource/A_Man_Called_Hero	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Man_Called_Hero	Chan_Kwong-wing
+Shu_Qi	actedIn	A_Man_Called_Hero
+Shu_Qi	actedIn	A_Man_Called_Hero
+Shu_Qi	actedIn	A_Beautiful_Life_(2011_film)
+Shu_Qi	actedIn	A_Beautiful_Life_(2011_film)
+Chan_Kwong-wing	wroteMusicFor	A_Beautiful_Life_(2011_film)
+Chan_Kwong-wing	wroteMusicFor	A_Beautiful_Life_(2011_film)
+
+http://dbpedia.org/resource/A_Man_Called_Hero	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Man_Called_Hero	Chan_Kwong-wing
+Shu_Qi	actedIn	A_Man_Called_Hero
+Shu_Qi	actedIn	A_Man_Called_Hero
+Shu_Qi	actedIn	Confession_of_Pain
+Shu_Qi	actedIn	Confession_of_Pain
+Chan_Kwong-wing	wroteMusicFor	Confession_of_Pain
+Chan_Kwong-wing	wroteMusicFor	Confession_of_Pain
+
+http://dbpedia.org/resource/A_Man_Called_Hero	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Man_Called_Hero	Chan_Kwong-wing
+Shu_Qi	actedIn	A_Man_Called_Hero
+Shu_Qi	actedIn	A_Man_Called_Hero
+Shu_Qi	actedIn	The_Wesley's_Mysterious_File
+Shu_Qi	actedIn	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+
+http://dbpedia.org/resource/A_Man_Called_Hero	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Man_Called_Hero	Chan_Kwong-wing
+Shu_Qi	actedIn	A_Man_Called_Hero
+Shu_Qi	actedIn	A_Man_Called_Hero
+Shu_Qi	actedIn	A_Man_Called_Hero
+Shu_Qi	actedIn	A_Man_Called_Hero
+Chan_Kwong-wing	wroteMusicFor	A_Man_Called_Hero
+Chan_Kwong-wing	wroteMusicFor	A_Man_Called_Hero
+
+http://dbpedia.org/resource/A_Man_Called_Hero	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Man_Called_Hero	Chan_Kwong-wing
+Shu_Qi	actedIn	A_Man_Called_Hero
+Shu_Qi	actedIn	A_Man_Called_Hero
+Shu_Qi	actedIn	For_Bad_Boys_Only
+Shu_Qi	actedIn	For_Bad_Boys_Only
+Chan_Kwong-wing	wroteMusicFor	For_Bad_Boys_Only
+Chan_Kwong-wing	wroteMusicFor	For_Bad_Boys_Only
+
+http://dbpedia.org/resource/A_Man_Called_Hero	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Man_Called_Hero	Chan_Kwong-wing
+Shu_Qi	actedIn	A_Man_Called_Hero
+Shu_Qi	actedIn	A_Man_Called_Hero
+Shu_Qi	actedIn	Born_to_Be_King
+Shu_Qi	actedIn	Born_to_Be_King
+Chan_Kwong-wing	wroteMusicFor	Born_to_Be_King
+Chan_Kwong-wing	wroteMusicFor	Born_to_Be_King
+
+http://dbpedia.org/resource/A_Man_Called_Hero	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Man_Called_Hero	Chan_Kwong-wing
+Shu_Qi	actedIn	A_Man_Called_Hero
+Shu_Qi	actedIn	A_Man_Called_Hero
+Shu_Qi	actedIn	Love_Me,_Love_My_Money
+Shu_Qi	actedIn	Love_Me,_Love_My_Money
+Chan_Kwong-wing	wroteMusicFor	Love_Me,_Love_My_Money
+Chan_Kwong-wing	wroteMusicFor	Love_Me,_Love_My_Money
+
+http://dbpedia.org/resource/A_Man_Called_Hero	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Man_Called_Hero	Chan_Kwong-wing
+Shu_Qi	actedIn	A_Man_Called_Hero
+Shu_Qi	actedIn	A_Man_Called_Hero
+Shu_Qi	actedIn	Look_for_a_Star
+Shu_Qi	actedIn	Look_for_a_Star
+Chan_Kwong-wing	wroteMusicFor	Look_for_a_Star
+Chan_Kwong-wing	wroteMusicFor	Look_for_a_Star
+
+http://dbpedia.org/resource/A_Man_Called_Hero	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Man_Called_Hero	Chan_Kwong-wing
+Andrew_Lau	directed	A_Man_Called_Hero
+Andrew_Lau	directed	A_Man_Called_Hero
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Andrew_Lau	directed	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+Chan_Kwong-wing	wroteMusicFor	The_Wesley's_Mysterious_File
+
+http://dbpedia.org/resource/A_Man_Called_Hero	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Man_Called_Hero	Chan_Kwong-wing
+Andrew_Lau	directed	A_Man_Called_Hero
+Andrew_Lau	directed	A_Man_Called_Hero
+Andrew_Lau	directed	The_Guillotines
+Andrew_Lau	directed	The_Guillotines
+Chan_Kwong-wing	wroteMusicFor	The_Guillotines
+Chan_Kwong-wing	wroteMusicFor	The_Guillotines
+
+http://dbpedia.org/resource/A_Man_Called_Hero	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Man_Called_Hero	Chan_Kwong-wing
+Andrew_Lau	directed	A_Man_Called_Hero
+Andrew_Lau	directed	A_Man_Called_Hero
+Andrew_Lau	directed	Infernal_Affairs_II
+Andrew_Lau	directed	Infernal_Affairs_II
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_II
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs_II
+
+http://dbpedia.org/resource/A_Man_Called_Hero	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Man_Called_Hero	Chan_Kwong-wing
+Andrew_Lau	directed	A_Man_Called_Hero
+Andrew_Lau	directed	A_Man_Called_Hero
+Andrew_Lau	directed	Infernal_Affairs
+Andrew_Lau	directed	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+Chan_Kwong-wing	wroteMusicFor	Infernal_Affairs
+
+http://dbpedia.org/resource/A_Man_Called_Hero	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Man_Called_Hero	Chan_Kwong-wing
+Chan_Kwong-wing	wroteMusicFor	A_Man_Called_Hero
+Chan_Kwong-wing	wroteMusicFor	A_Man_Called_Hero
+
+http://dbpedia.org/resource/A_Man_Called_Hero	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Man_Called_Hero	Chan_Kwong-wing
+Ekin_Cheng	actedIn	A_Man_Called_Hero
+Ekin_Cheng	actedIn	A_Man_Called_Hero
+Ekin_Cheng	actedIn	A_Man_Called_Hero
+Ekin_Cheng	actedIn	A_Man_Called_Hero
+Chan_Kwong-wing	wroteMusicFor	A_Man_Called_Hero
+Chan_Kwong-wing	wroteMusicFor	A_Man_Called_Hero
+
+http://dbpedia.org/resource/A_Man_Called_Hero	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Man_Called_Hero	Chan_Kwong-wing
+Ekin_Cheng	actedIn	A_Man_Called_Hero
+Ekin_Cheng	actedIn	A_Man_Called_Hero
+Ekin_Cheng	actedIn	Anna_in_Kungfuland
+Ekin_Cheng	actedIn	Anna_in_Kungfuland
+Chan_Kwong-wing	wroteMusicFor	Anna_in_Kungfuland
+Chan_Kwong-wing	wroteMusicFor	Anna_in_Kungfuland
+
+http://dbpedia.org/resource/A_Man_Called_Hero	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Chan_Kwong-wing
+A_Man_Called_Hero	Chan_Kwong-wing
+Ekin_Cheng	actedIn	A_Man_Called_Hero
+Ekin_Cheng	actedIn	A_Man_Called_Hero
+Ekin_Cheng	actedIn	The_Storm_Riders
+Ekin_Cheng	actedIn	The_Storm_Riders
+Chan_Kwong-wing	wroteMusicFor	The_Storm_Riders
+Chan_Kwong-wing	wroteMusicFor	The_Storm_Riders
+
+http://dbpedia.org/resource/Days_of_Tomorrow	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Days_of_Tomorrow	Lowell_Lo
+Jeffrey_Lau	created	Days_of_Tomorrow
+Jeffrey_Lau	directed	Days_of_Tomorrow
+Jeffrey_Lau	created	Days_of_Tomorrow
+Jeffrey_Lau	directed	Days_of_Tomorrow
+Jeffrey_Lau	created	Days_of_Tomorrow
+Jeffrey_Lau	directed	Days_of_Tomorrow
+Jeffrey_Lau	created	Days_of_Tomorrow
+Jeffrey_Lau	directed	Days_of_Tomorrow
+Lowell_Lo	wroteMusicFor	Days_of_Tomorrow
+Lowell_Lo	wroteMusicFor	Days_of_Tomorrow
+
+http://dbpedia.org/resource/Days_of_Tomorrow	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Lowell_Lo
+Days_of_Tomorrow	Lowell_Lo
+Lowell_Lo	wroteMusicFor	Days_of_Tomorrow
+Lowell_Lo	wroteMusicFor	Days_of_Tomorrow
+
+http://dbpedia.org/resource/Sunshine_(1999_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Maurice_Jarre
+Sunshine_(1999_film)	Maurice_Jarre
+Jennifer_Ehle	actedIn	Sunshine_(1999_film)
+Jennifer_Ehle	actedIn	Sunshine_(1999_film)
+Jennifer_Ehle	actedIn	Sunshine_(1999_film)
+Jennifer_Ehle	actedIn	Sunshine_(1999_film)
+Maurice_Jarre	wroteMusicFor	Sunshine_(1999_film)
+Maurice_Jarre	wroteMusicFor	Sunshine_(1999_film)
+
+http://dbpedia.org/resource/Sunshine_(1999_film)	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Maurice_Jarre
+Sunshine_(1999_film)	Maurice_Jarre
+Maurice_Jarre	wroteMusicFor	Sunshine_(1999_film)
+Maurice_Jarre	wroteMusicFor	Sunshine_(1999_film)
+
+http://dbpedia.org/resource/Moon_Warriors	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mark_Lui
+Moon_Warriors	Mark_Lui
+Mark_Lui	wroteMusicFor	Moon_Warriors
+Mark_Lui	wroteMusicFor	Moon_Warriors
+
+http://dbpedia.org/resource/Moon_Warriors	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mark_Lui
+Moon_Warriors	Mark_Lui
+Anita_Mui	actedIn	Moon_Warriors
+Anita_Mui	actedIn	Moon_Warriors
+Anita_Mui	actedIn	Moon_Warriors
+Anita_Mui	actedIn	Moon_Warriors
+Mark_Lui	wroteMusicFor	Moon_Warriors
+Mark_Lui	wroteMusicFor	Moon_Warriors
+
+http://dbpedia.org/resource/Moon_Warriors	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mark_Lui
+Moon_Warriors	Mark_Lui
+Maggie_Cheung	actedIn	Moon_Warriors
+Maggie_Cheung	actedIn	Moon_Warriors
+Maggie_Cheung	actedIn	The_Eagle_Shooting_Heroes
+Maggie_Cheung	actedIn	The_Eagle_Shooting_Heroes
+Mark_Lui	wroteMusicFor	The_Eagle_Shooting_Heroes
+Mark_Lui	wroteMusicFor	The_Eagle_Shooting_Heroes
+
+http://dbpedia.org/resource/Moon_Warriors	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/Mark_Lui
+Moon_Warriors	Mark_Lui
+Maggie_Cheung	actedIn	Moon_Warriors
+Maggie_Cheung	actedIn	Moon_Warriors
+Maggie_Cheung	actedIn	Moon_Warriors
+Maggie_Cheung	actedIn	Moon_Warriors
+Mark_Lui	wroteMusicFor	Moon_Warriors
+Mark_Lui	wroteMusicFor	Moon_Warriors
+
+http://dbpedia.org/resource/Madol_Duwa	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/W._D._Amaradeva
+Madol_Duwa	W._D._Amaradeva
+Joe_Abeywickrama	actedIn	Madol_Duwa
+Joe_Abeywickrama	actedIn	Madol_Duwa
+Joe_Abeywickrama	actedIn	Madol_Duwa
+Joe_Abeywickrama	actedIn	Madol_Duwa
+W._D._Amaradeva	wroteMusicFor	Madol_Duwa
+W._D._Amaradeva	wroteMusicFor	Madol_Duwa
+
+http://dbpedia.org/resource/Madol_Duwa	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/W._D._Amaradeva
+Madol_Duwa	W._D._Amaradeva
+Joe_Abeywickrama	actedIn	Madol_Duwa
+Joe_Abeywickrama	actedIn	Madol_Duwa
+Joe_Abeywickrama	actedIn	Getawarayo
+Joe_Abeywickrama	actedIn	Getawarayo
+W._D._Amaradeva	wroteMusicFor	Getawarayo
+W._D._Amaradeva	wroteMusicFor	Getawarayo
+
+http://dbpedia.org/resource/Madol_Duwa	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/W._D._Amaradeva
+Madol_Duwa	W._D._Amaradeva
+W._D._Amaradeva	wroteMusicFor	Madol_Duwa
+W._D._Amaradeva	wroteMusicFor	Madol_Duwa
+
+http://dbpedia.org/resource/Shanghai_Blues	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Shanghai_Blues	James_Wong_(lyricist)
+Tsui_Hark	directed	Shanghai_Blues
+Tsui_Hark	directed	Shanghai_Blues
+Tsui_Hark	directed	The_Swordsman_(1990_film)
+Tsui_Hark	directed	The_Swordsman_(1990_film)
+James_Wong_(lyricist)	wroteMusicFor	The_Swordsman_(1990_film)
+James_Wong_(lyricist)	wroteMusicFor	The_Swordsman_(1990_film)
+
+http://dbpedia.org/resource/Shanghai_Blues	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Shanghai_Blues	James_Wong_(lyricist)
+Tsui_Hark	directed	Shanghai_Blues
+Tsui_Hark	directed	Shanghai_Blues
+Tsui_Hark	directed	Peking_Opera_Blues
+Tsui_Hark	directed	Peking_Opera_Blues
+James_Wong_(lyricist)	wroteMusicFor	Peking_Opera_Blues
+James_Wong_(lyricist)	wroteMusicFor	Peking_Opera_Blues
+
+http://dbpedia.org/resource/Shanghai_Blues	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Shanghai_Blues	James_Wong_(lyricist)
+Tsui_Hark	directed	Shanghai_Blues
+Tsui_Hark	directed	Shanghai_Blues
+Tsui_Hark	directed	Once_Upon_a_Time_in_China_(film_series)
+Tsui_Hark	directed	Once_Upon_a_Time_in_China_(film_series)
+James_Wong_(lyricist)	wroteMusicFor	Once_Upon_a_Time_in_China_(film_series)
+James_Wong_(lyricist)	wroteMusicFor	Once_Upon_a_Time_in_China_(film_series)
+
+http://dbpedia.org/resource/Shanghai_Blues	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Shanghai_Blues	James_Wong_(lyricist)
+James_Wong_(lyricist)	wroteMusicFor	Shanghai_Blues
+James_Wong_(lyricist)	wroteMusicFor	Shanghai_Blues
+
+http://dbpedia.org/resource/Shanghai_Blues	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Shanghai_Blues	James_Wong_(lyricist)
+Sally_Yeh	actedIn	Shanghai_Blues
+Sally_Yeh	actedIn	Shanghai_Blues
+Sally_Yeh	actedIn	Shanghai_Blues
+Sally_Yeh	actedIn	Shanghai_Blues
+James_Wong_(lyricist)	wroteMusicFor	Shanghai_Blues
+James_Wong_(lyricist)	wroteMusicFor	Shanghai_Blues
+
+http://dbpedia.org/resource/Shanghai_Blues	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Shanghai_Blues	James_Wong_(lyricist)
+Sally_Yeh	actedIn	Shanghai_Blues
+Sally_Yeh	actedIn	Shanghai_Blues
+Sally_Yeh	actedIn	I_Love_Maria
+Sally_Yeh	actedIn	I_Love_Maria
+James_Wong_(lyricist)	wroteMusicFor	I_Love_Maria
+James_Wong_(lyricist)	wroteMusicFor	I_Love_Maria
+
+http://dbpedia.org/resource/Shanghai_Blues	http://dbpedia.org/ontology/musicComposer	http://dbpedia.org/resource/James_Wong_(lyricist)
+Shanghai_Blues	James_Wong_(lyricist)
+Sally_Yeh	actedIn	Shanghai_Blues
+Sally_Yeh	actedIn	Shanghai_Blues
+Sally_Yeh	actedIn	Peking_Opera_Blues
+Sally_Yeh	actedIn	Peking_Opera_Blues
+James_Wong_(lyricist)	wroteMusicFor	Peking_Opera_Blues
+James_Wong_(lyricist)	wroteMusicFor	Peking_Opera_Blues
+

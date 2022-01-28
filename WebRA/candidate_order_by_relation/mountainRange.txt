@@ -1,0 +1,199 @@
+http://dbpedia.org/resource/Gravale	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Gravale	Wicklow_Mountains
+Gravale	isLocatedIn	Leinster
+Gravale	isLocatedIn	Leinster
+Table_Mountain,_County_Wicklow	isLocatedIn	Leinster
+Table_Mountain,_County_Wicklow	isLocatedIn	Leinster
+Table_Mountain,_County_Wicklow	isLocatedIn	Wicklow_Mountains
+Table_Mountain,_County_Wicklow	isLocatedIn	Wicklow_Mountains
+
+http://dbpedia.org/resource/Gravale	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Gravale	Wicklow_Mountains
+Gravale	isLocatedIn	Leinster
+Gravale	isLocatedIn	Leinster
+Barnacullian	isLocatedIn	Leinster
+Barnacullian	isLocatedIn	Leinster
+Barnacullian	isLocatedIn	Wicklow_Mountains
+Barnacullian	isLocatedIn	Wicklow_Mountains
+
+http://dbpedia.org/resource/Gravale	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Gravale	Wicklow_Mountains
+Gravale	isLocatedIn	Leinster
+Gravale	isLocatedIn	Leinster
+Djouce	isLocatedIn	Leinster
+Djouce	isLocatedIn	Leinster
+Djouce	isLocatedIn	Wicklow_Mountains
+Djouce	isLocatedIn	Wicklow_Mountains
+
+http://dbpedia.org/resource/Gravale	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Gravale	Wicklow_Mountains
+Gravale	isLocatedIn	County_Wicklow
+Gravale	isLocatedIn	County_Wicklow
+Djouce	isLocatedIn	County_Wicklow
+Djouce	isLocatedIn	County_Wicklow
+Djouce	isLocatedIn	Wicklow_Mountains
+Djouce	isLocatedIn	Wicklow_Mountains
+
+http://dbpedia.org/resource/Gravale	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Gravale	Wicklow_Mountains
+Gravale	isLocatedIn	County_Wicklow
+Gravale	isLocatedIn	County_Wicklow
+Seefingan	isLocatedIn	County_Wicklow
+Seefingan	isLocatedIn	County_Wicklow
+Seefingan	isLocatedIn	Wicklow_Mountains
+Seefingan	isLocatedIn	Wicklow_Mountains
+
+http://dbpedia.org/resource/Gravale	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Gravale	Wicklow_Mountains
+Gravale	isLocatedIn	County_Wicklow
+Gravale	isLocatedIn	County_Wicklow
+Kippure	isLocatedIn	County_Wicklow
+Kippure	isLocatedIn	County_Wicklow
+Kippure	isLocatedIn	Wicklow_Mountains
+Kippure	isLocatedIn	Wicklow_Mountains
+
+http://dbpedia.org/resource/Gravale	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Gravale	Wicklow_Mountains
+Gravale	isLocatedIn	County_Wicklow
+Gravale	isLocatedIn	County_Wicklow
+Gravale	isLocatedIn	County_Wicklow
+Gravale	isLocatedIn	County_Wicklow
+Gravale	isLocatedIn	Wicklow_Mountains
+Gravale	isLocatedIn	Wicklow_Mountains
+
+http://dbpedia.org/resource/Gravale	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Gravale	Wicklow_Mountains
+Gravale	isLocatedIn	County_Wicklow
+Gravale	isLocatedIn	County_Wicklow
+Turlough_Hill	isLocatedIn	County_Wicklow
+Turlough_Hill	isLocatedIn	County_Wicklow
+Turlough_Hill	isLocatedIn	Wicklow_Mountains
+Turlough_Hill	isLocatedIn	Wicklow_Mountains
+
+http://dbpedia.org/resource/Gravale	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Gravale	Wicklow_Mountains
+Gravale	isLocatedIn	County_Wicklow
+Gravale	isLocatedIn	County_Wicklow
+Barnacullian	isLocatedIn	County_Wicklow
+Barnacullian	isLocatedIn	County_Wicklow
+Barnacullian	isLocatedIn	Wicklow_Mountains
+Barnacullian	isLocatedIn	Wicklow_Mountains
+
+http://dbpedia.org/resource/Gravale	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Gravale	Wicklow_Mountains
+Gravale	isLocatedIn	County_Wicklow
+Gravale	isLocatedIn	County_Wicklow
+Moanbane	isLocatedIn	County_Wicklow
+Moanbane	isLocatedIn	County_Wicklow
+Moanbane	isLocatedIn	Wicklow_Mountains
+Moanbane	isLocatedIn	Wicklow_Mountains
+
+http://dbpedia.org/resource/Gravale	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Gravale	Wicklow_Mountains
+Gravale	isLocatedIn	Wicklow_Mountains
+Gravale	isLocatedIn	Wicklow_Mountains
+
+http://dbpedia.org/resource/Kippure	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Kippure	Wicklow_Mountains
+Kippure	isLocatedIn	Wicklow_Mountains
+Kippure	isLocatedIn	Wicklow_Mountains
+
+http://dbpedia.org/resource/Kippure	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Kippure	Wicklow_Mountains
+Kippure	isLocatedIn	County_Wicklow
+Kippure	isLocatedIn	County_Wicklow
+Djouce	isLocatedIn	County_Wicklow
+Djouce	isLocatedIn	County_Wicklow
+Djouce	isLocatedIn	Wicklow_Mountains
+Djouce	isLocatedIn	Wicklow_Mountains
+
+http://dbpedia.org/resource/Kippure	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Kippure	Wicklow_Mountains
+Kippure	isLocatedIn	County_Wicklow
+Kippure	isLocatedIn	County_Wicklow
+Seefingan	isLocatedIn	County_Wicklow
+Seefingan	isLocatedIn	County_Wicklow
+Seefingan	isLocatedIn	Wicklow_Mountains
+Seefingan	isLocatedIn	Wicklow_Mountains
+
+http://dbpedia.org/resource/Kippure	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Kippure	Wicklow_Mountains
+Kippure	isLocatedIn	County_Wicklow
+Kippure	isLocatedIn	County_Wicklow
+Kippure	isLocatedIn	County_Wicklow
+Kippure	isLocatedIn	County_Wicklow
+Kippure	isLocatedIn	Wicklow_Mountains
+Kippure	isLocatedIn	Wicklow_Mountains
+
+http://dbpedia.org/resource/Kippure	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Kippure	Wicklow_Mountains
+Kippure	isLocatedIn	County_Wicklow
+Kippure	isLocatedIn	County_Wicklow
+Gravale	isLocatedIn	County_Wicklow
+Gravale	isLocatedIn	County_Wicklow
+Gravale	isLocatedIn	Wicklow_Mountains
+Gravale	isLocatedIn	Wicklow_Mountains
+
+http://dbpedia.org/resource/Kippure	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Kippure	Wicklow_Mountains
+Kippure	isLocatedIn	County_Wicklow
+Kippure	isLocatedIn	County_Wicklow
+Turlough_Hill	isLocatedIn	County_Wicklow
+Turlough_Hill	isLocatedIn	County_Wicklow
+Turlough_Hill	isLocatedIn	Wicklow_Mountains
+Turlough_Hill	isLocatedIn	Wicklow_Mountains
+
+http://dbpedia.org/resource/Kippure	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Kippure	Wicklow_Mountains
+Kippure	isLocatedIn	County_Wicklow
+Kippure	isLocatedIn	County_Wicklow
+Barnacullian	isLocatedIn	County_Wicklow
+Barnacullian	isLocatedIn	County_Wicklow
+Barnacullian	isLocatedIn	Wicklow_Mountains
+Barnacullian	isLocatedIn	Wicklow_Mountains
+
+http://dbpedia.org/resource/Kippure	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Kippure	Wicklow_Mountains
+Kippure	isLocatedIn	County_Wicklow
+Kippure	isLocatedIn	County_Wicklow
+Moanbane	isLocatedIn	County_Wicklow
+Moanbane	isLocatedIn	County_Wicklow
+Moanbane	isLocatedIn	Wicklow_Mountains
+Moanbane	isLocatedIn	Wicklow_Mountains
+
+http://dbpedia.org/resource/Kippure	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Kippure	Wicklow_Mountains
+Kippure	isLocatedIn	Leinster
+Kippure	isLocatedIn	Leinster
+Table_Mountain,_County_Wicklow	isLocatedIn	Leinster
+Table_Mountain,_County_Wicklow	isLocatedIn	Leinster
+Table_Mountain,_County_Wicklow	isLocatedIn	Wicklow_Mountains
+Table_Mountain,_County_Wicklow	isLocatedIn	Wicklow_Mountains
+
+http://dbpedia.org/resource/Kippure	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Kippure	Wicklow_Mountains
+Kippure	isLocatedIn	Leinster
+Kippure	isLocatedIn	Leinster
+Barnacullian	isLocatedIn	Leinster
+Barnacullian	isLocatedIn	Leinster
+Barnacullian	isLocatedIn	Wicklow_Mountains
+Barnacullian	isLocatedIn	Wicklow_Mountains
+
+http://dbpedia.org/resource/Kippure	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Kippure	Wicklow_Mountains
+Kippure	isLocatedIn	Leinster
+Kippure	isLocatedIn	Leinster
+Djouce	isLocatedIn	Leinster
+Djouce	isLocatedIn	Leinster
+Djouce	isLocatedIn	Wicklow_Mountains
+Djouce	isLocatedIn	Wicklow_Mountains
+
+http://dbpedia.org/resource/Kippure	http://dbpedia.org/ontology/mountainRange	http://dbpedia.org/resource/Wicklow_Mountains
+Kippure	Wicklow_Mountains
+Kippure	isLocatedIn	County_Dublin
+Kippure	isLocatedIn	County_Dublin
+Kippure	isLocatedIn	County_Dublin
+Kippure	isLocatedIn	County_Dublin
+Kippure	isLocatedIn	Wicklow_Mountains
+Kippure	isLocatedIn	Wicklow_Mountains
+

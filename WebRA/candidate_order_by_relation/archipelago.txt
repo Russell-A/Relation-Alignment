@@ -1,0 +1,238 @@
+http://dbpedia.org/resource/Mahé,_Seychelles	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Seychelles
+Mahé,_Seychelles	Seychelles
+Mahé,_Seychelles	isLocatedIn	Victoria,_Seychelles
+Victoria,_Seychelles	isLocatedIn	Mahé,_Seychelles
+Mahé,_Seychelles	isLocatedIn	Victoria,_Seychelles
+Victoria,_Seychelles	isLocatedIn	Mahé,_Seychelles
+Victoria,_Seychelles	isLocatedIn	Seychelles
+Seychelles	hasCapital	Victoria,_Seychelles
+Victoria,_Seychelles	isLocatedIn	Seychelles
+Seychelles	hasCapital	Victoria,_Seychelles
+
+http://dbpedia.org/resource/Giannutri	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Tuscan_Archipelago
+Giannutri	Tuscan_Archipelago
+Giannutri	isLocatedIn	Tuscany
+Giannutri	isLocatedIn	Tuscany
+Grosseto	isLocatedIn	Tuscany
+Grosseto	isLocatedIn	Tuscany
+Tuscan_Archipelago	isLocatedIn	Grosseto
+Tuscan_Archipelago	isLocatedIn	Grosseto
+
+http://dbpedia.org/resource/Giannutri	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Tuscan_Archipelago
+Giannutri	Tuscan_Archipelago
+Giannutri	isLocatedIn	Tuscany
+Giannutri	isLocatedIn	Tuscany
+Portoferraio	isLocatedIn	Tuscany
+Portoferraio	isLocatedIn	Tuscany
+Tuscan_Archipelago	isLocatedIn	Portoferraio
+Tuscan_Archipelago	isLocatedIn	Portoferraio
+
+http://dbpedia.org/resource/Giannutri	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Tuscan_Archipelago
+Giannutri	Tuscan_Archipelago
+Giannutri	isLocatedIn	Tuscany
+Giannutri	isLocatedIn	Tuscany
+Montecristo	isLocatedIn	Tuscany
+Montecristo	isLocatedIn	Tuscany
+Montecristo	isLocatedIn	Tuscan_Archipelago
+Montecristo	isLocatedIn	Tuscan_Archipelago
+
+http://dbpedia.org/resource/Giannutri	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Tuscan_Archipelago
+Giannutri	Tuscan_Archipelago
+Giannutri	isLocatedIn	Tuscany
+Giannutri	isLocatedIn	Tuscany
+Tuscan_Archipelago	isLocatedIn	Tuscany
+Tuscan_Archipelago	isLocatedIn	Tuscany
+
+http://dbpedia.org/resource/Giannutri	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Tuscan_Archipelago
+Giannutri	Tuscan_Archipelago
+Giannutri	isLocatedIn	Grosseto
+Giannutri	isLocatedIn	Grosseto
+Tuscan_Archipelago	isLocatedIn	Grosseto
+Tuscan_Archipelago	isLocatedIn	Grosseto
+
+http://dbpedia.org/resource/Giannutri	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Tuscan_Archipelago
+Giannutri	Tuscan_Archipelago
+Giannutri	isLocatedIn	Tyrrhenian_Sea
+Giannutri	isLocatedIn	Tyrrhenian_Sea
+Montecristo	isLocatedIn	Tyrrhenian_Sea
+Montecristo	isLocatedIn	Tyrrhenian_Sea
+Montecristo	isLocatedIn	Tuscan_Archipelago
+Montecristo	isLocatedIn	Tuscan_Archipelago
+
+http://dbpedia.org/resource/Giannutri	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Tuscan_Archipelago
+Giannutri	Tuscan_Archipelago
+Giannutri	isLocatedIn	Tyrrhenian_Sea
+Giannutri	isLocatedIn	Tyrrhenian_Sea
+Elba	isLocatedIn	Tyrrhenian_Sea
+Elba	isLocatedIn	Tyrrhenian_Sea
+Elba	isLocatedIn	Tuscan_Archipelago
+Elba	isLocatedIn	Tuscan_Archipelago
+
+http://dbpedia.org/resource/Giannutri	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Tuscan_Archipelago
+Giannutri	Tuscan_Archipelago
+Giannutri	isLocatedIn	Tyrrhenian_Sea
+Giannutri	isLocatedIn	Tyrrhenian_Sea
+Tuscan_Archipelago	isLocatedIn	Tyrrhenian_Sea
+Tuscan_Archipelago	isLocatedIn	Tyrrhenian_Sea
+
+http://dbpedia.org/resource/Giannutri	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Tuscan_Archipelago
+Giannutri	Tuscan_Archipelago
+Giannutri	isLocatedIn	Tyrrhenian_Sea
+Giannutri	isLocatedIn	Tyrrhenian_Sea
+Giannutri	isLocatedIn	Tyrrhenian_Sea
+Giannutri	isLocatedIn	Tyrrhenian_Sea
+Giannutri	isLocatedIn	Tuscan_Archipelago
+Giannutri	isLocatedIn	Tuscan_Archipelago
+
+http://dbpedia.org/resource/Giannutri	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Tuscan_Archipelago
+Giannutri	Tuscan_Archipelago
+Giannutri	isLocatedIn	Tyrrhenian_Sea
+Giannutri	isLocatedIn	Tyrrhenian_Sea
+Pianosa	isLocatedIn	Tyrrhenian_Sea
+Pianosa	isLocatedIn	Tyrrhenian_Sea
+Pianosa	isLocatedIn	Tuscan_Archipelago
+Pianosa	isLocatedIn	Tuscan_Archipelago
+
+http://dbpedia.org/resource/Giannutri	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Tuscan_Archipelago
+Giannutri	Tuscan_Archipelago
+Giannutri	isLocatedIn	Tuscan_Archipelago
+Giannutri	isLocatedIn	Tuscan_Archipelago
+
+http://dbpedia.org/resource/Montecristo	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Tuscan_Archipelago
+Montecristo	Tuscan_Archipelago
+Montecristo	isLocatedIn	Tyrrhenian_Sea
+Montecristo	isLocatedIn	Tyrrhenian_Sea
+Montecristo	isLocatedIn	Tyrrhenian_Sea
+Montecristo	isLocatedIn	Tyrrhenian_Sea
+Montecristo	isLocatedIn	Tuscan_Archipelago
+Montecristo	isLocatedIn	Tuscan_Archipelago
+
+http://dbpedia.org/resource/Montecristo	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Tuscan_Archipelago
+Montecristo	Tuscan_Archipelago
+Montecristo	isLocatedIn	Tyrrhenian_Sea
+Montecristo	isLocatedIn	Tyrrhenian_Sea
+Elba	isLocatedIn	Tyrrhenian_Sea
+Elba	isLocatedIn	Tyrrhenian_Sea
+Elba	isLocatedIn	Tuscan_Archipelago
+Elba	isLocatedIn	Tuscan_Archipelago
+
+http://dbpedia.org/resource/Montecristo	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Tuscan_Archipelago
+Montecristo	Tuscan_Archipelago
+Montecristo	isLocatedIn	Tyrrhenian_Sea
+Montecristo	isLocatedIn	Tyrrhenian_Sea
+Tuscan_Archipelago	isLocatedIn	Tyrrhenian_Sea
+Tuscan_Archipelago	isLocatedIn	Tyrrhenian_Sea
+
+http://dbpedia.org/resource/Montecristo	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Tuscan_Archipelago
+Montecristo	Tuscan_Archipelago
+Montecristo	isLocatedIn	Tyrrhenian_Sea
+Montecristo	isLocatedIn	Tyrrhenian_Sea
+Giannutri	isLocatedIn	Tyrrhenian_Sea
+Giannutri	isLocatedIn	Tyrrhenian_Sea
+Giannutri	isLocatedIn	Tuscan_Archipelago
+Giannutri	isLocatedIn	Tuscan_Archipelago
+
+http://dbpedia.org/resource/Montecristo	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Tuscan_Archipelago
+Montecristo	Tuscan_Archipelago
+Montecristo	isLocatedIn	Tyrrhenian_Sea
+Montecristo	isLocatedIn	Tyrrhenian_Sea
+Pianosa	isLocatedIn	Tyrrhenian_Sea
+Pianosa	isLocatedIn	Tyrrhenian_Sea
+Pianosa	isLocatedIn	Tuscan_Archipelago
+Pianosa	isLocatedIn	Tuscan_Archipelago
+
+http://dbpedia.org/resource/Montecristo	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Tuscan_Archipelago
+Montecristo	Tuscan_Archipelago
+Montecristo	isLocatedIn	Province_of_Livorno
+Montecristo	isLocatedIn	Province_of_Livorno
+Province_of_Livorno	isLocatedIn	Tuscany
+Province_of_Livorno	isLocatedIn	Tuscany
+Tuscan_Archipelago	isLocatedIn	Tuscany
+Tuscan_Archipelago	isLocatedIn	Tuscany
+
+http://dbpedia.org/resource/Montecristo	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Tuscan_Archipelago
+Montecristo	Tuscan_Archipelago
+Montecristo	isLocatedIn	Tuscan_Archipelago
+Montecristo	isLocatedIn	Tuscan_Archipelago
+
+http://dbpedia.org/resource/Montecristo	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Tuscan_Archipelago
+Montecristo	Tuscan_Archipelago
+Montecristo	isLocatedIn	Tuscany
+Montecristo	isLocatedIn	Tuscany
+Grosseto	isLocatedIn	Tuscany
+Grosseto	isLocatedIn	Tuscany
+Tuscan_Archipelago	isLocatedIn	Grosseto
+Tuscan_Archipelago	isLocatedIn	Grosseto
+
+http://dbpedia.org/resource/Montecristo	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Tuscan_Archipelago
+Montecristo	Tuscan_Archipelago
+Montecristo	isLocatedIn	Tuscany
+Montecristo	isLocatedIn	Tuscany
+Portoferraio	isLocatedIn	Tuscany
+Portoferraio	isLocatedIn	Tuscany
+Tuscan_Archipelago	isLocatedIn	Portoferraio
+Tuscan_Archipelago	isLocatedIn	Portoferraio
+
+http://dbpedia.org/resource/Montecristo	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Tuscan_Archipelago
+Montecristo	Tuscan_Archipelago
+Montecristo	isLocatedIn	Tuscany
+Montecristo	isLocatedIn	Tuscany
+Montecristo	isLocatedIn	Tuscany
+Montecristo	isLocatedIn	Tuscany
+Montecristo	isLocatedIn	Tuscan_Archipelago
+Montecristo	isLocatedIn	Tuscan_Archipelago
+
+http://dbpedia.org/resource/Montecristo	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Tuscan_Archipelago
+Montecristo	Tuscan_Archipelago
+Montecristo	isLocatedIn	Tuscany
+Montecristo	isLocatedIn	Tuscany
+Tuscan_Archipelago	isLocatedIn	Tuscany
+Tuscan_Archipelago	isLocatedIn	Tuscany
+
+http://dbpedia.org/resource/New_Britain	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Bismarck_Archipelago
+New_Britain	Bismarck_Archipelago
+Battle_of_Rabaul_(1942)	isLocatedIn	New_Britain
+Battle_of_Rabaul_(1942)	happenedIn	New_Britain
+Battle_of_Rabaul_(1942)	isLocatedIn	New_Britain
+Battle_of_Rabaul_(1942)	happenedIn	New_Britain
+Battle_of_Rabaul_(1942)	isLocatedIn	New_Britain
+Battle_of_Rabaul_(1942)	happenedIn	New_Britain
+Battle_of_Rabaul_(1942)	isLocatedIn	New_Britain
+Battle_of_Rabaul_(1942)	happenedIn	New_Britain
+New_Britain	isLocatedIn	Bismarck_Archipelago
+New_Britain	isLocatedIn	Bismarck_Archipelago
+
+http://dbpedia.org/resource/New_Britain	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Bismarck_Archipelago
+New_Britain	Bismarck_Archipelago
+New_Britain	isLocatedIn	Bismarck_Archipelago
+New_Britain	isLocatedIn	Bismarck_Archipelago
+
+http://dbpedia.org/resource/New_Britain	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Bismarck_Archipelago
+New_Britain	Bismarck_Archipelago
+Operation_Dexterity	isLocatedIn	New_Britain
+Operation_Dexterity	happenedIn	New_Britain
+Operation_Dexterity	isLocatedIn	New_Britain
+Operation_Dexterity	happenedIn	New_Britain
+Operation_Dexterity	isLocatedIn	New_Britain
+Operation_Dexterity	happenedIn	New_Britain
+Operation_Dexterity	isLocatedIn	New_Britain
+Operation_Dexterity	happenedIn	New_Britain
+New_Britain	isLocatedIn	Bismarck_Archipelago
+New_Britain	isLocatedIn	Bismarck_Archipelago
+
+http://dbpedia.org/resource/New_Britain	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Bismarck_Archipelago
+New_Britain	Bismarck_Archipelago
+New_Britain	isLocatedIn	Papua_New_Guinea
+New_Britain	isLocatedIn	Papua_New_Guinea
+New_Britain	isLocatedIn	Papua_New_Guinea
+New_Britain	isLocatedIn	Papua_New_Guinea
+New_Britain	isLocatedIn	Bismarck_Archipelago
+New_Britain	isLocatedIn	Bismarck_Archipelago
+
+http://dbpedia.org/resource/New_Britain	http://dbpedia.org/ontology/archipelago	http://dbpedia.org/resource/Bismarck_Archipelago
+New_Britain	Bismarck_Archipelago
+New_Britain	isLocatedIn	Papua_New_Guinea
+New_Britain	isLocatedIn	Papua_New_Guinea
+Bismarck_Archipelago	isLocatedIn	Papua_New_Guinea
+Bismarck_Archipelago	isLocatedIn	Papua_New_Guinea
+

@@ -1,0 +1,149 @@
+http://dbpedia.org/resource/Fort_Hill_(Clemson,_South_Carolina)	http://dbpedia.org/ontology/governingBody	http://dbpedia.org/resource/Clemson_University
+Fort_Hill_(Clemson,_South_Carolina)	Clemson_University
+Fort_Hill_(Clemson,_South_Carolina)	isLocatedIn	South_Carolina
+Fort_Hill_(Clemson,_South_Carolina)	isLocatedIn	South_Carolina
+Clemson,_South_Carolina	isLocatedIn	South_Carolina
+Clemson,_South_Carolina	isLocatedIn	South_Carolina
+Clemson_University	isLocatedIn	Clemson,_South_Carolina
+Clemson_University	isLocatedIn	Clemson,_South_Carolina
+
+http://dbpedia.org/resource/Fort_Hill_(Clemson,_South_Carolina)	http://dbpedia.org/ontology/governingBody	http://dbpedia.org/resource/Clemson_University
+Fort_Hill_(Clemson,_South_Carolina)	Clemson_University
+Fort_Hill_(Clemson,_South_Carolina)	isLocatedIn	Clemson,_South_Carolina
+Fort_Hill_(Clemson,_South_Carolina)	isLocatedIn	Clemson,_South_Carolina
+Clemson,_South_Carolina	isLocatedIn	Pickens_County,_South_Carolina
+Clemson,_South_Carolina	isLocatedIn	Pickens_County,_South_Carolina
+Clemson_University	isLocatedIn	Pickens_County,_South_Carolina
+Clemson_University	isLocatedIn	Pickens_County,_South_Carolina
+
+http://dbpedia.org/resource/Fort_Hill_(Clemson,_South_Carolina)	http://dbpedia.org/ontology/governingBody	http://dbpedia.org/resource/Clemson_University
+Fort_Hill_(Clemson,_South_Carolina)	Clemson_University
+Fort_Hill_(Clemson,_South_Carolina)	isLocatedIn	Clemson,_South_Carolina
+Fort_Hill_(Clemson,_South_Carolina)	isLocatedIn	Clemson,_South_Carolina
+Memorial_Stadium_(Clemson)	isLocatedIn	Clemson,_South_Carolina
+Memorial_Stadium_(Clemson)	isLocatedIn	Clemson,_South_Carolina
+Clemson_University	owns	Memorial_Stadium_(Clemson)
+Clemson_University	owns	Memorial_Stadium_(Clemson)
+
+http://dbpedia.org/resource/Fort_Hill_(Clemson,_South_Carolina)	http://dbpedia.org/ontology/governingBody	http://dbpedia.org/resource/Clemson_University
+Fort_Hill_(Clemson,_South_Carolina)	Clemson_University
+Fort_Hill_(Clemson,_South_Carolina)	isLocatedIn	Clemson,_South_Carolina
+Fort_Hill_(Clemson,_South_Carolina)	isLocatedIn	Clemson,_South_Carolina
+Clemson_University	isLocatedIn	Clemson,_South_Carolina
+Clemson_University	isLocatedIn	Clemson,_South_Carolina
+
+http://dbpedia.org/resource/Fort_Hill_(Clemson,_South_Carolina)	http://dbpedia.org/ontology/governingBody	http://dbpedia.org/resource/Clemson_University
+Fort_Hill_(Clemson,_South_Carolina)	Clemson_University
+Fort_Hill_(Clemson,_South_Carolina)	isLocatedIn	Pickens_County,_South_Carolina
+Fort_Hill_(Clemson,_South_Carolina)	isLocatedIn	Pickens_County,_South_Carolina
+Clemson_University	isLocatedIn	Pickens_County,_South_Carolina
+Clemson_University	isLocatedIn	Pickens_County,_South_Carolina
+
+http://dbpedia.org/resource/Anderson_Hall_(Gainesville,_Florida)	http://dbpedia.org/ontology/governingBody	http://dbpedia.org/resource/University_of_Florida
+Anderson_Hall_(Gainesville,_Florida)	University_of_Florida
+Anderson_Hall_(Gainesville,_Florida)	isLocatedIn	Gainesville,_Florida
+Anderson_Hall_(Gainesville,_Florida)	isLocatedIn	Gainesville,_Florida
+Gus_Bilirakis	wasBornIn	Gainesville,_Florida
+Gus_Bilirakis	wasBornIn	Gainesville,_Florida
+Gus_Bilirakis	graduatedFrom	University_of_Florida
+Gus_Bilirakis	graduatedFrom	University_of_Florida
+
+http://dbpedia.org/resource/Anderson_Hall_(Gainesville,_Florida)	http://dbpedia.org/ontology/governingBody	http://dbpedia.org/resource/University_of_Florida
+Anderson_Hall_(Gainesville,_Florida)	University_of_Florida
+Anderson_Hall_(Gainesville,_Florida)	isLocatedIn	Gainesville,_Florida
+Anderson_Hall_(Gainesville,_Florida)	isLocatedIn	Gainesville,_Florida
+Robert_Ulanowicz	livesIn	Gainesville,_Florida
+Robert_Ulanowicz	livesIn	Gainesville,_Florida
+Robert_Ulanowicz	worksAt	University_of_Florida
+Robert_Ulanowicz	worksAt	University_of_Florida
+
+http://dbpedia.org/resource/Anderson_Hall_(Gainesville,_Florida)	http://dbpedia.org/ontology/governingBody	http://dbpedia.org/resource/University_of_Florida
+Anderson_Hall_(Gainesville,_Florida)	University_of_Florida
+Anderson_Hall_(Gainesville,_Florida)	isLocatedIn	Florida
+Anderson_Hall_(Gainesville,_Florida)	isLocatedIn	Florida
+Del_Vaughn	livesIn	Florida
+Del_Vaughn	livesIn	Florida
+Del_Vaughn	graduatedFrom	University_of_Florida
+Del_Vaughn	graduatedFrom	University_of_Florida
+
+http://dbpedia.org/resource/Anderson_Hall_(Gainesville,_Florida)	http://dbpedia.org/ontology/governingBody	http://dbpedia.org/resource/University_of_Florida
+Anderson_Hall_(Gainesville,_Florida)	University_of_Florida
+Anderson_Hall_(Gainesville,_Florida)	isLocatedIn	Florida
+Anderson_Hall_(Gainesville,_Florida)	isLocatedIn	Florida
+Spessard_Holland	isPoliticianOf	Florida
+Spessard_Holland	isPoliticianOf	Florida
+Spessard_Holland	graduatedFrom	University_of_Florida
+Spessard_Holland	graduatedFrom	University_of_Florida
+
+http://dbpedia.org/resource/The_Hub_(Gainesville,_Florida)	http://dbpedia.org/ontology/governingBody	http://dbpedia.org/resource/University_of_Florida
+The_Hub_(Gainesville,_Florida)	University_of_Florida
+The_Hub_(Gainesville,_Florida)	isLocatedIn	Gainesville,_Florida
+The_Hub_(Gainesville,_Florida)	isLocatedIn	Gainesville,_Florida
+Gus_Bilirakis	wasBornIn	Gainesville,_Florida
+Gus_Bilirakis	wasBornIn	Gainesville,_Florida
+Gus_Bilirakis	graduatedFrom	University_of_Florida
+Gus_Bilirakis	graduatedFrom	University_of_Florida
+
+http://dbpedia.org/resource/The_Hub_(Gainesville,_Florida)	http://dbpedia.org/ontology/governingBody	http://dbpedia.org/resource/University_of_Florida
+The_Hub_(Gainesville,_Florida)	University_of_Florida
+The_Hub_(Gainesville,_Florida)	isLocatedIn	Gainesville,_Florida
+The_Hub_(Gainesville,_Florida)	isLocatedIn	Gainesville,_Florida
+Robert_Ulanowicz	livesIn	Gainesville,_Florida
+Robert_Ulanowicz	livesIn	Gainesville,_Florida
+Robert_Ulanowicz	worksAt	University_of_Florida
+Robert_Ulanowicz	worksAt	University_of_Florida
+
+http://dbpedia.org/resource/The_Hub_(Gainesville,_Florida)	http://dbpedia.org/ontology/governingBody	http://dbpedia.org/resource/University_of_Florida
+The_Hub_(Gainesville,_Florida)	University_of_Florida
+The_Hub_(Gainesville,_Florida)	isLocatedIn	Florida
+The_Hub_(Gainesville,_Florida)	isLocatedIn	Florida
+Del_Vaughn	livesIn	Florida
+Del_Vaughn	livesIn	Florida
+Del_Vaughn	graduatedFrom	University_of_Florida
+Del_Vaughn	graduatedFrom	University_of_Florida
+
+http://dbpedia.org/resource/The_Hub_(Gainesville,_Florida)	http://dbpedia.org/ontology/governingBody	http://dbpedia.org/resource/University_of_Florida
+The_Hub_(Gainesville,_Florida)	University_of_Florida
+The_Hub_(Gainesville,_Florida)	isLocatedIn	Florida
+The_Hub_(Gainesville,_Florida)	isLocatedIn	Florida
+Spessard_Holland	isPoliticianOf	Florida
+Spessard_Holland	isPoliticianOf	Florida
+Spessard_Holland	graduatedFrom	University_of_Florida
+Spessard_Holland	graduatedFrom	University_of_Florida
+
+http://dbpedia.org/resource/Library_East_(Gainesville,_Florida)	http://dbpedia.org/ontology/governingBody	http://dbpedia.org/resource/University_of_Florida
+Library_East_(Gainesville,_Florida)	University_of_Florida
+Library_East_(Gainesville,_Florida)	isLocatedIn	Gainesville,_Florida
+Library_East_(Gainesville,_Florida)	isLocatedIn	Gainesville,_Florida
+Gus_Bilirakis	wasBornIn	Gainesville,_Florida
+Gus_Bilirakis	wasBornIn	Gainesville,_Florida
+Gus_Bilirakis	graduatedFrom	University_of_Florida
+Gus_Bilirakis	graduatedFrom	University_of_Florida
+
+http://dbpedia.org/resource/Library_East_(Gainesville,_Florida)	http://dbpedia.org/ontology/governingBody	http://dbpedia.org/resource/University_of_Florida
+Library_East_(Gainesville,_Florida)	University_of_Florida
+Library_East_(Gainesville,_Florida)	isLocatedIn	Gainesville,_Florida
+Library_East_(Gainesville,_Florida)	isLocatedIn	Gainesville,_Florida
+Robert_Ulanowicz	livesIn	Gainesville,_Florida
+Robert_Ulanowicz	livesIn	Gainesville,_Florida
+Robert_Ulanowicz	worksAt	University_of_Florida
+Robert_Ulanowicz	worksAt	University_of_Florida
+
+http://dbpedia.org/resource/Library_East_(Gainesville,_Florida)	http://dbpedia.org/ontology/governingBody	http://dbpedia.org/resource/University_of_Florida
+Library_East_(Gainesville,_Florida)	University_of_Florida
+Library_East_(Gainesville,_Florida)	isLocatedIn	Florida
+Library_East_(Gainesville,_Florida)	isLocatedIn	Florida
+Del_Vaughn	livesIn	Florida
+Del_Vaughn	livesIn	Florida
+Del_Vaughn	graduatedFrom	University_of_Florida
+Del_Vaughn	graduatedFrom	University_of_Florida
+
+http://dbpedia.org/resource/Library_East_(Gainesville,_Florida)	http://dbpedia.org/ontology/governingBody	http://dbpedia.org/resource/University_of_Florida
+Library_East_(Gainesville,_Florida)	University_of_Florida
+Library_East_(Gainesville,_Florida)	isLocatedIn	Florida
+Library_East_(Gainesville,_Florida)	isLocatedIn	Florida
+Spessard_Holland	isPoliticianOf	Florida
+Spessard_Holland	isPoliticianOf	Florida
+Spessard_Holland	graduatedFrom	University_of_Florida
+Spessard_Holland	graduatedFrom	University_of_Florida
+

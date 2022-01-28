@@ -1,0 +1,1207 @@
+http://dbpedia.org/resource/Stephen_Resnick	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/City_College_of_New_York
+Stephen_Resnick	City_College_of_New_York
+Stephen_Resnick	influences	Jack_Amariglio
+Stephen_Resnick	influences	Jack_Amariglio
+Jack_Amariglio	graduatedFrom	City_College_of_New_York
+Jack_Amariglio	graduatedFrom	City_College_of_New_York
+
+http://dbpedia.org/resource/Merton_Miller	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Merton_Miller	University_of_Chicago
+Merton_Miller	graduatedFrom	Johns_Hopkins_University
+Merton_Miller	graduatedFrom	Johns_Hopkins_University
+Karl_Lashley	graduatedFrom	Johns_Hopkins_University
+Karl_Lashley	graduatedFrom	Johns_Hopkins_University
+Karl_Lashley	worksAt	University_of_Chicago
+Karl_Lashley	worksAt	University_of_Chicago
+
+http://dbpedia.org/resource/Merton_Miller	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Merton_Miller	University_of_Chicago
+Merton_Miller	graduatedFrom	University_of_Chicago
+Merton_Miller	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Merton_Miller	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Merton_Miller	University_of_Chicago
+Merton_Miller	influences	Campbell_Harvey
+Merton_Miller	influences	Campbell_Harvey
+Merton_Miller	influences	Campbell_Harvey
+Merton_Miller	influences	Campbell_Harvey
+Merton_Miller	graduatedFrom	University_of_Chicago
+Merton_Miller	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Merton_Miller	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Merton_Miller	University_of_Chicago
+Merton_Miller	influences	Campbell_Harvey
+Merton_Miller	influences	Campbell_Harvey
+Campbell_Harvey	graduatedFrom	University_of_Chicago
+Campbell_Harvey	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Karl_Brunner_(economist)	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Rochester
+Karl_Brunner_(economist)	University_of_Rochester
+Karl_Brunner_(economist)	diedIn	Rochester,_New_York
+Karl_Brunner_(economist)	diedIn	Rochester,_New_York
+Grove_Karl_Gilbert	wasBornIn	Rochester,_New_York
+Grove_Karl_Gilbert	wasBornIn	Rochester,_New_York
+Grove_Karl_Gilbert	graduatedFrom	University_of_Rochester
+Grove_Karl_Gilbert	graduatedFrom	University_of_Rochester
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_at_Buffalo
+Ronald_Coase	University_at_Buffalo
+Ronald_Coase	graduatedFrom	University_of_Chicago
+Ronald_Coase	graduatedFrom	University_of_Chicago
+Robert_Rosen_(theoretical_biologist)	graduatedFrom	University_of_Chicago
+Robert_Rosen_(theoretical_biologist)	graduatedFrom	University_of_Chicago
+Robert_Rosen_(theoretical_biologist)	worksAt	University_at_Buffalo
+Robert_Rosen_(theoretical_biologist)	worksAt	University_at_Buffalo
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_at_Buffalo
+Ronald_Coase	University_at_Buffalo
+Ronald_Coase	influences	Harold_Demsetz
+Ronald_Coase	influences	Harold_Demsetz
+Ronald_Coase	influences	Harold_Demsetz
+Ronald_Coase	influences	Harold_Demsetz
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_at_Buffalo
+Ronald_Coase	University_at_Buffalo
+Ronald_Coase	influences	Oliver_E._Williamson
+Ronald_Coase	influences	Oliver_E._Williamson
+Ronald_Coase	influences	Oliver_E._Williamson
+Ronald_Coase	influences	Oliver_E._Williamson
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_at_Buffalo
+Ronald_Coase	University_at_Buffalo
+Ronald_Coase	influences	Paul_Joskow
+Ronald_Coase	influences	Paul_Joskow
+Ronald_Coase	influences	Paul_Joskow
+Ronald_Coase	influences	Paul_Joskow
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_at_Buffalo
+Ronald_Coase	University_at_Buffalo
+Ronald_Coase	influences	Peter_Boettke
+Ronald_Coase	influences	Peter_Boettke
+Ronald_Coase	influences	Peter_Boettke
+Ronald_Coase	influences	Peter_Boettke
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_at_Buffalo
+Ronald_Coase	University_at_Buffalo
+Ronald_Coase	influences	Steven_N._S._Cheung
+Ronald_Coase	influences	Steven_N._S._Cheung
+Ronald_Coase	influences	Steven_N._S._Cheung
+Ronald_Coase	influences	Steven_N._S._Cheung
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_at_Buffalo
+Ronald_Coase	University_at_Buffalo
+Arnold_Plant	influences	Ronald_Coase
+Arnold_Plant	influences	Ronald_Coase
+Arnold_Plant	influences	Ronald_Coase
+Arnold_Plant	influences	Ronald_Coase
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_at_Buffalo
+Ronald_Coase	University_at_Buffalo
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_at_Buffalo
+Ronald_Coase	University_at_Buffalo
+Ronald_Coase	influences	Steve_Hanke
+Ronald_Coase	influences	Steve_Hanke
+Ronald_Coase	influences	Steve_Hanke
+Ronald_Coase	influences	Steve_Hanke
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_at_Buffalo
+Ronald_Coase	University_at_Buffalo
+Ronald_Coase	influences	Aaron_Director
+Ronald_Coase	influences	Aaron_Director
+Ronald_Coase	influences	Aaron_Director
+Ronald_Coase	influences	Aaron_Director
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+
+http://dbpedia.org/resource/Steven_N._S._Cheung	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Washington
+Steven_N._S._Cheung	University_of_Washington
+Armen_Alchian	influences	Steven_N._S._Cheung
+Armen_Alchian	influences	Steven_N._S._Cheung
+William_F._Sharpe	hasAcademicAdvisor	Armen_Alchian
+William_F._Sharpe	hasAcademicAdvisor	Armen_Alchian
+William_F._Sharpe	graduatedFrom	University_of_Washington
+William_F._Sharpe	graduatedFrom	University_of_Washington
+
+http://dbpedia.org/resource/Richard_Easterlin	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Pennsylvania
+Richard_Easterlin	University_of_Pennsylvania
+Richard_Easterlin	graduatedFrom	University_of_Pennsylvania
+Richard_Easterlin	graduatedFrom	University_of_Pennsylvania
+
+http://dbpedia.org/resource/Richard_Easterlin	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Pennsylvania
+Richard_Easterlin	University_of_Pennsylvania
+Richard_Easterlin	wasBornIn	Ridgefield_Park,_New_Jersey
+Richard_Easterlin	wasBornIn	Ridgefield_Park,_New_Jersey
+Richard_Easterlin	wasBornIn	Ridgefield_Park,_New_Jersey
+Richard_Easterlin	wasBornIn	Ridgefield_Park,_New_Jersey
+Richard_Easterlin	graduatedFrom	University_of_Pennsylvania
+Richard_Easterlin	graduatedFrom	University_of_Pennsylvania
+
+http://dbpedia.org/resource/John_Bates_Clark	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/Johns_Hopkins_University
+John_Bates_Clark	Johns_Hopkins_University
+John_Bates_Clark	influences	Thorstein_Veblen
+John_Bates_Clark	influences	Thorstein_Veblen
+Thorstein_Veblen	graduatedFrom	Johns_Hopkins_University
+Thorstein_Veblen	graduatedFrom	Johns_Hopkins_University
+
+http://dbpedia.org/resource/John_Bates_Clark	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/Johns_Hopkins_University
+John_Bates_Clark	Johns_Hopkins_University
+John_Bates_Clark	graduatedFrom	Amherst_College
+John_Bates_Clark	graduatedFrom	Amherst_College
+Herbert_Baxter_Adams	graduatedFrom	Amherst_College
+Herbert_Baxter_Adams	graduatedFrom	Amherst_College
+Herbert_Baxter_Adams	worksAt	Johns_Hopkins_University
+Herbert_Baxter_Adams	worksAt	Johns_Hopkins_University
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	hasAcademicAdvisor	H._Gregg_Lewis
+Gary_Becker	hasAcademicAdvisor	H._Gregg_Lewis
+Gary_Becker	hasAcademicAdvisor	H._Gregg_Lewis
+Gary_Becker	hasAcademicAdvisor	H._Gregg_Lewis
+Gary_Becker	graduatedFrom	University_of_Chicago
+Gary_Becker	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	hasAcademicAdvisor	H._Gregg_Lewis
+Gary_Becker	hasAcademicAdvisor	H._Gregg_Lewis
+H._Gregg_Lewis	graduatedFrom	University_of_Chicago
+H._Gregg_Lewis	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	diedIn	Chicago
+Gary_Becker	diedIn	Chicago
+Ugo_Fano	diedIn	Chicago
+Ugo_Fano	diedIn	Chicago
+Ugo_Fano	worksAt	University_of_Chicago
+Ugo_Fano	worksAt	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	diedIn	Chicago
+Gary_Becker	diedIn	Chicago
+Gilbert_Ames_Bliss	wasBornIn	Chicago
+Gilbert_Ames_Bliss	wasBornIn	Chicago
+Gilbert_Ames_Bliss	worksAt	University_of_Chicago
+Gilbert_Ames_Bliss	graduatedFrom	University_of_Chicago
+Gilbert_Ames_Bliss	worksAt	University_of_Chicago
+Gilbert_Ames_Bliss	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	diedIn	Chicago
+Gary_Becker	diedIn	Chicago
+Bernice_Neugarten	diedIn	Chicago
+Bernice_Neugarten	diedIn	Chicago
+Bernice_Neugarten	graduatedFrom	University_of_Chicago
+Bernice_Neugarten	worksAt	University_of_Chicago
+Bernice_Neugarten	graduatedFrom	University_of_Chicago
+Bernice_Neugarten	worksAt	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	diedIn	Chicago
+Gary_Becker	diedIn	Chicago
+Henry_Chandler_Cowles	diedIn	Chicago
+Henry_Chandler_Cowles	diedIn	Chicago
+Henry_Chandler_Cowles	graduatedFrom	University_of_Chicago
+Henry_Chandler_Cowles	worksAt	University_of_Chicago
+Henry_Chandler_Cowles	graduatedFrom	University_of_Chicago
+Henry_Chandler_Cowles	worksAt	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	diedIn	Chicago
+Gary_Becker	diedIn	Chicago
+Lyle_Benjamin_Borst	wasBornIn	Chicago
+Lyle_Benjamin_Borst	wasBornIn	Chicago
+Lyle_Benjamin_Borst	graduatedFrom	University_of_Chicago
+Lyle_Benjamin_Borst	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	diedIn	Chicago
+Gary_Becker	diedIn	Chicago
+Benjamin_Bloom	diedIn	Chicago
+Benjamin_Bloom	diedIn	Chicago
+Benjamin_Bloom	graduatedFrom	University_of_Chicago
+Benjamin_Bloom	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	diedIn	Chicago
+Gary_Becker	diedIn	Chicago
+Joseph_Logsdon	wasBornIn	Chicago
+Joseph_Logsdon	wasBornIn	Chicago
+Joseph_Logsdon	graduatedFrom	University_of_Chicago
+Joseph_Logsdon	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	diedIn	Chicago
+Gary_Becker	diedIn	Chicago
+Stephen_Polyak	diedIn	Chicago
+Stephen_Polyak	diedIn	Chicago
+Stephen_Polyak	worksAt	University_of_Chicago
+Stephen_Polyak	worksAt	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	diedIn	Chicago
+Gary_Becker	diedIn	Chicago
+Bruce_Lincoln	livesIn	Chicago
+Bruce_Lincoln	livesIn	Chicago
+Bruce_Lincoln	worksAt	University_of_Chicago
+Bruce_Lincoln	graduatedFrom	University_of_Chicago
+Bruce_Lincoln	worksAt	University_of_Chicago
+Bruce_Lincoln	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	influences	Edward_Glaeser
+Gary_Becker	influences	Edward_Glaeser
+Gary_Becker	influences	Edward_Glaeser
+Gary_Becker	influences	Edward_Glaeser
+Gary_Becker	graduatedFrom	University_of_Chicago
+Gary_Becker	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	influences	Edward_Glaeser
+Gary_Becker	influences	Edward_Glaeser
+Edward_Glaeser	graduatedFrom	University_of_Chicago
+Edward_Glaeser	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+George_Stigler	influences	Gary_Becker
+George_Stigler	influences	Gary_Becker
+Jacob_Viner	influences	George_Stigler
+Jacob_Viner	influences	George_Stigler
+Jacob_Viner	graduatedFrom	University_of_Chicago
+Jacob_Viner	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	influences	James_Heckman
+Gary_Becker	influences	James_Heckman
+Gary_Becker	influences	James_Heckman
+Gary_Becker	influences	James_Heckman
+Gary_Becker	graduatedFrom	University_of_Chicago
+Gary_Becker	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	influences	James_Heckman
+Gary_Becker	influences	James_Heckman
+James_Heckman	graduatedFrom	University_of_Chicago
+James_Heckman	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	influences	James_Heckman
+Gary_Becker	influences	James_Heckman
+James_Heckman	influences	Carolyn_Heinrich
+James_Heckman	influences	Carolyn_Heinrich
+Carolyn_Heinrich	graduatedFrom	University_of_Chicago
+Carolyn_Heinrich	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	influences	Iván_Werning
+Gary_Becker	influences	Iván_Werning
+Iván_Werning	graduatedFrom	University_of_Chicago
+Iván_Werning	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	influences	Iván_Werning
+Gary_Becker	influences	Iván_Werning
+Gary_Becker	influences	Iván_Werning
+Gary_Becker	influences	Iván_Werning
+Gary_Becker	graduatedFrom	University_of_Chicago
+Gary_Becker	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	influences	Steven_Levitt
+Gary_Becker	influences	Steven_Levitt
+Gary_Becker	influences	Steven_Levitt
+Gary_Becker	influences	Steven_Levitt
+Gary_Becker	graduatedFrom	University_of_Chicago
+Gary_Becker	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	influences	Steven_Levitt
+Gary_Becker	influences	Steven_Levitt
+James_Heckman	influences	Steven_Levitt
+James_Heckman	influences	Steven_Levitt
+James_Heckman	graduatedFrom	University_of_Chicago
+James_Heckman	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	influences	John_A._List
+Gary_Becker	influences	John_A._List
+Gary_Becker	influences	John_A._List
+Gary_Becker	influences	John_A._List
+Gary_Becker	graduatedFrom	University_of_Chicago
+Gary_Becker	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Jacob_Mincer	influences	Gary_Becker
+Jacob_Mincer	influences	Gary_Becker
+Jacob_Mincer	influences	Gary_Becker
+Jacob_Mincer	influences	Gary_Becker
+Gary_Becker	graduatedFrom	University_of_Chicago
+Gary_Becker	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Jacob_Mincer	influences	Gary_Becker
+Jacob_Mincer	influences	Gary_Becker
+H._Gregg_Lewis	influences	Jacob_Mincer
+H._Gregg_Lewis	influences	Jacob_Mincer
+H._Gregg_Lewis	graduatedFrom	University_of_Chicago
+H._Gregg_Lewis	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Jacob_Mincer	influences	Gary_Becker
+Jacob_Mincer	influences	Gary_Becker
+Jacob_Mincer	influences	James_Heckman
+Jacob_Mincer	influences	James_Heckman
+James_Heckman	graduatedFrom	University_of_Chicago
+James_Heckman	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	influences	Peter_Leeson
+Gary_Becker	influences	Peter_Leeson
+Gordon_Tullock	influences	Peter_Leeson
+Gordon_Tullock	influences	Peter_Leeson
+Gordon_Tullock	graduatedFrom	University_of_Chicago
+Gordon_Tullock	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	influences	Peter_Leeson
+Gary_Becker	influences	Peter_Leeson
+Gary_Becker	influences	Peter_Leeson
+Gary_Becker	influences	Peter_Leeson
+Gary_Becker	graduatedFrom	University_of_Chicago
+Gary_Becker	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Theodore_Schultz	influences	Gary_Becker
+Theodore_Schultz	influences	Gary_Becker
+Theodore_Schultz	influences	Gary_Becker
+Theodore_Schultz	influences	Gary_Becker
+Gary_Becker	graduatedFrom	University_of_Chicago
+Gary_Becker	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Theodore_Schultz	influences	Gary_Becker
+Theodore_Schultz	influences	Gary_Becker
+Theodore_Schultz	graduatedFrom	University_of_Chicago
+Theodore_Schultz	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	influences	Russ_Roberts
+Gary_Becker	influences	Russ_Roberts
+Russ_Roberts	graduatedFrom	University_of_Chicago
+Russ_Roberts	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	influences	Russ_Roberts
+Gary_Becker	influences	Russ_Roberts
+Gary_Becker	influences	Russ_Roberts
+Gary_Becker	influences	Russ_Roberts
+Gary_Becker	graduatedFrom	University_of_Chicago
+Gary_Becker	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Henry_George	influences	Gary_Becker
+Henry_George	influences	Gary_Becker
+Henry_George	influences	Herbert_A._Simon
+Henry_George	influences	Herbert_A._Simon
+Herbert_A._Simon	graduatedFrom	University_of_Chicago
+Herbert_A._Simon	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Henry_George	influences	Gary_Becker
+Henry_George	influences	Gary_Becker
+Henry_George	influences	Gary_Becker
+Henry_George	influences	Gary_Becker
+Gary_Becker	graduatedFrom	University_of_Chicago
+Gary_Becker	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	graduatedFrom	University_of_Chicago
+Gary_Becker	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Milton_Friedman	influences	Gary_Becker
+Milton_Friedman	influences	Gary_Becker
+Milton_Friedman	influences	Scott_Sumner
+Milton_Friedman	influences	Scott_Sumner
+Scott_Sumner	graduatedFrom	University_of_Chicago
+Scott_Sumner	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	influences	David_O._Meltzer
+Gary_Becker	influences	David_O._Meltzer
+Gary_Becker	influences	David_O._Meltzer
+Gary_Becker	influences	David_O._Meltzer
+Gary_Becker	graduatedFrom	University_of_Chicago
+Gary_Becker	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	influences	David_O._Meltzer
+Gary_Becker	influences	David_O._Meltzer
+David_O._Meltzer	graduatedFrom	University_of_Chicago
+David_O._Meltzer	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	wasBornIn	Pottsville,_Pennsylvania
+Gary_Becker	wasBornIn	Pottsville,_Pennsylvania
+Gary_Becker	wasBornIn	Pottsville,_Pennsylvania
+Gary_Becker	wasBornIn	Pottsville,_Pennsylvania
+Gary_Becker	graduatedFrom	University_of_Chicago
+Gary_Becker	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	graduatedFrom	Princeton_University
+Gary_Becker	graduatedFrom	Princeton_University
+Charles_Wheelan	graduatedFrom	Princeton_University
+Charles_Wheelan	graduatedFrom	Princeton_University
+Charles_Wheelan	graduatedFrom	University_of_Chicago
+Charles_Wheelan	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	graduatedFrom	Princeton_University
+Gary_Becker	graduatedFrom	Princeton_University
+James_Heckman	graduatedFrom	Princeton_University
+James_Heckman	graduatedFrom	Princeton_University
+James_Heckman	graduatedFrom	University_of_Chicago
+James_Heckman	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	graduatedFrom	Princeton_University
+Gary_Becker	graduatedFrom	Princeton_University
+Clinton_Davisson	worksAt	Princeton_University
+Clinton_Davisson	worksAt	Princeton_University
+Clinton_Davisson	graduatedFrom	University_of_Chicago
+Clinton_Davisson	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Gary_Becker	graduatedFrom	Princeton_University
+Gary_Becker	graduatedFrom	Princeton_University
+Sam_Treiman	worksAt	Princeton_University
+Sam_Treiman	worksAt	Princeton_University
+Sam_Treiman	graduatedFrom	University_of_Chicago
+Sam_Treiman	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Gary_Becker	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Gary_Becker	University_of_Chicago
+Alfred_Marshall	influences	Gary_Becker
+Alfred_Marshall	influences	Gary_Becker
+Alfred_Marshall	influences	Gary_Becker
+Alfred_Marshall	influences	Gary_Becker
+Gary_Becker	graduatedFrom	University_of_Chicago
+Gary_Becker	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Nicholas_C._Yannelis	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Illinois_at_Urbana–Champaign
+Nicholas_C._Yannelis	University_of_Illinois_at_Urbana–Champaign
+Nicholas_C._Yannelis	graduatedFrom	University_of_Rochester
+Nicholas_C._Yannelis	graduatedFrom	University_of_Rochester
+Jerome_Lettvin	worksAt	University_of_Rochester
+Jerome_Lettvin	worksAt	University_of_Rochester
+Jerome_Lettvin	graduatedFrom	University_of_Illinois_at_Urbana–Champaign
+Jerome_Lettvin	graduatedFrom	University_of_Illinois_at_Urbana–Champaign
+
+http://dbpedia.org/resource/Attilio_Celant	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/Sapienza_University_of_Rome
+Attilio_Celant	Sapienza_University_of_Rome
+Federico_Caffè	influences	Attilio_Celant
+Federico_Caffè	influences	Attilio_Celant
+Federico_Caffè	influences	Nicola_Acocella
+Federico_Caffè	influences	Nicola_Acocella
+Nicola_Acocella	graduatedFrom	Sapienza_University_of_Rome
+Nicola_Acocella	graduatedFrom	Sapienza_University_of_Rome
+
+http://dbpedia.org/resource/Attilio_Celant	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/Sapienza_University_of_Rome
+Attilio_Celant	Sapienza_University_of_Rome
+Federico_Caffè	influences	Attilio_Celant
+Federico_Caffè	influences	Attilio_Celant
+Federico_Caffè	influences	Attilio_Celant
+Federico_Caffè	influences	Attilio_Celant
+Attilio_Celant	graduatedFrom	Sapienza_University_of_Rome
+Attilio_Celant	graduatedFrom	Sapienza_University_of_Rome
+
+http://dbpedia.org/resource/Attilio_Celant	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/Sapienza_University_of_Rome
+Attilio_Celant	Sapienza_University_of_Rome
+Amartya_Sen	influences	Attilio_Celant
+Amartya_Sen	influences	Attilio_Celant
+Amartya_Sen	influences	Attilio_Celant
+Amartya_Sen	influences	Attilio_Celant
+Attilio_Celant	graduatedFrom	Sapienza_University_of_Rome
+Attilio_Celant	graduatedFrom	Sapienza_University_of_Rome
+
+http://dbpedia.org/resource/Attilio_Celant	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/Sapienza_University_of_Rome
+Attilio_Celant	Sapienza_University_of_Rome
+Gunnar_Myrdal	influences	Attilio_Celant
+Gunnar_Myrdal	influences	Attilio_Celant
+Gunnar_Myrdal	influences	Attilio_Celant
+Gunnar_Myrdal	influences	Attilio_Celant
+Attilio_Celant	graduatedFrom	Sapienza_University_of_Rome
+Attilio_Celant	graduatedFrom	Sapienza_University_of_Rome
+
+http://dbpedia.org/resource/Attilio_Celant	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/Sapienza_University_of_Rome
+Attilio_Celant	Sapienza_University_of_Rome
+Alfred_Marshall	influences	Attilio_Celant
+Alfred_Marshall	influences	Attilio_Celant
+Alfred_Marshall	influences	Attilio_Celant
+Alfred_Marshall	influences	Attilio_Celant
+Attilio_Celant	graduatedFrom	Sapienza_University_of_Rome
+Attilio_Celant	graduatedFrom	Sapienza_University_of_Rome
+
+http://dbpedia.org/resource/Attilio_Celant	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/Sapienza_University_of_Rome
+Attilio_Celant	Sapienza_University_of_Rome
+Attilio_Celant	graduatedFrom	Sapienza_University_of_Rome
+Attilio_Celant	graduatedFrom	Sapienza_University_of_Rome
+
+http://dbpedia.org/resource/Ragnar_Nurkse	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Geneva
+Ragnar_Nurkse	University_of_Geneva
+Ragnar_Nurkse	graduatedFrom	University_of_Geneva
+Ragnar_Nurkse	graduatedFrom	University_of_Geneva
+
+http://dbpedia.org/resource/Ragnar_Nurkse	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Geneva
+Ragnar_Nurkse	University_of_Geneva
+Ragnar_Nurkse	influences	Erik_S._Reinert
+Ragnar_Nurkse	influences	Erik_S._Reinert
+Ragnar_Nurkse	influences	Erik_S._Reinert
+Ragnar_Nurkse	influences	Erik_S._Reinert
+Ragnar_Nurkse	graduatedFrom	University_of_Geneva
+Ragnar_Nurkse	graduatedFrom	University_of_Geneva
+
+http://dbpedia.org/resource/Ragnar_Nurkse	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Geneva
+Ragnar_Nurkse	University_of_Geneva
+Ragnar_Nurkse	diedIn	Lake_Geneva
+Ragnar_Nurkse	diedIn	Lake_Geneva
+Ragnar_Nurkse	diedIn	Lake_Geneva
+Ragnar_Nurkse	diedIn	Lake_Geneva
+Ragnar_Nurkse	graduatedFrom	University_of_Geneva
+Ragnar_Nurkse	graduatedFrom	University_of_Geneva
+
+http://dbpedia.org/resource/Ragnar_Nurkse	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Geneva
+Ragnar_Nurkse	University_of_Geneva
+Ragnar_Nurkse	wasBornIn	Käru
+Ragnar_Nurkse	wasBornIn	Käru
+Ragnar_Nurkse	wasBornIn	Käru
+Ragnar_Nurkse	wasBornIn	Käru
+Ragnar_Nurkse	graduatedFrom	University_of_Geneva
+Ragnar_Nurkse	graduatedFrom	University_of_Geneva
+
+http://dbpedia.org/resource/Ragnar_Nurkse	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Geneva
+Ragnar_Nurkse	University_of_Geneva
+Ragnar_Nurkse	graduatedFrom	University_of_Tartu
+Ragnar_Nurkse	graduatedFrom	University_of_Tartu
+Ragnar_Nurkse	graduatedFrom	University_of_Tartu
+Ragnar_Nurkse	graduatedFrom	University_of_Tartu
+Ragnar_Nurkse	graduatedFrom	University_of_Geneva
+Ragnar_Nurkse	graduatedFrom	University_of_Geneva
+
+http://dbpedia.org/resource/José_Scheinkman	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+José_Scheinkman	University_of_Chicago
+Paul_Romer	hasAcademicAdvisor	José_Scheinkman
+Paul_Romer	hasAcademicAdvisor	José_Scheinkman
+Paul_Romer	graduatedFrom	University_of_Chicago
+Paul_Romer	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/José_Scheinkman	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+José_Scheinkman	University_of_Chicago
+José_Scheinkman	influences	Edward_Glaeser
+José_Scheinkman	influences	Edward_Glaeser
+Gary_Becker	influences	Edward_Glaeser
+Gary_Becker	influences	Edward_Glaeser
+Gary_Becker	graduatedFrom	University_of_Chicago
+Gary_Becker	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/José_Scheinkman	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+José_Scheinkman	University_of_Chicago
+José_Scheinkman	influences	Edward_Glaeser
+José_Scheinkman	influences	Edward_Glaeser
+Edward_Glaeser	graduatedFrom	University_of_Chicago
+Edward_Glaeser	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Roger_Myerson	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Roger_Myerson	University_of_Chicago
+Roger_Myerson	graduatedFrom	University_of_Chicago
+Roger_Myerson	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Roger_Myerson	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Roger_Myerson	University_of_Chicago
+Roger_Myerson	graduatedFrom	Harvard_University
+Roger_Myerson	graduatedFrom	Harvard_University
+Saunders_Mac_Lane	worksAt	Harvard_University
+Saunders_Mac_Lane	worksAt	Harvard_University
+Saunders_Mac_Lane	graduatedFrom	University_of_Chicago
+Saunders_Mac_Lane	worksAt	University_of_Chicago
+Saunders_Mac_Lane	graduatedFrom	University_of_Chicago
+Saunders_Mac_Lane	worksAt	University_of_Chicago
+
+http://dbpedia.org/resource/Roger_Myerson	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Roger_Myerson	University_of_Chicago
+Roger_Myerson	graduatedFrom	Harvard_University
+Roger_Myerson	graduatedFrom	Harvard_University
+Dennis_Gaitsgory	worksAt	Harvard_University
+Dennis_Gaitsgory	worksAt	Harvard_University
+Dennis_Gaitsgory	worksAt	University_of_Chicago
+Dennis_Gaitsgory	worksAt	University_of_Chicago
+
+http://dbpedia.org/resource/Roger_Myerson	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Roger_Myerson	University_of_Chicago
+Roger_Myerson	graduatedFrom	Harvard_University
+Roger_Myerson	graduatedFrom	Harvard_University
+Thorkild_Jacobsen	worksAt	Harvard_University
+Thorkild_Jacobsen	worksAt	Harvard_University
+Thorkild_Jacobsen	graduatedFrom	University_of_Chicago
+Thorkild_Jacobsen	worksAt	University_of_Chicago
+Thorkild_Jacobsen	graduatedFrom	University_of_Chicago
+Thorkild_Jacobsen	worksAt	University_of_Chicago
+
+http://dbpedia.org/resource/Roger_Myerson	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Roger_Myerson	University_of_Chicago
+Roger_Myerson	graduatedFrom	Northwestern_University
+Roger_Myerson	graduatedFrom	Northwestern_University
+Bernice_Neugarten	worksAt	Northwestern_University
+Bernice_Neugarten	worksAt	Northwestern_University
+Bernice_Neugarten	graduatedFrom	University_of_Chicago
+Bernice_Neugarten	worksAt	University_of_Chicago
+Bernice_Neugarten	graduatedFrom	University_of_Chicago
+Bernice_Neugarten	worksAt	University_of_Chicago
+
+http://dbpedia.org/resource/Roger_Myerson	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Roger_Myerson	University_of_Chicago
+Roger_Myerson	graduatedFrom	Northwestern_University
+Roger_Myerson	graduatedFrom	Northwestern_University
+Judith_D._Sally	worksAt	Northwestern_University
+Judith_D._Sally	worksAt	Northwestern_University
+Judith_D._Sally	graduatedFrom	University_of_Chicago
+Judith_D._Sally	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Roger_Myerson	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Roger_Myerson	University_of_Chicago
+Scott_E._Page	hasAcademicAdvisor	Roger_Myerson
+Scott_E._Page	hasAcademicAdvisor	Roger_Myerson
+Scott_E._Page	hasAcademicAdvisor	Roger_Myerson
+Scott_E._Page	hasAcademicAdvisor	Roger_Myerson
+Roger_Myerson	graduatedFrom	University_of_Chicago
+Roger_Myerson	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Steven_N._S._Cheung	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Steven_N._S._Cheung	University_of_Chicago
+Adam_Smith	influences	Steven_N._S._Cheung
+Adam_Smith	influences	Steven_N._S._Cheung
+Adam_Smith	influences	Martha_Nussbaum
+Adam_Smith	influences	Martha_Nussbaum
+Martha_Nussbaum	graduatedFrom	University_of_Chicago
+Martha_Nussbaum	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Steven_N._S._Cheung	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Steven_N._S._Cheung	University_of_Chicago
+Ronald_Coase	influences	Steven_N._S._Cheung
+Ronald_Coase	influences	Steven_N._S._Cheung
+Ronald_Coase	graduatedFrom	University_of_Chicago
+Ronald_Coase	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Steven_N._S._Cheung	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Steven_N._S._Cheung	University_of_Chicago
+Aaron_Director	influences	Steven_N._S._Cheung
+Aaron_Director	influences	Steven_N._S._Cheung
+Ronald_Coase	influences	Aaron_Director
+Ronald_Coase	influences	Aaron_Director
+Ronald_Coase	graduatedFrom	University_of_Chicago
+Ronald_Coase	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Steven_N._S._Cheung	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Steven_N._S._Cheung	University_of_Chicago
+Milton_Friedman	influences	Steven_N._S._Cheung
+Milton_Friedman	influences	Steven_N._S._Cheung
+Milton_Friedman	influences	Scott_Sumner
+Milton_Friedman	influences	Scott_Sumner
+Scott_Sumner	graduatedFrom	University_of_Chicago
+Scott_Sumner	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/James_Hardy_(surgeon)	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Mississippi
+James_Hardy_(surgeon)	University_of_Mississippi
+Isaac_Starr	influences	James_Hardy_(surgeon)
+Isaac_Starr	influences	James_Hardy_(surgeon)
+Isaac_Starr	influences	James_Hardy_(surgeon)
+Isaac_Starr	influences	James_Hardy_(surgeon)
+James_Hardy_(surgeon)	worksAt	University_of_Mississippi
+James_Hardy_(surgeon)	worksAt	University_of_Mississippi
+
+http://dbpedia.org/resource/James_Hardy_(surgeon)	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Mississippi
+James_Hardy_(surgeon)	University_of_Mississippi
+James_Hardy_(surgeon)	worksAt	University_of_Mississippi
+James_Hardy_(surgeon)	worksAt	University_of_Mississippi
+
+http://dbpedia.org/resource/James_Hardy_(surgeon)	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Mississippi
+James_Hardy_(surgeon)	University_of_Mississippi
+James_Hardy_(surgeon)	worksAt	University_of_Tennessee_Health_Science_Center
+James_Hardy_(surgeon)	worksAt	University_of_Tennessee_Health_Science_Center
+Deborah_Ferguson	graduatedFrom	University_of_Tennessee_Health_Science_Center
+Deborah_Ferguson	graduatedFrom	University_of_Tennessee_Health_Science_Center
+Deborah_Ferguson	graduatedFrom	University_of_Mississippi
+Deborah_Ferguson	graduatedFrom	University_of_Mississippi
+
+http://dbpedia.org/resource/James_Hardy_(surgeon)	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Mississippi
+James_Hardy_(surgeon)	University_of_Mississippi
+James_Hardy_(surgeon)	worksAt	University_of_Tennessee_Health_Science_Center
+James_Hardy_(surgeon)	worksAt	University_of_Tennessee_Health_Science_Center
+James_Hardy_(surgeon)	worksAt	University_of_Tennessee_Health_Science_Center
+James_Hardy_(surgeon)	worksAt	University_of_Tennessee_Health_Science_Center
+James_Hardy_(surgeon)	worksAt	University_of_Mississippi
+James_Hardy_(surgeon)	worksAt	University_of_Mississippi
+
+http://dbpedia.org/resource/Milton_Friedman	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Milton_Friedman	University_of_Chicago
+Milton_Friedman	diedIn	San_Francisco
+Milton_Friedman	diedIn	San_Francisco
+Clifford_Geertz	wasBornIn	San_Francisco
+Clifford_Geertz	wasBornIn	San_Francisco
+Clifford_Geertz	worksAt	University_of_Chicago
+Clifford_Geertz	worksAt	University_of_Chicago
+
+http://dbpedia.org/resource/Milton_Friedman	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Milton_Friedman	University_of_Chicago
+Milton_Friedman	diedIn	San_Francisco
+Milton_Friedman	diedIn	San_Francisco
+Luis_Walter_Alvarez	wasBornIn	San_Francisco
+Luis_Walter_Alvarez	wasBornIn	San_Francisco
+Luis_Walter_Alvarez	graduatedFrom	University_of_Chicago
+Luis_Walter_Alvarez	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Milton_Friedman	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Milton_Friedman	University_of_Chicago
+Milton_Friedman	influences	Steven_N._S._Cheung
+Milton_Friedman	influences	Steven_N._S._Cheung
+Ronald_Coase	influences	Steven_N._S._Cheung
+Ronald_Coase	influences	Steven_N._S._Cheung
+Ronald_Coase	graduatedFrom	University_of_Chicago
+Ronald_Coase	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Milton_Friedman	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Milton_Friedman	University_of_Chicago
+Milton_Friedman	influences	Scott_Sumner
+Milton_Friedman	influences	Scott_Sumner
+Scott_Sumner	graduatedFrom	University_of_Chicago
+Scott_Sumner	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Oliver_E._Williamson	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Pennsylvania
+Oliver_E._Williamson	University_of_Pennsylvania
+Oliver_E._Williamson	graduatedFrom	Yale_University
+Oliver_E._Williamson	graduatedFrom	Yale_University
+Susan_Nolen-Hoeksema	graduatedFrom	Yale_University
+Susan_Nolen-Hoeksema	worksAt	Yale_University
+Susan_Nolen-Hoeksema	graduatedFrom	Yale_University
+Susan_Nolen-Hoeksema	worksAt	Yale_University
+Susan_Nolen-Hoeksema	graduatedFrom	University_of_Pennsylvania
+Susan_Nolen-Hoeksema	graduatedFrom	University_of_Pennsylvania
+
+http://dbpedia.org/resource/John_Bates_Clark	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/Carleton_College
+John_Bates_Clark	Carleton_College
+John_Bates_Clark	influences	Thorstein_Veblen
+John_Bates_Clark	influences	Thorstein_Veblen
+Thorstein_Veblen	graduatedFrom	Carleton_College
+Thorstein_Veblen	graduatedFrom	Carleton_College
+
+http://dbpedia.org/resource/David_O._Meltzer	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+David_O._Meltzer	University_of_Chicago
+Gary_Becker	influences	David_O._Meltzer
+Gary_Becker	influences	David_O._Meltzer
+Gary_Becker	hasAcademicAdvisor	H._Gregg_Lewis
+Gary_Becker	hasAcademicAdvisor	H._Gregg_Lewis
+H._Gregg_Lewis	graduatedFrom	University_of_Chicago
+H._Gregg_Lewis	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/David_O._Meltzer	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+David_O._Meltzer	University_of_Chicago
+Gary_Becker	influences	David_O._Meltzer
+Gary_Becker	influences	David_O._Meltzer
+Gary_Becker	influences	Edward_Glaeser
+Gary_Becker	influences	Edward_Glaeser
+Edward_Glaeser	graduatedFrom	University_of_Chicago
+Edward_Glaeser	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/David_O._Meltzer	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+David_O._Meltzer	University_of_Chicago
+Gary_Becker	influences	David_O._Meltzer
+Gary_Becker	influences	David_O._Meltzer
+Gary_Becker	influences	James_Heckman
+Gary_Becker	influences	James_Heckman
+James_Heckman	graduatedFrom	University_of_Chicago
+James_Heckman	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/David_O._Meltzer	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+David_O._Meltzer	University_of_Chicago
+Gary_Becker	influences	David_O._Meltzer
+Gary_Becker	influences	David_O._Meltzer
+Gary_Becker	influences	Iván_Werning
+Gary_Becker	influences	Iván_Werning
+Iván_Werning	graduatedFrom	University_of_Chicago
+Iván_Werning	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/David_O._Meltzer	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+David_O._Meltzer	University_of_Chicago
+Gary_Becker	influences	David_O._Meltzer
+Gary_Becker	influences	David_O._Meltzer
+Theodore_Schultz	influences	Gary_Becker
+Theodore_Schultz	influences	Gary_Becker
+Theodore_Schultz	graduatedFrom	University_of_Chicago
+Theodore_Schultz	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/David_O._Meltzer	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+David_O._Meltzer	University_of_Chicago
+Gary_Becker	influences	David_O._Meltzer
+Gary_Becker	influences	David_O._Meltzer
+Gary_Becker	influences	Russ_Roberts
+Gary_Becker	influences	Russ_Roberts
+Russ_Roberts	graduatedFrom	University_of_Chicago
+Russ_Roberts	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/David_O._Meltzer	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+David_O._Meltzer	University_of_Chicago
+Gary_Becker	influences	David_O._Meltzer
+Gary_Becker	influences	David_O._Meltzer
+Gary_Becker	graduatedFrom	University_of_Chicago
+Gary_Becker	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/David_O._Meltzer	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+David_O._Meltzer	University_of_Chicago
+Gary_Becker	influences	David_O._Meltzer
+Gary_Becker	influences	David_O._Meltzer
+Gary_Becker	influences	David_O._Meltzer
+Gary_Becker	influences	David_O._Meltzer
+David_O._Meltzer	graduatedFrom	University_of_Chicago
+David_O._Meltzer	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/David_O._Meltzer	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+David_O._Meltzer	University_of_Chicago
+David_O._Meltzer	graduatedFrom	Yale_University
+David_O._Meltzer	graduatedFrom	Yale_University
+Leonard_Bloomfield	worksAt	Yale_University
+Leonard_Bloomfield	worksAt	Yale_University
+Leonard_Bloomfield	graduatedFrom	University_of_Chicago
+Leonard_Bloomfield	worksAt	University_of_Chicago
+Leonard_Bloomfield	graduatedFrom	University_of_Chicago
+Leonard_Bloomfield	worksAt	University_of_Chicago
+
+http://dbpedia.org/resource/David_O._Meltzer	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+David_O._Meltzer	University_of_Chicago
+David_O._Meltzer	graduatedFrom	Yale_University
+David_O._Meltzer	graduatedFrom	Yale_University
+Gabriel_Almond	worksAt	Yale_University
+Gabriel_Almond	worksAt	Yale_University
+Gabriel_Almond	graduatedFrom	University_of_Chicago
+Gabriel_Almond	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/David_O._Meltzer	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+David_O._Meltzer	University_of_Chicago
+Sherwin_Rosen	influences	David_O._Meltzer
+Sherwin_Rosen	influences	David_O._Meltzer
+Sherwin_Rosen	hasAcademicAdvisor	H._Gregg_Lewis
+Sherwin_Rosen	hasAcademicAdvisor	H._Gregg_Lewis
+H._Gregg_Lewis	graduatedFrom	University_of_Chicago
+H._Gregg_Lewis	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/David_O._Meltzer	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+David_O._Meltzer	University_of_Chicago
+Sherwin_Rosen	influences	David_O._Meltzer
+Sherwin_Rosen	influences	David_O._Meltzer
+Sherwin_Rosen	influences	David_O._Meltzer
+Sherwin_Rosen	influences	David_O._Meltzer
+David_O._Meltzer	graduatedFrom	University_of_Chicago
+David_O._Meltzer	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/David_O._Meltzer	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+David_O._Meltzer	University_of_Chicago
+Sherwin_Rosen	influences	David_O._Meltzer
+Sherwin_Rosen	influences	David_O._Meltzer
+Justin_Yifu_Lin	hasAcademicAdvisor	Sherwin_Rosen
+Justin_Yifu_Lin	hasAcademicAdvisor	Sherwin_Rosen
+Justin_Yifu_Lin	graduatedFrom	University_of_Chicago
+Justin_Yifu_Lin	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/David_O._Meltzer	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+David_O._Meltzer	University_of_Chicago
+David_O._Meltzer	graduatedFrom	University_of_Chicago
+David_O._Meltzer	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Joseph_Schumpeter	influences	Ronald_Coase
+Joseph_Schumpeter	influences	Ronald_Coase
+Joseph_Schumpeter	influences	David_Rockefeller
+Joseph_Schumpeter	influences	David_Rockefeller
+David_Rockefeller	graduatedFrom	University_of_Chicago
+David_Rockefeller	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	graduatedFrom	University_of_Chicago
+Ronald_Coase	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	influences	Harold_Demsetz
+Ronald_Coase	influences	Harold_Demsetz
+Ronald_Coase	influences	Harold_Demsetz
+Ronald_Coase	influences	Harold_Demsetz
+Ronald_Coase	graduatedFrom	University_of_Chicago
+Ronald_Coase	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	influences	Oliver_E._Williamson
+Ronald_Coase	influences	Oliver_E._Williamson
+Ronald_Coase	influences	Oliver_E._Williamson
+Ronald_Coase	influences	Oliver_E._Williamson
+Ronald_Coase	graduatedFrom	University_of_Chicago
+Ronald_Coase	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	graduatedFrom	University_of_Virginia
+Ronald_Coase	graduatedFrom	University_of_Virginia
+Alvin_C._Graves	graduatedFrom	University_of_Virginia
+Alvin_C._Graves	graduatedFrom	University_of_Virginia
+Alvin_C._Graves	worksAt	University_of_Chicago
+Alvin_C._Graves	graduatedFrom	University_of_Chicago
+Alvin_C._Graves	worksAt	University_of_Chicago
+Alvin_C._Graves	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	graduatedFrom	University_of_Virginia
+Ronald_Coase	graduatedFrom	University_of_Virginia
+James_M._Buchanan	graduatedFrom	University_of_Virginia
+James_M._Buchanan	graduatedFrom	University_of_Virginia
+James_M._Buchanan	graduatedFrom	University_of_Chicago
+James_M._Buchanan	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	diedIn	Chicago
+Ronald_Coase	diedIn	Chicago
+Ugo_Fano	diedIn	Chicago
+Ugo_Fano	diedIn	Chicago
+Ugo_Fano	worksAt	University_of_Chicago
+Ugo_Fano	worksAt	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	diedIn	Chicago
+Ronald_Coase	diedIn	Chicago
+Gilbert_Ames_Bliss	wasBornIn	Chicago
+Gilbert_Ames_Bliss	wasBornIn	Chicago
+Gilbert_Ames_Bliss	worksAt	University_of_Chicago
+Gilbert_Ames_Bliss	graduatedFrom	University_of_Chicago
+Gilbert_Ames_Bliss	worksAt	University_of_Chicago
+Gilbert_Ames_Bliss	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	diedIn	Chicago
+Ronald_Coase	diedIn	Chicago
+Bernice_Neugarten	diedIn	Chicago
+Bernice_Neugarten	diedIn	Chicago
+Bernice_Neugarten	graduatedFrom	University_of_Chicago
+Bernice_Neugarten	worksAt	University_of_Chicago
+Bernice_Neugarten	graduatedFrom	University_of_Chicago
+Bernice_Neugarten	worksAt	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	diedIn	Chicago
+Ronald_Coase	diedIn	Chicago
+Henry_Chandler_Cowles	diedIn	Chicago
+Henry_Chandler_Cowles	diedIn	Chicago
+Henry_Chandler_Cowles	graduatedFrom	University_of_Chicago
+Henry_Chandler_Cowles	worksAt	University_of_Chicago
+Henry_Chandler_Cowles	graduatedFrom	University_of_Chicago
+Henry_Chandler_Cowles	worksAt	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	diedIn	Chicago
+Ronald_Coase	diedIn	Chicago
+Lyle_Benjamin_Borst	wasBornIn	Chicago
+Lyle_Benjamin_Borst	wasBornIn	Chicago
+Lyle_Benjamin_Borst	graduatedFrom	University_of_Chicago
+Lyle_Benjamin_Borst	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	diedIn	Chicago
+Ronald_Coase	diedIn	Chicago
+Benjamin_Bloom	diedIn	Chicago
+Benjamin_Bloom	diedIn	Chicago
+Benjamin_Bloom	graduatedFrom	University_of_Chicago
+Benjamin_Bloom	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	diedIn	Chicago
+Ronald_Coase	diedIn	Chicago
+Joseph_Logsdon	wasBornIn	Chicago
+Joseph_Logsdon	wasBornIn	Chicago
+Joseph_Logsdon	graduatedFrom	University_of_Chicago
+Joseph_Logsdon	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	diedIn	Chicago
+Ronald_Coase	diedIn	Chicago
+Stephen_Polyak	diedIn	Chicago
+Stephen_Polyak	diedIn	Chicago
+Stephen_Polyak	worksAt	University_of_Chicago
+Stephen_Polyak	worksAt	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	diedIn	Chicago
+Ronald_Coase	diedIn	Chicago
+Bruce_Lincoln	livesIn	Chicago
+Bruce_Lincoln	livesIn	Chicago
+Bruce_Lincoln	worksAt	University_of_Chicago
+Bruce_Lincoln	graduatedFrom	University_of_Chicago
+Bruce_Lincoln	worksAt	University_of_Chicago
+Bruce_Lincoln	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	influences	Paul_Joskow
+Ronald_Coase	influences	Paul_Joskow
+Ronald_Coase	influences	Paul_Joskow
+Ronald_Coase	influences	Paul_Joskow
+Ronald_Coase	graduatedFrom	University_of_Chicago
+Ronald_Coase	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	influences	Peter_Boettke
+Ronald_Coase	influences	Peter_Boettke
+Ronald_Coase	influences	Peter_Boettke
+Ronald_Coase	influences	Peter_Boettke
+Ronald_Coase	graduatedFrom	University_of_Chicago
+Ronald_Coase	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	influences	Peter_Boettke
+Ronald_Coase	influences	Peter_Boettke
+James_M._Buchanan	influences	Peter_Boettke
+James_M._Buchanan	influences	Peter_Boettke
+James_M._Buchanan	graduatedFrom	University_of_Chicago
+James_M._Buchanan	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	influences	Steven_N._S._Cheung
+Ronald_Coase	influences	Steven_N._S._Cheung
+Ronald_Coase	influences	Steven_N._S._Cheung
+Ronald_Coase	influences	Steven_N._S._Cheung
+Ronald_Coase	graduatedFrom	University_of_Chicago
+Ronald_Coase	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Arnold_Plant	influences	Ronald_Coase
+Arnold_Plant	influences	Ronald_Coase
+Arnold_Plant	influences	Ronald_Coase
+Arnold_Plant	influences	Ronald_Coase
+Ronald_Coase	graduatedFrom	University_of_Chicago
+Ronald_Coase	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+Robert_Rosen_(theoretical_biologist)	worksAt	University_at_Buffalo
+Robert_Rosen_(theoretical_biologist)	worksAt	University_at_Buffalo
+Robert_Rosen_(theoretical_biologist)	graduatedFrom	University_of_Chicago
+Robert_Rosen_(theoretical_biologist)	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+Ronald_Coase	graduatedFrom	University_at_Buffalo
+Ronald_Coase	graduatedFrom	University_of_Chicago
+Ronald_Coase	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	influences	Steve_Hanke
+Ronald_Coase	influences	Steve_Hanke
+Robert_Mundell	influences	Steve_Hanke
+Robert_Mundell	influences	Steve_Hanke
+Robert_Mundell	graduatedFrom	University_of_Chicago
+Robert_Mundell	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	influences	Steve_Hanke
+Ronald_Coase	influences	Steve_Hanke
+Ronald_Coase	influences	Steve_Hanke
+Ronald_Coase	influences	Steve_Hanke
+Ronald_Coase	graduatedFrom	University_of_Chicago
+Ronald_Coase	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Ronald_Coase	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/University_of_Chicago
+Ronald_Coase	University_of_Chicago
+Ronald_Coase	influences	Aaron_Director
+Ronald_Coase	influences	Aaron_Director
+Ronald_Coase	influences	Aaron_Director
+Ronald_Coase	influences	Aaron_Director
+Ronald_Coase	graduatedFrom	University_of_Chicago
+Ronald_Coase	graduatedFrom	University_of_Chicago
+

@@ -1,0 +1,2635 @@
+http://dbpedia.org/resource/Ruth_Hanna_McCormick	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Bazy_Tankersley
+Ruth_Hanna_McCormick	Bazy_Tankersley
+Joseph_M._McCormick	isMarriedTo	Ruth_Hanna_McCormick
+Ruth_Hanna_McCormick	isMarriedTo	Joseph_M._McCormick
+Joseph_M._McCormick	isMarriedTo	Ruth_Hanna_McCormick
+Ruth_Hanna_McCormick	isMarriedTo	Joseph_M._McCormick
+Joseph_M._McCormick	isMarriedTo	Ruth_Hanna_McCormick
+Ruth_Hanna_McCormick	isMarriedTo	Joseph_M._McCormick
+Joseph_M._McCormick	isMarriedTo	Ruth_Hanna_McCormick
+Ruth_Hanna_McCormick	isMarriedTo	Joseph_M._McCormick
+Ruth_Hanna_McCormick	hasChild	Bazy_Tankersley
+Ruth_Hanna_McCormick	hasChild	Bazy_Tankersley
+
+http://dbpedia.org/resource/Ruth_Hanna_McCormick	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Bazy_Tankersley
+Ruth_Hanna_McCormick	Bazy_Tankersley
+Ruth_Hanna_McCormick	hasChild	Bazy_Tankersley
+Ruth_Hanna_McCormick	hasChild	Bazy_Tankersley
+
+http://dbpedia.org/resource/Robert_White_(West_Virginia_senator)	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/John_Baker_White_(West_Virginia_politician)
+Robert_White_(West_Virginia_senator)	John_Baker_White_(West_Virginia_politician)
+Robert_White_(West_Virginia_senator)	wasBornIn	Romney,_West_Virginia
+Robert_White_(West_Virginia_senator)	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+
+http://dbpedia.org/resource/Robert_White_(West_Virginia_senator)	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/John_Baker_White_(West_Virginia_politician)
+Robert_White_(West_Virginia_senator)	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+
+http://dbpedia.org/resource/Thomas_Hanford	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Joseph_Platt
+Thomas_Hanford	Joseph_Platt
+Thomas_Hanford	isMarriedTo	Joseph_Platt
+Thomas_Hanford	hasChild	Joseph_Platt
+Joseph_Platt	isMarriedTo	Thomas_Hanford
+Thomas_Hanford	isMarriedTo	Joseph_Platt
+Thomas_Hanford	hasChild	Joseph_Platt
+Joseph_Platt	isMarriedTo	Thomas_Hanford
+
+http://dbpedia.org/resource/Nate_Saint	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Steve_Saint
+Nate_Saint	Steve_Saint
+Nate_Saint	diedIn	Curaray_River
+Nate_Saint	diedIn	Curaray_River
+Nate_Saint	diedIn	Curaray_River
+Nate_Saint	diedIn	Curaray_River
+Nate_Saint	hasChild	Steve_Saint
+Nate_Saint	hasChild	Steve_Saint
+
+http://dbpedia.org/resource/Nate_Saint	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Steve_Saint
+Nate_Saint	Steve_Saint
+Nate_Saint	wasBornIn	Hershey,_Pennsylvania
+Nate_Saint	wasBornIn	Hershey,_Pennsylvania
+Nate_Saint	wasBornIn	Hershey,_Pennsylvania
+Nate_Saint	wasBornIn	Hershey,_Pennsylvania
+Nate_Saint	hasChild	Steve_Saint
+Nate_Saint	hasChild	Steve_Saint
+
+http://dbpedia.org/resource/Nate_Saint	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Steve_Saint
+Nate_Saint	Steve_Saint
+Nate_Saint	hasChild	Steve_Saint
+Nate_Saint	hasChild	Steve_Saint
+
+http://dbpedia.org/resource/Joseph_Kasa-Vubu	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Justine_Kasa-Vubu
+Joseph_Kasa-Vubu	Justine_Kasa-Vubu
+Joseph_Kasa-Vubu	isLeaderOf	ABAKO
+Joseph_Kasa-Vubu	isAffiliatedTo	ABAKO
+Joseph_Kasa-Vubu	isLeaderOf	ABAKO
+Joseph_Kasa-Vubu	isAffiliatedTo	ABAKO
+Joseph_Kasa-Vubu	isLeaderOf	ABAKO
+Joseph_Kasa-Vubu	isAffiliatedTo	ABAKO
+Joseph_Kasa-Vubu	isLeaderOf	ABAKO
+Joseph_Kasa-Vubu	isAffiliatedTo	ABAKO
+Joseph_Kasa-Vubu	hasChild	Justine_Kasa-Vubu
+Joseph_Kasa-Vubu	hasChild	Justine_Kasa-Vubu
+
+http://dbpedia.org/resource/Joseph_Kasa-Vubu	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Justine_Kasa-Vubu
+Joseph_Kasa-Vubu	Justine_Kasa-Vubu
+Joseph_Kasa-Vubu	hasChild	Justine_Kasa-Vubu
+Joseph_Kasa-Vubu	hasChild	Justine_Kasa-Vubu
+
+http://dbpedia.org/resource/Satyajit_Ray	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Sandip_Ray
+Satyajit_Ray	Sandip_Ray
+Satyajit_Ray	wasBornIn	Kolkata
+Satyajit_Ray	diedIn	Kolkata
+Satyajit_Ray	wasBornIn	Kolkata
+Satyajit_Ray	diedIn	Kolkata
+Sandip_Ray	wasBornIn	Kolkata
+Sandip_Ray	wasBornIn	Kolkata
+
+http://dbpedia.org/resource/Julia_Thorne	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Alexandra_Kerry
+Julia_Thorne	Alexandra_Kerry
+Julia_Thorne	isMarriedTo	John_Kerry
+John_Kerry	isMarriedTo	Julia_Thorne
+Julia_Thorne	isMarriedTo	John_Kerry
+John_Kerry	isMarriedTo	Julia_Thorne
+John_Kerry	hasChild	Alexandra_Kerry
+John_Kerry	hasChild	Alexandra_Kerry
+
+http://dbpedia.org/resource/Julia_Thorne	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Alexandra_Kerry
+Julia_Thorne	Alexandra_Kerry
+Julia_Thorne	isMarriedTo	John_Kerry
+John_Kerry	isMarriedTo	Julia_Thorne
+Julia_Thorne	isMarriedTo	John_Kerry
+John_Kerry	isMarriedTo	Julia_Thorne
+Julia_Thorne	isMarriedTo	John_Kerry
+John_Kerry	isMarriedTo	Julia_Thorne
+Julia_Thorne	isMarriedTo	John_Kerry
+John_Kerry	isMarriedTo	Julia_Thorne
+Julia_Thorne	hasChild	Alexandra_Kerry
+Julia_Thorne	hasChild	Alexandra_Kerry
+
+http://dbpedia.org/resource/Julia_Thorne	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Alexandra_Kerry
+Julia_Thorne	Alexandra_Kerry
+Julia_Thorne	hasChild	Alexandra_Kerry
+Julia_Thorne	hasChild	Alexandra_Kerry
+
+http://dbpedia.org/resource/Edu_Manzano	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Luis_Manzano
+Edu_Manzano	Luis_Manzano
+Edu_Manzano	isMarriedTo	Vilma_Santos
+Vilma_Santos	isMarriedTo	Edu_Manzano
+Edu_Manzano	isMarriedTo	Vilma_Santos
+Vilma_Santos	isMarriedTo	Edu_Manzano
+Vilma_Santos	isMarriedTo	Ralph_Recto
+Ralph_Recto	isMarriedTo	Vilma_Santos
+Vilma_Santos	isMarriedTo	Ralph_Recto
+Ralph_Recto	isMarriedTo	Vilma_Santos
+Ralph_Recto	hasChild	Luis_Manzano
+Ralph_Recto	hasChild	Luis_Manzano
+
+http://dbpedia.org/resource/Tapan_Sinha	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Anindya_Sinha
+Tapan_Sinha	Anindya_Sinha
+Arundhati_Devi	isMarriedTo	Tapan_Sinha
+Tapan_Sinha	isMarriedTo	Arundhati_Devi
+Arundhati_Devi	isMarriedTo	Tapan_Sinha
+Tapan_Sinha	isMarriedTo	Arundhati_Devi
+Arundhati_Devi	isMarriedTo	Tapan_Sinha
+Tapan_Sinha	isMarriedTo	Arundhati_Devi
+Arundhati_Devi	isMarriedTo	Tapan_Sinha
+Tapan_Sinha	isMarriedTo	Arundhati_Devi
+Tapan_Sinha	hasChild	Anindya_Sinha
+Tapan_Sinha	hasChild	Anindya_Sinha
+
+http://dbpedia.org/resource/Tapan_Sinha	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Anindya_Sinha
+Tapan_Sinha	Anindya_Sinha
+Tapan_Sinha	hasChild	Anindya_Sinha
+Tapan_Sinha	hasChild	Anindya_Sinha
+
+http://dbpedia.org/resource/Walter_Sisulu	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Lindiwe_Sisulu
+Walter_Sisulu	Lindiwe_Sisulu
+Walter_Sisulu	hasChild	Lindiwe_Sisulu
+Walter_Sisulu	hasChild	Lindiwe_Sisulu
+
+http://dbpedia.org/resource/Walter_Sisulu	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Lindiwe_Sisulu
+Walter_Sisulu	Lindiwe_Sisulu
+Walter_Sisulu	hasChild	Zwelakhe_Sisulu
+Walter_Sisulu	hasChild	Zwelakhe_Sisulu
+Zwelakhe_Sisulu	livesIn	Johannesburg
+Zwelakhe_Sisulu	livesIn	Johannesburg
+Lindiwe_Sisulu	wasBornIn	Johannesburg
+Lindiwe_Sisulu	wasBornIn	Johannesburg
+
+http://dbpedia.org/resource/Walter_Sisulu	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Lindiwe_Sisulu
+Walter_Sisulu	Lindiwe_Sisulu
+Walter_Sisulu	hasChild	Zwelakhe_Sisulu
+Walter_Sisulu	hasChild	Zwelakhe_Sisulu
+Walter_Sisulu	hasChild	Zwelakhe_Sisulu
+Walter_Sisulu	hasChild	Zwelakhe_Sisulu
+Walter_Sisulu	hasChild	Lindiwe_Sisulu
+Walter_Sisulu	hasChild	Lindiwe_Sisulu
+
+http://dbpedia.org/resource/Walter_Sisulu	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Lindiwe_Sisulu
+Walter_Sisulu	Lindiwe_Sisulu
+Walter_Sisulu	isAffiliatedTo	African_National_Congress
+Walter_Sisulu	isAffiliatedTo	African_National_Congress
+Walter_Sisulu	isAffiliatedTo	African_National_Congress
+Walter_Sisulu	isAffiliatedTo	African_National_Congress
+Walter_Sisulu	hasChild	Lindiwe_Sisulu
+Walter_Sisulu	hasChild	Lindiwe_Sisulu
+
+http://dbpedia.org/resource/Simone_Duvalier	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Jean-Claude_Duvalier
+Simone_Duvalier	Jean-Claude_Duvalier
+Simone_Duvalier	isMarriedTo	François_Duvalier
+François_Duvalier	isMarriedTo	Simone_Duvalier
+Simone_Duvalier	isMarriedTo	François_Duvalier
+François_Duvalier	isMarriedTo	Simone_Duvalier
+Simone_Duvalier	isMarriedTo	François_Duvalier
+François_Duvalier	isMarriedTo	Simone_Duvalier
+Simone_Duvalier	isMarriedTo	François_Duvalier
+François_Duvalier	isMarriedTo	Simone_Duvalier
+Simone_Duvalier	hasChild	Jean-Claude_Duvalier
+Simone_Duvalier	hasChild	Jean-Claude_Duvalier
+
+http://dbpedia.org/resource/Simone_Duvalier	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Jean-Claude_Duvalier
+Simone_Duvalier	Jean-Claude_Duvalier
+Simone_Duvalier	hasChild	Jean-Claude_Duvalier
+Simone_Duvalier	hasChild	Jean-Claude_Duvalier
+
+http://dbpedia.org/resource/Simone_Duvalier	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Jean-Claude_Duvalier
+Simone_Duvalier	Jean-Claude_Duvalier
+Simone_Duvalier	isCitizenOf	Haiti
+Simone_Duvalier	isCitizenOf	Haiti
+Simone_Duvalier	isCitizenOf	Haiti
+Simone_Duvalier	isCitizenOf	Haiti
+Simone_Duvalier	hasChild	Jean-Claude_Duvalier
+Simone_Duvalier	hasChild	Jean-Claude_Duvalier
+
+http://dbpedia.org/resource/Olivia_Langdon_Clemens	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Jean_Clemens
+Olivia_Langdon_Clemens	Jean_Clemens
+Mark_Twain	isMarriedTo	Olivia_Langdon_Clemens
+Olivia_Langdon_Clemens	isMarriedTo	Mark_Twain
+Mark_Twain	isMarriedTo	Olivia_Langdon_Clemens
+Olivia_Langdon_Clemens	isMarriedTo	Mark_Twain
+Mark_Twain	diedIn	Redding,_Connecticut
+Mark_Twain	diedIn	Redding,_Connecticut
+Jean_Clemens	diedIn	Redding,_Connecticut
+Jean_Clemens	diedIn	Redding,_Connecticut
+
+http://dbpedia.org/resource/Kwok_Tak-Seng	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Thomas_Kwok
+Kwok_Tak-Seng	Thomas_Kwok
+Kwok_Tak-Seng	hasChild	Thomas_Kwok
+Kwok_Tak-Seng	hasChild	Thomas_Kwok
+
+http://dbpedia.org/resource/Jason_Robards	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Sam_Robards
+Jason_Robards	Sam_Robards
+Lauren_Bacall	isMarriedTo	Jason_Robards
+Jason_Robards	isMarriedTo	Lauren_Bacall
+Lauren_Bacall	isMarriedTo	Jason_Robards
+Jason_Robards	isMarriedTo	Lauren_Bacall
+Lauren_Bacall	hasChild	Sam_Robards
+Lauren_Bacall	hasChild	Sam_Robards
+
+http://dbpedia.org/resource/Daniel_Kellogg_(settler)	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/John_Betts_(Connecticut_politician)
+Daniel_Kellogg_(settler)	John_Betts_(Connecticut_politician)
+Daniel_Kellogg_(settler)	isMarriedTo	John_Betts_(Connecticut_politician)
+John_Betts_(Connecticut_politician)	isMarriedTo	Daniel_Kellogg_(settler)
+Daniel_Kellogg_(settler)	hasChild	John_Betts_(Connecticut_politician)
+Daniel_Kellogg_(settler)	isMarriedTo	John_Betts_(Connecticut_politician)
+John_Betts_(Connecticut_politician)	isMarriedTo	Daniel_Kellogg_(settler)
+Daniel_Kellogg_(settler)	hasChild	John_Betts_(Connecticut_politician)
+
+http://dbpedia.org/resource/Thomas_Benedict	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/John_Benedict
+Thomas_Benedict	John_Benedict
+Thomas_Benedict	hasChild	John_Benedict
+Thomas_Benedict	hasChild	John_Benedict
+
+http://dbpedia.org/resource/Thomas_Benedict	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/John_Benedict
+Thomas_Benedict	John_Benedict
+Thomas_Benedict	livesIn	Connecticut_Colony
+Thomas_Benedict	livesIn	Connecticut_Colony
+John_Gregory_(settler)	livesIn	Connecticut_Colony
+John_Gregory_(settler)	livesIn	Connecticut_Colony
+John_Gregory_(settler)	hasChild	John_Benedict
+John_Gregory_(settler)	isMarriedTo	John_Benedict
+John_Benedict	isMarriedTo	John_Gregory_(settler)
+John_Gregory_(settler)	hasChild	John_Benedict
+John_Gregory_(settler)	isMarriedTo	John_Benedict
+John_Benedict	isMarriedTo	John_Gregory_(settler)
+
+http://dbpedia.org/resource/Thomas_Benedict	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/John_Benedict
+Thomas_Benedict	John_Benedict
+Thomas_Benedict	livesIn	Connecticut_Colony
+Thomas_Benedict	livesIn	Connecticut_Colony
+John_Benedict	livesIn	Connecticut_Colony
+John_Benedict	livesIn	Connecticut_Colony
+
+http://dbpedia.org/resource/Thomas_Benedict	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/John_Benedict
+Thomas_Benedict	John_Benedict
+Thomas_Benedict	livesIn	Connecticut_Colony
+Thomas_Benedict	livesIn	Connecticut_Colony
+Thomas_Benedict	livesIn	Connecticut_Colony
+Thomas_Benedict	livesIn	Connecticut_Colony
+Thomas_Benedict	hasChild	John_Benedict
+Thomas_Benedict	hasChild	John_Benedict
+
+http://dbpedia.org/resource/Julio_César_Turbay_Ayala	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Julio_César_Turbay_Quintero
+Julio_César_Turbay_Ayala	Julio_César_Turbay_Quintero
+Julio_César_Turbay_Ayala	isMarriedTo	Nydia_Quintero_Turbay
+Nydia_Quintero_Turbay	isMarriedTo	Julio_César_Turbay_Ayala
+Julio_César_Turbay_Ayala	isMarriedTo	Nydia_Quintero_Turbay
+Nydia_Quintero_Turbay	isMarriedTo	Julio_César_Turbay_Ayala
+Nydia_Quintero_Turbay	isAffiliatedTo	Colombian_Liberal_Party
+Nydia_Quintero_Turbay	isAffiliatedTo	Colombian_Liberal_Party
+Julio_César_Turbay_Quintero	isAffiliatedTo	Colombian_Liberal_Party
+Julio_César_Turbay_Quintero	isAffiliatedTo	Colombian_Liberal_Party
+
+http://dbpedia.org/resource/Julio_César_Turbay_Ayala	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Julio_César_Turbay_Quintero
+Julio_César_Turbay_Ayala	Julio_César_Turbay_Quintero
+Julio_César_Turbay_Ayala	isAffiliatedTo	Colombian_Liberal_Party
+Julio_César_Turbay_Ayala	isAffiliatedTo	Colombian_Liberal_Party
+Julio_César_Turbay_Quintero	isAffiliatedTo	Colombian_Liberal_Party
+Julio_César_Turbay_Quintero	isAffiliatedTo	Colombian_Liberal_Party
+
+http://dbpedia.org/resource/Sarojini_Jugnauth	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Pravind_Jugnauth
+Sarojini_Jugnauth	Pravind_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+
+http://dbpedia.org/resource/Sarojini_Jugnauth	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Pravind_Jugnauth
+Sarojini_Jugnauth	Pravind_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+Anerood_Jugnauth	wasBornIn	Vacoas-Phoenix
+Anerood_Jugnauth	wasBornIn	Vacoas-Phoenix
+Pravind_Jugnauth	wasBornIn	Vacoas-Phoenix
+Pravind_Jugnauth	wasBornIn	Vacoas-Phoenix
+
+http://dbpedia.org/resource/Sarojini_Jugnauth	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Pravind_Jugnauth
+Sarojini_Jugnauth	Pravind_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+
+http://dbpedia.org/resource/Sarojini_Jugnauth	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Pravind_Jugnauth
+Sarojini_Jugnauth	Pravind_Jugnauth
+Sarojini_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Sarojini_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Anerood_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Anerood_Jugnauth	created	Militant_Socialist_Movement
+Anerood_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Anerood_Jugnauth	created	Militant_Socialist_Movement
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+
+http://dbpedia.org/resource/Sarojini_Jugnauth	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Pravind_Jugnauth
+Sarojini_Jugnauth	Pravind_Jugnauth
+Sarojini_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Sarojini_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Sarojini_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Sarojini_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+
+http://dbpedia.org/resource/Sarojini_Jugnauth	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Pravind_Jugnauth
+Sarojini_Jugnauth	Pravind_Jugnauth
+Sarojini_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Sarojini_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Pravind_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Pravind_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+
+http://dbpedia.org/resource/Sarojini_Jugnauth	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Pravind_Jugnauth
+Sarojini_Jugnauth	Pravind_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+
+http://dbpedia.org/resource/Luther_Day	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Robert_H._Day
+Luther_Day	Robert_H._Day
+Luther_Day	graduatedFrom	Middlebury_College
+Luther_Day	graduatedFrom	Middlebury_College
+Luther_Day	graduatedFrom	Middlebury_College
+Luther_Day	graduatedFrom	Middlebury_College
+Luther_Day	hasChild	Robert_H._Day
+Luther_Day	hasChild	Robert_H._Day
+
+http://dbpedia.org/resource/Luther_Day	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Robert_H._Day
+Luther_Day	Robert_H._Day
+Luther_Day	hasChild	Robert_H._Day
+Luther_Day	hasChild	Robert_H._Day
+
+http://dbpedia.org/resource/Luther_Day	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Robert_H._Day
+Luther_Day	Robert_H._Day
+Luther_Day	diedIn	Ravenna,_Ohio
+Luther_Day	diedIn	Ravenna,_Ohio
+Luther_Day	diedIn	Ravenna,_Ohio
+Luther_Day	diedIn	Ravenna,_Ohio
+Luther_Day	hasChild	Robert_H._Day
+Luther_Day	hasChild	Robert_H._Day
+
+http://dbpedia.org/resource/Chad_McQueen	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Steven_R._McQueen
+Chad_McQueen	Steven_R._McQueen
+Chad_McQueen	hasChild	Steven_R._McQueen
+Chad_McQueen	hasChild	Steven_R._McQueen
+
+http://dbpedia.org/resource/Adi_Godrej	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Tanya_Dubash
+Adi_Godrej	Tanya_Dubash
+Adi_Godrej	hasChild	Nisa_Godrej
+Adi_Godrej	hasChild	Nisa_Godrej
+Parmeshwar_Godrej	hasChild	Nisa_Godrej
+Parmeshwar_Godrej	hasChild	Nisa_Godrej
+Parmeshwar_Godrej	hasChild	Tanya_Dubash
+Parmeshwar_Godrej	hasChild	Tanya_Dubash
+
+http://dbpedia.org/resource/Adi_Godrej	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Tanya_Dubash
+Adi_Godrej	Tanya_Dubash
+Adi_Godrej	hasChild	Nisa_Godrej
+Adi_Godrej	hasChild	Nisa_Godrej
+Nisa_Godrej	graduatedFrom	Harvard_Business_School
+Nisa_Godrej	graduatedFrom	Harvard_Business_School
+Tanya_Dubash	graduatedFrom	Harvard_Business_School
+Tanya_Dubash	graduatedFrom	Harvard_Business_School
+
+http://dbpedia.org/resource/Rashidi_Kawawa	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Vita_Kawawa
+Rashidi_Kawawa	Vita_Kawawa
+Rashidi_Kawawa	hasChild	Vita_Kawawa
+Rashidi_Kawawa	hasChild	Vita_Kawawa
+
+http://dbpedia.org/resource/Pierre_Samuel_du_Pont_de_Nemours	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Éleuthère_Irénée_du_Pont
+Pierre_Samuel_du_Pont_de_Nemours	Éleuthère_Irénée_du_Pont
+Pierre_Samuel_du_Pont_de_Nemours	diedIn	Greenville,_Delaware
+Pierre_Samuel_du_Pont_de_Nemours	diedIn	Greenville,_Delaware
+Éleuthère_Irénée_du_Pont	livesIn	Greenville,_Delaware
+Éleuthère_Irénée_du_Pont	livesIn	Greenville,_Delaware
+
+http://dbpedia.org/resource/Pierre_Samuel_du_Pont_de_Nemours	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Éleuthère_Irénée_du_Pont
+Pierre_Samuel_du_Pont_de_Nemours	Éleuthère_Irénée_du_Pont
+Pierre_Samuel_du_Pont_de_Nemours	hasChild	Éleuthère_Irénée_du_Pont
+Pierre_Samuel_du_Pont_de_Nemours	hasChild	Éleuthère_Irénée_du_Pont
+
+http://dbpedia.org/resource/Pierre_Samuel_du_Pont_de_Nemours	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Éleuthère_Irénée_du_Pont
+Pierre_Samuel_du_Pont_de_Nemours	Éleuthère_Irénée_du_Pont
+Pierre_Samuel_du_Pont_de_Nemours	hasChild	Victor_Marie_du_Pont
+Pierre_Samuel_du_Pont_de_Nemours	hasChild	Victor_Marie_du_Pont
+Pierre_Samuel_du_Pont_de_Nemours	hasChild	Victor_Marie_du_Pont
+Pierre_Samuel_du_Pont_de_Nemours	hasChild	Victor_Marie_du_Pont
+Pierre_Samuel_du_Pont_de_Nemours	hasChild	Éleuthère_Irénée_du_Pont
+Pierre_Samuel_du_Pont_de_Nemours	hasChild	Éleuthère_Irénée_du_Pont
+
+http://dbpedia.org/resource/Pierre_Samuel_du_Pont_de_Nemours	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Éleuthère_Irénée_du_Pont
+Pierre_Samuel_du_Pont_de_Nemours	Éleuthère_Irénée_du_Pont
+François_Quesnay	influences	Pierre_Samuel_du_Pont_de_Nemours
+François_Quesnay	influences	Pierre_Samuel_du_Pont_de_Nemours
+François_Quesnay	influences	Pierre_Samuel_du_Pont_de_Nemours
+François_Quesnay	influences	Pierre_Samuel_du_Pont_de_Nemours
+Pierre_Samuel_du_Pont_de_Nemours	hasChild	Éleuthère_Irénée_du_Pont
+Pierre_Samuel_du_Pont_de_Nemours	hasChild	Éleuthère_Irénée_du_Pont
+
+http://dbpedia.org/resource/George_H._W._Bush	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Jeb_Bush
+George_H._W._Bush	Jeb_Bush
+George_H._W._Bush	isMarriedTo	Barbara_Bush
+Barbara_Bush	isMarriedTo	George_H._W._Bush
+George_H._W._Bush	isMarriedTo	Barbara_Bush
+Barbara_Bush	isMarriedTo	George_H._W._Bush
+Barbara_Bush	hasChild	Jeb_Bush
+Barbara_Bush	hasChild	Jeb_Bush
+
+http://dbpedia.org/resource/Eddie_Gutierrez_(actor)	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Richard_Gutierrez
+Eddie_Gutierrez_(actor)	Richard_Gutierrez
+Eddie_Gutierrez_(actor)	actedIn	Home_Along_Da_Riles
+Eddie_Gutierrez_(actor)	actedIn	Home_Along_Da_Riles
+Eddie_Gutierrez_(actor)	actedIn	Home_Along_Da_Riles
+Eddie_Gutierrez_(actor)	actedIn	Home_Along_Da_Riles
+Eddie_Gutierrez_(actor)	hasChild	Richard_Gutierrez
+Eddie_Gutierrez_(actor)	hasChild	Richard_Gutierrez
+
+http://dbpedia.org/resource/Eddie_Gutierrez_(actor)	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Richard_Gutierrez
+Eddie_Gutierrez_(actor)	Richard_Gutierrez
+Eddie_Gutierrez_(actor)	hasChild	Richard_Gutierrez
+Eddie_Gutierrez_(actor)	hasChild	Richard_Gutierrez
+
+http://dbpedia.org/resource/Eddie_Gutierrez_(actor)	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Richard_Gutierrez
+Eddie_Gutierrez_(actor)	Richard_Gutierrez
+Eddie_Gutierrez_(actor)	wasBornIn	Ermita
+Eddie_Gutierrez_(actor)	wasBornIn	Ermita
+Eddie_Gutierrez_(actor)	wasBornIn	Ermita
+Eddie_Gutierrez_(actor)	wasBornIn	Ermita
+Eddie_Gutierrez_(actor)	hasChild	Richard_Gutierrez
+Eddie_Gutierrez_(actor)	hasChild	Richard_Gutierrez
+
+http://dbpedia.org/resource/Jimmy_Carter	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Jack_Carter_(politician)
+Jimmy_Carter	Jack_Carter_(politician)
+Jimmy_Carter	graduatedFrom	Georgia_Institute_of_Technology
+Jimmy_Carter	graduatedFrom	Georgia_Institute_of_Technology
+Jack_Carter_(politician)	graduatedFrom	Georgia_Institute_of_Technology
+Jack_Carter_(politician)	graduatedFrom	Georgia_Institute_of_Technology
+
+http://dbpedia.org/resource/Judd_Apatow	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Maude_Apatow
+Judd_Apatow	Maude_Apatow
+Leslie_Mann	isMarriedTo	Judd_Apatow
+Judd_Apatow	isMarriedTo	Leslie_Mann
+Leslie_Mann	isMarriedTo	Judd_Apatow
+Judd_Apatow	isMarriedTo	Leslie_Mann
+Leslie_Mann	isMarriedTo	Judd_Apatow
+Judd_Apatow	isMarriedTo	Leslie_Mann
+Leslie_Mann	isMarriedTo	Judd_Apatow
+Judd_Apatow	isMarriedTo	Leslie_Mann
+Judd_Apatow	hasChild	Maude_Apatow
+Judd_Apatow	hasChild	Maude_Apatow
+
+http://dbpedia.org/resource/Judd_Apatow	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Maude_Apatow
+Judd_Apatow	Maude_Apatow
+Judd_Apatow	hasChild	Maude_Apatow
+Judd_Apatow	hasChild	Maude_Apatow
+
+http://dbpedia.org/resource/Fatimah_bint_Asad	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Fatimah_bint_Asad
+Fatimah_bint_Asad	Fatimah_bint_Asad
+Abu_Talib_ibn_Abd_al-Muttalib	isMarriedTo	Fatimah_bint_Asad
+Fatimah_bint_Asad	isMarriedTo	Abu_Talib_ibn_Abd_al-Muttalib
+Abu_Talib_ibn_Abd_al-Muttalib	isMarriedTo	Fatimah_bint_Asad
+Fatimah_bint_Asad	isMarriedTo	Abu_Talib_ibn_Abd_al-Muttalib
+Abu_Talib_ibn_Abd_al-Muttalib	isMarriedTo	Fatimah_bint_Asad
+Fatimah_bint_Asad	isMarriedTo	Abu_Talib_ibn_Abd_al-Muttalib
+Abu_Talib_ibn_Abd_al-Muttalib	isMarriedTo	Fatimah_bint_Asad
+Fatimah_bint_Asad	isMarriedTo	Abu_Talib_ibn_Abd_al-Muttalib
+
+http://dbpedia.org/resource/Fatimah_bint_Asad	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Fatimah_bint_Asad
+Fatimah_bint_Asad	Fatimah_bint_Asad
+Abu_Talib_ibn_Abd_al-Muttalib	isMarriedTo	Fatimah_bint_Asad
+Fatimah_bint_Asad	isMarriedTo	Abu_Talib_ibn_Abd_al-Muttalib
+Abu_Talib_ibn_Abd_al-Muttalib	isMarriedTo	Fatimah_bint_Asad
+Fatimah_bint_Asad	isMarriedTo	Abu_Talib_ibn_Abd_al-Muttalib
+Abu_Talib_ibn_Abd_al-Muttalib	hasChild	Ja'far_ibn_Abi_Talib
+Abu_Talib_ibn_Abd_al-Muttalib	hasChild	Ja'far_ibn_Abi_Talib
+Fatimah_bint_Asad	hasChild	Ja'far_ibn_Abi_Talib
+Fatimah_bint_Asad	hasChild	Ja'far_ibn_Abi_Talib
+
+http://dbpedia.org/resource/Fatimah_bint_Asad	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Fatimah_bint_Asad
+Fatimah_bint_Asad	Fatimah_bint_Asad
+Fatimah_bint_Asad	hasChild	Ja'far_ibn_Abi_Talib
+Fatimah_bint_Asad	hasChild	Ja'far_ibn_Abi_Talib
+Abu_Talib_ibn_Abd_al-Muttalib	hasChild	Ja'far_ibn_Abi_Talib
+Abu_Talib_ibn_Abd_al-Muttalib	hasChild	Ja'far_ibn_Abi_Talib
+Abu_Talib_ibn_Abd_al-Muttalib	isMarriedTo	Fatimah_bint_Asad
+Fatimah_bint_Asad	isMarriedTo	Abu_Talib_ibn_Abd_al-Muttalib
+Abu_Talib_ibn_Abd_al-Muttalib	isMarriedTo	Fatimah_bint_Asad
+Fatimah_bint_Asad	isMarriedTo	Abu_Talib_ibn_Abd_al-Muttalib
+
+http://dbpedia.org/resource/Fatimah_bint_Asad	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Fatimah_bint_Asad
+Fatimah_bint_Asad	Fatimah_bint_Asad
+Fatimah_bint_Asad	hasChild	Ja'far_ibn_Abi_Talib
+Fatimah_bint_Asad	hasChild	Ja'far_ibn_Abi_Talib
+Fatimah_bint_Asad	hasChild	Ja'far_ibn_Abi_Talib
+Fatimah_bint_Asad	hasChild	Ja'far_ibn_Abi_Talib
+
+http://dbpedia.org/resource/Doyle_Corman	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Jake_Corman
+Doyle_Corman	Jake_Corman
+Doyle_Corman	isMarriedTo	Becky_Corman
+Becky_Corman	isMarriedTo	Doyle_Corman
+Doyle_Corman	isMarriedTo	Becky_Corman
+Becky_Corman	isMarriedTo	Doyle_Corman
+Doyle_Corman	isMarriedTo	Becky_Corman
+Becky_Corman	isMarriedTo	Doyle_Corman
+Doyle_Corman	isMarriedTo	Becky_Corman
+Becky_Corman	isMarriedTo	Doyle_Corman
+Doyle_Corman	hasChild	Jake_Corman
+Doyle_Corman	hasChild	Jake_Corman
+
+http://dbpedia.org/resource/Doyle_Corman	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Jake_Corman
+Doyle_Corman	Jake_Corman
+Doyle_Corman	isMarriedTo	Becky_Corman
+Becky_Corman	isMarriedTo	Doyle_Corman
+Doyle_Corman	isMarriedTo	Becky_Corman
+Becky_Corman	isMarriedTo	Doyle_Corman
+Becky_Corman	hasChild	Jake_Corman
+Becky_Corman	hasChild	Jake_Corman
+
+http://dbpedia.org/resource/Doyle_Corman	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Jake_Corman
+Doyle_Corman	Jake_Corman
+Doyle_Corman	hasChild	Jake_Corman
+Doyle_Corman	hasChild	Jake_Corman
+
+http://dbpedia.org/resource/Doyle_Corman	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Jake_Corman
+Doyle_Corman	Jake_Corman
+Doyle_Corman	wasBornIn	Bellefonte,_Pennsylvania
+Doyle_Corman	livesIn	Bellefonte,_Pennsylvania
+Doyle_Corman	wasBornIn	Bellefonte,_Pennsylvania
+Doyle_Corman	livesIn	Bellefonte,_Pennsylvania
+Jake_Corman	wasBornIn	Bellefonte,_Pennsylvania
+Jake_Corman	wasBornIn	Bellefonte,_Pennsylvania
+
+http://dbpedia.org/resource/Doyle_Corman	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Jake_Corman
+Doyle_Corman	Jake_Corman
+Doyle_Corman	wasBornIn	Bellefonte,_Pennsylvania
+Doyle_Corman	livesIn	Bellefonte,_Pennsylvania
+Doyle_Corman	wasBornIn	Bellefonte,_Pennsylvania
+Doyle_Corman	livesIn	Bellefonte,_Pennsylvania
+Doyle_Corman	wasBornIn	Bellefonte,_Pennsylvania
+Doyle_Corman	livesIn	Bellefonte,_Pennsylvania
+Doyle_Corman	wasBornIn	Bellefonte,_Pennsylvania
+Doyle_Corman	livesIn	Bellefonte,_Pennsylvania
+Doyle_Corman	hasChild	Jake_Corman
+Doyle_Corman	hasChild	Jake_Corman
+
+http://dbpedia.org/resource/Anerood_Jugnauth	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Pravind_Jugnauth
+Anerood_Jugnauth	Pravind_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+
+http://dbpedia.org/resource/Anerood_Jugnauth	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Pravind_Jugnauth
+Anerood_Jugnauth	Pravind_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+Sarojini_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Sarojini_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Pravind_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+Pravind_Jugnauth	isAffiliatedTo	Militant_Socialist_Movement
+
+http://dbpedia.org/resource/Anerood_Jugnauth	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Pravind_Jugnauth
+Anerood_Jugnauth	Pravind_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+Sarojini_Jugnauth	isMarriedTo	Anerood_Jugnauth
+Anerood_Jugnauth	isMarriedTo	Sarojini_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+
+http://dbpedia.org/resource/Anerood_Jugnauth	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Pravind_Jugnauth
+Anerood_Jugnauth	Pravind_Jugnauth
+Anerood_Jugnauth	wasBornIn	Vacoas-Phoenix
+Anerood_Jugnauth	wasBornIn	Vacoas-Phoenix
+Sarojini_Jugnauth	livesIn	Vacoas-Phoenix
+Sarojini_Jugnauth	livesIn	Vacoas-Phoenix
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+Sarojini_Jugnauth	hasChild	Pravind_Jugnauth
+
+http://dbpedia.org/resource/Anerood_Jugnauth	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Pravind_Jugnauth
+Anerood_Jugnauth	Pravind_Jugnauth
+Anerood_Jugnauth	wasBornIn	Vacoas-Phoenix
+Anerood_Jugnauth	wasBornIn	Vacoas-Phoenix
+Pravind_Jugnauth	wasBornIn	Vacoas-Phoenix
+Pravind_Jugnauth	wasBornIn	Vacoas-Phoenix
+
+http://dbpedia.org/resource/Anerood_Jugnauth	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Pravind_Jugnauth
+Anerood_Jugnauth	Pravind_Jugnauth
+Anerood_Jugnauth	wasBornIn	Vacoas-Phoenix
+Anerood_Jugnauth	wasBornIn	Vacoas-Phoenix
+Anerood_Jugnauth	wasBornIn	Vacoas-Phoenix
+Anerood_Jugnauth	wasBornIn	Vacoas-Phoenix
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+
+http://dbpedia.org/resource/Anerood_Jugnauth	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Pravind_Jugnauth
+Anerood_Jugnauth	Pravind_Jugnauth
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+Anerood_Jugnauth	hasChild	Pravind_Jugnauth
+
+http://dbpedia.org/resource/Bing_Crosby	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Phillip_Crosby
+Bing_Crosby	Phillip_Crosby
+Dixie_Lee	isMarriedTo	Bing_Crosby
+Bing_Crosby	isMarriedTo	Dixie_Lee
+Dixie_Lee	isMarriedTo	Bing_Crosby
+Bing_Crosby	isMarriedTo	Dixie_Lee
+Dixie_Lee	hasChild	Phillip_Crosby
+Dixie_Lee	hasChild	Phillip_Crosby
+
+http://dbpedia.org/resource/Christoffel_Brand	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Johannes_Brand
+Christoffel_Brand	Johannes_Brand
+Christoffel_Brand	wasBornIn	Cape_Town
+Christoffel_Brand	diedIn	Cape_Town
+Christoffel_Brand	wasBornIn	Cape_Town
+Christoffel_Brand	diedIn	Cape_Town
+University_of_Cape_Town	isLocatedIn	Cape_Town
+University_of_Cape_Town	isLocatedIn	Cape_Town
+Johannes_Brand	graduatedFrom	University_of_Cape_Town
+Johannes_Brand	graduatedFrom	University_of_Cape_Town
+
+http://dbpedia.org/resource/Christoffel_Brand	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Johannes_Brand
+Christoffel_Brand	Johannes_Brand
+Christoffel_Brand	wasBornIn	Cape_Town
+Christoffel_Brand	diedIn	Cape_Town
+Christoffel_Brand	wasBornIn	Cape_Town
+Christoffel_Brand	diedIn	Cape_Town
+Johannes_Brand	wasBornIn	Cape_Town
+Johannes_Brand	wasBornIn	Cape_Town
+
+http://dbpedia.org/resource/Patricia_Lascelles,_Countess_of_Harewood	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood
+Patricia_Lascelles,_Countess_of_Harewood	George_Lascelles,_7th_Earl_of_Harewood
+George_Lascelles,_7th_Earl_of_Harewood	isMarriedTo	Patricia_Lascelles,_Countess_of_Harewood
+Patricia_Lascelles,_Countess_of_Harewood	hasChild	George_Lascelles,_7th_Earl_of_Harewood
+Patricia_Lascelles,_Countess_of_Harewood	isMarriedTo	George_Lascelles,_7th_Earl_of_Harewood
+George_Lascelles,_7th_Earl_of_Harewood	isMarriedTo	Patricia_Lascelles,_Countess_of_Harewood
+Patricia_Lascelles,_Countess_of_Harewood	hasChild	George_Lascelles,_7th_Earl_of_Harewood
+Patricia_Lascelles,_Countess_of_Harewood	isMarriedTo	George_Lascelles,_7th_Earl_of_Harewood
+
+http://dbpedia.org/resource/Barbara_Kwiatkowska-Lass	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Katharina_Böhm
+Barbara_Kwiatkowska-Lass	Katharina_Böhm
+Karlheinz_Böhm	isMarriedTo	Barbara_Kwiatkowska-Lass
+Barbara_Kwiatkowska-Lass	isMarriedTo	Karlheinz_Böhm
+Karlheinz_Böhm	isMarriedTo	Barbara_Kwiatkowska-Lass
+Barbara_Kwiatkowska-Lass	isMarriedTo	Karlheinz_Böhm
+Karlheinz_Böhm	isMarriedTo	Barbara_Kwiatkowska-Lass
+Barbara_Kwiatkowska-Lass	isMarriedTo	Karlheinz_Böhm
+Karlheinz_Böhm	isMarriedTo	Barbara_Kwiatkowska-Lass
+Barbara_Kwiatkowska-Lass	isMarriedTo	Karlheinz_Böhm
+Barbara_Kwiatkowska-Lass	hasChild	Katharina_Böhm
+Barbara_Kwiatkowska-Lass	hasChild	Katharina_Böhm
+
+http://dbpedia.org/resource/Barbara_Kwiatkowska-Lass	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Katharina_Böhm
+Barbara_Kwiatkowska-Lass	Katharina_Böhm
+Karlheinz_Böhm	isMarriedTo	Barbara_Kwiatkowska-Lass
+Barbara_Kwiatkowska-Lass	isMarriedTo	Karlheinz_Böhm
+Karlheinz_Böhm	isMarriedTo	Barbara_Kwiatkowska-Lass
+Barbara_Kwiatkowska-Lass	isMarriedTo	Karlheinz_Böhm
+Karlheinz_Böhm	hasChild	Katharina_Böhm
+Karlheinz_Böhm	hasChild	Katharina_Böhm
+
+http://dbpedia.org/resource/Barbara_Kwiatkowska-Lass	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Katharina_Böhm
+Barbara_Kwiatkowska-Lass	Katharina_Böhm
+Barbara_Kwiatkowska-Lass	hasChild	Katharina_Böhm
+Barbara_Kwiatkowska-Lass	hasChild	Katharina_Böhm
+
+http://dbpedia.org/resource/Bill_Ratliff	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Bennett_Ratliff
+Bill_Ratliff	Bennett_Ratliff
+Bill_Ratliff	hasChild	Bennett_Ratliff
+Bill_Ratliff	hasChild	Bennett_Ratliff
+
+http://dbpedia.org/resource/Bill_Ratliff	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Bennett_Ratliff
+Bill_Ratliff	Bennett_Ratliff
+Bill_Ratliff	graduatedFrom	University_of_Texas_at_Austin
+Bill_Ratliff	graduatedFrom	University_of_Texas_at_Austin
+Bill_Ratliff	graduatedFrom	University_of_Texas_at_Austin
+Bill_Ratliff	graduatedFrom	University_of_Texas_at_Austin
+Bill_Ratliff	hasChild	Bennett_Ratliff
+Bill_Ratliff	hasChild	Bennett_Ratliff
+
+http://dbpedia.org/resource/Frances_Bergen	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Candice_Bergen
+Frances_Bergen	Candice_Bergen
+Frances_Bergen	isMarriedTo	Edgar_Bergen
+Edgar_Bergen	isMarriedTo	Frances_Bergen
+Frances_Bergen	isMarriedTo	Edgar_Bergen
+Edgar_Bergen	isMarriedTo	Frances_Bergen
+Edgar_Bergen	hasChild	Candice_Bergen
+Edgar_Bergen	hasChild	Candice_Bergen
+
+http://dbpedia.org/resource/Ralph_Keeler	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Samuel_Keeler
+Ralph_Keeler	Samuel_Keeler
+Ralph_Keeler	hasChild	Samuel_Keeler
+Ralph_Keeler	hasChild	Samuel_Keeler
+
+http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy	graduatedFrom	Hampden–Sydney_College
+Samuel_Lightfoot_Flournoy	graduatedFrom	Hampden–Sydney_College
+Samuel_Lightfoot_Flournoy	graduatedFrom	Hampden–Sydney_College
+Samuel_Lightfoot_Flournoy	graduatedFrom	Hampden–Sydney_College
+Samuel_Lightfoot_Flournoy	hasChild	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy	hasChild	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+
+http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy	wasBornIn	Chesterfield_County,_Virginia
+Samuel_Lightfoot_Flournoy	wasBornIn	Chesterfield_County,_Virginia
+Samuel_Lightfoot_Flournoy	wasBornIn	Chesterfield_County,_Virginia
+Samuel_Lightfoot_Flournoy	wasBornIn	Chesterfield_County,_Virginia
+Samuel_Lightfoot_Flournoy	hasChild	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy	hasChild	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+
+http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy	diedIn	Orlando,_Florida
+Samuel_Lightfoot_Flournoy	diedIn	Orlando,_Florida
+Samuel_Lightfoot_Flournoy	diedIn	Orlando,_Florida
+Samuel_Lightfoot_Flournoy	diedIn	Orlando,_Florida
+Samuel_Lightfoot_Flournoy	hasChild	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy	hasChild	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+
+http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy	hasChild	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy	hasChild	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+
+http://dbpedia.org/resource/James_T._Rutnam	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Chandran_Rutnam
+James_T._Rutnam	Chandran_Rutnam
+James_T._Rutnam	hasChild	Chandran_Rutnam
+James_T._Rutnam	hasChild	Chandran_Rutnam
+
+http://dbpedia.org/resource/James_T._Rutnam	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Chandran_Rutnam
+James_T._Rutnam	Chandran_Rutnam
+James_T._Rutnam	wasBornIn	Inuvil
+James_T._Rutnam	wasBornIn	Inuvil
+James_T._Rutnam	wasBornIn	Inuvil
+James_T._Rutnam	wasBornIn	Inuvil
+James_T._Rutnam	hasChild	Chandran_Rutnam
+James_T._Rutnam	hasChild	Chandran_Rutnam
+
+http://dbpedia.org/resource/Anna_Harrison	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Benjamin_Harrison
+Anna_Harrison	Benjamin_Harrison
+Anna_Harrison	isMarriedTo	William_Henry_Harrison
+William_Henry_Harrison	isMarriedTo	Anna_Harrison
+Anna_Harrison	isMarriedTo	William_Henry_Harrison
+William_Henry_Harrison	isMarriedTo	Anna_Harrison
+William_Henry_Harrison	hasChild	John_Scott_Harrison
+William_Henry_Harrison	hasChild	John_Scott_Harrison
+John_Scott_Harrison	hasChild	Benjamin_Harrison
+John_Scott_Harrison	hasChild	Benjamin_Harrison
+
+http://dbpedia.org/resource/Oliver_Ames,_Jr.	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Frederick_Lothrop_Ames
+Oliver_Ames,_Jr.	Frederick_Lothrop_Ames
+Oliver_Ames,_Jr.	hasChild	Frederick_Lothrop_Ames
+Oliver_Ames,_Jr.	hasChild	Frederick_Lothrop_Ames
+
+http://dbpedia.org/resource/Wertha_Pendleton_Cole	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Dandridge_MacFarlan_Cole
+Wertha_Pendleton_Cole	Dandridge_MacFarlan_Cole
+Wertha_Pendleton_Cole	isMarriedTo	Robert_MacFarlan_Cole_III
+Robert_MacFarlan_Cole_III	isMarriedTo	Wertha_Pendleton_Cole
+Wertha_Pendleton_Cole	isMarriedTo	Robert_MacFarlan_Cole_III
+Robert_MacFarlan_Cole_III	isMarriedTo	Wertha_Pendleton_Cole
+Wertha_Pendleton_Cole	isMarriedTo	Robert_MacFarlan_Cole_III
+Robert_MacFarlan_Cole_III	isMarriedTo	Wertha_Pendleton_Cole
+Wertha_Pendleton_Cole	isMarriedTo	Robert_MacFarlan_Cole_III
+Robert_MacFarlan_Cole_III	isMarriedTo	Wertha_Pendleton_Cole
+Wertha_Pendleton_Cole	hasChild	Dandridge_MacFarlan_Cole
+Wertha_Pendleton_Cole	hasChild	Dandridge_MacFarlan_Cole
+
+http://dbpedia.org/resource/Wertha_Pendleton_Cole	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Dandridge_MacFarlan_Cole
+Wertha_Pendleton_Cole	Dandridge_MacFarlan_Cole
+Wertha_Pendleton_Cole	hasChild	Dandridge_MacFarlan_Cole
+Wertha_Pendleton_Cole	hasChild	Dandridge_MacFarlan_Cole
+
+http://dbpedia.org/resource/Pope_Alexander_VI	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Cesare_Borgia
+Pope_Alexander_VI	Cesare_Borgia
+Duns_Scotus	influences	Pope_Alexander_VI
+Duns_Scotus	influences	Pope_Alexander_VI
+Duns_Scotus	influences	Pope_Alexander_VI
+Duns_Scotus	influences	Pope_Alexander_VI
+Pope_Alexander_VI	hasChild	Cesare_Borgia
+Pope_Alexander_VI	hasChild	Cesare_Borgia
+
+http://dbpedia.org/resource/Pope_Alexander_VI	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Cesare_Borgia
+Pope_Alexander_VI	Cesare_Borgia
+Pope_Alexander_VI	hasChild	Cesare_Borgia
+Pope_Alexander_VI	hasChild	Cesare_Borgia
+
+http://dbpedia.org/resource/Pope_Alexander_VI	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Cesare_Borgia
+Pope_Alexander_VI	Cesare_Borgia
+Pope_Alexander_VI	hasChild	Lucrezia_Borgia
+Pope_Alexander_VI	hasChild	Lucrezia_Borgia
+Pope_Alexander_VI	hasChild	Lucrezia_Borgia
+Pope_Alexander_VI	hasChild	Lucrezia_Borgia
+Pope_Alexander_VI	hasChild	Cesare_Borgia
+Pope_Alexander_VI	hasChild	Cesare_Borgia
+
+http://dbpedia.org/resource/Pope_Alexander_VI	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Cesare_Borgia
+Pope_Alexander_VI	Cesare_Borgia
+Pope_Alexander_VI	hasChild	Lucrezia_Borgia
+Pope_Alexander_VI	hasChild	Lucrezia_Borgia
+Vannozza_dei_Cattanei	hasChild	Lucrezia_Borgia
+Vannozza_dei_Cattanei	hasChild	Lucrezia_Borgia
+Vannozza_dei_Cattanei	hasChild	Cesare_Borgia
+Vannozza_dei_Cattanei	hasChild	Cesare_Borgia
+
+http://dbpedia.org/resource/Joyce_Gemayel	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Samy_Gemayel
+Joyce_Gemayel	Samy_Gemayel
+Amine_Gemayel	isMarriedTo	Joyce_Gemayel
+Joyce_Gemayel	isMarriedTo	Amine_Gemayel
+Amine_Gemayel	isMarriedTo	Joyce_Gemayel
+Joyce_Gemayel	isMarriedTo	Amine_Gemayel
+Amine_Gemayel	isMarriedTo	Joyce_Gemayel
+Joyce_Gemayel	isMarriedTo	Amine_Gemayel
+Amine_Gemayel	isMarriedTo	Joyce_Gemayel
+Joyce_Gemayel	isMarriedTo	Amine_Gemayel
+Joyce_Gemayel	hasChild	Samy_Gemayel
+Joyce_Gemayel	hasChild	Samy_Gemayel
+
+http://dbpedia.org/resource/Joyce_Gemayel	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Samy_Gemayel
+Joyce_Gemayel	Samy_Gemayel
+Joyce_Gemayel	hasChild	Samy_Gemayel
+Joyce_Gemayel	hasChild	Samy_Gemayel
+
+http://dbpedia.org/resource/Parmeshwar_Godrej	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Tanya_Dubash
+Parmeshwar_Godrej	Tanya_Dubash
+Parmeshwar_Godrej	hasChild	Tanya_Dubash
+Parmeshwar_Godrej	hasChild	Tanya_Dubash
+
+http://dbpedia.org/resource/Ri_Sol-ju	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Ri_Sol-ju
+Ri_Sol-ju	Ri_Sol-ju
+Kim_Jong-un	isMarriedTo	Ri_Sol-ju
+Ri_Sol-ju	isMarriedTo	Kim_Jong-un
+Kim_Jong-un	isMarriedTo	Ri_Sol-ju
+Ri_Sol-ju	isMarriedTo	Kim_Jong-un
+Kim_Jong-un	graduatedFrom	Kim_Il-sung_University
+Kim_Jong-un	graduatedFrom	Kim_Il-sung_University
+Ri_Sol-ju	graduatedFrom	Kim_Il-sung_University
+Ri_Sol-ju	graduatedFrom	Kim_Il-sung_University
+
+http://dbpedia.org/resource/Ri_Sol-ju	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Ri_Sol-ju
+Ri_Sol-ju	Ri_Sol-ju
+Kim_Jong-un	isMarriedTo	Ri_Sol-ju
+Ri_Sol-ju	isMarriedTo	Kim_Jong-un
+Kim_Jong-un	isMarriedTo	Ri_Sol-ju
+Ri_Sol-ju	isMarriedTo	Kim_Jong-un
+Kim_Jong-un	isMarriedTo	Ri_Sol-ju
+Ri_Sol-ju	isMarriedTo	Kim_Jong-un
+Kim_Jong-un	isMarriedTo	Ri_Sol-ju
+Ri_Sol-ju	isMarriedTo	Kim_Jong-un
+
+http://dbpedia.org/resource/Ri_Sol-ju	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Ri_Sol-ju
+Ri_Sol-ju	Ri_Sol-ju
+Ri_Sol-ju	graduatedFrom	Kim_Il-sung_University
+Ri_Sol-ju	graduatedFrom	Kim_Il-sung_University
+Kim_Jong-un	graduatedFrom	Kim_Il-sung_University
+Kim_Jong-un	graduatedFrom	Kim_Il-sung_University
+Kim_Jong-un	isMarriedTo	Ri_Sol-ju
+Ri_Sol-ju	isMarriedTo	Kim_Jong-un
+Kim_Jong-un	isMarriedTo	Ri_Sol-ju
+Ri_Sol-ju	isMarriedTo	Kim_Jong-un
+
+http://dbpedia.org/resource/Ri_Sol-ju	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Ri_Sol-ju
+Ri_Sol-ju	Ri_Sol-ju
+Ri_Sol-ju	graduatedFrom	Kim_Il-sung_University
+Ri_Sol-ju	graduatedFrom	Kim_Il-sung_University
+Ri_Sol-ju	graduatedFrom	Kim_Il-sung_University
+Ri_Sol-ju	graduatedFrom	Kim_Il-sung_University
+
+http://dbpedia.org/resource/Richard_J._Daley	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/John_P._Daley
+Richard_J._Daley	John_P._Daley
+Richard_J._Daley	hasChild	William_M._Daley
+Richard_J._Daley	hasChild	William_M._Daley
+William_M._Daley	graduatedFrom	Loyola_University_Chicago
+William_M._Daley	graduatedFrom	Loyola_University_Chicago
+John_P._Daley	graduatedFrom	Loyola_University_Chicago
+John_P._Daley	graduatedFrom	Loyola_University_Chicago
+
+http://dbpedia.org/resource/Mário_Soares	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/João_Soares_(politician)
+Mário_Soares	João_Soares_(politician)
+Mário_Soares	isMarriedTo	Maria_Barroso
+Maria_Barroso	isMarriedTo	Mário_Soares
+Mário_Soares	isMarriedTo	Maria_Barroso
+Maria_Barroso	isMarriedTo	Mário_Soares
+Mário_Soares	isMarriedTo	Maria_Barroso
+Maria_Barroso	isMarriedTo	Mário_Soares
+Mário_Soares	isMarriedTo	Maria_Barroso
+Maria_Barroso	isMarriedTo	Mário_Soares
+Mário_Soares	hasChild	João_Soares_(politician)
+Mário_Soares	hasChild	João_Soares_(politician)
+
+http://dbpedia.org/resource/Mário_Soares	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/João_Soares_(politician)
+Mário_Soares	João_Soares_(politician)
+Mário_Soares	isMarriedTo	Maria_Barroso
+Maria_Barroso	isMarriedTo	Mário_Soares
+Mário_Soares	isMarriedTo	Maria_Barroso
+Maria_Barroso	isMarriedTo	Mário_Soares
+Maria_Barroso	graduatedFrom	University_of_Lisbon
+Maria_Barroso	graduatedFrom	University_of_Lisbon
+João_Soares_(politician)	graduatedFrom	University_of_Lisbon
+João_Soares_(politician)	graduatedFrom	University_of_Lisbon
+
+http://dbpedia.org/resource/Mário_Soares	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/João_Soares_(politician)
+Mário_Soares	João_Soares_(politician)
+Mário_Soares	isMarriedTo	Maria_Barroso
+Maria_Barroso	isMarriedTo	Mário_Soares
+Mário_Soares	isMarriedTo	Maria_Barroso
+Maria_Barroso	isMarriedTo	Mário_Soares
+Maria_Barroso	hasChild	João_Soares_(politician)
+Maria_Barroso	hasChild	João_Soares_(politician)
+
+http://dbpedia.org/resource/Mário_Soares	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/João_Soares_(politician)
+Mário_Soares	João_Soares_(politician)
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+Mário_Soares	hasChild	João_Soares_(politician)
+Mário_Soares	hasChild	João_Soares_(politician)
+
+http://dbpedia.org/resource/Mário_Soares	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/João_Soares_(politician)
+Mário_Soares	João_Soares_(politician)
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+Maria_Barroso	diedIn	Lisbon
+Maria_Barroso	diedIn	Lisbon
+Maria_Barroso	hasChild	João_Soares_(politician)
+Maria_Barroso	hasChild	João_Soares_(politician)
+
+http://dbpedia.org/resource/Mário_Soares	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/João_Soares_(politician)
+Mário_Soares	João_Soares_(politician)
+Mário_Soares	hasChild	João_Soares_(politician)
+Mário_Soares	hasChild	João_Soares_(politician)
+
+http://dbpedia.org/resource/Mário_Soares	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/João_Soares_(politician)
+Mário_Soares	João_Soares_(politician)
+Mário_Soares	isAffiliatedTo	Social_Democratic_Party_(Portugal)
+Mário_Soares	isAffiliatedTo	Social_Democratic_Party_(Portugal)
+Mário_Soares	isAffiliatedTo	Social_Democratic_Party_(Portugal)
+Mário_Soares	isAffiliatedTo	Social_Democratic_Party_(Portugal)
+Mário_Soares	hasChild	João_Soares_(politician)
+Mário_Soares	hasChild	João_Soares_(politician)
+
+http://dbpedia.org/resource/Nydia_Quintero_Turbay	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Julio_César_Turbay_Quintero
+Nydia_Quintero_Turbay	Julio_César_Turbay_Quintero
+Gustavo_Balcázar_Monzón	isMarriedTo	Nydia_Quintero_Turbay
+Nydia_Quintero_Turbay	isMarriedTo	Gustavo_Balcázar_Monzón
+Gustavo_Balcázar_Monzón	isMarriedTo	Nydia_Quintero_Turbay
+Nydia_Quintero_Turbay	isMarriedTo	Gustavo_Balcázar_Monzón
+Gustavo_Balcázar_Monzón	graduatedFrom	Pontifical_Xavierian_University
+Gustavo_Balcázar_Monzón	graduatedFrom	Pontifical_Xavierian_University
+Julio_César_Turbay_Quintero	graduatedFrom	Pontifical_Xavierian_University
+Julio_César_Turbay_Quintero	graduatedFrom	Pontifical_Xavierian_University
+
+http://dbpedia.org/resource/Nydia_Quintero_Turbay	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Julio_César_Turbay_Quintero
+Nydia_Quintero_Turbay	Julio_César_Turbay_Quintero
+Nydia_Quintero_Turbay	isAffiliatedTo	Colombian_Liberal_Party
+Nydia_Quintero_Turbay	isAffiliatedTo	Colombian_Liberal_Party
+Julio_César_Turbay_Quintero	isAffiliatedTo	Colombian_Liberal_Party
+Julio_César_Turbay_Quintero	isAffiliatedTo	Colombian_Liberal_Party
+
+http://dbpedia.org/resource/Harris_Leuke_Ratwatte	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Anuruddha_Ratwatte
+Harris_Leuke_Ratwatte	Anuruddha_Ratwatte
+Harris_Leuke_Ratwatte	hasChild	Anuruddha_Ratwatte
+Harris_Leuke_Ratwatte	hasChild	Anuruddha_Ratwatte
+
+http://dbpedia.org/resource/Khair_Bakhsh_Marri	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Khair_Bakhsh_Marri
+Khair_Bakhsh_Marri	Khair_Bakhsh_Marri
+Khair_Bakhsh_Marri	hasChild	Changez_Marri
+Khair_Bakhsh_Marri	hasChild	Changez_Marri
+Changez_Marri	isCitizenOf	Pakistan
+Changez_Marri	isCitizenOf	Pakistan
+Khair_Bakhsh_Marri	isCitizenOf	Pakistan
+Khair_Bakhsh_Marri	isCitizenOf	Pakistan
+
+http://dbpedia.org/resource/Khair_Bakhsh_Marri	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Khair_Bakhsh_Marri
+Khair_Bakhsh_Marri	Khair_Bakhsh_Marri
+Khair_Bakhsh_Marri	hasChild	Changez_Marri
+Khair_Bakhsh_Marri	hasChild	Changez_Marri
+Khair_Bakhsh_Marri	hasChild	Changez_Marri
+Khair_Bakhsh_Marri	hasChild	Changez_Marri
+
+http://dbpedia.org/resource/Khair_Bakhsh_Marri	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Khair_Bakhsh_Marri
+Khair_Bakhsh_Marri	Khair_Bakhsh_Marri
+Khair_Bakhsh_Marri	hasChild	Mehran_Marri
+Khair_Bakhsh_Marri	hasChild	Mehran_Marri
+Khair_Bakhsh_Marri	hasChild	Mehran_Marri
+Khair_Bakhsh_Marri	hasChild	Mehran_Marri
+
+http://dbpedia.org/resource/Khair_Bakhsh_Marri	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Khair_Bakhsh_Marri
+Khair_Bakhsh_Marri	Khair_Bakhsh_Marri
+Khair_Bakhsh_Marri	hasChild	Mehran_Marri
+Khair_Bakhsh_Marri	hasChild	Mehran_Marri
+Mehran_Marri	isCitizenOf	Pakistan
+Mehran_Marri	isCitizenOf	Pakistan
+Khair_Bakhsh_Marri	isCitizenOf	Pakistan
+Khair_Bakhsh_Marri	isCitizenOf	Pakistan
+
+http://dbpedia.org/resource/Khair_Bakhsh_Marri	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Khair_Bakhsh_Marri
+Khair_Bakhsh_Marri	Khair_Bakhsh_Marri
+Khair_Bakhsh_Marri	isCitizenOf	Pakistan
+Khair_Bakhsh_Marri	isCitizenOf	Pakistan
+Khair_Bakhsh_Marri	isCitizenOf	Pakistan
+Khair_Bakhsh_Marri	isCitizenOf	Pakistan
+
+http://dbpedia.org/resource/Gisela_of_Burgundy	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Gisela_of_Hungary
+Gisela_of_Burgundy	Gisela_of_Hungary
+Humbert_II,_Count_of_Savoy	isMarriedTo	Gisela_of_Burgundy
+Gisela_of_Burgundy	isMarriedTo	Humbert_II,_Count_of_Savoy
+Humbert_II,_Count_of_Savoy	isMarriedTo	Gisela_of_Burgundy
+Gisela_of_Burgundy	isMarriedTo	Humbert_II,_Count_of_Savoy
+Humbert_II,_Count_of_Savoy	isMarriedTo	Gisela_of_Burgundy
+Gisela_of_Burgundy	isMarriedTo	Humbert_II,_Count_of_Savoy
+Humbert_II,_Count_of_Savoy	isMarriedTo	Gisela_of_Burgundy
+Gisela_of_Burgundy	isMarriedTo	Humbert_II,_Count_of_Savoy
+Gisela_of_Burgundy	hasChild	Gisela_of_Hungary
+Gisela_of_Burgundy	hasChild	Gisela_of_Hungary
+
+http://dbpedia.org/resource/Gisela_of_Burgundy	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Gisela_of_Hungary
+Gisela_of_Burgundy	Gisela_of_Hungary
+Gisela_of_Burgundy	hasChild	Gisela_of_Hungary
+Gisela_of_Burgundy	hasChild	Gisela_of_Hungary
+
+http://dbpedia.org/resource/Indira_Gandhi	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Sanjay_Gandhi
+Indira_Gandhi	Sanjay_Gandhi
+Feroze_Gandhi	isMarriedTo	Indira_Gandhi
+Indira_Gandhi	isMarriedTo	Feroze_Gandhi
+Feroze_Gandhi	isMarriedTo	Indira_Gandhi
+Indira_Gandhi	isMarriedTo	Feroze_Gandhi
+Feroze_Gandhi	diedIn	New_Delhi
+Feroze_Gandhi	diedIn	New_Delhi
+Sanjay_Gandhi	diedIn	New_Delhi
+Sanjay_Gandhi	wasBornIn	New_Delhi
+Sanjay_Gandhi	diedIn	New_Delhi
+Sanjay_Gandhi	wasBornIn	New_Delhi
+
+http://dbpedia.org/resource/Indira_Gandhi	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Sanjay_Gandhi
+Indira_Gandhi	Sanjay_Gandhi
+Feroze_Gandhi	isMarriedTo	Indira_Gandhi
+Indira_Gandhi	isMarriedTo	Feroze_Gandhi
+Feroze_Gandhi	isMarriedTo	Indira_Gandhi
+Indira_Gandhi	isMarriedTo	Feroze_Gandhi
+Feroze_Gandhi	hasChild	Sanjay_Gandhi
+Feroze_Gandhi	hasChild	Sanjay_Gandhi
+
+http://dbpedia.org/resource/Indira_Gandhi	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Sanjay_Gandhi
+Indira_Gandhi	Sanjay_Gandhi
+Indira_Gandhi	diedIn	New_Delhi
+Indira_Gandhi	diedIn	New_Delhi
+Sanjay_Gandhi	diedIn	New_Delhi
+Sanjay_Gandhi	wasBornIn	New_Delhi
+Sanjay_Gandhi	diedIn	New_Delhi
+Sanjay_Gandhi	wasBornIn	New_Delhi
+
+http://dbpedia.org/resource/Indira_Gandhi	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Sanjay_Gandhi
+Indira_Gandhi	Sanjay_Gandhi
+Indira_Gandhi	diedIn	New_Delhi
+Indira_Gandhi	diedIn	New_Delhi
+Feroze_Gandhi	diedIn	New_Delhi
+Feroze_Gandhi	diedIn	New_Delhi
+Feroze_Gandhi	hasChild	Sanjay_Gandhi
+Feroze_Gandhi	hasChild	Sanjay_Gandhi
+
+http://dbpedia.org/resource/Indira_Gandhi	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Sanjay_Gandhi
+Indira_Gandhi	Sanjay_Gandhi
+Indira_Gandhi	diedIn	New_Delhi
+Indira_Gandhi	diedIn	New_Delhi
+Varun_Gandhi	wasBornIn	New_Delhi
+Varun_Gandhi	livesIn	New_Delhi
+Varun_Gandhi	wasBornIn	New_Delhi
+Varun_Gandhi	livesIn	New_Delhi
+Sanjay_Gandhi	hasChild	Varun_Gandhi
+Sanjay_Gandhi	hasChild	Varun_Gandhi
+
+http://dbpedia.org/resource/Mallika_Sukumaran	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Prithviraj_Sukumaran
+Mallika_Sukumaran	Prithviraj_Sukumaran
+Sukumaran	isMarriedTo	Mallika_Sukumaran
+Mallika_Sukumaran	isMarriedTo	Sukumaran
+Sukumaran	isMarriedTo	Mallika_Sukumaran
+Mallika_Sukumaran	isMarriedTo	Sukumaran
+Sukumaran	isMarriedTo	Mallika_Sukumaran
+Mallika_Sukumaran	isMarriedTo	Sukumaran
+Sukumaran	isMarriedTo	Mallika_Sukumaran
+Mallika_Sukumaran	isMarriedTo	Sukumaran
+Mallika_Sukumaran	hasChild	Prithviraj_Sukumaran
+Mallika_Sukumaran	hasChild	Prithviraj_Sukumaran
+
+http://dbpedia.org/resource/Mallika_Sukumaran	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Prithviraj_Sukumaran
+Mallika_Sukumaran	Prithviraj_Sukumaran
+Sukumaran	isMarriedTo	Mallika_Sukumaran
+Mallika_Sukumaran	isMarriedTo	Sukumaran
+Sukumaran	isMarriedTo	Mallika_Sukumaran
+Mallika_Sukumaran	isMarriedTo	Sukumaran
+Sukumaran	hasChild	Prithviraj_Sukumaran
+Sukumaran	hasChild	Prithviraj_Sukumaran
+
+http://dbpedia.org/resource/Mallika_Sukumaran	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Prithviraj_Sukumaran
+Mallika_Sukumaran	Prithviraj_Sukumaran
+Mallika_Sukumaran	hasChild	Prithviraj_Sukumaran
+Mallika_Sukumaran	hasChild	Prithviraj_Sukumaran
+
+http://dbpedia.org/resource/Mallika_Sukumaran	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Prithviraj_Sukumaran
+Mallika_Sukumaran	Prithviraj_Sukumaran
+Mallika_Sukumaran	hasChild	Indrajith_Sukumaran
+Mallika_Sukumaran	hasChild	Indrajith_Sukumaran
+Indrajith_Sukumaran	livesIn	Kochi
+Indrajith_Sukumaran	livesIn	Kochi
+Prithviraj_Sukumaran	livesIn	Kochi
+Prithviraj_Sukumaran	livesIn	Kochi
+
+http://dbpedia.org/resource/Mallika_Sukumaran	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Prithviraj_Sukumaran
+Mallika_Sukumaran	Prithviraj_Sukumaran
+Mallika_Sukumaran	hasChild	Indrajith_Sukumaran
+Mallika_Sukumaran	hasChild	Indrajith_Sukumaran
+Mallika_Sukumaran	hasChild	Indrajith_Sukumaran
+Mallika_Sukumaran	hasChild	Indrajith_Sukumaran
+Mallika_Sukumaran	hasChild	Prithviraj_Sukumaran
+Mallika_Sukumaran	hasChild	Prithviraj_Sukumaran
+
+http://dbpedia.org/resource/Mallika_Sukumaran	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Prithviraj_Sukumaran
+Mallika_Sukumaran	Prithviraj_Sukumaran
+Mallika_Sukumaran	hasChild	Indrajith_Sukumaran
+Mallika_Sukumaran	hasChild	Indrajith_Sukumaran
+Sukumaran	hasChild	Indrajith_Sukumaran
+Sukumaran	hasChild	Indrajith_Sukumaran
+Sukumaran	hasChild	Prithviraj_Sukumaran
+Sukumaran	hasChild	Prithviraj_Sukumaran
+
+http://dbpedia.org/resource/Mallika_Sukumaran	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Prithviraj_Sukumaran
+Mallika_Sukumaran	Prithviraj_Sukumaran
+Mallika_Sukumaran	wasBornIn	Haripad
+Mallika_Sukumaran	wasBornIn	Haripad
+Mallika_Sukumaran	wasBornIn	Haripad
+Mallika_Sukumaran	wasBornIn	Haripad
+Mallika_Sukumaran	hasChild	Prithviraj_Sukumaran
+Mallika_Sukumaran	hasChild	Prithviraj_Sukumaran
+
+http://dbpedia.org/resource/Christian_Streit_White	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Robert_White_(West_Virginia_senator)
+Christian_Streit_White	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+
+http://dbpedia.org/resource/Christian_Streit_White	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Robert_White_(West_Virginia_senator)
+Christian_Streit_White	Robert_White_(West_Virginia_senator)
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+
+http://dbpedia.org/resource/Christian_Streit_White	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Robert_White_(West_Virginia_senator)
+Christian_Streit_White	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+
+http://dbpedia.org/resource/Christian_Streit_White	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Robert_White_(West_Virginia_senator)
+Christian_Streit_White	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+
+http://dbpedia.org/resource/Frank_Murkowski	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Lisa_Murkowski
+Frank_Murkowski	Lisa_Murkowski
+Frank_Murkowski	hasChild	Lisa_Murkowski
+Frank_Murkowski	hasChild	Lisa_Murkowski
+
+http://dbpedia.org/resource/Frank_Murkowski	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Lisa_Murkowski
+Frank_Murkowski	Lisa_Murkowski
+Frank_Murkowski	graduatedFrom	Seattle_University
+Frank_Murkowski	graduatedFrom	Seattle_University
+Frank_Murkowski	graduatedFrom	Seattle_University
+Frank_Murkowski	graduatedFrom	Seattle_University
+Frank_Murkowski	hasChild	Lisa_Murkowski
+Frank_Murkowski	hasChild	Lisa_Murkowski
+
+http://dbpedia.org/resource/Marietta_de_Patras	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/James_II_of_Cyprus
+Marietta_de_Patras	James_II_of_Cyprus
+Marietta_de_Patras	hasChild	James_II_of_Cyprus
+Marietta_de_Patras	hasChild	James_II_of_Cyprus
+
+http://dbpedia.org/resource/Robert_White_(West_Virginia_senator)	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Robert_White_(judge)
+Robert_White_(West_Virginia_senator)	Robert_White_(judge)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+Robert_White_(judge)	hasChild	John_Baker_White_(Virginia)
+Robert_White_(judge)	hasChild	John_Baker_White_(Virginia)
+
+http://dbpedia.org/resource/Don_Carolis_Hewavitharana	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Anagarika_Dharmapala
+Don_Carolis_Hewavitharana	Anagarika_Dharmapala
+Don_Carolis_Hewavitharana	hasChild	Anagarika_Dharmapala
+Don_Carolis_Hewavitharana	hasChild	Anagarika_Dharmapala
+
+http://dbpedia.org/resource/Don_Carolis_Hewavitharana	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Anagarika_Dharmapala
+Don_Carolis_Hewavitharana	Anagarika_Dharmapala
+Don_Carolis_Hewavitharana	wasBornIn	Matara,_Sri_Lanka
+Don_Carolis_Hewavitharana	wasBornIn	Matara,_Sri_Lanka
+Anagarika_Dharmapala	wasBornIn	Matara,_Sri_Lanka
+Anagarika_Dharmapala	wasBornIn	Matara,_Sri_Lanka
+
+http://dbpedia.org/resource/Don_Carolis_Hewavitharana	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Anagarika_Dharmapala
+Don_Carolis_Hewavitharana	Anagarika_Dharmapala
+Don_Carolis_Hewavitharana	wasBornIn	Matara,_Sri_Lanka
+Don_Carolis_Hewavitharana	wasBornIn	Matara,_Sri_Lanka
+Don_Carolis_Hewavitharana	wasBornIn	Matara,_Sri_Lanka
+Don_Carolis_Hewavitharana	wasBornIn	Matara,_Sri_Lanka
+Don_Carolis_Hewavitharana	hasChild	Anagarika_Dharmapala
+Don_Carolis_Hewavitharana	hasChild	Anagarika_Dharmapala
+
+http://dbpedia.org/resource/William_A._Egan	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Dennis_Egan
+William_A._Egan	Dennis_Egan
+William_A._Egan	isPoliticianOf	Alaska
+William_A._Egan	isPoliticianOf	Alaska
+Alaska	hasCapital	Juneau,_Alaska
+Alaska	isLocatedIn	Juneau,_Alaska
+Juneau,_Alaska	isLocatedIn	Alaska
+Alaska	hasCapital	Juneau,_Alaska
+Alaska	isLocatedIn	Juneau,_Alaska
+Juneau,_Alaska	isLocatedIn	Alaska
+Dennis_Egan	isLeaderOf	Juneau,_Alaska
+Dennis_Egan	wasBornIn	Juneau,_Alaska
+Dennis_Egan	isLeaderOf	Juneau,_Alaska
+Dennis_Egan	wasBornIn	Juneau,_Alaska
+
+http://dbpedia.org/resource/William_A._Egan	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Dennis_Egan
+William_A._Egan	Dennis_Egan
+William_A._Egan	wasBornIn	Valdez,_Alaska
+William_A._Egan	wasBornIn	Valdez,_Alaska
+William_A._Egan	wasBornIn	Valdez,_Alaska
+William_A._Egan	wasBornIn	Valdez,_Alaska
+William_A._Egan	hasChild	Dennis_Egan
+William_A._Egan	hasChild	Dennis_Egan
+
+http://dbpedia.org/resource/William_A._Egan	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Dennis_Egan
+William_A._Egan	Dennis_Egan
+William_A._Egan	hasChild	Dennis_Egan
+William_A._Egan	hasChild	Dennis_Egan
+
+http://dbpedia.org/resource/Giovanni_Amendola	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Giorgio_Amendola
+Giovanni_Amendola	Giorgio_Amendola
+Giovanni_Amendola	wasBornIn	Naples
+Giovanni_Amendola	wasBornIn	Naples
+Giorgio_Napolitano	wasBornIn	Naples
+Giorgio_Napolitano	wasBornIn	Naples
+Giorgio_Amendola	influences	Giorgio_Napolitano
+Giorgio_Amendola	influences	Giorgio_Napolitano
+
+http://dbpedia.org/resource/Giovanni_Amendola	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Giorgio_Amendola
+Giovanni_Amendola	Giorgio_Amendola
+Giovanni_Amendola	hasChild	Giorgio_Amendola
+Giovanni_Amendola	hasChild	Giorgio_Amendola
+
+http://dbpedia.org/resource/Ellen_G._White	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/William_C._White
+Ellen_G._White	William_C._White
+James_Springer_White	isMarriedTo	Ellen_G._White
+Ellen_G._White	isMarriedTo	James_Springer_White
+James_Springer_White	isMarriedTo	Ellen_G._White
+Ellen_G._White	isMarriedTo	James_Springer_White
+James_Springer_White	isMarriedTo	Ellen_G._White
+Ellen_G._White	isMarriedTo	James_Springer_White
+James_Springer_White	isMarriedTo	Ellen_G._White
+Ellen_G._White	isMarriedTo	James_Springer_White
+Ellen_G._White	hasChild	William_C._White
+Ellen_G._White	hasChild	William_C._White
+
+http://dbpedia.org/resource/Ellen_G._White	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/William_C._White
+Ellen_G._White	William_C._White
+James_Springer_White	isMarriedTo	Ellen_G._White
+Ellen_G._White	isMarriedTo	James_Springer_White
+James_Springer_White	isMarriedTo	Ellen_G._White
+Ellen_G._White	isMarriedTo	James_Springer_White
+James_Springer_White	hasChild	William_C._White
+James_Springer_White	hasChild	William_C._White
+
+http://dbpedia.org/resource/Ellen_G._White	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/William_C._White
+Ellen_G._White	William_C._White
+Ellen_G._White	hasChild	William_C._White
+Ellen_G._White	hasChild	William_C._White
+
+http://dbpedia.org/resource/Ellen_G._White	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/William_C._White
+Ellen_G._White	William_C._White
+Ellen_G._White	wasBornIn	Gorham,_Maine
+Ellen_G._White	wasBornIn	Gorham,_Maine
+Ellen_G._White	wasBornIn	Gorham,_Maine
+Ellen_G._White	wasBornIn	Gorham,_Maine
+Ellen_G._White	hasChild	William_C._White
+Ellen_G._White	hasChild	William_C._White
+
+http://dbpedia.org/resource/Ellen_G._White	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/William_C._White
+Ellen_G._White	William_C._White
+Christopher_Mwashinga	influences	Ellen_G._White
+Christopher_Mwashinga	influences	Ellen_G._White
+Christopher_Mwashinga	influences	Ellen_G._White
+Christopher_Mwashinga	influences	Ellen_G._White
+Ellen_G._White	hasChild	William_C._White
+Ellen_G._White	hasChild	William_C._White
+
+http://dbpedia.org/resource/Mary_Brave_Bird	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Leonard_Crow_Dog
+Mary_Brave_Bird	Leonard_Crow_Dog
+Leonard_Crow_Dog	isMarriedTo	Mary_Brave_Bird
+Mary_Brave_Bird	isMarriedTo	Leonard_Crow_Dog
+Leonard_Crow_Dog	isMarriedTo	Mary_Brave_Bird
+Mary_Brave_Bird	isMarriedTo	Leonard_Crow_Dog
+
+http://dbpedia.org/resource/Tan_Cheng_Lock	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Tan_Siew_Sin
+Tan_Cheng_Lock	Tan_Siew_Sin
+Tan_Cheng_Lock	hasChild	Tan_Siew_Sin
+Tan_Cheng_Lock	hasChild	Tan_Siew_Sin
+
+http://dbpedia.org/resource/Tan_Cheng_Lock	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Tan_Siew_Sin
+Tan_Cheng_Lock	Tan_Siew_Sin
+Tan_Cheng_Lock	wasBornIn	Straits_Settlements
+Tan_Cheng_Lock	wasBornIn	Straits_Settlements
+Tan_Cheng_Lock	wasBornIn	Straits_Settlements
+Tan_Cheng_Lock	wasBornIn	Straits_Settlements
+Tan_Cheng_Lock	hasChild	Tan_Siew_Sin
+Tan_Cheng_Lock	hasChild	Tan_Siew_Sin
+
+http://dbpedia.org/resource/Tan_Cheng_Lock	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Tan_Siew_Sin
+Tan_Cheng_Lock	Tan_Siew_Sin
+Tan_Cheng_Lock	created	Alliance_Party_(Malaysia)
+Tan_Cheng_Lock	created	Alliance_Party_(Malaysia)
+Alliance_Party_(Malaysia)	isLocatedIn	Kuala_Lumpur
+Alliance_Party_(Malaysia)	isLocatedIn	Kuala_Lumpur
+Tan_Siew_Sin	livesIn	Kuala_Lumpur
+Tan_Siew_Sin	diedIn	Kuala_Lumpur
+Tan_Siew_Sin	livesIn	Kuala_Lumpur
+Tan_Siew_Sin	diedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/Tan_Cheng_Lock	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Tan_Siew_Sin
+Tan_Cheng_Lock	Tan_Siew_Sin
+Tan_Cheng_Lock	created	Alliance_Party_(Malaysia)
+Tan_Cheng_Lock	created	Alliance_Party_(Malaysia)
+Tan_Cheng_Lock	created	Alliance_Party_(Malaysia)
+Tan_Cheng_Lock	created	Alliance_Party_(Malaysia)
+Tan_Cheng_Lock	hasChild	Tan_Siew_Sin
+Tan_Cheng_Lock	hasChild	Tan_Siew_Sin
+
+http://dbpedia.org/resource/Y._S._Vijayamma	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Y._S._Sharmila
+Y._S._Vijayamma	Y._S._Sharmila
+Y._S._Vijayamma	isMarriedTo	Y._S._Rajasekhara_Reddy
+Y._S._Rajasekhara_Reddy	isMarriedTo	Y._S._Vijayamma
+Y._S._Vijayamma	isMarriedTo	Y._S._Rajasekhara_Reddy
+Y._S._Rajasekhara_Reddy	isMarriedTo	Y._S._Vijayamma
+Y._S._Vijayamma	isMarriedTo	Y._S._Rajasekhara_Reddy
+Y._S._Rajasekhara_Reddy	isMarriedTo	Y._S._Vijayamma
+Y._S._Vijayamma	isMarriedTo	Y._S._Rajasekhara_Reddy
+Y._S._Rajasekhara_Reddy	isMarriedTo	Y._S._Vijayamma
+Y._S._Vijayamma	hasChild	Y._S._Sharmila
+Y._S._Vijayamma	hasChild	Y._S._Sharmila
+
+http://dbpedia.org/resource/Y._S._Vijayamma	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Y._S._Sharmila
+Y._S._Vijayamma	Y._S._Sharmila
+Y._S._Vijayamma	hasChild	Y._S._Sharmila
+Y._S._Vijayamma	hasChild	Y._S._Sharmila
+
+http://dbpedia.org/resource/Ann_Romney	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Tagg_Romney
+Ann_Romney	Tagg_Romney
+Mitt_Romney	isMarriedTo	Ann_Romney
+Ann_Romney	isMarriedTo	Mitt_Romney
+Mitt_Romney	isMarriedTo	Ann_Romney
+Ann_Romney	isMarriedTo	Mitt_Romney
+Mitt_Romney	graduatedFrom	Brigham_Young_University
+Mitt_Romney	graduatedFrom	Brigham_Young_University
+Tagg_Romney	graduatedFrom	Brigham_Young_University
+Tagg_Romney	graduatedFrom	Brigham_Young_University
+
+http://dbpedia.org/resource/Ann_Romney	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Tagg_Romney
+Ann_Romney	Tagg_Romney
+Ann_Romney	graduatedFrom	Brigham_Young_University
+Ann_Romney	graduatedFrom	Brigham_Young_University
+Tagg_Romney	graduatedFrom	Brigham_Young_University
+Tagg_Romney	graduatedFrom	Brigham_Young_University
+
+http://dbpedia.org/resource/Ann_Romney	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Tagg_Romney
+Ann_Romney	Tagg_Romney
+Ann_Romney	graduatedFrom	Brigham_Young_University
+Ann_Romney	graduatedFrom	Brigham_Young_University
+Brigham_Young_University	isLocatedIn	Provo,_Utah
+Brigham_Young_University	isLocatedIn	Provo,_Utah
+Tagg_Romney	wasBornIn	Provo,_Utah
+Tagg_Romney	wasBornIn	Provo,_Utah
+
+http://dbpedia.org/resource/Charles_W._Engelhard,_Jr.	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Charles_W._Engelhard,_Jr.
+Charles_W._Engelhard,_Jr.	Charles_W._Engelhard,_Jr.
+Charles_W._Engelhard,_Jr.	isMarriedTo	Jane_Engelhard
+Jane_Engelhard	isMarriedTo	Charles_W._Engelhard,_Jr.
+Charles_W._Engelhard,_Jr.	isMarriedTo	Jane_Engelhard
+Jane_Engelhard	isMarriedTo	Charles_W._Engelhard,_Jr.
+Charles_W._Engelhard,_Jr.	isMarriedTo	Jane_Engelhard
+Jane_Engelhard	isMarriedTo	Charles_W._Engelhard,_Jr.
+Charles_W._Engelhard,_Jr.	isMarriedTo	Jane_Engelhard
+Jane_Engelhard	isMarriedTo	Charles_W._Engelhard,_Jr.
+
+http://dbpedia.org/resource/Charles_W._Engelhard,_Jr.	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Charles_W._Engelhard,_Jr.
+Charles_W._Engelhard,_Jr.	Charles_W._Engelhard,_Jr.
+Charles_W._Engelhard,_Jr.	isMarriedTo	Jane_Engelhard
+Jane_Engelhard	isMarriedTo	Charles_W._Engelhard,_Jr.
+Charles_W._Engelhard,_Jr.	isMarriedTo	Jane_Engelhard
+Jane_Engelhard	isMarriedTo	Charles_W._Engelhard,_Jr.
+Jane_Engelhard	hasChild	Annette_de_la_Renta
+Jane_Engelhard	hasChild	Annette_de_la_Renta
+Charles_W._Engelhard,_Jr.	hasChild	Annette_de_la_Renta
+Charles_W._Engelhard,_Jr.	hasChild	Annette_de_la_Renta
+
+http://dbpedia.org/resource/Charles_W._Engelhard,_Jr.	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Charles_W._Engelhard,_Jr.
+Charles_W._Engelhard,_Jr.	Charles_W._Engelhard,_Jr.
+Charles_W._Engelhard,_Jr.	hasChild	Annette_de_la_Renta
+Charles_W._Engelhard,_Jr.	hasChild	Annette_de_la_Renta
+Charles_W._Engelhard,_Jr.	hasChild	Annette_de_la_Renta
+Charles_W._Engelhard,_Jr.	hasChild	Annette_de_la_Renta
+
+http://dbpedia.org/resource/Charles_W._Engelhard,_Jr.	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Charles_W._Engelhard,_Jr.
+Charles_W._Engelhard,_Jr.	Charles_W._Engelhard,_Jr.
+Charles_W._Engelhard,_Jr.	hasChild	Annette_de_la_Renta
+Charles_W._Engelhard,_Jr.	hasChild	Annette_de_la_Renta
+Jane_Engelhard	hasChild	Annette_de_la_Renta
+Jane_Engelhard	hasChild	Annette_de_la_Renta
+Charles_W._Engelhard,_Jr.	isMarriedTo	Jane_Engelhard
+Jane_Engelhard	isMarriedTo	Charles_W._Engelhard,_Jr.
+Charles_W._Engelhard,_Jr.	isMarriedTo	Jane_Engelhard
+Jane_Engelhard	isMarriedTo	Charles_W._Engelhard,_Jr.
+
+http://dbpedia.org/resource/Juraj_V_Zrinski	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Miklós_Zrínyi
+Juraj_V_Zrinski	Miklós_Zrínyi
+Juraj_V_Zrinski	hasChild	Miklós_Zrínyi
+Juraj_V_Zrinski	hasChild	Miklós_Zrínyi
+
+http://dbpedia.org/resource/Juraj_V_Zrinski	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Miklós_Zrínyi
+Juraj_V_Zrinski	Miklós_Zrínyi
+Juraj_V_Zrinski	wasBornIn	Čakovec
+Juraj_V_Zrinski	wasBornIn	Čakovec
+Juraj_V_Zrinski	wasBornIn	Čakovec
+Juraj_V_Zrinski	wasBornIn	Čakovec
+Juraj_V_Zrinski	hasChild	Miklós_Zrínyi
+Juraj_V_Zrinski	hasChild	Miklós_Zrínyi
+
+http://dbpedia.org/resource/Allu_Aravind	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Allu_Arjun
+Allu_Aravind	Allu_Arjun
+Allu_Aravind	livesIn	Telangana
+Allu_Aravind	livesIn	Telangana
+Allu_Arjun	livesIn	Telangana
+Allu_Arjun	livesIn	Telangana
+
+http://dbpedia.org/resource/Allu_Aravind	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Allu_Arjun
+Allu_Aravind	Allu_Arjun
+Allu_Aravind	hasChild	Allu_Arjun
+Allu_Aravind	hasChild	Allu_Arjun
+
+http://dbpedia.org/resource/Allu_Aravind	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Allu_Arjun
+Allu_Aravind	Allu_Arjun
+Allu_Aravind	hasChild	Allu_Sirish
+Allu_Aravind	hasChild	Allu_Sirish
+Allu_Sirish	livesIn	Telangana
+Allu_Sirish	livesIn	Telangana
+Allu_Arjun	livesIn	Telangana
+Allu_Arjun	livesIn	Telangana
+
+http://dbpedia.org/resource/Allu_Aravind	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Allu_Arjun
+Allu_Aravind	Allu_Arjun
+Allu_Aravind	hasChild	Allu_Sirish
+Allu_Aravind	hasChild	Allu_Sirish
+Allu_Aravind	hasChild	Allu_Sirish
+Allu_Aravind	hasChild	Allu_Sirish
+Allu_Aravind	hasChild	Allu_Arjun
+Allu_Aravind	hasChild	Allu_Arjun
+
+http://dbpedia.org/resource/Christian_Streit_White	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+
+http://dbpedia.org/resource/Christian_Streit_White	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	John_Baker_White_(West_Virginia_politician)
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+John_Baker_White_(Virginia)	hasChild	Christian_Streit_White
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+
+http://dbpedia.org/resource/Christian_Streit_White	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	Robert_White_(West_Virginia_senator)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+
+http://dbpedia.org/resource/Christian_Streit_White	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	wasBornIn	Romney,_West_Virginia
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+Christian_Streit_White	hasChild	John_Baker_White_(West_Virginia_politician)
+
+http://dbpedia.org/resource/Sushil_Ramgoolam	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Navin_Ramgoolam
+Sushil_Ramgoolam	Navin_Ramgoolam
+Sushil_Ramgoolam	isMarriedTo	Seewoosagur_Ramgoolam
+Seewoosagur_Ramgoolam	isMarriedTo	Sushil_Ramgoolam
+Sushil_Ramgoolam	isMarriedTo	Seewoosagur_Ramgoolam
+Seewoosagur_Ramgoolam	isMarriedTo	Sushil_Ramgoolam
+Seewoosagur_Ramgoolam	hasChild	Navin_Ramgoolam
+Seewoosagur_Ramgoolam	hasChild	Navin_Ramgoolam
+
+http://dbpedia.org/resource/Miguel_de_la_Madrid	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Enrique_de_la_Madrid_Cordero
+Miguel_de_la_Madrid	Enrique_de_la_Madrid_Cordero
+Miguel_de_la_Madrid	graduatedFrom	John_F._Kennedy_School_of_Government
+Miguel_de_la_Madrid	graduatedFrom	John_F._Kennedy_School_of_Government
+Miguel_de_la_Madrid	graduatedFrom	John_F._Kennedy_School_of_Government
+Miguel_de_la_Madrid	graduatedFrom	John_F._Kennedy_School_of_Government
+Miguel_de_la_Madrid	hasChild	Enrique_de_la_Madrid_Cordero
+Miguel_de_la_Madrid	hasChild	Enrique_de_la_Madrid_Cordero
+
+http://dbpedia.org/resource/Miguel_de_la_Madrid	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Enrique_de_la_Madrid_Cordero
+Miguel_de_la_Madrid	Enrique_de_la_Madrid_Cordero
+Miguel_de_la_Madrid	graduatedFrom	John_F._Kennedy_School_of_Government
+Miguel_de_la_Madrid	graduatedFrom	John_F._Kennedy_School_of_Government
+Enrique_de_la_Madrid_Cordero	graduatedFrom	John_F._Kennedy_School_of_Government
+Enrique_de_la_Madrid_Cordero	graduatedFrom	John_F._Kennedy_School_of_Government
+
+http://dbpedia.org/resource/Miguel_de_la_Madrid	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Enrique_de_la_Madrid_Cordero
+Miguel_de_la_Madrid	Enrique_de_la_Madrid_Cordero
+Miguel_de_la_Madrid	hasChild	Enrique_de_la_Madrid_Cordero
+Miguel_de_la_Madrid	hasChild	Enrique_de_la_Madrid_Cordero
+
+http://dbpedia.org/resource/Miguel_de_la_Madrid	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Enrique_de_la_Madrid_Cordero
+Miguel_de_la_Madrid	Enrique_de_la_Madrid_Cordero
+Miguel_de_la_Madrid	isAffiliatedTo	Institutional_Revolutionary_Party
+Miguel_de_la_Madrid	isAffiliatedTo	Institutional_Revolutionary_Party
+Enrique_de_la_Madrid_Cordero	isAffiliatedTo	Institutional_Revolutionary_Party
+Enrique_de_la_Madrid_Cordero	isAffiliatedTo	Institutional_Revolutionary_Party
+
+http://dbpedia.org/resource/Miguel_de_la_Madrid	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Enrique_de_la_Madrid_Cordero
+Miguel_de_la_Madrid	Enrique_de_la_Madrid_Cordero
+Miguel_de_la_Madrid	isAffiliatedTo	Institutional_Revolutionary_Party
+Miguel_de_la_Madrid	isAffiliatedTo	Institutional_Revolutionary_Party
+Miguel_de_la_Madrid	isAffiliatedTo	Institutional_Revolutionary_Party
+Miguel_de_la_Madrid	isAffiliatedTo	Institutional_Revolutionary_Party
+Miguel_de_la_Madrid	hasChild	Enrique_de_la_Madrid_Cordero
+Miguel_de_la_Madrid	hasChild	Enrique_de_la_Madrid_Cordero
+
+http://dbpedia.org/resource/Miguel_de_la_Madrid	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Enrique_de_la_Madrid_Cordero
+Miguel_de_la_Madrid	Enrique_de_la_Madrid_Cordero
+Miguel_de_la_Madrid	graduatedFrom	National_Autonomous_University_of_Mexico
+Miguel_de_la_Madrid	graduatedFrom	National_Autonomous_University_of_Mexico
+Miguel_de_la_Madrid	graduatedFrom	National_Autonomous_University_of_Mexico
+Miguel_de_la_Madrid	graduatedFrom	National_Autonomous_University_of_Mexico
+Miguel_de_la_Madrid	hasChild	Enrique_de_la_Madrid_Cordero
+Miguel_de_la_Madrid	hasChild	Enrique_de_la_Madrid_Cordero
+
+http://dbpedia.org/resource/Colleen_Howe	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Marty_Howe
+Colleen_Howe	Marty_Howe
+Colleen_Howe	hasChild	Mark_Howe
+Colleen_Howe	hasChild	Mark_Howe
+Mark_Howe	isAffiliatedTo	Hartford_Whalers
+Mark_Howe	isAffiliatedTo	Hartford_Whalers
+Marty_Howe	isAffiliatedTo	Hartford_Whalers
+Marty_Howe	isAffiliatedTo	Hartford_Whalers
+
+http://dbpedia.org/resource/Colleen_Howe	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Marty_Howe
+Colleen_Howe	Marty_Howe
+Colleen_Howe	hasChild	Mark_Howe
+Colleen_Howe	hasChild	Mark_Howe
+Mark_Howe	isAffiliatedTo	Boston_Bruins
+Mark_Howe	isAffiliatedTo	Boston_Bruins
+Marty_Howe	isAffiliatedTo	Boston_Bruins
+Marty_Howe	isAffiliatedTo	Boston_Bruins
+
+http://dbpedia.org/resource/James_Madison	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/John_Payne_Todd
+James_Madison	John_Payne_Todd
+James_Madison	isMarriedTo	Dolley_Madison
+Dolley_Madison	isMarriedTo	James_Madison
+James_Madison	isMarriedTo	Dolley_Madison
+Dolley_Madison	isMarriedTo	James_Madison
+Dolley_Madison	hasChild	John_Payne_Todd
+Dolley_Madison	hasChild	John_Payne_Todd
+
+http://dbpedia.org/resource/Nikos_Konstantopoulos	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Zoe_Konstantopoulou
+Nikos_Konstantopoulos	Zoe_Konstantopoulou
+Nikos_Konstantopoulos	hasChild	Zoe_Konstantopoulou
+Nikos_Konstantopoulos	hasChild	Zoe_Konstantopoulou
+
+http://dbpedia.org/resource/Nikos_Konstantopoulos	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Zoe_Konstantopoulou
+Nikos_Konstantopoulos	Zoe_Konstantopoulou
+Nikos_Konstantopoulos	isAffiliatedTo	Centre_Union
+Nikos_Konstantopoulos	isAffiliatedTo	Centre_Union
+Nikos_Konstantopoulos	isAffiliatedTo	Centre_Union
+Nikos_Konstantopoulos	isAffiliatedTo	Centre_Union
+Nikos_Konstantopoulos	hasChild	Zoe_Konstantopoulou
+Nikos_Konstantopoulos	hasChild	Zoe_Konstantopoulou
+
+http://dbpedia.org/resource/Walter_Sisulu	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Zwelakhe_Sisulu
+Walter_Sisulu	Zwelakhe_Sisulu
+Walter_Sisulu	hasChild	Zwelakhe_Sisulu
+Walter_Sisulu	hasChild	Zwelakhe_Sisulu
+
+http://dbpedia.org/resource/Walter_Sisulu	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Zwelakhe_Sisulu
+Walter_Sisulu	Zwelakhe_Sisulu
+Walter_Sisulu	isAffiliatedTo	African_National_Congress
+Walter_Sisulu	isAffiliatedTo	African_National_Congress
+Walter_Sisulu	isAffiliatedTo	African_National_Congress
+Walter_Sisulu	isAffiliatedTo	African_National_Congress
+Walter_Sisulu	hasChild	Zwelakhe_Sisulu
+Walter_Sisulu	hasChild	Zwelakhe_Sisulu
+
+http://dbpedia.org/resource/Daggubati_Suresh_Babu	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Rana_Daggubati
+Daggubati_Suresh_Babu	Rana_Daggubati
+D._Ramanaidu	hasChild	Daggubati_Suresh_Babu
+D._Ramanaidu	hasChild	Daggubati_Suresh_Babu
+D._Ramanaidu	hasChild	Daggubati_Suresh_Babu
+D._Ramanaidu	hasChild	Daggubati_Suresh_Babu
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+
+http://dbpedia.org/resource/Daggubati_Suresh_Babu	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Rana_Daggubati
+Daggubati_Suresh_Babu	Rana_Daggubati
+Daggubati_Suresh_Babu	livesIn	Film_Nagar
+Daggubati_Suresh_Babu	livesIn	Film_Nagar
+Daggubati_Suresh_Babu	livesIn	Film_Nagar
+Daggubati_Suresh_Babu	livesIn	Film_Nagar
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+
+http://dbpedia.org/resource/Daggubati_Suresh_Babu	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Rana_Daggubati
+Daggubati_Suresh_Babu	Rana_Daggubati
+Daggubati_Suresh_Babu	livesIn	Film_Nagar
+Daggubati_Suresh_Babu	livesIn	Film_Nagar
+Rana_Daggubati	livesIn	Film_Nagar
+Rana_Daggubati	livesIn	Film_Nagar
+
+http://dbpedia.org/resource/Daggubati_Suresh_Babu	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Rana_Daggubati
+Daggubati_Suresh_Babu	Rana_Daggubati
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+
+http://dbpedia.org/resource/Daggubati_Suresh_Babu	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Rana_Daggubati
+Daggubati_Suresh_Babu	Rana_Daggubati
+Daggubati_Suresh_Babu	owns	Suresh_Productions
+Daggubati_Suresh_Babu	owns	Suresh_Productions
+Daggubati_Suresh_Babu	owns	Suresh_Productions
+Daggubati_Suresh_Babu	owns	Suresh_Productions
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+
+http://dbpedia.org/resource/Daggubati_Suresh_Babu	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Rana_Daggubati
+Daggubati_Suresh_Babu	Rana_Daggubati
+Daggubati_Suresh_Babu	livesIn	Hyderabad
+Daggubati_Suresh_Babu	livesIn	Hyderabad
+Daggubati_Suresh_Babu	livesIn	Hyderabad
+Daggubati_Suresh_Babu	livesIn	Hyderabad
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+Daggubati_Suresh_Babu	hasChild	Rana_Daggubati
+
+http://dbpedia.org/resource/Charles_H._Percy	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Sharon_Percy_Rockefeller
+Charles_H._Percy	Sharon_Percy_Rockefeller
+Charles_H._Percy	hasChild	Sharon_Percy_Rockefeller
+Charles_H._Percy	hasChild	Sharon_Percy_Rockefeller
+
+http://dbpedia.org/resource/John_McKeithen	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/W._Fox_McKeithen
+John_McKeithen	W._Fox_McKeithen
+John_McKeithen	diedIn	Columbia,_Louisiana
+John_McKeithen	diedIn	Columbia,_Louisiana
+John_McKeithen	diedIn	Columbia,_Louisiana
+John_McKeithen	diedIn	Columbia,_Louisiana
+John_McKeithen	hasChild	W._Fox_McKeithen
+John_McKeithen	hasChild	W._Fox_McKeithen
+
+http://dbpedia.org/resource/John_McKeithen	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/W._Fox_McKeithen
+John_McKeithen	W._Fox_McKeithen
+John_McKeithen	diedIn	Columbia,_Louisiana
+John_McKeithen	diedIn	Columbia,_Louisiana
+W._Fox_McKeithen	wasBornIn	Columbia,_Louisiana
+W._Fox_McKeithen	wasBornIn	Columbia,_Louisiana
+
+http://dbpedia.org/resource/John_McKeithen	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/W._Fox_McKeithen
+John_McKeithen	W._Fox_McKeithen
+John_McKeithen	hasChild	W._Fox_McKeithen
+John_McKeithen	hasChild	W._Fox_McKeithen
+
+http://dbpedia.org/resource/John_McKeithen	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/W._Fox_McKeithen
+John_McKeithen	W._Fox_McKeithen
+John_McKeithen	wasBornIn	Grayson,_Louisiana
+John_McKeithen	wasBornIn	Grayson,_Louisiana
+John_McKeithen	wasBornIn	Grayson,_Louisiana
+John_McKeithen	wasBornIn	Grayson,_Louisiana
+John_McKeithen	hasChild	W._Fox_McKeithen
+John_McKeithen	hasChild	W._Fox_McKeithen
+
+http://dbpedia.org/resource/Robert_MacFarlan_Cole_III	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Dandridge_MacFarlan_Cole
+Robert_MacFarlan_Cole_III	Dandridge_MacFarlan_Cole
+Wertha_Pendleton_Cole	isMarriedTo	Robert_MacFarlan_Cole_III
+Robert_MacFarlan_Cole_III	isMarriedTo	Wertha_Pendleton_Cole
+Wertha_Pendleton_Cole	isMarriedTo	Robert_MacFarlan_Cole_III
+Robert_MacFarlan_Cole_III	isMarriedTo	Wertha_Pendleton_Cole
+Wertha_Pendleton_Cole	hasChild	Dandridge_MacFarlan_Cole
+Wertha_Pendleton_Cole	hasChild	Dandridge_MacFarlan_Cole
+
+http://dbpedia.org/resource/Don_Gaetz	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Matt_Gaetz
+Don_Gaetz	Matt_Gaetz
+Don_Gaetz	graduatedFrom	Concordia_College_(Moorhead,_Minnesota)
+Don_Gaetz	graduatedFrom	Concordia_College_(Moorhead,_Minnesota)
+Don_Gaetz	graduatedFrom	Concordia_College_(Moorhead,_Minnesota)
+Don_Gaetz	graduatedFrom	Concordia_College_(Moorhead,_Minnesota)
+Don_Gaetz	hasChild	Matt_Gaetz
+Don_Gaetz	hasChild	Matt_Gaetz
+
+http://dbpedia.org/resource/Don_Gaetz	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Matt_Gaetz
+Don_Gaetz	Matt_Gaetz
+Don_Gaetz	hasChild	Matt_Gaetz
+Don_Gaetz	hasChild	Matt_Gaetz
+
+http://dbpedia.org/resource/Don_Gaetz	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Matt_Gaetz
+Don_Gaetz	Matt_Gaetz
+Don_Gaetz	graduatedFrom	Troy_University
+Don_Gaetz	graduatedFrom	Troy_University
+Don_Gaetz	graduatedFrom	Troy_University
+Don_Gaetz	graduatedFrom	Troy_University
+Don_Gaetz	hasChild	Matt_Gaetz
+Don_Gaetz	hasChild	Matt_Gaetz
+
+http://dbpedia.org/resource/Richard_J._Daley	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/William_M._Daley
+Richard_J._Daley	William_M._Daley
+Richard_J._Daley	hasChild	William_M._Daley
+Richard_J._Daley	hasChild	William_M._Daley
+
+http://dbpedia.org/resource/Bing_Crosby	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Mary_Crosby
+Bing_Crosby	Mary_Crosby
+Dixie_Lee	isMarriedTo	Bing_Crosby
+Bing_Crosby	isMarriedTo	Dixie_Lee
+Dixie_Lee	isMarriedTo	Bing_Crosby
+Bing_Crosby	isMarriedTo	Dixie_Lee
+Dixie_Lee	isMarriedTo	Bing_Crosby
+Bing_Crosby	isMarriedTo	Dixie_Lee
+Dixie_Lee	isMarriedTo	Bing_Crosby
+Bing_Crosby	isMarriedTo	Dixie_Lee
+Bing_Crosby	hasChild	Mary_Crosby
+Bing_Crosby	hasChild	Mary_Crosby
+
+http://dbpedia.org/resource/Bing_Crosby	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Mary_Crosby
+Bing_Crosby	Mary_Crosby
+Kathryn_Crosby	isMarriedTo	Bing_Crosby
+Bing_Crosby	isMarriedTo	Kathryn_Crosby
+Kathryn_Crosby	isMarriedTo	Bing_Crosby
+Bing_Crosby	isMarriedTo	Kathryn_Crosby
+Kathryn_Crosby	isMarriedTo	Bing_Crosby
+Bing_Crosby	isMarriedTo	Kathryn_Crosby
+Kathryn_Crosby	isMarriedTo	Bing_Crosby
+Bing_Crosby	isMarriedTo	Kathryn_Crosby
+Bing_Crosby	hasChild	Mary_Crosby
+Bing_Crosby	hasChild	Mary_Crosby
+
+http://dbpedia.org/resource/Bing_Crosby	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Mary_Crosby
+Bing_Crosby	Mary_Crosby
+Bing_Crosby	hasChild	Mary_Crosby
+Bing_Crosby	hasChild	Mary_Crosby
+
+http://dbpedia.org/resource/Bing_Crosby	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Mary_Crosby
+Bing_Crosby	Mary_Crosby
+Bing_Crosby	diedIn	Alcobendas
+Bing_Crosby	diedIn	Alcobendas
+Bing_Crosby	diedIn	Alcobendas
+Bing_Crosby	diedIn	Alcobendas
+Bing_Crosby	hasChild	Mary_Crosby
+Bing_Crosby	hasChild	Mary_Crosby
+
+http://dbpedia.org/resource/Martin_Sheen	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Charlie_Sheen
+Martin_Sheen	Charlie_Sheen
+Martin_Sheen	isMarriedTo	Janet_Sheen
+Janet_Sheen	isMarriedTo	Martin_Sheen
+Martin_Sheen	isMarriedTo	Janet_Sheen
+Janet_Sheen	isMarriedTo	Martin_Sheen
+Martin_Sheen	isMarriedTo	Janet_Sheen
+Janet_Sheen	isMarriedTo	Martin_Sheen
+Martin_Sheen	isMarriedTo	Janet_Sheen
+Janet_Sheen	isMarriedTo	Martin_Sheen
+Martin_Sheen	hasChild	Charlie_Sheen
+Martin_Sheen	hasChild	Charlie_Sheen
+
+http://dbpedia.org/resource/Martin_Sheen	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Charlie_Sheen
+Martin_Sheen	Charlie_Sheen
+Martin_Sheen	isMarriedTo	Janet_Sheen
+Janet_Sheen	isMarriedTo	Martin_Sheen
+Martin_Sheen	isMarriedTo	Janet_Sheen
+Janet_Sheen	isMarriedTo	Martin_Sheen
+Janet_Sheen	hasChild	Charlie_Sheen
+Janet_Sheen	hasChild	Charlie_Sheen
+
+http://dbpedia.org/resource/Martin_Sheen	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Charlie_Sheen
+Martin_Sheen	Charlie_Sheen
+Martin_Sheen	actedIn	Sweet_Hostage
+Martin_Sheen	actedIn	Sweet_Hostage
+Martin_Sheen	actedIn	Sweet_Hostage
+Martin_Sheen	actedIn	Sweet_Hostage
+Martin_Sheen	hasChild	Charlie_Sheen
+Martin_Sheen	hasChild	Charlie_Sheen
+
+http://dbpedia.org/resource/Martin_Sheen	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Charlie_Sheen
+Martin_Sheen	Charlie_Sheen
+Martin_Sheen	hasChild	Emilio_Estevez
+Martin_Sheen	hasChild	Emilio_Estevez
+Martin_Sheen	hasChild	Emilio_Estevez
+Martin_Sheen	hasChild	Emilio_Estevez
+Martin_Sheen	hasChild	Charlie_Sheen
+Martin_Sheen	hasChild	Charlie_Sheen
+
+http://dbpedia.org/resource/Martin_Sheen	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Charlie_Sheen
+Martin_Sheen	Charlie_Sheen
+Martin_Sheen	hasChild	Emilio_Estevez
+Martin_Sheen	hasChild	Emilio_Estevez
+Janet_Sheen	hasChild	Emilio_Estevez
+Janet_Sheen	hasChild	Emilio_Estevez
+Janet_Sheen	hasChild	Charlie_Sheen
+Janet_Sheen	hasChild	Charlie_Sheen
+
+http://dbpedia.org/resource/Martin_Sheen	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Charlie_Sheen
+Martin_Sheen	Charlie_Sheen
+Martin_Sheen	actedIn	The_Execution_of_Private_Slovik
+Martin_Sheen	actedIn	The_Execution_of_Private_Slovik
+Charlie_Sheen	actedIn	The_Execution_of_Private_Slovik
+Charlie_Sheen	actedIn	The_Execution_of_Private_Slovik
+
+http://dbpedia.org/resource/Martin_Sheen	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Charlie_Sheen
+Martin_Sheen	Charlie_Sheen
+Martin_Sheen	actedIn	The_Execution_of_Private_Slovik
+Martin_Sheen	actedIn	The_Execution_of_Private_Slovik
+Martin_Sheen	actedIn	The_Execution_of_Private_Slovik
+Martin_Sheen	actedIn	The_Execution_of_Private_Slovik
+Martin_Sheen	hasChild	Charlie_Sheen
+Martin_Sheen	hasChild	Charlie_Sheen
+
+http://dbpedia.org/resource/Martin_Sheen	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Charlie_Sheen
+Martin_Sheen	Charlie_Sheen
+Martin_Sheen	hasChild	Charlie_Sheen
+Martin_Sheen	hasChild	Charlie_Sheen
+
+http://dbpedia.org/resource/Malcolm_Turnbull	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Malcolm_Turnbull
+Malcolm_Turnbull	Malcolm_Turnbull
+Coral_Lansbury	hasChild	Malcolm_Turnbull
+Coral_Lansbury	isMarriedTo	Malcolm_Turnbull
+Malcolm_Turnbull	isMarriedTo	Coral_Lansbury
+Coral_Lansbury	hasChild	Malcolm_Turnbull
+Coral_Lansbury	isMarriedTo	Malcolm_Turnbull
+Malcolm_Turnbull	isMarriedTo	Coral_Lansbury
+Coral_Lansbury	hasChild	Malcolm_Turnbull
+Coral_Lansbury	isMarriedTo	Malcolm_Turnbull
+Malcolm_Turnbull	isMarriedTo	Coral_Lansbury
+Coral_Lansbury	hasChild	Malcolm_Turnbull
+Coral_Lansbury	isMarriedTo	Malcolm_Turnbull
+Malcolm_Turnbull	isMarriedTo	Coral_Lansbury
+
+http://dbpedia.org/resource/Peter_L._Pond	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Arn_Chorn-Pond
+Peter_L._Pond	Arn_Chorn-Pond
+Peter_L._Pond	hasChild	Arn_Chorn-Pond
+Peter_L._Pond	hasChild	Arn_Chorn-Pond
+
+http://dbpedia.org/resource/Peter_L._Pond	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Arn_Chorn-Pond
+Peter_L._Pond	Arn_Chorn-Pond
+Peter_L._Pond	wasBornIn	Milford,_Connecticut
+Peter_L._Pond	wasBornIn	Milford,_Connecticut
+Peter_L._Pond	wasBornIn	Milford,_Connecticut
+Peter_L._Pond	wasBornIn	Milford,_Connecticut
+Peter_L._Pond	hasChild	Arn_Chorn-Pond
+Peter_L._Pond	hasChild	Arn_Chorn-Pond
+
+http://dbpedia.org/resource/Mircea_Snegur	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Natalia_Gherman
+Mircea_Snegur	Natalia_Gherman
+Mircea_Snegur	hasChild	Natalia_Gherman
+Mircea_Snegur	hasChild	Natalia_Gherman
+
+http://dbpedia.org/resource/Hosni_Mubarak	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Alaa_Mubarak
+Hosni_Mubarak	Alaa_Mubarak
+Hosni_Mubarak	isLeaderOf	National_Democratic_Party_(Egypt)
+Hosni_Mubarak	isAffiliatedTo	National_Democratic_Party_(Egypt)
+Hosni_Mubarak	isLeaderOf	National_Democratic_Party_(Egypt)
+Hosni_Mubarak	isAffiliatedTo	National_Democratic_Party_(Egypt)
+Hosni_Mubarak	isLeaderOf	National_Democratic_Party_(Egypt)
+Hosni_Mubarak	isAffiliatedTo	National_Democratic_Party_(Egypt)
+Hosni_Mubarak	isLeaderOf	National_Democratic_Party_(Egypt)
+Hosni_Mubarak	isAffiliatedTo	National_Democratic_Party_(Egypt)
+Hosni_Mubarak	hasChild	Alaa_Mubarak
+Hosni_Mubarak	hasChild	Alaa_Mubarak
+
+http://dbpedia.org/resource/Hosni_Mubarak	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Alaa_Mubarak
+Hosni_Mubarak	Alaa_Mubarak
+Hosni_Mubarak	hasChild	Alaa_Mubarak
+Hosni_Mubarak	hasChild	Alaa_Mubarak
+
+http://dbpedia.org/resource/Mark_Twain	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Jean_Clemens
+Mark_Twain	Jean_Clemens
+Mark_Twain	diedIn	Redding,_Connecticut
+Mark_Twain	diedIn	Redding,_Connecticut
+Jean_Clemens	diedIn	Redding,_Connecticut
+Jean_Clemens	diedIn	Redding,_Connecticut
+
+http://dbpedia.org/resource/Mark_Hanna	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Ruth_Hanna_McCormick
+Mark_Hanna	Ruth_Hanna_McCormick
+Mark_Hanna	hasChild	Ruth_Hanna_McCormick
+Mark_Hanna	hasChild	Ruth_Hanna_McCormick
+
+http://dbpedia.org/resource/Mark_Hanna	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Ruth_Hanna_McCormick
+Mark_Hanna	Ruth_Hanna_McCormick
+Mark_Hanna	graduatedFrom	Case_Western_Reserve_University
+Mark_Hanna	graduatedFrom	Case_Western_Reserve_University
+Mark_Hanna	graduatedFrom	Case_Western_Reserve_University
+Mark_Hanna	graduatedFrom	Case_Western_Reserve_University
+Mark_Hanna	hasChild	Ruth_Hanna_McCormick
+Mark_Hanna	hasChild	Ruth_Hanna_McCormick
+
+http://dbpedia.org/resource/Kiran_Nadar	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Roshni_Nadar
+Kiran_Nadar	Roshni_Nadar
+Kiran_Nadar	isMarriedTo	Shiv_Nadar
+Shiv_Nadar	isMarriedTo	Kiran_Nadar
+Kiran_Nadar	isMarriedTo	Shiv_Nadar
+Shiv_Nadar	isMarriedTo	Kiran_Nadar
+Kiran_Nadar	isMarriedTo	Shiv_Nadar
+Shiv_Nadar	isMarriedTo	Kiran_Nadar
+Kiran_Nadar	isMarriedTo	Shiv_Nadar
+Shiv_Nadar	isMarriedTo	Kiran_Nadar
+Kiran_Nadar	hasChild	Roshni_Nadar
+Kiran_Nadar	hasChild	Roshni_Nadar
+
+http://dbpedia.org/resource/Kiran_Nadar	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Roshni_Nadar
+Kiran_Nadar	Roshni_Nadar
+Kiran_Nadar	hasChild	Roshni_Nadar
+Kiran_Nadar	hasChild	Roshni_Nadar
+
+http://dbpedia.org/resource/Nursultan_Nazarbayev	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Dariga_Nazarbayeva
+Nursultan_Nazarbayev	Dariga_Nazarbayeva
+Nursultan_Nazarbayev	isPoliticianOf	Kazakhstan
+Nursultan_Nazarbayev	isLeaderOf	Kazakhstan
+Nursultan_Nazarbayev	isCitizenOf	Kazakhstan
+Nursultan_Nazarbayev	isPoliticianOf	Kazakhstan
+Nursultan_Nazarbayev	isLeaderOf	Kazakhstan
+Nursultan_Nazarbayev	isCitizenOf	Kazakhstan
+Dariga_Nazarbayeva	isCitizenOf	Kazakhstan
+Dariga_Nazarbayeva	isCitizenOf	Kazakhstan
+
+http://dbpedia.org/resource/Caitlyn_Jenner	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Caitlyn_Jenner
+Caitlyn_Jenner	Caitlyn_Jenner
+Caitlyn_Jenner	isMarriedTo	Kris_Jenner
+Kris_Jenner	isMarriedTo	Caitlyn_Jenner
+Caitlyn_Jenner	isMarriedTo	Kris_Jenner
+Kris_Jenner	isMarriedTo	Caitlyn_Jenner
+Caitlyn_Jenner	isMarriedTo	Kris_Jenner
+Kris_Jenner	isMarriedTo	Caitlyn_Jenner
+Caitlyn_Jenner	isMarriedTo	Kris_Jenner
+Kris_Jenner	isMarriedTo	Caitlyn_Jenner
+
+http://dbpedia.org/resource/Rosemary_Clooney	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Miguel_Ferrer
+Rosemary_Clooney	Miguel_Ferrer
+José_Ferrer	isMarriedTo	Rosemary_Clooney
+Rosemary_Clooney	isMarriedTo	José_Ferrer
+José_Ferrer	isMarriedTo	Rosemary_Clooney
+Rosemary_Clooney	isMarriedTo	José_Ferrer
+José_Ferrer	isMarriedTo	Rosemary_Clooney
+Rosemary_Clooney	isMarriedTo	José_Ferrer
+José_Ferrer	isMarriedTo	Rosemary_Clooney
+Rosemary_Clooney	isMarriedTo	José_Ferrer
+Rosemary_Clooney	hasChild	Miguel_Ferrer
+Rosemary_Clooney	hasChild	Miguel_Ferrer
+
+http://dbpedia.org/resource/Rosemary_Clooney	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Miguel_Ferrer
+Rosemary_Clooney	Miguel_Ferrer
+José_Ferrer	isMarriedTo	Rosemary_Clooney
+Rosemary_Clooney	isMarriedTo	José_Ferrer
+José_Ferrer	isMarriedTo	Rosemary_Clooney
+Rosemary_Clooney	isMarriedTo	José_Ferrer
+José_Ferrer	hasChild	Miguel_Ferrer
+José_Ferrer	hasChild	Miguel_Ferrer
+
+http://dbpedia.org/resource/Rosemary_Clooney	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Miguel_Ferrer
+Rosemary_Clooney	Miguel_Ferrer
+Rosemary_Clooney	hasChild	Miguel_Ferrer
+Rosemary_Clooney	hasChild	Miguel_Ferrer
+
+http://dbpedia.org/resource/Rosemary_Clooney	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Miguel_Ferrer
+Rosemary_Clooney	Miguel_Ferrer
+Rosemary_Clooney	diedIn	Beverly_Hills,_California
+Rosemary_Clooney	diedIn	Beverly_Hills,_California
+Rosemary_Clooney	diedIn	Beverly_Hills,_California
+Rosemary_Clooney	diedIn	Beverly_Hills,_California
+Rosemary_Clooney	hasChild	Miguel_Ferrer
+Rosemary_Clooney	hasChild	Miguel_Ferrer
+
+http://dbpedia.org/resource/Jeb_Bush	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/George_P._Bush
+Jeb_Bush	George_P._Bush
+Jeb_Bush	isMarriedTo	Columba_Bush
+Columba_Bush	isMarriedTo	Jeb_Bush
+Jeb_Bush	isMarriedTo	Columba_Bush
+Columba_Bush	isMarriedTo	Jeb_Bush
+Columba_Bush	hasChild	George_P._Bush
+Columba_Bush	hasChild	George_P._Bush
+
+http://dbpedia.org/resource/Theodore_Roosevelt	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Kermit_Roosevelt
+Theodore_Roosevelt	Kermit_Roosevelt
+Edith_Roosevelt	isMarriedTo	Theodore_Roosevelt
+Theodore_Roosevelt	isMarriedTo	Edith_Roosevelt
+Edith_Roosevelt	isMarriedTo	Theodore_Roosevelt
+Theodore_Roosevelt	isMarriedTo	Edith_Roosevelt
+Edith_Roosevelt	isMarriedTo	Theodore_Roosevelt
+Theodore_Roosevelt	isMarriedTo	Edith_Roosevelt
+Edith_Roosevelt	isMarriedTo	Theodore_Roosevelt
+Theodore_Roosevelt	isMarriedTo	Edith_Roosevelt
+Theodore_Roosevelt	hasChild	Kermit_Roosevelt
+Theodore_Roosevelt	hasChild	Kermit_Roosevelt
+
+http://dbpedia.org/resource/Theodore_Roosevelt	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Kermit_Roosevelt
+Theodore_Roosevelt	Kermit_Roosevelt
+Alice_Hathaway_Lee_Roosevelt	isMarriedTo	Theodore_Roosevelt
+Theodore_Roosevelt	isMarriedTo	Alice_Hathaway_Lee_Roosevelt
+Alice_Hathaway_Lee_Roosevelt	isMarriedTo	Theodore_Roosevelt
+Theodore_Roosevelt	isMarriedTo	Alice_Hathaway_Lee_Roosevelt
+Alice_Hathaway_Lee_Roosevelt	isMarriedTo	Theodore_Roosevelt
+Theodore_Roosevelt	isMarriedTo	Alice_Hathaway_Lee_Roosevelt
+Alice_Hathaway_Lee_Roosevelt	isMarriedTo	Theodore_Roosevelt
+Theodore_Roosevelt	isMarriedTo	Alice_Hathaway_Lee_Roosevelt
+Theodore_Roosevelt	hasChild	Kermit_Roosevelt
+Theodore_Roosevelt	hasChild	Kermit_Roosevelt
+
+http://dbpedia.org/resource/Theodore_Roosevelt	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Kermit_Roosevelt
+Theodore_Roosevelt	Kermit_Roosevelt
+Theodore_Roosevelt	hasChild	Kermit_Roosevelt
+Theodore_Roosevelt	hasChild	Kermit_Roosevelt
+
+http://dbpedia.org/resource/Theodore_Roosevelt	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Kermit_Roosevelt
+Theodore_Roosevelt	Kermit_Roosevelt
+Theodore_Roosevelt	diedIn	Oyster_Bay_(town),_New_York
+Theodore_Roosevelt	diedIn	Oyster_Bay_(town),_New_York
+Theodore_Roosevelt	diedIn	Oyster_Bay_(town),_New_York
+Theodore_Roosevelt	diedIn	Oyster_Bay_(town),_New_York
+Theodore_Roosevelt	hasChild	Kermit_Roosevelt
+Theodore_Roosevelt	hasChild	Kermit_Roosevelt
+
+http://dbpedia.org/resource/Nick_Begich	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Mark_Begich
+Nick_Begich	Mark_Begich
+Nick_Begich	hasChild	Mark_Begich
+Nick_Begich	hasChild	Mark_Begich
+
+http://dbpedia.org/resource/Nick_Begich	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Mark_Begich
+Nick_Begich	Mark_Begich
+Nick_Begich	graduatedFrom	University_of_North_Dakota
+Nick_Begich	graduatedFrom	University_of_North_Dakota
+Nick_Begich	graduatedFrom	University_of_North_Dakota
+Nick_Begich	graduatedFrom	University_of_North_Dakota
+Nick_Begich	hasChild	Mark_Begich
+Nick_Begich	hasChild	Mark_Begich
+
+http://dbpedia.org/resource/Nick_Begich	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Mark_Begich
+Nick_Begich	Mark_Begich
+Nick_Begich	graduatedFrom	University_of_Colorado_Boulder
+Nick_Begich	graduatedFrom	University_of_Colorado_Boulder
+Nick_Begich	graduatedFrom	University_of_Colorado_Boulder
+Nick_Begich	graduatedFrom	University_of_Colorado_Boulder
+Nick_Begich	hasChild	Mark_Begich
+Nick_Begich	hasChild	Mark_Begich
+
+http://dbpedia.org/resource/Nick_Begich	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Mark_Begich
+Nick_Begich	Mark_Begich
+Nick_Begich	graduatedFrom	St._Cloud_State_University
+Nick_Begich	graduatedFrom	St._Cloud_State_University
+Nick_Begich	graduatedFrom	St._Cloud_State_University
+Nick_Begich	graduatedFrom	St._Cloud_State_University
+Nick_Begich	hasChild	Mark_Begich
+Nick_Begich	hasChild	Mark_Begich
+
+http://dbpedia.org/resource/Nick_Begich	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Mark_Begich
+Nick_Begich	Mark_Begich
+Nick_Begich	wasBornIn	Eveleth,_Minnesota
+Nick_Begich	wasBornIn	Eveleth,_Minnesota
+Nick_Begich	wasBornIn	Eveleth,_Minnesota
+Nick_Begich	wasBornIn	Eveleth,_Minnesota
+Nick_Begich	hasChild	Mark_Begich
+Nick_Begich	hasChild	Mark_Begich
+
+http://dbpedia.org/resource/Kiichiro_Toyoda	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Shoichiro_Toyoda
+Kiichiro_Toyoda	Shoichiro_Toyoda
+Kiichiro_Toyoda	diedIn	Toyota,_Aichi
+Kiichiro_Toyoda	diedIn	Toyota,_Aichi
+Kiichiro_Toyoda	diedIn	Toyota,_Aichi
+Kiichiro_Toyoda	diedIn	Toyota,_Aichi
+Kiichiro_Toyoda	hasChild	Shoichiro_Toyoda
+Kiichiro_Toyoda	hasChild	Shoichiro_Toyoda
+
+http://dbpedia.org/resource/Kiichiro_Toyoda	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Shoichiro_Toyoda
+Kiichiro_Toyoda	Shoichiro_Toyoda
+Kiichiro_Toyoda	hasChild	Shoichiro_Toyoda
+Kiichiro_Toyoda	hasChild	Shoichiro_Toyoda
+
+http://dbpedia.org/resource/Kiichiro_Toyoda	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Shoichiro_Toyoda
+Kiichiro_Toyoda	Shoichiro_Toyoda
+Kiichiro_Toyoda	created	Toyota
+Kiichiro_Toyoda	created	Toyota
+Kiichiro_Toyoda	created	Toyota
+Kiichiro_Toyoda	created	Toyota
+Kiichiro_Toyoda	hasChild	Shoichiro_Toyoda
+Kiichiro_Toyoda	hasChild	Shoichiro_Toyoda
+
+http://dbpedia.org/resource/Khan_Abdul_Ghaffar_Khan	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Khan_Abdul_Wali_Khan
+Khan_Abdul_Ghaffar_Khan	Khan_Abdul_Wali_Khan
+Khan_Abdul_Ghaffar_Khan	hasChild	Khan_Abdul_Wali_Khan
+Khan_Abdul_Ghaffar_Khan	hasChild	Khan_Abdul_Wali_Khan
+
+http://dbpedia.org/resource/Khan_Abdul_Ghaffar_Khan	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Khan_Abdul_Wali_Khan
+Khan_Abdul_Ghaffar_Khan	Khan_Abdul_Wali_Khan
+Khan_Abdul_Ghaffar_Khan	diedIn	Peshawar
+Khan_Abdul_Ghaffar_Khan	diedIn	Peshawar
+Khan_Abdul_Wali_Khan	diedIn	Peshawar
+Khan_Abdul_Wali_Khan	diedIn	Peshawar
+
+http://dbpedia.org/resource/Khan_Abdul_Ghaffar_Khan	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Khan_Abdul_Wali_Khan
+Khan_Abdul_Ghaffar_Khan	Khan_Abdul_Wali_Khan
+Khan_Abdul_Ghaffar_Khan	isCitizenOf	Pakistan
+Khan_Abdul_Ghaffar_Khan	isCitizenOf	Pakistan
+Peshawar	isLocatedIn	Pakistan
+Peshawar	isLocatedIn	Pakistan
+Khan_Abdul_Wali_Khan	diedIn	Peshawar
+Khan_Abdul_Wali_Khan	diedIn	Peshawar
+
+http://dbpedia.org/resource/Khan_Abdul_Ghaffar_Khan	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Khan_Abdul_Wali_Khan
+Khan_Abdul_Ghaffar_Khan	Khan_Abdul_Wali_Khan
+Sayyid_Ahmedullah_Qadri	created	Khan_Abdul_Ghaffar_Khan
+Sayyid_Ahmedullah_Qadri	created	Khan_Abdul_Ghaffar_Khan
+Sayyid_Ahmedullah_Qadri	created	Khan_Abdul_Ghaffar_Khan
+Sayyid_Ahmedullah_Qadri	created	Khan_Abdul_Ghaffar_Khan
+Khan_Abdul_Ghaffar_Khan	hasChild	Khan_Abdul_Wali_Khan
+Khan_Abdul_Ghaffar_Khan	hasChild	Khan_Abdul_Wali_Khan
+
+http://dbpedia.org/resource/Luis_Muñoz_Rivera	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Luis_Muñoz_Marín
+Luis_Muñoz_Rivera	Luis_Muñoz_Marín
+Luis_Muñoz_Rivera	hasChild	Luis_Muñoz_Marín
+Luis_Muñoz_Rivera	hasChild	Luis_Muñoz_Marín
+
+http://dbpedia.org/resource/Luis_Muñoz_Rivera	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Luis_Muñoz_Marín
+Luis_Muñoz_Rivera	Luis_Muñoz_Marín
+Luis_Muñoz_Rivera	isCitizenOf	Puerto_Rico
+Luis_Muñoz_Rivera	isCitizenOf	Puerto_Rico
+Inés_Mendoza	isCitizenOf	Puerto_Rico
+Inés_Mendoza	isCitizenOf	Puerto_Rico
+Inés_Mendoza	isMarriedTo	Luis_Muñoz_Marín
+Luis_Muñoz_Marín	isMarriedTo	Inés_Mendoza
+Inés_Mendoza	isMarriedTo	Luis_Muñoz_Marín
+Luis_Muñoz_Marín	isMarriedTo	Inés_Mendoza
+
+http://dbpedia.org/resource/Luis_Muñoz_Rivera	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Luis_Muñoz_Marín
+Luis_Muñoz_Rivera	Luis_Muñoz_Marín
+Luis_Muñoz_Rivera	wasBornIn	Barranquitas,_Puerto_Rico
+Luis_Muñoz_Rivera	wasBornIn	Barranquitas,_Puerto_Rico
+Luis_Muñoz_Rivera	wasBornIn	Barranquitas,_Puerto_Rico
+Luis_Muñoz_Rivera	wasBornIn	Barranquitas,_Puerto_Rico
+Luis_Muñoz_Rivera	hasChild	Luis_Muñoz_Marín
+Luis_Muñoz_Rivera	hasChild	Luis_Muñoz_Marín
+
+http://dbpedia.org/resource/William_A._Ashbrook	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/John_M._Ashbrook
+William_A._Ashbrook	John_M._Ashbrook
+William_A._Ashbrook	hasChild	John_M._Ashbrook
+William_A._Ashbrook	hasChild	John_M._Ashbrook
+
+http://dbpedia.org/resource/William_A._Ashbrook	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/John_M._Ashbrook
+William_A._Ashbrook	John_M._Ashbrook
+William_A._Ashbrook	wasBornIn	Johnstown,_Ohio
+William_A._Ashbrook	wasBornIn	Johnstown,_Ohio
+John_M._Ashbrook	diedIn	Johnstown,_Ohio
+John_M._Ashbrook	wasBornIn	Johnstown,_Ohio
+John_M._Ashbrook	diedIn	Johnstown,_Ohio
+John_M._Ashbrook	wasBornIn	Johnstown,_Ohio
+
+http://dbpedia.org/resource/John_Huston	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Danny_Huston
+John_Huston	Danny_Huston
+Evelyn_Keyes	isMarriedTo	John_Huston
+John_Huston	isMarriedTo	Evelyn_Keyes
+Evelyn_Keyes	isMarriedTo	John_Huston
+John_Huston	isMarriedTo	Evelyn_Keyes
+Evelyn_Keyes	isMarriedTo	John_Huston
+John_Huston	isMarriedTo	Evelyn_Keyes
+Evelyn_Keyes	isMarriedTo	John_Huston
+John_Huston	isMarriedTo	Evelyn_Keyes
+John_Huston	hasChild	Danny_Huston
+John_Huston	hasChild	Danny_Huston
+
+http://dbpedia.org/resource/John_Huston	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Danny_Huston
+John_Huston	Danny_Huston
+John_Huston	hasChild	Danny_Huston
+John_Huston	hasChild	Danny_Huston
+
+http://dbpedia.org/resource/João_Soares_de_Albergaria	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/João_Soares_de_Sousa
+João_Soares_de_Albergaria	João_Soares_de_Sousa
+João_Soares_de_Albergaria	isCitizenOf	Kingdom_of_Portugal
+João_Soares_de_Albergaria	isCitizenOf	Kingdom_of_Portugal
+João_Soares_de_Sousa	isCitizenOf	Kingdom_of_Portugal
+João_Soares_de_Sousa	isCitizenOf	Kingdom_of_Portugal
+
+http://dbpedia.org/resource/João_Soares_de_Albergaria	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/João_Soares_de_Sousa
+João_Soares_de_Albergaria	João_Soares_de_Sousa
+João_Soares_de_Albergaria	livesIn	Vila_do_Porto
+João_Soares_de_Albergaria	livesIn	Vila_do_Porto
+João_Soares_de_Sousa	diedIn	Vila_do_Porto
+João_Soares_de_Sousa	wasBornIn	Vila_do_Porto
+João_Soares_de_Sousa	livesIn	Vila_do_Porto
+João_Soares_de_Sousa	diedIn	Vila_do_Porto
+João_Soares_de_Sousa	wasBornIn	Vila_do_Porto
+João_Soares_de_Sousa	livesIn	Vila_do_Porto
+
+http://dbpedia.org/resource/João_Soares_de_Albergaria	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/João_Soares_de_Sousa
+João_Soares_de_Albergaria	João_Soares_de_Sousa
+João_Soares_de_Albergaria	livesIn	Vila_do_Porto
+João_Soares_de_Albergaria	livesIn	Vila_do_Porto
+João_Soares_de_Albergaria	livesIn	Vila_do_Porto
+João_Soares_de_Albergaria	livesIn	Vila_do_Porto
+João_Soares_de_Albergaria	hasChild	João_Soares_de_Sousa
+João_Soares_de_Albergaria	hasChild	João_Soares_de_Sousa
+
+http://dbpedia.org/resource/João_Soares_de_Albergaria	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/João_Soares_de_Sousa
+João_Soares_de_Albergaria	João_Soares_de_Sousa
+João_Soares_de_Albergaria	livesIn	Vila_do_Porto
+João_Soares_de_Albergaria	livesIn	Vila_do_Porto
+Pedro_Soares_de_Sousa	livesIn	Vila_do_Porto
+Pedro_Soares_de_Sousa	livesIn	Vila_do_Porto
+João_Soares_de_Sousa	hasChild	Pedro_Soares_de_Sousa
+João_Soares_de_Sousa	hasChild	Pedro_Soares_de_Sousa
+
+http://dbpedia.org/resource/João_Soares_de_Albergaria	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/João_Soares_de_Sousa
+João_Soares_de_Albergaria	João_Soares_de_Sousa
+João_Soares_de_Albergaria	hasChild	João_Soares_de_Sousa
+João_Soares_de_Albergaria	hasChild	João_Soares_de_Sousa
+
+http://dbpedia.org/resource/Antoni_Radziwiłł	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Bogusław_Fryderyk_Radziwiłł
+Antoni_Radziwiłł	Bogusław_Fryderyk_Radziwiłł
+Antoni_Radziwiłł	isMarriedTo	Princess_Louise_of_Prussia_(1770–1836)
+Princess_Louise_of_Prussia_(1770–1836)	isMarriedTo	Antoni_Radziwiłł
+Antoni_Radziwiłł	isMarriedTo	Princess_Louise_of_Prussia_(1770–1836)
+Princess_Louise_of_Prussia_(1770–1836)	isMarriedTo	Antoni_Radziwiłł
+Princess_Louise_of_Prussia_(1770–1836)	hasChild	Bogusław_Fryderyk_Radziwiłł
+Princess_Louise_of_Prussia_(1770–1836)	hasChild	Bogusław_Fryderyk_Radziwiłł
+
+http://dbpedia.org/resource/Felix_Fuentebella	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Arnulfo_Fuentebella
+Felix_Fuentebella	Arnulfo_Fuentebella
+Felix_Fuentebella	hasChild	Arnulfo_Fuentebella
+Felix_Fuentebella	hasChild	Arnulfo_Fuentebella
+
+http://dbpedia.org/resource/Lyndon_LaRouche	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Lyndon_LaRouche
+Lyndon_LaRouche	Lyndon_LaRouche
+Lyndon_LaRouche	wasBornIn	Rochester,_New_Hampshire
+Lyndon_LaRouche	wasBornIn	Rochester,_New_Hampshire
+Lyndon_LaRouche	wasBornIn	Rochester,_New_Hampshire
+Lyndon_LaRouche	wasBornIn	Rochester,_New_Hampshire
+
+http://dbpedia.org/resource/Lyndon_LaRouche	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Lyndon_LaRouche
+Lyndon_LaRouche	Lyndon_LaRouche
+Lyndon_LaRouche	livesIn	Leesburg,_Virginia
+Lyndon_LaRouche	livesIn	Leesburg,_Virginia
+Lyndon_LaRouche	livesIn	Leesburg,_Virginia
+Lyndon_LaRouche	livesIn	Leesburg,_Virginia
+
+http://dbpedia.org/resource/E._Brooke_Lee	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Blair_Lee_III
+E._Brooke_Lee	Blair_Lee_III
+Blair_Lee_I	hasChild	E._Brooke_Lee
+Blair_Lee_I	hasChild	E._Brooke_Lee
+Blair_Lee_I	hasChild	E._Brooke_Lee
+Blair_Lee_I	hasChild	E._Brooke_Lee
+E._Brooke_Lee	hasChild	Blair_Lee_III
+E._Brooke_Lee	hasChild	Blair_Lee_III
+
+http://dbpedia.org/resource/E._Brooke_Lee	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Blair_Lee_III
+E._Brooke_Lee	Blair_Lee_III
+Blair_Lee_I	hasChild	E._Brooke_Lee
+Blair_Lee_I	hasChild	E._Brooke_Lee
+Blair_Lee_I	wasBornIn	Silver_Spring,_Maryland
+Blair_Lee_I	wasBornIn	Silver_Spring,_Maryland
+Blair_Lee_III	wasBornIn	Silver_Spring,_Maryland
+Blair_Lee_III	diedIn	Silver_Spring,_Maryland
+Blair_Lee_III	wasBornIn	Silver_Spring,_Maryland
+Blair_Lee_III	diedIn	Silver_Spring,_Maryland
+
+http://dbpedia.org/resource/E._Brooke_Lee	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Blair_Lee_III
+E._Brooke_Lee	Blair_Lee_III
+E._Brooke_Lee	graduatedFrom	George_Washington_University
+E._Brooke_Lee	graduatedFrom	George_Washington_University
+E._Brooke_Lee	graduatedFrom	George_Washington_University
+E._Brooke_Lee	graduatedFrom	George_Washington_University
+E._Brooke_Lee	hasChild	Blair_Lee_III
+E._Brooke_Lee	hasChild	Blair_Lee_III
+
+http://dbpedia.org/resource/E._Brooke_Lee	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Blair_Lee_III
+E._Brooke_Lee	Blair_Lee_III
+E._Brooke_Lee	graduatedFrom	George_Washington_University
+E._Brooke_Lee	graduatedFrom	George_Washington_University
+Blair_Lee_III	graduatedFrom	George_Washington_University
+Blair_Lee_III	graduatedFrom	George_Washington_University
+
+http://dbpedia.org/resource/E._Brooke_Lee	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Blair_Lee_III
+E._Brooke_Lee	Blair_Lee_III
+E._Brooke_Lee	hasChild	Blair_Lee_III
+E._Brooke_Lee	hasChild	Blair_Lee_III
+
+http://dbpedia.org/resource/R._Sarathkumar	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Varalaxmi_Sarathkumar
+R._Sarathkumar	Varalaxmi_Sarathkumar
+R._Sarathkumar	hasChild	Varalaxmi_Sarathkumar
+R._Sarathkumar	hasChild	Varalaxmi_Sarathkumar
+
+http://dbpedia.org/resource/R._Sarathkumar	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Varalaxmi_Sarathkumar
+R._Sarathkumar	Varalaxmi_Sarathkumar
+R._Sarathkumar	graduatedFrom	The_New_College,_Chennai
+R._Sarathkumar	graduatedFrom	The_New_College,_Chennai
+R._Sarathkumar	graduatedFrom	The_New_College,_Chennai
+R._Sarathkumar	graduatedFrom	The_New_College,_Chennai
+R._Sarathkumar	hasChild	Varalaxmi_Sarathkumar
+R._Sarathkumar	hasChild	Varalaxmi_Sarathkumar
+
+http://dbpedia.org/resource/Juraj_V_Zrinski	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Petar_Zrinski
+Juraj_V_Zrinski	Petar_Zrinski
+Juraj_V_Zrinski	hasChild	Miklós_Zrínyi
+Juraj_V_Zrinski	hasChild	Miklós_Zrínyi
+Juraj_V_Zrinski	hasChild	Miklós_Zrínyi
+Juraj_V_Zrinski	hasChild	Miklós_Zrínyi
+Juraj_V_Zrinski	hasChild	Petar_Zrinski
+Juraj_V_Zrinski	hasChild	Petar_Zrinski
+
+http://dbpedia.org/resource/Juraj_V_Zrinski	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Petar_Zrinski
+Juraj_V_Zrinski	Petar_Zrinski
+Juraj_V_Zrinski	hasChild	Miklós_Zrínyi
+Juraj_V_Zrinski	hasChild	Miklós_Zrínyi
+Miklós_Zrínyi	isCitizenOf	Hungary
+Miklós_Zrínyi	isCitizenOf	Hungary
+Petar_Zrinski	isCitizenOf	Hungary
+Petar_Zrinski	isCitizenOf	Hungary
+
+http://dbpedia.org/resource/Juraj_V_Zrinski	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Petar_Zrinski
+Juraj_V_Zrinski	Petar_Zrinski
+Juraj_V_Zrinski	hasChild	Petar_Zrinski
+Juraj_V_Zrinski	hasChild	Petar_Zrinski
+
+http://dbpedia.org/resource/Juraj_V_Zrinski	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Petar_Zrinski
+Juraj_V_Zrinski	Petar_Zrinski
+Juraj_V_Zrinski	isCitizenOf	Hungary
+Juraj_V_Zrinski	isCitizenOf	Hungary
+Petar_Zrinski	isCitizenOf	Hungary
+Petar_Zrinski	isCitizenOf	Hungary
+
+http://dbpedia.org/resource/Juraj_V_Zrinski	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Petar_Zrinski
+Juraj_V_Zrinski	Petar_Zrinski
+Juraj_V_Zrinski	wasBornIn	Čakovec
+Juraj_V_Zrinski	wasBornIn	Čakovec
+Juraj_V_Zrinski	wasBornIn	Čakovec
+Juraj_V_Zrinski	wasBornIn	Čakovec
+Juraj_V_Zrinski	hasChild	Petar_Zrinski
+Juraj_V_Zrinski	hasChild	Petar_Zrinski
+
+http://dbpedia.org/resource/José_Ferrer	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Miguel_Ferrer
+José_Ferrer	Miguel_Ferrer
+José_Ferrer	isMarriedTo	Rosemary_Clooney
+Rosemary_Clooney	isMarriedTo	José_Ferrer
+José_Ferrer	isMarriedTo	Rosemary_Clooney
+Rosemary_Clooney	isMarriedTo	José_Ferrer
+José_Ferrer	isMarriedTo	Rosemary_Clooney
+Rosemary_Clooney	isMarriedTo	José_Ferrer
+José_Ferrer	isMarriedTo	Rosemary_Clooney
+Rosemary_Clooney	isMarriedTo	José_Ferrer
+José_Ferrer	hasChild	Miguel_Ferrer
+José_Ferrer	hasChild	Miguel_Ferrer
+
+http://dbpedia.org/resource/José_Ferrer	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Miguel_Ferrer
+José_Ferrer	Miguel_Ferrer
+José_Ferrer	isMarriedTo	Rosemary_Clooney
+Rosemary_Clooney	isMarriedTo	José_Ferrer
+José_Ferrer	isMarriedTo	Rosemary_Clooney
+Rosemary_Clooney	isMarriedTo	José_Ferrer
+Rosemary_Clooney	hasChild	Miguel_Ferrer
+Rosemary_Clooney	hasChild	Miguel_Ferrer
+
+http://dbpedia.org/resource/José_Ferrer	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Miguel_Ferrer
+José_Ferrer	Miguel_Ferrer
+José_Ferrer	hasChild	Miguel_Ferrer
+José_Ferrer	hasChild	Miguel_Ferrer
+
+http://dbpedia.org/resource/José_Ferrer	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Miguel_Ferrer
+José_Ferrer	Miguel_Ferrer
+José_Ferrer	diedIn	Coral_Gables,_Florida
+José_Ferrer	diedIn	Coral_Gables,_Florida
+José_Ferrer	diedIn	Coral_Gables,_Florida
+José_Ferrer	diedIn	Coral_Gables,_Florida
+José_Ferrer	hasChild	Miguel_Ferrer
+José_Ferrer	hasChild	Miguel_Ferrer
+
+http://dbpedia.org/resource/José_Ferrer	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Miguel_Ferrer
+José_Ferrer	Miguel_Ferrer
+José_Ferrer	wasBornIn	San_Juan,_Puerto_Rico
+José_Ferrer	wasBornIn	San_Juan,_Puerto_Rico
+José_Ferrer	wasBornIn	San_Juan,_Puerto_Rico
+José_Ferrer	wasBornIn	San_Juan,_Puerto_Rico
+José_Ferrer	hasChild	Miguel_Ferrer
+José_Ferrer	hasChild	Miguel_Ferrer
+
+http://dbpedia.org/resource/Trammell_Crow	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Harlan_Crow
+Trammell_Crow	Harlan_Crow
+Trammell_Crow	created	Chase_Tower_(Dallas)
+Trammell_Crow	created	Chase_Tower_(Dallas)
+Trammell_Crow	created	Chase_Tower_(Dallas)
+Trammell_Crow	created	Chase_Tower_(Dallas)
+Trammell_Crow	hasChild	Harlan_Crow
+Trammell_Crow	hasChild	Harlan_Crow
+
+http://dbpedia.org/resource/Trammell_Crow	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Harlan_Crow
+Trammell_Crow	Harlan_Crow
+Trammell_Crow	created	Trammell_Crow_Center
+Trammell_Crow	created	Trammell_Crow_Center
+Trammell_Crow	created	Trammell_Crow_Center
+Trammell_Crow	created	Trammell_Crow_Center
+Trammell_Crow	hasChild	Harlan_Crow
+Trammell_Crow	hasChild	Harlan_Crow
+
+http://dbpedia.org/resource/Trammell_Crow	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Harlan_Crow
+Trammell_Crow	Harlan_Crow
+Trammell_Crow	hasChild	Harlan_Crow
+Trammell_Crow	hasChild	Harlan_Crow
+
+http://dbpedia.org/resource/Trammell_Crow	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Harlan_Crow
+Trammell_Crow	Harlan_Crow
+Trammell_Crow	graduatedFrom	Southern_Methodist_University
+Trammell_Crow	graduatedFrom	Southern_Methodist_University
+Trammell_Crow	graduatedFrom	Southern_Methodist_University
+Trammell_Crow	graduatedFrom	Southern_Methodist_University
+Trammell_Crow	hasChild	Harlan_Crow
+Trammell_Crow	hasChild	Harlan_Crow
+
+http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Samuel_Lightfoot_Flournoy
+Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)	Samuel_Lightfoot_Flournoy
+Samuel_Lightfoot_Flournoy	hasChild	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+Samuel_Lightfoot_Flournoy	hasChild	Samuel_Lightfoot_Flournoy_(West_Virginia_lawyer)
+
+http://dbpedia.org/resource/Kim_Jong-un	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Ri_Sol-ju
+Kim_Jong-un	Ri_Sol-ju
+Kim_Jong-un	wasBornIn	Pyongyang
+Kim_Jong-un	wasBornIn	Pyongyang
+Kim_Jong-un	wasBornIn	Pyongyang
+Kim_Jong-un	wasBornIn	Pyongyang
+Kim_Jong-un	isMarriedTo	Ri_Sol-ju
+Ri_Sol-ju	isMarriedTo	Kim_Jong-un
+Kim_Jong-un	isMarriedTo	Ri_Sol-ju
+Ri_Sol-ju	isMarriedTo	Kim_Jong-un
+
+http://dbpedia.org/resource/Kim_Jong-un	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Ri_Sol-ju
+Kim_Jong-un	Ri_Sol-ju
+Kim_Jong-un	graduatedFrom	Kim_Il-sung_University
+Kim_Jong-un	graduatedFrom	Kim_Il-sung_University
+Kim_Jong-un	graduatedFrom	Kim_Il-sung_University
+Kim_Jong-un	graduatedFrom	Kim_Il-sung_University
+Kim_Jong-un	isMarriedTo	Ri_Sol-ju
+Ri_Sol-ju	isMarriedTo	Kim_Jong-un
+Kim_Jong-un	isMarriedTo	Ri_Sol-ju
+Ri_Sol-ju	isMarriedTo	Kim_Jong-un
+
+http://dbpedia.org/resource/Kim_Jong-un	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Ri_Sol-ju
+Kim_Jong-un	Ri_Sol-ju
+Kim_Jong-un	graduatedFrom	Kim_Il-sung_University
+Kim_Jong-un	graduatedFrom	Kim_Il-sung_University
+Ri_Sol-ju	graduatedFrom	Kim_Il-sung_University
+Ri_Sol-ju	graduatedFrom	Kim_Il-sung_University
+
+http://dbpedia.org/resource/Kim_Jong-un	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Ri_Sol-ju
+Kim_Jong-un	Ri_Sol-ju
+Kim_Jong-un	isMarriedTo	Ri_Sol-ju
+Ri_Sol-ju	isMarriedTo	Kim_Jong-un
+Kim_Jong-un	isMarriedTo	Ri_Sol-ju
+Ri_Sol-ju	isMarriedTo	Kim_Jong-un
+
+http://dbpedia.org/resource/Boots_Adams	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Bud_Adams
+Boots_Adams	Bud_Adams
+Boots_Adams	graduatedFrom	University_of_Kansas
+Boots_Adams	graduatedFrom	University_of_Kansas
+Boots_Adams	graduatedFrom	University_of_Kansas
+Boots_Adams	graduatedFrom	University_of_Kansas
+Boots_Adams	hasChild	Bud_Adams
+Boots_Adams	hasChild	Bud_Adams
+
+http://dbpedia.org/resource/Boots_Adams	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Bud_Adams
+Boots_Adams	Bud_Adams
+Boots_Adams	hasChild	Bud_Adams
+Boots_Adams	hasChild	Bud_Adams
+
+http://dbpedia.org/resource/Vannozza_dei_Cattanei	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Cesare_Borgia
+Vannozza_dei_Cattanei	Cesare_Borgia
+Vannozza_dei_Cattanei	hasChild	Cesare_Borgia
+Vannozza_dei_Cattanei	hasChild	Cesare_Borgia
+
+http://dbpedia.org/resource/Vannozza_dei_Cattanei	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Cesare_Borgia
+Vannozza_dei_Cattanei	Cesare_Borgia
+Vannozza_dei_Cattanei	hasChild	Lucrezia_Borgia
+Vannozza_dei_Cattanei	hasChild	Lucrezia_Borgia
+Pope_Alexander_VI	hasChild	Lucrezia_Borgia
+Pope_Alexander_VI	hasChild	Lucrezia_Borgia
+Pope_Alexander_VI	hasChild	Cesare_Borgia
+Pope_Alexander_VI	hasChild	Cesare_Borgia
+
+http://dbpedia.org/resource/Vannozza_dei_Cattanei	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Cesare_Borgia
+Vannozza_dei_Cattanei	Cesare_Borgia
+Vannozza_dei_Cattanei	hasChild	Lucrezia_Borgia
+Vannozza_dei_Cattanei	hasChild	Lucrezia_Borgia
+Vannozza_dei_Cattanei	hasChild	Lucrezia_Borgia
+Vannozza_dei_Cattanei	hasChild	Lucrezia_Borgia
+Vannozza_dei_Cattanei	hasChild	Cesare_Borgia
+Vannozza_dei_Cattanei	hasChild	Cesare_Borgia
+
+http://dbpedia.org/resource/Alma_Bridwell_White	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Ray_Bridwell_White
+Alma_Bridwell_White	Ray_Bridwell_White
+Alma_Bridwell_White	hasChild	Ray_Bridwell_White
+Alma_Bridwell_White	hasChild	Ray_Bridwell_White
+
+http://dbpedia.org/resource/Alma_Bridwell_White	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Ray_Bridwell_White
+Alma_Bridwell_White	Ray_Bridwell_White
+Alma_Bridwell_White	wasBornIn	Lewis_County,_Kentucky
+Alma_Bridwell_White	wasBornIn	Lewis_County,_Kentucky
+Alma_Bridwell_White	wasBornIn	Lewis_County,_Kentucky
+Alma_Bridwell_White	wasBornIn	Lewis_County,_Kentucky
+Alma_Bridwell_White	hasChild	Ray_Bridwell_White
+Alma_Bridwell_White	hasChild	Ray_Bridwell_White
+
+http://dbpedia.org/resource/Alma_Bridwell_White	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Ray_Bridwell_White
+Alma_Bridwell_White	Ray_Bridwell_White
+Alma_Bridwell_White	hasChild	Arthur_Kent_White
+Alma_Bridwell_White	hasChild	Arthur_Kent_White
+Alma_Bridwell_White	hasChild	Arthur_Kent_White
+Alma_Bridwell_White	hasChild	Arthur_Kent_White
+Alma_Bridwell_White	hasChild	Ray_Bridwell_White
+Alma_Bridwell_White	hasChild	Ray_Bridwell_White
+
+http://dbpedia.org/resource/Miguel_Primo_de_Rivera	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Miguel_Primo_de_Rivera_y_Sáenz_de_Heredia
+Miguel_Primo_de_Rivera	Miguel_Primo_de_Rivera_y_Sáenz_de_Heredia
+Miguel_Primo_de_Rivera	wasBornIn	Jerez_de_la_Frontera
+Miguel_Primo_de_Rivera	wasBornIn	Jerez_de_la_Frontera
+Miguel_Primo_de_Rivera	wasBornIn	Jerez_de_la_Frontera
+Miguel_Primo_de_Rivera	wasBornIn	Jerez_de_la_Frontera
+Miguel_Primo_de_Rivera	hasChild	Miguel_Primo_de_Rivera_y_Sáenz_de_Heredia
+Miguel_Primo_de_Rivera	hasChild	Miguel_Primo_de_Rivera_y_Sáenz_de_Heredia
+
+http://dbpedia.org/resource/Miguel_Primo_de_Rivera	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Miguel_Primo_de_Rivera_y_Sáenz_de_Heredia
+Miguel_Primo_de_Rivera	Miguel_Primo_de_Rivera_y_Sáenz_de_Heredia
+Miguel_Primo_de_Rivera	hasChild	Miguel_Primo_de_Rivera_y_Sáenz_de_Heredia
+Miguel_Primo_de_Rivera	hasChild	Miguel_Primo_de_Rivera_y_Sáenz_de_Heredia
+
+http://dbpedia.org/resource/Miguel_Primo_de_Rivera	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Miguel_Primo_de_Rivera_y_Sáenz_de_Heredia
+Miguel_Primo_de_Rivera	Miguel_Primo_de_Rivera_y_Sáenz_de_Heredia
+Juan_Donoso_Cortés	influences	Miguel_Primo_de_Rivera
+Juan_Donoso_Cortés	influences	Miguel_Primo_de_Rivera
+Juan_Donoso_Cortés	influences	Miguel_Primo_de_Rivera
+Juan_Donoso_Cortés	influences	Miguel_Primo_de_Rivera
+Miguel_Primo_de_Rivera	hasChild	Miguel_Primo_de_Rivera_y_Sáenz_de_Heredia
+Miguel_Primo_de_Rivera	hasChild	Miguel_Primo_de_Rivera_y_Sáenz_de_Heredia
+
+http://dbpedia.org/resource/Miguel_Primo_de_Rivera	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Miguel_Primo_de_Rivera_y_Sáenz_de_Heredia
+Miguel_Primo_de_Rivera	Miguel_Primo_de_Rivera_y_Sáenz_de_Heredia
+Miguel_Primo_de_Rivera	isAffiliatedTo	Spanish_Patriotic_Union
+Miguel_Primo_de_Rivera	isAffiliatedTo	Spanish_Patriotic_Union
+Miguel_Primo_de_Rivera	isAffiliatedTo	Spanish_Patriotic_Union
+Miguel_Primo_de_Rivera	isAffiliatedTo	Spanish_Patriotic_Union
+Miguel_Primo_de_Rivera	hasChild	Miguel_Primo_de_Rivera_y_Sáenz_de_Heredia
+Miguel_Primo_de_Rivera	hasChild	Miguel_Primo_de_Rivera_y_Sáenz_de_Heredia
+
+http://dbpedia.org/resource/Miguel_Primo_de_Rivera	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/Miguel_Primo_de_Rivera_y_Sáenz_de_Heredia
+Miguel_Primo_de_Rivera	Miguel_Primo_de_Rivera_y_Sáenz_de_Heredia
+Miguel_Primo_de_Rivera	hasChild	José_Antonio_Primo_de_Rivera
+Miguel_Primo_de_Rivera	hasChild	José_Antonio_Primo_de_Rivera
+Miguel_Primo_de_Rivera	hasChild	José_Antonio_Primo_de_Rivera
+Miguel_Primo_de_Rivera	hasChild	José_Antonio_Primo_de_Rivera
+Miguel_Primo_de_Rivera	hasChild	Miguel_Primo_de_Rivera_y_Sáenz_de_Heredia
+Miguel_Primo_de_Rivera	hasChild	Miguel_Primo_de_Rivera_y_Sáenz_de_Heredia
+

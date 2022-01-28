@@ -1,0 +1,218 @@
+http://dbpedia.org/resource/Bonnie_Berger	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Lior_Pachter
+Bonnie_Berger	Lior_Pachter
+Bonnie_Berger	hasAcademicAdvisor	Silvio_Micali
+Bonnie_Berger	hasAcademicAdvisor	Silvio_Micali
+Bonnie_Berger	hasAcademicAdvisor	Silvio_Micali
+Bonnie_Berger	hasAcademicAdvisor	Silvio_Micali
+Lior_Pachter	hasAcademicAdvisor	Bonnie_Berger
+Lior_Pachter	hasAcademicAdvisor	Bonnie_Berger
+
+http://dbpedia.org/resource/Bonnie_Berger	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Lior_Pachter
+Bonnie_Berger	Lior_Pachter
+Lior_Pachter	hasAcademicAdvisor	Bonnie_Berger
+Lior_Pachter	hasAcademicAdvisor	Bonnie_Berger
+
+http://dbpedia.org/resource/Bonnie_Berger	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Lior_Pachter
+Bonnie_Berger	Lior_Pachter
+Bonnie_Berger	graduatedFrom	Brandeis_University
+Bonnie_Berger	graduatedFrom	Brandeis_University
+Bonnie_Berger	graduatedFrom	Brandeis_University
+Bonnie_Berger	graduatedFrom	Brandeis_University
+Lior_Pachter	hasAcademicAdvisor	Bonnie_Berger
+Lior_Pachter	hasAcademicAdvisor	Bonnie_Berger
+
+http://dbpedia.org/resource/Irwin_I._Shapiro	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Alyssa_A._Goodman
+Irwin_I._Shapiro	Alyssa_A._Goodman
+Irwin_I._Shapiro	influences	Steven_J._Ostro
+Irwin_I._Shapiro	influences	Steven_J._Ostro
+Irwin_I._Shapiro	influences	Steven_J._Ostro
+Irwin_I._Shapiro	influences	Steven_J._Ostro
+Alyssa_A._Goodman	hasAcademicAdvisor	Irwin_I._Shapiro
+Alyssa_A._Goodman	hasAcademicAdvisor	Irwin_I._Shapiro
+
+http://dbpedia.org/resource/Irwin_I._Shapiro	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Alyssa_A._Goodman
+Irwin_I._Shapiro	Alyssa_A._Goodman
+Alyssa_A._Goodman	hasAcademicAdvisor	Irwin_I._Shapiro
+Alyssa_A._Goodman	hasAcademicAdvisor	Irwin_I._Shapiro
+
+http://dbpedia.org/resource/Shields_Warren	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/John_D._Boice,_Jr.
+Shields_Warren	John_D._Boice,_Jr.
+Harvey_Cushing	influences	Shields_Warren
+Harvey_Cushing	influences	Shields_Warren
+Harvey_Cushing	influences	Shields_Warren
+Harvey_Cushing	influences	Shields_Warren
+Shields_Warren	influences	John_D._Boice,_Jr.
+Shields_Warren	influences	John_D._Boice,_Jr.
+
+http://dbpedia.org/resource/Shields_Warren	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/John_D._Boice,_Jr.
+Shields_Warren	John_D._Boice,_Jr.
+Shields_Warren	worksAt	United_States_Navy
+Shields_Warren	worksAt	United_States_Navy
+Shields_Warren	worksAt	United_States_Navy
+Shields_Warren	worksAt	United_States_Navy
+Shields_Warren	influences	John_D._Boice,_Jr.
+Shields_Warren	influences	John_D._Boice,_Jr.
+
+http://dbpedia.org/resource/Shields_Warren	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/John_D._Boice,_Jr.
+Shields_Warren	John_D._Boice,_Jr.
+Shields_Warren	worksAt	United_States_Atomic_Energy_Commission
+Shields_Warren	worksAt	United_States_Atomic_Energy_Commission
+Shields_Warren	worksAt	United_States_Atomic_Energy_Commission
+Shields_Warren	worksAt	United_States_Atomic_Energy_Commission
+Shields_Warren	influences	John_D._Boice,_Jr.
+Shields_Warren	influences	John_D._Boice,_Jr.
+
+http://dbpedia.org/resource/Shields_Warren	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/John_D._Boice,_Jr.
+Shields_Warren	John_D._Boice,_Jr.
+Shields_Warren	influences	John_D._Boice,_Jr.
+Shields_Warren	influences	John_D._Boice,_Jr.
+
+http://dbpedia.org/resource/Shields_Warren	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/John_D._Boice,_Jr.
+Shields_Warren	John_D._Boice,_Jr.
+Shields_Warren	graduatedFrom	Boston_University
+Shields_Warren	graduatedFrom	Boston_University
+Shields_Warren	graduatedFrom	Boston_University
+Shields_Warren	graduatedFrom	Boston_University
+Shields_Warren	influences	John_D._Boice,_Jr.
+Shields_Warren	influences	John_D._Boice,_Jr.
+
+http://dbpedia.org/resource/Vasant_Honavar	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Iowa_State_University
+Vasant_Honavar	Iowa_State_University
+Vasant_Honavar	worksAt	National_Science_Foundation
+Vasant_Honavar	worksAt	National_Science_Foundation
+Vasant_Honavar	worksAt	National_Science_Foundation
+Vasant_Honavar	worksAt	National_Science_Foundation
+Vasant_Honavar	worksAt	Iowa_State_University
+Vasant_Honavar	worksAt	Iowa_State_University
+
+http://dbpedia.org/resource/Vasant_Honavar	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Iowa_State_University
+Vasant_Honavar	Iowa_State_University
+Vasant_Honavar	worksAt	Iowa_State_University
+Vasant_Honavar	worksAt	Iowa_State_University
+
+http://dbpedia.org/resource/Vasant_Honavar	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Iowa_State_University
+Vasant_Honavar	Iowa_State_University
+Vasant_Honavar	graduatedFrom	University_of_Wisconsin–Madison
+Vasant_Honavar	graduatedFrom	University_of_Wisconsin–Madison
+Vasant_Honavar	graduatedFrom	University_of_Wisconsin–Madison
+Vasant_Honavar	graduatedFrom	University_of_Wisconsin–Madison
+Vasant_Honavar	worksAt	Iowa_State_University
+Vasant_Honavar	worksAt	Iowa_State_University
+
+http://dbpedia.org/resource/Vasant_Honavar	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Iowa_State_University
+Vasant_Honavar	Iowa_State_University
+Vasant_Honavar	graduatedFrom	University_of_Wisconsin–Madison
+Vasant_Honavar	graduatedFrom	University_of_Wisconsin–Madison
+Jay_Laurence_Lush	graduatedFrom	University_of_Wisconsin–Madison
+Jay_Laurence_Lush	graduatedFrom	University_of_Wisconsin–Madison
+Jay_Laurence_Lush	worksAt	Iowa_State_University
+Jay_Laurence_Lush	worksAt	Iowa_State_University
+
+http://dbpedia.org/resource/Irwin_I._Shapiro	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Steven_J._Ostro
+Irwin_I._Shapiro	Steven_J._Ostro
+Irwin_I._Shapiro	influences	Steven_J._Ostro
+Irwin_I._Shapiro	influences	Steven_J._Ostro
+
+http://dbpedia.org/resource/Irwin_I._Shapiro	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Steven_J._Ostro
+Irwin_I._Shapiro	Steven_J._Ostro
+Alyssa_A._Goodman	hasAcademicAdvisor	Irwin_I._Shapiro
+Alyssa_A._Goodman	hasAcademicAdvisor	Irwin_I._Shapiro
+Alyssa_A._Goodman	hasAcademicAdvisor	Irwin_I._Shapiro
+Alyssa_A._Goodman	hasAcademicAdvisor	Irwin_I._Shapiro
+Irwin_I._Shapiro	influences	Steven_J._Ostro
+Irwin_I._Shapiro	influences	Steven_J._Ostro
+
+http://dbpedia.org/resource/Cyrus_Derman	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Michael_Katehakis
+Cyrus_Derman	Michael_Katehakis
+Michael_Katehakis	hasAcademicAdvisor	Cyrus_Derman
+Michael_Katehakis	hasAcademicAdvisor	Cyrus_Derman
+
+http://dbpedia.org/resource/Cyrus_Derman	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Michael_Katehakis
+Cyrus_Derman	Michael_Katehakis
+Cyrus_Derman	hasAcademicAdvisor	Herbert_Robbins
+Cyrus_Derman	hasAcademicAdvisor	Herbert_Robbins
+Cyrus_Derman	hasAcademicAdvisor	Herbert_Robbins
+Cyrus_Derman	hasAcademicAdvisor	Herbert_Robbins
+Michael_Katehakis	hasAcademicAdvisor	Cyrus_Derman
+Michael_Katehakis	hasAcademicAdvisor	Cyrus_Derman
+
+http://dbpedia.org/resource/Cyrus_Derman	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Michael_Katehakis
+Cyrus_Derman	Michael_Katehakis
+Cyrus_Derman	hasAcademicAdvisor	Chung_Kai-lai
+Cyrus_Derman	hasAcademicAdvisor	Chung_Kai-lai
+Cyrus_Derman	hasAcademicAdvisor	Chung_Kai-lai
+Cyrus_Derman	hasAcademicAdvisor	Chung_Kai-lai
+Michael_Katehakis	hasAcademicAdvisor	Cyrus_Derman
+Michael_Katehakis	hasAcademicAdvisor	Cyrus_Derman
+
+http://dbpedia.org/resource/Max_Birnstiel	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Adrian_Bird
+Max_Birnstiel	Adrian_Bird
+Max_Birnstiel	worksAt	University_of_Zurich
+Max_Birnstiel	worksAt	University_of_Zurich
+Adrian_Bird	worksAt	University_of_Zurich
+Adrian_Bird	worksAt	University_of_Zurich
+
+http://dbpedia.org/resource/Max_Birnstiel	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Adrian_Bird
+Max_Birnstiel	Adrian_Bird
+Adrian_Bird	hasAcademicAdvisor	Max_Birnstiel
+Adrian_Bird	hasAcademicAdvisor	Max_Birnstiel
+
+http://dbpedia.org/resource/Max_Birnstiel	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Adrian_Bird
+Max_Birnstiel	Adrian_Bird
+Max_Birnstiel	graduatedFrom	ETH_Zurich
+Max_Birnstiel	graduatedFrom	ETH_Zurich
+Max_Birnstiel	graduatedFrom	ETH_Zurich
+Max_Birnstiel	graduatedFrom	ETH_Zurich
+Adrian_Bird	hasAcademicAdvisor	Max_Birnstiel
+Adrian_Bird	hasAcademicAdvisor	Max_Birnstiel
+
+http://dbpedia.org/resource/Max_Birnstiel	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Adrian_Bird
+Max_Birnstiel	Adrian_Bird
+Max_Birnstiel	hasAcademicAdvisor	Albert_Frey-Wyssling
+Max_Birnstiel	hasAcademicAdvisor	Albert_Frey-Wyssling
+Max_Birnstiel	hasAcademicAdvisor	Albert_Frey-Wyssling
+Max_Birnstiel	hasAcademicAdvisor	Albert_Frey-Wyssling
+Adrian_Bird	hasAcademicAdvisor	Max_Birnstiel
+Adrian_Bird	hasAcademicAdvisor	Max_Birnstiel
+
+http://dbpedia.org/resource/W._Selvamurthy	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Padmavathy_Bandopadhyay
+W._Selvamurthy	Padmavathy_Bandopadhyay
+W._Selvamurthy	influences	Padmavathy_Bandopadhyay
+Padmavathy_Bandopadhyay	hasAcademicAdvisor	W._Selvamurthy
+W._Selvamurthy	influences	Padmavathy_Bandopadhyay
+Padmavathy_Bandopadhyay	hasAcademicAdvisor	W._Selvamurthy
+
+http://dbpedia.org/resource/Carl_Friedrich_Gauss	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/August_Ferdinand_Möbius
+Carl_Friedrich_Gauss	August_Ferdinand_Möbius
+Carl_Friedrich_Gauss	worksAt	University_of_Göttingen
+Carl_Friedrich_Gauss	graduatedFrom	University_of_Göttingen
+Carl_Friedrich_Gauss	worksAt	University_of_Göttingen
+Carl_Friedrich_Gauss	graduatedFrom	University_of_Göttingen
+Johann_Friedrich_Pfaff	graduatedFrom	University_of_Göttingen
+Johann_Friedrich_Pfaff	graduatedFrom	University_of_Göttingen
+August_Ferdinand_Möbius	hasAcademicAdvisor	Johann_Friedrich_Pfaff
+August_Ferdinand_Möbius	hasAcademicAdvisor	Johann_Friedrich_Pfaff
+
+http://dbpedia.org/resource/Angus_Ellis_Taylor	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Edward_O._Thorp
+Angus_Ellis_Taylor	Edward_O._Thorp
+Edward_O._Thorp	hasAcademicAdvisor	Angus_Ellis_Taylor
+Edward_O._Thorp	hasAcademicAdvisor	Angus_Ellis_Taylor
+
+http://dbpedia.org/resource/Angus_Ellis_Taylor	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Edward_O._Thorp
+Angus_Ellis_Taylor	Edward_O._Thorp
+Peter_Swerling	hasAcademicAdvisor	Angus_Ellis_Taylor
+Peter_Swerling	hasAcademicAdvisor	Angus_Ellis_Taylor
+Peter_Swerling	hasAcademicAdvisor	Angus_Ellis_Taylor
+Peter_Swerling	hasAcademicAdvisor	Angus_Ellis_Taylor
+Edward_O._Thorp	hasAcademicAdvisor	Angus_Ellis_Taylor
+Edward_O._Thorp	hasAcademicAdvisor	Angus_Ellis_Taylor
+
+http://dbpedia.org/resource/Angus_Ellis_Taylor	http://dbpedia.org/ontology/notableStudent	http://dbpedia.org/resource/Edward_O._Thorp
+Angus_Ellis_Taylor	Edward_O._Thorp
+Angus_Ellis_Taylor	wasBornIn	Craig,_Colorado
+Angus_Ellis_Taylor	wasBornIn	Craig,_Colorado
+Angus_Ellis_Taylor	wasBornIn	Craig,_Colorado
+Angus_Ellis_Taylor	wasBornIn	Craig,_Colorado
+Edward_O._Thorp	hasAcademicAdvisor	Angus_Ellis_Taylor
+Edward_O._Thorp	hasAcademicAdvisor	Angus_Ellis_Taylor
+

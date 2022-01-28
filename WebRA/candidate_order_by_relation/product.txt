@@ -1,0 +1,60 @@
+http://dbpedia.org/resource/TVB	http://dbpedia.org/ontology/product	http://dbpedia.org/resource/TVB
+TVB	TVB
+TVB	created	A_Time_of_Love
+TVB	created	A_Time_of_Love
+TVB	created	A_Time_of_Love
+TVB	created	A_Time_of_Love
+
+http://dbpedia.org/resource/TVB	http://dbpedia.org/ontology/product	http://dbpedia.org/resource/TVB
+TVB	TVB
+TVB	created	Young_Charioteers
+TVB	created	Young_Charioteers
+TVB	created	Young_Charioteers
+TVB	created	Young_Charioteers
+
+http://dbpedia.org/resource/TVB	http://dbpedia.org/ontology/product	http://dbpedia.org/resource/TVB
+TVB	TVB
+TVB	owns	Win's_Entertainment
+TVB	owns	Win's_Entertainment
+TVB	owns	Win's_Entertainment
+TVB	owns	Win's_Entertainment
+
+http://dbpedia.org/resource/343_Industries	http://dbpedia.org/ontology/product	http://dbpedia.org/resource/343_Industries
+343_Industries	343_Industries
+343_Industries	isLocatedIn	Kirkland,_Washington
+343_Industries	isLocatedIn	Kirkland,_Washington
+Kirkland,_Washington	isLocatedIn	Washington_(state)
+Kirkland,_Washington	isLocatedIn	Washington_(state)
+343_Industries	isLocatedIn	Washington_(state)
+343_Industries	isLocatedIn	Washington_(state)
+
+http://dbpedia.org/resource/343_Industries	http://dbpedia.org/ontology/product	http://dbpedia.org/resource/343_Industries
+343_Industries	343_Industries
+343_Industries	isLocatedIn	Kirkland,_Washington
+343_Industries	isLocatedIn	Kirkland,_Washington
+343_Industries	isLocatedIn	Kirkland,_Washington
+343_Industries	isLocatedIn	Kirkland,_Washington
+
+http://dbpedia.org/resource/343_Industries	http://dbpedia.org/ontology/product	http://dbpedia.org/resource/343_Industries
+343_Industries	343_Industries
+343_Industries	isLocatedIn	Redmond,_Washington
+343_Industries	isLocatedIn	Redmond,_Washington
+Redmond,_Washington	isLocatedIn	Washington_(state)
+Redmond,_Washington	isLocatedIn	Washington_(state)
+343_Industries	isLocatedIn	Washington_(state)
+343_Industries	isLocatedIn	Washington_(state)
+
+http://dbpedia.org/resource/343_Industries	http://dbpedia.org/ontology/product	http://dbpedia.org/resource/343_Industries
+343_Industries	343_Industries
+343_Industries	isLocatedIn	Redmond,_Washington
+343_Industries	isLocatedIn	Redmond,_Washington
+343_Industries	isLocatedIn	Redmond,_Washington
+343_Industries	isLocatedIn	Redmond,_Washington
+
+http://dbpedia.org/resource/343_Industries	http://dbpedia.org/ontology/product	http://dbpedia.org/resource/343_Industries
+343_Industries	343_Industries
+343_Industries	isLocatedIn	Washington_(state)
+343_Industries	isLocatedIn	Washington_(state)
+343_Industries	isLocatedIn	Washington_(state)
+343_Industries	isLocatedIn	Washington_(state)
+

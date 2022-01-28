@@ -1,0 +1,166 @@
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/maintainedBy	http://dbpedia.org/resource/PLUS_Expressways
+Malaysia–Singapore_Second_Link	PLUS_Expressways
+Malaysian_Highway_Authority	created	Malaysia–Singapore_Second_Link
+Malaysian_Highway_Authority	created	Malaysia–Singapore_Second_Link
+Malaysian_Highway_Authority	isLocatedIn	Selangor
+Malaysian_Highway_Authority	isLocatedIn	Selangor
+PLUS_Expressways	isLocatedIn	Selangor
+PLUS_Expressways	isLocatedIn	Selangor
+
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/maintainedBy	http://dbpedia.org/resource/Malaysia
+Malaysia–Singapore_Second_Link	Malaysia
+Malaysian_Highway_Authority	created	Malaysia–Singapore_Second_Link
+Malaysian_Highway_Authority	created	Malaysia–Singapore_Second_Link
+Malaysian_Highway_Authority	isLocatedIn	Selangor
+Malaysian_Highway_Authority	isLocatedIn	Selangor
+Selangor	isLocatedIn	Malaysia
+Selangor	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/maintainedBy	http://dbpedia.org/resource/Malaysia
+Malaysia–Singapore_Second_Link	Malaysia
+Malaysia–Singapore_Second_Link	isLocatedIn	Tanjung_Kupang
+Malaysia–Singapore_Second_Link	isLocatedIn	Tanjung_Kupang
+Malaysia–Singapore_Second_Link	isLocatedIn	Tanjung_Kupang
+Malaysia–Singapore_Second_Link	isLocatedIn	Tanjung_Kupang
+Malaysia–Singapore_Second_Link	isLocatedIn	Malaysia
+Malaysia–Singapore_Second_Link	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/maintainedBy	http://dbpedia.org/resource/Malaysia
+Malaysia–Singapore_Second_Link	Malaysia
+Malaysia–Singapore_Second_Link	isLocatedIn	Tanjung_Kupang
+Malaysia–Singapore_Second_Link	isLocatedIn	Tanjung_Kupang
+Tanjung_Kupang	isLocatedIn	Malaysia
+Tanjung_Kupang	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/maintainedBy	http://dbpedia.org/resource/Malaysia
+Malaysia–Singapore_Second_Link	Malaysia
+Malaysia–Singapore_Second_Link	isLocatedIn	Malaysia
+Malaysia–Singapore_Second_Link	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/maintainedBy	http://dbpedia.org/resource/Malaysia
+Malaysia–Singapore_Second_Link	Malaysia
+UEM_Group	created	Malaysia–Singapore_Second_Link
+UEM_Group	created	Malaysia–Singapore_Second_Link
+UEM_Group	isLocatedIn	Kuala_Lumpur
+UEM_Group	isLocatedIn	Kuala_Lumpur
+Kuala_Lumpur	isLocatedIn	Malaysia
+Kuala_Lumpur	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/maintainedBy	http://dbpedia.org/resource/Malaysia
+Malaysia–Singapore_Second_Link	Malaysia
+UEM_Group	created	Malaysia–Singapore_Second_Link
+UEM_Group	created	Malaysia–Singapore_Second_Link
+UEM_Group	created	Malaysia–Singapore_Second_Link
+UEM_Group	created	Malaysia–Singapore_Second_Link
+Malaysia–Singapore_Second_Link	isLocatedIn	Malaysia
+Malaysia–Singapore_Second_Link	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/maintainedBy	http://dbpedia.org/resource/Malaysia
+Malaysia–Singapore_Second_Link	Malaysia
+UEM_Group	created	Malaysia–Singapore_Second_Link
+UEM_Group	created	Malaysia–Singapore_Second_Link
+UEM_Group	isLocatedIn	Malaysia
+UEM_Group	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/maintainedBy	http://dbpedia.org/resource/Malaysia
+Malaysia–Singapore_Second_Link	Malaysia
+Malaysia–Singapore_Second_Link	isLocatedIn	Johor
+Malaysia–Singapore_Second_Link	isLocatedIn	Johor
+Mohamed_Khaled_Nordin	isLeaderOf	Johor
+Mohamed_Khaled_Nordin	isPoliticianOf	Johor
+Mohamed_Khaled_Nordin	isLeaderOf	Johor
+Mohamed_Khaled_Nordin	isPoliticianOf	Johor
+Mohamed_Khaled_Nordin	isPoliticianOf	Malaysia
+Mohamed_Khaled_Nordin	isCitizenOf	Malaysia
+Mohamed_Khaled_Nordin	isPoliticianOf	Malaysia
+Mohamed_Khaled_Nordin	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/maintainedBy	http://dbpedia.org/resource/Malaysia
+Malaysia–Singapore_Second_Link	Malaysia
+Malaysia–Singapore_Second_Link	isLocatedIn	Johor
+Malaysia–Singapore_Second_Link	isLocatedIn	Johor
+Ajib_Ahmad	isPoliticianOf	Johor
+Ajib_Ahmad	isPoliticianOf	Johor
+Ajib_Ahmad	isCitizenOf	Malaysia
+Ajib_Ahmad	isPoliticianOf	Malaysia
+Ajib_Ahmad	isCitizenOf	Malaysia
+Ajib_Ahmad	isPoliticianOf	Malaysia
+
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/maintainedBy	http://dbpedia.org/resource/Malaysia
+Malaysia–Singapore_Second_Link	Malaysia
+Malaysia–Singapore_Second_Link	isLocatedIn	Johor
+Malaysia–Singapore_Second_Link	isLocatedIn	Johor
+Puan_Chan_Cheong	wasBornIn	Johor
+Puan_Chan_Cheong	wasBornIn	Johor
+Puan_Chan_Cheong	isCitizenOf	Malaysia
+Puan_Chan_Cheong	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/maintainedBy	http://dbpedia.org/resource/Malaysia
+Malaysia–Singapore_Second_Link	Malaysia
+Malaysia–Singapore_Second_Link	isLocatedIn	Johor
+Malaysia–Singapore_Second_Link	isLocatedIn	Johor
+Muhyiddin_Yassin	isPoliticianOf	Johor
+Muhyiddin_Yassin	isPoliticianOf	Johor
+Muhyiddin_Yassin	isPoliticianOf	Malaysia
+Muhyiddin_Yassin	isCitizenOf	Malaysia
+Muhyiddin_Yassin	isPoliticianOf	Malaysia
+Muhyiddin_Yassin	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/maintainedBy	http://dbpedia.org/resource/Malaysia
+Malaysia–Singapore_Second_Link	Malaysia
+Malaysia–Singapore_Second_Link	isLocatedIn	Johor
+Malaysia–Singapore_Second_Link	isLocatedIn	Johor
+Mining_Magnate	isLocatedIn	Johor
+Mining_Magnate	isLocatedIn	Johor
+Mining_Magnate	isLocatedIn	Malaysia
+Mining_Magnate	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/maintainedBy	http://dbpedia.org/resource/Malaysia
+Malaysia–Singapore_Second_Link	Malaysia
+Malaysia–Singapore_Second_Link	isLocatedIn	Johor
+Malaysia–Singapore_Second_Link	isLocatedIn	Johor
+Mohd_Norizam_Salaman	wasBornIn	Johor
+Mohd_Norizam_Salaman	wasBornIn	Johor
+Mohd_Norizam_Salaman	isCitizenOf	Malaysia
+Mohd_Norizam_Salaman	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/maintainedBy	http://dbpedia.org/resource/Malaysia
+Malaysia–Singapore_Second_Link	Malaysia
+Malaysia–Singapore_Second_Link	isLocatedIn	Johor
+Malaysia–Singapore_Second_Link	isLocatedIn	Johor
+Tanjung_Kupang	isLocatedIn	Johor
+Tanjung_Kupang	isLocatedIn	Johor
+Tanjung_Kupang	isLocatedIn	Malaysia
+Tanjung_Kupang	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/maintainedBy	http://dbpedia.org/resource/Malaysia
+Malaysia–Singapore_Second_Link	Malaysia
+Malaysia–Singapore_Second_Link	isLocatedIn	Johor
+Malaysia–Singapore_Second_Link	isLocatedIn	Johor
+Ibrahim_Ismail_of_Johor	isLeaderOf	Johor
+Ibrahim_Ismail_of_Johor	isLeaderOf	Johor
+Ibrahim_Ismail_of_Johor	isCitizenOf	Malaysia
+Ibrahim_Ismail_of_Johor	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/maintainedBy	http://dbpedia.org/resource/Malaysia
+Malaysia–Singapore_Second_Link	Malaysia
+Malaysia–Singapore_Second_Link	isLocatedIn	Johor
+Malaysia–Singapore_Second_Link	isLocatedIn	Johor
+Mohamed_Rahmat	wasBornIn	Johor
+Mohamed_Rahmat	wasBornIn	Johor
+Mohamed_Rahmat	isCitizenOf	Malaysia
+Mohamed_Rahmat	isPoliticianOf	Malaysia
+Mohamed_Rahmat	isCitizenOf	Malaysia
+Mohamed_Rahmat	isPoliticianOf	Malaysia
+
+http://dbpedia.org/resource/Malaysia–Singapore_Second_Link	http://dbpedia.org/ontology/maintainedBy	http://dbpedia.org/resource/Malaysia
+Malaysia–Singapore_Second_Link	Malaysia
+Malaysia–Singapore_Second_Link	isLocatedIn	Johor
+Malaysia–Singapore_Second_Link	isLocatedIn	Johor
+Landing_at_Labis	happenedIn	Johor
+Landing_at_Labis	happenedIn	Johor
+Landing_at_Labis	happenedIn	Malaysia
+Malaysia	participatedIn	Landing_at_Labis
+Landing_at_Labis	happenedIn	Malaysia
+Malaysia	participatedIn	Landing_at_Labis
+

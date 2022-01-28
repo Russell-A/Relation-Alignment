@@ -1,0 +1,2229 @@
+http://dbpedia.org/resource/U.S._Route_395	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Spokane,_Washington
+U.S._Route_395	Spokane,_Washington
+U.S._Route_395	isLocatedIn	Washington_(state)
+U.S._Route_395	isLocatedIn	Washington_(state)
+Gonzaga_University	isLocatedIn	Washington_(state)
+Gonzaga_University	isLocatedIn	Washington_(state)
+Gonzaga_University	isLocatedIn	Spokane,_Washington
+Gonzaga_University	isLocatedIn	Spokane,_Washington
+
+http://dbpedia.org/resource/U.S._Route_641	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Benton,_Kentucky
+U.S._Route_641	Benton,_Kentucky
+U.S._Route_641	isLocatedIn	Benton,_Kentucky
+U.S._Route_641	isLocatedIn	Benton,_Kentucky
+
+http://dbpedia.org/resource/U.S._Route_641	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Benton,_Kentucky
+U.S._Route_641	Benton,_Kentucky
+U.S._Route_641	isLocatedIn	Marshall_County,_Kentucky
+U.S._Route_641	isLocatedIn	Marshall_County,_Kentucky
+Benton,_Kentucky	isLocatedIn	Marshall_County,_Kentucky
+Marshall_County,_Kentucky	isLocatedIn	Benton,_Kentucky
+Benton,_Kentucky	isLocatedIn	Marshall_County,_Kentucky
+Marshall_County,_Kentucky	isLocatedIn	Benton,_Kentucky
+
+http://dbpedia.org/resource/U.S._Route_641	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Benton,_Kentucky
+U.S._Route_641	Benton,_Kentucky
+U.S._Route_641	isLocatedIn	Marshall_County,_Kentucky
+U.S._Route_641	isLocatedIn	Marshall_County,_Kentucky
+U.S._Route_641	isLocatedIn	Marshall_County,_Kentucky
+U.S._Route_641	isLocatedIn	Marshall_County,_Kentucky
+U.S._Route_641	isLocatedIn	Benton,_Kentucky
+U.S._Route_641	isLocatedIn	Benton,_Kentucky
+
+http://dbpedia.org/resource/Illinois_Route_31	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Elgin,_Illinois
+Illinois_Route_31	Elgin,_Illinois
+Illinois_Route_31	isLocatedIn	Aurora,_Illinois
+Illinois_Route_31	isLocatedIn	Aurora,_Illinois
+Aurora,_Illinois	isLocatedIn	Kane_County,_Illinois
+Aurora,_Illinois	isLocatedIn	Kane_County,_Illinois
+Elgin,_Illinois	isLocatedIn	Kane_County,_Illinois
+Elgin,_Illinois	isLocatedIn	Kane_County,_Illinois
+
+http://dbpedia.org/resource/Illinois_Route_31	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Elgin,_Illinois
+Illinois_Route_31	Elgin,_Illinois
+Illinois_Route_31	isLocatedIn	Aurora,_Illinois
+Illinois_Route_31	isLocatedIn	Aurora,_Illinois
+Randall_Road	isLocatedIn	Aurora,_Illinois
+Randall_Road	isLocatedIn	Aurora,_Illinois
+Randall_Road	isLocatedIn	Elgin,_Illinois
+Randall_Road	isLocatedIn	Elgin,_Illinois
+
+http://dbpedia.org/resource/Illinois_Route_31	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Elgin,_Illinois
+Illinois_Route_31	Elgin,_Illinois
+Illinois_Route_31	isLocatedIn	Algonquin,_Illinois
+Illinois_Route_31	isLocatedIn	Algonquin,_Illinois
+Algonquin,_Illinois	isLocatedIn	Kane_County,_Illinois
+Algonquin,_Illinois	isLocatedIn	Kane_County,_Illinois
+Elgin,_Illinois	isLocatedIn	Kane_County,_Illinois
+Elgin,_Illinois	isLocatedIn	Kane_County,_Illinois
+
+http://dbpedia.org/resource/Illinois_Route_31	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Elgin,_Illinois
+Illinois_Route_31	Elgin,_Illinois
+Illinois_Route_31	isLocatedIn	Algonquin,_Illinois
+Illinois_Route_31	isLocatedIn	Algonquin,_Illinois
+Randall_Road	isLocatedIn	Algonquin,_Illinois
+Randall_Road	isLocatedIn	Algonquin,_Illinois
+Randall_Road	isLocatedIn	Elgin,_Illinois
+Randall_Road	isLocatedIn	Elgin,_Illinois
+
+http://dbpedia.org/resource/Illinois_Route_31	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Elgin,_Illinois
+Illinois_Route_31	Elgin,_Illinois
+Illinois_Route_31	isLocatedIn	Crystal_Lake,_Illinois
+Illinois_Route_31	isLocatedIn	Crystal_Lake,_Illinois
+Randall_Road	isLocatedIn	Crystal_Lake,_Illinois
+Randall_Road	isLocatedIn	Crystal_Lake,_Illinois
+Randall_Road	isLocatedIn	Elgin,_Illinois
+Randall_Road	isLocatedIn	Elgin,_Illinois
+
+http://dbpedia.org/resource/Interstate_95	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Philadelphia
+Interstate_95	Philadelphia
+Interstate_95	isLocatedIn	Delaware
+Interstate_95	isLocatedIn	Delaware
+James_M._Tunnell	livesIn	Delaware
+James_M._Tunnell	livesIn	Delaware
+James_M._Tunnell	diedIn	Philadelphia
+James_M._Tunnell	diedIn	Philadelphia
+
+http://dbpedia.org/resource/Interstate_95	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Philadelphia
+Interstate_95	Philadelphia
+Interstate_95	isLocatedIn	Delaware
+Interstate_95	isLocatedIn	Delaware
+Victor_Marie_du_Pont	livesIn	Delaware
+Victor_Marie_du_Pont	livesIn	Delaware
+Victor_Marie_du_Pont	diedIn	Philadelphia
+Victor_Marie_du_Pont	diedIn	Philadelphia
+
+http://dbpedia.org/resource/Interstate_95	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Philadelphia
+Interstate_95	Philadelphia
+Pennsylvania_Turnpike	isLocatedIn	Interstate_95
+Pennsylvania_Turnpike	isLocatedIn	Interstate_95
+Schuylkill_Expressway	isLocatedIn	Pennsylvania_Turnpike
+Schuylkill_Expressway	isLocatedIn	Pennsylvania_Turnpike
+Schuylkill_Expressway	isLocatedIn	Philadelphia
+Schuylkill_Expressway	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/Interstate_95	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Philadelphia
+Interstate_95	Philadelphia
+Interstate_95	isLocatedIn	New_Jersey
+Interstate_95	isLocatedIn	New_Jersey
+Delair_Bridge	isLocatedIn	New_Jersey
+Delair_Bridge	isLocatedIn	New_Jersey
+Delair_Bridge	isLocatedIn	Philadelphia
+Delair_Bridge	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/Interstate_95	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Philadelphia
+Interstate_95	Philadelphia
+Interstate_95	isLocatedIn	New_Jersey
+Interstate_95	isLocatedIn	New_Jersey
+George_B._McClellan	isPoliticianOf	New_Jersey
+George_B._McClellan	isPoliticianOf	New_Jersey
+George_B._McClellan	wasBornIn	Philadelphia
+George_B._McClellan	wasBornIn	Philadelphia
+
+http://dbpedia.org/resource/Interstate_95	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Philadelphia
+Interstate_95	Philadelphia
+Interstate_95	isLocatedIn	Florida
+Interstate_95	isLocatedIn	Florida
+Del_Vaughn	livesIn	Florida
+Del_Vaughn	livesIn	Florida
+Del_Vaughn	livesIn	Philadelphia
+Del_Vaughn	livesIn	Philadelphia
+
+http://dbpedia.org/resource/Interstate_95	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Philadelphia
+Interstate_95	Philadelphia
+Interstate_95	isLocatedIn	Florida
+Interstate_95	isLocatedIn	Florida
+Double_Dare_(Nickelodeon_game_show)	isLocatedIn	Florida
+Double_Dare_(Nickelodeon_game_show)	isLocatedIn	Florida
+Double_Dare_(Nickelodeon_game_show)	isLocatedIn	Philadelphia
+Double_Dare_(Nickelodeon_game_show)	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/Interstate_95	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Philadelphia
+Interstate_95	Philadelphia
+Interstate_95	isLocatedIn	Maryland
+Interstate_95	isLocatedIn	Maryland
+Delaware_Valley	isLocatedIn	Maryland
+Delaware_Valley	isLocatedIn	Maryland
+Delaware_Valley	isLocatedIn	Philadelphia
+Delaware_Valley	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/Interstate_95	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Philadelphia
+Interstate_95	Philadelphia
+Interstate_95	isLocatedIn	Pennsylvania
+Interstate_95	isLocatedIn	Pennsylvania
+David_L._Cohen	livesIn	Pennsylvania
+David_L._Cohen	livesIn	Pennsylvania
+David_L._Cohen	livesIn	Philadelphia
+David_L._Cohen	livesIn	Philadelphia
+
+http://dbpedia.org/resource/Interstate_95	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Philadelphia
+Interstate_95	Philadelphia
+Interstate_95	isLocatedIn	Pennsylvania
+Interstate_95	isLocatedIn	Pennsylvania
+Spectrum_(arena)	isLocatedIn	Pennsylvania
+Spectrum_(arena)	isLocatedIn	Pennsylvania
+Spectrum_(arena)	isLocatedIn	Philadelphia
+Spectrum_(arena)	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/Interstate_95	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Philadelphia
+Interstate_95	Philadelphia
+Interstate_95	isLocatedIn	Pennsylvania
+Interstate_95	isLocatedIn	Pennsylvania
+WACP	isLocatedIn	Pennsylvania
+WACP	isLocatedIn	Pennsylvania
+WACP	isLocatedIn	Philadelphia
+WACP	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/Interstate_95	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Philadelphia
+Interstate_95	Philadelphia
+Interstate_95	isLocatedIn	Pennsylvania
+Interstate_95	isLocatedIn	Pennsylvania
+University_of_Pennsylvania_Law_School	isLocatedIn	Pennsylvania
+University_of_Pennsylvania_Law_School	isLocatedIn	Pennsylvania
+University_of_Pennsylvania_Law_School	isLocatedIn	Philadelphia
+University_of_Pennsylvania_Law_School	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/Interstate_95	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Philadelphia
+Interstate_95	Philadelphia
+Interstate_95	isLocatedIn	Pennsylvania
+Interstate_95	isLocatedIn	Pennsylvania
+Del_Vaughn	livesIn	Pennsylvania
+Del_Vaughn	livesIn	Pennsylvania
+Del_Vaughn	livesIn	Philadelphia
+Del_Vaughn	livesIn	Philadelphia
+
+http://dbpedia.org/resource/Interstate_95	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Philadelphia
+Interstate_95	Philadelphia
+Interstate_95	isLocatedIn	Pennsylvania
+Interstate_95	isLocatedIn	Pennsylvania
+Aaron_T._Beck	livesIn	Pennsylvania
+Aaron_T._Beck	livesIn	Pennsylvania
+Aaron_T._Beck	livesIn	Philadelphia
+Aaron_T._Beck	livesIn	Philadelphia
+
+http://dbpedia.org/resource/Interstate_95	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Philadelphia
+Interstate_95	Philadelphia
+Interstate_95	isLocatedIn	Pennsylvania
+Interstate_95	isLocatedIn	Pennsylvania
+Saint_Joseph's_University	isLocatedIn	Pennsylvania
+Saint_Joseph's_University	isLocatedIn	Pennsylvania
+Saint_Joseph's_University	isLocatedIn	Philadelphia
+Saint_Joseph's_University	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/Interstate_95	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Philadelphia
+Interstate_95	Philadelphia
+Interstate_95	isLocatedIn	Pennsylvania
+Interstate_95	isLocatedIn	Pennsylvania
+Philadelphia_Cricket_Club	isLocatedIn	Pennsylvania
+Philadelphia_Cricket_Club	isLocatedIn	Pennsylvania
+Philadelphia_Cricket_Club	isLocatedIn	Philadelphia
+Philadelphia_Cricket_Club	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/Interstate_95	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Philadelphia
+Interstate_95	Philadelphia
+Interstate_95	isLocatedIn	Pennsylvania
+Interstate_95	isLocatedIn	Pennsylvania
+University_of_Pennsylvania	isLocatedIn	Pennsylvania
+University_of_Pennsylvania	isLocatedIn	Pennsylvania
+University_of_Pennsylvania	isLocatedIn	Philadelphia
+University_of_Pennsylvania	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/Interstate_95	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Philadelphia
+Interstate_95	Philadelphia
+Interstate_95	isLocatedIn	Pennsylvania
+Interstate_95	isLocatedIn	Pennsylvania
+Wharton_School_of_the_University_of_Pennsylvania	isLocatedIn	Pennsylvania
+Wharton_School_of_the_University_of_Pennsylvania	isLocatedIn	Pennsylvania
+Wharton_School_of_the_University_of_Pennsylvania	isLocatedIn	Philadelphia
+Wharton_School_of_the_University_of_Pennsylvania	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/Interstate_95	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Philadelphia
+Interstate_95	Philadelphia
+Interstate_95	isLocatedIn	Pennsylvania
+Interstate_95	isLocatedIn	Pennsylvania
+Kermit_Roosevelt_III	livesIn	Pennsylvania
+Kermit_Roosevelt_III	livesIn	Pennsylvania
+Kermit_Roosevelt_III	livesIn	Philadelphia
+Kermit_Roosevelt_III	livesIn	Philadelphia
+
+http://dbpedia.org/resource/Interstate_95	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Philadelphia
+Interstate_95	Philadelphia
+Interstate_95	isLocatedIn	Pennsylvania
+Interstate_95	isLocatedIn	Pennsylvania
+Fern_Rock,_Philadelphia	isLocatedIn	Pennsylvania
+Fern_Rock,_Philadelphia	isLocatedIn	Pennsylvania
+Fern_Rock,_Philadelphia	isLocatedIn	Philadelphia
+Fern_Rock,_Philadelphia	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/U.S._Route_45	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Tinley_Park,_Illinois
+U.S._Route_45	Tinley_Park,_Illinois
+U.S._Route_45	isLocatedIn	Illinois
+U.S._Route_45	isLocatedIn	Illinois
+Frankfort_Township,_Will_County,_Illinois	isLocatedIn	Illinois
+Frankfort_Township,_Will_County,_Illinois	isLocatedIn	Illinois
+Tinley_Park,_Illinois	isLocatedIn	Frankfort_Township,_Will_County,_Illinois
+Tinley_Park,_Illinois	isLocatedIn	Frankfort_Township,_Will_County,_Illinois
+
+http://dbpedia.org/resource/U.S._Route_45	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Tinley_Park,_Illinois
+U.S._Route_45	Tinley_Park,_Illinois
+U.S._Route_45	isLocatedIn	Illinois
+U.S._Route_45	isLocatedIn	Illinois
+Cook_County,_Illinois	isLocatedIn	Illinois
+Cook_County,_Illinois	isLocatedIn	Illinois
+Tinley_Park,_Illinois	isLocatedIn	Cook_County,_Illinois
+Tinley_Park,_Illinois	isLocatedIn	Cook_County,_Illinois
+
+http://dbpedia.org/resource/U.S._Route_45	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Tinley_Park,_Illinois
+U.S._Route_45	Tinley_Park,_Illinois
+U.S._Route_45	isLocatedIn	Illinois
+U.S._Route_45	isLocatedIn	Illinois
+Orland_Township,_Cook_County,_Illinois	isLocatedIn	Illinois
+Orland_Township,_Cook_County,_Illinois	isLocatedIn	Illinois
+Tinley_Park,_Illinois	isLocatedIn	Orland_Township,_Cook_County,_Illinois
+Tinley_Park,_Illinois	isLocatedIn	Orland_Township,_Cook_County,_Illinois
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/West_Memphis,_Arkansas
+Interstate_55	West_Memphis,_Arkansas
+Interstate_55	isLocatedIn	Arkansas
+Interstate_55	isLocatedIn	Arkansas
+West_Memphis,_Arkansas	isLocatedIn	Arkansas
+West_Memphis,_Arkansas	isLocatedIn	Arkansas
+
+http://dbpedia.org/resource/Schuylkill_Expressway	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Fairmount_Park
+Schuylkill_Expressway	Fairmount_Park
+Schuylkill_Expressway	isLocatedIn	Philadelphia
+Schuylkill_Expressway	isLocatedIn	Philadelphia
+Fairmount_Park	isLocatedIn	Philadelphia
+Fairmount_Park	isLocatedIn	Philadelphia
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Sikeston,_Missouri
+Interstate_55	Sikeston,_Missouri
+Interstate_44	isLocatedIn	Interstate_55
+Interstate_44	isLocatedIn	Interstate_55
+Interstate_44	isLocatedIn	Missouri
+Interstate_44	isLocatedIn	Missouri
+Sikeston,_Missouri	isLocatedIn	Missouri
+Sikeston,_Missouri	isLocatedIn	Missouri
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Sikeston,_Missouri
+Interstate_55	Sikeston,_Missouri
+Interstate_55	isLocatedIn	Missouri
+Interstate_55	isLocatedIn	Missouri
+Sikeston,_Missouri	isLocatedIn	Missouri
+Sikeston,_Missouri	isLocatedIn	Missouri
+
+http://dbpedia.org/resource/Interstate_22	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Hamilton,_Alabama
+Interstate_22	Hamilton,_Alabama
+Interstate_22	isLocatedIn	U.S._Route_31
+Interstate_22	isLocatedIn	U.S._Route_31
+U.S._Route_31	isLocatedIn	Alabama
+U.S._Route_31	isLocatedIn	Alabama
+Hamilton,_Alabama	isLocatedIn	Alabama
+Hamilton,_Alabama	isLocatedIn	Alabama
+
+http://dbpedia.org/resource/Interstate_22	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Hamilton,_Alabama
+Interstate_22	Hamilton,_Alabama
+Interstate_22	isLocatedIn	Birmingham,_Alabama
+Interstate_22	isLocatedIn	Birmingham,_Alabama
+Alabama	hasCapital	Birmingham,_Alabama
+Birmingham,_Alabama	isLocatedIn	Alabama
+Alabama	hasCapital	Birmingham,_Alabama
+Birmingham,_Alabama	isLocatedIn	Alabama
+Hamilton,_Alabama	isLocatedIn	Alabama
+Hamilton,_Alabama	isLocatedIn	Alabama
+
+http://dbpedia.org/resource/Interstate_22	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Hamilton,_Alabama
+Interstate_22	Hamilton,_Alabama
+Interstate_22	isLocatedIn	Interstate_65
+Interstate_22	isLocatedIn	Interstate_65
+Interstate_65	isLocatedIn	Alabama
+Interstate_65	isLocatedIn	Alabama
+Hamilton,_Alabama	isLocatedIn	Alabama
+Hamilton,_Alabama	isLocatedIn	Alabama
+
+http://dbpedia.org/resource/Interstate_22	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Hamilton,_Alabama
+Interstate_22	Hamilton,_Alabama
+Interstate_22	isLocatedIn	Alabama
+Interstate_22	isLocatedIn	Alabama
+Hamilton,_Alabama	isLocatedIn	Alabama
+Hamilton,_Alabama	isLocatedIn	Alabama
+
+http://dbpedia.org/resource/Interstate_22	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Hamilton,_Alabama
+Interstate_22	Hamilton,_Alabama
+Interstate_22	isLocatedIn	Alabama
+Interstate_22	isLocatedIn	Alabama
+Marion_County,_Alabama	isLocatedIn	Alabama
+Marion_County,_Alabama	isLocatedIn	Alabama
+Hamilton,_Alabama	isLocatedIn	Marion_County,_Alabama
+Marion_County,_Alabama	isLocatedIn	Hamilton,_Alabama
+Hamilton,_Alabama	isLocatedIn	Marion_County,_Alabama
+Marion_County,_Alabama	isLocatedIn	Hamilton,_Alabama
+
+http://dbpedia.org/resource/M4_motorway_(Hungary)	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/M8_motorway_(Hungary)
+M4_motorway_(Hungary)	M8_motorway_(Hungary)
+M4_motorway_(Hungary)	isLocatedIn	Jász-Nagykun-Szolnok_County
+M4_motorway_(Hungary)	isLocatedIn	Jász-Nagykun-Szolnok_County
+M8_motorway_(Hungary)	isLocatedIn	Jász-Nagykun-Szolnok_County
+M8_motorway_(Hungary)	isLocatedIn	Jász-Nagykun-Szolnok_County
+
+http://dbpedia.org/resource/M4_motorway_(Hungary)	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/M8_motorway_(Hungary)
+M4_motorway_(Hungary)	M8_motorway_(Hungary)
+M4_motorway_(Hungary)	isLocatedIn	Pest_County
+M4_motorway_(Hungary)	isLocatedIn	Pest_County
+M8_motorway_(Hungary)	isLocatedIn	Pest_County
+M8_motorway_(Hungary)	isLocatedIn	Pest_County
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+Interstate_55	isLocatedIn	U.S._Route_41
+Interstate_55	isLocatedIn	U.S._Route_41
+Interstate_55	isLocatedIn	Chicago
+Interstate_55	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Florida
+U.S._Route_41	isLocatedIn	Florida
+Vince_Spadea	livesIn	Florida
+Vince_Spadea	livesIn	Florida
+Vince_Spadea	wasBornIn	Chicago
+Vince_Spadea	wasBornIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Florida
+U.S._Route_41	isLocatedIn	Florida
+Katrina_Adams	livesIn	Florida
+Katrina_Adams	livesIn	Florida
+Katrina_Adams	wasBornIn	Chicago
+Katrina_Adams	wasBornIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Florida
+U.S._Route_41	isLocatedIn	Florida
+Exxxotica	isLocatedIn	Florida
+Exxxotica	isLocatedIn	Florida
+Exxxotica	isLocatedIn	Chicago
+Exxxotica	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Florida
+U.S._Route_41	isLocatedIn	Florida
+Alguien_te_mira_(American_telenovela)	isLocatedIn	Florida
+Alguien_te_mira_(American_telenovela)	isLocatedIn	Florida
+Alguien_te_mira_(American_telenovela)	isLocatedIn	Chicago
+Alguien_te_mira_(American_telenovela)	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Florida
+U.S._Route_41	isLocatedIn	Florida
+2012_in_UFC	isLocatedIn	Florida
+2012_in_UFC	isLocatedIn	Florida
+2012_in_UFC	isLocatedIn	Chicago
+2012_in_UFC	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+WrestleMania_2	happenedIn	Illinois
+WrestleMania_2	isLocatedIn	Illinois
+WrestleMania_2	happenedIn	Illinois
+WrestleMania_2	isLocatedIn	Illinois
+WrestleMania_2	isLocatedIn	Chicago
+WrestleMania_2	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+2012_in_UFC	isLocatedIn	Illinois
+2012_in_UFC	isLocatedIn	Illinois
+2012_in_UFC	isLocatedIn	Chicago
+2012_in_UFC	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+John_Marshall_Law_School_(Chicago)	isLocatedIn	Illinois
+John_Marshall_Law_School_(Chicago)	isLocatedIn	Illinois
+John_Marshall_Law_School_(Chicago)	isLocatedIn	Chicago
+John_Marshall_Law_School_(Chicago)	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Soldier_Field	isLocatedIn	Illinois
+Soldier_Field	isLocatedIn	Illinois
+Chicago	owns	Soldier_Field
+Soldier_Field	isLocatedIn	Chicago
+Chicago	owns	Soldier_Field
+Soldier_Field	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Loyola_University_Chicago_School_of_Law	isLocatedIn	Illinois
+Loyola_University_Chicago_School_of_Law	isLocatedIn	Illinois
+Loyola_University_Chicago_School_of_Law	isLocatedIn	Chicago
+Loyola_University_Chicago_School_of_Law	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Brunswick_Corporation	isLocatedIn	Illinois
+Brunswick_Corporation	isLocatedIn	Illinois
+Brunswick_Corporation	isLocatedIn	Chicago
+Brunswick_Corporation	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Monroe_Heath	livesIn	Illinois
+Monroe_Heath	livesIn	Illinois
+Monroe_Heath	livesIn	Chicago
+Monroe_Heath	livesIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+University_of_Chicago_Law_School	isLocatedIn	Illinois
+University_of_Chicago_Law_School	isLocatedIn	Illinois
+University_of_Chicago_Law_School	isLocatedIn	Chicago
+University_of_Chicago_Law_School	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Judith_D._Sally	livesIn	Illinois
+Judith_D._Sally	livesIn	Illinois
+Judith_D._Sally	livesIn	Chicago
+Judith_D._Sally	livesIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Rush_University	isLocatedIn	Illinois
+Rush_University	isLocatedIn	Illinois
+Rush_University	isLocatedIn	Chicago
+Rush_University	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Danny_K._Davis	livesIn	Illinois
+Danny_K._Davis	livesIn	Illinois
+Danny_K._Davis	livesIn	Chicago
+Danny_K._Davis	livesIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Hempstead_Washburne	livesIn	Illinois
+Hempstead_Washburne	livesIn	Illinois
+Hempstead_Washburne	diedIn	Chicago
+Hempstead_Washburne	livesIn	Chicago
+Hempstead_Washburne	diedIn	Chicago
+Hempstead_Washburne	livesIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Three_First_National_Plaza	isLocatedIn	Illinois
+Three_First_National_Plaza	isLocatedIn	Illinois
+Three_First_National_Plaza	isLocatedIn	Chicago
+Three_First_National_Plaza	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+John_T._Cacioppo	livesIn	Illinois
+John_T._Cacioppo	livesIn	Illinois
+John_T._Cacioppo	livesIn	Chicago
+John_T._Cacioppo	livesIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+University_of_Chicago_Divinity_School	isLocatedIn	Illinois
+University_of_Chicago_Divinity_School	isLocatedIn	Illinois
+University_of_Chicago_Divinity_School	isLocatedIn	Chicago
+University_of_Chicago_Divinity_School	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+International_Harvester	isLocatedIn	Illinois
+International_Harvester	isLocatedIn	Illinois
+International_Harvester	isLocatedIn	Chicago
+International_Harvester	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Moody_Bible_Institute	isLocatedIn	Illinois
+Moody_Bible_Institute	isLocatedIn	Illinois
+Moody_Bible_Institute	isLocatedIn	Chicago
+Moody_Bible_Institute	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Big_Ten_Network	isLocatedIn	Illinois
+Big_Ten_Network	isLocatedIn	Illinois
+Big_Ten_Network	isLocatedIn	Chicago
+Big_Ten_Network	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+WWME-CD	isLocatedIn	Illinois
+WWME-CD	isLocatedIn	Illinois
+WWME-CD	isLocatedIn	Chicago
+WWME-CD	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+WCIU-TV	isLocatedIn	Illinois
+WCIU-TV	isLocatedIn	Illinois
+WCIU-TV	isLocatedIn	Chicago
+WCIU-TV	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+WCPX-TV	isLocatedIn	Illinois
+WCPX-TV	isLocatedIn	Illinois
+WCPX-TV	isLocatedIn	Chicago
+WCPX-TV	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+WXFT-DT	isLocatedIn	Illinois
+WXFT-DT	isLocatedIn	Illinois
+WXFT-DT	isLocatedIn	Chicago
+WXFT-DT	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Chicago_Bears	isLocatedIn	Illinois
+Chicago_Bears	isLocatedIn	Illinois
+Chicago_Bears	isLocatedIn	Chicago
+Chicago_Bears	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Cook_County,_Illinois	isLocatedIn	Illinois
+Cook_County,_Illinois	isLocatedIn	Illinois
+Cook_County,_Illinois	isLocatedIn	Chicago
+Chicago	isLocatedIn	Cook_County,_Illinois
+Cook_County,_Illinois	isLocatedIn	Chicago
+Chicago	isLocatedIn	Cook_County,_Illinois
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Willis_Tower	isLocatedIn	Illinois
+Willis_Tower	isLocatedIn	Illinois
+Willis_Tower	isLocatedIn	Chicago
+Willis_Tower	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Harvey_Doolittle_Colvin	livesIn	Illinois
+Harvey_Doolittle_Colvin	livesIn	Illinois
+Harvey_Doolittle_Colvin	livesIn	Chicago
+Harvey_Doolittle_Colvin	livesIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Chicago_Blackhawks	isLocatedIn	Illinois
+Chicago_Blackhawks	isLocatedIn	Illinois
+Chicago_Blackhawks	isLocatedIn	Chicago
+Chicago_Blackhawks	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+311_South_Wacker_Drive	isLocatedIn	Illinois
+311_South_Wacker_Drive	isLocatedIn	Illinois
+311_South_Wacker_Drive	isLocatedIn	Chicago
+311_South_Wacker_Drive	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Cushman_&_Wakefield	isLocatedIn	Illinois
+Cushman_&_Wakefield	isLocatedIn	Illinois
+Cushman_&_Wakefield	isLocatedIn	Chicago
+Cushman_&_Wakefield	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Grant_DePorter	livesIn	Illinois
+Grant_DePorter	livesIn	Illinois
+Grant_DePorter	livesIn	Chicago
+Grant_DePorter	livesIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+John_Bachtell	livesIn	Illinois
+John_Bachtell	livesIn	Illinois
+John_Bachtell	livesIn	Chicago
+John_Bachtell	livesIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Greg_Harris_(Illinois_politician)	livesIn	Illinois
+Greg_Harris_(Illinois_politician)	livesIn	Illinois
+Greg_Harris_(Illinois_politician)	livesIn	Chicago
+Greg_Harris_(Illinois_politician)	livesIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Chicago_Enforcers	isLocatedIn	Illinois
+Chicago_Enforcers	isLocatedIn	Illinois
+Chicago_Enforcers	isLocatedIn	Chicago
+Chicago_Enforcers	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Chicago_Bulls	isLocatedIn	Illinois
+Chicago_Bulls	isLocatedIn	Illinois
+Chicago_Bulls	isLocatedIn	Chicago
+Chicago_Bulls	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Don_Lincoln	livesIn	Illinois
+Don_Lincoln	livesIn	Illinois
+Don_Lincoln	livesIn	Chicago
+Don_Lincoln	livesIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+United_Airlines	isLocatedIn	Illinois
+United_Airlines	isLocatedIn	Illinois
+United_Airlines	isLocatedIn	Chicago
+United_Airlines	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Wrigley_Field	isLocatedIn	Illinois
+Wrigley_Field	isLocatedIn	Illinois
+Wrigley_Field	isLocatedIn	Chicago
+Wrigley_Field	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+WBBM_(AM)	isLocatedIn	Illinois
+WBBM_(AM)	isLocatedIn	Illinois
+WBBM_(AM)	isLocatedIn	Chicago
+WBBM_(AM)	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Mark_Hanson	livesIn	Illinois
+Mark_Hanson	livesIn	Illinois
+Mark_Hanson	livesIn	Chicago
+Mark_Hanson	livesIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Chicago
+321_North_Clark	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+WMAQ-TV	isLocatedIn	Illinois
+WMAQ-TV	isLocatedIn	Illinois
+WMAQ-TV	isLocatedIn	Chicago
+WMAQ-TV	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Sarfaraz_K._Niazi	livesIn	Illinois
+Sarfaraz_K._Niazi	livesIn	Illinois
+Sarfaraz_K._Niazi	livesIn	Chicago
+Sarfaraz_K._Niazi	livesIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+United_Express	isLocatedIn	Illinois
+United_Express	isLocatedIn	Illinois
+United_Express	isLocatedIn	Chicago
+United_Express	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Kellogg_School_of_Management	isLocatedIn	Illinois
+Kellogg_School_of_Management	isLocatedIn	Illinois
+Kellogg_School_of_Management	isLocatedIn	Chicago
+Kellogg_School_of_Management	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Extreme_Rules_(2012)	isLocatedIn	Illinois
+Extreme_Rules_(2012)	isLocatedIn	Illinois
+Extreme_Rules_(2012)	isLocatedIn	Chicago
+Extreme_Rules_(2012)	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Interstate_57	isLocatedIn	Illinois
+Interstate_57	isLocatedIn	Illinois
+Interstate_57	isLocatedIn	Chicago
+Interstate_57	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Fred_Donner	livesIn	Illinois
+Fred_Donner	livesIn	Illinois
+Fred_Donner	livesIn	Chicago
+Fred_Donner	livesIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Checker_Records	isLocatedIn	Illinois
+Checker_Records	isLocatedIn	Illinois
+Checker_Records	isLocatedIn	Chicago
+Checker_Records	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Fred_A._Busse	livesIn	Illinois
+Fred_A._Busse	livesIn	Illinois
+Fred_A._Busse	diedIn	Chicago
+Fred_A._Busse	livesIn	Chicago
+Fred_A._Busse	wasBornIn	Chicago
+Fred_A._Busse	diedIn	Chicago
+Fred_A._Busse	livesIn	Chicago
+Fred_A._Busse	wasBornIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+Franklin_Center_(Chicago)	isLocatedIn	Chicago
+Franklin_Center_(Chicago)	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+WrestleMania_22	isLocatedIn	Illinois
+WrestleMania_22	isLocatedIn	Illinois
+WrestleMania_22	isLocatedIn	Chicago
+WrestleMania_22	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+United_Center	isLocatedIn	Illinois
+United_Center	isLocatedIn	Illinois
+United_Center	isLocatedIn	Chicago
+United_Center	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Henry_Horner	isPoliticianOf	Illinois
+Henry_Horner	isPoliticianOf	Illinois
+Henry_Horner	wasBornIn	Chicago
+Henry_Horner	wasBornIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+EyeOpener_(U.S._TV_program)	isLocatedIn	Illinois
+EyeOpener_(U.S._TV_program)	isLocatedIn	Illinois
+EyeOpener_(U.S._TV_program)	isLocatedIn	Chicago
+EyeOpener_(U.S._TV_program)	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Harpo_Productions	isLocatedIn	Illinois
+Harpo_Productions	isLocatedIn	Illinois
+Harpo_Productions	isLocatedIn	Chicago
+Harpo_Productions	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+Westwood_College	isLocatedIn	Illinois
+Westwood_College	isLocatedIn	Illinois
+Westwood_College	isLocatedIn	Chicago
+Westwood_College	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+U.S._Route_41	Chicago
+U.S._Route_41	isLocatedIn	Illinois
+U.S._Route_41	isLocatedIn	Illinois
+United_Continental_Holdings	isLocatedIn	Illinois
+United_Continental_Holdings	isLocatedIn	Illinois
+United_Continental_Holdings	isLocatedIn	Chicago
+United_Continental_Holdings	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Terre_Haute,_Indiana
+U.S._Route_41	Terre_Haute,_Indiana
+U.S._Route_41	isLocatedIn	Indiana
+U.S._Route_41	isLocatedIn	Indiana
+Terre_Haute,_Indiana	isLocatedIn	Indiana
+Terre_Haute,_Indiana	isLocatedIn	Indiana
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Terre_Haute,_Indiana
+U.S._Route_41	Terre_Haute,_Indiana
+U.S._Route_41	isLocatedIn	Indiana
+U.S._Route_41	isLocatedIn	Indiana
+Michael_Simmons_Student_Activity_Center	isLocatedIn	Indiana
+Michael_Simmons_Student_Activity_Center	isLocatedIn	Indiana
+Michael_Simmons_Student_Activity_Center	isLocatedIn	Terre_Haute,_Indiana
+Michael_Simmons_Student_Activity_Center	isLocatedIn	Terre_Haute,_Indiana
+
+http://dbpedia.org/resource/D1_road_(Croatia)	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Ličko_Petrovo_Selo
+D1_road_(Croatia)	Ličko_Petrovo_Selo
+D1_road_(Croatia)	isLocatedIn	Lika-Senj_County
+D1_road_(Croatia)	isLocatedIn	Lika-Senj_County
+Ličko_Petrovo_Selo	isLocatedIn	Lika-Senj_County
+Ličko_Petrovo_Selo	isLocatedIn	Lika-Senj_County
+
+http://dbpedia.org/resource/D1_road_(Croatia)	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Ličko_Petrovo_Selo
+D1_road_(Croatia)	Ličko_Petrovo_Selo
+D1_road_(Croatia)	isLocatedIn	Lika-Senj_County
+D1_road_(Croatia)	isLocatedIn	Lika-Senj_County
+Plitvička_Jezera	isLocatedIn	Lika-Senj_County
+Plitvička_Jezera	isLocatedIn	Lika-Senj_County
+Ličko_Petrovo_Selo	isLocatedIn	Plitvička_Jezera
+Ličko_Petrovo_Selo	isLocatedIn	Plitvička_Jezera
+
+http://dbpedia.org/resource/U.S._Route_59_in_Texas	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Laredo,_Texas
+U.S._Route_59_in_Texas	Laredo,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Laredo,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Laredo,_Texas
+
+http://dbpedia.org/resource/U.S._Route_59_in_Texas	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Laredo,_Texas
+U.S._Route_59_in_Texas	Laredo,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Tenaha,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Tenaha,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Tenaha,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Tenaha,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Laredo,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Laredo,_Texas
+
+http://dbpedia.org/resource/U.S._Route_59_in_Texas	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Laredo,_Texas
+U.S._Route_59_in_Texas	Laredo,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Texarkana,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Texarkana,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Texarkana,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Texarkana,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Laredo,_Texas
+U.S._Route_59_in_Texas	isLocatedIn	Laredo,_Texas
+
+http://dbpedia.org/resource/D1_motorway_(Slovakia)	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/R1_expressway_(Slovakia)
+D1_motorway_(Slovakia)	R1_expressway_(Slovakia)
+D1_motorway_(Slovakia)	isLocatedIn	Žilina_Region
+D1_motorway_(Slovakia)	isLocatedIn	Žilina_Region
+R1_expressway_(Slovakia)	isLocatedIn	Žilina_Region
+R1_expressway_(Slovakia)	isLocatedIn	Žilina_Region
+
+http://dbpedia.org/resource/U.S._Route_322	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+U.S._Route_322	Harrisburg,_Pennsylvania
+U.S._Route_40	isLocatedIn	U.S._Route_322
+U.S._Route_40	isLocatedIn	U.S._Route_322
+U.S._Route_40	isLocatedIn	Pennsylvania
+U.S._Route_40	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/U.S._Route_322	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+U.S._Route_322	Harrisburg,_Pennsylvania
+Interstate_83	isLocatedIn	U.S._Route_322
+Interstate_83	isLocatedIn	U.S._Route_322
+Interstate_83	isLocatedIn	Pennsylvania
+Interstate_83	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/U.S._Route_322	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+U.S._Route_322	Harrisburg,_Pennsylvania
+Interstate_83	isLocatedIn	U.S._Route_322
+Interstate_83	isLocatedIn	U.S._Route_322
+Interstate_83	isLocatedIn	Harrisburg,_Pennsylvania
+Interstate_83	isLocatedIn	Harrisburg,_Pennsylvania
+
+http://dbpedia.org/resource/U.S._Route_322	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+U.S._Route_322	Harrisburg,_Pennsylvania
+U.S._Route_322	isLocatedIn	U.S._Route_6
+U.S._Route_322	isLocatedIn	U.S._Route_6
+U.S._Route_6	isLocatedIn	Pennsylvania
+U.S._Route_6	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/M8_motorway_(Hungary)	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/M6_motorway_(Hungary)
+M8_motorway_(Hungary)	M6_motorway_(Hungary)
+M8_motorway_(Hungary)	isLocatedIn	Pest_County
+M8_motorway_(Hungary)	isLocatedIn	Pest_County
+M6_motorway_(Hungary)	isLocatedIn	Pest_County
+M6_motorway_(Hungary)	isLocatedIn	Pest_County
+
+http://dbpedia.org/resource/M8_motorway_(Hungary)	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/M6_motorway_(Hungary)
+M8_motorway_(Hungary)	M6_motorway_(Hungary)
+M8_motorway_(Hungary)	isLocatedIn	Fejér_County
+M8_motorway_(Hungary)	isLocatedIn	Fejér_County
+M6_motorway_(Hungary)	isLocatedIn	Fejér_County
+M6_motorway_(Hungary)	isLocatedIn	Fejér_County
+
+http://dbpedia.org/resource/M6_motorway_(Hungary)	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/M8_motorway_(Hungary)
+M6_motorway_(Hungary)	M8_motorway_(Hungary)
+M6_motorway_(Hungary)	isLocatedIn	Pest_County
+M6_motorway_(Hungary)	isLocatedIn	Pest_County
+M8_motorway_(Hungary)	isLocatedIn	Pest_County
+M8_motorway_(Hungary)	isLocatedIn	Pest_County
+
+http://dbpedia.org/resource/M6_motorway_(Hungary)	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/M8_motorway_(Hungary)
+M6_motorway_(Hungary)	M8_motorway_(Hungary)
+M6_motorway_(Hungary)	isLocatedIn	Fejér_County
+M6_motorway_(Hungary)	isLocatedIn	Fejér_County
+M8_motorway_(Hungary)	isLocatedIn	Fejér_County
+M8_motorway_(Hungary)	isLocatedIn	Fejér_County
+
+http://dbpedia.org/resource/U.S._Route_45	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Rosemont,_Illinois
+U.S._Route_45	Rosemont,_Illinois
+U.S._Route_45	isLocatedIn	Illinois
+U.S._Route_45	isLocatedIn	Illinois
+WrestleMania_2	happenedIn	Illinois
+WrestleMania_2	isLocatedIn	Illinois
+WrestleMania_2	happenedIn	Illinois
+WrestleMania_2	isLocatedIn	Illinois
+WrestleMania_2	happenedIn	Rosemont,_Illinois
+WrestleMania_2	isLocatedIn	Rosemont,_Illinois
+WrestleMania_2	happenedIn	Rosemont,_Illinois
+WrestleMania_2	isLocatedIn	Rosemont,_Illinois
+
+http://dbpedia.org/resource/U.S._Route_45	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Rosemont,_Illinois
+U.S._Route_45	Rosemont,_Illinois
+U.S._Route_45	isLocatedIn	Illinois
+U.S._Route_45	isLocatedIn	Illinois
+Survivor_Series_(1989)	happenedIn	Illinois
+Survivor_Series_(1989)	happenedIn	Illinois
+Survivor_Series_(1989)	isLocatedIn	Rosemont,_Illinois
+Survivor_Series_(1989)	happenedIn	Rosemont,_Illinois
+Survivor_Series_(1989)	isLocatedIn	Rosemont,_Illinois
+Survivor_Series_(1989)	happenedIn	Rosemont,_Illinois
+
+http://dbpedia.org/resource/U.S._Route_45	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Rosemont,_Illinois
+U.S._Route_45	Rosemont,_Illinois
+U.S._Route_45	isLocatedIn	Illinois
+U.S._Route_45	isLocatedIn	Illinois
+Extreme_Rules_(2015)	isLocatedIn	Illinois
+Extreme_Rules_(2015)	isLocatedIn	Illinois
+Extreme_Rules_(2015)	isLocatedIn	Rosemont,_Illinois
+Extreme_Rules_(2015)	isLocatedIn	Rosemont,_Illinois
+
+http://dbpedia.org/resource/U.S._Route_45	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Rosemont,_Illinois
+U.S._Route_45	Rosemont,_Illinois
+U.S._Route_45	isLocatedIn	Illinois
+U.S._Route_45	isLocatedIn	Illinois
+Payback_(2013)	isLocatedIn	Illinois
+Payback_(2013)	isLocatedIn	Illinois
+Payback_(2013)	isLocatedIn	Rosemont,_Illinois
+Payback_(2013)	isLocatedIn	Rosemont,_Illinois
+
+http://dbpedia.org/resource/U.S._Route_45	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Rosemont,_Illinois
+U.S._Route_45	Rosemont,_Illinois
+U.S._Route_45	isLocatedIn	Illinois
+U.S._Route_45	isLocatedIn	Illinois
+Extreme_Rules_(2012)	isLocatedIn	Illinois
+Extreme_Rules_(2012)	isLocatedIn	Illinois
+Extreme_Rules_(2012)	isLocatedIn	Rosemont,_Illinois
+Extreme_Rules_(2012)	isLocatedIn	Rosemont,_Illinois
+
+http://dbpedia.org/resource/U.S._Route_45	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Rosemont,_Illinois
+U.S._Route_45	Rosemont,_Illinois
+U.S._Route_45	isLocatedIn	Illinois
+U.S._Route_45	isLocatedIn	Illinois
+WrestleMania_22	isLocatedIn	Illinois
+WrestleMania_22	isLocatedIn	Illinois
+WrestleMania_22	isLocatedIn	Rosemont,_Illinois
+WrestleMania_22	isLocatedIn	Rosemont,_Illinois
+
+http://dbpedia.org/resource/U.S._Route_45	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Rosemont,_Illinois
+U.S._Route_45	Rosemont,_Illinois
+U.S._Route_45	isLocatedIn	Illinois
+U.S._Route_45	isLocatedIn	Illinois
+Money_in_the_Bank_(2011)	isLocatedIn	Illinois
+Money_in_the_Bank_(2011)	isLocatedIn	Illinois
+Money_in_the_Bank_(2011)	isLocatedIn	Rosemont,_Illinois
+Money_in_the_Bank_(2011)	isLocatedIn	Rosemont,_Illinois
+
+http://dbpedia.org/resource/U.S._Route_29	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Ellicott_City,_Maryland
+U.S._Route_29	Ellicott_City,_Maryland
+U.S._Route_29	isLocatedIn	U.S._Route_90
+U.S._Route_29	isLocatedIn	U.S._Route_90
+U.S._Route_29	isLocatedIn	U.S._Route_90
+U.S._Route_29	isLocatedIn	U.S._Route_90
+U.S._Route_29	isLocatedIn	Ellicott_City,_Maryland
+U.S._Route_29	isLocatedIn	Ellicott_City,_Maryland
+
+http://dbpedia.org/resource/U.S._Route_29	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Ellicott_City,_Maryland
+U.S._Route_29	Ellicott_City,_Maryland
+Interstate_66	isLocatedIn	U.S._Route_29
+Interstate_66	isLocatedIn	U.S._Route_29
+Interstate_66	isLocatedIn	U.S._Route_29
+Interstate_66	isLocatedIn	U.S._Route_29
+U.S._Route_29	isLocatedIn	Ellicott_City,_Maryland
+U.S._Route_29	isLocatedIn	Ellicott_City,_Maryland
+
+http://dbpedia.org/resource/U.S._Route_29	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Ellicott_City,_Maryland
+U.S._Route_29	Ellicott_City,_Maryland
+U.S._Route_29	isLocatedIn	Maryland
+U.S._Route_29	isLocatedIn	Maryland
+Howard_County,_Maryland	isLocatedIn	Maryland
+Howard_County,_Maryland	isLocatedIn	Maryland
+Howard_County,_Maryland	isLocatedIn	Ellicott_City,_Maryland
+Ellicott_City,_Maryland	isLocatedIn	Howard_County,_Maryland
+Howard_County,_Maryland	isLocatedIn	Ellicott_City,_Maryland
+Ellicott_City,_Maryland	isLocatedIn	Howard_County,_Maryland
+
+http://dbpedia.org/resource/U.S._Route_29	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Ellicott_City,_Maryland
+U.S._Route_29	Ellicott_City,_Maryland
+U.S._Route_29	isLocatedIn	Ellicott_City,_Maryland
+U.S._Route_29	isLocatedIn	Ellicott_City,_Maryland
+
+http://dbpedia.org/resource/U.S._Route_29	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Ellicott_City,_Maryland
+U.S._Route_29	Ellicott_City,_Maryland
+U.S._Route_29	isLocatedIn	Lynchburg,_Virginia
+U.S._Route_29	isLocatedIn	Lynchburg,_Virginia
+U.S._Route_29	isLocatedIn	Lynchburg,_Virginia
+U.S._Route_29	isLocatedIn	Lynchburg,_Virginia
+U.S._Route_29	isLocatedIn	Ellicott_City,_Maryland
+U.S._Route_29	isLocatedIn	Ellicott_City,_Maryland
+
+http://dbpedia.org/resource/U.S._Route_29	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Ellicott_City,_Maryland
+U.S._Route_29	Ellicott_City,_Maryland
+U.S._Route_29	isLocatedIn	U.S._Route_98
+U.S._Route_29	isLocatedIn	U.S._Route_98
+U.S._Route_29	isLocatedIn	U.S._Route_98
+U.S._Route_29	isLocatedIn	U.S._Route_98
+U.S._Route_29	isLocatedIn	Ellicott_City,_Maryland
+U.S._Route_29	isLocatedIn	Ellicott_City,_Maryland
+
+http://dbpedia.org/resource/U.S._Route_11	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/New_Orleans
+U.S._Route_11	New_Orleans
+U.S._Route_11	isLocatedIn	Maryland
+U.S._Route_11	isLocatedIn	Maryland
+Hodding_Carter_III	livesIn	Maryland
+Hodding_Carter_III	livesIn	Maryland
+Hodding_Carter_III	wasBornIn	New_Orleans
+Hodding_Carter_III	wasBornIn	New_Orleans
+
+http://dbpedia.org/resource/U.S._Route_11	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/New_Orleans
+U.S._Route_11	New_Orleans
+U.S._Route_11	isLocatedIn	Virginia
+U.S._Route_11	isLocatedIn	Virginia
+Paul_Pastorek	livesIn	Virginia
+Paul_Pastorek	livesIn	Virginia
+Paul_Pastorek	wasBornIn	New_Orleans
+Paul_Pastorek	wasBornIn	New_Orleans
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Normal,_Illinois
+Interstate_55	Normal,_Illinois
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Duffy_Bass_Field	isLocatedIn	Illinois
+Duffy_Bass_Field	isLocatedIn	Illinois
+Duffy_Bass_Field	isLocatedIn	Normal,_Illinois
+Duffy_Bass_Field	isLocatedIn	Normal,_Illinois
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Normal,_Illinois
+Interstate_55	Normal,_Illinois
+Interstate_39	isLocatedIn	Interstate_55
+Interstate_39	isLocatedIn	Interstate_55
+Interstate_39	isLocatedIn	Normal,_Illinois
+Interstate_39	isLocatedIn	Normal,_Illinois
+
+http://dbpedia.org/resource/Interstate_74	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Champaign,_Illinois
+Interstate_74	Champaign,_Illinois
+Interstate_74	isLocatedIn	Illinois
+Interstate_74	isLocatedIn	Illinois
+Champaign-Decatur_CSA	isLocatedIn	Illinois
+Champaign-Decatur_CSA	isLocatedIn	Illinois
+Champaign-Decatur_CSA	isLocatedIn	Champaign,_Illinois
+Champaign-Decatur_CSA	isLocatedIn	Champaign,_Illinois
+
+http://dbpedia.org/resource/Interstate_74	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Champaign,_Illinois
+Interstate_74	Champaign,_Illinois
+Interstate_74	isLocatedIn	Illinois
+Interstate_74	isLocatedIn	Illinois
+Champaign–Urbana_metropolitan_area	isLocatedIn	Illinois
+Champaign–Urbana_metropolitan_area	isLocatedIn	Illinois
+Champaign–Urbana_metropolitan_area	isLocatedIn	Champaign,_Illinois
+Champaign–Urbana_metropolitan_area	isLocatedIn	Champaign,_Illinois
+
+http://dbpedia.org/resource/D1_road_(Croatia)	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Zaprešić
+D1_road_(Croatia)	Zaprešić
+D1_road_(Croatia)	isLocatedIn	Zagreb_County
+D1_road_(Croatia)	isLocatedIn	Zagreb_County
+Zaprešić	isLocatedIn	Zagreb_County
+Zaprešić	isLocatedIn	Zagreb_County
+
+http://dbpedia.org/resource/Interstate_95	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Florence,_South_Carolina
+Interstate_95	Florence,_South_Carolina
+Interstate_10	isLocatedIn	Interstate_95
+Interstate_10	isLocatedIn	Interstate_95
+Interstate_20	isLocatedIn	Interstate_10
+Interstate_20	isLocatedIn	Interstate_10
+Interstate_20	isLocatedIn	Florence,_South_Carolina
+Interstate_20	isLocatedIn	Florence,_South_Carolina
+
+http://dbpedia.org/resource/Interstate_95	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Florence,_South_Carolina
+Interstate_95	Florence,_South_Carolina
+Interstate_20	isLocatedIn	Interstate_95
+Interstate_20	isLocatedIn	Interstate_95
+Interstate_20	isLocatedIn	Florence,_South_Carolina
+Interstate_20	isLocatedIn	Florence,_South_Carolina
+
+http://dbpedia.org/resource/Interstate_26	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Columbia,_South_Carolina
+Interstate_26	Columbia,_South_Carolina
+Interstate_77	isLocatedIn	Interstate_26
+Interstate_77	isLocatedIn	Interstate_26
+Interstate_77	isLocatedIn	Columbia,_South_Carolina
+Interstate_77	isLocatedIn	Columbia,_South_Carolina
+
+http://dbpedia.org/resource/Interstate_26	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Columbia,_South_Carolina
+Interstate_26	Columbia,_South_Carolina
+Interstate_26	isLocatedIn	South_Carolina
+Interstate_26	isLocatedIn	South_Carolina
+Wade_Hampton_III	isPoliticianOf	South_Carolina
+Wade_Hampton_III	isPoliticianOf	South_Carolina
+Wade_Hampton_III	diedIn	Columbia,_South_Carolina
+Wade_Hampton_III	diedIn	Columbia,_South_Carolina
+
+http://dbpedia.org/resource/Interstate_26	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Columbia,_South_Carolina
+Interstate_26	Columbia,_South_Carolina
+Interstate_26	isLocatedIn	South_Carolina
+Interstate_26	isLocatedIn	South_Carolina
+Interstate_77	isLocatedIn	South_Carolina
+Interstate_77	isLocatedIn	South_Carolina
+Interstate_77	isLocatedIn	Columbia,_South_Carolina
+Interstate_77	isLocatedIn	Columbia,_South_Carolina
+
+http://dbpedia.org/resource/D1_road_(Croatia)	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Karlovac
+D1_road_(Croatia)	Karlovac
+D1_road_(Croatia)	isLocatedIn	Karlovac_County
+D1_road_(Croatia)	isLocatedIn	Karlovac_County
+Karlovac_County	hasCapital	Karlovac
+Karlovac	isLocatedIn	Karlovac_County
+Karlovac_County	isLocatedIn	Karlovac
+Karlovac_County	hasCapital	Karlovac
+Karlovac	isLocatedIn	Karlovac_County
+Karlovac_County	isLocatedIn	Karlovac
+
+http://dbpedia.org/resource/U.S._Route_41	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Evansville,_Indiana
+U.S._Route_41	Evansville,_Indiana
+U.S._Route_41	isLocatedIn	Indiana
+U.S._Route_41	isLocatedIn	Indiana
+Knight_Township,_Vanderburgh_County,_Indiana	isLocatedIn	Indiana
+Knight_Township,_Vanderburgh_County,_Indiana	isLocatedIn	Indiana
+Evansville,_Indiana	isLocatedIn	Knight_Township,_Vanderburgh_County,_Indiana
+Evansville,_Indiana	isLocatedIn	Knight_Township,_Vanderburgh_County,_Indiana
+
+http://dbpedia.org/resource/Interstate_81	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Interstate_81	Harrisburg,_Pennsylvania
+Interstate_83	isLocatedIn	Interstate_81
+Interstate_83	isLocatedIn	Interstate_81
+Interstate_83	isLocatedIn	Pennsylvania
+Interstate_83	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Interstate_81	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Interstate_81	Harrisburg,_Pennsylvania
+Interstate_83	isLocatedIn	Interstate_81
+Interstate_83	isLocatedIn	Interstate_81
+Interstate_83	isLocatedIn	Harrisburg,_Pennsylvania
+Interstate_83	isLocatedIn	Harrisburg,_Pennsylvania
+
+http://dbpedia.org/resource/Interstate_81	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Interstate_81	Harrisburg,_Pennsylvania
+Interstate_78	isLocatedIn	Interstate_81
+Interstate_78	isLocatedIn	Interstate_81
+Interstate_78	isLocatedIn	Pennsylvania
+Interstate_78	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Interstate_81	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Interstate_81	Harrisburg,_Pennsylvania
+Interstate_81	isLocatedIn	Pennsylvania
+Interstate_81	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Interstate_81	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Interstate_81	Harrisburg,_Pennsylvania
+Interstate_81	isLocatedIn	Pennsylvania
+Interstate_81	isLocatedIn	Pennsylvania
+Bob_Anspach	livesIn	Pennsylvania
+Bob_Anspach	livesIn	Pennsylvania
+Bob_Anspach	wasBornIn	Harrisburg,_Pennsylvania
+Bob_Anspach	wasBornIn	Harrisburg,_Pennsylvania
+
+http://dbpedia.org/resource/Interstate_81	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Interstate_81	Harrisburg,_Pennsylvania
+Interstate_81	isLocatedIn	Pennsylvania
+Interstate_81	isLocatedIn	Pennsylvania
+Del_Vaughn	livesIn	Pennsylvania
+Del_Vaughn	livesIn	Pennsylvania
+Del_Vaughn	diedIn	Harrisburg,_Pennsylvania
+Del_Vaughn	diedIn	Harrisburg,_Pennsylvania
+
+http://dbpedia.org/resource/Interstate_81	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Interstate_81	Harrisburg,_Pennsylvania
+Interstate_84_(Pennsylvania–Massachusetts)	isLocatedIn	Interstate_81
+Interstate_84_(Pennsylvania–Massachusetts)	isLocatedIn	Interstate_81
+Interstate_84_(Pennsylvania–Massachusetts)	isLocatedIn	Pennsylvania
+Interstate_84_(Pennsylvania–Massachusetts)	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Interstate_69	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Memphis,_Tennessee
+Interstate_69	Memphis,_Tennessee
+Interstate_69	isLocatedIn	Michigan
+Interstate_69	isLocatedIn	Michigan
+Aretha_Franklin	livesIn	Michigan
+Aretha_Franklin	livesIn	Michigan
+Aretha_Franklin	wasBornIn	Memphis,_Tennessee
+Aretha_Franklin	wasBornIn	Memphis,_Tennessee
+
+http://dbpedia.org/resource/U.S._Route_29	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Charlotte,_North_Carolina
+U.S._Route_29	Charlotte,_North_Carolina
+U.S._Route_29	isLocatedIn	U.S._Route_90
+U.S._Route_29	isLocatedIn	U.S._Route_90
+U.S._Route_29	isLocatedIn	U.S._Route_90
+U.S._Route_29	isLocatedIn	U.S._Route_90
+U.S._Route_29	isLocatedIn	Charlotte,_North_Carolina
+U.S._Route_29	isLocatedIn	Charlotte,_North_Carolina
+
+http://dbpedia.org/resource/U.S._Route_29	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Charlotte,_North_Carolina
+U.S._Route_29	Charlotte,_North_Carolina
+Interstate_66	isLocatedIn	U.S._Route_29
+Interstate_66	isLocatedIn	U.S._Route_29
+Interstate_66	isLocatedIn	U.S._Route_29
+Interstate_66	isLocatedIn	U.S._Route_29
+U.S._Route_29	isLocatedIn	Charlotte,_North_Carolina
+U.S._Route_29	isLocatedIn	Charlotte,_North_Carolina
+
+http://dbpedia.org/resource/U.S._Route_29	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Charlotte,_North_Carolina
+U.S._Route_29	Charlotte,_North_Carolina
+U.S._Route_29	isLocatedIn	Charlotte,_North_Carolina
+U.S._Route_29	isLocatedIn	Charlotte,_North_Carolina
+
+http://dbpedia.org/resource/U.S._Route_29	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Charlotte,_North_Carolina
+U.S._Route_29	Charlotte,_North_Carolina
+U.S._Route_29	isLocatedIn	Lynchburg,_Virginia
+U.S._Route_29	isLocatedIn	Lynchburg,_Virginia
+U.S._Route_29	isLocatedIn	Lynchburg,_Virginia
+U.S._Route_29	isLocatedIn	Lynchburg,_Virginia
+U.S._Route_29	isLocatedIn	Charlotte,_North_Carolina
+U.S._Route_29	isLocatedIn	Charlotte,_North_Carolina
+
+http://dbpedia.org/resource/U.S._Route_29	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Charlotte,_North_Carolina
+U.S._Route_29	Charlotte,_North_Carolina
+U.S._Route_29	isLocatedIn	U.S._Route_98
+U.S._Route_29	isLocatedIn	U.S._Route_98
+U.S._Route_29	isLocatedIn	U.S._Route_98
+U.S._Route_29	isLocatedIn	U.S._Route_98
+U.S._Route_29	isLocatedIn	Charlotte,_North_Carolina
+U.S._Route_29	isLocatedIn	Charlotte,_North_Carolina
+
+http://dbpedia.org/resource/Interstate_17	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Flagstaff,_Arizona
+Interstate_17	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Phoenix,_Arizona
+Interstate_17	isLocatedIn	Phoenix,_Arizona
+Phoenix,_Arizona	isLocatedIn	Arizona
+Arizona	hasCapital	Phoenix,_Arizona
+Phoenix,_Arizona	isLocatedIn	Arizona
+Arizona	hasCapital	Phoenix,_Arizona
+Flagstaff,_Arizona	isLocatedIn	Arizona
+Flagstaff,_Arizona	isLocatedIn	Arizona
+
+http://dbpedia.org/resource/Interstate_17	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Flagstaff,_Arizona
+Interstate_17	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Flagstaff,_Arizona
+
+http://dbpedia.org/resource/Interstate_17	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Flagstaff,_Arizona
+Interstate_17	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Interstate_10
+Interstate_17	isLocatedIn	Interstate_10
+Interstate_10	isLocatedIn	Arizona
+Interstate_10	isLocatedIn	Arizona
+Flagstaff,_Arizona	isLocatedIn	Arizona
+Flagstaff,_Arizona	isLocatedIn	Arizona
+
+http://dbpedia.org/resource/Interstate_17	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Flagstaff,_Arizona
+Interstate_17	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Interstate_10
+Interstate_17	isLocatedIn	Interstate_10
+Interstate_17	isLocatedIn	Interstate_10
+Interstate_17	isLocatedIn	Interstate_10
+Interstate_17	isLocatedIn	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Flagstaff,_Arizona
+
+http://dbpedia.org/resource/Interstate_17	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Flagstaff,_Arizona
+Interstate_17	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Arizona
+Interstate_17	isLocatedIn	Arizona
+Coconino_County,_Arizona	isLocatedIn	Arizona
+Coconino_County,_Arizona	isLocatedIn	Arizona
+Coconino_County,_Arizona	isLocatedIn	Flagstaff,_Arizona
+Flagstaff,_Arizona	isLocatedIn	Coconino_County,_Arizona
+Coconino_County,_Arizona	isLocatedIn	Flagstaff,_Arizona
+Flagstaff,_Arizona	isLocatedIn	Coconino_County,_Arizona
+
+http://dbpedia.org/resource/Interstate_17	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Flagstaff,_Arizona
+Interstate_17	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Arizona
+Interstate_17	isLocatedIn	Arizona
+Northern_Arizona_University	isLocatedIn	Arizona
+Northern_Arizona_University	isLocatedIn	Arizona
+Northern_Arizona_University	isLocatedIn	Flagstaff,_Arizona
+Northern_Arizona_University	isLocatedIn	Flagstaff,_Arizona
+
+http://dbpedia.org/resource/Interstate_17	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Flagstaff,_Arizona
+Interstate_17	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Arizona
+Interstate_17	isLocatedIn	Arizona
+Flagstaff,_Arizona	isLocatedIn	Arizona
+Flagstaff,_Arizona	isLocatedIn	Arizona
+
+http://dbpedia.org/resource/Interstate_17	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Flagstaff,_Arizona
+Interstate_17	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Interstate_40
+Interstate_17	isLocatedIn	Interstate_40
+Interstate_40	isLocatedIn	Arizona
+Interstate_40	isLocatedIn	Arizona
+Flagstaff,_Arizona	isLocatedIn	Arizona
+Flagstaff,_Arizona	isLocatedIn	Arizona
+
+http://dbpedia.org/resource/Interstate_17	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Flagstaff,_Arizona
+Interstate_17	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Interstate_40
+Interstate_17	isLocatedIn	Interstate_40
+Interstate_17	isLocatedIn	Interstate_40
+Interstate_17	isLocatedIn	Interstate_40
+Interstate_17	isLocatedIn	Flagstaff,_Arizona
+Interstate_17	isLocatedIn	Flagstaff,_Arizona
+
+http://dbpedia.org/resource/D1_road_(Croatia)	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/A2_(Croatia)
+D1_road_(Croatia)	A2_(Croatia)
+D1_road_(Croatia)	isLocatedIn	Zagreb_County
+D1_road_(Croatia)	isLocatedIn	Zagreb_County
+Zagreb_County	hasCapital	Zagreb
+Zagreb	isLocatedIn	Zagreb_County
+Zagreb_County	isLocatedIn	Zagreb
+Zagreb_County	hasCapital	Zagreb
+Zagreb	isLocatedIn	Zagreb_County
+Zagreb_County	isLocatedIn	Zagreb
+A2_(Croatia)	isLocatedIn	Zagreb
+A2_(Croatia)	isLocatedIn	Zagreb
+
+http://dbpedia.org/resource/D2_road_(Croatia)	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Koprivnica
+D2_road_(Croatia)	Koprivnica
+D2_road_(Croatia)	isLocatedIn	Koprivnica-Križevci_County
+D2_road_(Croatia)	isLocatedIn	Koprivnica-Križevci_County
+Koprivnica-Križevci_County	isLocatedIn	Koprivnica
+Koprivnica	isLocatedIn	Koprivnica-Križevci_County
+Koprivnica-Križevci_County	hasCapital	Koprivnica
+Koprivnica-Križevci_County	isLocatedIn	Koprivnica
+Koprivnica	isLocatedIn	Koprivnica-Križevci_County
+Koprivnica-Križevci_County	hasCapital	Koprivnica
+
+http://dbpedia.org/resource/Interstate_74	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Mount_Airy,_North_Carolina
+Interstate_74	Mount_Airy,_North_Carolina
+Interstate_74	isLocatedIn	North_Carolina
+Interstate_74	isLocatedIn	North_Carolina
+Mount_Airy,_North_Carolina	isLocatedIn	North_Carolina
+Mount_Airy,_North_Carolina	isLocatedIn	North_Carolina
+
+http://dbpedia.org/resource/U.S._Route_4	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Concord,_New_Hampshire
+U.S._Route_4	Concord,_New_Hampshire
+U.S._Route_4	isLocatedIn	New_Hampshire
+U.S._Route_4	isLocatedIn	New_Hampshire
+David_L._Morril	isPoliticianOf	New_Hampshire
+David_L._Morril	isPoliticianOf	New_Hampshire
+David_L._Morril	diedIn	Concord,_New_Hampshire
+David_L._Morril	diedIn	Concord,_New_Hampshire
+
+http://dbpedia.org/resource/U.S._Route_4	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Concord,_New_Hampshire
+U.S._Route_4	Concord,_New_Hampshire
+U.S._Route_4	isLocatedIn	New_Hampshire
+U.S._Route_4	isLocatedIn	New_Hampshire
+Merrimack_County,_New_Hampshire	isLocatedIn	New_Hampshire
+Merrimack_County,_New_Hampshire	isLocatedIn	New_Hampshire
+Concord,_New_Hampshire	isLocatedIn	Merrimack_County,_New_Hampshire
+Merrimack_County,_New_Hampshire	isLocatedIn	Concord,_New_Hampshire
+Concord,_New_Hampshire	isLocatedIn	Merrimack_County,_New_Hampshire
+Merrimack_County,_New_Hampshire	isLocatedIn	Concord,_New_Hampshire
+
+http://dbpedia.org/resource/U.S._Route_4	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Concord,_New_Hampshire
+U.S._Route_4	Concord,_New_Hampshire
+U.S._Route_4	isLocatedIn	New_Hampshire
+U.S._Route_4	isLocatedIn	New_Hampshire
+University_of_New_Hampshire	isLocatedIn	New_Hampshire
+University_of_New_Hampshire	isLocatedIn	New_Hampshire
+University_of_New_Hampshire	isLocatedIn	Concord,_New_Hampshire
+University_of_New_Hampshire	isLocatedIn	Concord,_New_Hampshire
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+WrestleMania_2	happenedIn	Illinois
+WrestleMania_2	isLocatedIn	Illinois
+WrestleMania_2	happenedIn	Illinois
+WrestleMania_2	isLocatedIn	Illinois
+WrestleMania_2	isLocatedIn	Chicago
+WrestleMania_2	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+2012_in_UFC	isLocatedIn	Illinois
+2012_in_UFC	isLocatedIn	Illinois
+2012_in_UFC	isLocatedIn	Chicago
+2012_in_UFC	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+John_Marshall_Law_School_(Chicago)	isLocatedIn	Illinois
+John_Marshall_Law_School_(Chicago)	isLocatedIn	Illinois
+John_Marshall_Law_School_(Chicago)	isLocatedIn	Chicago
+John_Marshall_Law_School_(Chicago)	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Soldier_Field	isLocatedIn	Illinois
+Soldier_Field	isLocatedIn	Illinois
+Chicago	owns	Soldier_Field
+Soldier_Field	isLocatedIn	Chicago
+Chicago	owns	Soldier_Field
+Soldier_Field	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Loyola_University_Chicago_School_of_Law	isLocatedIn	Illinois
+Loyola_University_Chicago_School_of_Law	isLocatedIn	Illinois
+Loyola_University_Chicago_School_of_Law	isLocatedIn	Chicago
+Loyola_University_Chicago_School_of_Law	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Brunswick_Corporation	isLocatedIn	Illinois
+Brunswick_Corporation	isLocatedIn	Illinois
+Brunswick_Corporation	isLocatedIn	Chicago
+Brunswick_Corporation	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Monroe_Heath	livesIn	Illinois
+Monroe_Heath	livesIn	Illinois
+Monroe_Heath	livesIn	Chicago
+Monroe_Heath	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+University_of_Chicago_Law_School	isLocatedIn	Illinois
+University_of_Chicago_Law_School	isLocatedIn	Illinois
+University_of_Chicago_Law_School	isLocatedIn	Chicago
+University_of_Chicago_Law_School	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Judith_D._Sally	livesIn	Illinois
+Judith_D._Sally	livesIn	Illinois
+Judith_D._Sally	livesIn	Chicago
+Judith_D._Sally	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Rush_University	isLocatedIn	Illinois
+Rush_University	isLocatedIn	Illinois
+Rush_University	isLocatedIn	Chicago
+Rush_University	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Danny_K._Davis	livesIn	Illinois
+Danny_K._Davis	livesIn	Illinois
+Danny_K._Davis	livesIn	Chicago
+Danny_K._Davis	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Hempstead_Washburne	livesIn	Illinois
+Hempstead_Washburne	livesIn	Illinois
+Hempstead_Washburne	diedIn	Chicago
+Hempstead_Washburne	livesIn	Chicago
+Hempstead_Washburne	diedIn	Chicago
+Hempstead_Washburne	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Three_First_National_Plaza	isLocatedIn	Illinois
+Three_First_National_Plaza	isLocatedIn	Illinois
+Three_First_National_Plaza	isLocatedIn	Chicago
+Three_First_National_Plaza	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+John_T._Cacioppo	livesIn	Illinois
+John_T._Cacioppo	livesIn	Illinois
+John_T._Cacioppo	livesIn	Chicago
+John_T._Cacioppo	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+University_of_Chicago_Divinity_School	isLocatedIn	Illinois
+University_of_Chicago_Divinity_School	isLocatedIn	Illinois
+University_of_Chicago_Divinity_School	isLocatedIn	Chicago
+University_of_Chicago_Divinity_School	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+International_Harvester	isLocatedIn	Illinois
+International_Harvester	isLocatedIn	Illinois
+International_Harvester	isLocatedIn	Chicago
+International_Harvester	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Moody_Bible_Institute	isLocatedIn	Illinois
+Moody_Bible_Institute	isLocatedIn	Illinois
+Moody_Bible_Institute	isLocatedIn	Chicago
+Moody_Bible_Institute	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Big_Ten_Network	isLocatedIn	Illinois
+Big_Ten_Network	isLocatedIn	Illinois
+Big_Ten_Network	isLocatedIn	Chicago
+Big_Ten_Network	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+WWME-CD	isLocatedIn	Illinois
+WWME-CD	isLocatedIn	Illinois
+WWME-CD	isLocatedIn	Chicago
+WWME-CD	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+WCIU-TV	isLocatedIn	Illinois
+WCIU-TV	isLocatedIn	Illinois
+WCIU-TV	isLocatedIn	Chicago
+WCIU-TV	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+WCPX-TV	isLocatedIn	Illinois
+WCPX-TV	isLocatedIn	Illinois
+WCPX-TV	isLocatedIn	Chicago
+WCPX-TV	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+WXFT-DT	isLocatedIn	Illinois
+WXFT-DT	isLocatedIn	Illinois
+WXFT-DT	isLocatedIn	Chicago
+WXFT-DT	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Chicago_Bears	isLocatedIn	Illinois
+Chicago_Bears	isLocatedIn	Illinois
+Chicago_Bears	isLocatedIn	Chicago
+Chicago_Bears	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Cook_County,_Illinois	isLocatedIn	Illinois
+Cook_County,_Illinois	isLocatedIn	Illinois
+Cook_County,_Illinois	isLocatedIn	Chicago
+Chicago	isLocatedIn	Cook_County,_Illinois
+Cook_County,_Illinois	isLocatedIn	Chicago
+Chicago	isLocatedIn	Cook_County,_Illinois
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Willis_Tower	isLocatedIn	Illinois
+Willis_Tower	isLocatedIn	Illinois
+Willis_Tower	isLocatedIn	Chicago
+Willis_Tower	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Harvey_Doolittle_Colvin	livesIn	Illinois
+Harvey_Doolittle_Colvin	livesIn	Illinois
+Harvey_Doolittle_Colvin	livesIn	Chicago
+Harvey_Doolittle_Colvin	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Chicago_Blackhawks	isLocatedIn	Illinois
+Chicago_Blackhawks	isLocatedIn	Illinois
+Chicago_Blackhawks	isLocatedIn	Chicago
+Chicago_Blackhawks	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+311_South_Wacker_Drive	isLocatedIn	Illinois
+311_South_Wacker_Drive	isLocatedIn	Illinois
+311_South_Wacker_Drive	isLocatedIn	Chicago
+311_South_Wacker_Drive	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Cushman_&_Wakefield	isLocatedIn	Illinois
+Cushman_&_Wakefield	isLocatedIn	Illinois
+Cushman_&_Wakefield	isLocatedIn	Chicago
+Cushman_&_Wakefield	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Grant_DePorter	livesIn	Illinois
+Grant_DePorter	livesIn	Illinois
+Grant_DePorter	livesIn	Chicago
+Grant_DePorter	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+John_Bachtell	livesIn	Illinois
+John_Bachtell	livesIn	Illinois
+John_Bachtell	livesIn	Chicago
+John_Bachtell	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Greg_Harris_(Illinois_politician)	livesIn	Illinois
+Greg_Harris_(Illinois_politician)	livesIn	Illinois
+Greg_Harris_(Illinois_politician)	livesIn	Chicago
+Greg_Harris_(Illinois_politician)	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Chicago_Enforcers	isLocatedIn	Illinois
+Chicago_Enforcers	isLocatedIn	Illinois
+Chicago_Enforcers	isLocatedIn	Chicago
+Chicago_Enforcers	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Chicago_Bulls	isLocatedIn	Illinois
+Chicago_Bulls	isLocatedIn	Illinois
+Chicago_Bulls	isLocatedIn	Chicago
+Chicago_Bulls	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Don_Lincoln	livesIn	Illinois
+Don_Lincoln	livesIn	Illinois
+Don_Lincoln	livesIn	Chicago
+Don_Lincoln	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+United_Airlines	isLocatedIn	Illinois
+United_Airlines	isLocatedIn	Illinois
+United_Airlines	isLocatedIn	Chicago
+United_Airlines	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Wrigley_Field	isLocatedIn	Illinois
+Wrigley_Field	isLocatedIn	Illinois
+Wrigley_Field	isLocatedIn	Chicago
+Wrigley_Field	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+WBBM_(AM)	isLocatedIn	Illinois
+WBBM_(AM)	isLocatedIn	Illinois
+WBBM_(AM)	isLocatedIn	Chicago
+WBBM_(AM)	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Mark_Hanson	livesIn	Illinois
+Mark_Hanson	livesIn	Illinois
+Mark_Hanson	livesIn	Chicago
+Mark_Hanson	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Illinois
+321_North_Clark	isLocatedIn	Chicago
+321_North_Clark	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+WMAQ-TV	isLocatedIn	Illinois
+WMAQ-TV	isLocatedIn	Illinois
+WMAQ-TV	isLocatedIn	Chicago
+WMAQ-TV	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Sarfaraz_K._Niazi	livesIn	Illinois
+Sarfaraz_K._Niazi	livesIn	Illinois
+Sarfaraz_K._Niazi	livesIn	Chicago
+Sarfaraz_K._Niazi	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+United_Express	isLocatedIn	Illinois
+United_Express	isLocatedIn	Illinois
+United_Express	isLocatedIn	Chicago
+United_Express	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Kellogg_School_of_Management	isLocatedIn	Illinois
+Kellogg_School_of_Management	isLocatedIn	Illinois
+Kellogg_School_of_Management	isLocatedIn	Chicago
+Kellogg_School_of_Management	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Extreme_Rules_(2012)	isLocatedIn	Illinois
+Extreme_Rules_(2012)	isLocatedIn	Illinois
+Extreme_Rules_(2012)	isLocatedIn	Chicago
+Extreme_Rules_(2012)	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Interstate_57	isLocatedIn	Illinois
+Interstate_57	isLocatedIn	Illinois
+Interstate_57	isLocatedIn	Chicago
+Interstate_57	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Fred_Donner	livesIn	Illinois
+Fred_Donner	livesIn	Illinois
+Fred_Donner	livesIn	Chicago
+Fred_Donner	livesIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Checker_Records	isLocatedIn	Illinois
+Checker_Records	isLocatedIn	Illinois
+Checker_Records	isLocatedIn	Chicago
+Checker_Records	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Fred_A._Busse	livesIn	Illinois
+Fred_A._Busse	livesIn	Illinois
+Fred_A._Busse	diedIn	Chicago
+Fred_A._Busse	livesIn	Chicago
+Fred_A._Busse	wasBornIn	Chicago
+Fred_A._Busse	diedIn	Chicago
+Fred_A._Busse	livesIn	Chicago
+Fred_A._Busse	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+Franklin_Center_(Chicago)	isLocatedIn	Illinois
+Franklin_Center_(Chicago)	isLocatedIn	Chicago
+Franklin_Center_(Chicago)	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+WrestleMania_22	isLocatedIn	Illinois
+WrestleMania_22	isLocatedIn	Illinois
+WrestleMania_22	isLocatedIn	Chicago
+WrestleMania_22	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+United_Center	isLocatedIn	Illinois
+United_Center	isLocatedIn	Illinois
+United_Center	isLocatedIn	Chicago
+United_Center	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Henry_Horner	isPoliticianOf	Illinois
+Henry_Horner	isPoliticianOf	Illinois
+Henry_Horner	wasBornIn	Chicago
+Henry_Horner	wasBornIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+EyeOpener_(U.S._TV_program)	isLocatedIn	Illinois
+EyeOpener_(U.S._TV_program)	isLocatedIn	Illinois
+EyeOpener_(U.S._TV_program)	isLocatedIn	Chicago
+EyeOpener_(U.S._TV_program)	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Harpo_Productions	isLocatedIn	Illinois
+Harpo_Productions	isLocatedIn	Illinois
+Harpo_Productions	isLocatedIn	Chicago
+Harpo_Productions	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+Westwood_College	isLocatedIn	Illinois
+Westwood_College	isLocatedIn	Illinois
+Westwood_College	isLocatedIn	Chicago
+Westwood_College	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Illinois
+Interstate_55	isLocatedIn	Illinois
+United_Continental_Holdings	isLocatedIn	Illinois
+United_Continental_Holdings	isLocatedIn	Illinois
+United_Continental_Holdings	isLocatedIn	Chicago
+United_Continental_Holdings	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_39	isLocatedIn	Interstate_55
+Interstate_39	isLocatedIn	Interstate_55
+Interstate_39	isLocatedIn	Interstate_55
+Interstate_39	isLocatedIn	Interstate_55
+Interstate_55	isLocatedIn	Chicago
+Interstate_55	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Chicago
+Interstate_55	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	U.S._Route_41
+Interstate_55	isLocatedIn	U.S._Route_41
+Interstate_55	isLocatedIn	U.S._Route_41
+Interstate_55	isLocatedIn	U.S._Route_41
+Interstate_55	isLocatedIn	Chicago
+Interstate_55	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Interstate_10
+Interstate_55	isLocatedIn	Interstate_10
+Interstate_55	isLocatedIn	Interstate_10
+Interstate_55	isLocatedIn	Interstate_10
+Interstate_55	isLocatedIn	Chicago
+Interstate_55	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_220_(Mississippi)	isLocatedIn	Interstate_55
+Interstate_220_(Mississippi)	isLocatedIn	Interstate_55
+Interstate_220_(Mississippi)	isLocatedIn	Interstate_55
+Interstate_220_(Mississippi)	isLocatedIn	Interstate_55
+Interstate_55	isLocatedIn	Chicago
+Interstate_55	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_44	isLocatedIn	Interstate_55
+Interstate_44	isLocatedIn	Interstate_55
+Interstate_44	isLocatedIn	Interstate_55
+Interstate_44	isLocatedIn	Interstate_55
+Interstate_55	isLocatedIn	Chicago
+Interstate_55	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Arkansas
+Interstate_55	isLocatedIn	Arkansas
+Interstate_55	isLocatedIn	Arkansas
+Interstate_55	isLocatedIn	Arkansas
+Interstate_55	isLocatedIn	Chicago
+Interstate_55	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	LaPlace,_Louisiana
+Interstate_55	isLocatedIn	LaPlace,_Louisiana
+Interstate_55	isLocatedIn	LaPlace,_Louisiana
+Interstate_55	isLocatedIn	LaPlace,_Louisiana
+Interstate_55	isLocatedIn	Chicago
+Interstate_55	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Interstate_55	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Chicago
+Interstate_55	Chicago
+Interstate_55	isLocatedIn	Missouri
+Interstate_55	isLocatedIn	Missouri
+Interstate_55	isLocatedIn	Missouri
+Interstate_55	isLocatedIn	Missouri
+Interstate_55	isLocatedIn	Chicago
+Interstate_55	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/D1_road_(Croatia)	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Krapina
+D1_road_(Croatia)	Krapina
+D1_road_(Croatia)	isLocatedIn	Krapina-Zagorje_County
+D1_road_(Croatia)	isLocatedIn	Krapina-Zagorje_County
+Krapina-Zagorje_County	isLocatedIn	Krapina
+Krapina	isLocatedIn	Krapina-Zagorje_County
+Krapina-Zagorje_County	hasCapital	Krapina
+Krapina-Zagorje_County	isLocatedIn	Krapina
+Krapina	isLocatedIn	Krapina-Zagorje_County
+Krapina-Zagorje_County	hasCapital	Krapina
+
+http://dbpedia.org/resource/North_Carolina_Highway_18	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Morganton,_North_Carolina
+North_Carolina_Highway_18	Morganton,_North_Carolina
+North_Carolina_Highway_18	isLocatedIn	Morganton,_North_Carolina
+North_Carolina_Highway_18	isLocatedIn	Morganton,_North_Carolina
+
+http://dbpedia.org/resource/North_Carolina_Highway_18	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Morganton,_North_Carolina
+North_Carolina_Highway_18	Morganton,_North_Carolina
+North_Carolina_Highway_18	isLocatedIn	Lenoir,_North_Carolina
+North_Carolina_Highway_18	isLocatedIn	Lenoir,_North_Carolina
+Lenoir,_North_Carolina	isLocatedIn	North_Carolina
+Lenoir,_North_Carolina	isLocatedIn	North_Carolina
+Morganton,_North_Carolina	isLocatedIn	North_Carolina
+Morganton,_North_Carolina	isLocatedIn	North_Carolina
+
+http://dbpedia.org/resource/North_Carolina_Highway_18	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/Morganton,_North_Carolina
+North_Carolina_Highway_18	Morganton,_North_Carolina
+North_Carolina_Highway_18	isLocatedIn	Lenoir,_North_Carolina
+North_Carolina_Highway_18	isLocatedIn	Lenoir,_North_Carolina
+North_Carolina_Highway_18	isLocatedIn	Lenoir,_North_Carolina
+North_Carolina_Highway_18	isLocatedIn	Lenoir,_North_Carolina
+North_Carolina_Highway_18	isLocatedIn	Morganton,_North_Carolina
+North_Carolina_Highway_18	isLocatedIn	Morganton,_North_Carolina
+
+http://dbpedia.org/resource/M8_motorway_(Hungary)	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/M4_motorway_(Hungary)
+M8_motorway_(Hungary)	M4_motorway_(Hungary)
+M8_motorway_(Hungary)	isLocatedIn	Pest_County
+M8_motorway_(Hungary)	isLocatedIn	Pest_County
+M4_motorway_(Hungary)	isLocatedIn	Pest_County
+M4_motorway_(Hungary)	isLocatedIn	Pest_County
+
+http://dbpedia.org/resource/M8_motorway_(Hungary)	http://dbpedia.org/ontology/routeJunction	http://dbpedia.org/resource/M4_motorway_(Hungary)
+M8_motorway_(Hungary)	M4_motorway_(Hungary)
+M8_motorway_(Hungary)	isLocatedIn	Jász-Nagykun-Szolnok_County
+M8_motorway_(Hungary)	isLocatedIn	Jász-Nagykun-Szolnok_County
+M4_motorway_(Hungary)	isLocatedIn	Jász-Nagykun-Szolnok_County
+M4_motorway_(Hungary)	isLocatedIn	Jász-Nagykun-Szolnok_County
+

@@ -1,0 +1,1045 @@
+http://dbpedia.org/resource/Cremona	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Cremona
+Cremona	Province_of_Cremona
+Cremona	isLocatedIn	Province_of_Cremona
+Province_of_Cremona	hasCapital	Cremona
+Province_of_Cremona	isLocatedIn	Cremona
+Cremona	isLocatedIn	Province_of_Cremona
+Province_of_Cremona	hasCapital	Cremona
+Province_of_Cremona	isLocatedIn	Cremona
+
+http://dbpedia.org/resource/Cremona	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Cremona
+Cremona	Province_of_Cremona
+Giovanni_Ferretti_(footballer)	wasBornIn	Cremona
+Giovanni_Ferretti_(footballer)	wasBornIn	Cremona
+Giovanni_Ferretti_(footballer)	wasBornIn	Cremona
+Giovanni_Ferretti_(footballer)	wasBornIn	Cremona
+Cremona	isLocatedIn	Province_of_Cremona
+Province_of_Cremona	hasCapital	Cremona
+Province_of_Cremona	isLocatedIn	Cremona
+Cremona	isLocatedIn	Province_of_Cremona
+Province_of_Cremona	hasCapital	Cremona
+Province_of_Cremona	isLocatedIn	Cremona
+
+http://dbpedia.org/resource/Cremona	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Cremona
+Cremona	Province_of_Cremona
+Battle_of_Parma	happenedIn	Cremona
+Battle_of_Parma	happenedIn	Cremona
+Battle_of_Parma	happenedIn	Cremona
+Battle_of_Parma	happenedIn	Cremona
+Cremona	isLocatedIn	Province_of_Cremona
+Province_of_Cremona	hasCapital	Cremona
+Province_of_Cremona	isLocatedIn	Cremona
+Cremona	isLocatedIn	Province_of_Cremona
+Province_of_Cremona	hasCapital	Cremona
+Province_of_Cremona	isLocatedIn	Cremona
+
+http://dbpedia.org/resource/Cremona	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Cremona
+Cremona	Province_of_Cremona
+Pietro_Dalle_Vedove	wasBornIn	Cremona
+Pietro_Dalle_Vedove	wasBornIn	Cremona
+Pietro_Dalle_Vedove	wasBornIn	Cremona
+Pietro_Dalle_Vedove	wasBornIn	Cremona
+Cremona	isLocatedIn	Province_of_Cremona
+Province_of_Cremona	hasCapital	Cremona
+Province_of_Cremona	isLocatedIn	Cremona
+Cremona	isLocatedIn	Province_of_Cremona
+Province_of_Cremona	hasCapital	Cremona
+Province_of_Cremona	isLocatedIn	Cremona
+
+http://dbpedia.org/resource/Cremona	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Cremona
+Cremona	Province_of_Cremona
+Simone_Romagnoli	wasBornIn	Cremona
+Simone_Romagnoli	wasBornIn	Cremona
+Simone_Romagnoli	wasBornIn	Cremona
+Simone_Romagnoli	wasBornIn	Cremona
+Cremona	isLocatedIn	Province_of_Cremona
+Province_of_Cremona	hasCapital	Cremona
+Province_of_Cremona	isLocatedIn	Cremona
+Cremona	isLocatedIn	Province_of_Cremona
+Province_of_Cremona	hasCapital	Cremona
+Province_of_Cremona	isLocatedIn	Cremona
+
+http://dbpedia.org/resource/Cremona	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Cremona
+Cremona	Province_of_Cremona
+Bianca_Maria_Visconti	diedIn	Cremona
+Bianca_Maria_Visconti	diedIn	Cremona
+Bianca_Maria_Visconti	diedIn	Cremona
+Bianca_Maria_Visconti	diedIn	Cremona
+Cremona	isLocatedIn	Province_of_Cremona
+Province_of_Cremona	hasCapital	Cremona
+Province_of_Cremona	isLocatedIn	Cremona
+Cremona	isLocatedIn	Province_of_Cremona
+Province_of_Cremona	hasCapital	Cremona
+Province_of_Cremona	isLocatedIn	Cremona
+
+http://dbpedia.org/resource/Sorso	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Sassari
+Sorso	Province_of_Sassari
+Sorso	isLocatedIn	Province_of_Sassari
+Sorso	isLocatedIn	Province_of_Sassari
+
+http://dbpedia.org/resource/Sorso	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Sassari
+Sorso	Province_of_Sassari
+Salvatore_Pinna	wasBornIn	Sorso
+Salvatore_Pinna	wasBornIn	Sorso
+Salvatore_Pinna	wasBornIn	Sorso
+Salvatore_Pinna	wasBornIn	Sorso
+Sorso	isLocatedIn	Province_of_Sassari
+Sorso	isLocatedIn	Province_of_Sassari
+
+http://dbpedia.org/resource/Terlizzi	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Bari
+Terlizzi	Province_of_Bari
+Terlizzi	isLocatedIn	Province_of_Bari
+Terlizzi	isLocatedIn	Province_of_Bari
+
+http://dbpedia.org/resource/Terlizzi	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Bari
+Terlizzi	Province_of_Bari
+Terlizzi	isLocatedIn	Apulia
+Terlizzi	isLocatedIn	Apulia
+Province_of_Bari	isLocatedIn	Apulia
+Apulia	isLocatedIn	Province_of_Bari
+Province_of_Bari	isLocatedIn	Apulia
+Apulia	isLocatedIn	Province_of_Bari
+
+http://dbpedia.org/resource/Terlizzi	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Bari
+Terlizzi	Province_of_Bari
+Terlizzi	isLocatedIn	Apulia
+Terlizzi	isLocatedIn	Apulia
+Altamura	isLocatedIn	Apulia
+Altamura	isLocatedIn	Apulia
+Altamura	isLocatedIn	Province_of_Bari
+Altamura	isLocatedIn	Province_of_Bari
+
+http://dbpedia.org/resource/Terlizzi	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Bari
+Terlizzi	Province_of_Bari
+Daniele_Fiorentino	wasBornIn	Terlizzi
+Daniele_Fiorentino	wasBornIn	Terlizzi
+Daniele_Fiorentino	wasBornIn	Terlizzi
+Daniele_Fiorentino	wasBornIn	Terlizzi
+Terlizzi	isLocatedIn	Province_of_Bari
+Terlizzi	isLocatedIn	Province_of_Bari
+
+http://dbpedia.org/resource/Novi_Ligure	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Alessandria
+Novi_Ligure	Province_of_Alessandria
+Battle_of_Novi_(1799)	happenedIn	Novi_Ligure
+Battle_of_Novi_(1799)	isLocatedIn	Novi_Ligure
+Battle_of_Novi_(1799)	happenedIn	Novi_Ligure
+Battle_of_Novi_(1799)	isLocatedIn	Novi_Ligure
+Battle_of_Novi_(1799)	happenedIn	Novi_Ligure
+Battle_of_Novi_(1799)	isLocatedIn	Novi_Ligure
+Battle_of_Novi_(1799)	happenedIn	Novi_Ligure
+Battle_of_Novi_(1799)	isLocatedIn	Novi_Ligure
+Novi_Ligure	isLocatedIn	Province_of_Alessandria
+Novi_Ligure	isLocatedIn	Province_of_Alessandria
+
+http://dbpedia.org/resource/Novi_Ligure	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Alessandria
+Novi_Ligure	Province_of_Alessandria
+Battle_of_Novi_(1799)	happenedIn	Novi_Ligure
+Battle_of_Novi_(1799)	isLocatedIn	Novi_Ligure
+Battle_of_Novi_(1799)	happenedIn	Novi_Ligure
+Battle_of_Novi_(1799)	isLocatedIn	Novi_Ligure
+Battle_of_Novi_(1799)	happenedIn	Piedmont
+Battle_of_Novi_(1799)	happenedIn	Piedmont
+Province_of_Alessandria	isLocatedIn	Piedmont
+Province_of_Alessandria	isLocatedIn	Piedmont
+
+http://dbpedia.org/resource/Novi_Ligure	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Alessandria
+Novi_Ligure	Province_of_Alessandria
+Nikolai_Stankevich	diedIn	Novi_Ligure
+Nikolai_Stankevich	diedIn	Novi_Ligure
+Nikolai_Stankevich	diedIn	Novi_Ligure
+Nikolai_Stankevich	diedIn	Novi_Ligure
+Novi_Ligure	isLocatedIn	Province_of_Alessandria
+Novi_Ligure	isLocatedIn	Province_of_Alessandria
+
+http://dbpedia.org/resource/Novi_Ligure	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Alessandria
+Novi_Ligure	Province_of_Alessandria
+Novi_Ligure	isLocatedIn	Piedmont
+Novi_Ligure	isLocatedIn	Piedmont
+Province_of_Alessandria	isLocatedIn	Piedmont
+Province_of_Alessandria	isLocatedIn	Piedmont
+
+http://dbpedia.org/resource/Novi_Ligure	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Alessandria
+Novi_Ligure	Province_of_Alessandria
+Novi_Ligure	isLocatedIn	Province_of_Alessandria
+Novi_Ligure	isLocatedIn	Province_of_Alessandria
+
+http://dbpedia.org/resource/Novi_Ligure	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Alessandria
+Novi_Ligure	Province_of_Alessandria
+Alessandro_Visone	wasBornIn	Novi_Ligure
+Alessandro_Visone	wasBornIn	Novi_Ligure
+Alessandro_Visone	wasBornIn	Novi_Ligure
+Alessandro_Visone	wasBornIn	Novi_Ligure
+Novi_Ligure	isLocatedIn	Province_of_Alessandria
+Novi_Ligure	isLocatedIn	Province_of_Alessandria
+
+http://dbpedia.org/resource/Taggia	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Imperia
+Taggia	Province_of_Imperia
+Taggia	isLocatedIn	Province_of_Imperia
+Taggia	isLocatedIn	Province_of_Imperia
+
+http://dbpedia.org/resource/Mesagne	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brindisi
+Mesagne	Province_of_Brindisi
+Mesagne	isLocatedIn	Province_of_Brindisi
+Mesagne	isLocatedIn	Province_of_Brindisi
+
+http://dbpedia.org/resource/Mesagne	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brindisi
+Mesagne	Province_of_Brindisi
+Vittorio_Triarico	wasBornIn	Mesagne
+Vittorio_Triarico	wasBornIn	Mesagne
+Vittorio_Triarico	wasBornIn	Mesagne
+Vittorio_Triarico	wasBornIn	Mesagne
+Mesagne	isLocatedIn	Province_of_Brindisi
+Mesagne	isLocatedIn	Province_of_Brindisi
+
+http://dbpedia.org/resource/Negrar	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Negrar	Province_of_Verona
+Negrar	isLocatedIn	Province_of_Verona
+Negrar	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Negrar	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Negrar	Province_of_Verona
+Negrar	isLocatedIn	Veneto
+Negrar	isLocatedIn	Veneto
+Negrar	isLocatedIn	Veneto
+Negrar	isLocatedIn	Veneto
+Negrar	isLocatedIn	Province_of_Verona
+Negrar	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Negrar	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Negrar	Province_of_Verona
+Negrar	isLocatedIn	Veneto
+Negrar	isLocatedIn	Veneto
+Isola_della_Scala	isLocatedIn	Veneto
+Isola_della_Scala	isLocatedIn	Veneto
+Isola_della_Scala	isLocatedIn	Province_of_Verona
+Isola_della_Scala	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Negrar	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Negrar	Province_of_Verona
+Negrar	isLocatedIn	Veneto
+Negrar	isLocatedIn	Veneto
+Sanguinetto	isLocatedIn	Veneto
+Sanguinetto	isLocatedIn	Veneto
+Sanguinetto	isLocatedIn	Province_of_Verona
+Sanguinetto	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Negrar	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Negrar	Province_of_Verona
+Negrar	isLocatedIn	Veneto
+Negrar	isLocatedIn	Veneto
+Cologna_Veneta	isLocatedIn	Veneto
+Cologna_Veneta	isLocatedIn	Veneto
+Cologna_Veneta	isLocatedIn	Province_of_Verona
+Cologna_Veneta	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Negrar	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Negrar	Province_of_Verona
+Negrar	isLocatedIn	Veneto
+Negrar	isLocatedIn	Veneto
+Verona	isLocatedIn	Veneto
+Verona	isLocatedIn	Veneto
+Province_of_Verona	hasCapital	Verona
+Verona	isLocatedIn	Province_of_Verona
+Province_of_Verona	isLocatedIn	Verona
+Province_of_Verona	hasCapital	Verona
+Verona	isLocatedIn	Province_of_Verona
+Province_of_Verona	isLocatedIn	Verona
+
+http://dbpedia.org/resource/Negrar	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Negrar	Province_of_Verona
+Negrar	isLocatedIn	Veneto
+Negrar	isLocatedIn	Veneto
+Peschiera_del_Garda	isLocatedIn	Veneto
+Peschiera_del_Garda	isLocatedIn	Veneto
+Peschiera_del_Garda	isLocatedIn	Province_of_Verona
+Peschiera_del_Garda	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Negrar	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Negrar	Province_of_Verona
+Negrar	isLocatedIn	Veneto
+Negrar	isLocatedIn	Veneto
+San_Martino_Buon_Albergo	isLocatedIn	Veneto
+San_Martino_Buon_Albergo	isLocatedIn	Veneto
+San_Martino_Buon_Albergo	isLocatedIn	Province_of_Verona
+San_Martino_Buon_Albergo	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Negrar	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Negrar	Province_of_Verona
+Negrar	isLocatedIn	Veneto
+Negrar	isLocatedIn	Veneto
+Legnago	isLocatedIn	Veneto
+Legnago	isLocatedIn	Veneto
+Legnago	isLocatedIn	Province_of_Verona
+Legnago	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Negrar	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Negrar	Province_of_Verona
+Negrar	isLocatedIn	Veneto
+Negrar	isLocatedIn	Veneto
+Bovolone	isLocatedIn	Veneto
+Bovolone	isLocatedIn	Veneto
+Bovolone	isLocatedIn	Province_of_Verona
+Bovolone	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Negrar	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Negrar	Province_of_Verona
+Negrar	isLocatedIn	Veneto
+Negrar	isLocatedIn	Veneto
+Caprino_Veronese	isLocatedIn	Veneto
+Caprino_Veronese	isLocatedIn	Veneto
+Caprino_Veronese	isLocatedIn	Province_of_Verona
+Caprino_Veronese	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Negrar	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Negrar	Province_of_Verona
+Negrar	isLocatedIn	Veneto
+Negrar	isLocatedIn	Veneto
+San_Giovanni_Lupatoto	isLocatedIn	Veneto
+San_Giovanni_Lupatoto	isLocatedIn	Veneto
+San_Giovanni_Lupatoto	isLocatedIn	Province_of_Verona
+San_Giovanni_Lupatoto	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Negrar	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Negrar	Province_of_Verona
+Negrar	isLocatedIn	Veneto
+Negrar	isLocatedIn	Veneto
+Cerea	isLocatedIn	Veneto
+Cerea	isLocatedIn	Veneto
+Cerea	isLocatedIn	Province_of_Verona
+Cerea	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Negrar	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Negrar	Province_of_Verona
+Albert_Schram	livesIn	Negrar
+Albert_Schram	livesIn	Negrar
+Albert_Schram	livesIn	Negrar
+Albert_Schram	livesIn	Negrar
+Negrar	isLocatedIn	Province_of_Verona
+Negrar	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Cologna_Veneta	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Cologna_Veneta	Province_of_Verona
+Cologna_Veneta	isLocatedIn	Veneto
+Cologna_Veneta	isLocatedIn	Veneto
+Negrar	isLocatedIn	Veneto
+Negrar	isLocatedIn	Veneto
+Negrar	isLocatedIn	Province_of_Verona
+Negrar	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Cologna_Veneta	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Cologna_Veneta	Province_of_Verona
+Cologna_Veneta	isLocatedIn	Veneto
+Cologna_Veneta	isLocatedIn	Veneto
+Isola_della_Scala	isLocatedIn	Veneto
+Isola_della_Scala	isLocatedIn	Veneto
+Isola_della_Scala	isLocatedIn	Province_of_Verona
+Isola_della_Scala	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Cologna_Veneta	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Cologna_Veneta	Province_of_Verona
+Cologna_Veneta	isLocatedIn	Veneto
+Cologna_Veneta	isLocatedIn	Veneto
+Sanguinetto	isLocatedIn	Veneto
+Sanguinetto	isLocatedIn	Veneto
+Sanguinetto	isLocatedIn	Province_of_Verona
+Sanguinetto	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Cologna_Veneta	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Cologna_Veneta	Province_of_Verona
+Cologna_Veneta	isLocatedIn	Veneto
+Cologna_Veneta	isLocatedIn	Veneto
+Cologna_Veneta	isLocatedIn	Veneto
+Cologna_Veneta	isLocatedIn	Veneto
+Cologna_Veneta	isLocatedIn	Province_of_Verona
+Cologna_Veneta	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Cologna_Veneta	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Cologna_Veneta	Province_of_Verona
+Cologna_Veneta	isLocatedIn	Veneto
+Cologna_Veneta	isLocatedIn	Veneto
+Verona	isLocatedIn	Veneto
+Verona	isLocatedIn	Veneto
+Province_of_Verona	hasCapital	Verona
+Verona	isLocatedIn	Province_of_Verona
+Province_of_Verona	isLocatedIn	Verona
+Province_of_Verona	hasCapital	Verona
+Verona	isLocatedIn	Province_of_Verona
+Province_of_Verona	isLocatedIn	Verona
+
+http://dbpedia.org/resource/Cologna_Veneta	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Cologna_Veneta	Province_of_Verona
+Cologna_Veneta	isLocatedIn	Veneto
+Cologna_Veneta	isLocatedIn	Veneto
+Peschiera_del_Garda	isLocatedIn	Veneto
+Peschiera_del_Garda	isLocatedIn	Veneto
+Peschiera_del_Garda	isLocatedIn	Province_of_Verona
+Peschiera_del_Garda	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Cologna_Veneta	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Cologna_Veneta	Province_of_Verona
+Cologna_Veneta	isLocatedIn	Veneto
+Cologna_Veneta	isLocatedIn	Veneto
+San_Martino_Buon_Albergo	isLocatedIn	Veneto
+San_Martino_Buon_Albergo	isLocatedIn	Veneto
+San_Martino_Buon_Albergo	isLocatedIn	Province_of_Verona
+San_Martino_Buon_Albergo	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Cologna_Veneta	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Cologna_Veneta	Province_of_Verona
+Cologna_Veneta	isLocatedIn	Veneto
+Cologna_Veneta	isLocatedIn	Veneto
+Legnago	isLocatedIn	Veneto
+Legnago	isLocatedIn	Veneto
+Legnago	isLocatedIn	Province_of_Verona
+Legnago	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Cologna_Veneta	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Cologna_Veneta	Province_of_Verona
+Cologna_Veneta	isLocatedIn	Veneto
+Cologna_Veneta	isLocatedIn	Veneto
+Bovolone	isLocatedIn	Veneto
+Bovolone	isLocatedIn	Veneto
+Bovolone	isLocatedIn	Province_of_Verona
+Bovolone	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Cologna_Veneta	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Cologna_Veneta	Province_of_Verona
+Cologna_Veneta	isLocatedIn	Veneto
+Cologna_Veneta	isLocatedIn	Veneto
+Caprino_Veronese	isLocatedIn	Veneto
+Caprino_Veronese	isLocatedIn	Veneto
+Caprino_Veronese	isLocatedIn	Province_of_Verona
+Caprino_Veronese	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Cologna_Veneta	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Cologna_Veneta	Province_of_Verona
+Cologna_Veneta	isLocatedIn	Veneto
+Cologna_Veneta	isLocatedIn	Veneto
+San_Giovanni_Lupatoto	isLocatedIn	Veneto
+San_Giovanni_Lupatoto	isLocatedIn	Veneto
+San_Giovanni_Lupatoto	isLocatedIn	Province_of_Verona
+San_Giovanni_Lupatoto	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Cologna_Veneta	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Cologna_Veneta	Province_of_Verona
+Cologna_Veneta	isLocatedIn	Veneto
+Cologna_Veneta	isLocatedIn	Veneto
+Cerea	isLocatedIn	Veneto
+Cerea	isLocatedIn	Veneto
+Cerea	isLocatedIn	Province_of_Verona
+Cerea	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Cologna_Veneta	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Cologna_Veneta	Province_of_Verona
+Cologna_Veneta	isLocatedIn	Province_of_Verona
+Cologna_Veneta	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Cologna_Veneta	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verona
+Cologna_Veneta	Province_of_Verona
+Simone_Ciancio	wasBornIn	Cologna_Veneta
+Simone_Ciancio	wasBornIn	Cologna_Veneta
+Simone_Ciancio	wasBornIn	Cologna_Veneta
+Simone_Ciancio	wasBornIn	Cologna_Veneta
+Cologna_Veneta	isLocatedIn	Province_of_Verona
+Cologna_Veneta	isLocatedIn	Province_of_Verona
+
+http://dbpedia.org/resource/Giulianova	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Teramo
+Giulianova	Province_of_Teramo
+Giulianova	isLocatedIn	Abruzzo
+Giulianova	isLocatedIn	Abruzzo
+Province_of_Teramo	isLocatedIn	Abruzzo
+Abruzzo	isLocatedIn	Province_of_Teramo
+Province_of_Teramo	isLocatedIn	Abruzzo
+Abruzzo	isLocatedIn	Province_of_Teramo
+
+http://dbpedia.org/resource/Giulianova	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Teramo
+Giulianova	Province_of_Teramo
+Franco_Tancredi	wasBornIn	Giulianova
+Franco_Tancredi	wasBornIn	Giulianova
+Franco_Tancredi	wasBornIn	Giulianova
+Franco_Tancredi	wasBornIn	Giulianova
+Giulianova	isLocatedIn	Province_of_Teramo
+Giulianova	isLocatedIn	Province_of_Teramo
+
+http://dbpedia.org/resource/Giulianova	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Teramo
+Giulianova	Province_of_Teramo
+Daniele_Di_Donato	wasBornIn	Giulianova
+Daniele_Di_Donato	wasBornIn	Giulianova
+Daniele_Di_Donato	wasBornIn	Giulianova
+Daniele_Di_Donato	wasBornIn	Giulianova
+Giulianova	isLocatedIn	Province_of_Teramo
+Giulianova	isLocatedIn	Province_of_Teramo
+
+http://dbpedia.org/resource/Giulianova	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Teramo
+Giulianova	Province_of_Teramo
+Giulianova	isLocatedIn	Province_of_Teramo
+Giulianova	isLocatedIn	Province_of_Teramo
+
+http://dbpedia.org/resource/Giulianova	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Teramo
+Giulianova	Province_of_Teramo
+Remo_Amadio	wasBornIn	Giulianova
+Remo_Amadio	wasBornIn	Giulianova
+Remo_Amadio	wasBornIn	Giulianova
+Remo_Amadio	wasBornIn	Giulianova
+Giulianova	isLocatedIn	Province_of_Teramo
+Giulianova	isLocatedIn	Province_of_Teramo
+
+http://dbpedia.org/resource/Giulianova	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Teramo
+Giulianova	Province_of_Teramo
+Daniele_Croce	wasBornIn	Giulianova
+Daniele_Croce	wasBornIn	Giulianova
+Daniele_Croce	wasBornIn	Giulianova
+Daniele_Croce	wasBornIn	Giulianova
+Giulianova	isLocatedIn	Province_of_Teramo
+Giulianova	isLocatedIn	Province_of_Teramo
+
+http://dbpedia.org/resource/Cava_Manara	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Pavia
+Cava_Manara	Province_of_Pavia
+Antonio_Maria_Bordoni	wasBornIn	Cava_Manara
+Antonio_Maria_Bordoni	wasBornIn	Cava_Manara
+Antonio_Maria_Bordoni	diedIn	Pavia
+Antonio_Maria_Bordoni	diedIn	Pavia
+Province_of_Pavia	hasCapital	Pavia
+Province_of_Pavia	isLocatedIn	Pavia
+Pavia	isLocatedIn	Province_of_Pavia
+Province_of_Pavia	hasCapital	Pavia
+Province_of_Pavia	isLocatedIn	Pavia
+Pavia	isLocatedIn	Province_of_Pavia
+
+http://dbpedia.org/resource/Cava_Manara	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Pavia
+Cava_Manara	Province_of_Pavia
+Antonio_Maria_Bordoni	wasBornIn	Cava_Manara
+Antonio_Maria_Bordoni	wasBornIn	Cava_Manara
+Antonio_Maria_Bordoni	wasBornIn	Cava_Manara
+Antonio_Maria_Bordoni	wasBornIn	Cava_Manara
+Cava_Manara	isLocatedIn	Province_of_Pavia
+Cava_Manara	isLocatedIn	Province_of_Pavia
+
+http://dbpedia.org/resource/Cava_Manara	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Pavia
+Cava_Manara	Province_of_Pavia
+Cava_Manara	isLocatedIn	Lombardy
+Cava_Manara	isLocatedIn	Lombardy
+Cava_Manara	isLocatedIn	Lombardy
+Cava_Manara	isLocatedIn	Lombardy
+Cava_Manara	isLocatedIn	Province_of_Pavia
+Cava_Manara	isLocatedIn	Province_of_Pavia
+
+http://dbpedia.org/resource/Cava_Manara	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Pavia
+Cava_Manara	Province_of_Pavia
+Cava_Manara	isLocatedIn	Lombardy
+Cava_Manara	isLocatedIn	Lombardy
+Monte_Penice	isLocatedIn	Lombardy
+Monte_Penice	isLocatedIn	Lombardy
+Monte_Penice	isLocatedIn	Province_of_Pavia
+Monte_Penice	isLocatedIn	Province_of_Pavia
+
+http://dbpedia.org/resource/Cava_Manara	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Pavia
+Cava_Manara	Province_of_Pavia
+Cava_Manara	isLocatedIn	Lombardy
+Cava_Manara	isLocatedIn	Lombardy
+Broni	isLocatedIn	Lombardy
+Broni	isLocatedIn	Lombardy
+Broni	isLocatedIn	Province_of_Pavia
+Broni	isLocatedIn	Province_of_Pavia
+
+http://dbpedia.org/resource/Cava_Manara	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Pavia
+Cava_Manara	Province_of_Pavia
+Cava_Manara	isLocatedIn	Lombardy
+Cava_Manara	isLocatedIn	Lombardy
+Lombardy	isLocatedIn	Province_of_Pavia
+Province_of_Pavia	isLocatedIn	Lombardy
+Lombardy	isLocatedIn	Province_of_Pavia
+Province_of_Pavia	isLocatedIn	Lombardy
+
+http://dbpedia.org/resource/Cava_Manara	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Pavia
+Cava_Manara	Province_of_Pavia
+Cava_Manara	isLocatedIn	Lombardy
+Cava_Manara	isLocatedIn	Lombardy
+Voghera	isLocatedIn	Lombardy
+Voghera	isLocatedIn	Lombardy
+Voghera	isLocatedIn	Province_of_Pavia
+Voghera	isLocatedIn	Province_of_Pavia
+
+http://dbpedia.org/resource/Cava_Manara	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Pavia
+Cava_Manara	Province_of_Pavia
+Cava_Manara	isLocatedIn	Lombardy
+Cava_Manara	isLocatedIn	Lombardy
+Pavia	isLocatedIn	Lombardy
+Pavia	isLocatedIn	Lombardy
+Province_of_Pavia	hasCapital	Pavia
+Province_of_Pavia	isLocatedIn	Pavia
+Pavia	isLocatedIn	Province_of_Pavia
+Province_of_Pavia	hasCapital	Pavia
+Province_of_Pavia	isLocatedIn	Pavia
+Pavia	isLocatedIn	Province_of_Pavia
+
+http://dbpedia.org/resource/Cava_Manara	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Pavia
+Cava_Manara	Province_of_Pavia
+Cava_Manara	isLocatedIn	Lombardy
+Cava_Manara	isLocatedIn	Lombardy
+Vigevano	isLocatedIn	Lombardy
+Vigevano	isLocatedIn	Lombardy
+Vigevano	isLocatedIn	Province_of_Pavia
+Vigevano	isLocatedIn	Province_of_Pavia
+
+http://dbpedia.org/resource/Cava_Manara	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Pavia
+Cava_Manara	Province_of_Pavia
+Cava_Manara	isLocatedIn	Lombardy
+Cava_Manara	isLocatedIn	Lombardy
+Monte_Lesima	isLocatedIn	Lombardy
+Monte_Lesima	isLocatedIn	Lombardy
+Monte_Lesima	isLocatedIn	Province_of_Pavia
+Monte_Lesima	isLocatedIn	Province_of_Pavia
+
+http://dbpedia.org/resource/Cava_Manara	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Pavia
+Cava_Manara	Province_of_Pavia
+Cava_Manara	isLocatedIn	Province_of_Pavia
+Cava_Manara	isLocatedIn	Province_of_Pavia
+
+http://dbpedia.org/resource/Domodossola	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verbano-Cusio-Ossola
+Domodossola	Province_of_Verbano-Cusio-Ossola
+Domodossola	isLocatedIn	Piedmont
+Domodossola	isLocatedIn	Piedmont
+Monte_Rosa	isLocatedIn	Piedmont
+Monte_Rosa	isLocatedIn	Piedmont
+Monte_Rosa	isLocatedIn	Province_of_Verbano-Cusio-Ossola
+Monte_Rosa	isLocatedIn	Province_of_Verbano-Cusio-Ossola
+
+http://dbpedia.org/resource/Domodossola	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verbano-Cusio-Ossola
+Domodossola	Province_of_Verbano-Cusio-Ossola
+Domodossola	isLocatedIn	Province_of_Verbano-Cusio-Ossola
+Domodossola	isLocatedIn	Province_of_Verbano-Cusio-Ossola
+
+http://dbpedia.org/resource/Domodossola	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verbano-Cusio-Ossola
+Domodossola	Province_of_Verbano-Cusio-Ossola
+Lorenzo_Squizzi	wasBornIn	Domodossola
+Lorenzo_Squizzi	wasBornIn	Domodossola
+Lorenzo_Squizzi	wasBornIn	Domodossola
+Lorenzo_Squizzi	wasBornIn	Domodossola
+Domodossola	isLocatedIn	Province_of_Verbano-Cusio-Ossola
+Domodossola	isLocatedIn	Province_of_Verbano-Cusio-Ossola
+
+http://dbpedia.org/resource/Verbania	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verbano-Cusio-Ossola
+Verbania	Province_of_Verbano-Cusio-Ossola
+Province_of_Verbano-Cusio-Ossola	isLocatedIn	Verbania
+Province_of_Verbano-Cusio-Ossola	hasCapital	Verbania
+Verbania	isLocatedIn	Province_of_Verbano-Cusio-Ossola
+Province_of_Verbano-Cusio-Ossola	isLocatedIn	Verbania
+Province_of_Verbano-Cusio-Ossola	hasCapital	Verbania
+Verbania	isLocatedIn	Province_of_Verbano-Cusio-Ossola
+
+http://dbpedia.org/resource/Verbania	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Verbano-Cusio-Ossola
+Verbania	Province_of_Verbano-Cusio-Ossola
+James_Travers	diedIn	Verbania
+James_Travers	diedIn	Verbania
+James_Travers	diedIn	Verbania
+James_Travers	diedIn	Verbania
+Province_of_Verbano-Cusio-Ossola	isLocatedIn	Verbania
+Province_of_Verbano-Cusio-Ossola	hasCapital	Verbania
+Verbania	isLocatedIn	Province_of_Verbano-Cusio-Ossola
+Province_of_Verbano-Cusio-Ossola	isLocatedIn	Verbania
+Province_of_Verbano-Cusio-Ossola	hasCapital	Verbania
+Verbania	isLocatedIn	Province_of_Verbano-Cusio-Ossola
+
+http://dbpedia.org/resource/Portici	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Metropolitan_City_of_Naples
+Portici	Metropolitan_City_of_Naples
+Palace_of_Portici	isLocatedIn	Portici
+Palace_of_Portici	isLocatedIn	Portici
+Palace_of_Portici	isLocatedIn	Metropolitan_City_of_Naples
+Palace_of_Portici	isLocatedIn	Metropolitan_City_of_Naples
+
+http://dbpedia.org/resource/Bitetto	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Bari
+Bitetto	Province_of_Bari
+Jakov_Varingez	diedIn	Bitetto
+Jakov_Varingez	diedIn	Bitetto
+Jakov_Varingez	diedIn	Bitetto
+Jakov_Varingez	diedIn	Bitetto
+Bitetto	isLocatedIn	Province_of_Bari
+Bitetto	isLocatedIn	Province_of_Bari
+
+http://dbpedia.org/resource/Bitetto	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Bari
+Bitetto	Province_of_Bari
+Bitetto	isLocatedIn	Apulia
+Bitetto	isLocatedIn	Apulia
+Province_of_Bari	isLocatedIn	Apulia
+Apulia	isLocatedIn	Province_of_Bari
+Province_of_Bari	isLocatedIn	Apulia
+Apulia	isLocatedIn	Province_of_Bari
+
+http://dbpedia.org/resource/Bitetto	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Bari
+Bitetto	Province_of_Bari
+Bitetto	isLocatedIn	Apulia
+Bitetto	isLocatedIn	Apulia
+Altamura	isLocatedIn	Apulia
+Altamura	isLocatedIn	Apulia
+Altamura	isLocatedIn	Province_of_Bari
+Altamura	isLocatedIn	Province_of_Bari
+
+http://dbpedia.org/resource/Bitetto	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Bari
+Bitetto	Province_of_Bari
+Bitetto	isLocatedIn	Province_of_Bari
+Bitetto	isLocatedIn	Province_of_Bari
+
+http://dbpedia.org/resource/Altamura	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Bari
+Altamura	Province_of_Bari
+Altamura	isLocatedIn	Province_of_Bari
+Altamura	isLocatedIn	Province_of_Bari
+
+http://dbpedia.org/resource/Altamura	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Bari
+Altamura	Province_of_Bari
+Altamura	isLocatedIn	Apulia
+Altamura	isLocatedIn	Apulia
+Province_of_Bari	isLocatedIn	Apulia
+Apulia	isLocatedIn	Province_of_Bari
+Province_of_Bari	isLocatedIn	Apulia
+Apulia	isLocatedIn	Province_of_Bari
+
+http://dbpedia.org/resource/Altamura	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Bari
+Altamura	Province_of_Bari
+Altamura	isLocatedIn	Apulia
+Altamura	isLocatedIn	Apulia
+Altamura	isLocatedIn	Apulia
+Altamura	isLocatedIn	Apulia
+Altamura	isLocatedIn	Province_of_Bari
+Altamura	isLocatedIn	Province_of_Bari
+
+http://dbpedia.org/resource/Orzinuovi	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brescia
+Orzinuovi	Province_of_Brescia
+Mino_Martinazzoli	wasBornIn	Orzinuovi
+Mino_Martinazzoli	wasBornIn	Orzinuovi
+Mino_Martinazzoli	diedIn	Brescia
+Mino_Martinazzoli	diedIn	Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+
+http://dbpedia.org/resource/Orzinuovi	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brescia
+Orzinuovi	Province_of_Brescia
+Mino_Martinazzoli	wasBornIn	Orzinuovi
+Mino_Martinazzoli	wasBornIn	Orzinuovi
+Mino_Martinazzoli	wasBornIn	Orzinuovi
+Mino_Martinazzoli	wasBornIn	Orzinuovi
+Orzinuovi	isLocatedIn	Province_of_Brescia
+Orzinuovi	isLocatedIn	Province_of_Brescia
+
+http://dbpedia.org/resource/Orzinuovi	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brescia
+Orzinuovi	Province_of_Brescia
+Orzinuovi	isLocatedIn	Province_of_Brescia
+Orzinuovi	isLocatedIn	Province_of_Brescia
+
+http://dbpedia.org/resource/Orzinuovi	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brescia
+Orzinuovi	Province_of_Brescia
+Orzinuovi	isLocatedIn	Lombardy
+Orzinuovi	isLocatedIn	Lombardy
+Desenzano_del_Garda	isLocatedIn	Lombardy
+Desenzano_del_Garda	isLocatedIn	Lombardy
+Desenzano_del_Garda	isLocatedIn	Province_of_Brescia
+Desenzano_del_Garda	isLocatedIn	Province_of_Brescia
+
+http://dbpedia.org/resource/Orzinuovi	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brescia
+Orzinuovi	Province_of_Brescia
+Orzinuovi	isLocatedIn	Lombardy
+Orzinuovi	isLocatedIn	Lombardy
+Brescia	isLocatedIn	Lombardy
+Brescia	isLocatedIn	Lombardy
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+
+http://dbpedia.org/resource/Orzinuovi	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brescia
+Orzinuovi	Province_of_Brescia
+Orzinuovi	isLocatedIn	Lombardy
+Orzinuovi	isLocatedIn	Lombardy
+Battle_of_Montichiari	happenedIn	Lombardy
+Battle_of_Montichiari	happenedIn	Lombardy
+Battle_of_Montichiari	happenedIn	Province_of_Brescia
+Battle_of_Montichiari	happenedIn	Province_of_Brescia
+
+http://dbpedia.org/resource/Orzinuovi	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brescia
+Orzinuovi	Province_of_Brescia
+Orzinuovi	isLocatedIn	Lombardy
+Orzinuovi	isLocatedIn	Lombardy
+Bagnolo_Mella	isLocatedIn	Lombardy
+Bagnolo_Mella	isLocatedIn	Lombardy
+Bagnolo_Mella	isLocatedIn	Province_of_Brescia
+Bagnolo_Mella	isLocatedIn	Province_of_Brescia
+
+http://dbpedia.org/resource/Orzinuovi	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brescia
+Orzinuovi	Province_of_Brescia
+Angelo_Pasolini	wasBornIn	Orzinuovi
+Angelo_Pasolini	wasBornIn	Orzinuovi
+Angelo_Pasolini	wasBornIn	Orzinuovi
+Angelo_Pasolini	wasBornIn	Orzinuovi
+Orzinuovi	isLocatedIn	Province_of_Brescia
+Orzinuovi	isLocatedIn	Province_of_Brescia
+
+http://dbpedia.org/resource/Orzinuovi	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brescia
+Orzinuovi	Province_of_Brescia
+Angelo_Pasolini	wasBornIn	Orzinuovi
+Angelo_Pasolini	wasBornIn	Orzinuovi
+Angelo_Pasolini	diedIn	Brescia
+Angelo_Pasolini	diedIn	Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+
+http://dbpedia.org/resource/Orzinuovi	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brescia
+Orzinuovi	Province_of_Brescia
+Cesare_Prandelli	wasBornIn	Orzinuovi
+Cesare_Prandelli	wasBornIn	Orzinuovi
+Cesare_Prandelli	wasBornIn	Orzinuovi
+Cesare_Prandelli	wasBornIn	Orzinuovi
+Orzinuovi	isLocatedIn	Province_of_Brescia
+Orzinuovi	isLocatedIn	Province_of_Brescia
+
+http://dbpedia.org/resource/Orzinuovi	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brescia
+Orzinuovi	Province_of_Brescia
+Alessandro_Pedroni	wasBornIn	Orzinuovi
+Alessandro_Pedroni	wasBornIn	Orzinuovi
+Alessandro_Pedroni	wasBornIn	Orzinuovi
+Alessandro_Pedroni	wasBornIn	Orzinuovi
+Orzinuovi	isLocatedIn	Province_of_Brescia
+Orzinuovi	isLocatedIn	Province_of_Brescia
+
+http://dbpedia.org/resource/Orzinuovi	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brescia
+Orzinuovi	Province_of_Brescia
+Giuseppe_Favalli	wasBornIn	Orzinuovi
+Giuseppe_Favalli	wasBornIn	Orzinuovi
+Giuseppe_Favalli	wasBornIn	Orzinuovi
+Giuseppe_Favalli	wasBornIn	Orzinuovi
+Orzinuovi	isLocatedIn	Province_of_Brescia
+Orzinuovi	isLocatedIn	Province_of_Brescia
+
+http://dbpedia.org/resource/Cava_de'_Tirreni	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Salerno
+Cava_de'_Tirreni	Province_of_Salerno
+Fausto_Salsano	wasBornIn	Cava_de'_Tirreni
+Fausto_Salsano	wasBornIn	Cava_de'_Tirreni
+Fausto_Salsano	wasBornIn	Cava_de'_Tirreni
+Fausto_Salsano	wasBornIn	Cava_de'_Tirreni
+Cava_de'_Tirreni	isLocatedIn	Province_of_Salerno
+Cava_de'_Tirreni	isLocatedIn	Province_of_Salerno
+
+http://dbpedia.org/resource/Cava_de'_Tirreni	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Salerno
+Cava_de'_Tirreni	Province_of_Salerno
+Cava_de'_Tirreni	isLocatedIn	Province_of_Salerno
+Cava_de'_Tirreni	isLocatedIn	Province_of_Salerno
+
+http://dbpedia.org/resource/Cava_de'_Tirreni	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Salerno
+Cava_de'_Tirreni	Province_of_Salerno
+Giampaolo_Parisi	wasBornIn	Cava_de'_Tirreni
+Giampaolo_Parisi	wasBornIn	Cava_de'_Tirreni
+Giampaolo_Parisi	wasBornIn	Cava_de'_Tirreni
+Giampaolo_Parisi	wasBornIn	Cava_de'_Tirreni
+Cava_de'_Tirreni	isLocatedIn	Province_of_Salerno
+Cava_de'_Tirreni	isLocatedIn	Province_of_Salerno
+
+http://dbpedia.org/resource/Cava_de'_Tirreni	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Salerno
+Cava_de'_Tirreni	Province_of_Salerno
+Stefano_Sorrentino	wasBornIn	Cava_de'_Tirreni
+Stefano_Sorrentino	wasBornIn	Cava_de'_Tirreni
+Stefano_Sorrentino	wasBornIn	Cava_de'_Tirreni
+Stefano_Sorrentino	wasBornIn	Cava_de'_Tirreni
+Cava_de'_Tirreni	isLocatedIn	Province_of_Salerno
+Cava_de'_Tirreni	isLocatedIn	Province_of_Salerno
+
+http://dbpedia.org/resource/Alghero	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Sassari
+Alghero	Province_of_Sassari
+Alghero	isLocatedIn	Province_of_Sassari
+Alghero	isLocatedIn	Province_of_Sassari
+
+http://dbpedia.org/resource/Valenza	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Alessandria
+Valenza	Province_of_Alessandria
+Costanzo_Preve	wasBornIn	Valenza
+Costanzo_Preve	wasBornIn	Valenza
+Costanzo_Preve	wasBornIn	Valenza
+Costanzo_Preve	wasBornIn	Valenza
+Valenza	isLocatedIn	Province_of_Alessandria
+Valenza	isLocatedIn	Province_of_Alessandria
+
+http://dbpedia.org/resource/Valenza	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Alessandria
+Valenza	Province_of_Alessandria
+Valenza	isLocatedIn	Province_of_Alessandria
+Valenza	isLocatedIn	Province_of_Alessandria
+
+http://dbpedia.org/resource/Valenza	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Alessandria
+Valenza	Province_of_Alessandria
+Valenza	isLocatedIn	Piedmont
+Valenza	isLocatedIn	Piedmont
+Province_of_Alessandria	isLocatedIn	Piedmont
+Province_of_Alessandria	isLocatedIn	Piedmont
+
+http://dbpedia.org/resource/Ventimiglia	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Imperia
+Ventimiglia	Province_of_Imperia
+Ventimiglia	isLocatedIn	Province_of_Imperia
+Ventimiglia	isLocatedIn	Province_of_Imperia
+
+http://dbpedia.org/resource/Ventimiglia	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Imperia
+Ventimiglia	Province_of_Imperia
+Ernesto_Tomasi	wasBornIn	Ventimiglia
+Ernesto_Tomasi	wasBornIn	Ventimiglia
+Ernesto_Tomasi	wasBornIn	Ventimiglia
+Ernesto_Tomasi	wasBornIn	Ventimiglia
+Ventimiglia	isLocatedIn	Province_of_Imperia
+Ventimiglia	isLocatedIn	Province_of_Imperia
+
+http://dbpedia.org/resource/Brescia	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brescia
+Brescia	Province_of_Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+
+http://dbpedia.org/resource/Brescia	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brescia
+Brescia	Province_of_Brescia
+Sergio_Viotti_(footballer)	wasBornIn	Brescia
+Sergio_Viotti_(footballer)	wasBornIn	Brescia
+Sergio_Viotti_(footballer)	wasBornIn	Brescia
+Sergio_Viotti_(footballer)	wasBornIn	Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+
+http://dbpedia.org/resource/Brescia	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brescia
+Brescia	Province_of_Brescia
+Marco_Martina_Rini	wasBornIn	Brescia
+Marco_Martina_Rini	wasBornIn	Brescia
+Marco_Martina_Rini	wasBornIn	Brescia
+Marco_Martina_Rini	wasBornIn	Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+
+http://dbpedia.org/resource/Brescia	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brescia
+Brescia	Province_of_Brescia
+Mattia_Altobelli_(footballer,_born_1983)	wasBornIn	Brescia
+Mattia_Altobelli_(footballer,_born_1983)	wasBornIn	Brescia
+Mattia_Altobelli_(footballer,_born_1983)	wasBornIn	Brescia
+Mattia_Altobelli_(footballer,_born_1983)	wasBornIn	Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+
+http://dbpedia.org/resource/Brescia	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brescia
+Brescia	Province_of_Brescia
+Nicola_Pavarini	wasBornIn	Brescia
+Nicola_Pavarini	wasBornIn	Brescia
+Nicola_Pavarini	wasBornIn	Brescia
+Nicola_Pavarini	wasBornIn	Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+
+http://dbpedia.org/resource/Brescia	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brescia
+Brescia	Province_of_Brescia
+Ivan_Marconi	wasBornIn	Brescia
+Ivan_Marconi	wasBornIn	Brescia
+Ivan_Marconi	wasBornIn	Brescia
+Ivan_Marconi	wasBornIn	Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+
+http://dbpedia.org/resource/Brescia	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brescia
+Brescia	Province_of_Brescia
+Manuel_Belleri	wasBornIn	Brescia
+Manuel_Belleri	wasBornIn	Brescia
+Manuel_Belleri	wasBornIn	Brescia
+Manuel_Belleri	wasBornIn	Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+
+http://dbpedia.org/resource/Brescia	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brescia
+Brescia	Province_of_Brescia
+Angelo_Pasolini	diedIn	Brescia
+Angelo_Pasolini	diedIn	Brescia
+Angelo_Pasolini	wasBornIn	Orzinuovi
+Angelo_Pasolini	wasBornIn	Orzinuovi
+Orzinuovi	isLocatedIn	Province_of_Brescia
+Orzinuovi	isLocatedIn	Province_of_Brescia
+
+http://dbpedia.org/resource/Brescia	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brescia
+Brescia	Province_of_Brescia
+Angelo_Pasolini	diedIn	Brescia
+Angelo_Pasolini	diedIn	Brescia
+Angelo_Pasolini	diedIn	Brescia
+Angelo_Pasolini	diedIn	Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+
+http://dbpedia.org/resource/Brescia	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Brescia
+Brescia	Province_of_Brescia
+Matteo_Serafini	wasBornIn	Brescia
+Matteo_Serafini	wasBornIn	Brescia
+Matteo_Serafini	wasBornIn	Brescia
+Matteo_Serafini	wasBornIn	Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+Brescia	isLocatedIn	Province_of_Brescia
+Province_of_Brescia	isLocatedIn	Brescia
+Province_of_Brescia	hasCapital	Brescia
+
+http://dbpedia.org/resource/Tortona	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Alessandria
+Tortona	Province_of_Alessandria
+Tortona	isLocatedIn	Province_of_Alessandria
+Tortona	isLocatedIn	Province_of_Alessandria
+
+http://dbpedia.org/resource/Tortona	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Alessandria
+Tortona	Province_of_Alessandria
+Tortona	isLocatedIn	Piedmont
+Tortona	isLocatedIn	Piedmont
+Province_of_Alessandria	isLocatedIn	Piedmont
+Province_of_Alessandria	isLocatedIn	Piedmont
+
+http://dbpedia.org/resource/Tortona	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Alessandria
+Tortona	Province_of_Alessandria
+Christina_of_Denmark	diedIn	Tortona
+Christina_of_Denmark	diedIn	Tortona
+Christina_of_Denmark	diedIn	Tortona
+Christina_of_Denmark	diedIn	Tortona
+Tortona	isLocatedIn	Province_of_Alessandria
+Tortona	isLocatedIn	Province_of_Alessandria
+
+http://dbpedia.org/resource/Tortona	http://dbpedia.org/ontology/province	http://dbpedia.org/resource/Province_of_Alessandria
+Tortona	Province_of_Alessandria
+Giorgio_Merlano	wasBornIn	Tortona
+Giorgio_Merlano	wasBornIn	Tortona
+Giorgio_Merlano	wasBornIn	Tortona
+Giorgio_Merlano	wasBornIn	Tortona
+Tortona	isLocatedIn	Province_of_Alessandria
+Tortona	isLocatedIn	Province_of_Alessandria
+

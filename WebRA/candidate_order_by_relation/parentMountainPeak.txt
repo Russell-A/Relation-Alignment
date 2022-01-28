@@ -1,0 +1,151 @@
+http://dbpedia.org/resource/Grand_Combin	http://dbpedia.org/ontology/parentMountainPeak	http://dbpedia.org/resource/Monte_Rosa
+Grand_Combin	Monte_Rosa
+Grand_Combin	isLocatedIn	Pennine_Alps
+Grand_Combin	isLocatedIn	Pennine_Alps
+Pennine_Alps	isLocatedIn	Piedmont
+Pennine_Alps	isLocatedIn	Piedmont
+Monte_Rosa	isLocatedIn	Piedmont
+Monte_Rosa	isLocatedIn	Piedmont
+
+http://dbpedia.org/resource/Cima_di_Cugn	http://dbpedia.org/ontology/parentMountainPeak	http://dbpedia.org/resource/Marmontana
+Cima_di_Cugn	Marmontana
+Cima_di_Cugn	isLocatedIn	Alps
+Cima_di_Cugn	isLocatedIn	Alps
+Marmontana	isLocatedIn	Alps
+Marmontana	isLocatedIn	Alps
+
+http://dbpedia.org/resource/Brace_Mountain	http://dbpedia.org/ontology/parentMountainPeak	http://dbpedia.org/resource/Mount_Frissell
+Brace_Mountain	Mount_Frissell
+Brace_Mountain	isLocatedIn	Salisbury,_Connecticut
+Brace_Mountain	isLocatedIn	Salisbury,_Connecticut
+Salisbury,_Connecticut	isLocatedIn	Litchfield_County,_Connecticut
+Salisbury,_Connecticut	isLocatedIn	Litchfield_County,_Connecticut
+Mount_Frissell	isLocatedIn	Litchfield_County,_Connecticut
+Mount_Frissell	isLocatedIn	Litchfield_County,_Connecticut
+
+http://dbpedia.org/resource/Brace_Mountain	http://dbpedia.org/ontology/parentMountainPeak	http://dbpedia.org/resource/Mount_Frissell
+Brace_Mountain	Mount_Frissell
+Brace_Mountain	isLocatedIn	Salisbury,_Connecticut
+Brace_Mountain	isLocatedIn	Salisbury,_Connecticut
+Mount_Frissell	isLocatedIn	Salisbury,_Connecticut
+Mount_Frissell	isLocatedIn	Salisbury,_Connecticut
+
+http://dbpedia.org/resource/Dom_(mountain)	http://dbpedia.org/ontology/parentMountainPeak	http://dbpedia.org/resource/Monte_Rosa
+Dom_(mountain)	Monte_Rosa
+Dom_(mountain)	isLocatedIn	Pennine_Alps
+Dom_(mountain)	isLocatedIn	Pennine_Alps
+Pennine_Alps	isLocatedIn	Piedmont
+Pennine_Alps	isLocatedIn	Piedmont
+Monte_Rosa	isLocatedIn	Piedmont
+Monte_Rosa	isLocatedIn	Piedmont
+
+http://dbpedia.org/resource/La_Ruinette	http://dbpedia.org/ontology/parentMountainPeak	http://dbpedia.org/resource/Monte_Rosa
+La_Ruinette	Monte_Rosa
+La_Ruinette	isLocatedIn	Pennine_Alps
+La_Ruinette	isLocatedIn	Pennine_Alps
+Pennine_Alps	isLocatedIn	Piedmont
+Pennine_Alps	isLocatedIn	Piedmont
+Monte_Rosa	isLocatedIn	Piedmont
+Monte_Rosa	isLocatedIn	Piedmont
+
+http://dbpedia.org/resource/Weisshorn	http://dbpedia.org/ontology/parentMountainPeak	http://dbpedia.org/resource/Monte_Rosa
+Weisshorn	Monte_Rosa
+Weisshorn	isLocatedIn	Pennine_Alps
+Weisshorn	isLocatedIn	Pennine_Alps
+Pennine_Alps	isLocatedIn	Piedmont
+Pennine_Alps	isLocatedIn	Piedmont
+Monte_Rosa	isLocatedIn	Piedmont
+Monte_Rosa	isLocatedIn	Piedmont
+
+http://dbpedia.org/resource/Weissmies	http://dbpedia.org/ontology/parentMountainPeak	http://dbpedia.org/resource/Monte_Rosa
+Weissmies	Monte_Rosa
+Weissmies	isLocatedIn	Pennine_Alps
+Weissmies	isLocatedIn	Pennine_Alps
+Pennine_Alps	isLocatedIn	Piedmont
+Pennine_Alps	isLocatedIn	Piedmont
+Monte_Rosa	isLocatedIn	Piedmont
+Monte_Rosa	isLocatedIn	Piedmont
+
+http://dbpedia.org/resource/Brunegghorn	http://dbpedia.org/ontology/parentMountainPeak	http://dbpedia.org/resource/Weisshorn
+Brunegghorn	Weisshorn
+Brunegghorn	isLocatedIn	Alps
+Brunegghorn	isLocatedIn	Alps
+Pennine_Alps	isLocatedIn	Alps
+Pennine_Alps	isLocatedIn	Alps
+Weisshorn	isLocatedIn	Pennine_Alps
+Weisshorn	isLocatedIn	Pennine_Alps
+
+http://dbpedia.org/resource/Brunegghorn	http://dbpedia.org/ontology/parentMountainPeak	http://dbpedia.org/resource/Weisshorn
+Brunegghorn	Weisshorn
+Brunegghorn	isLocatedIn	Pennine_Alps
+Brunegghorn	isLocatedIn	Pennine_Alps
+Weisshorn	isLocatedIn	Pennine_Alps
+Weisshorn	isLocatedIn	Pennine_Alps
+
+http://dbpedia.org/resource/Portjengrat	http://dbpedia.org/ontology/parentMountainPeak	http://dbpedia.org/resource/Weissmies
+Portjengrat	Weissmies
+Portjengrat	isLocatedIn	Pennine_Alps
+Portjengrat	isLocatedIn	Pennine_Alps
+Weissmies	isLocatedIn	Pennine_Alps
+Weissmies	isLocatedIn	Pennine_Alps
+
+http://dbpedia.org/resource/Portjengrat	http://dbpedia.org/ontology/parentMountainPeak	http://dbpedia.org/resource/Weissmies
+Portjengrat	Weissmies
+Portjengrat	isLocatedIn	Alps
+Portjengrat	isLocatedIn	Alps
+Pennine_Alps	isLocatedIn	Alps
+Pennine_Alps	isLocatedIn	Alps
+Weissmies	isLocatedIn	Pennine_Alps
+Weissmies	isLocatedIn	Pennine_Alps
+
+http://dbpedia.org/resource/Ludwigshöhe_(mountain)	http://dbpedia.org/ontology/parentMountainPeak	http://dbpedia.org/resource/Monte_Rosa
+Ludwigshöhe_(mountain)	Monte_Rosa
+Ludwigshöhe_(mountain)	isLocatedIn	Monte_Rosa
+Ludwigshöhe_(mountain)	isLocatedIn	Monte_Rosa
+
+http://dbpedia.org/resource/Ludwigshöhe_(mountain)	http://dbpedia.org/ontology/parentMountainPeak	http://dbpedia.org/resource/Monte_Rosa
+Ludwigshöhe_(mountain)	Monte_Rosa
+Ludwigshöhe_(mountain)	isLocatedIn	Piedmont
+Ludwigshöhe_(mountain)	isLocatedIn	Piedmont
+Monte_Rosa	isLocatedIn	Piedmont
+Monte_Rosa	isLocatedIn	Piedmont
+
+http://dbpedia.org/resource/Sonnighorn	http://dbpedia.org/ontology/parentMountainPeak	http://dbpedia.org/resource/Weissmies
+Sonnighorn	Weissmies
+Sonnighorn	isLocatedIn	Alps
+Sonnighorn	isLocatedIn	Alps
+Pennine_Alps	isLocatedIn	Alps
+Pennine_Alps	isLocatedIn	Alps
+Weissmies	isLocatedIn	Pennine_Alps
+Weissmies	isLocatedIn	Pennine_Alps
+
+http://dbpedia.org/resource/Sonnighorn	http://dbpedia.org/ontology/parentMountainPeak	http://dbpedia.org/resource/Weissmies
+Sonnighorn	Weissmies
+Sonnighorn	isLocatedIn	Pennine_Alps
+Sonnighorn	isLocatedIn	Pennine_Alps
+Weissmies	isLocatedIn	Pennine_Alps
+Weissmies	isLocatedIn	Pennine_Alps
+
+http://dbpedia.org/resource/Matterhorn	http://dbpedia.org/ontology/parentMountainPeak	http://dbpedia.org/resource/Weisshorn
+Matterhorn	Weisshorn
+Matterhorn	isLocatedIn	Pennine_Alps
+Matterhorn	isLocatedIn	Pennine_Alps
+Weisshorn	isLocatedIn	Pennine_Alps
+Weisshorn	isLocatedIn	Pennine_Alps
+
+http://dbpedia.org/resource/Matterhorn	http://dbpedia.org/ontology/parentMountainPeak	http://dbpedia.org/resource/Weisshorn
+Matterhorn	Weisshorn
+Matterhorn	isLocatedIn	Alps
+Matterhorn	isLocatedIn	Alps
+Pennine_Alps	isLocatedIn	Alps
+Pennine_Alps	isLocatedIn	Alps
+Weisshorn	isLocatedIn	Pennine_Alps
+Weisshorn	isLocatedIn	Pennine_Alps
+
+http://dbpedia.org/resource/Zumsteinspitze	http://dbpedia.org/ontology/parentMountainPeak	http://dbpedia.org/resource/Monte_Rosa
+Zumsteinspitze	Monte_Rosa
+Zumsteinspitze	isLocatedIn	Piedmont
+Zumsteinspitze	isLocatedIn	Piedmont
+Monte_Rosa	isLocatedIn	Piedmont
+Monte_Rosa	isLocatedIn	Piedmont
+

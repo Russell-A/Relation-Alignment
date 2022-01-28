@@ -1,0 +1,939 @@
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Chicago
+Toronto	Chicago
+Jamal_Mayers	wasBornIn	Toronto
+Jamal_Mayers	wasBornIn	Toronto
+Jamal_Mayers	isAffiliatedTo	Chicago_Blackhawks
+Jamal_Mayers	isAffiliatedTo	Chicago_Blackhawks
+Chicago_Blackhawks	isLocatedIn	Chicago
+Chicago_Blackhawks	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Chicago
+Toronto	Chicago
+Trevor_Daley	wasBornIn	Toronto
+Trevor_Daley	wasBornIn	Toronto
+Trevor_Daley	isAffiliatedTo	Chicago_Blackhawks
+Trevor_Daley	isAffiliatedTo	Chicago_Blackhawks
+Chicago_Blackhawks	isLocatedIn	Chicago
+Chicago_Blackhawks	isLocatedIn	Chicago
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Aasia	diedIn	Toronto
+Aasia	diedIn	Toronto
+Aasia	diedIn	Toronto
+Aasia	diedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Busher_Jackson	wasBornIn	Toronto
+Busher_Jackson	diedIn	Toronto
+Busher_Jackson	wasBornIn	Toronto
+Busher_Jackson	diedIn	Toronto
+Busher_Jackson	wasBornIn	Toronto
+Busher_Jackson	diedIn	Toronto
+Busher_Jackson	wasBornIn	Toronto
+Busher_Jackson	diedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Toronto_Falcons	isLocatedIn	Toronto
+Toronto_Falcons	isLocatedIn	Toronto
+Toronto_Falcons	isLocatedIn	Toronto
+Toronto_Falcons	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Robert_Cimetta	wasBornIn	Toronto
+Robert_Cimetta	wasBornIn	Toronto
+Robert_Cimetta	isAffiliatedTo	Toronto_Maple_Leafs
+Robert_Cimetta	isAffiliatedTo	Toronto_Maple_Leafs
+Toronto_Maple_Leafs	isLocatedIn	Toronto
+Toronto_Maple_Leafs	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Robert_Cimetta	wasBornIn	Toronto
+Robert_Cimetta	wasBornIn	Toronto
+Robert_Cimetta	wasBornIn	Toronto
+Robert_Cimetta	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Humphrey_Hume_Wrong	wasBornIn	Toronto
+Humphrey_Hume_Wrong	wasBornIn	Toronto
+Humphrey_Hume_Wrong	wasBornIn	Toronto
+Humphrey_Hume_Wrong	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Hans_Heilbronn	diedIn	Toronto
+Hans_Heilbronn	diedIn	Toronto
+Hans_Heilbronn	diedIn	Toronto
+Hans_Heilbronn	diedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Cheri_DiNovo	wasBornIn	Toronto
+Cheri_DiNovo	wasBornIn	Toronto
+Cheri_DiNovo	isLeaderOf	Roncesvalles,_Toronto
+Cheri_DiNovo	isLeaderOf	Roncesvalles,_Toronto
+Roncesvalles,_Toronto	isLocatedIn	Toronto
+Roncesvalles,_Toronto	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Cheri_DiNovo	wasBornIn	Toronto
+Cheri_DiNovo	wasBornIn	Toronto
+Cheri_DiNovo	isLeaderOf	High_Park_North
+Cheri_DiNovo	isLeaderOf	High_Park_North
+High_Park_North	isLocatedIn	Toronto
+High_Park_North	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Cheri_DiNovo	wasBornIn	Toronto
+Cheri_DiNovo	wasBornIn	Toronto
+Cheri_DiNovo	isLeaderOf	Swansea,_Toronto
+Cheri_DiNovo	isLeaderOf	Swansea,_Toronto
+Swansea,_Toronto	isLocatedIn	Toronto
+Swansea,_Toronto	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Cheri_DiNovo	wasBornIn	Toronto
+Cheri_DiNovo	wasBornIn	Toronto
+Cheri_DiNovo	isLeaderOf	The_Junction
+Cheri_DiNovo	isLeaderOf	The_Junction
+The_Junction	isLocatedIn	Toronto
+The_Junction	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Cheri_DiNovo	wasBornIn	Toronto
+Cheri_DiNovo	wasBornIn	Toronto
+Cheri_DiNovo	isLeaderOf	Baby_Point
+Cheri_DiNovo	isLeaderOf	Baby_Point
+Baby_Point	isLocatedIn	Toronto
+Baby_Point	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Cheri_DiNovo	wasBornIn	Toronto
+Cheri_DiNovo	wasBornIn	Toronto
+Cheri_DiNovo	isLeaderOf	Parkdale,_Toronto
+Cheri_DiNovo	isLeaderOf	Parkdale,_Toronto
+Parkdale,_Toronto	isLocatedIn	Toronto
+Parkdale,_Toronto	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Cheri_DiNovo	wasBornIn	Toronto
+Cheri_DiNovo	wasBornIn	Toronto
+Cheri_DiNovo	isLeaderOf	Lambton,_Toronto
+Cheri_DiNovo	isLeaderOf	Lambton,_Toronto
+Lambton,_Toronto	isLocatedIn	Toronto
+Lambton,_Toronto	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Cheri_DiNovo	wasBornIn	Toronto
+Cheri_DiNovo	wasBornIn	Toronto
+Cheri_DiNovo	isLeaderOf	Runnymede,_Toronto
+Cheri_DiNovo	isLeaderOf	Runnymede,_Toronto
+Runnymede,_Toronto	isLocatedIn	Toronto
+Runnymede,_Toronto	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Cheri_DiNovo	wasBornIn	Toronto
+Cheri_DiNovo	wasBornIn	Toronto
+Cheri_DiNovo	wasBornIn	Toronto
+Cheri_DiNovo	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Harry_Marshall_Erskine_Evans	wasBornIn	Toronto
+Harry_Marshall_Erskine_Evans	wasBornIn	Toronto
+Harry_Marshall_Erskine_Evans	wasBornIn	Toronto
+Harry_Marshall_Erskine_Evans	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+John_S._D._Tory	wasBornIn	Toronto
+John_S._D._Tory	wasBornIn	Toronto
+John_S._D._Tory	hasChild	John_A._Tory
+John_S._D._Tory	hasChild	John_A._Tory
+John_A._Tory	wasBornIn	Toronto
+John_A._Tory	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+John_S._D._Tory	wasBornIn	Toronto
+John_S._D._Tory	wasBornIn	Toronto
+John_S._D._Tory	wasBornIn	Toronto
+John_S._D._Tory	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+John_S._D._Tory	wasBornIn	Toronto
+John_S._D._Tory	wasBornIn	Toronto
+John_S._D._Tory	hasChild	James_Marshall_Tory
+John_S._D._Tory	hasChild	James_Marshall_Tory
+James_Marshall_Tory	wasBornIn	Toronto
+James_Marshall_Tory	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+John_S._D._Tory	wasBornIn	Toronto
+John_S._D._Tory	wasBornIn	Toronto
+John_S._D._Tory	graduatedFrom	Osgoode_Hall_Law_School
+John_S._D._Tory	graduatedFrom	Osgoode_Hall_Law_School
+Osgoode_Hall_Law_School	isLocatedIn	Toronto
+Osgoode_Hall_Law_School	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Jamal_Mayers	wasBornIn	Toronto
+Jamal_Mayers	wasBornIn	Toronto
+Jamal_Mayers	isAffiliatedTo	Toronto_Maple_Leafs
+Jamal_Mayers	isAffiliatedTo	Toronto_Maple_Leafs
+Toronto_Maple_Leafs	isLocatedIn	Toronto
+Toronto_Maple_Leafs	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Jamal_Mayers	wasBornIn	Toronto
+Jamal_Mayers	wasBornIn	Toronto
+Jamal_Mayers	wasBornIn	Toronto
+Jamal_Mayers	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Chris_Diamantopoulos	wasBornIn	Toronto
+Chris_Diamantopoulos	wasBornIn	Toronto
+Chris_Diamantopoulos	wasBornIn	Toronto
+Chris_Diamantopoulos	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Woburn,_Toronto	isLocatedIn	Toronto
+Woburn,_Toronto	isLocatedIn	Toronto
+Woburn,_Toronto	isLocatedIn	Scarborough,_Toronto
+Woburn,_Toronto	isLocatedIn	Scarborough,_Toronto
+Toronto	isLocatedIn	Scarborough,_Toronto
+Scarborough,_Toronto	isLocatedIn	Toronto
+Toronto	isLocatedIn	Scarborough,_Toronto
+Scarborough,_Toronto	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Woburn,_Toronto	isLocatedIn	Toronto
+Woburn,_Toronto	isLocatedIn	Toronto
+Glenn_De_Baeremaeker	isLeaderOf	Woburn,_Toronto
+Glenn_De_Baeremaeker	isLeaderOf	Woburn,_Toronto
+Glenn_De_Baeremaeker	livesIn	Toronto
+Glenn_De_Baeremaeker	livesIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Woburn,_Toronto	isLocatedIn	Toronto
+Woburn,_Toronto	isLocatedIn	Toronto
+John_McKay_(politician)	isLeaderOf	Woburn,_Toronto
+John_McKay_(politician)	isLeaderOf	Woburn,_Toronto
+John_McKay_(politician)	wasBornIn	Toronto
+John_McKay_(politician)	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Woburn,_Toronto	isLocatedIn	Toronto
+Woburn,_Toronto	isLocatedIn	Toronto
+Woburn,_Toronto	isLocatedIn	Toronto
+Woburn,_Toronto	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Andreas_Mandelis	livesIn	Toronto
+Andreas_Mandelis	livesIn	Toronto
+Andreas_Mandelis	livesIn	Toronto
+Andreas_Mandelis	livesIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+John_Cannis	livesIn	Toronto
+John_Cannis	livesIn	Toronto
+John_Cannis	livesIn	Toronto
+John_Cannis	livesIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Rathika_Sitsabaiesan	livesIn	Toronto
+Rathika_Sitsabaiesan	livesIn	Toronto
+Rathika_Sitsabaiesan	livesIn	Toronto
+Rathika_Sitsabaiesan	livesIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Scarborough_City_Centre	isLocatedIn	Toronto
+Scarborough_City_Centre	isLocatedIn	Toronto
+Glenn_De_Baeremaeker	isLeaderOf	Scarborough_City_Centre
+Glenn_De_Baeremaeker	isLeaderOf	Scarborough_City_Centre
+Glenn_De_Baeremaeker	livesIn	Toronto
+Glenn_De_Baeremaeker	livesIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Scarborough_City_Centre	isLocatedIn	Toronto
+Scarborough_City_Centre	isLocatedIn	Toronto
+Scarborough_City_Centre	isLocatedIn	Scarborough,_Toronto
+Scarborough_City_Centre	isLocatedIn	Scarborough,_Toronto
+Toronto	isLocatedIn	Scarborough,_Toronto
+Scarborough,_Toronto	isLocatedIn	Toronto
+Toronto	isLocatedIn	Scarborough,_Toronto
+Scarborough,_Toronto	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Scarborough_City_Centre	isLocatedIn	Toronto
+Scarborough_City_Centre	isLocatedIn	Toronto
+Scarborough_City_Centre	isLocatedIn	Toronto
+Scarborough_City_Centre	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+John_A._Tory	wasBornIn	Toronto
+John_A._Tory	wasBornIn	Toronto
+John_A._Tory	graduatedFrom	Osgoode_Hall_Law_School
+John_A._Tory	graduatedFrom	Osgoode_Hall_Law_School
+Osgoode_Hall_Law_School	isLocatedIn	Toronto
+Osgoode_Hall_Law_School	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+John_A._Tory	wasBornIn	Toronto
+John_A._Tory	wasBornIn	Toronto
+John_S._D._Tory	hasChild	John_A._Tory
+John_S._D._Tory	hasChild	John_A._Tory
+John_S._D._Tory	wasBornIn	Toronto
+John_S._D._Tory	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+John_A._Tory	wasBornIn	Toronto
+John_A._Tory	wasBornIn	Toronto
+John_A._Tory	hasChild	John_Tory
+John_A._Tory	hasChild	John_Tory
+John_Tory	wasBornIn	Toronto
+John_Tory	isLeaderOf	Toronto
+John_Tory	wasBornIn	Toronto
+John_Tory	isLeaderOf	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+John_A._Tory	wasBornIn	Toronto
+John_A._Tory	wasBornIn	Toronto
+John_A._Tory	wasBornIn	Toronto
+John_A._Tory	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Carlo_Colaiacovo	wasBornIn	Toronto
+Carlo_Colaiacovo	wasBornIn	Toronto
+Carlo_Colaiacovo	isAffiliatedTo	Toronto_Maple_Leafs
+Carlo_Colaiacovo	isAffiliatedTo	Toronto_Maple_Leafs
+Toronto_Maple_Leafs	isLocatedIn	Toronto
+Toronto_Maple_Leafs	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Carlo_Colaiacovo	wasBornIn	Toronto
+Carlo_Colaiacovo	wasBornIn	Toronto
+Carlo_Colaiacovo	wasBornIn	Toronto
+Carlo_Colaiacovo	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Toronto	isLocatedIn	Scarborough,_Toronto
+Scarborough,_Toronto	isLocatedIn	Toronto
+Toronto	isLocatedIn	Scarborough,_Toronto
+Scarborough,_Toronto	isLocatedIn	Toronto
+Toronto	isLocatedIn	Scarborough,_Toronto
+Scarborough,_Toronto	isLocatedIn	Toronto
+Toronto	isLocatedIn	Scarborough,_Toronto
+Scarborough,_Toronto	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Toronto	isLocatedIn	Scarborough,_Toronto
+Scarborough,_Toronto	isLocatedIn	Toronto
+Toronto	isLocatedIn	Scarborough,_Toronto
+Scarborough,_Toronto	isLocatedIn	Toronto
+West_Hill,_Toronto	isLocatedIn	Scarborough,_Toronto
+West_Hill,_Toronto	isLocatedIn	Scarborough,_Toronto
+West_Hill,_Toronto	isLocatedIn	Toronto
+West_Hill,_Toronto	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Barbara_Frum	diedIn	Toronto
+Barbara_Frum	diedIn	Toronto
+Barbara_Frum	diedIn	Toronto
+Barbara_Frum	diedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Barbara_Frum	diedIn	Toronto
+Barbara_Frum	diedIn	Toronto
+Barbara_Frum	hasChild	Linda_Frum
+Barbara_Frum	hasChild	Linda_Frum
+Linda_Frum	wasBornIn	Toronto
+Linda_Frum	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Chrystia_Freeland	livesIn	Toronto
+Chrystia_Freeland	livesIn	Toronto
+Chrystia_Freeland	isLeaderOf	Seaton_Village
+Chrystia_Freeland	isLeaderOf	Seaton_Village
+Seaton_Village	isLocatedIn	Toronto
+Seaton_Village	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Chrystia_Freeland	livesIn	Toronto
+Chrystia_Freeland	livesIn	Toronto
+Chrystia_Freeland	isLeaderOf	The_Annex
+Chrystia_Freeland	isLeaderOf	The_Annex
+The_Annex	isLocatedIn	Toronto
+The_Annex	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Chrystia_Freeland	livesIn	Toronto
+Chrystia_Freeland	livesIn	Toronto
+Chrystia_Freeland	livesIn	Toronto
+Chrystia_Freeland	livesIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Markland_Wood	isLocatedIn	Toronto
+Markland_Wood	isLocatedIn	Toronto
+Yvan_Baker	isLeaderOf	Markland_Wood
+Yvan_Baker	isLeaderOf	Markland_Wood
+Yvan_Baker	wasBornIn	Toronto
+Yvan_Baker	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Markland_Wood	isLocatedIn	Toronto
+Markland_Wood	isLocatedIn	Toronto
+Borys_Wrzesnewskyj	isLeaderOf	Markland_Wood
+Borys_Wrzesnewskyj	isLeaderOf	Markland_Wood
+Borys_Wrzesnewskyj	livesIn	Toronto
+Borys_Wrzesnewskyj	livesIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Markland_Wood	isLocatedIn	Toronto
+Markland_Wood	isLocatedIn	Toronto
+Markland_Wood	isLocatedIn	Toronto
+Markland_Wood	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Trinity_College,_Toronto	isLocatedIn	Toronto
+Trinity_College,_Toronto	isLocatedIn	Toronto
+Patricia_Pearson	graduatedFrom	Trinity_College,_Toronto
+Patricia_Pearson	graduatedFrom	Trinity_College,_Toronto
+Patricia_Pearson	livesIn	Toronto
+Patricia_Pearson	livesIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Trinity_College,_Toronto	isLocatedIn	Toronto
+Trinity_College,_Toronto	isLocatedIn	Toronto
+J._M._S._Careless	graduatedFrom	Trinity_College,_Toronto
+J._M._S._Careless	graduatedFrom	Trinity_College,_Toronto
+J._M._S._Careless	diedIn	Toronto
+J._M._S._Careless	wasBornIn	Toronto
+J._M._S._Careless	diedIn	Toronto
+J._M._S._Careless	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Trinity_College,_Toronto	isLocatedIn	Toronto
+Trinity_College,_Toronto	isLocatedIn	Toronto
+Michael_Ignatieff	graduatedFrom	Trinity_College,_Toronto
+Michael_Ignatieff	graduatedFrom	Trinity_College,_Toronto
+Michael_Ignatieff	wasBornIn	Toronto
+Michael_Ignatieff	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Trinity_College,_Toronto	isLocatedIn	Toronto
+Trinity_College,_Toronto	isLocatedIn	Toronto
+Charles_Jennings_(journalist)	graduatedFrom	Trinity_College,_Toronto
+Charles_Jennings_(journalist)	graduatedFrom	Trinity_College,_Toronto
+Charles_Jennings_(journalist)	wasBornIn	Toronto
+Charles_Jennings_(journalist)	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Trinity_College,_Toronto	isLocatedIn	Toronto
+Trinity_College,_Toronto	isLocatedIn	Toronto
+Trinity_College,_Toronto	isLocatedIn	Toronto
+Trinity_College,_Toronto	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Malvern,_Toronto	isLocatedIn	Toronto
+Malvern,_Toronto	isLocatedIn	Toronto
+Malvern,_Toronto	isLocatedIn	Scarborough,_Toronto
+Malvern,_Toronto	isLocatedIn	Scarborough,_Toronto
+Toronto	isLocatedIn	Scarborough,_Toronto
+Scarborough,_Toronto	isLocatedIn	Toronto
+Toronto	isLocatedIn	Scarborough,_Toronto
+Scarborough,_Toronto	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Malvern,_Toronto	isLocatedIn	Toronto
+Malvern,_Toronto	isLocatedIn	Toronto
+Shaun_Chen_(politician)	isLeaderOf	Malvern,_Toronto
+Shaun_Chen_(politician)	isLeaderOf	Malvern,_Toronto
+Shaun_Chen_(politician)	wasBornIn	Toronto
+Shaun_Chen_(politician)	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Malvern,_Toronto	isLocatedIn	Toronto
+Malvern,_Toronto	isLocatedIn	Toronto
+Malvern,_Toronto	isLocatedIn	Toronto
+Malvern,_Toronto	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Jeremy_Podeswa	wasBornIn	Toronto
+Jeremy_Podeswa	wasBornIn	Toronto
+Jeremy_Podeswa	wasBornIn	Toronto
+Jeremy_Podeswa	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Don_Harron	diedIn	Toronto
+Don_Harron	wasBornIn	Toronto
+Don_Harron	diedIn	Toronto
+Don_Harron	wasBornIn	Toronto
+Don_Harron	diedIn	Toronto
+Don_Harron	wasBornIn	Toronto
+Don_Harron	diedIn	Toronto
+Don_Harron	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Leaside	isLocatedIn	Toronto
+Leaside	isLocatedIn	Toronto
+Leaside	isLocatedIn	East_York
+Leaside	isLocatedIn	East_York
+Toronto	isLocatedIn	East_York
+East_York	isLocatedIn	Toronto
+Toronto	isLocatedIn	East_York
+East_York	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Leaside	isLocatedIn	Toronto
+Leaside	isLocatedIn	Toronto
+Rob_Oliphant	isLeaderOf	Leaside
+Rob_Oliphant	isLeaderOf	Leaside
+Rob_Oliphant	livesIn	Toronto
+Rob_Oliphant	livesIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Leaside	isLocatedIn	Toronto
+Leaside	isLocatedIn	Toronto
+Kathleen_Wynne	isLeaderOf	Leaside
+Kathleen_Wynne	isLeaderOf	Leaside
+Kathleen_Wynne	wasBornIn	Toronto
+Kathleen_Wynne	livesIn	Toronto
+Kathleen_Wynne	wasBornIn	Toronto
+Kathleen_Wynne	livesIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Leaside	isLocatedIn	Toronto
+Leaside	isLocatedIn	Toronto
+Leaside	isLocatedIn	Toronto
+Leaside	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+J._M._S._Careless	diedIn	Toronto
+J._M._S._Careless	wasBornIn	Toronto
+J._M._S._Careless	diedIn	Toronto
+J._M._S._Careless	wasBornIn	Toronto
+J._M._S._Careless	diedIn	Toronto
+J._M._S._Careless	wasBornIn	Toronto
+J._M._S._Careless	diedIn	Toronto
+J._M._S._Careless	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Bob_Essensa	wasBornIn	Toronto
+Bob_Essensa	wasBornIn	Toronto
+Bob_Essensa	wasBornIn	Toronto
+Bob_Essensa	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Michele_Landsberg	wasBornIn	Toronto
+Michele_Landsberg	wasBornIn	Toronto
+Michele_Landsberg	isMarriedTo	Stephen_Lewis
+Stephen_Lewis	isMarriedTo	Michele_Landsberg
+Michele_Landsberg	isMarriedTo	Stephen_Lewis
+Stephen_Lewis	isMarriedTo	Michele_Landsberg
+Stephen_Lewis	livesIn	Toronto
+Stephen_Lewis	livesIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Michele_Landsberg	wasBornIn	Toronto
+Michele_Landsberg	wasBornIn	Toronto
+Michele_Landsberg	wasBornIn	Toronto
+Michele_Landsberg	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Peggy_Nash	wasBornIn	Toronto
+Peggy_Nash	livesIn	Toronto
+Peggy_Nash	wasBornIn	Toronto
+Peggy_Nash	livesIn	Toronto
+Peggy_Nash	wasBornIn	Toronto
+Peggy_Nash	livesIn	Toronto
+Peggy_Nash	wasBornIn	Toronto
+Peggy_Nash	livesIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Runnymede,_Toronto	isLocatedIn	Toronto
+Runnymede,_Toronto	isLocatedIn	Toronto
+Runnymede,_Toronto	isLocatedIn	Old_Toronto
+Runnymede,_Toronto	isLocatedIn	Old_Toronto
+Old_Toronto	isLocatedIn	Toronto
+Toronto	isLocatedIn	Old_Toronto
+Old_Toronto	isLocatedIn	Toronto
+Toronto	isLocatedIn	Old_Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Runnymede,_Toronto	isLocatedIn	Toronto
+Runnymede,_Toronto	isLocatedIn	Toronto
+Peggy_Nash	isLeaderOf	Runnymede,_Toronto
+Peggy_Nash	isLeaderOf	Runnymede,_Toronto
+Peggy_Nash	wasBornIn	Toronto
+Peggy_Nash	livesIn	Toronto
+Peggy_Nash	wasBornIn	Toronto
+Peggy_Nash	livesIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Runnymede,_Toronto	isLocatedIn	Toronto
+Runnymede,_Toronto	isLocatedIn	Toronto
+Cheri_DiNovo	isLeaderOf	Runnymede,_Toronto
+Cheri_DiNovo	isLeaderOf	Runnymede,_Toronto
+Cheri_DiNovo	wasBornIn	Toronto
+Cheri_DiNovo	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Runnymede,_Toronto	isLocatedIn	Toronto
+Runnymede,_Toronto	isLocatedIn	Toronto
+Runnymede,_Toronto	isLocatedIn	Toronto
+Runnymede,_Toronto	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+George_Jonas	diedIn	Toronto
+George_Jonas	diedIn	Toronto
+George_Jonas	isMarriedTo	Barbara_Amiel
+Barbara_Amiel	isMarriedTo	George_Jonas
+George_Jonas	isMarriedTo	Barbara_Amiel
+Barbara_Amiel	isMarriedTo	George_Jonas
+Barbara_Amiel	livesIn	Toronto
+Barbara_Amiel	livesIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+George_Jonas	diedIn	Toronto
+George_Jonas	diedIn	Toronto
+George_Jonas	diedIn	Toronto
+George_Jonas	diedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Scarborough_Village	isLocatedIn	Toronto
+Scarborough_Village	isLocatedIn	Toronto
+Gary_Crawford_(politician)	isLeaderOf	Scarborough_Village
+Gary_Crawford_(politician)	isLeaderOf	Scarborough_Village
+Gary_Crawford_(politician)	livesIn	Toronto
+Gary_Crawford_(politician)	livesIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Scarborough_Village	isLocatedIn	Toronto
+Scarborough_Village	isLocatedIn	Toronto
+John_McKay_(politician)	isLeaderOf	Scarborough_Village
+John_McKay_(politician)	isLeaderOf	Scarborough_Village
+John_McKay_(politician)	wasBornIn	Toronto
+John_McKay_(politician)	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Scarborough_Village	isLocatedIn	Toronto
+Scarborough_Village	isLocatedIn	Toronto
+Scarborough_Village	isLocatedIn	Scarborough,_Toronto
+Scarborough_Village	isLocatedIn	Scarborough,_Toronto
+Toronto	isLocatedIn	Scarborough,_Toronto
+Scarborough,_Toronto	isLocatedIn	Toronto
+Toronto	isLocatedIn	Scarborough,_Toronto
+Scarborough,_Toronto	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Scarborough_Village	isLocatedIn	Toronto
+Scarborough_Village	isLocatedIn	Toronto
+Scarborough_Village	isLocatedIn	Toronto
+Scarborough_Village	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Michael_Levitt_(politician)	livesIn	Toronto
+Michael_Levitt_(politician)	livesIn	Toronto
+Michael_Levitt_(politician)	isLeaderOf	Bathurst_Manor
+Michael_Levitt_(politician)	isLeaderOf	Bathurst_Manor
+Bathurst_Manor	isLocatedIn	Toronto
+Bathurst_Manor	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Michael_Levitt_(politician)	livesIn	Toronto
+Michael_Levitt_(politician)	livesIn	Toronto
+Michael_Levitt_(politician)	isLeaderOf	Clanton_Park,_Toronto
+Michael_Levitt_(politician)	isLeaderOf	Clanton_Park,_Toronto
+Clanton_Park,_Toronto	isLocatedIn	Toronto
+Clanton_Park,_Toronto	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Michael_Levitt_(politician)	livesIn	Toronto
+Michael_Levitt_(politician)	livesIn	Toronto
+Michael_Levitt_(politician)	livesIn	Toronto
+Michael_Levitt_(politician)	livesIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Borys_Wrzesnewskyj	livesIn	Toronto
+Borys_Wrzesnewskyj	livesIn	Toronto
+Borys_Wrzesnewskyj	isLeaderOf	Eringate_–_Centennial_–_West_Deane
+Borys_Wrzesnewskyj	isLeaderOf	Eringate_–_Centennial_–_West_Deane
+Eringate_–_Centennial_–_West_Deane	isLocatedIn	Toronto
+Eringate_–_Centennial_–_West_Deane	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Borys_Wrzesnewskyj	livesIn	Toronto
+Borys_Wrzesnewskyj	livesIn	Toronto
+Borys_Wrzesnewskyj	isLeaderOf	Markland_Wood
+Borys_Wrzesnewskyj	isLeaderOf	Markland_Wood
+Markland_Wood	isLocatedIn	Toronto
+Markland_Wood	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Borys_Wrzesnewskyj	livesIn	Toronto
+Borys_Wrzesnewskyj	livesIn	Toronto
+Borys_Wrzesnewskyj	livesIn	Toronto
+Borys_Wrzesnewskyj	livesIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Borys_Wrzesnewskyj	livesIn	Toronto
+Borys_Wrzesnewskyj	livesIn	Toronto
+Borys_Wrzesnewskyj	isLeaderOf	Thorncrest_Village
+Borys_Wrzesnewskyj	isLeaderOf	Thorncrest_Village
+Thorncrest_Village	isLocatedIn	Toronto
+Thorncrest_Village	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Keith_Primeau	wasBornIn	Toronto
+Keith_Primeau	wasBornIn	Toronto
+Keith_Primeau	wasBornIn	Toronto
+Keith_Primeau	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Normie_Smith	wasBornIn	Toronto
+Normie_Smith	wasBornIn	Toronto
+Normie_Smith	wasBornIn	Toronto
+Normie_Smith	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Peter_Tabuns	livesIn	Toronto
+Peter_Tabuns	livesIn	Toronto
+Peter_Tabuns	isLeaderOf	Pape_Village
+Peter_Tabuns	isLeaderOf	Pape_Village
+Pape_Village	isLocatedIn	Toronto
+Pape_Village	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Peter_Tabuns	livesIn	Toronto
+Peter_Tabuns	livesIn	Toronto
+Peter_Tabuns	isLeaderOf	Old_East_York
+Peter_Tabuns	isLeaderOf	Old_East_York
+Old_East_York	isLocatedIn	Toronto
+Old_East_York	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Peter_Tabuns	livesIn	Toronto
+Peter_Tabuns	livesIn	Toronto
+Peter_Tabuns	isLeaderOf	East_York
+Peter_Tabuns	isLeaderOf	East_York
+Toronto	isLocatedIn	East_York
+East_York	isLocatedIn	Toronto
+Toronto	isLocatedIn	East_York
+East_York	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Peter_Tabuns	livesIn	Toronto
+Peter_Tabuns	livesIn	Toronto
+Peter_Tabuns	livesIn	Toronto
+Peter_Tabuns	livesIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Trevor_Daley	wasBornIn	Toronto
+Trevor_Daley	wasBornIn	Toronto
+Trevor_Daley	wasBornIn	Toronto
+Trevor_Daley	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+John_Friedlander	wasBornIn	Toronto
+John_Friedlander	wasBornIn	Toronto
+John_Friedlander	wasBornIn	Toronto
+John_Friedlander	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+CIBC_Mellon	isLocatedIn	Toronto
+CIBC_Mellon	isLocatedIn	Toronto
+Canadian_Imperial_Bank_of_Commerce	owns	CIBC_Mellon
+Canadian_Imperial_Bank_of_Commerce	owns	CIBC_Mellon
+Canadian_Imperial_Bank_of_Commerce	isLocatedIn	Toronto
+Canadian_Imperial_Bank_of_Commerce	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+CIBC_Mellon	isLocatedIn	Toronto
+CIBC_Mellon	isLocatedIn	Toronto
+CIBC_Mellon	isLocatedIn	Toronto
+CIBC_Mellon	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Yasmin_Ratansi	livesIn	Toronto
+Yasmin_Ratansi	livesIn	Toronto
+Yasmin_Ratansi	livesIn	Toronto
+Yasmin_Ratansi	livesIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Jim_Roberts_(ice_hockey,_born_1940)	wasBornIn	Toronto
+Jim_Roberts_(ice_hockey,_born_1940)	wasBornIn	Toronto
+Jim_Roberts_(ice_hockey,_born_1940)	wasBornIn	Toronto
+Jim_Roberts_(ice_hockey,_born_1940)	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Janet_Davis	livesIn	Toronto
+Janet_Davis	livesIn	Toronto
+Janet_Davis	isLeaderOf	East_Danforth
+Janet_Davis	isLeaderOf	East_Danforth
+East_Danforth	isLocatedIn	Toronto
+East_Danforth	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Janet_Davis	livesIn	Toronto
+Janet_Davis	livesIn	Toronto
+Janet_Davis	isLeaderOf	Old_East_York
+Janet_Davis	isLeaderOf	Old_East_York
+Old_East_York	isLocatedIn	Toronto
+Old_East_York	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Janet_Davis	livesIn	Toronto
+Janet_Davis	livesIn	Toronto
+Janet_Davis	isLeaderOf	O'Connor–Parkview
+Janet_Davis	isLeaderOf	O'Connor–Parkview
+O'Connor–Parkview	isLocatedIn	Toronto
+O'Connor–Parkview	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Janet_Davis	livesIn	Toronto
+Janet_Davis	livesIn	Toronto
+Janet_Davis	isLeaderOf	East_York
+Janet_Davis	isLeaderOf	East_York
+Toronto	isLocatedIn	East_York
+East_York	isLocatedIn	Toronto
+Toronto	isLocatedIn	East_York
+East_York	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Janet_Davis	livesIn	Toronto
+Janet_Davis	livesIn	Toronto
+Janet_Davis	isLeaderOf	Crescent_Town
+Janet_Davis	isLeaderOf	Crescent_Town
+Crescent_Town	isLocatedIn	Toronto
+Crescent_Town	isLocatedIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Janet_Davis	livesIn	Toronto
+Janet_Davis	livesIn	Toronto
+Janet_Davis	livesIn	Toronto
+Janet_Davis	livesIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Toronto
+Toronto	Toronto
+Lisa_Robertson	wasBornIn	Toronto
+Lisa_Robertson	wasBornIn	Toronto
+Lisa_Robertson	wasBornIn	Toronto
+Lisa_Robertson	wasBornIn	Toronto
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Illinois
+Toronto	Illinois
+Jamal_Mayers	wasBornIn	Toronto
+Jamal_Mayers	wasBornIn	Toronto
+Jamal_Mayers	isAffiliatedTo	Chicago_Blackhawks
+Jamal_Mayers	isAffiliatedTo	Chicago_Blackhawks
+Chicago_Blackhawks	isLocatedIn	Illinois
+Chicago_Blackhawks	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Toronto	http://dbpedia.org/ontology/twinCountry	http://dbpedia.org/resource/Illinois
+Toronto	Illinois
+Trevor_Daley	wasBornIn	Toronto
+Trevor_Daley	wasBornIn	Toronto
+Trevor_Daley	isAffiliatedTo	Chicago_Blackhawks
+Trevor_Daley	isAffiliatedTo	Chicago_Blackhawks
+Chicago_Blackhawks	isLocatedIn	Illinois
+Chicago_Blackhawks	isLocatedIn	Illinois
+

@@ -1,0 +1,378 @@
+http://dbpedia.org/resource/Anker_Jørgensen	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Margrethe_II_of_Denmark
+Anker_Jørgensen	Margrethe_II_of_Denmark
+Anker_Jørgensen	isPoliticianOf	Denmark
+Anker_Jørgensen	isCitizenOf	Denmark
+Anker_Jørgensen	isPoliticianOf	Denmark
+Anker_Jørgensen	isCitizenOf	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Anker_Jørgensen	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Margrethe_II_of_Denmark
+Anker_Jørgensen	Margrethe_II_of_Denmark
+Anker_Jørgensen	diedIn	Copenhagen
+Anker_Jørgensen	wasBornIn	Copenhagen
+Anker_Jørgensen	diedIn	Copenhagen
+Anker_Jørgensen	wasBornIn	Copenhagen
+Copenhagen	isLocatedIn	Denmark
+Denmark	hasCapital	Copenhagen
+Copenhagen	isLocatedIn	Denmark
+Denmark	hasCapital	Copenhagen
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Bikenibeu_Paeniu	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Elizabeth_II
+Bikenibeu_Paeniu	Elizabeth_II
+Bikenibeu_Paeniu	isPoliticianOf	Tuvalu
+Bikenibeu_Paeniu	isCitizenOf	Tuvalu
+Bikenibeu_Paeniu	isPoliticianOf	Tuvalu
+Bikenibeu_Paeniu	isCitizenOf	Tuvalu
+Elizabeth_II	isLeaderOf	Tuvalu
+Elizabeth_II	isCitizenOf	Tuvalu
+Elizabeth_II	isLeaderOf	Tuvalu
+Elizabeth_II	isCitizenOf	Tuvalu
+
+http://dbpedia.org/resource/Mahathir_Mohamad	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Mizan_Zainal_Abidin_of_Terengganu
+Mahathir_Mohamad	Mizan_Zainal_Abidin_of_Terengganu
+Mahathir_Mohamad	isCitizenOf	Malaysia
+Mahathir_Mohamad	isPoliticianOf	Malaysia
+Mahathir_Mohamad	isCitizenOf	Malaysia
+Mahathir_Mohamad	isPoliticianOf	Malaysia
+Mizan_Zainal_Abidin_of_Terengganu	isCitizenOf	Malaysia
+Mizan_Zainal_Abidin_of_Terengganu	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Mahathir_Mohamad	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Mizan_Zainal_Abidin_of_Terengganu
+Mahathir_Mohamad	Mizan_Zainal_Abidin_of_Terengganu
+Mahathir_Mohamad	isLeaderOf	Pakatan_Harapan
+Mahathir_Mohamad	isLeaderOf	Pakatan_Harapan
+Pakatan_Harapan	isLocatedIn	Malaysia
+Pakatan_Harapan	isLocatedIn	Malaysia
+Mizan_Zainal_Abidin_of_Terengganu	isCitizenOf	Malaysia
+Mizan_Zainal_Abidin_of_Terengganu	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Mahathir_Mohamad	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Mizan_Zainal_Abidin_of_Terengganu
+Mahathir_Mohamad	Mizan_Zainal_Abidin_of_Terengganu
+Siti_Hasmah_Mohamad_Ali	isMarriedTo	Mahathir_Mohamad
+Mahathir_Mohamad	isMarriedTo	Siti_Hasmah_Mohamad_Ali
+Siti_Hasmah_Mohamad_Ali	isMarriedTo	Mahathir_Mohamad
+Mahathir_Mohamad	isMarriedTo	Siti_Hasmah_Mohamad_Ali
+Siti_Hasmah_Mohamad_Ali	isPoliticianOf	Malaysia
+Siti_Hasmah_Mohamad_Ali	isCitizenOf	Malaysia
+Siti_Hasmah_Mohamad_Ali	isPoliticianOf	Malaysia
+Siti_Hasmah_Mohamad_Ali	isCitizenOf	Malaysia
+Mizan_Zainal_Abidin_of_Terengganu	isCitizenOf	Malaysia
+Mizan_Zainal_Abidin_of_Terengganu	isCitizenOf	Malaysia
+
+http://dbpedia.org/resource/Poul_Schlüter	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Margrethe_II_of_Denmark
+Poul_Schlüter	Margrethe_II_of_Denmark
+Poul_Schlüter	isPoliticianOf	Denmark
+Poul_Schlüter	isCitizenOf	Denmark
+Poul_Schlüter	isPoliticianOf	Denmark
+Poul_Schlüter	isCitizenOf	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Poul_Schlüter	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Margrethe_II_of_Denmark
+Poul_Schlüter	Margrethe_II_of_Denmark
+Poul_Schlüter	wasBornIn	Tønder
+Poul_Schlüter	wasBornIn	Tønder
+Tønder	isLocatedIn	Denmark
+Tønder	isLocatedIn	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Poul_Schlüter	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Margrethe_II_of_Denmark
+Poul_Schlüter	Margrethe_II_of_Denmark
+Poul_Schlüter	isAffiliatedTo	Conservative_People's_Party_(Denmark)
+Poul_Schlüter	isAffiliatedTo	Conservative_People's_Party_(Denmark)
+Conservative_People's_Party_(Denmark)	isLocatedIn	Denmark
+Conservative_People's_Party_(Denmark)	isLocatedIn	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Nubar_Pasha	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Isma'il_Pasha
+Nubar_Pasha	Isma'il_Pasha
+Nubar_Pasha	isPoliticianOf	Egypt
+Nubar_Pasha	isCitizenOf	Egypt
+Nubar_Pasha	isPoliticianOf	Egypt
+Nubar_Pasha	isCitizenOf	Egypt
+Isma'il_Pasha	isCitizenOf	Egypt
+Isma'il_Pasha	isPoliticianOf	Egypt
+Isma'il_Pasha	isCitizenOf	Egypt
+Isma'il_Pasha	isPoliticianOf	Egypt
+
+http://dbpedia.org/resource/Kaj_Leo_Johannesen	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Margrethe_II_of_Denmark
+Kaj_Leo_Johannesen	Margrethe_II_of_Denmark
+Kaj_Leo_Johannesen	isCitizenOf	Denmark
+Kaj_Leo_Johannesen	isCitizenOf	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Ionatana_Ionatana	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Elizabeth_II
+Ionatana_Ionatana	Elizabeth_II
+Ionatana_Ionatana	wasBornIn	Funafuti
+Ionatana_Ionatana	diedIn	Funafuti
+Ionatana_Ionatana	wasBornIn	Funafuti
+Ionatana_Ionatana	diedIn	Funafuti
+Funafuti	isLocatedIn	Tuvalu
+Tuvalu	hasCapital	Funafuti
+Funafuti	isLocatedIn	Tuvalu
+Tuvalu	hasCapital	Funafuti
+Elizabeth_II	isLeaderOf	Tuvalu
+Elizabeth_II	isCitizenOf	Tuvalu
+Elizabeth_II	isLeaderOf	Tuvalu
+Elizabeth_II	isCitizenOf	Tuvalu
+
+http://dbpedia.org/resource/Abdelsalam_al-Majali	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Hussein_of_Jordan
+Abdelsalam_al-Majali	Hussein_of_Jordan
+Abdelsalam_al-Majali	livesIn	Amman
+Abdelsalam_al-Majali	livesIn	Amman
+Princess_Iman_bint_Hussein	wasBornIn	Amman
+Princess_Iman_bint_Hussein	wasBornIn	Amman
+Hussein_of_Jordan	hasChild	Princess_Iman_bint_Hussein
+Hussein_of_Jordan	hasChild	Princess_Iman_bint_Hussein
+
+http://dbpedia.org/resource/Abdelsalam_al-Majali	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Hussein_of_Jordan
+Abdelsalam_al-Majali	Hussein_of_Jordan
+Abdelsalam_al-Majali	livesIn	Amman
+Abdelsalam_al-Majali	livesIn	Amman
+Hussein_of_Jordan	wasBornIn	Amman
+Hussein_of_Jordan	diedIn	Amman
+Hussein_of_Jordan	wasBornIn	Amman
+Hussein_of_Jordan	diedIn	Amman
+
+http://dbpedia.org/resource/Lars_Løkke_Rasmussen	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Margrethe_II_of_Denmark
+Lars_Løkke_Rasmussen	Margrethe_II_of_Denmark
+Sólrun_Løkke_Rasmussen	isMarriedTo	Lars_Løkke_Rasmussen
+Lars_Løkke_Rasmussen	isMarriedTo	Sólrun_Løkke_Rasmussen
+Sólrun_Løkke_Rasmussen	isMarriedTo	Lars_Løkke_Rasmussen
+Lars_Løkke_Rasmussen	isMarriedTo	Sólrun_Løkke_Rasmussen
+Sólrun_Løkke_Rasmussen	isCitizenOf	Denmark
+Sólrun_Løkke_Rasmussen	isPoliticianOf	Denmark
+Sólrun_Løkke_Rasmussen	isCitizenOf	Denmark
+Sólrun_Løkke_Rasmussen	isPoliticianOf	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Lars_Løkke_Rasmussen	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Margrethe_II_of_Denmark
+Lars_Løkke_Rasmussen	Margrethe_II_of_Denmark
+Lars_Løkke_Rasmussen	isPoliticianOf	Denmark
+Lars_Løkke_Rasmussen	isLeaderOf	Denmark
+Lars_Løkke_Rasmussen	isCitizenOf	Denmark
+Lars_Løkke_Rasmussen	isPoliticianOf	Denmark
+Lars_Løkke_Rasmussen	isLeaderOf	Denmark
+Lars_Løkke_Rasmussen	isCitizenOf	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Zaid_ibn_Shaker	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Hussein_of_Jordan
+Zaid_ibn_Shaker	Hussein_of_Jordan
+Zaid_ibn_Shaker	livesIn	Amman
+Zaid_ibn_Shaker	wasBornIn	Amman
+Zaid_ibn_Shaker	livesIn	Amman
+Zaid_ibn_Shaker	wasBornIn	Amman
+Princess_Iman_bint_Hussein	wasBornIn	Amman
+Princess_Iman_bint_Hussein	wasBornIn	Amman
+Hussein_of_Jordan	hasChild	Princess_Iman_bint_Hussein
+Hussein_of_Jordan	hasChild	Princess_Iman_bint_Hussein
+
+http://dbpedia.org/resource/Zaid_ibn_Shaker	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Hussein_of_Jordan
+Zaid_ibn_Shaker	Hussein_of_Jordan
+Zaid_ibn_Shaker	livesIn	Amman
+Zaid_ibn_Shaker	wasBornIn	Amman
+Zaid_ibn_Shaker	livesIn	Amman
+Zaid_ibn_Shaker	wasBornIn	Amman
+Hussein_of_Jordan	wasBornIn	Amman
+Hussein_of_Jordan	diedIn	Amman
+Hussein_of_Jordan	wasBornIn	Amman
+Hussein_of_Jordan	diedIn	Amman
+
+http://dbpedia.org/resource/Abdul_Razak_Hussein	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Putra_of_Perlis
+Abdul_Razak_Hussein	Putra_of_Perlis
+Abdul_Razak_Hussein	hasChild	Nazir_Razak
+Abdul_Razak_Hussein	hasChild	Nazir_Razak
+Nazir_Razak	wasBornIn	Kuala_Lumpur
+Nazir_Razak	wasBornIn	Kuala_Lumpur
+Putra_of_Perlis	diedIn	Kuala_Lumpur
+Putra_of_Perlis	diedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/Abdul_Razak_Hussein	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Putra_of_Perlis
+Abdul_Razak_Hussein	Putra_of_Perlis
+Abdul_Razak_Hussein	graduatedFrom	University_of_Malaya
+Abdul_Razak_Hussein	graduatedFrom	University_of_Malaya
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+Putra_of_Perlis	diedIn	Kuala_Lumpur
+Putra_of_Perlis	diedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/Henry_Puna	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Elizabeth_II
+Henry_Puna	Elizabeth_II
+Henry_Puna	isPoliticianOf	Cook_Islands
+Henry_Puna	isCitizenOf	Cook_Islands
+Henry_Puna	isLeaderOf	Cook_Islands
+Henry_Puna	isPoliticianOf	Cook_Islands
+Henry_Puna	isCitizenOf	Cook_Islands
+Henry_Puna	isLeaderOf	Cook_Islands
+Elizabeth_II	isLeaderOf	Cook_Islands
+Elizabeth_II	isLeaderOf	Cook_Islands
+
+http://dbpedia.org/resource/Helle_Thorning-Schmidt	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Margrethe_II_of_Denmark
+Helle_Thorning-Schmidt	Margrethe_II_of_Denmark
+Stephen_Kinnock	isMarriedTo	Helle_Thorning-Schmidt
+Helle_Thorning-Schmidt	isMarriedTo	Stephen_Kinnock
+Stephen_Kinnock	isMarriedTo	Helle_Thorning-Schmidt
+Helle_Thorning-Schmidt	isMarriedTo	Stephen_Kinnock
+Stephen_Kinnock	isCitizenOf	Denmark
+Stephen_Kinnock	isPoliticianOf	Denmark
+Stephen_Kinnock	isCitizenOf	Denmark
+Stephen_Kinnock	isPoliticianOf	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Helle_Thorning-Schmidt	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Margrethe_II_of_Denmark
+Helle_Thorning-Schmidt	Margrethe_II_of_Denmark
+Helle_Thorning-Schmidt	isPoliticianOf	Denmark
+Helle_Thorning-Schmidt	isCitizenOf	Denmark
+Helle_Thorning-Schmidt	isPoliticianOf	Denmark
+Helle_Thorning-Schmidt	isCitizenOf	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Toaripi_Lauti	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Elizabeth_II
+Toaripi_Lauti	Elizabeth_II
+Toaripi_Lauti	isCitizenOf	Tuvalu
+Toaripi_Lauti	isPoliticianOf	Tuvalu
+Toaripi_Lauti	isCitizenOf	Tuvalu
+Toaripi_Lauti	isPoliticianOf	Tuvalu
+Elizabeth_II	isLeaderOf	Tuvalu
+Elizabeth_II	isCitizenOf	Tuvalu
+Elizabeth_II	isLeaderOf	Tuvalu
+Elizabeth_II	isCitizenOf	Tuvalu
+
+http://dbpedia.org/resource/Freundel_Stuart	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Elizabeth_II
+Freundel_Stuart	Elizabeth_II
+Freundel_Stuart	isCitizenOf	Barbados
+Freundel_Stuart	isLeaderOf	Barbados
+Freundel_Stuart	isPoliticianOf	Barbados
+Freundel_Stuart	isCitizenOf	Barbados
+Freundel_Stuart	isLeaderOf	Barbados
+Freundel_Stuart	isPoliticianOf	Barbados
+Elizabeth_II	isCitizenOf	Barbados
+Elizabeth_II	isLeaderOf	Barbados
+Elizabeth_II	isCitizenOf	Barbados
+Elizabeth_II	isLeaderOf	Barbados
+
+http://dbpedia.org/resource/Sólrun_Løkke_Rasmussen	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Margrethe_II_of_Denmark
+Sólrun_Løkke_Rasmussen	Margrethe_II_of_Denmark
+Sólrun_Løkke_Rasmussen	isMarriedTo	Lars_Løkke_Rasmussen
+Lars_Løkke_Rasmussen	isMarriedTo	Sólrun_Løkke_Rasmussen
+Sólrun_Løkke_Rasmussen	isMarriedTo	Lars_Løkke_Rasmussen
+Lars_Løkke_Rasmussen	isMarriedTo	Sólrun_Løkke_Rasmussen
+Lars_Løkke_Rasmussen	isPoliticianOf	Denmark
+Lars_Løkke_Rasmussen	isLeaderOf	Denmark
+Lars_Løkke_Rasmussen	isCitizenOf	Denmark
+Lars_Løkke_Rasmussen	isPoliticianOf	Denmark
+Lars_Løkke_Rasmussen	isLeaderOf	Denmark
+Lars_Løkke_Rasmussen	isCitizenOf	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Sólrun_Løkke_Rasmussen	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Margrethe_II_of_Denmark
+Sólrun_Løkke_Rasmussen	Margrethe_II_of_Denmark
+Sólrun_Løkke_Rasmussen	isCitizenOf	Denmark
+Sólrun_Løkke_Rasmussen	isPoliticianOf	Denmark
+Sólrun_Løkke_Rasmussen	isCitizenOf	Denmark
+Sólrun_Løkke_Rasmussen	isPoliticianOf	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+Margrethe_II_of_Denmark	isLeaderOf	Denmark
+Margrethe_II_of_Denmark	isCitizenOf	Denmark
+
+http://dbpedia.org/resource/Al-Muhtadee_Billah	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Hassanal_Bolkiah
+Al-Muhtadee_Billah	Hassanal_Bolkiah
+Al-Muhtadee_Billah	isCitizenOf	Brunei
+Al-Muhtadee_Billah	isLeaderOf	Brunei
+Al-Muhtadee_Billah	isCitizenOf	Brunei
+Al-Muhtadee_Billah	isLeaderOf	Brunei
+Hassanal_Bolkiah	isLeaderOf	Brunei
+Hassanal_Bolkiah	isCitizenOf	Brunei
+Hassanal_Bolkiah	isLeaderOf	Brunei
+Hassanal_Bolkiah	isCitizenOf	Brunei
+
+http://dbpedia.org/resource/Al-Muhtadee_Billah	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Hassanal_Bolkiah
+Al-Muhtadee_Billah	Hassanal_Bolkiah
+Al-Muhtadee_Billah	isMarriedTo	Sarah,_Crown_Princess_of_Brunei
+Sarah,_Crown_Princess_of_Brunei	isMarriedTo	Al-Muhtadee_Billah
+Al-Muhtadee_Billah	isMarriedTo	Sarah,_Crown_Princess_of_Brunei
+Sarah,_Crown_Princess_of_Brunei	isMarriedTo	Al-Muhtadee_Billah
+Al-Muhtadee_Billah	isMarriedTo	Sarah,_Crown_Princess_of_Brunei
+Sarah,_Crown_Princess_of_Brunei	isMarriedTo	Al-Muhtadee_Billah
+Al-Muhtadee_Billah	isMarriedTo	Sarah,_Crown_Princess_of_Brunei
+Sarah,_Crown_Princess_of_Brunei	isMarriedTo	Al-Muhtadee_Billah
+Hassanal_Bolkiah	hasChild	Al-Muhtadee_Billah
+Hassanal_Bolkiah	hasChild	Al-Muhtadee_Billah
+
+http://dbpedia.org/resource/Al-Muhtadee_Billah	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Hassanal_Bolkiah
+Al-Muhtadee_Billah	Hassanal_Bolkiah
+Queen_Saleha_of_Brunei	hasChild	Al-Muhtadee_Billah
+Queen_Saleha_of_Brunei	hasChild	Al-Muhtadee_Billah
+Queen_Saleha_of_Brunei	isMarriedTo	Hassanal_Bolkiah
+Hassanal_Bolkiah	isMarriedTo	Queen_Saleha_of_Brunei
+Queen_Saleha_of_Brunei	isMarriedTo	Hassanal_Bolkiah
+Hassanal_Bolkiah	isMarriedTo	Queen_Saleha_of_Brunei
+
+http://dbpedia.org/resource/Al-Muhtadee_Billah	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Hassanal_Bolkiah
+Al-Muhtadee_Billah	Hassanal_Bolkiah
+Hassanal_Bolkiah	hasChild	Al-Muhtadee_Billah
+Hassanal_Bolkiah	hasChild	Al-Muhtadee_Billah
+
+http://dbpedia.org/resource/Al-Muhtadee_Billah	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Hassanal_Bolkiah
+Al-Muhtadee_Billah	Hassanal_Bolkiah
+Al-Muhtadee_Billah	hasChild	Abdul_Muntaqim
+Al-Muhtadee_Billah	hasChild	Abdul_Muntaqim
+Abdul_Muntaqim	isCitizenOf	Brunei
+Abdul_Muntaqim	isCitizenOf	Brunei
+Hassanal_Bolkiah	isLeaderOf	Brunei
+Hassanal_Bolkiah	isCitizenOf	Brunei
+Hassanal_Bolkiah	isLeaderOf	Brunei
+Hassanal_Bolkiah	isCitizenOf	Brunei
+
+http://dbpedia.org/resource/Al-Muhtadee_Billah	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Hassanal_Bolkiah
+Al-Muhtadee_Billah	Hassanal_Bolkiah
+Al-Muhtadee_Billah	hasChild	Abdul_Muntaqim
+Al-Muhtadee_Billah	hasChild	Abdul_Muntaqim
+Al-Muhtadee_Billah	hasChild	Abdul_Muntaqim
+Al-Muhtadee_Billah	hasChild	Abdul_Muntaqim
+Hassanal_Bolkiah	hasChild	Al-Muhtadee_Billah
+Hassanal_Bolkiah	hasChild	Al-Muhtadee_Billah
+
+http://dbpedia.org/resource/Rashidi_Kawawa	http://dbpedia.org/ontology/monarch	http://dbpedia.org/resource/Elizabeth_II
+Rashidi_Kawawa	Elizabeth_II
+Rashidi_Kawawa	hasChild	Vita_Kawawa
+Rashidi_Kawawa	hasChild	Vita_Kawawa
+Vita_Kawawa	wasBornIn	Tanganyika
+Vita_Kawawa	wasBornIn	Tanganyika
+Elizabeth_II	isLeaderOf	Tanganyika
+Elizabeth_II	isLeaderOf	Tanganyika
+

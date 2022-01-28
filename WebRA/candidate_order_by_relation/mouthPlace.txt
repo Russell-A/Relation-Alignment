@@ -1,0 +1,81 @@
+http://dbpedia.org/resource/Housatonic_River	http://dbpedia.org/ontology/mouthPlace	http://dbpedia.org/resource/Milford,_Connecticut
+Housatonic_River	Milford,_Connecticut
+Housatonic_River	isLocatedIn	New_Haven_County,_Connecticut
+Housatonic_River	isLocatedIn	New_Haven_County,_Connecticut
+Milford,_Connecticut	isLocatedIn	New_Haven_County,_Connecticut
+Milford,_Connecticut	isLocatedIn	New_Haven_County,_Connecticut
+
+http://dbpedia.org/resource/Youghiogheny_River	http://dbpedia.org/ontology/mouthPlace	http://dbpedia.org/resource/McKeesport,_Pennsylvania
+Youghiogheny_River	McKeesport,_Pennsylvania
+Youghiogheny_River	isLocatedIn	Westmoreland_County,_Pennsylvania
+Youghiogheny_River	isLocatedIn	Westmoreland_County,_Pennsylvania
+Westmoreland_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Westmoreland_County,_Pennsylvania	isLocatedIn	Pennsylvania
+McKeesport,_Pennsylvania	isLocatedIn	Pennsylvania
+McKeesport,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Youghiogheny_River	http://dbpedia.org/ontology/mouthPlace	http://dbpedia.org/resource/McKeesport,_Pennsylvania
+Youghiogheny_River	McKeesport,_Pennsylvania
+Youghiogheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Youghiogheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Serra_Catholic_High_School	isLocatedIn	Allegheny_County,_Pennsylvania
+Serra_Catholic_High_School	isLocatedIn	Allegheny_County,_Pennsylvania
+Serra_Catholic_High_School	isLocatedIn	McKeesport,_Pennsylvania
+Serra_Catholic_High_School	isLocatedIn	McKeesport,_Pennsylvania
+
+http://dbpedia.org/resource/Youghiogheny_River	http://dbpedia.org/ontology/mouthPlace	http://dbpedia.org/resource/McKeesport,_Pennsylvania
+Youghiogheny_River	McKeesport,_Pennsylvania
+Youghiogheny_River	isLocatedIn	Pennsylvania
+Youghiogheny_River	isLocatedIn	Pennsylvania
+McKeesport,_Pennsylvania	isLocatedIn	Pennsylvania
+McKeesport,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Youghiogheny_River	http://dbpedia.org/ontology/mouthPlace	http://dbpedia.org/resource/McKeesport,_Pennsylvania
+Youghiogheny_River	McKeesport,_Pennsylvania
+Youghiogheny_River	isLocatedIn	Fayette_County,_Pennsylvania
+Youghiogheny_River	isLocatedIn	Fayette_County,_Pennsylvania
+Fayette_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Fayette_County,_Pennsylvania	isLocatedIn	Pennsylvania
+McKeesport,_Pennsylvania	isLocatedIn	Pennsylvania
+McKeesport,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Youghiogheny_River	http://dbpedia.org/ontology/mouthPlace	http://dbpedia.org/resource/McKeesport,_Pennsylvania
+Youghiogheny_River	McKeesport,_Pennsylvania
+Youghiogheny_River	isLocatedIn	Somerset_County,_Pennsylvania
+Youghiogheny_River	isLocatedIn	Somerset_County,_Pennsylvania
+Somerset_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Somerset_County,_Pennsylvania	isLocatedIn	Pennsylvania
+McKeesport,_Pennsylvania	isLocatedIn	Pennsylvania
+McKeesport,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Gomal_River	http://dbpedia.org/ontology/mouthPlace	http://dbpedia.org/resource/Dera_Ismail_Khan
+Gomal_River	Dera_Ismail_Khan
+Gomal_River	isLocatedIn	Khyber_Pakhtunkhwa
+Gomal_River	isLocatedIn	Khyber_Pakhtunkhwa
+Dera_Ismail_Khan_District	isLocatedIn	Khyber_Pakhtunkhwa
+Dera_Ismail_Khan_District	isLocatedIn	Khyber_Pakhtunkhwa
+Dera_Ismail_Khan	isLocatedIn	Dera_Ismail_Khan_District
+Dera_Ismail_Khan_District	isLocatedIn	Dera_Ismail_Khan
+Dera_Ismail_Khan	isLocatedIn	Dera_Ismail_Khan_District
+Dera_Ismail_Khan_District	isLocatedIn	Dera_Ismail_Khan
+
+http://dbpedia.org/resource/Morava_(river)	http://dbpedia.org/ontology/mouthPlace	http://dbpedia.org/resource/Bratislava
+Morava_(river)	Bratislava
+Morava_(river)	isLocatedIn	Slovakia
+Morava_(river)	isLocatedIn	Slovakia
+Bratislava_Region	isLocatedIn	Slovakia
+Bratislava_Region	isLocatedIn	Slovakia
+Bratislava_Region	hasCapital	Bratislava
+Bratislava	isLocatedIn	Bratislava_Region
+Bratislava_Region	hasCapital	Bratislava
+Bratislava	isLocatedIn	Bratislava_Region
+
+http://dbpedia.org/resource/Morava_(river)	http://dbpedia.org/ontology/mouthPlace	http://dbpedia.org/resource/Bratislava
+Morava_(river)	Bratislava
+Morava_(river)	isLocatedIn	Slovakia
+Morava_(river)	isLocatedIn	Slovakia
+Matthias_Bel	isCitizenOf	Slovakia
+Matthias_Bel	isCitizenOf	Slovakia
+Matthias_Bel	diedIn	Bratislava
+Matthias_Bel	diedIn	Bratislava
+

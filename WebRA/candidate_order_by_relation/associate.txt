@@ -1,0 +1,185 @@
+http://dbpedia.org/resource/Lisa_Murkowski	http://dbpedia.org/ontology/associate	http://dbpedia.org/resource/Dan_Sullivan_(U.S._Senator)
+Lisa_Murkowski	Dan_Sullivan_(U.S._Senator)
+Lisa_Murkowski	graduatedFrom	Georgetown_University
+Lisa_Murkowski	graduatedFrom	Georgetown_University
+Dan_Sullivan_(U.S._Senator)	graduatedFrom	Georgetown_University
+Dan_Sullivan_(U.S._Senator)	graduatedFrom	Georgetown_University
+
+http://dbpedia.org/resource/Nicola_Renzi	http://dbpedia.org/ontology/associate	http://dbpedia.org/resource/Lorella_Stefanelli
+Nicola_Renzi	Lorella_Stefanelli
+Nicola_Renzi	wasBornIn	City_of_San_Marino
+Nicola_Renzi	wasBornIn	City_of_San_Marino
+Lorella_Stefanelli	wasBornIn	City_of_San_Marino
+Lorella_Stefanelli	wasBornIn	City_of_San_Marino
+
+http://dbpedia.org/resource/Nicola_Renzi	http://dbpedia.org/ontology/associate	http://dbpedia.org/resource/Lorella_Stefanelli
+Nicola_Renzi	Lorella_Stefanelli
+Nicola_Renzi	wasBornIn	City_of_San_Marino
+Nicola_Renzi	wasBornIn	City_of_San_Marino
+Sammarinese_Christian_Democratic_Party	isLocatedIn	City_of_San_Marino
+Sammarinese_Christian_Democratic_Party	isLocatedIn	City_of_San_Marino
+Lorella_Stefanelli	isAffiliatedTo	Sammarinese_Christian_Democratic_Party
+Lorella_Stefanelli	isAffiliatedTo	Sammarinese_Christian_Democratic_Party
+
+http://dbpedia.org/resource/Lorella_Stefanelli	http://dbpedia.org/ontology/associate	http://dbpedia.org/resource/Nicola_Renzi
+Lorella_Stefanelli	Nicola_Renzi
+Lorella_Stefanelli	wasBornIn	City_of_San_Marino
+Lorella_Stefanelli	wasBornIn	City_of_San_Marino
+Nicola_Renzi	wasBornIn	City_of_San_Marino
+Nicola_Renzi	wasBornIn	City_of_San_Marino
+
+http://dbpedia.org/resource/Lorella_Stefanelli	http://dbpedia.org/ontology/associate	http://dbpedia.org/resource/Nicola_Renzi
+Lorella_Stefanelli	Nicola_Renzi
+Lorella_Stefanelli	isAffiliatedTo	Sammarinese_Christian_Democratic_Party
+Lorella_Stefanelli	isAffiliatedTo	Sammarinese_Christian_Democratic_Party
+Sammarinese_Christian_Democratic_Party	isLocatedIn	City_of_San_Marino
+Sammarinese_Christian_Democratic_Party	isLocatedIn	City_of_San_Marino
+Nicola_Renzi	wasBornIn	City_of_San_Marino
+Nicola_Renzi	wasBornIn	City_of_San_Marino
+
+http://dbpedia.org/resource/Linda_Phillips	http://dbpedia.org/ontology/associate	http://dbpedia.org/resource/Daniel_Hall_(politician)
+Linda_Phillips	Daniel_Hall_(politician)
+Linda_Phillips	graduatedFrom	Marshall_University
+Linda_Phillips	graduatedFrom	Marshall_University
+Daniel_Hall_(politician)	graduatedFrom	Marshall_University
+Daniel_Hall_(politician)	graduatedFrom	Marshall_University
+
+http://dbpedia.org/resource/Thabo_Mbeki	http://dbpedia.org/ontology/associate	http://dbpedia.org/resource/F._W._de_Klerk
+Thabo_Mbeki	F._W._de_Klerk
+Thabo_Mbeki	isCitizenOf	South_Africa
+Thabo_Mbeki	isPoliticianOf	South_Africa
+Thabo_Mbeki	isCitizenOf	South_Africa
+Thabo_Mbeki	isPoliticianOf	South_Africa
+F._W._de_Klerk	isPoliticianOf	South_Africa
+F._W._de_Klerk	livesIn	South_Africa
+F._W._de_Klerk	isCitizenOf	South_Africa
+F._W._de_Klerk	isPoliticianOf	South_Africa
+F._W._de_Klerk	livesIn	South_Africa
+F._W._de_Klerk	isCitizenOf	South_Africa
+
+http://dbpedia.org/resource/Rayson_Huang	http://dbpedia.org/ontology/associate	http://dbpedia.org/resource/Kan_Yuet-keung
+Rayson_Huang	Kan_Yuet-keung
+Rayson_Huang	graduatedFrom	University_of_Hong_Kong
+Rayson_Huang	graduatedFrom	University_of_Hong_Kong
+Kan_Yuet-keung	graduatedFrom	University_of_Hong_Kong
+Kan_Yuet-keung	graduatedFrom	University_of_Hong_Kong
+
+http://dbpedia.org/resource/Zaqy_Mohamad	http://dbpedia.org/ontology/associate	http://dbpedia.org/resource/Low_Yen_Ling
+Zaqy_Mohamad	Low_Yen_Ling
+Zaqy_Mohamad	wasBornIn	Singapore
+Zaqy_Mohamad	isCitizenOf	Singapore
+Zaqy_Mohamad	wasBornIn	Singapore
+Zaqy_Mohamad	isCitizenOf	Singapore
+Bukit_Merah	isLocatedIn	Singapore
+Bukit_Merah	isLocatedIn	Singapore
+Low_Yen_Ling	isLeaderOf	Bukit_Merah
+Low_Yen_Ling	isLeaderOf	Bukit_Merah
+
+http://dbpedia.org/resource/Zaqy_Mohamad	http://dbpedia.org/ontology/associate	http://dbpedia.org/resource/Low_Yen_Ling
+Zaqy_Mohamad	Low_Yen_Ling
+Zaqy_Mohamad	wasBornIn	Singapore
+Zaqy_Mohamad	isCitizenOf	Singapore
+Zaqy_Mohamad	wasBornIn	Singapore
+Zaqy_Mohamad	isCitizenOf	Singapore
+Choa_Chu_Kang	isLocatedIn	Singapore
+Choa_Chu_Kang	isLocatedIn	Singapore
+Low_Yen_Ling	isLeaderOf	Choa_Chu_Kang
+Low_Yen_Ling	isLeaderOf	Choa_Chu_Kang
+
+http://dbpedia.org/resource/Zaqy_Mohamad	http://dbpedia.org/ontology/associate	http://dbpedia.org/resource/Low_Yen_Ling
+Zaqy_Mohamad	Low_Yen_Ling
+Zaqy_Mohamad	isLeaderOf	Choa_Chu_Kang
+Zaqy_Mohamad	isLeaderOf	Choa_Chu_Kang
+Low_Yen_Ling	isLeaderOf	Choa_Chu_Kang
+Low_Yen_Ling	isLeaderOf	Choa_Chu_Kang
+
+http://dbpedia.org/resource/Samuel_Keeler	http://dbpedia.org/ontology/associate	http://dbpedia.org/resource/Joseph_Platt
+Samuel_Keeler	Joseph_Platt
+Samuel_Keeler	livesIn	Connecticut_Colony
+Samuel_Keeler	livesIn	Connecticut_Colony
+Joseph_Platt	livesIn	Connecticut_Colony
+Joseph_Platt	livesIn	Connecticut_Colony
+
+http://dbpedia.org/resource/Samuel_Keeler	http://dbpedia.org/ontology/associate	http://dbpedia.org/resource/Joseph_Platt
+Samuel_Keeler	Joseph_Platt
+Samuel_Keeler	livesIn	Connecticut_Colony
+Samuel_Keeler	livesIn	Connecticut_Colony
+Thomas_Hanford	livesIn	Connecticut_Colony
+Thomas_Hanford	livesIn	Connecticut_Colony
+Thomas_Hanford	isMarriedTo	Joseph_Platt
+Thomas_Hanford	hasChild	Joseph_Platt
+Joseph_Platt	isMarriedTo	Thomas_Hanford
+Thomas_Hanford	isMarriedTo	Joseph_Platt
+Thomas_Hanford	hasChild	Joseph_Platt
+Joseph_Platt	isMarriedTo	Thomas_Hanford
+
+http://dbpedia.org/resource/Hussain_al-Shahristani	http://dbpedia.org/ontology/associate	http://dbpedia.org/resource/Rowsch_Shaways
+Hussain_al-Shahristani	Rowsch_Shaways
+Hussain_al-Shahristani	isCitizenOf	Iraq
+Hussain_al-Shahristani	isPoliticianOf	Iraq
+Hussain_al-Shahristani	isCitizenOf	Iraq
+Hussain_al-Shahristani	isPoliticianOf	Iraq
+Rowsch_Shaways	isCitizenOf	Iraq
+Rowsch_Shaways	isPoliticianOf	Iraq
+Rowsch_Shaways	isCitizenOf	Iraq
+Rowsch_Shaways	isPoliticianOf	Iraq
+
+http://dbpedia.org/resource/Samuel_Keeler	http://dbpedia.org/ontology/associate	http://dbpedia.org/resource/John_Betts_(Connecticut_politician)
+Samuel_Keeler	John_Betts_(Connecticut_politician)
+Samuel_Keeler	livesIn	Connecticut_Colony
+Samuel_Keeler	livesIn	Connecticut_Colony
+John_Betts_(Connecticut_politician)	livesIn	Connecticut_Colony
+John_Betts_(Connecticut_politician)	livesIn	Connecticut_Colony
+
+http://dbpedia.org/resource/Samuel_Keeler	http://dbpedia.org/ontology/associate	http://dbpedia.org/resource/John_Betts_(Connecticut_politician)
+Samuel_Keeler	John_Betts_(Connecticut_politician)
+Samuel_Keeler	livesIn	Connecticut_Colony
+Samuel_Keeler	livesIn	Connecticut_Colony
+Daniel_Kellogg_(settler)	livesIn	Connecticut_Colony
+Daniel_Kellogg_(settler)	livesIn	Connecticut_Colony
+Daniel_Kellogg_(settler)	isMarriedTo	John_Betts_(Connecticut_politician)
+John_Betts_(Connecticut_politician)	isMarriedTo	Daniel_Kellogg_(settler)
+Daniel_Kellogg_(settler)	hasChild	John_Betts_(Connecticut_politician)
+Daniel_Kellogg_(settler)	isMarriedTo	John_Betts_(Connecticut_politician)
+John_Betts_(Connecticut_politician)	isMarriedTo	Daniel_Kellogg_(settler)
+Daniel_Kellogg_(settler)	hasChild	John_Betts_(Connecticut_politician)
+
+http://dbpedia.org/resource/Phil_Schubert	http://dbpedia.org/ontology/associate	http://dbpedia.org/resource/Robert_Dean_Hunter
+Phil_Schubert	Robert_Dean_Hunter
+Phil_Schubert	graduatedFrom	Abilene_Christian_University
+Phil_Schubert	graduatedFrom	Abilene_Christian_University
+Abilene_Christian_University	isLocatedIn	Texas
+Abilene_Christian_University	isLocatedIn	Texas
+Robert_Dean_Hunter	livesIn	Texas
+Robert_Dean_Hunter	livesIn	Texas
+
+http://dbpedia.org/resource/Phil_Schubert	http://dbpedia.org/ontology/associate	http://dbpedia.org/resource/Robert_Dean_Hunter
+Phil_Schubert	Robert_Dean_Hunter
+Phil_Schubert	graduatedFrom	Abilene_Christian_University
+Phil_Schubert	graduatedFrom	Abilene_Christian_University
+Robert_Dean_Hunter	graduatedFrom	Abilene_Christian_University
+Robert_Dean_Hunter	graduatedFrom	Abilene_Christian_University
+
+http://dbpedia.org/resource/Phil_Schubert	http://dbpedia.org/ontology/associate	http://dbpedia.org/resource/Robert_Dean_Hunter
+Phil_Schubert	Robert_Dean_Hunter
+Phil_Schubert	livesIn	Abilene,_Texas
+Phil_Schubert	livesIn	Abilene,_Texas
+Abilene_Christian_University	isLocatedIn	Abilene,_Texas
+Abilene_Christian_University	isLocatedIn	Abilene,_Texas
+Robert_Dean_Hunter	graduatedFrom	Abilene_Christian_University
+Robert_Dean_Hunter	graduatedFrom	Abilene_Christian_University
+
+http://dbpedia.org/resource/Samuel_Keeler	http://dbpedia.org/ontology/associate	http://dbpedia.org/resource/Andrew_Messenger
+Samuel_Keeler	Andrew_Messenger
+Samuel_Keeler	livesIn	Connecticut_Colony
+Samuel_Keeler	livesIn	Connecticut_Colony
+Andrew_Messenger	livesIn	Connecticut_Colony
+Andrew_Messenger	livesIn	Connecticut_Colony
+
+http://dbpedia.org/resource/Dan_Sullivan_(U.S._Senator)	http://dbpedia.org/ontology/associate	http://dbpedia.org/resource/Lisa_Murkowski
+Dan_Sullivan_(U.S._Senator)	Lisa_Murkowski
+Dan_Sullivan_(U.S._Senator)	graduatedFrom	Georgetown_University
+Dan_Sullivan_(U.S._Senator)	graduatedFrom	Georgetown_University
+Lisa_Murkowski	graduatedFrom	Georgetown_University
+Lisa_Murkowski	graduatedFrom	Georgetown_University
+

@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/Monongahela_River	http://dbpedia.org/ontology/rightTributary	http://dbpedia.org/resource/Youghiogheny_River
+Monongahela_River	Youghiogheny_River
+Monongahela_River	isLocatedIn	Fayette_County,_Pennsylvania
+Monongahela_River	isLocatedIn	Fayette_County,_Pennsylvania
+Youghiogheny_River	isLocatedIn	Fayette_County,_Pennsylvania
+Youghiogheny_River	isLocatedIn	Fayette_County,_Pennsylvania
+

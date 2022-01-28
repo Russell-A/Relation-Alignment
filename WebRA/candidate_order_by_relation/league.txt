@@ -1,0 +1,1607 @@
+http://dbpedia.org/resource/Ivan_Dornič	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Ivan_Dornič	Slovak_Extraliga
+Ivan_Dornič	isAffiliatedTo	HK_Nitra
+Ivan_Dornič	isAffiliatedTo	HK_Nitra
+Jozef_Stümpel	isAffiliatedTo	HK_Nitra
+Jozef_Stümpel	isAffiliatedTo	HK_Nitra
+Jozef_Stümpel	isAffiliatedTo	Slovak_Extraliga
+Jozef_Stümpel	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Ivan_Dornič	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Ivan_Dornič	Slovak_Extraliga
+Ivan_Dornič	isAffiliatedTo	HK_Nitra
+Ivan_Dornič	isAffiliatedTo	HK_Nitra
+Žigmund_Pálffy	isAffiliatedTo	HK_Nitra
+Žigmund_Pálffy	isAffiliatedTo	HK_Nitra
+Žigmund_Pálffy	isAffiliatedTo	Slovak_Extraliga
+Žigmund_Pálffy	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Ivan_Dornič	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Ivan_Dornič	Slovak_Extraliga
+Ivan_Dornič	isAffiliatedTo	HK_Nitra
+Ivan_Dornič	isAffiliatedTo	HK_Nitra
+David_Moravec	isAffiliatedTo	HK_Nitra
+David_Moravec	isAffiliatedTo	HK_Nitra
+David_Moravec	isAffiliatedTo	Slovak_Extraliga
+David_Moravec	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Ivan_Dornič	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Ivan_Dornič	Slovak_Extraliga
+Ivan_Dornič	isAffiliatedTo	HK_Nitra
+Ivan_Dornič	isAffiliatedTo	HK_Nitra
+Armands_Bērziņš	isAffiliatedTo	HK_Nitra
+Armands_Bērziņš	isAffiliatedTo	HK_Nitra
+Armands_Bērziņš	isAffiliatedTo	Slovak_Extraliga
+Armands_Bērziņš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Ivan_Dornič	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Ivan_Dornič	Slovak_Extraliga
+Ivan_Dornič	isAffiliatedTo	HK_Nitra
+Ivan_Dornič	isAffiliatedTo	HK_Nitra
+Juraj_Kolník	isAffiliatedTo	HK_Nitra
+Juraj_Kolník	isAffiliatedTo	HK_Nitra
+Juraj_Kolník	isAffiliatedTo	Slovak_Extraliga
+Juraj_Kolník	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Ivan_Dornič	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Ivan_Dornič	Slovak_Extraliga
+Ivan_Dornič	isAffiliatedTo	HK_Nitra
+Ivan_Dornič	isAffiliatedTo	HK_Nitra
+Robert_Kristan	isAffiliatedTo	HK_Nitra
+Robert_Kristan	isAffiliatedTo	HK_Nitra
+Robert_Kristan	isAffiliatedTo	Slovak_Extraliga
+Robert_Kristan	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Ivan_Dornič	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Ivan_Dornič	Slovak_Extraliga
+Ivan_Dornič	isCitizenOf	Slovakia
+Ivan_Dornič	isCitizenOf	Slovakia
+Matej_Kristín	isCitizenOf	Slovakia
+Matej_Kristín	isCitizenOf	Slovakia
+Matej_Kristín	isAffiliatedTo	Slovak_Extraliga
+Matej_Kristín	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Ivan_Dornič	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Ivan_Dornič	Slovak_Extraliga
+Ivan_Dornič	isAffiliatedTo	MHC_Martin
+Ivan_Dornič	isAffiliatedTo	MHC_Martin
+Karol_Križan	isAffiliatedTo	MHC_Martin
+Karol_Križan	isAffiliatedTo	MHC_Martin
+Karol_Križan	isAffiliatedTo	Slovak_Extraliga
+Karol_Križan	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Ivan_Dornič	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Ivan_Dornič	Slovak_Extraliga
+Ivan_Dornič	isAffiliatedTo	MsHK_Žilina
+Ivan_Dornič	isAffiliatedTo	MsHK_Žilina
+Tomáš_Bulík	isAffiliatedTo	MsHK_Žilina
+Tomáš_Bulík	isAffiliatedTo	MsHK_Žilina
+Tomáš_Bulík	isAffiliatedTo	Slovak_Extraliga
+Tomáš_Bulík	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Ivan_Dornič	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Ivan_Dornič	Slovak_Extraliga
+Ivan_Dornič	isAffiliatedTo	MsHK_Žilina
+Ivan_Dornič	isAffiliatedTo	MsHK_Žilina
+Michel_Miklík	isAffiliatedTo	MsHK_Žilina
+Michel_Miklík	isAffiliatedTo	MsHK_Žilina
+Michel_Miklík	isAffiliatedTo	Slovak_Extraliga
+Michel_Miklík	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Ivan_Dornič	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Ivan_Dornič	Slovak_Extraliga
+Ivan_Dornič	isAffiliatedTo	MsHK_Žilina
+Ivan_Dornič	isAffiliatedTo	MsHK_Žilina
+Karol_Križan	isAffiliatedTo	MsHK_Žilina
+Karol_Križan	isAffiliatedTo	MsHK_Žilina
+Karol_Križan	isAffiliatedTo	Slovak_Extraliga
+Karol_Križan	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Ivan_Dornič	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Ivan_Dornič	Slovak_Extraliga
+Ivan_Dornič	isAffiliatedTo	MsHK_Žilina
+Ivan_Dornič	isAffiliatedTo	MsHK_Žilina
+Miroslav_Hlinka	isAffiliatedTo	MsHK_Žilina
+Miroslav_Hlinka	isAffiliatedTo	MsHK_Žilina
+Miroslav_Hlinka	isAffiliatedTo	Slovak_Extraliga
+Miroslav_Hlinka	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Ivan_Dornič	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Ivan_Dornič	Slovak_Extraliga
+Ivan_Dornič	isAffiliatedTo	MsHK_Žilina
+Ivan_Dornič	isAffiliatedTo	MsHK_Žilina
+Tomáš_Káňa	isAffiliatedTo	MsHK_Žilina
+Tomáš_Káňa	isAffiliatedTo	MsHK_Žilina
+Tomáš_Káňa	isAffiliatedTo	Slovak_Extraliga
+Tomáš_Káňa	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Ivan_Dornič	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Ivan_Dornič	Slovak_Extraliga
+Ivan_Dornič	isAffiliatedTo	MsHK_Žilina
+Ivan_Dornič	isAffiliatedTo	MsHK_Žilina
+Tomáš_Škvaridlo	isAffiliatedTo	MsHK_Žilina
+Tomáš_Škvaridlo	isAffiliatedTo	MsHK_Žilina
+Tomáš_Škvaridlo	isAffiliatedTo	Slovak_Extraliga
+Tomáš_Škvaridlo	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HK_Dukla_Trenčín
+Jānis_Andersons	isAffiliatedTo	HK_Dukla_Trenčín
+Michel_Miklík	isAffiliatedTo	HK_Dukla_Trenčín
+Michel_Miklík	isAffiliatedTo	HK_Dukla_Trenčín
+Michel_Miklík	isAffiliatedTo	Slovak_Extraliga
+Michel_Miklík	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HK_Dukla_Trenčín
+Jānis_Andersons	isAffiliatedTo	HK_Dukla_Trenčín
+Andrej_Nedorost	isAffiliatedTo	HK_Dukla_Trenčín
+Andrej_Nedorost	isAffiliatedTo	HK_Dukla_Trenčín
+Andrej_Nedorost	isAffiliatedTo	Slovak_Extraliga
+Andrej_Nedorost	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HK_Dukla_Trenčín
+Jānis_Andersons	isAffiliatedTo	HK_Dukla_Trenčín
+Matej_Kristín	isAffiliatedTo	HK_Dukla_Trenčín
+Matej_Kristín	isAffiliatedTo	HK_Dukla_Trenčín
+Matej_Kristín	isAffiliatedTo	Slovak_Extraliga
+Matej_Kristín	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HK_Dukla_Trenčín
+Jānis_Andersons	isAffiliatedTo	HK_Dukla_Trenčín
+Tomáš_Bulík	isAffiliatedTo	HK_Dukla_Trenčín
+Tomáš_Bulík	isAffiliatedTo	HK_Dukla_Trenčín
+Tomáš_Bulík	isAffiliatedTo	Slovak_Extraliga
+Tomáš_Bulík	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HK_Dukla_Trenčín
+Jānis_Andersons	isAffiliatedTo	HK_Dukla_Trenčín
+Ľubomír_Sekeráš	isAffiliatedTo	HK_Dukla_Trenčín
+Ľubomír_Sekeráš	isAffiliatedTo	HK_Dukla_Trenčín
+Ľubomír_Sekeráš	isAffiliatedTo	Slovak_Extraliga
+Ľubomír_Sekeráš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HK_Dukla_Trenčín
+Jānis_Andersons	isAffiliatedTo	HK_Dukla_Trenčín
+Marko_Daňo	isAffiliatedTo	HK_Dukla_Trenčín
+Marko_Daňo	isAffiliatedTo	HK_Dukla_Trenčín
+Marko_Daňo	isAffiliatedTo	Slovak_Extraliga
+Marko_Daňo	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HK_Dukla_Trenčín
+Jānis_Andersons	isAffiliatedTo	HK_Dukla_Trenčín
+Jozef_Stümpel	isAffiliatedTo	HK_Dukla_Trenčín
+Jozef_Stümpel	isAffiliatedTo	HK_Dukla_Trenčín
+Jozef_Stümpel	isAffiliatedTo	Slovak_Extraliga
+Jozef_Stümpel	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HK_Dukla_Trenčín
+Jānis_Andersons	isAffiliatedTo	HK_Dukla_Trenčín
+Ondrej_Otčenáš	isAffiliatedTo	HK_Dukla_Trenčín
+Ondrej_Otčenáš	isAffiliatedTo	HK_Dukla_Trenčín
+Ondrej_Otčenáš	isAffiliatedTo	Slovak_Extraliga
+Ondrej_Otčenáš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HK_Dukla_Trenčín
+Jānis_Andersons	isAffiliatedTo	HK_Dukla_Trenčín
+Andrej_Meszároš	isAffiliatedTo	HK_Dukla_Trenčín
+Andrej_Meszároš	isAffiliatedTo	HK_Dukla_Trenčín
+Andrej_Meszároš	isAffiliatedTo	Slovak_Extraliga
+Andrej_Meszároš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HKm_Zvolen
+Jānis_Andersons	isAffiliatedTo	HKm_Zvolen
+Karol_Križan	isAffiliatedTo	HKm_Zvolen
+Karol_Križan	isAffiliatedTo	HKm_Zvolen
+Karol_Križan	isAffiliatedTo	Slovak_Extraliga
+Karol_Križan	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HKm_Zvolen
+Jānis_Andersons	isAffiliatedTo	HKm_Zvolen
+Matej_Kristín	isAffiliatedTo	HKm_Zvolen
+Matej_Kristín	isAffiliatedTo	HKm_Zvolen
+Matej_Kristín	isAffiliatedTo	Slovak_Extraliga
+Matej_Kristín	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HKm_Zvolen
+Jānis_Andersons	isAffiliatedTo	HKm_Zvolen
+Ivan_Majeský	isAffiliatedTo	HKm_Zvolen
+Ivan_Majeský	isAffiliatedTo	HKm_Zvolen
+Ivan_Majeský	isAffiliatedTo	Slovak_Extraliga
+Ivan_Majeský	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HKm_Zvolen
+Jānis_Andersons	isAffiliatedTo	HKm_Zvolen
+Vladimír_Országh	isAffiliatedTo	HKm_Zvolen
+Vladimír_Országh	isAffiliatedTo	HKm_Zvolen
+Vladimír_Országh	isAffiliatedTo	Slovak_Extraliga
+Vladimír_Országh	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HKm_Zvolen
+Jānis_Andersons	isAffiliatedTo	HKm_Zvolen
+Jaroslav_Obšut	isAffiliatedTo	HKm_Zvolen
+Jaroslav_Obšut	isAffiliatedTo	HKm_Zvolen
+Jaroslav_Obšut	isAffiliatedTo	Slovak_Extraliga
+Jaroslav_Obšut	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HKm_Zvolen
+Jānis_Andersons	isAffiliatedTo	HKm_Zvolen
+Tomáš_Škvaridlo	isAffiliatedTo	HKm_Zvolen
+Tomáš_Škvaridlo	isAffiliatedTo	HKm_Zvolen
+Tomáš_Škvaridlo	isAffiliatedTo	Slovak_Extraliga
+Tomáš_Škvaridlo	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HKm_Zvolen
+Jānis_Andersons	isAffiliatedTo	HKm_Zvolen
+Ondrej_Otčenáš	isAffiliatedTo	HKm_Zvolen
+Ondrej_Otčenáš	isAffiliatedTo	HKm_Zvolen
+Ondrej_Otčenáš	isAffiliatedTo	Slovak_Extraliga
+Ondrej_Otčenáš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HKm_Zvolen
+Jānis_Andersons	isAffiliatedTo	HKm_Zvolen
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Michal_Handzuš	isAffiliatedTo	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HKm_Zvolen
+Jānis_Andersons	isAffiliatedTo	HKm_Zvolen
+Ján_Lašák	isAffiliatedTo	HKm_Zvolen
+Ján_Lašák	isAffiliatedTo	HKm_Zvolen
+Ján_Lašák	isAffiliatedTo	Slovak_Extraliga
+Ján_Lašák	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HKm_Zvolen
+Jānis_Andersons	isAffiliatedTo	HKm_Zvolen
+Andrej_Hebar	isAffiliatedTo	HKm_Zvolen
+Andrej_Hebar	isAffiliatedTo	HKm_Zvolen
+Andrej_Hebar	isAffiliatedTo	Slovak_Extraliga
+Andrej_Hebar	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HC_Oceláři_Třinec
+Jānis_Andersons	isAffiliatedTo	HC_Oceláři_Třinec
+Ľubomír_Sekeráš	isAffiliatedTo	HC_Oceláři_Třinec
+Ľubomír_Sekeráš	isAffiliatedTo	HC_Oceláři_Třinec
+Ľubomír_Sekeráš	isAffiliatedTo	Slovak_Extraliga
+Ľubomír_Sekeráš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HC_Oceláři_Třinec
+Jānis_Andersons	isAffiliatedTo	HC_Oceláři_Třinec
+Tomáš_Klouček	isAffiliatedTo	HC_Oceláři_Třinec
+Tomáš_Klouček	isAffiliatedTo	HC_Oceláři_Třinec
+Tomáš_Klouček	isAffiliatedTo	Slovak_Extraliga
+Tomáš_Klouček	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HC_Oceláři_Třinec
+Jānis_Andersons	isAffiliatedTo	HC_Oceláři_Třinec
+Andrej_Hebar	isAffiliatedTo	HC_Oceláři_Třinec
+Andrej_Hebar	isAffiliatedTo	HC_Oceláři_Třinec
+Andrej_Hebar	isAffiliatedTo	Slovak_Extraliga
+Andrej_Hebar	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HC_Oceláři_Třinec
+Jānis_Andersons	isAffiliatedTo	HC_Oceláři_Třinec
+Marcin_Kolusz	isAffiliatedTo	HC_Oceláři_Třinec
+Marcin_Kolusz	isAffiliatedTo	HC_Oceláři_Třinec
+Marcin_Kolusz	isAffiliatedTo	Slovak_Extraliga
+Marcin_Kolusz	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HC_Oceláři_Třinec
+Jānis_Andersons	isAffiliatedTo	HC_Oceláři_Třinec
+Roman_Meluzín	isAffiliatedTo	HC_Oceláři_Třinec
+Roman_Meluzín	isAffiliatedTo	HC_Oceláři_Třinec
+Roman_Meluzín	isAffiliatedTo	Slovak_Extraliga
+Roman_Meluzín	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HC_Oceláři_Třinec
+Jānis_Andersons	isAffiliatedTo	HC_Oceláři_Třinec
+Jozef_Balej	isAffiliatedTo	HC_Oceláři_Třinec
+Jozef_Balej	isAffiliatedTo	HC_Oceláři_Třinec
+Jozef_Balej	isAffiliatedTo	Slovak_Extraliga
+Jozef_Balej	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HC_Oceláři_Třinec
+Jānis_Andersons	isAffiliatedTo	HC_Oceláři_Třinec
+Armands_Bērziņš	isAffiliatedTo	HC_Oceláři_Třinec
+Armands_Bērziņš	isAffiliatedTo	HC_Oceláři_Třinec
+Armands_Bērziņš	isAffiliatedTo	Slovak_Extraliga
+Armands_Bērziņš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HC_Oceláři_Třinec
+Jānis_Andersons	isAffiliatedTo	HC_Oceláři_Třinec
+Martin_Richter	isAffiliatedTo	HC_Oceláři_Třinec
+Martin_Richter	isAffiliatedTo	HC_Oceláři_Třinec
+Martin_Richter	isAffiliatedTo	Slovak_Extraliga
+Martin_Richter	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HC_Oceláři_Třinec
+Jānis_Andersons	isAffiliatedTo	HC_Oceláři_Třinec
+Róbert_Döme	isAffiliatedTo	HC_Oceláři_Třinec
+Róbert_Döme	isAffiliatedTo	HC_Oceláři_Třinec
+Róbert_Döme	isAffiliatedTo	Slovak_Extraliga
+Róbert_Döme	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HC_Oceláři_Třinec
+Jānis_Andersons	isAffiliatedTo	HC_Oceláři_Třinec
+Tomáš_Kopecký	isAffiliatedTo	HC_Oceláři_Třinec
+Tomáš_Kopecký	isAffiliatedTo	HC_Oceláři_Třinec
+Tomáš_Kopecký	isAffiliatedTo	Slovak_Extraliga
+Tomáš_Kopecký	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Jānis_Andersons	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Jānis_Andersons	Slovak_Extraliga
+Jānis_Andersons	isAffiliatedTo	HC_Oceláři_Třinec
+Jānis_Andersons	isAffiliatedTo	HC_Oceláři_Třinec
+David_Moravec	isAffiliatedTo	HC_Oceláři_Třinec
+David_Moravec	isAffiliatedTo	HC_Oceláři_Třinec
+David_Moravec	isAffiliatedTo	Slovak_Extraliga
+David_Moravec	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	HC_’05_Banská_Bystrica
+Michal_Handzuš	isAffiliatedTo	HC_’05_Banská_Bystrica
+Tomáš_Bulík	isAffiliatedTo	HC_’05_Banská_Bystrica
+Tomáš_Bulík	isAffiliatedTo	HC_’05_Banská_Bystrica
+Tomáš_Bulík	isAffiliatedTo	Slovak_Extraliga
+Tomáš_Bulík	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	HC_’05_Banská_Bystrica
+Michal_Handzuš	isAffiliatedTo	HC_’05_Banská_Bystrica
+Michal_Handzuš	isAffiliatedTo	HC_’05_Banská_Bystrica
+Michal_Handzuš	isAffiliatedTo	HC_’05_Banská_Bystrica
+Michal_Handzuš	isAffiliatedTo	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	HC_’05_Banská_Bystrica
+Michal_Handzuš	isAffiliatedTo	HC_’05_Banská_Bystrica
+Mike_Danton	isAffiliatedTo	HC_’05_Banská_Bystrica
+Mike_Danton	isAffiliatedTo	HC_’05_Banská_Bystrica
+Mike_Danton	isAffiliatedTo	Slovak_Extraliga
+Mike_Danton	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	HC_’05_Banská_Bystrica
+Michal_Handzuš	isAffiliatedTo	HC_’05_Banská_Bystrica
+Patrick_White_(ice_hockey)	isAffiliatedTo	HC_’05_Banská_Bystrica
+Patrick_White_(ice_hockey)	isAffiliatedTo	HC_’05_Banská_Bystrica
+Patrick_White_(ice_hockey)	isAffiliatedTo	Slovak_Extraliga
+Patrick_White_(ice_hockey)	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	HC_’05_Banská_Bystrica
+Michal_Handzuš	isAffiliatedTo	HC_’05_Banská_Bystrica
+Vladimír_Országh	isAffiliatedTo	HC_’05_Banská_Bystrica
+Vladimír_Országh	isAffiliatedTo	HC_’05_Banská_Bystrica
+Vladimír_Országh	isAffiliatedTo	Slovak_Extraliga
+Vladimír_Országh	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	HC_’05_Banská_Bystrica
+Michal_Handzuš	isAffiliatedTo	HC_’05_Banská_Bystrica
+Martin_Richter	isAffiliatedTo	HC_’05_Banská_Bystrica
+Martin_Richter	isAffiliatedTo	HC_’05_Banská_Bystrica
+Martin_Richter	isAffiliatedTo	Slovak_Extraliga
+Martin_Richter	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	HC_’05_Banská_Bystrica
+Michal_Handzuš	isAffiliatedTo	HC_’05_Banská_Bystrica
+Miroslav_Hlinka	isAffiliatedTo	HC_’05_Banská_Bystrica
+Miroslav_Hlinka	isAffiliatedTo	HC_’05_Banská_Bystrica
+Miroslav_Hlinka	isAffiliatedTo	Slovak_Extraliga
+Miroslav_Hlinka	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	HC_’05_Banská_Bystrica
+Michal_Handzuš	isAffiliatedTo	HC_’05_Banská_Bystrica
+Ivan_Majeský	isAffiliatedTo	HC_’05_Banská_Bystrica
+Ivan_Majeský	isAffiliatedTo	HC_’05_Banská_Bystrica
+Ivan_Majeský	isAffiliatedTo	Slovak_Extraliga
+Ivan_Majeský	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	St._Louis_Blues
+Michal_Handzuš	isAffiliatedTo	St._Louis_Blues
+Jaroslav_Obšut	isAffiliatedTo	St._Louis_Blues
+Jaroslav_Obšut	isAffiliatedTo	St._Louis_Blues
+Jaroslav_Obšut	isAffiliatedTo	Slovak_Extraliga
+Jaroslav_Obšut	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	St._Louis_Blues
+Michal_Handzuš	isAffiliatedTo	St._Louis_Blues
+Vladimír_Országh	isAffiliatedTo	St._Louis_Blues
+Vladimír_Országh	isAffiliatedTo	St._Louis_Blues
+Vladimír_Országh	isAffiliatedTo	Slovak_Extraliga
+Vladimír_Országh	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	St._Louis_Blues
+Michal_Handzuš	isAffiliatedTo	St._Louis_Blues
+Mike_Danton	isAffiliatedTo	St._Louis_Blues
+Mike_Danton	isAffiliatedTo	St._Louis_Blues
+Mike_Danton	isAffiliatedTo	Slovak_Extraliga
+Mike_Danton	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	St._Louis_Blues
+Michal_Handzuš	isAffiliatedTo	St._Louis_Blues
+Michal_Handzuš	isAffiliatedTo	St._Louis_Blues
+Michal_Handzuš	isAffiliatedTo	St._Louis_Blues
+Michal_Handzuš	isAffiliatedTo	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	St._Louis_Blues
+Michal_Handzuš	isAffiliatedTo	St._Louis_Blues
+Ladislav_Nagy	isAffiliatedTo	St._Louis_Blues
+Ladislav_Nagy	isAffiliatedTo	St._Louis_Blues
+Ladislav_Nagy	isAffiliatedTo	Slovak_Extraliga
+Ladislav_Nagy	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	St._Louis_Blues
+Michal_Handzuš	isAffiliatedTo	St._Louis_Blues
+Tomáš_Káňa	isAffiliatedTo	St._Louis_Blues
+Tomáš_Káňa	isAffiliatedTo	St._Louis_Blues
+Tomáš_Káňa	isAffiliatedTo	Slovak_Extraliga
+Tomáš_Káňa	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	Chicago_Blackhawks
+Michal_Handzuš	isAffiliatedTo	Chicago_Blackhawks
+Marko_Daňo	isAffiliatedTo	Chicago_Blackhawks
+Marko_Daňo	isAffiliatedTo	Chicago_Blackhawks
+Marko_Daňo	isAffiliatedTo	Slovak_Extraliga
+Marko_Daňo	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	Chicago_Blackhawks
+Michal_Handzuš	isAffiliatedTo	Chicago_Blackhawks
+Michal_Handzuš	isAffiliatedTo	Chicago_Blackhawks
+Michal_Handzuš	isAffiliatedTo	Chicago_Blackhawks
+Michal_Handzuš	isAffiliatedTo	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	Chicago_Blackhawks
+Michal_Handzuš	isAffiliatedTo	Chicago_Blackhawks
+Tomáš_Kopecký	isAffiliatedTo	Chicago_Blackhawks
+Tomáš_Kopecký	isAffiliatedTo	Chicago_Blackhawks
+Tomáš_Kopecký	isAffiliatedTo	Slovak_Extraliga
+Tomáš_Kopecký	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	Chicago_Blackhawks
+Michal_Handzuš	isAffiliatedTo	Chicago_Blackhawks
+Marián_Hossa	isAffiliatedTo	Chicago_Blackhawks
+Marián_Hossa	isAffiliatedTo	Chicago_Blackhawks
+Marián_Hossa	isAffiliatedTo	Slovak_Extraliga
+Marián_Hossa	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Karol_Križan	isAffiliatedTo	HKm_Zvolen
+Karol_Križan	isAffiliatedTo	HKm_Zvolen
+Karol_Križan	isAffiliatedTo	Slovak_Extraliga
+Karol_Križan	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Matej_Kristín	isAffiliatedTo	HKm_Zvolen
+Matej_Kristín	isAffiliatedTo	HKm_Zvolen
+Matej_Kristín	isAffiliatedTo	Slovak_Extraliga
+Matej_Kristín	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Ivan_Majeský	isAffiliatedTo	HKm_Zvolen
+Ivan_Majeský	isAffiliatedTo	HKm_Zvolen
+Ivan_Majeský	isAffiliatedTo	Slovak_Extraliga
+Ivan_Majeský	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Vladimír_Országh	isAffiliatedTo	HKm_Zvolen
+Vladimír_Országh	isAffiliatedTo	HKm_Zvolen
+Vladimír_Országh	isAffiliatedTo	Slovak_Extraliga
+Vladimír_Országh	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Jaroslav_Obšut	isAffiliatedTo	HKm_Zvolen
+Jaroslav_Obšut	isAffiliatedTo	HKm_Zvolen
+Jaroslav_Obšut	isAffiliatedTo	Slovak_Extraliga
+Jaroslav_Obšut	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Tomáš_Škvaridlo	isAffiliatedTo	HKm_Zvolen
+Tomáš_Škvaridlo	isAffiliatedTo	HKm_Zvolen
+Tomáš_Škvaridlo	isAffiliatedTo	Slovak_Extraliga
+Tomáš_Škvaridlo	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Ondrej_Otčenáš	isAffiliatedTo	HKm_Zvolen
+Ondrej_Otčenáš	isAffiliatedTo	HKm_Zvolen
+Ondrej_Otčenáš	isAffiliatedTo	Slovak_Extraliga
+Ondrej_Otčenáš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Michal_Handzuš	isAffiliatedTo	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Ján_Lašák	isAffiliatedTo	HKm_Zvolen
+Ján_Lašák	isAffiliatedTo	HKm_Zvolen
+Ján_Lašák	isAffiliatedTo	Slovak_Extraliga
+Ján_Lašák	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Andrej_Hebar	isAffiliatedTo	HKm_Zvolen
+Andrej_Hebar	isAffiliatedTo	HKm_Zvolen
+Andrej_Hebar	isAffiliatedTo	Slovak_Extraliga
+Andrej_Hebar	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	Philadelphia_Flyers
+Michal_Handzuš	isAffiliatedTo	Philadelphia_Flyers
+Andrej_Meszároš	isAffiliatedTo	Philadelphia_Flyers
+Andrej_Meszároš	isAffiliatedTo	Philadelphia_Flyers
+Andrej_Meszároš	isAffiliatedTo	Slovak_Extraliga
+Andrej_Meszároš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	Philadelphia_Flyers
+Michal_Handzuš	isAffiliatedTo	Philadelphia_Flyers
+Radovan_Somík	isAffiliatedTo	Philadelphia_Flyers
+Radovan_Somík	isAffiliatedTo	Philadelphia_Flyers
+Radovan_Somík	isAffiliatedTo	Slovak_Extraliga
+Radovan_Somík	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	Philadelphia_Flyers
+Michal_Handzuš	isAffiliatedTo	Philadelphia_Flyers
+Ladislav_Ščurko	isAffiliatedTo	Philadelphia_Flyers
+Ladislav_Ščurko	isAffiliatedTo	Philadelphia_Flyers
+Ladislav_Ščurko	isAffiliatedTo	Slovak_Extraliga
+Ladislav_Ščurko	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	Philadelphia_Flyers
+Michal_Handzuš	isAffiliatedTo	Philadelphia_Flyers
+Branko_Radivojevič	isAffiliatedTo	Philadelphia_Flyers
+Branko_Radivojevič	isAffiliatedTo	Philadelphia_Flyers
+Branko_Radivojevič	isAffiliatedTo	Slovak_Extraliga
+Branko_Radivojevič	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	Philadelphia_Flyers
+Michal_Handzuš	isAffiliatedTo	Philadelphia_Flyers
+Michal_Handzuš	isAffiliatedTo	Philadelphia_Flyers
+Michal_Handzuš	isAffiliatedTo	Philadelphia_Flyers
+Michal_Handzuš	isAffiliatedTo	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Michal_Handzuš	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Michal_Handzuš	Slovak_Extraliga
+Michal_Handzuš	isCitizenOf	Slovakia
+Michal_Handzuš	isCitizenOf	Slovakia
+Matej_Kristín	isCitizenOf	Slovakia
+Matej_Kristín	isCitizenOf	Slovakia
+Matej_Kristín	isAffiliatedTo	Slovak_Extraliga
+Matej_Kristín	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Minnesota_Wild
+Justin_Falk	isAffiliatedTo	Minnesota_Wild
+Zac_Dalpe	isAffiliatedTo	Minnesota_Wild
+Zac_Dalpe	isAffiliatedTo	Minnesota_Wild
+Zac_Dalpe	isAffiliatedTo	Columbus_Blue_Jackets
+Zac_Dalpe	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Minnesota_Wild
+Justin_Falk	isAffiliatedTo	Minnesota_Wild
+Marián_Gáborík	isAffiliatedTo	Minnesota_Wild
+Marián_Gáborík	isAffiliatedTo	Minnesota_Wild
+Marián_Gáborík	isAffiliatedTo	Columbus_Blue_Jackets
+Marián_Gáborík	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Minnesota_Wild
+Justin_Falk	isAffiliatedTo	Minnesota_Wild
+Dan_Fritsche	isAffiliatedTo	Minnesota_Wild
+Dan_Fritsche	isAffiliatedTo	Minnesota_Wild
+Dan_Fritsche	isAffiliatedTo	Columbus_Blue_Jackets
+Dan_Fritsche	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Minnesota_Wild
+Justin_Falk	isAffiliatedTo	Minnesota_Wild
+Michael_Rupp	isAffiliatedTo	Minnesota_Wild
+Michael_Rupp	isAffiliatedTo	Minnesota_Wild
+Michael_Rupp	isAffiliatedTo	Columbus_Blue_Jackets
+Michael_Rupp	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Minnesota_Wild
+Justin_Falk	isAffiliatedTo	Minnesota_Wild
+Mike_Reilly_(ice_hockey)	isAffiliatedTo	Minnesota_Wild
+Mike_Reilly_(ice_hockey)	isAffiliatedTo	Minnesota_Wild
+Mike_Reilly_(ice_hockey)	isAffiliatedTo	Columbus_Blue_Jackets
+Mike_Reilly_(ice_hockey)	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Minnesota_Wild
+Justin_Falk	isAffiliatedTo	Minnesota_Wild
+Jordan_Leopold	isAffiliatedTo	Minnesota_Wild
+Jordan_Leopold	isAffiliatedTo	Minnesota_Wild
+Jordan_Leopold	isAffiliatedTo	Columbus_Blue_Jackets
+Jordan_Leopold	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Minnesota_Wild
+Justin_Falk	isAffiliatedTo	Minnesota_Wild
+Justin_Falk	isAffiliatedTo	Minnesota_Wild
+Justin_Falk	isAffiliatedTo	Minnesota_Wild
+Justin_Falk	isAffiliatedTo	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Minnesota_Wild
+Justin_Falk	isAffiliatedTo	Minnesota_Wild
+Petteri_Nummelin	isAffiliatedTo	Minnesota_Wild
+Petteri_Nummelin	isAffiliatedTo	Minnesota_Wild
+Petteri_Nummelin	isAffiliatedTo	Columbus_Blue_Jackets
+Petteri_Nummelin	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Minnesota_Wild
+Justin_Falk	isAffiliatedTo	Minnesota_Wild
+Marc-André_Bergeron	isAffiliatedTo	Minnesota_Wild
+Marc-André_Bergeron	isAffiliatedTo	Minnesota_Wild
+Marc-André_Bergeron	isAffiliatedTo	Columbus_Blue_Jackets
+Marc-André_Bergeron	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Brian_Holzinger	isAffiliatedTo	Buffalo_Sabres
+Brian_Holzinger	isAffiliatedTo	Buffalo_Sabres
+Brian_Holzinger	isAffiliatedTo	Columbus_Blue_Jackets
+Brian_Holzinger	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Corey_Tropp	isAffiliatedTo	Buffalo_Sabres
+Corey_Tropp	isAffiliatedTo	Buffalo_Sabres
+Corey_Tropp	isAffiliatedTo	Columbus_Blue_Jackets
+Corey_Tropp	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Michael_Peca	isAffiliatedTo	Buffalo_Sabres
+Michael_Peca	isAffiliatedTo	Buffalo_Sabres
+Michael_Peca	isAffiliatedTo	Columbus_Blue_Jackets
+Michael_Peca	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Chris_Gratton	isAffiliatedTo	Buffalo_Sabres
+Chris_Gratton	isAffiliatedTo	Buffalo_Sabres
+Chris_Gratton	isAffiliatedTo	Columbus_Blue_Jackets
+Chris_Gratton	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Bob_Boughner	isAffiliatedTo	Buffalo_Sabres
+Bob_Boughner	isAffiliatedTo	Buffalo_Sabres
+Bob_Boughner	isAffiliatedTo	Columbus_Blue_Jackets
+Bob_Boughner	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Jiří_Novotný_(ice_hockey)	isAffiliatedTo	Buffalo_Sabres
+Jiří_Novotný_(ice_hockey)	isAffiliatedTo	Buffalo_Sabres
+Jiří_Novotný_(ice_hockey)	isAffiliatedTo	Columbus_Blue_Jackets
+Jiří_Novotný_(ice_hockey)	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Steve_Heinze	isAffiliatedTo	Buffalo_Sabres
+Steve_Heinze	isAffiliatedTo	Buffalo_Sabres
+Steve_Heinze	isAffiliatedTo	Columbus_Blue_Jackets
+Steve_Heinze	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Ty_Conklin	isAffiliatedTo	Buffalo_Sabres
+Ty_Conklin	isAffiliatedTo	Buffalo_Sabres
+Ty_Conklin	isAffiliatedTo	Columbus_Blue_Jackets
+Ty_Conklin	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Justin_Falk	isAffiliatedTo	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Geoff_Sanderson	isAffiliatedTo	Buffalo_Sabres
+Geoff_Sanderson	isAffiliatedTo	Buffalo_Sabres
+Geoff_Sanderson	isAffiliatedTo	Columbus_Blue_Jackets
+Geoff_Sanderson	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Jordan_Leopold	isAffiliatedTo	Buffalo_Sabres
+Jordan_Leopold	isAffiliatedTo	Buffalo_Sabres
+Jordan_Leopold	isAffiliatedTo	Columbus_Blue_Jackets
+Jordan_Leopold	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Raffi_Torres	isAffiliatedTo	Buffalo_Sabres
+Raffi_Torres	isAffiliatedTo	Buffalo_Sabres
+Raffi_Torres	isAffiliatedTo	Columbus_Blue_Jackets
+Raffi_Torres	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Jaroslav_Špaček	isAffiliatedTo	Buffalo_Sabres
+Jaroslav_Špaček	isAffiliatedTo	Buffalo_Sabres
+Jaroslav_Špaček	isAffiliatedTo	Columbus_Blue_Jackets
+Jaroslav_Špaček	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Justin_Falk	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Columbus_Blue_Jackets
+Justin_Falk	Columbus_Blue_Jackets
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Justin_Falk	isAffiliatedTo	Buffalo_Sabres
+Zac_Dalpe	isAffiliatedTo	Buffalo_Sabres
+Zac_Dalpe	isAffiliatedTo	Buffalo_Sabres
+Zac_Dalpe	isAffiliatedTo	Columbus_Blue_Jackets
+Zac_Dalpe	isAffiliatedTo	Columbus_Blue_Jackets
+
+http://dbpedia.org/resource/Gabriel_Spilar	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Gabriel_Spilar	Slovak_Extraliga
+Gabriel_Spilar	isAffiliatedTo	HK_Nitra
+Gabriel_Spilar	isAffiliatedTo	HK_Nitra
+Jozef_Stümpel	isAffiliatedTo	HK_Nitra
+Jozef_Stümpel	isAffiliatedTo	HK_Nitra
+Jozef_Stümpel	isAffiliatedTo	Slovak_Extraliga
+Jozef_Stümpel	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Gabriel_Spilar	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Gabriel_Spilar	Slovak_Extraliga
+Gabriel_Spilar	isAffiliatedTo	HK_Nitra
+Gabriel_Spilar	isAffiliatedTo	HK_Nitra
+Žigmund_Pálffy	isAffiliatedTo	HK_Nitra
+Žigmund_Pálffy	isAffiliatedTo	HK_Nitra
+Žigmund_Pálffy	isAffiliatedTo	Slovak_Extraliga
+Žigmund_Pálffy	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Gabriel_Spilar	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Gabriel_Spilar	Slovak_Extraliga
+Gabriel_Spilar	isAffiliatedTo	HK_Nitra
+Gabriel_Spilar	isAffiliatedTo	HK_Nitra
+David_Moravec	isAffiliatedTo	HK_Nitra
+David_Moravec	isAffiliatedTo	HK_Nitra
+David_Moravec	isAffiliatedTo	Slovak_Extraliga
+David_Moravec	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Gabriel_Spilar	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Gabriel_Spilar	Slovak_Extraliga
+Gabriel_Spilar	isAffiliatedTo	HK_Nitra
+Gabriel_Spilar	isAffiliatedTo	HK_Nitra
+Armands_Bērziņš	isAffiliatedTo	HK_Nitra
+Armands_Bērziņš	isAffiliatedTo	HK_Nitra
+Armands_Bērziņš	isAffiliatedTo	Slovak_Extraliga
+Armands_Bērziņš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Gabriel_Spilar	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Gabriel_Spilar	Slovak_Extraliga
+Gabriel_Spilar	isAffiliatedTo	HK_Nitra
+Gabriel_Spilar	isAffiliatedTo	HK_Nitra
+Juraj_Kolník	isAffiliatedTo	HK_Nitra
+Juraj_Kolník	isAffiliatedTo	HK_Nitra
+Juraj_Kolník	isAffiliatedTo	Slovak_Extraliga
+Juraj_Kolník	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Gabriel_Spilar	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Gabriel_Spilar	Slovak_Extraliga
+Gabriel_Spilar	isAffiliatedTo	HK_Nitra
+Gabriel_Spilar	isAffiliatedTo	HK_Nitra
+Robert_Kristan	isAffiliatedTo	HK_Nitra
+Robert_Kristan	isAffiliatedTo	HK_Nitra
+Robert_Kristan	isAffiliatedTo	Slovak_Extraliga
+Robert_Kristan	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Gabriel_Spilar	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Gabriel_Spilar	Slovak_Extraliga
+Gabriel_Spilar	isAffiliatedTo	HC_Košice
+Gabriel_Spilar	isAffiliatedTo	HC_Košice
+Jerguš_Bača	isAffiliatedTo	HC_Košice
+Jerguš_Bača	isAffiliatedTo	HC_Košice
+Jerguš_Bača	isAffiliatedTo	Slovak_Extraliga
+Jerguš_Bača	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Gabriel_Spilar	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Gabriel_Spilar	Slovak_Extraliga
+Gabriel_Spilar	isAffiliatedTo	HC_Košice
+Gabriel_Spilar	isAffiliatedTo	HC_Košice
+Michel_Miklík	isAffiliatedTo	HC_Košice
+Michel_Miklík	isAffiliatedTo	HC_Košice
+Michel_Miklík	isAffiliatedTo	Slovak_Extraliga
+Michel_Miklík	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Gabriel_Spilar	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Gabriel_Spilar	Slovak_Extraliga
+Gabriel_Spilar	isAffiliatedTo	HC_Košice
+Gabriel_Spilar	isAffiliatedTo	HC_Košice
+Tomáš_Bulík	isAffiliatedTo	HC_Košice
+Tomáš_Bulík	isAffiliatedTo	HC_Košice
+Tomáš_Bulík	isAffiliatedTo	Slovak_Extraliga
+Tomáš_Bulík	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Gabriel_Spilar	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Gabriel_Spilar	Slovak_Extraliga
+Gabriel_Spilar	isAffiliatedTo	HC_Košice
+Gabriel_Spilar	isAffiliatedTo	HC_Košice
+Zdeněk_Blatný	isAffiliatedTo	HC_Košice
+Zdeněk_Blatný	isAffiliatedTo	HC_Košice
+Zdeněk_Blatný	isAffiliatedTo	Slovak_Extraliga
+Zdeněk_Blatný	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Gabriel_Spilar	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Gabriel_Spilar	Slovak_Extraliga
+Gabriel_Spilar	isAffiliatedTo	HC_Košice
+Gabriel_Spilar	isAffiliatedTo	HC_Košice
+Ladislav_Ščurko	isAffiliatedTo	HC_Košice
+Ladislav_Ščurko	isAffiliatedTo	HC_Košice
+Ladislav_Ščurko	isAffiliatedTo	Slovak_Extraliga
+Ladislav_Ščurko	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Gabriel_Spilar	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Gabriel_Spilar	Slovak_Extraliga
+Gabriel_Spilar	isAffiliatedTo	HC_Košice
+Gabriel_Spilar	isAffiliatedTo	HC_Košice
+Rastislav_Staňa	isAffiliatedTo	HC_Košice
+Rastislav_Staňa	isAffiliatedTo	HC_Košice
+Rastislav_Staňa	isAffiliatedTo	Slovak_Extraliga
+Rastislav_Staňa	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Gabriel_Spilar	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Gabriel_Spilar	Slovak_Extraliga
+Gabriel_Spilar	isAffiliatedTo	HC_Košice
+Gabriel_Spilar	isAffiliatedTo	HC_Košice
+Marcel_Haščák	isAffiliatedTo	HC_Košice
+Marcel_Haščák	isAffiliatedTo	HC_Košice
+Marcel_Haščák	isAffiliatedTo	Slovak_Extraliga
+Marcel_Haščák	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Gabriel_Spilar	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Gabriel_Spilar	Slovak_Extraliga
+Gabriel_Spilar	isAffiliatedTo	HC_Košice
+Gabriel_Spilar	isAffiliatedTo	HC_Košice
+Marek_Svatoš	isAffiliatedTo	HC_Košice
+Marek_Svatoš	isAffiliatedTo	HC_Košice
+Marek_Svatoš	isAffiliatedTo	Slovak_Extraliga
+Marek_Svatoš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Gabriel_Spilar	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Gabriel_Spilar	Slovak_Extraliga
+Gabriel_Spilar	isAffiliatedTo	HC_Košice
+Gabriel_Spilar	isAffiliatedTo	HC_Košice
+Ján_Lašák	isAffiliatedTo	HC_Košice
+Ján_Lašák	isAffiliatedTo	HC_Košice
+Ján_Lašák	isAffiliatedTo	Slovak_Extraliga
+Ján_Lašák	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Gabriel_Spilar	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Gabriel_Spilar	Slovak_Extraliga
+Gabriel_Spilar	isCitizenOf	Slovakia
+Gabriel_Spilar	isCitizenOf	Slovakia
+Matej_Kristín	isCitizenOf	Slovakia
+Matej_Kristín	isCitizenOf	Slovakia
+Matej_Kristín	isAffiliatedTo	Slovak_Extraliga
+Matej_Kristín	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Gabriel_Spilar	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Gabriel_Spilar	Slovak_Extraliga
+Gabriel_Spilar	isAffiliatedTo	MsHK_Žilina
+Gabriel_Spilar	isAffiliatedTo	MsHK_Žilina
+Tomáš_Bulík	isAffiliatedTo	MsHK_Žilina
+Tomáš_Bulík	isAffiliatedTo	MsHK_Žilina
+Tomáš_Bulík	isAffiliatedTo	Slovak_Extraliga
+Tomáš_Bulík	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Gabriel_Spilar	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Gabriel_Spilar	Slovak_Extraliga
+Gabriel_Spilar	isAffiliatedTo	MsHK_Žilina
+Gabriel_Spilar	isAffiliatedTo	MsHK_Žilina
+Michel_Miklík	isAffiliatedTo	MsHK_Žilina
+Michel_Miklík	isAffiliatedTo	MsHK_Žilina
+Michel_Miklík	isAffiliatedTo	Slovak_Extraliga
+Michel_Miklík	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Gabriel_Spilar	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Gabriel_Spilar	Slovak_Extraliga
+Gabriel_Spilar	isAffiliatedTo	MsHK_Žilina
+Gabriel_Spilar	isAffiliatedTo	MsHK_Žilina
+Karol_Križan	isAffiliatedTo	MsHK_Žilina
+Karol_Križan	isAffiliatedTo	MsHK_Žilina
+Karol_Križan	isAffiliatedTo	Slovak_Extraliga
+Karol_Križan	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Gabriel_Spilar	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Gabriel_Spilar	Slovak_Extraliga
+Gabriel_Spilar	isAffiliatedTo	MsHK_Žilina
+Gabriel_Spilar	isAffiliatedTo	MsHK_Žilina
+Miroslav_Hlinka	isAffiliatedTo	MsHK_Žilina
+Miroslav_Hlinka	isAffiliatedTo	MsHK_Žilina
+Miroslav_Hlinka	isAffiliatedTo	Slovak_Extraliga
+Miroslav_Hlinka	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Gabriel_Spilar	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Gabriel_Spilar	Slovak_Extraliga
+Gabriel_Spilar	isAffiliatedTo	MsHK_Žilina
+Gabriel_Spilar	isAffiliatedTo	MsHK_Žilina
+Tomáš_Káňa	isAffiliatedTo	MsHK_Žilina
+Tomáš_Káňa	isAffiliatedTo	MsHK_Žilina
+Tomáš_Káňa	isAffiliatedTo	Slovak_Extraliga
+Tomáš_Káňa	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Gabriel_Spilar	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Gabriel_Spilar	Slovak_Extraliga
+Gabriel_Spilar	isAffiliatedTo	MsHK_Žilina
+Gabriel_Spilar	isAffiliatedTo	MsHK_Žilina
+Tomáš_Škvaridlo	isAffiliatedTo	MsHK_Žilina
+Tomáš_Škvaridlo	isAffiliatedTo	MsHK_Žilina
+Tomáš_Škvaridlo	isAffiliatedTo	Slovak_Extraliga
+Tomáš_Škvaridlo	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Kazakhstan_Hockey_Championship
+Boris_Valábik	isAffiliatedTo	Kazakhstan_Hockey_Championship
+Boris_Valábik	isAffiliatedTo	Kazakhstan_Hockey_Championship
+Boris_Valábik	isAffiliatedTo	Kazakhstan_Hockey_Championship
+Boris_Valábik	isAffiliatedTo	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Kazakhstan_Hockey_Championship
+Boris_Valábik	isAffiliatedTo	Kazakhstan_Hockey_Championship
+Mike_Danton	isAffiliatedTo	Kazakhstan_Hockey_Championship
+Mike_Danton	isAffiliatedTo	Kazakhstan_Hockey_Championship
+Mike_Danton	isAffiliatedTo	Slovak_Extraliga
+Mike_Danton	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Kazakhstan_Hockey_Championship
+Boris_Valábik	isAffiliatedTo	Kazakhstan_Hockey_Championship
+Tomáš_Káňa	isAffiliatedTo	Kazakhstan_Hockey_Championship
+Tomáš_Káňa	isAffiliatedTo	Kazakhstan_Hockey_Championship
+Tomáš_Káňa	isAffiliatedTo	Slovak_Extraliga
+Tomáš_Káňa	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Kazakhstan_Hockey_Championship
+Boris_Valábik	isAffiliatedTo	Kazakhstan_Hockey_Championship
+Andrej_Nedorost	isAffiliatedTo	Kazakhstan_Hockey_Championship
+Andrej_Nedorost	isAffiliatedTo	Kazakhstan_Hockey_Championship
+Andrej_Nedorost	isAffiliatedTo	Slovak_Extraliga
+Andrej_Nedorost	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Kazakhstan_Hockey_Championship
+Boris_Valábik	isAffiliatedTo	Kazakhstan_Hockey_Championship
+Armands_Bērziņš	isAffiliatedTo	Kazakhstan_Hockey_Championship
+Armands_Bērziņš	isAffiliatedTo	Kazakhstan_Hockey_Championship
+Armands_Bērziņš	isAffiliatedTo	Slovak_Extraliga
+Armands_Bērziņš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Atlanta_Thrashers
+Boris_Valábik	isAffiliatedTo	Atlanta_Thrashers
+Boris_Valábik	isAffiliatedTo	Atlanta_Thrashers
+Boris_Valábik	isAffiliatedTo	Atlanta_Thrashers
+Boris_Valábik	isAffiliatedTo	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Atlanta_Thrashers
+Boris_Valábik	isAffiliatedTo	Atlanta_Thrashers
+Petr_Buzek	isAffiliatedTo	Atlanta_Thrashers
+Petr_Buzek	isAffiliatedTo	Atlanta_Thrashers
+Petr_Buzek	isAffiliatedTo	Slovak_Extraliga
+Petr_Buzek	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Atlanta_Thrashers
+Boris_Valábik	isAffiliatedTo	Atlanta_Thrashers
+Marián_Hossa	isAffiliatedTo	Atlanta_Thrashers
+Marián_Hossa	isAffiliatedTo	Atlanta_Thrashers
+Marián_Hossa	isAffiliatedTo	Slovak_Extraliga
+Marián_Hossa	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Atlanta_Thrashers
+Boris_Valábik	isAffiliatedTo	Atlanta_Thrashers
+Tomáš_Klouček	isAffiliatedTo	Atlanta_Thrashers
+Tomáš_Klouček	isAffiliatedTo	Atlanta_Thrashers
+Tomáš_Klouček	isAffiliatedTo	Slovak_Extraliga
+Tomáš_Klouček	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Atlanta_Thrashers
+Boris_Valábik	isAffiliatedTo	Atlanta_Thrashers
+Luke_Sellars	isAffiliatedTo	Atlanta_Thrashers
+Luke_Sellars	isAffiliatedTo	Atlanta_Thrashers
+Luke_Sellars	isAffiliatedTo	Slovak_Extraliga
+Luke_Sellars	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Atlanta_Thrashers
+Boris_Valábik	isAffiliatedTo	Atlanta_Thrashers
+Zdeněk_Blatný	isAffiliatedTo	Atlanta_Thrashers
+Zdeněk_Blatný	isAffiliatedTo	Atlanta_Thrashers
+Zdeněk_Blatný	isAffiliatedTo	Slovak_Extraliga
+Zdeněk_Blatný	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Atlanta_Thrashers
+Boris_Valábik	isAffiliatedTo	Atlanta_Thrashers
+Ivan_Majeský	isAffiliatedTo	Atlanta_Thrashers
+Ivan_Majeský	isAffiliatedTo	Atlanta_Thrashers
+Ivan_Majeský	isAffiliatedTo	Slovak_Extraliga
+Ivan_Majeský	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	HC_Kometa_Brno
+Boris_Valábik	isAffiliatedTo	HC_Kometa_Brno
+Boris_Valábik	isAffiliatedTo	HC_Kometa_Brno
+Boris_Valábik	isAffiliatedTo	HC_Kometa_Brno
+Boris_Valábik	isAffiliatedTo	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	HC_Kometa_Brno
+Boris_Valábik	isAffiliatedTo	HC_Kometa_Brno
+Marcel_Haščák	isAffiliatedTo	HC_Kometa_Brno
+Marcel_Haščák	isAffiliatedTo	HC_Kometa_Brno
+Marcel_Haščák	isAffiliatedTo	Slovak_Extraliga
+Marcel_Haščák	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	HC_Kometa_Brno
+Boris_Valábik	isAffiliatedTo	HC_Kometa_Brno
+Jozef_Balej	isAffiliatedTo	HC_Kometa_Brno
+Jozef_Balej	isAffiliatedTo	HC_Kometa_Brno
+Jozef_Balej	isAffiliatedTo	Slovak_Extraliga
+Jozef_Balej	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	HC_Kometa_Brno
+Boris_Valábik	isAffiliatedTo	HC_Kometa_Brno
+Martin_Richter	isAffiliatedTo	HC_Kometa_Brno
+Martin_Richter	isAffiliatedTo	HC_Kometa_Brno
+Martin_Richter	isAffiliatedTo	Slovak_Extraliga
+Martin_Richter	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	HC_Kometa_Brno
+Boris_Valábik	isAffiliatedTo	HC_Kometa_Brno
+Zdeněk_Blatný	isAffiliatedTo	HC_Kometa_Brno
+Zdeněk_Blatný	isAffiliatedTo	HC_Kometa_Brno
+Zdeněk_Blatný	isAffiliatedTo	Slovak_Extraliga
+Zdeněk_Blatný	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	HC_Kometa_Brno
+Boris_Valábik	isAffiliatedTo	HC_Kometa_Brno
+Roman_Meluzín	isAffiliatedTo	HC_Kometa_Brno
+Roman_Meluzín	isAffiliatedTo	HC_Kometa_Brno
+Roman_Meluzín	isAffiliatedTo	Slovak_Extraliga
+Roman_Meluzín	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	ŠHK_37_Piešťany
+Boris_Valábik	isAffiliatedTo	ŠHK_37_Piešťany
+Michel_Miklík	isAffiliatedTo	ŠHK_37_Piešťany
+Michel_Miklík	isAffiliatedTo	ŠHK_37_Piešťany
+Michel_Miklík	isAffiliatedTo	Slovak_Extraliga
+Michel_Miklík	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	ŠHK_37_Piešťany
+Boris_Valábik	isAffiliatedTo	ŠHK_37_Piešťany
+Peter_Ölvecký	isAffiliatedTo	ŠHK_37_Piešťany
+Peter_Ölvecký	isAffiliatedTo	ŠHK_37_Piešťany
+Peter_Ölvecký	isAffiliatedTo	Slovak_Extraliga
+Peter_Ölvecký	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	ŠHK_37_Piešťany
+Boris_Valábik	isAffiliatedTo	ŠHK_37_Piešťany
+Ondrej_Otčenáš	isAffiliatedTo	ŠHK_37_Piešťany
+Ondrej_Otčenáš	isAffiliatedTo	ŠHK_37_Piešťany
+Ondrej_Otčenáš	isAffiliatedTo	Slovak_Extraliga
+Ondrej_Otčenáš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	ŠHK_37_Piešťany
+Boris_Valábik	isAffiliatedTo	ŠHK_37_Piešťany
+Richard_Lintner	isAffiliatedTo	ŠHK_37_Piešťany
+Richard_Lintner	isAffiliatedTo	ŠHK_37_Piešťany
+Richard_Lintner	isAffiliatedTo	Slovak_Extraliga
+Richard_Lintner	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	ŠHK_37_Piešťany
+Boris_Valábik	isAffiliatedTo	ŠHK_37_Piešťany
+Jozef_Balej	isAffiliatedTo	ŠHK_37_Piešťany
+Jozef_Balej	isAffiliatedTo	ŠHK_37_Piešťany
+Jozef_Balej	isAffiliatedTo	Slovak_Extraliga
+Jozef_Balej	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	ŠHK_37_Piešťany
+Boris_Valábik	isAffiliatedTo	ŠHK_37_Piešťany
+Boris_Valábik	isAffiliatedTo	ŠHK_37_Piešťany
+Boris_Valábik	isAffiliatedTo	ŠHK_37_Piešťany
+Boris_Valábik	isAffiliatedTo	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Arlan_Kokshetau
+Boris_Valábik	isAffiliatedTo	Arlan_Kokshetau
+Boris_Valábik	isAffiliatedTo	Arlan_Kokshetau
+Boris_Valábik	isAffiliatedTo	Arlan_Kokshetau
+Boris_Valábik	isAffiliatedTo	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isCitizenOf	Slovakia
+Boris_Valábik	isCitizenOf	Slovakia
+Matej_Kristín	isCitizenOf	Slovakia
+Matej_Kristín	isCitizenOf	Slovakia
+Matej_Kristín	isAffiliatedTo	Slovak_Extraliga
+Matej_Kristín	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Arystan_Temirtau
+Boris_Valábik	isAffiliatedTo	Arystan_Temirtau
+Tomáš_Káňa	isAffiliatedTo	Arystan_Temirtau
+Tomáš_Káňa	isAffiliatedTo	Arystan_Temirtau
+Tomáš_Káňa	isAffiliatedTo	Slovak_Extraliga
+Tomáš_Káňa	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Boris_Valábik	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Boris_Valábik	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Arystan_Temirtau
+Boris_Valábik	isAffiliatedTo	Arystan_Temirtau
+Boris_Valábik	isAffiliatedTo	Arystan_Temirtau
+Boris_Valábik	isAffiliatedTo	Arystan_Temirtau
+Boris_Valábik	isAffiliatedTo	Slovak_Extraliga
+Boris_Valábik	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/MHC_Martin	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+MHC_Martin	Slovak_Extraliga
+Karol_Križan	isAffiliatedTo	MHC_Martin
+Karol_Križan	isAffiliatedTo	MHC_Martin
+Karol_Križan	isAffiliatedTo	Slovak_Extraliga
+Karol_Križan	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Daniel_Babka	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Daniel_Babka	Slovak_Extraliga
+Daniel_Babka	isCitizenOf	Slovakia
+Daniel_Babka	isCitizenOf	Slovakia
+Matej_Kristín	isCitizenOf	Slovakia
+Matej_Kristín	isCitizenOf	Slovakia
+Matej_Kristín	isAffiliatedTo	Slovak_Extraliga
+Matej_Kristín	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Daniel_Babka	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Daniel_Babka	Slovak_Extraliga
+Daniel_Babka	isAffiliatedTo	MHC_Martin
+Daniel_Babka	isAffiliatedTo	MHC_Martin
+Karol_Križan	isAffiliatedTo	MHC_Martin
+Karol_Križan	isAffiliatedTo	MHC_Martin
+Karol_Križan	isAffiliatedTo	Slovak_Extraliga
+Karol_Križan	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Daniel_Babka	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Daniel_Babka	Slovak_Extraliga
+Daniel_Babka	isAffiliatedTo	HKm_Zvolen
+Daniel_Babka	isAffiliatedTo	HKm_Zvolen
+Karol_Križan	isAffiliatedTo	HKm_Zvolen
+Karol_Križan	isAffiliatedTo	HKm_Zvolen
+Karol_Križan	isAffiliatedTo	Slovak_Extraliga
+Karol_Križan	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Daniel_Babka	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Daniel_Babka	Slovak_Extraliga
+Daniel_Babka	isAffiliatedTo	HKm_Zvolen
+Daniel_Babka	isAffiliatedTo	HKm_Zvolen
+Matej_Kristín	isAffiliatedTo	HKm_Zvolen
+Matej_Kristín	isAffiliatedTo	HKm_Zvolen
+Matej_Kristín	isAffiliatedTo	Slovak_Extraliga
+Matej_Kristín	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Daniel_Babka	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Daniel_Babka	Slovak_Extraliga
+Daniel_Babka	isAffiliatedTo	HKm_Zvolen
+Daniel_Babka	isAffiliatedTo	HKm_Zvolen
+Ivan_Majeský	isAffiliatedTo	HKm_Zvolen
+Ivan_Majeský	isAffiliatedTo	HKm_Zvolen
+Ivan_Majeský	isAffiliatedTo	Slovak_Extraliga
+Ivan_Majeský	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Daniel_Babka	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Daniel_Babka	Slovak_Extraliga
+Daniel_Babka	isAffiliatedTo	HKm_Zvolen
+Daniel_Babka	isAffiliatedTo	HKm_Zvolen
+Vladimír_Országh	isAffiliatedTo	HKm_Zvolen
+Vladimír_Országh	isAffiliatedTo	HKm_Zvolen
+Vladimír_Országh	isAffiliatedTo	Slovak_Extraliga
+Vladimír_Országh	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Daniel_Babka	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Daniel_Babka	Slovak_Extraliga
+Daniel_Babka	isAffiliatedTo	HKm_Zvolen
+Daniel_Babka	isAffiliatedTo	HKm_Zvolen
+Jaroslav_Obšut	isAffiliatedTo	HKm_Zvolen
+Jaroslav_Obšut	isAffiliatedTo	HKm_Zvolen
+Jaroslav_Obšut	isAffiliatedTo	Slovak_Extraliga
+Jaroslav_Obšut	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Daniel_Babka	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Daniel_Babka	Slovak_Extraliga
+Daniel_Babka	isAffiliatedTo	HKm_Zvolen
+Daniel_Babka	isAffiliatedTo	HKm_Zvolen
+Tomáš_Škvaridlo	isAffiliatedTo	HKm_Zvolen
+Tomáš_Škvaridlo	isAffiliatedTo	HKm_Zvolen
+Tomáš_Škvaridlo	isAffiliatedTo	Slovak_Extraliga
+Tomáš_Škvaridlo	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Daniel_Babka	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Daniel_Babka	Slovak_Extraliga
+Daniel_Babka	isAffiliatedTo	HKm_Zvolen
+Daniel_Babka	isAffiliatedTo	HKm_Zvolen
+Ondrej_Otčenáš	isAffiliatedTo	HKm_Zvolen
+Ondrej_Otčenáš	isAffiliatedTo	HKm_Zvolen
+Ondrej_Otčenáš	isAffiliatedTo	Slovak_Extraliga
+Ondrej_Otčenáš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Daniel_Babka	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Daniel_Babka	Slovak_Extraliga
+Daniel_Babka	isAffiliatedTo	HKm_Zvolen
+Daniel_Babka	isAffiliatedTo	HKm_Zvolen
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Michal_Handzuš	isAffiliatedTo	HKm_Zvolen
+Michal_Handzuš	isAffiliatedTo	Slovak_Extraliga
+Michal_Handzuš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Daniel_Babka	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Daniel_Babka	Slovak_Extraliga
+Daniel_Babka	isAffiliatedTo	HKm_Zvolen
+Daniel_Babka	isAffiliatedTo	HKm_Zvolen
+Ján_Lašák	isAffiliatedTo	HKm_Zvolen
+Ján_Lašák	isAffiliatedTo	HKm_Zvolen
+Ján_Lašák	isAffiliatedTo	Slovak_Extraliga
+Ján_Lašák	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Daniel_Babka	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Daniel_Babka	Slovak_Extraliga
+Daniel_Babka	isAffiliatedTo	HKm_Zvolen
+Daniel_Babka	isAffiliatedTo	HKm_Zvolen
+Andrej_Hebar	isAffiliatedTo	HKm_Zvolen
+Andrej_Hebar	isAffiliatedTo	HKm_Zvolen
+Andrej_Hebar	isAffiliatedTo	Slovak_Extraliga
+Andrej_Hebar	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Daniel_Babka	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Daniel_Babka	Slovak_Extraliga
+Daniel_Babka	isAffiliatedTo	HC_Košice
+Daniel_Babka	isAffiliatedTo	HC_Košice
+Jerguš_Bača	isAffiliatedTo	HC_Košice
+Jerguš_Bača	isAffiliatedTo	HC_Košice
+Jerguš_Bača	isAffiliatedTo	Slovak_Extraliga
+Jerguš_Bača	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Daniel_Babka	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Daniel_Babka	Slovak_Extraliga
+Daniel_Babka	isAffiliatedTo	HC_Košice
+Daniel_Babka	isAffiliatedTo	HC_Košice
+Michel_Miklík	isAffiliatedTo	HC_Košice
+Michel_Miklík	isAffiliatedTo	HC_Košice
+Michel_Miklík	isAffiliatedTo	Slovak_Extraliga
+Michel_Miklík	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Daniel_Babka	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Daniel_Babka	Slovak_Extraliga
+Daniel_Babka	isAffiliatedTo	HC_Košice
+Daniel_Babka	isAffiliatedTo	HC_Košice
+Tomáš_Bulík	isAffiliatedTo	HC_Košice
+Tomáš_Bulík	isAffiliatedTo	HC_Košice
+Tomáš_Bulík	isAffiliatedTo	Slovak_Extraliga
+Tomáš_Bulík	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Daniel_Babka	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Daniel_Babka	Slovak_Extraliga
+Daniel_Babka	isAffiliatedTo	HC_Košice
+Daniel_Babka	isAffiliatedTo	HC_Košice
+Zdeněk_Blatný	isAffiliatedTo	HC_Košice
+Zdeněk_Blatný	isAffiliatedTo	HC_Košice
+Zdeněk_Blatný	isAffiliatedTo	Slovak_Extraliga
+Zdeněk_Blatný	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Daniel_Babka	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Daniel_Babka	Slovak_Extraliga
+Daniel_Babka	isAffiliatedTo	HC_Košice
+Daniel_Babka	isAffiliatedTo	HC_Košice
+Ladislav_Ščurko	isAffiliatedTo	HC_Košice
+Ladislav_Ščurko	isAffiliatedTo	HC_Košice
+Ladislav_Ščurko	isAffiliatedTo	Slovak_Extraliga
+Ladislav_Ščurko	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Daniel_Babka	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Daniel_Babka	Slovak_Extraliga
+Daniel_Babka	isAffiliatedTo	HC_Košice
+Daniel_Babka	isAffiliatedTo	HC_Košice
+Rastislav_Staňa	isAffiliatedTo	HC_Košice
+Rastislav_Staňa	isAffiliatedTo	HC_Košice
+Rastislav_Staňa	isAffiliatedTo	Slovak_Extraliga
+Rastislav_Staňa	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Daniel_Babka	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Daniel_Babka	Slovak_Extraliga
+Daniel_Babka	isAffiliatedTo	HC_Košice
+Daniel_Babka	isAffiliatedTo	HC_Košice
+Marcel_Haščák	isAffiliatedTo	HC_Košice
+Marcel_Haščák	isAffiliatedTo	HC_Košice
+Marcel_Haščák	isAffiliatedTo	Slovak_Extraliga
+Marcel_Haščák	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Daniel_Babka	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Daniel_Babka	Slovak_Extraliga
+Daniel_Babka	isAffiliatedTo	HC_Košice
+Daniel_Babka	isAffiliatedTo	HC_Košice
+Marek_Svatoš	isAffiliatedTo	HC_Košice
+Marek_Svatoš	isAffiliatedTo	HC_Košice
+Marek_Svatoš	isAffiliatedTo	Slovak_Extraliga
+Marek_Svatoš	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/Daniel_Babka	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+Daniel_Babka	Slovak_Extraliga
+Daniel_Babka	isAffiliatedTo	HC_Košice
+Daniel_Babka	isAffiliatedTo	HC_Košice
+Ján_Lašák	isAffiliatedTo	HC_Košice
+Ján_Lašák	isAffiliatedTo	HC_Košice
+Ján_Lašák	isAffiliatedTo	Slovak_Extraliga
+Ján_Lašák	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/HK_Poprad	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+HK_Poprad	Slovak_Extraliga
+Marcel_Haščák	isAffiliatedTo	HK_Poprad
+Marcel_Haščák	isAffiliatedTo	HK_Poprad
+Marcel_Haščák	isAffiliatedTo	Slovak_Extraliga
+Marcel_Haščák	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/HK_Poprad	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+HK_Poprad	Slovak_Extraliga
+HK_Poprad	isLocatedIn	Slovakia
+HK_Poprad	isLocatedIn	Slovakia
+Matej_Kristín	isCitizenOf	Slovakia
+Matej_Kristín	isCitizenOf	Slovakia
+Matej_Kristín	isAffiliatedTo	Slovak_Extraliga
+Matej_Kristín	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/HK_Poprad	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+HK_Poprad	Slovak_Extraliga
+Ladislav_Nagy	isAffiliatedTo	HK_Poprad
+Ladislav_Nagy	isAffiliatedTo	HK_Poprad
+Ladislav_Nagy	isAffiliatedTo	Slovak_Extraliga
+Ladislav_Nagy	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/HK_Poprad	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+HK_Poprad	Slovak_Extraliga
+Miroslav_Hlinka	isAffiliatedTo	HK_Poprad
+Miroslav_Hlinka	isAffiliatedTo	HK_Poprad
+Miroslav_Hlinka	isAffiliatedTo	Slovak_Extraliga
+Miroslav_Hlinka	isAffiliatedTo	Slovak_Extraliga
+
+http://dbpedia.org/resource/HK_Poprad	http://dbpedia.org/ontology/league	http://dbpedia.org/resource/Slovak_Extraliga
+HK_Poprad	Slovak_Extraliga
+Edgars_Masaļskis	isAffiliatedTo	HK_Poprad
+Edgars_Masaļskis	isAffiliatedTo	HK_Poprad
+Edgars_Masaļskis	isAffiliatedTo	Slovak_Extraliga
+Edgars_Masaļskis	isAffiliatedTo	Slovak_Extraliga
+

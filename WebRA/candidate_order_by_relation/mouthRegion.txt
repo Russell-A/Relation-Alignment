@@ -1,0 +1,298 @@
+http://dbpedia.org/resource/North_Fork_American_River	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Placer_County,_California
+North_Fork_American_River	Placer_County,_California
+North_Fork_American_River	isLocatedIn	Placer_County,_California
+North_Fork_American_River	isLocatedIn	Placer_County,_California
+
+http://dbpedia.org/resource/North_Fork_American_River	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Placer_County,_California
+North_Fork_American_River	Placer_County,_California
+North_Fork_American_River	isLocatedIn	Northern_California
+North_Fork_American_River	isLocatedIn	Northern_California
+American_River	isLocatedIn	Northern_California
+American_River	isLocatedIn	Northern_California
+American_River	isLocatedIn	Placer_County,_California
+American_River	isLocatedIn	Placer_County,_California
+
+http://dbpedia.org/resource/North_Fork_American_River	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Placer_County,_California
+North_Fork_American_River	Placer_County,_California
+North_Fork_American_River	isLocatedIn	El_Dorado_County,_California
+North_Fork_American_River	isLocatedIn	El_Dorado_County,_California
+El_Dorado_County,_California	isLocatedIn	Sacramento_metropolitan_area
+El_Dorado_County,_California	isLocatedIn	Sacramento_metropolitan_area
+Placer_County,_California	isLocatedIn	Sacramento_metropolitan_area
+Placer_County,_California	isLocatedIn	Sacramento_metropolitan_area
+
+http://dbpedia.org/resource/Slippery_Rock_Creek	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Beaver_County,_Pennsylvania
+Slippery_Rock_Creek	Beaver_County,_Pennsylvania
+Slippery_Rock_Creek	isLocatedIn	Beaver_County,_Pennsylvania
+Slippery_Rock_Creek	isLocatedIn	Beaver_County,_Pennsylvania
+
+http://dbpedia.org/resource/Slippery_Rock_Creek	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Beaver_County,_Pennsylvania
+Slippery_Rock_Creek	Beaver_County,_Pennsylvania
+Slippery_Rock_Creek	isLocatedIn	Pennsylvania
+Slippery_Rock_Creek	isLocatedIn	Pennsylvania
+Ambridge,_Pennsylvania	isLocatedIn	Pennsylvania
+Ambridge,_Pennsylvania	isLocatedIn	Pennsylvania
+Ambridge,_Pennsylvania	isLocatedIn	Beaver_County,_Pennsylvania
+Ambridge,_Pennsylvania	isLocatedIn	Beaver_County,_Pennsylvania
+
+http://dbpedia.org/resource/Slippery_Rock_Creek	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Beaver_County,_Pennsylvania
+Slippery_Rock_Creek	Beaver_County,_Pennsylvania
+Slippery_Rock_Creek	isLocatedIn	Pennsylvania
+Slippery_Rock_Creek	isLocatedIn	Pennsylvania
+Beaver,_Pennsylvania	isLocatedIn	Pennsylvania
+Beaver,_Pennsylvania	isLocatedIn	Pennsylvania
+Beaver_County,_Pennsylvania	isLocatedIn	Beaver,_Pennsylvania
+Beaver,_Pennsylvania	isLocatedIn	Beaver_County,_Pennsylvania
+Beaver_County,_Pennsylvania	isLocatedIn	Beaver,_Pennsylvania
+Beaver,_Pennsylvania	isLocatedIn	Beaver_County,_Pennsylvania
+
+http://dbpedia.org/resource/San_Antonio_Creek_(San_Bernardino_County)	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/San_Bernardino_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	San_Bernardino_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Los_Angeles_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Los_Angeles_County,_California
+Los_Angeles_County,_California	isLocatedIn	Southern_California
+Southern_California	isLocatedIn	Los_Angeles_County,_California
+Los_Angeles_County,_California	isLocatedIn	Southern_California
+Southern_California	isLocatedIn	Los_Angeles_County,_California
+Southern_California	isLocatedIn	San_Bernardino_County,_California
+Southern_California	isLocatedIn	San_Bernardino_County,_California
+
+http://dbpedia.org/resource/San_Antonio_Creek_(San_Bernardino_County)	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/San_Bernardino_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	San_Bernardino_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Los_Angeles_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Los_Angeles_County,_California
+Angeles_National_Forest	isLocatedIn	Los_Angeles_County,_California
+Angeles_National_Forest	isLocatedIn	Los_Angeles_County,_California
+Angeles_National_Forest	isLocatedIn	San_Bernardino_County,_California
+Angeles_National_Forest	isLocatedIn	San_Bernardino_County,_California
+
+http://dbpedia.org/resource/San_Antonio_Creek_(San_Bernardino_County)	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/San_Bernardino_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	San_Bernardino_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Southern_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Southern_California
+Colorado_River	isLocatedIn	Southern_California
+Colorado_River	isLocatedIn	Southern_California
+Colorado_River	isLocatedIn	San_Bernardino_County,_California
+Colorado_River	isLocatedIn	San_Bernardino_County,_California
+
+http://dbpedia.org/resource/San_Antonio_Creek_(San_Bernardino_County)	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/San_Bernardino_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	San_Bernardino_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Southern_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Southern_California
+Southern_California	isLocatedIn	San_Bernardino_County,_California
+Southern_California	isLocatedIn	San_Bernardino_County,_California
+
+http://dbpedia.org/resource/San_Antonio_Creek_(San_Bernardino_County)	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/San_Bernardino_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	San_Bernardino_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Southern_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Southern_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Southern_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Southern_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	San_Bernardino_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	San_Bernardino_County,_California
+
+http://dbpedia.org/resource/San_Antonio_Creek_(San_Bernardino_County)	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/San_Bernardino_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	San_Bernardino_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Southern_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	Southern_California
+Santa_Ana_River	isLocatedIn	Southern_California
+Santa_Ana_River	isLocatedIn	Southern_California
+Santa_Ana_River	isLocatedIn	San_Bernardino_County,_California
+Santa_Ana_River	isLocatedIn	San_Bernardino_County,_California
+
+http://dbpedia.org/resource/San_Antonio_Creek_(San_Bernardino_County)	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/San_Bernardino_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	San_Bernardino_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	San_Bernardino_County,_California
+San_Antonio_Creek_(San_Bernardino_County)	isLocatedIn	San_Bernardino_County,_California
+
+http://dbpedia.org/resource/Lehigh_River	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Northampton_County,_Pennsylvania
+Lehigh_River	Northampton_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Carbon_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Carbon_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Carbon_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Carbon_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Northampton_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Northampton_County,_Pennsylvania
+
+http://dbpedia.org/resource/Lehigh_River	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Northampton_County,_Pennsylvania
+Lehigh_River	Northampton_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Pennsylvania
+Lehigh_River	isLocatedIn	Pennsylvania
+Bethlehem,_Pennsylvania	isLocatedIn	Pennsylvania
+Bethlehem,_Pennsylvania	isLocatedIn	Pennsylvania
+Bethlehem,_Pennsylvania	isLocatedIn	Northampton_County,_Pennsylvania
+Bethlehem,_Pennsylvania	isLocatedIn	Northampton_County,_Pennsylvania
+
+http://dbpedia.org/resource/Lehigh_River	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Northampton_County,_Pennsylvania
+Lehigh_River	Northampton_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Lehigh_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Lehigh_County,_Pennsylvania
+Bethlehem,_Pennsylvania	isLocatedIn	Lehigh_County,_Pennsylvania
+Bethlehem,_Pennsylvania	isLocatedIn	Lehigh_County,_Pennsylvania
+Bethlehem,_Pennsylvania	isLocatedIn	Northampton_County,_Pennsylvania
+Bethlehem,_Pennsylvania	isLocatedIn	Northampton_County,_Pennsylvania
+
+http://dbpedia.org/resource/Lehigh_River	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Northampton_County,_Pennsylvania
+Lehigh_River	Northampton_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Wayne_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Wayne_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Wayne_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Wayne_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Northampton_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Northampton_County,_Pennsylvania
+
+http://dbpedia.org/resource/Lehigh_River	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Northampton_County,_Pennsylvania
+Lehigh_River	Northampton_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Wayne_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Wayne_County,_Pennsylvania
+Delaware_River	isLocatedIn	Wayne_County,_Pennsylvania
+Delaware_River	isLocatedIn	Wayne_County,_Pennsylvania
+Delaware_River	isLocatedIn	Northampton_County,_Pennsylvania
+Delaware_River	isLocatedIn	Northampton_County,_Pennsylvania
+
+http://dbpedia.org/resource/Lehigh_River	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Northampton_County,_Pennsylvania
+Lehigh_River	Northampton_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Northampton_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Northampton_County,_Pennsylvania
+
+http://dbpedia.org/resource/Lehigh_River	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Northampton_County,_Pennsylvania
+Lehigh_River	Northampton_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Monroe_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Monroe_County,_Pennsylvania
+Delaware_River	isLocatedIn	Monroe_County,_Pennsylvania
+Delaware_River	isLocatedIn	Monroe_County,_Pennsylvania
+Delaware_River	isLocatedIn	Northampton_County,_Pennsylvania
+Delaware_River	isLocatedIn	Northampton_County,_Pennsylvania
+
+http://dbpedia.org/resource/Lehigh_River	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Northampton_County,_Pennsylvania
+Lehigh_River	Northampton_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Monroe_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Monroe_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Monroe_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Monroe_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Northampton_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Northampton_County,_Pennsylvania
+
+http://dbpedia.org/resource/Lehigh_River	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Northampton_County,_Pennsylvania
+Lehigh_River	Northampton_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Lackawanna_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Lackawanna_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Lackawanna_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Lackawanna_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Northampton_County,_Pennsylvania
+Lehigh_River	isLocatedIn	Northampton_County,_Pennsylvania
+
+http://dbpedia.org/resource/Breakneck_Creek	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Butler_County,_Pennsylvania
+Breakneck_Creek	Butler_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Pennsylvania
+Breakneck_Creek	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Butler_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Butler_County,_Pennsylvania
+
+http://dbpedia.org/resource/Breakneck_Creek	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Butler_County,_Pennsylvania
+Breakneck_Creek	Butler_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Pennsylvania
+Breakneck_Creek	isLocatedIn	Pennsylvania
+Cranberry_Township,_Butler_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Cranberry_Township,_Butler_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Cranberry_Township,_Butler_County,_Pennsylvania	isLocatedIn	Butler_County,_Pennsylvania
+Cranberry_Township,_Butler_County,_Pennsylvania	isLocatedIn	Butler_County,_Pennsylvania
+
+http://dbpedia.org/resource/Breakneck_Creek	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Butler_County,_Pennsylvania
+Breakneck_Creek	Butler_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Pennsylvania
+Breakneck_Creek	isLocatedIn	Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Pennsylvania
+Butler_County,_Pennsylvania	isLocatedIn	Butler,_Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Butler_County,_Pennsylvania
+Butler_County,_Pennsylvania	isLocatedIn	Butler,_Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Butler_County,_Pennsylvania
+
+http://dbpedia.org/resource/Breakneck_Creek	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Butler_County,_Pennsylvania
+Breakneck_Creek	Butler_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Butler_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Butler_County,_Pennsylvania
+
+http://dbpedia.org/resource/Breakneck_Creek	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Butler_County,_Pennsylvania
+Breakneck_Creek	Butler_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Allegheny_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Allegheny_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Allegheny_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Butler_County,_Pennsylvania
+Allegheny_River	isLocatedIn	Butler_County,_Pennsylvania
+
+http://dbpedia.org/resource/Breakneck_Creek	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Butler_County,_Pennsylvania
+Breakneck_Creek	Butler_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Allegheny_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Allegheny_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Allegheny_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Allegheny_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Butler_County,_Pennsylvania
+Breakneck_Creek	isLocatedIn	Butler_County,_Pennsylvania
+
+http://dbpedia.org/resource/St._Croix_River_(Wisconsin–Minnesota)	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Washington_County,_Minnesota
+St._Croix_River_(Wisconsin–Minnesota)	Washington_County,_Minnesota
+Marine_on_St._Croix,_Minnesota	isLocatedIn	St._Croix_River_(Wisconsin–Minnesota)
+Marine_on_St._Croix,_Minnesota	isLocatedIn	St._Croix_River_(Wisconsin–Minnesota)
+Marine_on_St._Croix,_Minnesota	isLocatedIn	St._Croix_River_(Wisconsin–Minnesota)
+Marine_on_St._Croix,_Minnesota	isLocatedIn	St._Croix_River_(Wisconsin–Minnesota)
+St._Croix_River_(Wisconsin–Minnesota)	isLocatedIn	Washington_County,_Minnesota
+St._Croix_River_(Wisconsin–Minnesota)	isLocatedIn	Washington_County,_Minnesota
+
+http://dbpedia.org/resource/St._Croix_River_(Wisconsin–Minnesota)	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Washington_County,_Minnesota
+St._Croix_River_(Wisconsin–Minnesota)	Washington_County,_Minnesota
+Marine_on_St._Croix,_Minnesota	isLocatedIn	St._Croix_River_(Wisconsin–Minnesota)
+Marine_on_St._Croix,_Minnesota	isLocatedIn	St._Croix_River_(Wisconsin–Minnesota)
+Marine_on_St._Croix,_Minnesota	isLocatedIn	Washington_County,_Minnesota
+Marine_on_St._Croix,_Minnesota	isLocatedIn	Washington_County,_Minnesota
+
+http://dbpedia.org/resource/St._Croix_River_(Wisconsin–Minnesota)	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Washington_County,_Minnesota
+St._Croix_River_(Wisconsin–Minnesota)	Washington_County,_Minnesota
+St._Croix_River_(Wisconsin–Minnesota)	isLocatedIn	Minnesota
+St._Croix_River_(Wisconsin–Minnesota)	isLocatedIn	Minnesota
+Newport,_Minnesota	isLocatedIn	Minnesota
+Newport,_Minnesota	isLocatedIn	Minnesota
+Newport,_Minnesota	isLocatedIn	Washington_County,_Minnesota
+Newport,_Minnesota	isLocatedIn	Washington_County,_Minnesota
+
+http://dbpedia.org/resource/St._Croix_River_(Wisconsin–Minnesota)	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Washington_County,_Minnesota
+St._Croix_River_(Wisconsin–Minnesota)	Washington_County,_Minnesota
+St._Croix_River_(Wisconsin–Minnesota)	isLocatedIn	Washington_County,_Minnesota
+St._Croix_River_(Wisconsin–Minnesota)	isLocatedIn	Washington_County,_Minnesota
+
+http://dbpedia.org/resource/Tes_River	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Uvs_Province
+Tes_River	Uvs_Province
+Tes_River	isLocatedIn	Uvs_Province
+Tes_River	isLocatedIn	Uvs_Province
+
+http://dbpedia.org/resource/Tes_River	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Uvs_Province
+Tes_River	Uvs_Province
+Tes_River	isLocatedIn	Khövsgöl_Province
+Tes_River	isLocatedIn	Khövsgöl_Province
+Tes_River	isLocatedIn	Khövsgöl_Province
+Tes_River	isLocatedIn	Khövsgöl_Province
+Tes_River	isLocatedIn	Uvs_Province
+Tes_River	isLocatedIn	Uvs_Province
+
+http://dbpedia.org/resource/Tes_River	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Uvs_Province
+Tes_River	Uvs_Province
+Tes_River	isLocatedIn	Zavkhan_Province
+Tes_River	isLocatedIn	Zavkhan_Province
+Zavkhan_River	isLocatedIn	Zavkhan_Province
+Zavkhan_River	isLocatedIn	Zavkhan_Province
+Zavkhan_River	isLocatedIn	Uvs_Province
+Zavkhan_River	isLocatedIn	Uvs_Province
+
+http://dbpedia.org/resource/Tes_River	http://dbpedia.org/ontology/mouthRegion	http://dbpedia.org/resource/Uvs_Province
+Tes_River	Uvs_Province
+Tes_River	isLocatedIn	Zavkhan_Province
+Tes_River	isLocatedIn	Zavkhan_Province
+Tes_River	isLocatedIn	Zavkhan_Province
+Tes_River	isLocatedIn	Zavkhan_Province
+Tes_River	isLocatedIn	Uvs_Province
+Tes_River	isLocatedIn	Uvs_Province
+

@@ -1,0 +1,198 @@
+http://dbpedia.org/resource/Nathan_Shamuyarira	http://dbpedia.org/ontology/vicePresident	http://dbpedia.org/resource/Joshua_Nkomo
+Nathan_Shamuyarira	Joshua_Nkomo
+Nathan_Shamuyarira	diedIn	Harare
+Nathan_Shamuyarira	diedIn	Harare
+Harare	isLocatedIn	Zimbabwe
+Harare	isLocatedIn	Zimbabwe
+Joshua_Nkomo	isPoliticianOf	Zimbabwe
+Joshua_Nkomo	isCitizenOf	Zimbabwe
+Joshua_Nkomo	isPoliticianOf	Zimbabwe
+Joshua_Nkomo	isCitizenOf	Zimbabwe
+
+http://dbpedia.org/resource/Nathan_Shamuyarira	http://dbpedia.org/ontology/vicePresident	http://dbpedia.org/resource/Joshua_Nkomo
+Nathan_Shamuyarira	Joshua_Nkomo
+Nathan_Shamuyarira	isCitizenOf	Zimbabwe
+Nathan_Shamuyarira	isCitizenOf	Zimbabwe
+Joshua_Nkomo	isPoliticianOf	Zimbabwe
+Joshua_Nkomo	isCitizenOf	Zimbabwe
+Joshua_Nkomo	isPoliticianOf	Zimbabwe
+Joshua_Nkomo	isCitizenOf	Zimbabwe
+
+http://dbpedia.org/resource/Nathan_Shamuyarira	http://dbpedia.org/ontology/vicePresident	http://dbpedia.org/resource/Joshua_Nkomo
+Nathan_Shamuyarira	Joshua_Nkomo
+Nathan_Shamuyarira	wasBornIn	Southern_Rhodesia
+Nathan_Shamuyarira	wasBornIn	Southern_Rhodesia
+Joshua_Nkomo	wasBornIn	Southern_Rhodesia
+Joshua_Nkomo	wasBornIn	Southern_Rhodesia
+
+http://dbpedia.org/resource/Lee_Teng-hui	http://dbpedia.org/ontology/vicePresident	http://dbpedia.org/resource/Li_Yuan-tsu
+Lee_Teng-hui	Li_Yuan-tsu
+Lee_Teng-hui	isAffiliatedTo	Kuomintang
+Lee_Teng-hui	isAffiliatedTo	Kuomintang
+Li_Yuan-tsu	isAffiliatedTo	Kuomintang
+Li_Yuan-tsu	isAffiliatedTo	Kuomintang
+
+http://dbpedia.org/resource/Hasri_Ainun_Habibie	http://dbpedia.org/ontology/vicePresident	http://dbpedia.org/resource/B._J._Habibie
+Hasri_Ainun_Habibie	B._J._Habibie
+B._J._Habibie	isMarriedTo	Hasri_Ainun_Habibie
+Hasri_Ainun_Habibie	isMarriedTo	B._J._Habibie
+B._J._Habibie	isMarriedTo	Hasri_Ainun_Habibie
+Hasri_Ainun_Habibie	isMarriedTo	B._J._Habibie
+
+http://dbpedia.org/resource/Rafael_Correa	http://dbpedia.org/ontology/vicePresident	http://dbpedia.org/resource/Jorge_Glas
+Rafael_Correa	Jorge_Glas
+Rafael_Correa	isAffiliatedTo	PAIS_Alliance
+Rafael_Correa	isAffiliatedTo	PAIS_Alliance
+Jorge_Glas	isAffiliatedTo	PAIS_Alliance
+Jorge_Glas	isAffiliatedTo	PAIS_Alliance
+
+http://dbpedia.org/resource/Bashar_al-Assad	http://dbpedia.org/ontology/vicePresident	http://dbpedia.org/resource/Najah_al-Attar
+Bashar_al-Assad	Najah_al-Attar
+Bashar_al-Assad	isCitizenOf	Syria
+Bashar_al-Assad	isLeaderOf	Syria
+Bashar_al-Assad	isPoliticianOf	Syria
+Bashar_al-Assad	isCitizenOf	Syria
+Bashar_al-Assad	isLeaderOf	Syria
+Bashar_al-Assad	isPoliticianOf	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Najah_al-Attar	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Najah_al-Attar	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Bashar_al-Assad	http://dbpedia.org/ontology/vicePresident	http://dbpedia.org/resource/Najah_al-Attar
+Bashar_al-Assad	Najah_al-Attar
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	hasChild	Bashar_al-Assad
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Hafez_al-Assad	isLeaderOf	Ba'ath_Party_(Syrian-dominated_faction)
+Najah_al-Attar	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+Najah_al-Attar	isAffiliatedTo	Ba'ath_Party_(Syrian-dominated_faction)
+
+http://dbpedia.org/resource/Bashar_al-Assad	http://dbpedia.org/ontology/vicePresident	http://dbpedia.org/resource/Najah_al-Attar
+Bashar_al-Assad	Najah_al-Attar
+Bashar_al-Assad	isLeaderOf	Syrian_Armed_Forces
+Bashar_al-Assad	isLeaderOf	Syrian_Armed_Forces
+Syrian_Armed_Forces	isLocatedIn	Damascus
+Syrian_Armed_Forces	isLocatedIn	Damascus
+Najah_al-Attar	wasBornIn	Damascus
+Najah_al-Attar	wasBornIn	Damascus
+
+http://dbpedia.org/resource/Bashar_al-Assad	http://dbpedia.org/ontology/vicePresident	http://dbpedia.org/resource/Najah_al-Attar
+Bashar_al-Assad	Najah_al-Attar
+Bashar_al-Assad	wasBornIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+Najah_al-Attar	wasBornIn	Damascus
+Najah_al-Attar	wasBornIn	Damascus
+
+http://dbpedia.org/resource/Dési_Bouterse	http://dbpedia.org/ontology/vicePresident	http://dbpedia.org/resource/Ashwin_Adhin
+Dési_Bouterse	Ashwin_Adhin
+Dési_Bouterse	isLeaderOf	Suriname
+Dési_Bouterse	isCitizenOf	Suriname
+Dési_Bouterse	isPoliticianOf	Suriname
+Dési_Bouterse	isLeaderOf	Suriname
+Dési_Bouterse	isCitizenOf	Suriname
+Dési_Bouterse	isPoliticianOf	Suriname
+Ashwin_Adhin	isPoliticianOf	Suriname
+Ashwin_Adhin	isCitizenOf	Suriname
+Ashwin_Adhin	isLeaderOf	Suriname
+Ashwin_Adhin	isPoliticianOf	Suriname
+Ashwin_Adhin	isCitizenOf	Suriname
+Ashwin_Adhin	isLeaderOf	Suriname
+
+http://dbpedia.org/resource/Omar_al-Bashir	http://dbpedia.org/ontology/vicePresident	http://dbpedia.org/resource/Bakri_Hassan_Saleh
+Omar_al-Bashir	Bakri_Hassan_Saleh
+Omar_al-Bashir	isAffiliatedTo	National_Congress_(Sudan)
+Omar_al-Bashir	isAffiliatedTo	National_Congress_(Sudan)
+Bakri_Hassan_Saleh	isAffiliatedTo	National_Congress_(Sudan)
+Bakri_Hassan_Saleh	isAffiliatedTo	National_Congress_(Sudan)
+
+http://dbpedia.org/resource/Juan_Perón	http://dbpedia.org/ontology/vicePresident	http://dbpedia.org/resource/Isabel_Martínez_de_Perón
+Juan_Perón	Isabel_Martínez_de_Perón
+Isabel_Martínez_de_Perón	isMarriedTo	Juan_Perón
+Juan_Perón	isMarriedTo	Isabel_Martínez_de_Perón
+Isabel_Martínez_de_Perón	isMarriedTo	Juan_Perón
+Juan_Perón	isMarriedTo	Isabel_Martínez_de_Perón
+
+http://dbpedia.org/resource/Juan_Perón	http://dbpedia.org/ontology/vicePresident	http://dbpedia.org/resource/Isabel_Martínez_de_Perón
+Juan_Perón	Isabel_Martínez_de_Perón
+Juan_Perón	diedIn	Olivos,_Buenos_Aires
+Juan_Perón	diedIn	Olivos,_Buenos_Aires
+Juan_Perón	diedIn	Olivos,_Buenos_Aires
+Juan_Perón	diedIn	Olivos,_Buenos_Aires
+Isabel_Martínez_de_Perón	isMarriedTo	Juan_Perón
+Juan_Perón	isMarriedTo	Isabel_Martínez_de_Perón
+Isabel_Martínez_de_Perón	isMarriedTo	Juan_Perón
+Juan_Perón	isMarriedTo	Isabel_Martínez_de_Perón
+
+http://dbpedia.org/resource/Juan_Perón	http://dbpedia.org/ontology/vicePresident	http://dbpedia.org/resource/Isabel_Martínez_de_Perón
+Juan_Perón	Isabel_Martínez_de_Perón
+Juan_Perón	isAffiliatedTo	Justicialist_Party
+Juan_Perón	isLeaderOf	Justicialist_Party
+Juan_Perón	isAffiliatedTo	Justicialist_Party
+Juan_Perón	isLeaderOf	Justicialist_Party
+Juan_Perón	isAffiliatedTo	Justicialist_Party
+Juan_Perón	isLeaderOf	Justicialist_Party
+Juan_Perón	isAffiliatedTo	Justicialist_Party
+Juan_Perón	isLeaderOf	Justicialist_Party
+Isabel_Martínez_de_Perón	isMarriedTo	Juan_Perón
+Juan_Perón	isMarriedTo	Isabel_Martínez_de_Perón
+Isabel_Martínez_de_Perón	isMarriedTo	Juan_Perón
+Juan_Perón	isMarriedTo	Isabel_Martínez_de_Perón
+
+http://dbpedia.org/resource/Juan_Perón	http://dbpedia.org/ontology/vicePresident	http://dbpedia.org/resource/Isabel_Martínez_de_Perón
+Juan_Perón	Isabel_Martínez_de_Perón
+Juan_Perón	isAffiliatedTo	Justicialist_Party
+Juan_Perón	isLeaderOf	Justicialist_Party
+Juan_Perón	isAffiliatedTo	Justicialist_Party
+Juan_Perón	isLeaderOf	Justicialist_Party
+Isabel_Martínez_de_Perón	isAffiliatedTo	Justicialist_Party
+Isabel_Martínez_de_Perón	isAffiliatedTo	Justicialist_Party
+
+http://dbpedia.org/resource/Juan_Perón	http://dbpedia.org/ontology/vicePresident	http://dbpedia.org/resource/Isabel_Martínez_de_Perón
+Juan_Perón	Isabel_Martínez_de_Perón
+Juan_Perón	isMarriedTo	Eva_Perón
+Eva_Perón	isMarriedTo	Juan_Perón
+Juan_Perón	isMarriedTo	Eva_Perón
+Eva_Perón	isMarriedTo	Juan_Perón
+Juan_Perón	isMarriedTo	Eva_Perón
+Eva_Perón	isMarriedTo	Juan_Perón
+Juan_Perón	isMarriedTo	Eva_Perón
+Eva_Perón	isMarriedTo	Juan_Perón
+Isabel_Martínez_de_Perón	isMarriedTo	Juan_Perón
+Juan_Perón	isMarriedTo	Isabel_Martínez_de_Perón
+Isabel_Martínez_de_Perón	isMarriedTo	Juan_Perón
+Juan_Perón	isMarriedTo	Isabel_Martínez_de_Perón
+
+http://dbpedia.org/resource/Arthur_Barclay	http://dbpedia.org/ontology/vicePresident	http://dbpedia.org/resource/J._J._Dossen
+Arthur_Barclay	J._J._Dossen
+Arthur_Barclay	isPoliticianOf	Liberia
+Arthur_Barclay	isCitizenOf	Liberia
+Arthur_Barclay	isPoliticianOf	Liberia
+Arthur_Barclay	isCitizenOf	Liberia
+Maryland_County	isLocatedIn	Liberia
+Maryland_County	isLocatedIn	Liberia
+J._J._Dossen	wasBornIn	Maryland_County
+J._J._Dossen	wasBornIn	Maryland_County
+
+http://dbpedia.org/resource/Bashar_al-Assad	http://dbpedia.org/ontology/vicePresident	http://dbpedia.org/resource/Abdul_Halim_Khaddam
+Bashar_al-Assad	Abdul_Halim_Khaddam
+Bashar_al-Assad	isCitizenOf	Syria
+Bashar_al-Assad	isLeaderOf	Syria
+Bashar_al-Assad	isPoliticianOf	Syria
+Bashar_al-Assad	isCitizenOf	Syria
+Bashar_al-Assad	isLeaderOf	Syria
+Bashar_al-Assad	isPoliticianOf	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Syria
+Abdul_Halim_Khaddam	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Abdul_Halim_Khaddam	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+
+http://dbpedia.org/resource/Rafael_Correa	http://dbpedia.org/ontology/vicePresident	http://dbpedia.org/resource/Lenín_Moreno
+Rafael_Correa	Lenín_Moreno
+Rafael_Correa	isAffiliatedTo	PAIS_Alliance
+Rafael_Correa	isAffiliatedTo	PAIS_Alliance
+Lenín_Moreno	isAffiliatedTo	PAIS_Alliance
+Lenín_Moreno	isAffiliatedTo	PAIS_Alliance
+

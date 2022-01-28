@@ -1,0 +1,114 @@
+http://dbpedia.org/resource/Joseph_Muscat	http://dbpedia.org/ontology/deputy	http://dbpedia.org/resource/Louis_Grech
+Joseph_Muscat	Louis_Grech
+Joseph_Muscat	isCitizenOf	Malta
+Joseph_Muscat	isLeaderOf	Malta
+Joseph_Muscat	isPoliticianOf	Malta
+Joseph_Muscat	isCitizenOf	Malta
+Joseph_Muscat	isLeaderOf	Malta
+Joseph_Muscat	isPoliticianOf	Malta
+Kalkara	isLocatedIn	Malta
+Kalkara	isLocatedIn	Malta
+Louis_Grech	livesIn	Kalkara
+Louis_Grech	livesIn	Kalkara
+
+http://dbpedia.org/resource/Võ_Văn_Kiệt	http://dbpedia.org/ontology/deputy	http://dbpedia.org/resource/Phan_Văn_Khải
+Võ_Văn_Kiệt	Phan_Văn_Khải
+Phan_Lương_Cầm	isMarriedTo	Võ_Văn_Kiệt
+Võ_Văn_Kiệt	isMarriedTo	Phan_Lương_Cầm
+Phan_Lương_Cầm	isMarriedTo	Võ_Văn_Kiệt
+Võ_Văn_Kiệt	isMarriedTo	Phan_Lương_Cầm
+Phan_Lương_Cầm	isCitizenOf	Vietnam
+Phan_Lương_Cầm	livesIn	Vietnam
+Phan_Lương_Cầm	isCitizenOf	Vietnam
+Phan_Lương_Cầm	livesIn	Vietnam
+Phan_Văn_Khải	isPoliticianOf	Vietnam
+Phan_Văn_Khải	isCitizenOf	Vietnam
+Phan_Văn_Khải	isPoliticianOf	Vietnam
+Phan_Văn_Khải	isCitizenOf	Vietnam
+
+http://dbpedia.org/resource/Võ_Văn_Kiệt	http://dbpedia.org/ontology/deputy	http://dbpedia.org/resource/Phan_Văn_Khải
+Võ_Văn_Kiệt	Phan_Văn_Khải
+Võ_Văn_Kiệt	isPoliticianOf	Vietnam
+Võ_Văn_Kiệt	isCitizenOf	Vietnam
+Võ_Văn_Kiệt	isPoliticianOf	Vietnam
+Võ_Văn_Kiệt	isCitizenOf	Vietnam
+Phan_Văn_Khải	isPoliticianOf	Vietnam
+Phan_Văn_Khải	isCitizenOf	Vietnam
+Phan_Văn_Khải	isPoliticianOf	Vietnam
+Phan_Văn_Khải	isCitizenOf	Vietnam
+
+http://dbpedia.org/resource/George_Cadle_Price	http://dbpedia.org/ontology/deputy	http://dbpedia.org/resource/Florencio_Marin
+George_Cadle_Price	Florencio_Marin
+George_Cadle_Price	isAffiliatedTo	People's_United_Party
+George_Cadle_Price	isAffiliatedTo	People's_United_Party
+Florencio_Marin	isAffiliatedTo	People's_United_Party
+Florencio_Marin	isAffiliatedTo	People's_United_Party
+
+http://dbpedia.org/resource/Kim_Jong-un	http://dbpedia.org/ontology/deputy	http://dbpedia.org/resource/Choe_Yong-rim
+Kim_Jong-un	Choe_Yong-rim
+Kim_Jong-un	graduatedFrom	Kim_Il-sung_University
+Kim_Jong-un	graduatedFrom	Kim_Il-sung_University
+Choe_Yong-rim	graduatedFrom	Kim_Il-sung_University
+Choe_Yong-rim	graduatedFrom	Kim_Il-sung_University
+
+http://dbpedia.org/resource/Kim_Jong-un	http://dbpedia.org/ontology/deputy	http://dbpedia.org/resource/Choe_Yong-rim
+Kim_Jong-un	Choe_Yong-rim
+Kim_Jong-un	isMarriedTo	Ri_Sol-ju
+Ri_Sol-ju	isMarriedTo	Kim_Jong-un
+Kim_Jong-un	isMarriedTo	Ri_Sol-ju
+Ri_Sol-ju	isMarriedTo	Kim_Jong-un
+Ri_Sol-ju	graduatedFrom	Kim_Il-sung_University
+Ri_Sol-ju	graduatedFrom	Kim_Il-sung_University
+Choe_Yong-rim	graduatedFrom	Kim_Il-sung_University
+Choe_Yong-rim	graduatedFrom	Kim_Il-sung_University
+
+http://dbpedia.org/resource/Wang_Jin-pyng	http://dbpedia.org/ontology/deputy	http://dbpedia.org/resource/Chiang_Pin-kung
+Wang_Jin-pyng	Chiang_Pin-kung
+Wang_Jin-pyng	isCitizenOf	Taiwan
+Wang_Jin-pyng	isCitizenOf	Taiwan
+Chiang_Pin-kung	isCitizenOf	Taiwan
+Chiang_Pin-kung	isCitizenOf	Taiwan
+
+http://dbpedia.org/resource/Wang_Jin-pyng	http://dbpedia.org/ontology/deputy	http://dbpedia.org/resource/Chiang_Pin-kung
+Wang_Jin-pyng	Chiang_Pin-kung
+Wang_Jin-pyng	isAffiliatedTo	Kuomintang
+Wang_Jin-pyng	isAffiliatedTo	Kuomintang
+Kuomintang	isLocatedIn	Taiwan
+Kuomintang	isLocatedIn	Taiwan
+Chiang_Pin-kung	isCitizenOf	Taiwan
+Chiang_Pin-kung	isCitizenOf	Taiwan
+
+http://dbpedia.org/resource/Wang_Jin-pyng	http://dbpedia.org/ontology/deputy	http://dbpedia.org/resource/Chiang_Pin-kung
+Wang_Jin-pyng	Chiang_Pin-kung
+Wang_Jin-pyng	isAffiliatedTo	Kuomintang
+Wang_Jin-pyng	isAffiliatedTo	Kuomintang
+Chiang_Pin-kung	isAffiliatedTo	Kuomintang
+Chiang_Pin-kung	isAffiliatedTo	Kuomintang
+
+http://dbpedia.org/resource/Wang_Jin-pyng	http://dbpedia.org/ontology/deputy	http://dbpedia.org/resource/Chiang_Pin-kung
+Wang_Jin-pyng	Chiang_Pin-kung
+Wang_Jin-pyng	graduatedFrom	National_Taiwan_Normal_University
+Wang_Jin-pyng	graduatedFrom	National_Taiwan_Normal_University
+National_Taiwan_Normal_University	isLocatedIn	Taiwan
+National_Taiwan_Normal_University	isLocatedIn	Taiwan
+Chiang_Pin-kung	isCitizenOf	Taiwan
+Chiang_Pin-kung	isCitizenOf	Taiwan
+
+http://dbpedia.org/resource/Enrico_Letta	http://dbpedia.org/ontology/deputy	http://dbpedia.org/resource/Angelino_Alfano
+Enrico_Letta	Angelino_Alfano
+Enrico_Letta	isAffiliatedTo	The_People_of_Freedom
+Enrico_Letta	isAffiliatedTo	The_People_of_Freedom
+Angelino_Alfano	isAffiliatedTo	The_People_of_Freedom
+Angelino_Alfano	isLeaderOf	The_People_of_Freedom
+Angelino_Alfano	isAffiliatedTo	The_People_of_Freedom
+Angelino_Alfano	isLeaderOf	The_People_of_Freedom
+
+http://dbpedia.org/resource/Shiu_Ming-neng	http://dbpedia.org/ontology/deputy	http://dbpedia.org/resource/Tseng_Chung-ming
+Shiu_Ming-neng	Tseng_Chung-ming
+Shiu_Ming-neng	graduatedFrom	National_Yang-Ming_University
+Shiu_Ming-neng	graduatedFrom	National_Yang-Ming_University
+National_Yang-Ming_University	isLocatedIn	Beitou
+National_Yang-Ming_University	isLocatedIn	Beitou
+Tseng_Chung-ming	diedIn	Beitou
+Tseng_Chung-ming	diedIn	Beitou
+

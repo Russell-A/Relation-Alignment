@@ -1,0 +1,475 @@
+http://dbpedia.org/resource/KDOR-TV	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/Trinity_Broadcasting_Network
+KDOR-TV	Trinity_Broadcasting_Network
+Trinity_Broadcasting_Network	owns	KDOR-TV
+Trinity_Broadcasting_Network	owns	KDOR-TV
+
+http://dbpedia.org/resource/KDTX-TV	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/Trinity_Broadcasting_Network
+KDTX-TV	Trinity_Broadcasting_Network
+Trinity_Broadcasting_Network	owns	KDTX-TV
+Trinity_Broadcasting_Network	owns	KDTX-TV
+
+http://dbpedia.org/resource/KDTX-TV	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/Trinity_Broadcasting_Network
+KDTX-TV	Trinity_Broadcasting_Network
+KDTX-TV	isLocatedIn	Dallas
+KDTX-TV	isLocatedIn	Dallas
+KDTX-TV	isLocatedIn	Dallas
+KDTX-TV	isLocatedIn	Dallas
+Trinity_Broadcasting_Network	owns	KDTX-TV
+Trinity_Broadcasting_Network	owns	KDTX-TV
+
+http://dbpedia.org/resource/KTRK-TV	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/American_Broadcasting_Company
+KTRK-TV	American_Broadcasting_Company
+American_Broadcasting_Company	owns	KTRK-TV
+American_Broadcasting_Company	owns	KTRK-TV
+
+http://dbpedia.org/resource/KTRK-TV	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/American_Broadcasting_Company
+KTRK-TV	American_Broadcasting_Company
+The_Walt_Disney_Company	owns	KTRK-TV
+The_Walt_Disney_Company	owns	KTRK-TV
+The_Walt_Disney_Company	owns	WTVD
+The_Walt_Disney_Company	owns	WTVD
+American_Broadcasting_Company	owns	WTVD
+American_Broadcasting_Company	owns	WTVD
+
+http://dbpedia.org/resource/KTRK-TV	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/American_Broadcasting_Company
+KTRK-TV	American_Broadcasting_Company
+The_Walt_Disney_Company	owns	KTRK-TV
+The_Walt_Disney_Company	owns	KTRK-TV
+The_Walt_Disney_Company	owns	KTRK-TV
+The_Walt_Disney_Company	owns	KTRK-TV
+American_Broadcasting_Company	owns	KTRK-TV
+American_Broadcasting_Company	owns	KTRK-TV
+
+http://dbpedia.org/resource/KTRK-TV	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/American_Broadcasting_Company
+KTRK-TV	American_Broadcasting_Company
+The_Walt_Disney_Company	owns	KTRK-TV
+The_Walt_Disney_Company	owns	KTRK-TV
+The_Walt_Disney_Company	owns	WLS-TV
+The_Walt_Disney_Company	owns	WLS-TV
+American_Broadcasting_Company	owns	WLS-TV
+American_Broadcasting_Company	owns	WLS-TV
+
+http://dbpedia.org/resource/KTRK-TV	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/American_Broadcasting_Company
+KTRK-TV	American_Broadcasting_Company
+The_Walt_Disney_Company	owns	KTRK-TV
+The_Walt_Disney_Company	owns	KTRK-TV
+The_Walt_Disney_Company	owns	American_Broadcasting_Company
+The_Walt_Disney_Company	owns	American_Broadcasting_Company
+
+http://dbpedia.org/resource/KTRK-TV	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/American_Broadcasting_Company
+KTRK-TV	American_Broadcasting_Company
+KTRK-TV	isLocatedIn	Texas
+KTRK-TV	isLocatedIn	Texas
+KTRK-TV	isLocatedIn	Texas
+KTRK-TV	isLocatedIn	Texas
+American_Broadcasting_Company	owns	KTRK-TV
+American_Broadcasting_Company	owns	KTRK-TV
+
+http://dbpedia.org/resource/Teledos	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/Telecorporación_Salvadoreña
+Teledos	Telecorporación_Salvadoreña
+Telecorporación_Salvadoreña	owns	Teledos
+Telecorporación_Salvadoreña	owns	Teledos
+
+http://dbpedia.org/resource/Teledos	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/Telecorporación_Salvadoreña
+Teledos	Telecorporación_Salvadoreña
+Teledos	isLocatedIn	San_Salvador
+Teledos	isLocatedIn	San_Salvador
+YSU4	isLocatedIn	San_Salvador
+YSU4	isLocatedIn	San_Salvador
+Telecorporación_Salvadoreña	owns	YSU4
+Telecorporación_Salvadoreña	owns	YSU4
+
+http://dbpedia.org/resource/WVIT	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/NBC
+WVIT	NBC
+NBCUniversal	owns	WVIT
+NBCUniversal	owns	WVIT
+NBCUniversal	owns	WMAQ-TV
+NBCUniversal	owns	WMAQ-TV
+NBC	isLocatedIn	WMAQ-TV
+NBC	isLocatedIn	WMAQ-TV
+
+http://dbpedia.org/resource/WVIT	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/NBC
+WVIT	NBC
+NBCUniversal	owns	WVIT
+NBCUniversal	owns	WVIT
+NBCUniversal	owns	NBC
+NBCUniversal	owns	NBC
+
+http://dbpedia.org/resource/WCLJ-TV	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/Trinity_Broadcasting_Network
+WCLJ-TV	Trinity_Broadcasting_Network
+Trinity_Broadcasting_Network	owns	WCLJ-TV
+Trinity_Broadcasting_Network	owns	WCLJ-TV
+
+http://dbpedia.org/resource/WMWC-TV	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/Trinity_Broadcasting_Network
+WMWC-TV	Trinity_Broadcasting_Network
+WMWC-TV	isLocatedIn	Moline,_Illinois
+WMWC-TV	isLocatedIn	Moline,_Illinois
+WMWC-TV	isLocatedIn	Moline,_Illinois
+WMWC-TV	isLocatedIn	Moline,_Illinois
+Trinity_Broadcasting_Network	owns	WMWC-TV
+Trinity_Broadcasting_Network	owns	WMWC-TV
+
+http://dbpedia.org/resource/WMWC-TV	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/Trinity_Broadcasting_Network
+WMWC-TV	Trinity_Broadcasting_Network
+WMWC-TV	isLocatedIn	Galesburg,_Illinois
+WMWC-TV	isLocatedIn	Galesburg,_Illinois
+WMWC-TV	isLocatedIn	Galesburg,_Illinois
+WMWC-TV	isLocatedIn	Galesburg,_Illinois
+Trinity_Broadcasting_Network	owns	WMWC-TV
+Trinity_Broadcasting_Network	owns	WMWC-TV
+
+http://dbpedia.org/resource/WMWC-TV	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/Trinity_Broadcasting_Network
+WMWC-TV	Trinity_Broadcasting_Network
+Trinity_Broadcasting_Network	owns	WMWC-TV
+Trinity_Broadcasting_Network	owns	WMWC-TV
+
+http://dbpedia.org/resource/WMWC-TV	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/Trinity_Broadcasting_Network
+WMWC-TV	Trinity_Broadcasting_Network
+WMWC-TV	isLocatedIn	Bettendorf,_Iowa
+WMWC-TV	isLocatedIn	Bettendorf,_Iowa
+WMWC-TV	isLocatedIn	Bettendorf,_Iowa
+WMWC-TV	isLocatedIn	Bettendorf,_Iowa
+Trinity_Broadcasting_Network	owns	WMWC-TV
+Trinity_Broadcasting_Network	owns	WMWC-TV
+
+http://dbpedia.org/resource/XEPM-TDT	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/Televisa
+XEPM-TDT	Televisa
+Televisa	owns	XEPM-TDT
+Televisa	owns	XEPM-TDT
+
+http://dbpedia.org/resource/XEPM-TDT	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/Televisa
+XEPM-TDT	Televisa
+XEPM-TDT	isLocatedIn	El_Paso,_Texas
+XEPM-TDT	isLocatedIn	El_Paso,_Texas
+XEPM-TDT	isLocatedIn	El_Paso,_Texas
+XEPM-TDT	isLocatedIn	El_Paso,_Texas
+Televisa	owns	XEPM-TDT
+Televisa	owns	XEPM-TDT
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	Kapampangan_News
+Radio_Philippines_Network	created	Kapampangan_News
+Nine_Media_Corporation	created	Kapampangan_News
+Nine_Media_Corporation	created	Kapampangan_News
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	owns	DZBS-TV
+Radio_Philippines_Network	owns	DZBS-TV
+Radio_Philippines_Network	owns	DZBS-TV
+Radio_Philippines_Network	owns	DZBS-TV
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	owns	DZBS-TV
+Radio_Philippines_Network	owns	DZBS-TV
+Nine_Media_Corporation	owns	DZBS-TV
+Nine_Media_Corporation	owns	DZBS-TV
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	News.PH
+Radio_Philippines_Network	created	News.PH
+Radio_Philippines_Network	created	News.PH
+Radio_Philippines_Network	created	News.PH
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	News.PH
+Radio_Philippines_Network	created	News.PH
+Nine_Media_Corporation	created	News.PH
+Nine_Media_Corporation	created	News.PH
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	created	Legal_Help_Desk
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+Radio_Philippines_Network	created	Legal_Help_Desk
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+Radio_Philippines_Network	created	Updates_(CNN_Philippines)
+Nine_Media_Corporation	created	Updates_(CNN_Philippines)
+Nine_Media_Corporation	created	Updates_(CNN_Philippines)
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	News_Café
+Radio_Philippines_Network	created	News_Café
+Radio_Philippines_Network	created	News_Café
+Radio_Philippines_Network	created	News_Café
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	News_Café
+Radio_Philippines_Network	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	created	News_Café
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+Radio_Philippines_Network	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	created	Opposing_Views_(TV_series)
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	owns	DYKC-TV
+Radio_Philippines_Network	owns	DYKC-TV
+Radio_Philippines_Network	owns	DYKC-TV
+Radio_Philippines_Network	owns	DYKC-TV
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	owns	DYKC-TV
+Radio_Philippines_Network	owns	DYKC-TV
+Nine_Media_Corporation	owns	DYKC-TV
+Nine_Media_Corporation	owns	DYKC-TV
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	created	Daybreak_(Philippine_TV_program)
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+Radio_Philippines_Network	created	Daybreak_(Philippine_TV_program)
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+Nine_Media_Corporation	created	CNN_Philippines_Newsroom
+Nine_Media_Corporation	created	CNN_Philippines_Newsroom
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	created	CNN_Philippines_Newsroom
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+Radio_Philippines_Network	created	CNN_Philippines_Nightly_News
+Nine_Media_Corporation	created	CNN_Philippines_Nightly_News
+Nine_Media_Corporation	created	CNN_Philippines_Nightly_News
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	Newsday_(9News)
+Radio_Philippines_Network	created	Newsday_(9News)
+Nine_Media_Corporation	created	Newsday_(9News)
+Nine_Media_Corporation	created	Newsday_(9News)
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	Cebuano_News
+Radio_Philippines_Network	created	Cebuano_News
+Nine_Media_Corporation	created	Cebuano_News
+Nine_Media_Corporation	created	Cebuano_News
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	owns	DXXX-TV
+Radio_Philippines_Network	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	DXXX-TV
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	owns	DXXX-TV
+Radio_Philippines_Network	owns	DXXX-TV
+Radio_Philippines_Network	owns	DXXX-TV
+Radio_Philippines_Network	owns	DXXX-TV
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Nine_Media_Corporation	owns	Radio_Philippines_Network
+Nine_Media_Corporation	owns	Radio_Philippines_Network
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Nine_Media_Corporation	owns	Radio_Philippines_Network
+Nine_Media_Corporation	owns	Radio_Philippines_Network
+Nine_Media_Corporation	owns	Radio_Philippines_Network
+Nine_Media_Corporation	owns	Radio_Philippines_Network
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	created	Serbisyo_All_Access
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+Radio_Philippines_Network	created	Serbisyo_All_Access
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	created	CNN_Philippines_Network_News
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	created	CNN_Philippines_Network_News
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+Nine_Media_Corporation	owns	CNN_Philippines
+Nine_Media_Corporation	owns	CNN_Philippines
+Nine_Media_Corporation	owns	C/S_9
+Nine_Media_Corporation	owns	C/S_9
+
+http://dbpedia.org/resource/Radio_Philippines_Network	http://dbpedia.org/ontology/broadcastNetwork	http://dbpedia.org/resource/C/S_9
+Radio_Philippines_Network	C/S_9
+Radio_Philippines_Network	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+Radio_Philippines_Network	owns	CNN_Philippines
+Radio_Philippines_Network	owns	C/S_9
+Radio_Philippines_Network	owns	C/S_9
+

@@ -1,0 +1,178 @@
+http://dbpedia.org/resource/KF_Elbasani	http://dbpedia.org/ontology/chairman	http://dbpedia.org/resource/KF_Elbasani
+KF_Elbasani	KF_Elbasani
+Tefik_Osmani	isAffiliatedTo	KF_Elbasani
+Tefik_Osmani	playsFor	KF_Elbasani
+Tefik_Osmani	isAffiliatedTo	KF_Elbasani
+Tefik_Osmani	playsFor	KF_Elbasani
+Tefik_Osmani	isAffiliatedTo	KF_Elbasani
+Tefik_Osmani	playsFor	KF_Elbasani
+Tefik_Osmani	isAffiliatedTo	KF_Elbasani
+Tefik_Osmani	playsFor	KF_Elbasani
+
+http://dbpedia.org/resource/KF_Elbasani	http://dbpedia.org/ontology/chairman	http://dbpedia.org/resource/KF_Elbasani
+KF_Elbasani	KF_Elbasani
+Klodian_Duro	isAffiliatedTo	KF_Elbasani
+Klodian_Duro	playsFor	KF_Elbasani
+Klodian_Duro	isAffiliatedTo	KF_Elbasani
+Klodian_Duro	playsFor	KF_Elbasani
+Klodian_Duro	isAffiliatedTo	KF_Elbasani
+Klodian_Duro	playsFor	KF_Elbasani
+Klodian_Duro	isAffiliatedTo	KF_Elbasani
+Klodian_Duro	playsFor	KF_Elbasani
+
+http://dbpedia.org/resource/KF_Elbasani	http://dbpedia.org/ontology/chairman	http://dbpedia.org/resource/KF_Elbasani
+KF_Elbasani	KF_Elbasani
+Arsid_Tafili	isAffiliatedTo	KF_Elbasani
+Arsid_Tafili	playsFor	KF_Elbasani
+Arsid_Tafili	isAffiliatedTo	KF_Elbasani
+Arsid_Tafili	playsFor	KF_Elbasani
+Arsid_Tafili	isAffiliatedTo	KF_Elbasani
+Arsid_Tafili	playsFor	KF_Elbasani
+Arsid_Tafili	isAffiliatedTo	KF_Elbasani
+Arsid_Tafili	playsFor	KF_Elbasani
+
+http://dbpedia.org/resource/KF_Elbasani	http://dbpedia.org/ontology/chairman	http://dbpedia.org/resource/KF_Elbasani
+KF_Elbasani	KF_Elbasani
+Dorian_Bylykbashi	playsFor	KF_Elbasani
+Dorian_Bylykbashi	isAffiliatedTo	KF_Elbasani
+Dorian_Bylykbashi	playsFor	KF_Elbasani
+Dorian_Bylykbashi	isAffiliatedTo	KF_Elbasani
+Dorian_Bylykbashi	playsFor	KF_Elbasani
+Dorian_Bylykbashi	isAffiliatedTo	KF_Elbasani
+Dorian_Bylykbashi	playsFor	KF_Elbasani
+Dorian_Bylykbashi	isAffiliatedTo	KF_Elbasani
+
+http://dbpedia.org/resource/KF_Elbasani	http://dbpedia.org/ontology/chairman	http://dbpedia.org/resource/KF_Elbasani
+KF_Elbasani	KF_Elbasani
+Aleksandar_Radović_(footballer)	playsFor	KF_Elbasani
+Aleksandar_Radović_(footballer)	isAffiliatedTo	KF_Elbasani
+Aleksandar_Radović_(footballer)	playsFor	KF_Elbasani
+Aleksandar_Radović_(footballer)	isAffiliatedTo	KF_Elbasani
+Aleksandar_Radović_(footballer)	playsFor	KF_Elbasani
+Aleksandar_Radović_(footballer)	isAffiliatedTo	KF_Elbasani
+Aleksandar_Radović_(footballer)	playsFor	KF_Elbasani
+Aleksandar_Radović_(footballer)	isAffiliatedTo	KF_Elbasani
+
+http://dbpedia.org/resource/KF_Elbasani	http://dbpedia.org/ontology/chairman	http://dbpedia.org/resource/KF_Elbasani
+KF_Elbasani	KF_Elbasani
+Elham_Galica	playsFor	KF_Elbasani
+Elham_Galica	isAffiliatedTo	KF_Elbasani
+Elham_Galica	playsFor	KF_Elbasani
+Elham_Galica	isAffiliatedTo	KF_Elbasani
+Elham_Galica	playsFor	KF_Elbasani
+Elham_Galica	isAffiliatedTo	KF_Elbasani
+Elham_Galica	playsFor	KF_Elbasani
+Elham_Galica	isAffiliatedTo	KF_Elbasani
+
+http://dbpedia.org/resource/KF_Elbasani	http://dbpedia.org/ontology/chairman	http://dbpedia.org/resource/KF_Elbasani
+KF_Elbasani	KF_Elbasani
+Ervin_Llani	playsFor	KF_Elbasani
+Ervin_Llani	isAffiliatedTo	KF_Elbasani
+Ervin_Llani	playsFor	KF_Elbasani
+Ervin_Llani	isAffiliatedTo	KF_Elbasani
+Ervin_Llani	playsFor	KF_Elbasani
+Ervin_Llani	isAffiliatedTo	KF_Elbasani
+Ervin_Llani	playsFor	KF_Elbasani
+Ervin_Llani	isAffiliatedTo	KF_Elbasani
+
+http://dbpedia.org/resource/KF_Elbasani	http://dbpedia.org/ontology/chairman	http://dbpedia.org/resource/KF_Elbasani
+KF_Elbasani	KF_Elbasani
+Besart_Veseli	isAffiliatedTo	KF_Elbasani
+Besart_Veseli	playsFor	KF_Elbasani
+Besart_Veseli	isAffiliatedTo	KF_Elbasani
+Besart_Veseli	playsFor	KF_Elbasani
+Besart_Veseli	isAffiliatedTo	KF_Elbasani
+Besart_Veseli	playsFor	KF_Elbasani
+Besart_Veseli	isAffiliatedTo	KF_Elbasani
+Besart_Veseli	playsFor	KF_Elbasani
+
+http://dbpedia.org/resource/KF_Elbasani	http://dbpedia.org/ontology/chairman	http://dbpedia.org/resource/KF_Elbasani
+KF_Elbasani	KF_Elbasani
+Jasmin_Raboshta	playsFor	KF_Elbasani
+Jasmin_Raboshta	isAffiliatedTo	KF_Elbasani
+Jasmin_Raboshta	playsFor	KF_Elbasani
+Jasmin_Raboshta	isAffiliatedTo	KF_Elbasani
+Jasmin_Raboshta	playsFor	KF_Elbasani
+Jasmin_Raboshta	isAffiliatedTo	KF_Elbasani
+Jasmin_Raboshta	playsFor	KF_Elbasani
+Jasmin_Raboshta	isAffiliatedTo	KF_Elbasani
+
+http://dbpedia.org/resource/Morgan_State_University	http://dbpedia.org/ontology/chairman	http://dbpedia.org/resource/Kweisi_Mfume
+Morgan_State_University	Kweisi_Mfume
+Joseph_C._Howard,_Sr.	graduatedFrom	Morgan_State_University
+Joseph_C._Howard,_Sr.	graduatedFrom	Morgan_State_University
+Joseph_C._Howard,_Sr.	graduatedFrom	Morgan_State_University
+Joseph_C._Howard,_Sr.	graduatedFrom	Morgan_State_University
+Kweisi_Mfume	graduatedFrom	Morgan_State_University
+Kweisi_Mfume	graduatedFrom	Morgan_State_University
+
+http://dbpedia.org/resource/Morgan_State_University	http://dbpedia.org/ontology/chairman	http://dbpedia.org/resource/Kweisi_Mfume
+Morgan_State_University	Kweisi_Mfume
+Roger_W._Brown	graduatedFrom	Morgan_State_University
+Roger_W._Brown	graduatedFrom	Morgan_State_University
+Roger_W._Brown	graduatedFrom	Morgan_State_University
+Roger_W._Brown	graduatedFrom	Morgan_State_University
+Kweisi_Mfume	graduatedFrom	Morgan_State_University
+Kweisi_Mfume	graduatedFrom	Morgan_State_University
+
+http://dbpedia.org/resource/Morgan_State_University	http://dbpedia.org/ontology/chairman	http://dbpedia.org/resource/Kweisi_Mfume
+Morgan_State_University	Kweisi_Mfume
+Gbenga_Bareehu_Ashafa	graduatedFrom	Morgan_State_University
+Gbenga_Bareehu_Ashafa	graduatedFrom	Morgan_State_University
+Gbenga_Bareehu_Ashafa	graduatedFrom	Morgan_State_University
+Gbenga_Bareehu_Ashafa	graduatedFrom	Morgan_State_University
+Kweisi_Mfume	graduatedFrom	Morgan_State_University
+Kweisi_Mfume	graduatedFrom	Morgan_State_University
+
+http://dbpedia.org/resource/Morgan_State_University	http://dbpedia.org/ontology/chairman	http://dbpedia.org/resource/Kweisi_Mfume
+Morgan_State_University	Kweisi_Mfume
+Kweisi_Mfume	graduatedFrom	Morgan_State_University
+Kweisi_Mfume	graduatedFrom	Morgan_State_University
+
+http://dbpedia.org/resource/Morgan_State_University	http://dbpedia.org/ontology/chairman	http://dbpedia.org/resource/Kweisi_Mfume
+Morgan_State_University	Kweisi_Mfume
+Calvin_Ball,_III	graduatedFrom	Morgan_State_University
+Calvin_Ball,_III	graduatedFrom	Morgan_State_University
+Calvin_Ball,_III	graduatedFrom	Morgan_State_University
+Calvin_Ball,_III	graduatedFrom	Morgan_State_University
+Kweisi_Mfume	graduatedFrom	Morgan_State_University
+Kweisi_Mfume	graduatedFrom	Morgan_State_University
+
+http://dbpedia.org/resource/Morgan_State_University	http://dbpedia.org/ontology/chairman	http://dbpedia.org/resource/Kweisi_Mfume
+Morgan_State_University	Kweisi_Mfume
+Richard_N._Dixon	graduatedFrom	Morgan_State_University
+Richard_N._Dixon	graduatedFrom	Morgan_State_University
+Richard_N._Dixon	graduatedFrom	Morgan_State_University
+Richard_N._Dixon	graduatedFrom	Morgan_State_University
+Kweisi_Mfume	graduatedFrom	Morgan_State_University
+Kweisi_Mfume	graduatedFrom	Morgan_State_University
+
+http://dbpedia.org/resource/Morgan_State_University	http://dbpedia.org/ontology/chairman	http://dbpedia.org/resource/Kweisi_Mfume
+Morgan_State_University	Kweisi_Mfume
+Morgan_State_University	isLocatedIn	Maryland
+Morgan_State_University	isLocatedIn	Maryland
+Morgan_State_University	isLocatedIn	Maryland
+Morgan_State_University	isLocatedIn	Maryland
+Kweisi_Mfume	graduatedFrom	Morgan_State_University
+Kweisi_Mfume	graduatedFrom	Morgan_State_University
+
+http://dbpedia.org/resource/Morgan_State_University	http://dbpedia.org/ontology/chairman	http://dbpedia.org/resource/Kweisi_Mfume
+Morgan_State_University	Kweisi_Mfume
+Charles_R._Drew	worksAt	Morgan_State_University
+Charles_R._Drew	worksAt	Morgan_State_University
+Charles_R._Drew	worksAt	Morgan_State_University
+Charles_R._Drew	worksAt	Morgan_State_University
+Kweisi_Mfume	graduatedFrom	Morgan_State_University
+Kweisi_Mfume	graduatedFrom	Morgan_State_University
+
+http://dbpedia.org/resource/Tecos_F.C.	http://dbpedia.org/ontology/chairman	http://dbpedia.org/resource/Juan_Carlos_Leaño
+Tecos_F.C.	Juan_Carlos_Leaño
+Hans_Friessen	playsFor	Tecos_F.C.
+Hans_Friessen	isAffiliatedTo	Tecos_F.C.
+Hans_Friessen	playsFor	Tecos_F.C.
+Hans_Friessen	isAffiliatedTo	Tecos_F.C.
+Hans_Friessen	wasBornIn	Guadalajara
+Hans_Friessen	wasBornIn	Guadalajara
+Juan_Carlos_Leaño	wasBornIn	Guadalajara
+Juan_Carlos_Leaño	wasBornIn	Guadalajara
+

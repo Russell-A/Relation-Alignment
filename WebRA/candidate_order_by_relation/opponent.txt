@@ -1,0 +1,38 @@
+http://dbpedia.org/resource/Ramfis_Domínguez-Trujillo	http://dbpedia.org/ontology/opponent	http://dbpedia.org/resource/Luis_Abinader
+Ramfis_Domínguez-Trujillo	Luis_Abinader
+Ramfis_Domínguez-Trujillo	isCitizenOf	Dominica
+Ramfis_Domínguez-Trujillo	isCitizenOf	Dominica
+José_Rafael_Abinader	isCitizenOf	Dominica
+José_Rafael_Abinader	isCitizenOf	Dominica
+José_Rafael_Abinader	hasChild	Luis_Abinader
+José_Rafael_Abinader	hasChild	Luis_Abinader
+
+http://dbpedia.org/resource/Viriato_Fiallo	http://dbpedia.org/ontology/opponent	http://dbpedia.org/resource/Juan_Bosch
+Viriato_Fiallo	Juan_Bosch
+Viriato_Fiallo	diedIn	Santo_Domingo
+Viriato_Fiallo	diedIn	Santo_Domingo
+Dominican_Liberation_Party	isLocatedIn	Santo_Domingo
+Dominican_Liberation_Party	isLocatedIn	Santo_Domingo
+Juan_Bosch	isAffiliatedTo	Dominican_Liberation_Party
+Juan_Bosch	isLeaderOf	Dominican_Liberation_Party
+Juan_Bosch	isAffiliatedTo	Dominican_Liberation_Party
+Juan_Bosch	isLeaderOf	Dominican_Liberation_Party
+
+http://dbpedia.org/resource/Viriato_Fiallo	http://dbpedia.org/ontology/opponent	http://dbpedia.org/resource/Juan_Bosch
+Viriato_Fiallo	Juan_Bosch
+Viriato_Fiallo	diedIn	Santo_Domingo
+Viriato_Fiallo	diedIn	Santo_Domingo
+Dominican_Revolutionary_Party	isLocatedIn	Santo_Domingo
+Dominican_Revolutionary_Party	isLocatedIn	Santo_Domingo
+Juan_Bosch	isAffiliatedTo	Dominican_Revolutionary_Party
+Juan_Bosch	created	Dominican_Revolutionary_Party
+Juan_Bosch	isAffiliatedTo	Dominican_Revolutionary_Party
+Juan_Bosch	created	Dominican_Revolutionary_Party
+
+http://dbpedia.org/resource/Viriato_Fiallo	http://dbpedia.org/ontology/opponent	http://dbpedia.org/resource/Juan_Bosch
+Viriato_Fiallo	Juan_Bosch
+Viriato_Fiallo	isCitizenOf	Dominica
+Viriato_Fiallo	isCitizenOf	Dominica
+Juan_Bosch	isCitizenOf	Dominica
+Juan_Bosch	isCitizenOf	Dominica
+

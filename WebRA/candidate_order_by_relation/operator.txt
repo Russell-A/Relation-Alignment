@@ -1,0 +1,898 @@
+http://dbpedia.org/resource/Pioneer_Hall_(Texas_Woman's_University)	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Texas
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Texas
+Texas_Woman's_University	isLocatedIn	Texas
+Texas_Woman's_University	isLocatedIn	Texas
+
+http://dbpedia.org/resource/Pioneer_Hall_(Texas_Woman's_University)	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Texas
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Texas
+Denton,_Texas	isLocatedIn	Texas
+Denton,_Texas	isLocatedIn	Texas
+Texas_Woman's_University	isLocatedIn	Denton,_Texas
+Texas_Woman's_University	isLocatedIn	Denton,_Texas
+
+http://dbpedia.org/resource/Pioneer_Hall_(Texas_Woman's_University)	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	Texas_Woman's_University
+Texas_Woman's_University	owns	Pioneer_Hall_(Texas_Woman's_University)
+Texas_Woman's_University	owns	Pioneer_Hall_(Texas_Woman's_University)
+
+http://dbpedia.org/resource/Pioneer_Hall_(Texas_Woman's_University)	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Denton,_Texas
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Denton,_Texas
+Texas_Woman's_University	isLocatedIn	Denton,_Texas
+Texas_Woman's_University	isLocatedIn	Denton,_Texas
+
+http://dbpedia.org/resource/Pioneer_Hall_(Texas_Woman's_University)	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Denton,_Texas
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Denton,_Texas
+Pauline_Gracia_Beery_Mack	diedIn	Denton,_Texas
+Pauline_Gracia_Beery_Mack	diedIn	Denton,_Texas
+Pauline_Gracia_Beery_Mack	worksAt	Texas_Woman's_University
+Pauline_Gracia_Beery_Mack	worksAt	Texas_Woman's_University
+
+http://dbpedia.org/resource/Pioneer_Hall_(Texas_Woman's_University)	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Denton,_Texas
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Denton,_Texas
+Denton,_Texas	isLocatedIn	Texas
+Denton,_Texas	isLocatedIn	Texas
+Texas_Woman's_University	isLocatedIn	Texas
+Texas_Woman's_University	isLocatedIn	Texas
+
+http://dbpedia.org/resource/Pioneer_Hall_(Texas_Woman's_University)	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	Texas_Woman's_University
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Denton,_Texas
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Denton,_Texas
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Denton,_Texas
+Pioneer_Hall_(Texas_Woman's_University)	isLocatedIn	Denton,_Texas
+Texas_Woman's_University	owns	Pioneer_Hall_(Texas_Woman's_University)
+Texas_Woman's_University	owns	Pioneer_Hall_(Texas_Woman's_University)
+
+http://dbpedia.org/resource/Velebit_Pumped_Storage_Power_Plant	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Hrvatska_elektroprivreda
+Velebit_Pumped_Storage_Power_Plant	Hrvatska_elektroprivreda
+Velebit_Pumped_Storage_Power_Plant	isLocatedIn	Obrovac,_Croatia
+Velebit_Pumped_Storage_Power_Plant	isLocatedIn	Obrovac,_Croatia
+Velebit_Pumped_Storage_Power_Plant	isLocatedIn	Obrovac,_Croatia
+Velebit_Pumped_Storage_Power_Plant	isLocatedIn	Obrovac,_Croatia
+Hrvatska_elektroprivreda	owns	Velebit_Pumped_Storage_Power_Plant
+Hrvatska_elektroprivreda	owns	Velebit_Pumped_Storage_Power_Plant
+
+http://dbpedia.org/resource/Velebit_Pumped_Storage_Power_Plant	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Hrvatska_elektroprivreda
+Velebit_Pumped_Storage_Power_Plant	Hrvatska_elektroprivreda
+Hrvatska_elektroprivreda	owns	Velebit_Pumped_Storage_Power_Plant
+Hrvatska_elektroprivreda	owns	Velebit_Pumped_Storage_Power_Plant
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Zoran_Švonja	wasBornIn	Novi_Sad
+Zoran_Švonja	wasBornIn	Novi_Sad
+Zoran_Švonja	isAffiliatedTo	FK_Vojvodina
+Zoran_Švonja	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Jovo_Bosančić	wasBornIn	Novi_Sad
+Jovo_Bosančić	wasBornIn	Novi_Sad
+Jovo_Bosančić	isAffiliatedTo	FK_Vojvodina
+Jovo_Bosančić	playsFor	FK_Vojvodina
+Jovo_Bosančić	isAffiliatedTo	FK_Vojvodina
+Jovo_Bosančić	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+FK_Vojvodina	isLocatedIn	Novi_Sad
+FK_Vojvodina	isLocatedIn	Novi_Sad
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Nemanja_Čović	wasBornIn	Novi_Sad
+Nemanja_Čović	wasBornIn	Novi_Sad
+Nemanja_Čović	playsFor	FK_Vojvodina
+Nemanja_Čović	isAffiliatedTo	FK_Vojvodina
+Nemanja_Čović	playsFor	FK_Vojvodina
+Nemanja_Čović	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Janko_Sanković	wasBornIn	Novi_Sad
+Janko_Sanković	wasBornIn	Novi_Sad
+Janko_Sanković	playsFor	FK_Vojvodina
+Janko_Sanković	isAffiliatedTo	FK_Vojvodina
+Janko_Sanković	playsFor	FK_Vojvodina
+Janko_Sanković	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Vojo_Ubiparip	wasBornIn	Novi_Sad
+Vojo_Ubiparip	wasBornIn	Novi_Sad
+Vojo_Ubiparip	playsFor	FK_Vojvodina
+Vojo_Ubiparip	isAffiliatedTo	FK_Vojvodina
+Vojo_Ubiparip	playsFor	FK_Vojvodina
+Vojo_Ubiparip	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Milan_Spremo	wasBornIn	Novi_Sad
+Milan_Spremo	wasBornIn	Novi_Sad
+Milan_Spremo	playsFor	FK_Vojvodina
+Milan_Spremo	isAffiliatedTo	FK_Vojvodina
+Milan_Spremo	playsFor	FK_Vojvodina
+Milan_Spremo	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Nino_Pekarić	wasBornIn	Novi_Sad
+Nino_Pekarić	wasBornIn	Novi_Sad
+Nino_Pekarić	isAffiliatedTo	FK_Vojvodina
+Nino_Pekarić	playsFor	FK_Vojvodina
+Nino_Pekarić	isAffiliatedTo	FK_Vojvodina
+Nino_Pekarić	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Vojin_Prole	wasBornIn	Novi_Sad
+Vojin_Prole	wasBornIn	Novi_Sad
+Vojin_Prole	playsFor	FK_Vojvodina
+Vojin_Prole	isAffiliatedTo	FK_Vojvodina
+Vojin_Prole	playsFor	FK_Vojvodina
+Vojin_Prole	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Petar_Nikezić	diedIn	Novi_Sad
+Petar_Nikezić	diedIn	Novi_Sad
+Petar_Nikezić	playsFor	FK_Vojvodina
+Petar_Nikezić	isAffiliatedTo	FK_Vojvodina
+Petar_Nikezić	playsFor	FK_Vojvodina
+Petar_Nikezić	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Todor_Veselinović	wasBornIn	Novi_Sad
+Todor_Veselinović	wasBornIn	Novi_Sad
+Todor_Veselinović	isAffiliatedTo	FK_Vojvodina
+Todor_Veselinović	playsFor	FK_Vojvodina
+Todor_Veselinović	isAffiliatedTo	FK_Vojvodina
+Todor_Veselinović	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Slaviša_Jokanović	wasBornIn	Novi_Sad
+Slaviša_Jokanović	wasBornIn	Novi_Sad
+Slaviša_Jokanović	isAffiliatedTo	FK_Vojvodina
+Slaviša_Jokanović	playsFor	FK_Vojvodina
+Slaviša_Jokanović	isAffiliatedTo	FK_Vojvodina
+Slaviša_Jokanović	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Vuk_Mitošević	wasBornIn	Novi_Sad
+Vuk_Mitošević	wasBornIn	Novi_Sad
+Vuk_Mitošević	isAffiliatedTo	FK_Vojvodina
+Vuk_Mitošević	playsFor	FK_Vojvodina
+Vuk_Mitošević	isAffiliatedTo	FK_Vojvodina
+Vuk_Mitošević	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Dušan_Mićić	wasBornIn	Novi_Sad
+Dušan_Mićić	wasBornIn	Novi_Sad
+Dušan_Mićić	isAffiliatedTo	FK_Vojvodina
+Dušan_Mićić	playsFor	FK_Vojvodina
+Dušan_Mićić	isAffiliatedTo	FK_Vojvodina
+Dušan_Mićić	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+FK_Vojvodina	owns	Karađorđe_Stadium
+FK_Vojvodina	owns	Karađorđe_Stadium
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Vujadin_Boškov	diedIn	Novi_Sad
+Vujadin_Boškov	diedIn	Novi_Sad
+Vujadin_Boškov	playsFor	FK_Vojvodina
+Vujadin_Boškov	isAffiliatedTo	FK_Vojvodina
+Vujadin_Boškov	playsFor	FK_Vojvodina
+Vujadin_Boškov	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Saša_Savić	wasBornIn	Novi_Sad
+Saša_Savić	wasBornIn	Novi_Sad
+Saša_Savić	isAffiliatedTo	FK_Vojvodina
+Saša_Savić	playsFor	FK_Vojvodina
+Saša_Savić	isAffiliatedTo	FK_Vojvodina
+Saša_Savić	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Ljubiša_Vukelja	wasBornIn	Novi_Sad
+Ljubiša_Vukelja	wasBornIn	Novi_Sad
+Ljubiša_Vukelja	isAffiliatedTo	FK_Vojvodina
+Ljubiša_Vukelja	playsFor	FK_Vojvodina
+Ljubiša_Vukelja	isAffiliatedTo	FK_Vojvodina
+Ljubiša_Vukelja	playsFor	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Žarko_Nikolić	diedIn	Novi_Sad
+Žarko_Nikolić	wasBornIn	Novi_Sad
+Žarko_Nikolić	diedIn	Novi_Sad
+Žarko_Nikolić	wasBornIn	Novi_Sad
+Žarko_Nikolić	playsFor	FK_Vojvodina
+Žarko_Nikolić	isAffiliatedTo	FK_Vojvodina
+Žarko_Nikolić	playsFor	FK_Vojvodina
+Žarko_Nikolić	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Ivica_Brzić	diedIn	Novi_Sad
+Ivica_Brzić	wasBornIn	Novi_Sad
+Ivica_Brzić	diedIn	Novi_Sad
+Ivica_Brzić	wasBornIn	Novi_Sad
+Ivica_Brzić	playsFor	FK_Vojvodina
+Ivica_Brzić	isAffiliatedTo	FK_Vojvodina
+Ivica_Brzić	playsFor	FK_Vojvodina
+Ivica_Brzić	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Karađorđe_Stadium	isLocatedIn	Novi_Sad
+Mario_Maslać	wasBornIn	Novi_Sad
+Mario_Maslać	wasBornIn	Novi_Sad
+Mario_Maslać	playsFor	FK_Vojvodina
+Mario_Maslać	isAffiliatedTo	FK_Vojvodina
+Mario_Maslać	playsFor	FK_Vojvodina
+Mario_Maslać	isAffiliatedTo	FK_Vojvodina
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+FK_Vojvodina	owns	Karađorđe_Stadium
+FK_Vojvodina	owns	Karađorđe_Stadium
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Vojvodina
+Karađorđe_Stadium	isLocatedIn	Vojvodina
+Novi_Sad	isLocatedIn	Vojvodina
+Vojvodina	hasCapital	Novi_Sad
+Novi_Sad	isLocatedIn	Vojvodina
+Vojvodina	hasCapital	Novi_Sad
+FK_Vojvodina	isLocatedIn	Novi_Sad
+FK_Vojvodina	isLocatedIn	Novi_Sad
+
+http://dbpedia.org/resource/Karađorđe_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/FK_Vojvodina
+Karađorđe_Stadium	FK_Vojvodina
+Karađorđe_Stadium	isLocatedIn	Vojvodina
+Karađorđe_Stadium	isLocatedIn	Vojvodina
+Karađorđe_Stadium	isLocatedIn	Vojvodina
+Karađorđe_Stadium	isLocatedIn	Vojvodina
+FK_Vojvodina	owns	Karađorđe_Stadium
+FK_Vojvodina	owns	Karađorđe_Stadium
+
+http://dbpedia.org/resource/Gimnasio_USBI	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Universidad_Veracruzana
+Gimnasio_USBI	Universidad_Veracruzana
+Universidad_Veracruzana	owns	Gimnasio_USBI
+Universidad_Veracruzana	owns	Gimnasio_USBI
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+Christine_Hakim	isCitizenOf	Indonesia
+Christine_Hakim	isCitizenOf	Indonesia
+Christine_Hakim	livesIn	Jakarta
+Christine_Hakim	livesIn	Jakarta
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+Haidar_Bagir	isCitizenOf	Indonesia
+Haidar_Bagir	isCitizenOf	Indonesia
+Haidar_Bagir	livesIn	Jakarta
+Haidar_Bagir	livesIn	Jakarta
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+Salman_Aristo	isCitizenOf	Indonesia
+Salman_Aristo	isCitizenOf	Indonesia
+Salman_Aristo	wasBornIn	Jakarta
+Salman_Aristo	wasBornIn	Jakarta
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+Roy_Marten	isCitizenOf	Indonesia
+Roy_Marten	isCitizenOf	Indonesia
+Roy_Marten	livesIn	Jakarta
+Roy_Marten	livesIn	Jakarta
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+Media_Nusantara_Citra	isLocatedIn	Indonesia
+Media_Nusantara_Citra	isLocatedIn	Indonesia
+Media_Nusantara_Citra	isLocatedIn	Jakarta
+Media_Nusantara_Citra	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+Romana_Tedjakusuma	isCitizenOf	Indonesia
+Romana_Tedjakusuma	isCitizenOf	Indonesia
+Romana_Tedjakusuma	livesIn	Jakarta
+Romana_Tedjakusuma	livesIn	Jakarta
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+Suharto	isCitizenOf	Indonesia
+Suharto	isPoliticianOf	Indonesia
+Suharto	isCitizenOf	Indonesia
+Suharto	isPoliticianOf	Indonesia
+Suharto	diedIn	Jakarta
+Suharto	diedIn	Jakarta
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+South_Jakarta	isLocatedIn	Indonesia
+South_Jakarta	isLocatedIn	Indonesia
+South_Jakarta	isLocatedIn	Jakarta
+South_Jakarta	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+Trans7	isLocatedIn	Indonesia
+Trans7	isLocatedIn	Indonesia
+Trans7	isLocatedIn	Jakarta
+Trans7	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+Rajawali_(sinetron)	isLocatedIn	Indonesia
+Rajawali_(sinetron)	isLocatedIn	Indonesia
+Rajawali_(sinetron)	isLocatedIn	Jakarta
+Rajawali_(sinetron)	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+Rosihan_Anwar	isCitizenOf	Indonesia
+Rosihan_Anwar	isCitizenOf	Indonesia
+Rosihan_Anwar	diedIn	Jakarta
+Rosihan_Anwar	diedIn	Jakarta
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+Nyoman_Rudana	isCitizenOf	Indonesia
+Nyoman_Rudana	isCitizenOf	Indonesia
+Nyoman_Rudana	livesIn	Jakarta
+Nyoman_Rudana	livesIn	Jakarta
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+Putri_yang_Ditukar	isLocatedIn	Indonesia
+Putri_yang_Ditukar	isLocatedIn	Indonesia
+Putri_yang_Ditukar	isLocatedIn	Jakarta
+Putri_yang_Ditukar	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+T._B._Simatupang	isCitizenOf	Indonesia
+T._B._Simatupang	isCitizenOf	Indonesia
+T._B._Simatupang	diedIn	Jakarta
+T._B._Simatupang	diedIn	Jakarta
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+Merpati_Nusantara_Airlines	isLocatedIn	Indonesia
+Merpati_Nusantara_Airlines	isLocatedIn	Indonesia
+Merpati_Nusantara_Airlines	isLocatedIn	Jakarta
+Merpati_Nusantara_Airlines	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+GOR_Ciracas_Stadium	isLocatedIn	Indonesia
+Bunga_Citra_Lestari	isCitizenOf	Indonesia
+Bunga_Citra_Lestari	isCitizenOf	Indonesia
+Bunga_Citra_Lestari	wasBornIn	Jakarta
+Bunga_Citra_Lestari	wasBornIn	Jakarta
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	East_Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	East_Jakarta
+East_Jakarta	isLocatedIn	Jakarta
+East_Jakarta	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	East_Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	East_Jakarta
+Ciracas	isLocatedIn	East_Jakarta
+Ciracas	isLocatedIn	East_Jakarta
+Ciracas	isLocatedIn	Jakarta
+Ciracas	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	East_Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	East_Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	East_Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	East_Jakarta
+Jakarta	owns	GOR_Ciracas_Stadium
+Jakarta	owns	GOR_Ciracas_Stadium
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	Ciracas
+GOR_Ciracas_Stadium	isLocatedIn	Ciracas
+Ciracas	isLocatedIn	East_Jakarta
+Ciracas	isLocatedIn	East_Jakarta
+East_Jakarta	isLocatedIn	Jakarta
+East_Jakarta	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	Ciracas
+GOR_Ciracas_Stadium	isLocatedIn	Ciracas
+GOR_Ciracas_Stadium	isLocatedIn	Ciracas
+GOR_Ciracas_Stadium	isLocatedIn	Ciracas
+Jakarta	owns	GOR_Ciracas_Stadium
+Jakarta	owns	GOR_Ciracas_Stadium
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+GOR_Ciracas_Stadium	isLocatedIn	Ciracas
+GOR_Ciracas_Stadium	isLocatedIn	Ciracas
+Ciracas	isLocatedIn	Jakarta
+Ciracas	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/GOR_Ciracas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Jakarta
+GOR_Ciracas_Stadium	Jakarta
+Jakarta	owns	GOR_Ciracas_Stadium
+Jakarta	owns	GOR_Ciracas_Stadium
+
+http://dbpedia.org/resource/Rajshahi_University_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/University_of_Rajshahi
+Rajshahi_University_Stadium	University_of_Rajshahi
+University_of_Rajshahi	owns	Rajshahi_University_Stadium
+University_of_Rajshahi	owns	Rajshahi_University_Stadium
+
+http://dbpedia.org/resource/Rajshahi_University_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/University_of_Rajshahi
+Rajshahi_University_Stadium	University_of_Rajshahi
+Rajshahi_University_Stadium	isLocatedIn	Rajshahi
+Rajshahi_University_Stadium	isLocatedIn	Rajshahi
+University_of_Rajshahi	isLocatedIn	Rajshahi
+University_of_Rajshahi	isLocatedIn	Rajshahi
+
+http://dbpedia.org/resource/Rajshahi_University_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/University_of_Rajshahi
+Rajshahi_University_Stadium	University_of_Rajshahi
+Rajshahi_University_Stadium	isLocatedIn	Rajshahi
+Rajshahi_University_Stadium	isLocatedIn	Rajshahi
+Rajshahi_University_Stadium	isLocatedIn	Rajshahi
+Rajshahi_University_Stadium	isLocatedIn	Rajshahi
+University_of_Rajshahi	owns	Rajshahi_University_Stadium
+University_of_Rajshahi	owns	Rajshahi_University_Stadium
+
+http://dbpedia.org/resource/Bedford_Hydropower_Project	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Bedford,_Virginia
+Bedford_Hydropower_Project	Bedford,_Virginia
+Bedford,_Virginia	owns	Bedford_Hydropower_Project
+Bedford,_Virginia	owns	Bedford_Hydropower_Project
+
+http://dbpedia.org/resource/Bedford_Hydropower_Project	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Bedford,_Virginia
+Bedford_Hydropower_Project	Bedford,_Virginia
+Bedford_Hydropower_Project	isLocatedIn	Amherst_County,_Virginia
+Bedford_Hydropower_Project	isLocatedIn	Amherst_County,_Virginia
+Bedford_Hydropower_Project	isLocatedIn	Amherst_County,_Virginia
+Bedford_Hydropower_Project	isLocatedIn	Amherst_County,_Virginia
+Bedford,_Virginia	owns	Bedford_Hydropower_Project
+Bedford,_Virginia	owns	Bedford_Hydropower_Project
+
+http://dbpedia.org/resource/Bedford_Hydropower_Project	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Bedford,_Virginia
+Bedford_Hydropower_Project	Bedford,_Virginia
+Bedford_Hydropower_Project	isLocatedIn	Bedford_County,_Virginia
+Bedford_Hydropower_Project	isLocatedIn	Bedford_County,_Virginia
+Bedford_County,_Virginia	isLocatedIn	Bedford,_Virginia
+Bedford,_Virginia	isLocatedIn	Bedford_County,_Virginia
+Bedford_County,_Virginia	isLocatedIn	Bedford,_Virginia
+Bedford,_Virginia	isLocatedIn	Bedford_County,_Virginia
+
+http://dbpedia.org/resource/Bedford_Hydropower_Project	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Bedford,_Virginia
+Bedford_Hydropower_Project	Bedford,_Virginia
+Bedford_Hydropower_Project	isLocatedIn	Bedford_County,_Virginia
+Bedford_Hydropower_Project	isLocatedIn	Bedford_County,_Virginia
+Bedford_Hydropower_Project	isLocatedIn	Bedford_County,_Virginia
+Bedford_Hydropower_Project	isLocatedIn	Bedford_County,_Virginia
+Bedford,_Virginia	owns	Bedford_Hydropower_Project
+Bedford,_Virginia	owns	Bedford_Hydropower_Project
+
+http://dbpedia.org/resource/Holt_Arena	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Idaho_State_University
+Holt_Arena	Idaho_State_University
+Holt_Arena	isLocatedIn	Idaho
+Holt_Arena	isLocatedIn	Idaho
+Idaho_State_University	isLocatedIn	Idaho
+Idaho_State_University	isLocatedIn	Idaho
+
+http://dbpedia.org/resource/Holt_Arena	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Idaho_State_University
+Holt_Arena	Idaho_State_University
+Holt_Arena	isLocatedIn	Idaho
+Holt_Arena	isLocatedIn	Idaho
+Patrick_McDonald_(Idaho_politician)	livesIn	Idaho
+Patrick_McDonald_(Idaho_politician)	livesIn	Idaho
+Patrick_McDonald_(Idaho_politician)	graduatedFrom	Idaho_State_University
+Patrick_McDonald_(Idaho_politician)	graduatedFrom	Idaho_State_University
+
+http://dbpedia.org/resource/Holt_Arena	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Idaho_State_University
+Holt_Arena	Idaho_State_University
+Holt_Arena	isLocatedIn	Idaho
+Holt_Arena	isLocatedIn	Idaho
+Holt_Arena	isLocatedIn	Idaho
+Holt_Arena	isLocatedIn	Idaho
+Idaho_State_University	owns	Holt_Arena
+Idaho_State_University	owns	Holt_Arena
+
+http://dbpedia.org/resource/Holt_Arena	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Idaho_State_University
+Holt_Arena	Idaho_State_University
+Holt_Arena	isLocatedIn	Pocatello,_Idaho
+Holt_Arena	isLocatedIn	Pocatello,_Idaho
+Pocatello,_Idaho	isLocatedIn	Idaho
+Pocatello,_Idaho	isLocatedIn	Idaho
+Idaho_State_University	isLocatedIn	Idaho
+Idaho_State_University	isLocatedIn	Idaho
+
+http://dbpedia.org/resource/Holt_Arena	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Idaho_State_University
+Holt_Arena	Idaho_State_University
+Holt_Arena	isLocatedIn	Pocatello,_Idaho
+Holt_Arena	isLocatedIn	Pocatello,_Idaho
+Holt_Arena	isLocatedIn	Pocatello,_Idaho
+Holt_Arena	isLocatedIn	Pocatello,_Idaho
+Idaho_State_University	owns	Holt_Arena
+Idaho_State_University	owns	Holt_Arena
+
+http://dbpedia.org/resource/Holt_Arena	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Idaho_State_University
+Holt_Arena	Idaho_State_University
+Idaho_State_University	owns	Holt_Arena
+Idaho_State_University	owns	Holt_Arena
+
+http://dbpedia.org/resource/Estadio_Sergio_León_Chávez	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Irapuato_F.C.
+Estadio_Sergio_León_Chávez	Irapuato_F.C.
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Irapuato_F.C.	owns	Estadio_Sergio_León_Chávez
+Irapuato_F.C.	owns	Estadio_Sergio_León_Chávez
+
+http://dbpedia.org/resource/Estadio_Sergio_León_Chávez	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Irapuato_F.C.
+Estadio_Sergio_León_Chávez	Irapuato_F.C.
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Jaime_Belmonte	diedIn	Irapuato
+Jaime_Belmonte	diedIn	Irapuato
+Jaime_Belmonte	isAffiliatedTo	Irapuato_F.C.
+Jaime_Belmonte	playsFor	Irapuato_F.C.
+Jaime_Belmonte	isAffiliatedTo	Irapuato_F.C.
+Jaime_Belmonte	playsFor	Irapuato_F.C.
+
+http://dbpedia.org/resource/Estadio_Sergio_León_Chávez	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Irapuato_F.C.
+Estadio_Sergio_León_Chávez	Irapuato_F.C.
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Estadio_Sergio_León_Chávez	isLocatedIn	Irapuato
+Irapuato_F.C.	isLocatedIn	Irapuato
+Irapuato_F.C.	isLocatedIn	Irapuato
+
+http://dbpedia.org/resource/Estadio_Sergio_León_Chávez	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Irapuato_F.C.
+Estadio_Sergio_León_Chávez	Irapuato_F.C.
+Irapuato_F.C.	owns	Estadio_Sergio_León_Chávez
+Irapuato_F.C.	owns	Estadio_Sergio_León_Chávez
+
+http://dbpedia.org/resource/Johnny_Unitas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Towson_University
+Johnny_Unitas_Stadium	Towson_University
+Johnny_Unitas_Stadium	isLocatedIn	Towson,_Maryland
+Johnny_Unitas_Stadium	isLocatedIn	Towson,_Maryland
+Towson_University	isLocatedIn	Towson,_Maryland
+Towson_University	isLocatedIn	Towson,_Maryland
+
+http://dbpedia.org/resource/Johnny_Unitas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Towson_University
+Johnny_Unitas_Stadium	Towson_University
+Towson_University	owns	Johnny_Unitas_Stadium
+Towson_University	owns	Johnny_Unitas_Stadium
+
+http://dbpedia.org/resource/Johnny_Unitas_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Towson_University
+Johnny_Unitas_Stadium	Towson_University
+Ellerbe_Becket	created	Johnny_Unitas_Stadium
+Ellerbe_Becket	created	Johnny_Unitas_Stadium
+Ellerbe_Becket	created	Johnny_Unitas_Stadium
+Ellerbe_Becket	created	Johnny_Unitas_Stadium
+Towson_University	owns	Johnny_Unitas_Stadium
+Towson_University	owns	Johnny_Unitas_Stadium
+
+http://dbpedia.org/resource/Čakovec_Hydroelectric_Power_Plant	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Hrvatska_elektroprivreda
+Čakovec_Hydroelectric_Power_Plant	Hrvatska_elektroprivreda
+Hrvatska_elektroprivreda	owns	Čakovec_Hydroelectric_Power_Plant
+Hrvatska_elektroprivreda	owns	Čakovec_Hydroelectric_Power_Plant
+
+http://dbpedia.org/resource/Čakovec_Hydroelectric_Power_Plant	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Hrvatska_elektroprivreda
+Čakovec_Hydroelectric_Power_Plant	Hrvatska_elektroprivreda
+Čakovec_Hydroelectric_Power_Plant	isLocatedIn	Međimurje_County
+Čakovec_Hydroelectric_Power_Plant	isLocatedIn	Međimurje_County
+Čakovec_Hydroelectric_Power_Plant	isLocatedIn	Međimurje_County
+Čakovec_Hydroelectric_Power_Plant	isLocatedIn	Međimurje_County
+Hrvatska_elektroprivreda	owns	Čakovec_Hydroelectric_Power_Plant
+Hrvatska_elektroprivreda	owns	Čakovec_Hydroelectric_Power_Plant
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Rónald_Chaves	isCitizenOf	Costa_Rica
+Rónald_Chaves	isCitizenOf	Costa_Rica
+Rónald_Chaves	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Rónald_Chaves	playsFor	Liga_Deportiva_Alajuelense
+Rónald_Chaves	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Rónald_Chaves	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Giancarlo_González	isCitizenOf	Costa_Rica
+Giancarlo_González	isCitizenOf	Costa_Rica
+Giancarlo_González	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Giancarlo_González	playsFor	Liga_Deportiva_Alajuelense
+Giancarlo_González	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Giancarlo_González	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Pablo_Salazar	isCitizenOf	Costa_Rica
+Pablo_Salazar	isCitizenOf	Costa_Rica
+Pablo_Salazar	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Pablo_Salazar	playsFor	Liga_Deportiva_Alajuelense
+Pablo_Salazar	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Pablo_Salazar	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Luis_Diego_Arnáez	isCitizenOf	Costa_Rica
+Luis_Diego_Arnáez	isCitizenOf	Costa_Rica
+Luis_Diego_Arnáez	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Luis_Diego_Arnáez	playsFor	Liga_Deportiva_Alajuelense
+Luis_Diego_Arnáez	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Luis_Diego_Arnáez	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Marvin_Rodríguez	isCitizenOf	Costa_Rica
+Marvin_Rodríguez	isCitizenOf	Costa_Rica
+Marvin_Rodríguez	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Marvin_Rodríguez	playsFor	Liga_Deportiva_Alajuelense
+Marvin_Rodríguez	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Marvin_Rodríguez	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Daniel_Juárez	isCitizenOf	Costa_Rica
+Daniel_Juárez	isCitizenOf	Costa_Rica
+Daniel_Juárez	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Daniel_Juárez	playsFor	Liga_Deportiva_Alajuelense
+Daniel_Juárez	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Daniel_Juárez	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Armando_Alonso	isCitizenOf	Costa_Rica
+Armando_Alonso	isCitizenOf	Costa_Rica
+Armando_Alonso	playsFor	Liga_Deportiva_Alajuelense
+Armando_Alonso	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Armando_Alonso	playsFor	Liga_Deportiva_Alajuelense
+Armando_Alonso	isAffiliatedTo	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Costa_Rica
+Omar_Arroyo	isCitizenOf	Costa_Rica
+Omar_Arroyo	isCitizenOf	Costa_Rica
+Omar_Arroyo	playsFor	Liga_Deportiva_Alajuelense
+Omar_Arroyo	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Omar_Arroyo	playsFor	Liga_Deportiva_Alajuelense
+Omar_Arroyo	isAffiliatedTo	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Liga_Deportiva_Alajuelense	owns	Estadio_Alejandro_Morera_Soto
+Liga_Deportiva_Alajuelense	owns	Estadio_Alejandro_Morera_Soto
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Esteban_Sirias	wasBornIn	Alajuela
+Esteban_Sirias	wasBornIn	Alajuela
+Esteban_Sirias	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Esteban_Sirias	playsFor	Liga_Deportiva_Alajuelense
+Esteban_Sirias	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Esteban_Sirias	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Javier_Jiménez_(Costa_Rican_footballer)	wasBornIn	Alajuela
+Javier_Jiménez_(Costa_Rican_footballer)	wasBornIn	Alajuela
+Javier_Jiménez_(Costa_Rican_footballer)	playsFor	Liga_Deportiva_Alajuelense
+Javier_Jiménez_(Costa_Rican_footballer)	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Javier_Jiménez_(Costa_Rican_footballer)	playsFor	Liga_Deportiva_Alajuelense
+Javier_Jiménez_(Costa_Rican_footballer)	isAffiliatedTo	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Liga_Deportiva_Alajuelense	isLocatedIn	Alajuela
+Liga_Deportiva_Alajuelense	isLocatedIn	Alajuela
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Alejandro_Morera_Soto	wasBornIn	Alajuela
+Alejandro_Morera_Soto	wasBornIn	Alajuela
+Alejandro_Morera_Soto	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Alejandro_Morera_Soto	playsFor	Liga_Deportiva_Alajuelense
+Alejandro_Morera_Soto	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Alejandro_Morera_Soto	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Javier_Delgado_Prado	wasBornIn	Alajuela
+Javier_Delgado_Prado	wasBornIn	Alajuela
+Javier_Delgado_Prado	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Javier_Delgado_Prado	playsFor	Liga_Deportiva_Alajuelense
+Javier_Delgado_Prado	isAffiliatedTo	Liga_Deportiva_Alajuelense
+Javier_Delgado_Prado	playsFor	Liga_Deportiva_Alajuelense
+
+http://dbpedia.org/resource/Estadio_Alejandro_Morera_Soto	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	Liga_Deportiva_Alajuelense
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Estadio_Alejandro_Morera_Soto	isLocatedIn	Alajuela
+Liga_Deportiva_Alajuelense	owns	Estadio_Alejandro_Morera_Soto
+Liga_Deportiva_Alajuelense	owns	Estadio_Alejandro_Morera_Soto
+
+http://dbpedia.org/resource/Hamid_Karzai_International_Airport	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/International_Security_Assistance_Force
+Hamid_Karzai_International_Airport	International_Security_Assistance_Force
+Hamid_Karzai_International_Airport	isLocatedIn	Kabul_Province
+Hamid_Karzai_International_Airport	isLocatedIn	Kabul_Province
+Kabul_Province	hasCapital	Kabul
+Kabul_Province	isLocatedIn	Kabul
+Kabul	isLocatedIn	Kabul_Province
+Kabul_Province	hasCapital	Kabul
+Kabul_Province	isLocatedIn	Kabul
+Kabul	isLocatedIn	Kabul_Province
+International_Security_Assistance_Force	isLocatedIn	Kabul
+International_Security_Assistance_Force	isLocatedIn	Kabul
+
+http://dbpedia.org/resource/Sammy_Ofer_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Haifa
+Sammy_Ofer_Stadium	Haifa
+Sammy_Ofer_Stadium	isLocatedIn	Haifa
+Haifa	owns	Sammy_Ofer_Stadium
+Sammy_Ofer_Stadium	isLocatedIn	Haifa
+Haifa	owns	Sammy_Ofer_Stadium
+
+http://dbpedia.org/resource/Kidd_Brewer_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Appalachian_State_University
+Kidd_Brewer_Stadium	Appalachian_State_University
+Kidd_Brewer_Stadium	isLocatedIn	Boone,_North_Carolina
+Kidd_Brewer_Stadium	isLocatedIn	Boone,_North_Carolina
+Steve_Goss	diedIn	Boone,_North_Carolina
+Steve_Goss	diedIn	Boone,_North_Carolina
+Steve_Goss	graduatedFrom	Appalachian_State_University
+Steve_Goss	graduatedFrom	Appalachian_State_University
+
+http://dbpedia.org/resource/Kidd_Brewer_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Appalachian_State_University
+Kidd_Brewer_Stadium	Appalachian_State_University
+Kidd_Brewer_Stadium	isLocatedIn	Boone,_North_Carolina
+Kidd_Brewer_Stadium	isLocatedIn	Boone,_North_Carolina
+Appalachian_State_University	isLocatedIn	Boone,_North_Carolina
+Appalachian_State_University	isLocatedIn	Boone,_North_Carolina
+
+http://dbpedia.org/resource/Kidd_Brewer_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Appalachian_State_University
+Kidd_Brewer_Stadium	Appalachian_State_University
+Appalachian_State_University	owns	Kidd_Brewer_Stadium
+Appalachian_State_University	owns	Kidd_Brewer_Stadium
+
+http://dbpedia.org/resource/Kidd_Brewer_Stadium	http://dbpedia.org/ontology/operator	http://dbpedia.org/resource/Appalachian_State_University
+Kidd_Brewer_Stadium	Appalachian_State_University
+Kidd_Brewer_Stadium	isLocatedIn	North_Carolina
+Kidd_Brewer_Stadium	isLocatedIn	North_Carolina
+Kidd_Brewer_Stadium	isLocatedIn	North_Carolina
+Kidd_Brewer_Stadium	isLocatedIn	North_Carolina
+Appalachian_State_University	owns	Kidd_Brewer_Stadium
+Appalachian_State_University	owns	Kidd_Brewer_Stadium
+

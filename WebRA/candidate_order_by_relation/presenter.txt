@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/PTV_Awards	http://dbpedia.org/ontology/presenter	http://dbpedia.org/resource/Pakistan_Television_Corporation
+PTV_Awards	Pakistan_Television_Corporation
+PTV_Awards	isLocatedIn	Islamabad
+PTV_Awards	isLocatedIn	Islamabad
+Pakistan_Television_Corporation	isLocatedIn	Islamabad
+Pakistan_Television_Corporation	isLocatedIn	Islamabad
+

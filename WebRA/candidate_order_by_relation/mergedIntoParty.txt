@@ -1,0 +1,124 @@
+http://dbpedia.org/resource/Forza_Italia	http://dbpedia.org/ontology/mergedIntoParty	http://dbpedia.org/resource/The_People_of_Freedom
+Forza_Italia	The_People_of_Freedom
+Silvio_Berlusconi	isAffiliatedTo	Forza_Italia
+Silvio_Berlusconi	isLeaderOf	Forza_Italia
+Silvio_Berlusconi	isAffiliatedTo	Forza_Italia
+Silvio_Berlusconi	isLeaderOf	Forza_Italia
+Silvio_Berlusconi	isLeaderOf	The_People_of_Freedom
+Silvio_Berlusconi	isAffiliatedTo	The_People_of_Freedom
+Silvio_Berlusconi	isLeaderOf	The_People_of_Freedom
+Silvio_Berlusconi	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Forza_Italia	http://dbpedia.org/ontology/mergedIntoParty	http://dbpedia.org/resource/The_People_of_Freedom
+Forza_Italia	The_People_of_Freedom
+Raffaele_Fitto	isAffiliatedTo	Forza_Italia
+Raffaele_Fitto	isAffiliatedTo	Forza_Italia
+Raffaele_Fitto	isAffiliatedTo	The_People_of_Freedom
+Raffaele_Fitto	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Forza_Italia	http://dbpedia.org/ontology/mergedIntoParty	http://dbpedia.org/resource/The_People_of_Freedom
+Forza_Italia	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Forza_Italia	http://dbpedia.org/ontology/mergedIntoParty	http://dbpedia.org/resource/The_People_of_Freedom
+Forza_Italia	The_People_of_Freedom
+Pietro_Lunardi	isAffiliatedTo	Forza_Italia
+Pietro_Lunardi	isAffiliatedTo	Forza_Italia
+Pietro_Lunardi	isAffiliatedTo	The_People_of_Freedom
+Pietro_Lunardi	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Forza_Italia	http://dbpedia.org/ontology/mergedIntoParty	http://dbpedia.org/resource/The_People_of_Freedom
+Forza_Italia	The_People_of_Freedom
+Antonio_Tajani	isAffiliatedTo	Forza_Italia
+Antonio_Tajani	isAffiliatedTo	Forza_Italia
+Antonio_Tajani	isAffiliatedTo	The_People_of_Freedom
+Antonio_Tajani	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Forza_Italia	http://dbpedia.org/ontology/mergedIntoParty	http://dbpedia.org/resource/The_People_of_Freedom
+Forza_Italia	The_People_of_Freedom
+Antonio_Martino	isAffiliatedTo	Forza_Italia
+Antonio_Martino	isAffiliatedTo	Forza_Italia
+Antonio_Martino	isAffiliatedTo	The_People_of_Freedom
+Antonio_Martino	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Forza_Italia	http://dbpedia.org/ontology/mergedIntoParty	http://dbpedia.org/resource/The_People_of_Freedom
+Forza_Italia	The_People_of_Freedom
+Forza_Italia	isLocatedIn	Rome
+Forza_Italia	isLocatedIn	Rome
+Giuseppe_Cossiga	livesIn	Rome
+Giuseppe_Cossiga	livesIn	Rome
+Giuseppe_Cossiga	isAffiliatedTo	The_People_of_Freedom
+Giuseppe_Cossiga	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Forza_Italia	http://dbpedia.org/ontology/mergedIntoParty	http://dbpedia.org/resource/The_People_of_Freedom
+Forza_Italia	The_People_of_Freedom
+Giuseppe_Cossiga	isAffiliatedTo	Forza_Italia
+Giuseppe_Cossiga	isAffiliatedTo	Forza_Italia
+Giuseppe_Cossiga	isAffiliatedTo	The_People_of_Freedom
+Giuseppe_Cossiga	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Forza_Italia	http://dbpedia.org/ontology/mergedIntoParty	http://dbpedia.org/resource/The_People_of_Freedom
+Forza_Italia	The_People_of_Freedom
+Gaetano_Quagliariello	isAffiliatedTo	Forza_Italia
+Gaetano_Quagliariello	isAffiliatedTo	Forza_Italia
+Gaetano_Quagliariello	isAffiliatedTo	The_People_of_Freedom
+Gaetano_Quagliariello	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Forza_Italia	http://dbpedia.org/ontology/mergedIntoParty	http://dbpedia.org/resource/The_People_of_Freedom
+Forza_Italia	The_People_of_Freedom
+Lara_Comi	isAffiliatedTo	Forza_Italia
+Lara_Comi	isAffiliatedTo	Forza_Italia
+Lara_Comi	isAffiliatedTo	The_People_of_Freedom
+Lara_Comi	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/The_Democrats_(Italy)	http://dbpedia.org/ontology/mergedIntoParty	http://dbpedia.org/resource/Democracy_is_Freedom_–_The_Daisy
+The_Democrats_(Italy)	Democracy_is_Freedom_–_The_Daisy
+Antonio_Maccanico	isAffiliatedTo	The_Democrats_(Italy)
+Antonio_Maccanico	isAffiliatedTo	The_Democrats_(Italy)
+Antonio_Maccanico	isAffiliatedTo	Democracy_is_Freedom_–_The_Daisy
+Antonio_Maccanico	isAffiliatedTo	Democracy_is_Freedom_–_The_Daisy
+
+http://dbpedia.org/resource/The_Democrats_(Italy)	http://dbpedia.org/ontology/mergedIntoParty	http://dbpedia.org/resource/Democracy_is_Freedom_–_The_Daisy
+The_Democrats_(Italy)	Democracy_is_Freedom_–_The_Daisy
+Willer_Bordon	isAffiliatedTo	The_Democrats_(Italy)
+Willer_Bordon	isAffiliatedTo	The_Democrats_(Italy)
+Willer_Bordon	isAffiliatedTo	Democracy_is_Freedom_–_The_Daisy
+Willer_Bordon	isAffiliatedTo	Democracy_is_Freedom_–_The_Daisy
+
+http://dbpedia.org/resource/The_Democrats_(Italy)	http://dbpedia.org/ontology/mergedIntoParty	http://dbpedia.org/resource/Democracy_is_Freedom_–_The_Daisy
+The_Democrats_(Italy)	Democracy_is_Freedom_–_The_Daisy
+The_Democrats_(Italy)	isLocatedIn	Rome
+The_Democrats_(Italy)	isLocatedIn	Rome
+Paolo_Gentiloni	wasBornIn	Rome
+Paolo_Gentiloni	wasBornIn	Rome
+Paolo_Gentiloni	isAffiliatedTo	Democracy_is_Freedom_–_The_Daisy
+Paolo_Gentiloni	isAffiliatedTo	Democracy_is_Freedom_–_The_Daisy
+
+http://dbpedia.org/resource/The_Democrats_(Italy)	http://dbpedia.org/ontology/mergedIntoParty	http://dbpedia.org/resource/Democracy_is_Freedom_–_The_Daisy
+The_Democrats_(Italy)	Democracy_is_Freedom_–_The_Daisy
+Romano_Prodi	isAffiliatedTo	The_Democrats_(Italy)
+Romano_Prodi	isAffiliatedTo	The_Democrats_(Italy)
+Romano_Prodi	isAffiliatedTo	The_Olive_Tree_(Italy)
+Romano_Prodi	isAffiliatedTo	The_Olive_Tree_(Italy)
+Democracy_is_Freedom_–_The_Daisy	isAffiliatedTo	The_Olive_Tree_(Italy)
+Democracy_is_Freedom_–_The_Daisy	isAffiliatedTo	The_Olive_Tree_(Italy)
+
+http://dbpedia.org/resource/Democratic_Labor_Party_(South_Korea)	http://dbpedia.org/ontology/mergedIntoParty	http://dbpedia.org/resource/Unified_Progressive_Party
+Democratic_Labor_Party_(South_Korea)	Unified_Progressive_Party
+Democratic_Labor_Party_(South_Korea)	isLocatedIn	Seoul
+Democratic_Labor_Party_(South_Korea)	isLocatedIn	Seoul
+Dongjak_District	isLocatedIn	Seoul
+Dongjak_District	isLocatedIn	Seoul
+Unified_Progressive_Party	isLocatedIn	Dongjak_District
+Unified_Progressive_Party	isLocatedIn	Dongjak_District
+
+http://dbpedia.org/resource/Meeting_Point	http://dbpedia.org/ontology/mergedIntoParty	http://dbpedia.org/resource/Democratic_Party_(Hong_Kong)
+Meeting_Point	Democratic_Party_(Hong_Kong)
+Yeung_Sum	isAffiliatedTo	Meeting_Point
+Yeung_Sum	isAffiliatedTo	Meeting_Point
+Yeung_Sum	isAffiliatedTo	Democratic_Party_(Hong_Kong)
+Yeung_Sum	isAffiliatedTo	Democratic_Party_(Hong_Kong)
+

@@ -1,0 +1,99 @@
+http://dbpedia.org/resource/Eros_(film)	http://dbpedia.org/ontology/cinematography	http://dbpedia.org/resource/Steven_Soderbergh
+Eros_(film)	Steven_Soderbergh
+Steven_Soderbergh	created	Eros_(film)
+Steven_Soderbergh	directed	Eros_(film)
+Steven_Soderbergh	created	Eros_(film)
+Steven_Soderbergh	directed	Eros_(film)
+
+http://dbpedia.org/resource/Eros_(film)	http://dbpedia.org/ontology/cinematography	http://dbpedia.org/resource/Steven_Soderbergh
+Eros_(film)	Steven_Soderbergh
+Robert_Downey_Jr.	actedIn	Eros_(film)
+Robert_Downey_Jr.	actedIn	Eros_(film)
+Robert_Downey_Jr.	actedIn	Eros_(film)
+Robert_Downey_Jr.	actedIn	Eros_(film)
+Steven_Soderbergh	created	Eros_(film)
+Steven_Soderbergh	directed	Eros_(film)
+Steven_Soderbergh	created	Eros_(film)
+Steven_Soderbergh	directed	Eros_(film)
+
+http://dbpedia.org/resource/Eros_(film)	http://dbpedia.org/ontology/cinematography	http://dbpedia.org/resource/Steven_Soderbergh
+Eros_(film)	Steven_Soderbergh
+Wong_Kar-wai	directed	Eros_(film)
+Wong_Kar-wai	directed	Eros_(film)
+Wong_Kar-wai	directed	Eros_(film)
+Wong_Kar-wai	directed	Eros_(film)
+Steven_Soderbergh	created	Eros_(film)
+Steven_Soderbergh	directed	Eros_(film)
+Steven_Soderbergh	created	Eros_(film)
+Steven_Soderbergh	directed	Eros_(film)
+
+http://dbpedia.org/resource/Melancholia_(2008_film)	http://dbpedia.org/ontology/cinematography	http://dbpedia.org/resource/Lav_Diaz
+Melancholia_(2008_film)	Lav_Diaz
+Lav_Diaz	wroteMusicFor	Melancholia_(2008_film)
+Lav_Diaz	directed	Melancholia_(2008_film)
+Lav_Diaz	created	Melancholia_(2008_film)
+Lav_Diaz	wroteMusicFor	Melancholia_(2008_film)
+Lav_Diaz	directed	Melancholia_(2008_film)
+Lav_Diaz	created	Melancholia_(2008_film)
+
+http://dbpedia.org/resource/Suddilage_Kathaawa	http://dbpedia.org/ontology/cinematography	http://dbpedia.org/resource/Andrew_Jayamanne
+Suddilage_Kathaawa	Andrew_Jayamanne
+Premasiri_Khemadasa	wroteMusicFor	Suddilage_Kathaawa
+Premasiri_Khemadasa	wroteMusicFor	Suddilage_Kathaawa
+Premasiri_Khemadasa	wroteMusicFor	Suddilage_Kathaawa
+Premasiri_Khemadasa	wroteMusicFor	Suddilage_Kathaawa
+Andrew_Jayamanne	created	Suddilage_Kathaawa
+Andrew_Jayamanne	created	Suddilage_Kathaawa
+
+http://dbpedia.org/resource/Suddilage_Kathaawa	http://dbpedia.org/ontology/cinematography	http://dbpedia.org/resource/Andrew_Jayamanne
+Suddilage_Kathaawa	Andrew_Jayamanne
+Premasiri_Khemadasa	wroteMusicFor	Suddilage_Kathaawa
+Premasiri_Khemadasa	wroteMusicFor	Suddilage_Kathaawa
+Premasiri_Khemadasa	wroteMusicFor	Thunveni_Yamaya
+Premasiri_Khemadasa	wroteMusicFor	Thunveni_Yamaya
+Andrew_Jayamanne	created	Thunveni_Yamaya
+Andrew_Jayamanne	created	Thunveni_Yamaya
+
+http://dbpedia.org/resource/Suddilage_Kathaawa	http://dbpedia.org/ontology/cinematography	http://dbpedia.org/resource/Andrew_Jayamanne
+Suddilage_Kathaawa	Andrew_Jayamanne
+Andrew_Jayamanne	created	Suddilage_Kathaawa
+Andrew_Jayamanne	created	Suddilage_Kathaawa
+
+http://dbpedia.org/resource/Suddilage_Kathaawa	http://dbpedia.org/ontology/cinematography	http://dbpedia.org/resource/Andrew_Jayamanne
+Suddilage_Kathaawa	Andrew_Jayamanne
+Dharmasiri_Bandaranayake	directed	Suddilage_Kathaawa
+Dharmasiri_Bandaranayake	directed	Suddilage_Kathaawa
+Dharmasiri_Bandaranayake	directed	Thunveni_Yamaya
+Dharmasiri_Bandaranayake	created	Thunveni_Yamaya
+Dharmasiri_Bandaranayake	directed	Thunveni_Yamaya
+Dharmasiri_Bandaranayake	created	Thunveni_Yamaya
+Andrew_Jayamanne	created	Thunveni_Yamaya
+Andrew_Jayamanne	created	Thunveni_Yamaya
+
+http://dbpedia.org/resource/Suddilage_Kathaawa	http://dbpedia.org/ontology/cinematography	http://dbpedia.org/resource/Andrew_Jayamanne
+Suddilage_Kathaawa	Andrew_Jayamanne
+Swarna_Mallawarachchi	actedIn	Suddilage_Kathaawa
+Swarna_Mallawarachchi	actedIn	Suddilage_Kathaawa
+Swarna_Mallawarachchi	actedIn	Suddilage_Kathaawa
+Swarna_Mallawarachchi	actedIn	Suddilage_Kathaawa
+Andrew_Jayamanne	created	Suddilage_Kathaawa
+Andrew_Jayamanne	created	Suddilage_Kathaawa
+
+http://dbpedia.org/resource/Suddilage_Kathaawa	http://dbpedia.org/ontology/cinematography	http://dbpedia.org/resource/Andrew_Jayamanne
+Suddilage_Kathaawa	Andrew_Jayamanne
+Joe_Abeywickrama	actedIn	Suddilage_Kathaawa
+Joe_Abeywickrama	actedIn	Suddilage_Kathaawa
+Joe_Abeywickrama	actedIn	Suddilage_Kathaawa
+Joe_Abeywickrama	actedIn	Suddilage_Kathaawa
+Andrew_Jayamanne	created	Suddilage_Kathaawa
+Andrew_Jayamanne	created	Suddilage_Kathaawa
+
+http://dbpedia.org/resource/Suddilage_Kathaawa	http://dbpedia.org/ontology/cinematography	http://dbpedia.org/resource/Andrew_Jayamanne
+Suddilage_Kathaawa	Andrew_Jayamanne
+Simon_Navagattegama	created	Suddilage_Kathaawa
+Simon_Navagattegama	created	Suddilage_Kathaawa
+Simon_Navagattegama	created	Suddilage_Kathaawa
+Simon_Navagattegama	created	Suddilage_Kathaawa
+Andrew_Jayamanne	created	Suddilage_Kathaawa
+Andrew_Jayamanne	created	Suddilage_Kathaawa
+

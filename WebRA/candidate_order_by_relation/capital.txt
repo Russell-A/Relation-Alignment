@@ -1,0 +1,3802 @@
+http://dbpedia.org/resource/Karak_Governorate	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Al-Karak
+Karak_Governorate	Al-Karak
+Al-Karak	isLocatedIn	Karak_Governorate
+Karak_Governorate	isLocatedIn	Al-Karak
+Al-Karak	isLocatedIn	Karak_Governorate
+Karak_Governorate	isLocatedIn	Al-Karak
+
+http://dbpedia.org/resource/Karak_Governorate	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Al-Karak
+Karak_Governorate	Al-Karak
+Battle_of_Mu'tah	happenedIn	Karak_Governorate
+Battle_of_Mu'tah	happenedIn	Karak_Governorate
+Battle_of_Mu'tah	happenedIn	Al-Karak
+Battle_of_Mu'tah	happenedIn	Al-Karak
+
+http://dbpedia.org/resource/Karak_Governorate	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Al-Karak
+Karak_Governorate	Al-Karak
+Battle_of_Mu'tah	happenedIn	Karak_Governorate
+Battle_of_Mu'tah	happenedIn	Karak_Governorate
+Battle_of_Mu'tah	happenedIn	Karak_Governorate
+Battle_of_Mu'tah	happenedIn	Karak_Governorate
+Al-Karak	isLocatedIn	Karak_Governorate
+Karak_Governorate	isLocatedIn	Al-Karak
+Al-Karak	isLocatedIn	Karak_Governorate
+Karak_Governorate	isLocatedIn	Al-Karak
+
+http://dbpedia.org/resource/Karak_Governorate	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Al-Karak
+Karak_Governorate	Al-Karak
+Mu'tah	isLocatedIn	Karak_Governorate
+Mu'tah	isLocatedIn	Karak_Governorate
+Battle_of_Mu'tah	happenedIn	Mu'tah
+Battle_of_Mu'tah	happenedIn	Mu'tah
+Battle_of_Mu'tah	happenedIn	Al-Karak
+Battle_of_Mu'tah	happenedIn	Al-Karak
+
+http://dbpedia.org/resource/Karak_Governorate	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Al-Karak
+Karak_Governorate	Al-Karak
+Mu'tah	isLocatedIn	Karak_Governorate
+Mu'tah	isLocatedIn	Karak_Governorate
+Mu'tah	isLocatedIn	Karak_Governorate
+Mu'tah	isLocatedIn	Karak_Governorate
+Al-Karak	isLocatedIn	Karak_Governorate
+Karak_Governorate	isLocatedIn	Al-Karak
+Al-Karak	isLocatedIn	Karak_Governorate
+Karak_Governorate	isLocatedIn	Al-Karak
+
+http://dbpedia.org/resource/Andorra	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Andorra_la_Vella
+Andorra	Andorra_la_Vella
+Carlos_Peppe	isCitizenOf	Andorra
+Carlos_Peppe	isCitizenOf	Andorra
+Carlos_Peppe	isAffiliatedTo	FC_Andorra
+Carlos_Peppe	playsFor	FC_Andorra
+Carlos_Peppe	isAffiliatedTo	FC_Andorra
+Carlos_Peppe	playsFor	FC_Andorra
+FC_Andorra	isLocatedIn	Andorra_la_Vella
+FC_Andorra	isLocatedIn	Andorra_la_Vella
+
+http://dbpedia.org/resource/Andorra	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Andorra_la_Vella
+Andorra	Andorra_la_Vella
+Daniel_Mejías	isCitizenOf	Andorra
+Daniel_Mejías	isCitizenOf	Andorra
+Daniel_Mejías	isAffiliatedTo	FC_Andorra
+Daniel_Mejías	playsFor	FC_Andorra
+Daniel_Mejías	isAffiliatedTo	FC_Andorra
+Daniel_Mejías	playsFor	FC_Andorra
+FC_Andorra	isLocatedIn	Andorra_la_Vella
+FC_Andorra	isLocatedIn	Andorra_la_Vella
+
+http://dbpedia.org/resource/Andorra	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Andorra_la_Vella
+Andorra	Andorra_la_Vella
+Sergi_Moreno	isCitizenOf	Andorra
+Sergi_Moreno	isCitizenOf	Andorra
+Sergi_Moreno	playsFor	FC_Andorra
+Sergi_Moreno	isAffiliatedTo	FC_Andorra
+Sergi_Moreno	playsFor	FC_Andorra
+Sergi_Moreno	isAffiliatedTo	FC_Andorra
+FC_Andorra	isLocatedIn	Andorra_la_Vella
+FC_Andorra	isLocatedIn	Andorra_la_Vella
+
+http://dbpedia.org/resource/Andorra	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Andorra_la_Vella
+Andorra	Andorra_la_Vella
+Rubén_Epitié_Dyowe	isCitizenOf	Andorra
+Rubén_Epitié_Dyowe	isCitizenOf	Andorra
+Rubén_Epitié_Dyowe	isAffiliatedTo	FC_Andorra
+Rubén_Epitié_Dyowe	playsFor	FC_Andorra
+Rubén_Epitié_Dyowe	isAffiliatedTo	FC_Andorra
+Rubén_Epitié_Dyowe	playsFor	FC_Andorra
+FC_Andorra	isLocatedIn	Andorra_la_Vella
+FC_Andorra	isLocatedIn	Andorra_la_Vella
+
+http://dbpedia.org/resource/Greece	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Athens
+Greece	Athens
+Stefanos_Manos	isPoliticianOf	Greece
+Stefanos_Manos	isCitizenOf	Greece
+Stefanos_Manos	isPoliticianOf	Greece
+Stefanos_Manos	isCitizenOf	Greece
+Stefanos_Manos	isAffiliatedTo	Drassi
+Stefanos_Manos	created	Drassi
+Stefanos_Manos	isAffiliatedTo	Drassi
+Stefanos_Manos	created	Drassi
+Drassi	isLocatedIn	Athens
+Drassi	isLocatedIn	Athens
+
+http://dbpedia.org/resource/Greece	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Athens
+Greece	Athens
+Stefanos_Manos	isPoliticianOf	Greece
+Stefanos_Manos	isCitizenOf	Greece
+Stefanos_Manos	isPoliticianOf	Greece
+Stefanos_Manos	isCitizenOf	Greece
+Stefanos_Manos	wasBornIn	Athens
+Stefanos_Manos	wasBornIn	Athens
+
+http://dbpedia.org/resource/Greece	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Athens
+Greece	Athens
+O_Stratis_parastratise	isLocatedIn	Greece
+O_Stratis_parastratise	isLocatedIn	Greece
+Dinos_Iliopoulos	actedIn	O_Stratis_parastratise
+Dinos_Iliopoulos	actedIn	O_Stratis_parastratise
+Dinos_Iliopoulos	diedIn	Athens
+Dinos_Iliopoulos	diedIn	Athens
+
+http://dbpedia.org/resource/Greece	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Athens
+Greece	Athens
+O_Stratis_parastratise	isLocatedIn	Greece
+O_Stratis_parastratise	isLocatedIn	Greece
+Nikos_Rizos	actedIn	O_Stratis_parastratise
+Nikos_Rizos	actedIn	O_Stratis_parastratise
+Nikos_Rizos	diedIn	Athens
+Nikos_Rizos	diedIn	Athens
+
+http://dbpedia.org/resource/Greece	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Athens
+Greece	Athens
+Kalos_ilthe_to_dollario	isLocatedIn	Greece
+Kalos_ilthe_to_dollario	isLocatedIn	Greece
+Alekos_Sakellarios	directed	Kalos_ilthe_to_dollario
+Alekos_Sakellarios	created	Kalos_ilthe_to_dollario
+Alekos_Sakellarios	directed	Kalos_ilthe_to_dollario
+Alekos_Sakellarios	created	Kalos_ilthe_to_dollario
+Alekos_Sakellarios	diedIn	Athens
+Alekos_Sakellarios	wasBornIn	Athens
+Alekos_Sakellarios	diedIn	Athens
+Alekos_Sakellarios	wasBornIn	Athens
+
+http://dbpedia.org/resource/Greece	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Athens
+Greece	Athens
+Theophilos_Kairis	isCitizenOf	Greece
+Theophilos_Kairis	isCitizenOf	Greece
+Theophilos_Kairis	influences	Theoklitos_Farmakidis
+Theophilos_Kairis	influences	Theoklitos_Farmakidis
+Theoklitos_Farmakidis	diedIn	Athens
+Theoklitos_Farmakidis	diedIn	Athens
+
+http://dbpedia.org/resource/Greece	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Athens
+Greece	Athens
+Frederica_of_Hanover	isCitizenOf	Greece
+Frederica_of_Hanover	isCitizenOf	Greece
+Paul_of_Greece	isMarriedTo	Frederica_of_Hanover
+Frederica_of_Hanover	isMarriedTo	Paul_of_Greece
+Paul_of_Greece	isMarriedTo	Frederica_of_Hanover
+Frederica_of_Hanover	isMarriedTo	Paul_of_Greece
+Paul_of_Greece	wasBornIn	Athens
+Paul_of_Greece	diedIn	Athens
+Paul_of_Greece	wasBornIn	Athens
+Paul_of_Greece	diedIn	Athens
+
+http://dbpedia.org/resource/Greece	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Athens
+Greece	Athens
+Panteion_University	isLocatedIn	Greece
+Panteion_University	isLocatedIn	Greece
+Panteion_University	isLocatedIn	Athens
+Panteion_University	isLocatedIn	Athens
+
+http://dbpedia.org/resource/Greece	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Athens
+Greece	Athens
+Panteion_University	isLocatedIn	Greece
+Panteion_University	isLocatedIn	Greece
+Vangelis_Meimarakis	graduatedFrom	Panteion_University
+Vangelis_Meimarakis	graduatedFrom	Panteion_University
+Vangelis_Meimarakis	wasBornIn	Athens
+Vangelis_Meimarakis	wasBornIn	Athens
+
+http://dbpedia.org/resource/Greece	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Athens
+Greece	Athens
+Panteion_University	isLocatedIn	Greece
+Panteion_University	isLocatedIn	Greece
+Terence_Quick	graduatedFrom	Panteion_University
+Terence_Quick	graduatedFrom	Panteion_University
+Terence_Quick	wasBornIn	Athens
+Terence_Quick	wasBornIn	Athens
+
+http://dbpedia.org/resource/Greece	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Athens
+Greece	Athens
+Maria_Sakkari	isCitizenOf	Greece
+Maria_Sakkari	isCitizenOf	Greece
+Maria_Sakkari	wasBornIn	Athens
+Maria_Sakkari	livesIn	Athens
+Maria_Sakkari	wasBornIn	Athens
+Maria_Sakkari	livesIn	Athens
+
+http://dbpedia.org/resource/Greece	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Athens
+Greece	Athens
+Milan_Jeremić_(basketball)	isCitizenOf	Greece
+Milan_Jeremić_(basketball)	isCitizenOf	Greece
+Milan_Jeremić_(basketball)	isAffiliatedTo	AEK_B.C.
+Milan_Jeremić_(basketball)	isAffiliatedTo	AEK_B.C.
+AEK_B.C.	isLocatedIn	Athens
+AEK_B.C.	isLocatedIn	Athens
+
+http://dbpedia.org/resource/Greece	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Athens
+Greece	Athens
+MTV_Music_(Greece)	isLocatedIn	Greece
+MTV_Music_(Greece)	isLocatedIn	Greece
+MTV_Music_(Greece)	isLocatedIn	Athens
+MTV_Music_(Greece)	isLocatedIn	Athens
+
+http://dbpedia.org/resource/Greece	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Athens
+Greece	Athens
+Laconia	isLocatedIn	Greece
+Laconia	isLocatedIn	Greece
+Michalis_Nikolinakos	wasBornIn	Laconia
+Michalis_Nikolinakos	wasBornIn	Laconia
+Michalis_Nikolinakos	diedIn	Athens
+Michalis_Nikolinakos	diedIn	Athens
+
+http://dbpedia.org/resource/Panama	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Panama_City
+Panama	Panama_City
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+
+http://dbpedia.org/resource/Panama	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Panama_City
+Panama	Panama_City
+Gualaca_District	isLocatedIn	Panama
+Gualaca_District	isLocatedIn	Panama
+Gualaca_District	isLocatedIn	Panama
+Gualaca_District	isLocatedIn	Panama
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+
+http://dbpedia.org/resource/Panama	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Panama_City
+Panama	Panama_City
+Isabel_Saint_Malo	isLeaderOf	Panama
+Isabel_Saint_Malo	isCitizenOf	Panama
+Isabel_Saint_Malo	isPoliticianOf	Panama
+Isabel_Saint_Malo	isLeaderOf	Panama
+Isabel_Saint_Malo	isCitizenOf	Panama
+Isabel_Saint_Malo	isPoliticianOf	Panama
+Isabel_Saint_Malo	isLeaderOf	Panama
+Isabel_Saint_Malo	isCitizenOf	Panama
+Isabel_Saint_Malo	isPoliticianOf	Panama
+Isabel_Saint_Malo	isLeaderOf	Panama
+Isabel_Saint_Malo	isCitizenOf	Panama
+Isabel_Saint_Malo	isPoliticianOf	Panama
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+
+http://dbpedia.org/resource/Panama	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Panama_City
+Panama	Panama_City
+Demetrio_B._Lakas	isCitizenOf	Panama
+Demetrio_B._Lakas	isPoliticianOf	Panama
+Demetrio_B._Lakas	isCitizenOf	Panama
+Demetrio_B._Lakas	isPoliticianOf	Panama
+Demetrio_B._Lakas	isCitizenOf	Panama
+Demetrio_B._Lakas	isPoliticianOf	Panama
+Demetrio_B._Lakas	isCitizenOf	Panama
+Demetrio_B._Lakas	isPoliticianOf	Panama
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+
+http://dbpedia.org/resource/Panama	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Panama_City
+Panama	Panama_City
+Ignacio_González_González	isCitizenOf	Panama
+Ignacio_González_González	isCitizenOf	Panama
+Ignacio_González_González	isCitizenOf	Panama
+Ignacio_González_González	isCitizenOf	Panama
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+
+http://dbpedia.org/resource/Panama	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Panama_City
+Panama	Panama_City
+Pedregal,_Boquerón	isLocatedIn	Panama
+Pedregal,_Boquerón	isLocatedIn	Panama
+Pedregal,_Boquerón	isLocatedIn	Panama
+Pedregal,_Boquerón	isLocatedIn	Panama
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+
+http://dbpedia.org/resource/Panama	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Panama_City
+Panama	Panama_City
+Carlos_Cavagnaro	isCitizenOf	Panama
+Carlos_Cavagnaro	isCitizenOf	Panama
+Carlos_Cavagnaro	isCitizenOf	Panama
+Carlos_Cavagnaro	isCitizenOf	Panama
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+
+http://dbpedia.org/resource/Panama	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Panama_City
+Panama	Panama_City
+Portobelo_District	isLocatedIn	Panama
+Portobelo_District	isLocatedIn	Panama
+Portobelo_District	isLocatedIn	Panama
+Portobelo_District	isLocatedIn	Panama
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+
+http://dbpedia.org/resource/Panama	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Panama_City
+Panama	Panama_City
+Chimán	isLocatedIn	Panama
+Chimán	isLocatedIn	Panama
+Chimán	isLocatedIn	Panama
+Chimán	isLocatedIn	Panama
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+
+http://dbpedia.org/resource/Panama	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Panama_City
+Panama	Panama_City
+Olá_District	isLocatedIn	Panama
+Olá_District	isLocatedIn	Panama
+Olá_District	isLocatedIn	Panama
+Olá_District	isLocatedIn	Panama
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+
+http://dbpedia.org/resource/Panama	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Panama_City
+Panama	Panama_City
+Chico_Salmon	isCitizenOf	Panama
+Chico_Salmon	isCitizenOf	Panama
+Chico_Salmon	isCitizenOf	Panama
+Chico_Salmon	isCitizenOf	Panama
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+
+http://dbpedia.org/resource/Panama	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Panama_City
+Panama	Panama_City
+Claro_Americas	isLocatedIn	Panama
+Claro_Americas	isLocatedIn	Panama
+Claro_Americas	isLocatedIn	Panama
+Claro_Americas	isLocatedIn	Panama
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+
+http://dbpedia.org/resource/Panama	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Panama_City
+Panama	Panama_City
+Manuel_Amador_Guerrero	isPoliticianOf	Panama
+Manuel_Amador_Guerrero	isCitizenOf	Panama
+Manuel_Amador_Guerrero	isPoliticianOf	Panama
+Manuel_Amador_Guerrero	isCitizenOf	Panama
+Manuel_Amador_Guerrero	isPoliticianOf	Panama
+Manuel_Amador_Guerrero	isCitizenOf	Panama
+Manuel_Amador_Guerrero	isPoliticianOf	Panama
+Manuel_Amador_Guerrero	isCitizenOf	Panama
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+Panama_City	isLocatedIn	Panama
+Panama	hasCapital	Panama_City
+
+http://dbpedia.org/resource/Darfur	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Al-Fashir
+Darfur	Al-Fashir
+Darfur	hasCapital	Al-Fashir
+Darfur	hasCapital	Al-Fashir
+
+http://dbpedia.org/resource/Darfur	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Al-Fashir
+Darfur	Al-Fashir
+Alhaj_Adam_Yousef	wasBornIn	Darfur
+Alhaj_Adam_Yousef	wasBornIn	Darfur
+Alhaj_Adam_Yousef	wasBornIn	Darfur
+Alhaj_Adam_Yousef	wasBornIn	Darfur
+Darfur	hasCapital	Al-Fashir
+Darfur	hasCapital	Al-Fashir
+
+http://dbpedia.org/resource/Darfur	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Al-Fashir
+Darfur	Al-Fashir
+North_Darfur	isLocatedIn	Darfur
+North_Darfur	isLocatedIn	Darfur
+Al-Fashir	isLocatedIn	North_Darfur
+North_Darfur	isLocatedIn	Al-Fashir
+North_Darfur	hasCapital	Al-Fashir
+Al-Fashir	isLocatedIn	North_Darfur
+North_Darfur	isLocatedIn	Al-Fashir
+North_Darfur	hasCapital	Al-Fashir
+
+http://dbpedia.org/resource/Darfur	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Al-Fashir
+Darfur	Al-Fashir
+War_in_Darfur	happenedIn	Darfur
+War_in_Darfur	happenedIn	Darfur
+War_in_Darfur	happenedIn	Darfur
+War_in_Darfur	happenedIn	Darfur
+Darfur	hasCapital	Al-Fashir
+Darfur	hasCapital	Al-Fashir
+
+http://dbpedia.org/resource/Darfur	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Al-Fashir
+Darfur	Al-Fashir
+Khalil_Ibrahim	wasBornIn	Darfur
+Khalil_Ibrahim	wasBornIn	Darfur
+Khalil_Ibrahim	wasBornIn	Darfur
+Khalil_Ibrahim	wasBornIn	Darfur
+Darfur	hasCapital	Al-Fashir
+Darfur	hasCapital	Al-Fashir
+
+http://dbpedia.org/resource/British_Ceylon	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Colombo
+British_Ceylon	Colombo
+D._E._W._Gunasekera	wasBornIn	British_Ceylon
+D._E._W._Gunasekera	wasBornIn	British_Ceylon
+D._E._W._Gunasekera	isAffiliatedTo	Communist_Party_of_Sri_Lanka
+D._E._W._Gunasekera	isLeaderOf	Communist_Party_of_Sri_Lanka
+D._E._W._Gunasekera	isAffiliatedTo	Communist_Party_of_Sri_Lanka
+D._E._W._Gunasekera	isLeaderOf	Communist_Party_of_Sri_Lanka
+Communist_Party_of_Sri_Lanka	isLocatedIn	Colombo
+Communist_Party_of_Sri_Lanka	isLocatedIn	Colombo
+
+http://dbpedia.org/resource/British_Ceylon	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Colombo
+British_Ceylon	Colombo
+Hugh_Clifford	isPoliticianOf	British_Ceylon
+Hugh_Clifford	isPoliticianOf	British_Ceylon
+Hugh_Clifford	isPoliticianOf	British_Ceylon
+Hugh_Clifford	isPoliticianOf	British_Ceylon
+British_Ceylon	hasCapital	Colombo
+British_Ceylon	hasCapital	Colombo
+
+http://dbpedia.org/resource/British_Ceylon	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Colombo
+British_Ceylon	Colombo
+A._Thurairajah	wasBornIn	British_Ceylon
+A._Thurairajah	wasBornIn	British_Ceylon
+A._Thurairajah	wasBornIn	British_Ceylon
+A._Thurairajah	wasBornIn	British_Ceylon
+British_Ceylon	hasCapital	Colombo
+British_Ceylon	hasCapital	Colombo
+
+http://dbpedia.org/resource/British_Ceylon	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Colombo
+British_Ceylon	Colombo
+A._Thurairajah	wasBornIn	British_Ceylon
+A._Thurairajah	wasBornIn	British_Ceylon
+A._Thurairajah	diedIn	Colombo
+A._Thurairajah	diedIn	Colombo
+
+http://dbpedia.org/resource/British_Ceylon	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Colombo
+British_Ceylon	Colombo
+Bernard_Henry_Bourdillon	isPoliticianOf	British_Ceylon
+Bernard_Henry_Bourdillon	isPoliticianOf	British_Ceylon
+Bernard_Henry_Bourdillon	isPoliticianOf	British_Ceylon
+Bernard_Henry_Bourdillon	isPoliticianOf	British_Ceylon
+British_Ceylon	hasCapital	Colombo
+British_Ceylon	hasCapital	Colombo
+
+http://dbpedia.org/resource/British_Ceylon	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Colombo
+British_Ceylon	Colombo
+Graeme_Thomson	isPoliticianOf	British_Ceylon
+Graeme_Thomson	isPoliticianOf	British_Ceylon
+Graeme_Thomson	isPoliticianOf	British_Ceylon
+Graeme_Thomson	isPoliticianOf	British_Ceylon
+British_Ceylon	hasCapital	Colombo
+British_Ceylon	hasCapital	Colombo
+
+http://dbpedia.org/resource/British_Ceylon	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Colombo
+British_Ceylon	Colombo
+Reginald_Edward_Stubbs	isPoliticianOf	British_Ceylon
+Reginald_Edward_Stubbs	isPoliticianOf	British_Ceylon
+Reginald_Edward_Stubbs	isPoliticianOf	British_Ceylon
+Reginald_Edward_Stubbs	isPoliticianOf	British_Ceylon
+British_Ceylon	hasCapital	Colombo
+British_Ceylon	hasCapital	Colombo
+
+http://dbpedia.org/resource/British_Ceylon	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Colombo
+British_Ceylon	Colombo
+British_Ceylon	hasCapital	Colombo
+British_Ceylon	hasCapital	Colombo
+
+http://dbpedia.org/resource/British_Ceylon	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Colombo
+British_Ceylon	Colombo
+Andrew_Caldecott	isPoliticianOf	British_Ceylon
+Andrew_Caldecott	isPoliticianOf	British_Ceylon
+Andrew_Caldecott	isPoliticianOf	British_Ceylon
+Andrew_Caldecott	isPoliticianOf	British_Ceylon
+British_Ceylon	hasCapital	Colombo
+British_Ceylon	hasCapital	Colombo
+
+http://dbpedia.org/resource/British_Ceylon	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Colombo
+British_Ceylon	Colombo
+John_Douglas_(governor)	isPoliticianOf	British_Ceylon
+John_Douglas_(governor)	isPoliticianOf	British_Ceylon
+John_Douglas_(governor)	isPoliticianOf	British_Ceylon
+John_Douglas_(governor)	isPoliticianOf	British_Ceylon
+British_Ceylon	hasCapital	Colombo
+British_Ceylon	hasCapital	Colombo
+
+http://dbpedia.org/resource/British_Ceylon	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Colombo
+British_Ceylon	Colombo
+South-East_Asian_theatre_of_World_War_II	happenedIn	British_Ceylon
+South-East_Asian_theatre_of_World_War_II	happenedIn	British_Ceylon
+South-East_Asian_theatre_of_World_War_II	happenedIn	British_Ceylon
+South-East_Asian_theatre_of_World_War_II	happenedIn	British_Ceylon
+British_Ceylon	hasCapital	Colombo
+British_Ceylon	hasCapital	Colombo
+
+http://dbpedia.org/resource/British_Ceylon	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Colombo
+British_Ceylon	Colombo
+Ceylon_University_College	isLocatedIn	British_Ceylon
+Ceylon_University_College	isLocatedIn	British_Ceylon
+Ceylon_University_College	isLocatedIn	Colombo
+Ceylon_University_College	isLocatedIn	Colombo
+
+http://dbpedia.org/resource/British_Ceylon	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Colombo
+British_Ceylon	Colombo
+Ceylon_University_College	isLocatedIn	British_Ceylon
+Ceylon_University_College	isLocatedIn	British_Ceylon
+E._O._E._Pereira	graduatedFrom	Ceylon_University_College
+E._O._E._Pereira	graduatedFrom	Ceylon_University_College
+E._O._E._Pereira	diedIn	Colombo
+E._O._E._Pereira	wasBornIn	Colombo
+E._O._E._Pereira	diedIn	Colombo
+E._O._E._Pereira	wasBornIn	Colombo
+
+http://dbpedia.org/resource/British_Ceylon	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Colombo
+British_Ceylon	Colombo
+Ceylon_University_College	isLocatedIn	British_Ceylon
+Ceylon_University_College	isLocatedIn	British_Ceylon
+Ceylon_University_College	isLocatedIn	British_Ceylon
+Ceylon_University_College	isLocatedIn	British_Ceylon
+British_Ceylon	hasCapital	Colombo
+British_Ceylon	hasCapital	Colombo
+
+http://dbpedia.org/resource/British_Ceylon	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Colombo
+British_Ceylon	Colombo
+Ceylon_University_College	isLocatedIn	British_Ceylon
+Ceylon_University_College	isLocatedIn	British_Ceylon
+M._Sivasithamparam	graduatedFrom	Ceylon_University_College
+M._Sivasithamparam	graduatedFrom	Ceylon_University_College
+M._Sivasithamparam	diedIn	Colombo
+M._Sivasithamparam	diedIn	Colombo
+
+http://dbpedia.org/resource/British_Ceylon	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Colombo
+British_Ceylon	Colombo
+R._Sivagurunathan	wasBornIn	British_Ceylon
+R._Sivagurunathan	wasBornIn	British_Ceylon
+R._Sivagurunathan	graduatedFrom	Sri_Lanka_Law_College
+R._Sivagurunathan	graduatedFrom	Sri_Lanka_Law_College
+Sri_Lanka_Law_College	isLocatedIn	Colombo
+Sri_Lanka_Law_College	isLocatedIn	Colombo
+
+http://dbpedia.org/resource/British_Ceylon	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Colombo
+British_Ceylon	Colombo
+R._Sivagurunathan	wasBornIn	British_Ceylon
+R._Sivagurunathan	wasBornIn	British_Ceylon
+R._Sivagurunathan	diedIn	Colombo
+R._Sivagurunathan	diedIn	Colombo
+
+http://dbpedia.org/resource/British_Ceylon	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Colombo
+British_Ceylon	Colombo
+R._Sivagurunathan	wasBornIn	British_Ceylon
+R._Sivagurunathan	wasBornIn	British_Ceylon
+R._Sivagurunathan	wasBornIn	British_Ceylon
+R._Sivagurunathan	wasBornIn	British_Ceylon
+British_Ceylon	hasCapital	Colombo
+British_Ceylon	hasCapital	Colombo
+
+http://dbpedia.org/resource/British_Ceylon	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Colombo
+British_Ceylon	Colombo
+Hercules_Robinson,_1st_Baron_Rosmead	isPoliticianOf	British_Ceylon
+Hercules_Robinson,_1st_Baron_Rosmead	isPoliticianOf	British_Ceylon
+Hercules_Robinson,_1st_Baron_Rosmead	isPoliticianOf	British_Ceylon
+Hercules_Robinson,_1st_Baron_Rosmead	isPoliticianOf	British_Ceylon
+British_Ceylon	hasCapital	Colombo
+British_Ceylon	hasCapital	Colombo
+
+http://dbpedia.org/resource/Northern_Cyprus	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/North_Nicosia
+Northern_Cyprus	North_Nicosia
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+
+http://dbpedia.org/resource/Northern_Cyprus	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/North_Nicosia
+Northern_Cyprus	North_Nicosia
+İrsen_Küçük	isCitizenOf	Northern_Cyprus
+İrsen_Küçük	isPoliticianOf	Northern_Cyprus
+İrsen_Küçük	isCitizenOf	Northern_Cyprus
+İrsen_Küçük	isPoliticianOf	Northern_Cyprus
+İrsen_Küçük	isCitizenOf	Northern_Cyprus
+İrsen_Küçük	isPoliticianOf	Northern_Cyprus
+İrsen_Küçük	isCitizenOf	Northern_Cyprus
+İrsen_Küçük	isPoliticianOf	Northern_Cyprus
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+
+http://dbpedia.org/resource/Northern_Cyprus	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/North_Nicosia
+Northern_Cyprus	North_Nicosia
+Derviş_Eroğlu	isPoliticianOf	Northern_Cyprus
+Derviş_Eroğlu	isCitizenOf	Northern_Cyprus
+Derviş_Eroğlu	isPoliticianOf	Northern_Cyprus
+Derviş_Eroğlu	isCitizenOf	Northern_Cyprus
+Derviş_Eroğlu	isPoliticianOf	Northern_Cyprus
+Derviş_Eroğlu	isCitizenOf	Northern_Cyprus
+Derviş_Eroğlu	isPoliticianOf	Northern_Cyprus
+Derviş_Eroğlu	isCitizenOf	Northern_Cyprus
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+
+http://dbpedia.org/resource/Northern_Cyprus	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/North_Nicosia
+Northern_Cyprus	North_Nicosia
+Suat_Günsel	isCitizenOf	Northern_Cyprus
+Suat_Günsel	isCitizenOf	Northern_Cyprus
+Suat_Günsel	isCitizenOf	Northern_Cyprus
+Suat_Günsel	isCitizenOf	Northern_Cyprus
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+
+http://dbpedia.org/resource/Northern_Cyprus	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/North_Nicosia
+Northern_Cyprus	North_Nicosia
+Hüseyin_Özgürgün	isPoliticianOf	Northern_Cyprus
+Hüseyin_Özgürgün	isCitizenOf	Northern_Cyprus
+Hüseyin_Özgürgün	isLeaderOf	Northern_Cyprus
+Hüseyin_Özgürgün	isPoliticianOf	Northern_Cyprus
+Hüseyin_Özgürgün	isCitizenOf	Northern_Cyprus
+Hüseyin_Özgürgün	isLeaderOf	Northern_Cyprus
+Hüseyin_Özgürgün	isPoliticianOf	Northern_Cyprus
+Hüseyin_Özgürgün	isCitizenOf	Northern_Cyprus
+Hüseyin_Özgürgün	isLeaderOf	Northern_Cyprus
+Hüseyin_Özgürgün	isPoliticianOf	Northern_Cyprus
+Hüseyin_Özgürgün	isCitizenOf	Northern_Cyprus
+Hüseyin_Özgürgün	isLeaderOf	Northern_Cyprus
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+
+http://dbpedia.org/resource/Northern_Cyprus	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/North_Nicosia
+Northern_Cyprus	North_Nicosia
+Hüseyin_Özgürgün	isPoliticianOf	Northern_Cyprus
+Hüseyin_Özgürgün	isCitizenOf	Northern_Cyprus
+Hüseyin_Özgürgün	isLeaderOf	Northern_Cyprus
+Hüseyin_Özgürgün	isPoliticianOf	Northern_Cyprus
+Hüseyin_Özgürgün	isCitizenOf	Northern_Cyprus
+Hüseyin_Özgürgün	isLeaderOf	Northern_Cyprus
+Hüseyin_Özgürgün	isAffiliatedTo	National_Unity_Party_(Northern_Cyprus)
+Hüseyin_Özgürgün	isAffiliatedTo	National_Unity_Party_(Northern_Cyprus)
+National_Unity_Party_(Northern_Cyprus)	isLocatedIn	North_Nicosia
+National_Unity_Party_(Northern_Cyprus)	isLocatedIn	North_Nicosia
+
+http://dbpedia.org/resource/Northern_Cyprus	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/North_Nicosia
+Northern_Cyprus	North_Nicosia
+Özkan_Yorgancıoğlu	isPoliticianOf	Northern_Cyprus
+Özkan_Yorgancıoğlu	isCitizenOf	Northern_Cyprus
+Özkan_Yorgancıoğlu	isPoliticianOf	Northern_Cyprus
+Özkan_Yorgancıoğlu	isCitizenOf	Northern_Cyprus
+Özkan_Yorgancıoğlu	isPoliticianOf	Northern_Cyprus
+Özkan_Yorgancıoğlu	isCitizenOf	Northern_Cyprus
+Özkan_Yorgancıoğlu	isPoliticianOf	Northern_Cyprus
+Özkan_Yorgancıoğlu	isCitizenOf	Northern_Cyprus
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+
+http://dbpedia.org/resource/Northern_Cyprus	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/North_Nicosia
+Northern_Cyprus	North_Nicosia
+Northern_Cyprus	isLocatedIn	Nakhchivan_Autonomous_Republic
+Northern_Cyprus	isLocatedIn	Nakhchivan_Autonomous_Republic
+Northern_Cyprus	isLocatedIn	Nakhchivan_Autonomous_Republic
+Northern_Cyprus	isLocatedIn	Nakhchivan_Autonomous_Republic
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+
+http://dbpedia.org/resource/Northern_Cyprus	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/North_Nicosia
+Northern_Cyprus	North_Nicosia
+Mediterranean_Sea	isLocatedIn	Northern_Cyprus
+Mediterranean_Sea	isLocatedIn	Northern_Cyprus
+Mediterranean_Sea	isLocatedIn	Northern_Cyprus
+Mediterranean_Sea	isLocatedIn	Northern_Cyprus
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+
+http://dbpedia.org/resource/Northern_Cyprus	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/North_Nicosia
+Northern_Cyprus	North_Nicosia
+Özker_Yaşın	isCitizenOf	Northern_Cyprus
+Özker_Yaşın	isCitizenOf	Northern_Cyprus
+Özker_Yaşın	isCitizenOf	Northern_Cyprus
+Özker_Yaşın	isCitizenOf	Northern_Cyprus
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+
+http://dbpedia.org/resource/Northern_Cyprus	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/North_Nicosia
+Northern_Cyprus	North_Nicosia
+Rauf_Denktaş	isPoliticianOf	Northern_Cyprus
+Rauf_Denktaş	isCitizenOf	Northern_Cyprus
+Rauf_Denktaş	isPoliticianOf	Northern_Cyprus
+Rauf_Denktaş	isCitizenOf	Northern_Cyprus
+Rauf_Denktaş	isAffiliatedTo	National_Unity_Party_(Northern_Cyprus)
+Rauf_Denktaş	isAffiliatedTo	National_Unity_Party_(Northern_Cyprus)
+National_Unity_Party_(Northern_Cyprus)	isLocatedIn	North_Nicosia
+National_Unity_Party_(Northern_Cyprus)	isLocatedIn	North_Nicosia
+
+http://dbpedia.org/resource/Northern_Cyprus	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/North_Nicosia
+Northern_Cyprus	North_Nicosia
+Rauf_Denktaş	isPoliticianOf	Northern_Cyprus
+Rauf_Denktaş	isCitizenOf	Northern_Cyprus
+Rauf_Denktaş	isPoliticianOf	Northern_Cyprus
+Rauf_Denktaş	isCitizenOf	Northern_Cyprus
+Rauf_Denktaş	isPoliticianOf	Northern_Cyprus
+Rauf_Denktaş	isCitizenOf	Northern_Cyprus
+Rauf_Denktaş	isPoliticianOf	Northern_Cyprus
+Rauf_Denktaş	isCitizenOf	Northern_Cyprus
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+
+http://dbpedia.org/resource/Northern_Cyprus	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/North_Nicosia
+Northern_Cyprus	North_Nicosia
+Rauf_Denktaş	isPoliticianOf	Northern_Cyprus
+Rauf_Denktaş	isCitizenOf	Northern_Cyprus
+Rauf_Denktaş	isPoliticianOf	Northern_Cyprus
+Rauf_Denktaş	isCitizenOf	Northern_Cyprus
+Rauf_Denktaş	diedIn	North_Nicosia
+Rauf_Denktaş	diedIn	North_Nicosia
+
+http://dbpedia.org/resource/Northern_Cyprus	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/North_Nicosia
+Northern_Cyprus	North_Nicosia
+Mustafa_Akıncı	isPoliticianOf	Northern_Cyprus
+Mustafa_Akıncı	isCitizenOf	Northern_Cyprus
+Mustafa_Akıncı	isLeaderOf	Northern_Cyprus
+Mustafa_Akıncı	isPoliticianOf	Northern_Cyprus
+Mustafa_Akıncı	isCitizenOf	Northern_Cyprus
+Mustafa_Akıncı	isLeaderOf	Northern_Cyprus
+Mustafa_Akıncı	isPoliticianOf	Northern_Cyprus
+Mustafa_Akıncı	isCitizenOf	Northern_Cyprus
+Mustafa_Akıncı	isLeaderOf	Northern_Cyprus
+Mustafa_Akıncı	isPoliticianOf	Northern_Cyprus
+Mustafa_Akıncı	isCitizenOf	Northern_Cyprus
+Mustafa_Akıncı	isLeaderOf	Northern_Cyprus
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+
+http://dbpedia.org/resource/Northern_Cyprus	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/North_Nicosia
+Northern_Cyprus	North_Nicosia
+National_Unity_Party_(Northern_Cyprus)	isLocatedIn	Northern_Cyprus
+National_Unity_Party_(Northern_Cyprus)	isLocatedIn	Northern_Cyprus
+National_Unity_Party_(Northern_Cyprus)	isLocatedIn	North_Nicosia
+National_Unity_Party_(Northern_Cyprus)	isLocatedIn	North_Nicosia
+
+http://dbpedia.org/resource/Northern_Cyprus	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/North_Nicosia
+Northern_Cyprus	North_Nicosia
+National_Unity_Party_(Northern_Cyprus)	isLocatedIn	Northern_Cyprus
+National_Unity_Party_(Northern_Cyprus)	isLocatedIn	Northern_Cyprus
+Rauf_Denktaş	isAffiliatedTo	National_Unity_Party_(Northern_Cyprus)
+Rauf_Denktaş	isAffiliatedTo	National_Unity_Party_(Northern_Cyprus)
+Rauf_Denktaş	diedIn	North_Nicosia
+Rauf_Denktaş	diedIn	North_Nicosia
+
+http://dbpedia.org/resource/Northern_Cyprus	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/North_Nicosia
+Northern_Cyprus	North_Nicosia
+National_Unity_Party_(Northern_Cyprus)	isLocatedIn	Northern_Cyprus
+National_Unity_Party_(Northern_Cyprus)	isLocatedIn	Northern_Cyprus
+National_Unity_Party_(Northern_Cyprus)	isLocatedIn	Northern_Cyprus
+National_Unity_Party_(Northern_Cyprus)	isLocatedIn	Northern_Cyprus
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+Northern_Cyprus	hasCapital	North_Nicosia
+North_Nicosia	isLocatedIn	Northern_Cyprus
+
+http://dbpedia.org/resource/Liechtenstein	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Vaduz
+Liechtenstein	Vaduz
+Andreas_Christen	isCitizenOf	Liechtenstein
+Andreas_Christen	isCitizenOf	Liechtenstein
+Andreas_Christen	wasBornIn	Vaduz
+Andreas_Christen	wasBornIn	Vaduz
+
+http://dbpedia.org/resource/Liechtenstein	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Vaduz
+Liechtenstein	Vaduz
+Schaan	isLocatedIn	Liechtenstein
+Schaan	isLocatedIn	Liechtenstein
+Rätikon	isLocatedIn	Schaan
+Rätikon	isLocatedIn	Schaan
+Rätikon	isLocatedIn	Vaduz
+Rätikon	isLocatedIn	Vaduz
+
+http://dbpedia.org/resource/Liechtenstein	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Vaduz
+Liechtenstein	Vaduz
+Grauspitz	isLocatedIn	Liechtenstein
+Grauspitz	isLocatedIn	Liechtenstein
+Grauspitz	isLocatedIn	Rätikon
+Grauspitz	isLocatedIn	Rätikon
+Rätikon	isLocatedIn	Vaduz
+Rätikon	isLocatedIn	Vaduz
+
+http://dbpedia.org/resource/Principality_of_Bulgaria	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Veliko_Tarnovo
+Principality_of_Bulgaria	Veliko_Tarnovo
+Stefan_Nedev_Karagiosov	isCitizenOf	Principality_of_Bulgaria
+Stefan_Nedev_Karagiosov	isCitizenOf	Principality_of_Bulgaria
+Stefan_Nedev_Karagiosov	wasBornIn	Veliko_Tarnovo
+Stefan_Nedev_Karagiosov	diedIn	Veliko_Tarnovo
+Stefan_Nedev_Karagiosov	wasBornIn	Veliko_Tarnovo
+Stefan_Nedev_Karagiosov	diedIn	Veliko_Tarnovo
+
+http://dbpedia.org/resource/Principality_of_Bulgaria	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Veliko_Tarnovo
+Principality_of_Bulgaria	Veliko_Tarnovo
+Stefan_Nedev_Karagiosov	isCitizenOf	Principality_of_Bulgaria
+Stefan_Nedev_Karagiosov	isCitizenOf	Principality_of_Bulgaria
+Stefan_Nedev_Karagiosov	isCitizenOf	Principality_of_Bulgaria
+Stefan_Nedev_Karagiosov	isCitizenOf	Principality_of_Bulgaria
+Principality_of_Bulgaria	hasCapital	Veliko_Tarnovo
+Principality_of_Bulgaria	hasCapital	Veliko_Tarnovo
+
+http://dbpedia.org/resource/Principality_of_Bulgaria	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Veliko_Tarnovo
+Principality_of_Bulgaria	Veliko_Tarnovo
+Koljo_Karagiosov	isCitizenOf	Principality_of_Bulgaria
+Koljo_Karagiosov	isCitizenOf	Principality_of_Bulgaria
+Koljo_Karagiosov	isCitizenOf	Principality_of_Bulgaria
+Koljo_Karagiosov	isCitizenOf	Principality_of_Bulgaria
+Principality_of_Bulgaria	hasCapital	Veliko_Tarnovo
+Principality_of_Bulgaria	hasCapital	Veliko_Tarnovo
+
+http://dbpedia.org/resource/Principality_of_Bulgaria	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Veliko_Tarnovo
+Principality_of_Bulgaria	Veliko_Tarnovo
+Sava_Mutkurov	isCitizenOf	Principality_of_Bulgaria
+Sava_Mutkurov	isCitizenOf	Principality_of_Bulgaria
+Sava_Mutkurov	isCitizenOf	Principality_of_Bulgaria
+Sava_Mutkurov	isCitizenOf	Principality_of_Bulgaria
+Principality_of_Bulgaria	hasCapital	Veliko_Tarnovo
+Principality_of_Bulgaria	hasCapital	Veliko_Tarnovo
+
+http://dbpedia.org/resource/Principality_of_Bulgaria	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Veliko_Tarnovo
+Principality_of_Bulgaria	Veliko_Tarnovo
+Principality_of_Bulgaria	hasCapital	Veliko_Tarnovo
+Principality_of_Bulgaria	hasCapital	Veliko_Tarnovo
+
+http://dbpedia.org/resource/Principality_of_Bulgaria	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Veliko_Tarnovo
+Principality_of_Bulgaria	Veliko_Tarnovo
+Hadji_Nikoli	isCitizenOf	Principality_of_Bulgaria
+Hadji_Nikoli	isCitizenOf	Principality_of_Bulgaria
+Hadji_Nikoli	diedIn	Veliko_Tarnovo
+Hadji_Nikoli	wasBornIn	Veliko_Tarnovo
+Hadji_Nikoli	diedIn	Veliko_Tarnovo
+Hadji_Nikoli	wasBornIn	Veliko_Tarnovo
+
+http://dbpedia.org/resource/Principality_of_Bulgaria	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Veliko_Tarnovo
+Principality_of_Bulgaria	Veliko_Tarnovo
+Hadji_Nikoli	isCitizenOf	Principality_of_Bulgaria
+Hadji_Nikoli	isCitizenOf	Principality_of_Bulgaria
+Hadji_Nikoli	isCitizenOf	Principality_of_Bulgaria
+Hadji_Nikoli	isCitizenOf	Principality_of_Bulgaria
+Principality_of_Bulgaria	hasCapital	Veliko_Tarnovo
+Principality_of_Bulgaria	hasCapital	Veliko_Tarnovo
+
+http://dbpedia.org/resource/British_Honduras	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Belmopan
+British_Honduras	Belmopan
+Maxime_Faget	wasBornIn	British_Honduras
+Maxime_Faget	wasBornIn	British_Honduras
+Maxime_Faget	wasBornIn	British_Honduras
+Maxime_Faget	wasBornIn	British_Honduras
+British_Honduras	hasCapital	Belmopan
+British_Honduras	hasCapital	Belmopan
+
+http://dbpedia.org/resource/British_Honduras	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Belmopan
+British_Honduras	Belmopan
+British_Honduras	hasCapital	Belmopan
+British_Honduras	hasCapital	Belmopan
+
+http://dbpedia.org/resource/British_Honduras	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Belmopan
+British_Honduras	Belmopan
+Ronald_Garvey	isPoliticianOf	British_Honduras
+Ronald_Garvey	isPoliticianOf	British_Honduras
+Ronald_Garvey	isPoliticianOf	British_Honduras
+Ronald_Garvey	isPoliticianOf	British_Honduras
+British_Honduras	hasCapital	Belmopan
+British_Honduras	hasCapital	Belmopan
+
+http://dbpedia.org/resource/British_Honduras	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Belmopan
+British_Honduras	Belmopan
+Arlie_Petters	wasBornIn	British_Honduras
+Arlie_Petters	wasBornIn	British_Honduras
+Arlie_Petters	wasBornIn	British_Honduras
+Arlie_Petters	wasBornIn	British_Honduras
+British_Honduras	hasCapital	Belmopan
+British_Honduras	hasCapital	Belmopan
+
+http://dbpedia.org/resource/British_Honduras	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Belmopan
+British_Honduras	Belmopan
+Eyre_Hutson	isPoliticianOf	British_Honduras
+Eyre_Hutson	isPoliticianOf	British_Honduras
+Eyre_Hutson	isPoliticianOf	British_Honduras
+Eyre_Hutson	isPoliticianOf	British_Honduras
+British_Honduras	hasCapital	Belmopan
+British_Honduras	hasCapital	Belmopan
+
+http://dbpedia.org/resource/British_Honduras	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Belmopan
+British_Honduras	Belmopan
+Jorge_Espat	wasBornIn	British_Honduras
+Jorge_Espat	wasBornIn	British_Honduras
+Jorge_Espat	wasBornIn	British_Honduras
+Jorge_Espat	wasBornIn	British_Honduras
+British_Honduras	hasCapital	Belmopan
+British_Honduras	hasCapital	Belmopan
+
+http://dbpedia.org/resource/Northwest_Region_(Cameroon)	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Bamenda
+Northwest_Region_(Cameroon)	Bamenda
+Northwest_Region_(Cameroon)	hasCapital	Bamenda
+Bamenda	isLocatedIn	Northwest_Region_(Cameroon)
+Northwest_Region_(Cameroon)	hasCapital	Bamenda
+Bamenda	isLocatedIn	Northwest_Region_(Cameroon)
+
+http://dbpedia.org/resource/Northwest_Region_(Cameroon)	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Bamenda
+Northwest_Region_(Cameroon)	Bamenda
+Boyo_(department)	isLocatedIn	Northwest_Region_(Cameroon)
+Boyo_(department)	isLocatedIn	Northwest_Region_(Cameroon)
+Boyo_(department)	isLocatedIn	Northwest_Region_(Cameroon)
+Boyo_(department)	isLocatedIn	Northwest_Region_(Cameroon)
+Northwest_Region_(Cameroon)	hasCapital	Bamenda
+Bamenda	isLocatedIn	Northwest_Region_(Cameroon)
+Northwest_Region_(Cameroon)	hasCapital	Bamenda
+Bamenda	isLocatedIn	Northwest_Region_(Cameroon)
+
+http://dbpedia.org/resource/Northwest_Region_(Cameroon)	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Bamenda
+Northwest_Region_(Cameroon)	Bamenda
+Fundong	isLocatedIn	Northwest_Region_(Cameroon)
+Fundong	isLocatedIn	Northwest_Region_(Cameroon)
+Fundong	isLocatedIn	Northwest_Region_(Cameroon)
+Fundong	isLocatedIn	Northwest_Region_(Cameroon)
+Northwest_Region_(Cameroon)	hasCapital	Bamenda
+Bamenda	isLocatedIn	Northwest_Region_(Cameroon)
+Northwest_Region_(Cameroon)	hasCapital	Bamenda
+Bamenda	isLocatedIn	Northwest_Region_(Cameroon)
+
+http://dbpedia.org/resource/Northwest_Region_(Cameroon)	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Bamenda
+Northwest_Region_(Cameroon)	Bamenda
+Mezam	isLocatedIn	Northwest_Region_(Cameroon)
+Mezam	isLocatedIn	Northwest_Region_(Cameroon)
+Mezam	isLocatedIn	Bamenda
+Bamenda	isLocatedIn	Mezam
+Mezam	isLocatedIn	Bamenda
+Bamenda	isLocatedIn	Mezam
+
+http://dbpedia.org/resource/Northwest_Region_(Cameroon)	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Bamenda
+Northwest_Region_(Cameroon)	Bamenda
+Mezam	isLocatedIn	Northwest_Region_(Cameroon)
+Mezam	isLocatedIn	Northwest_Region_(Cameroon)
+Mezam	isLocatedIn	Northwest_Region_(Cameroon)
+Mezam	isLocatedIn	Northwest_Region_(Cameroon)
+Northwest_Region_(Cameroon)	hasCapital	Bamenda
+Bamenda	isLocatedIn	Northwest_Region_(Cameroon)
+Northwest_Region_(Cameroon)	hasCapital	Bamenda
+Bamenda	isLocatedIn	Northwest_Region_(Cameroon)
+
+http://dbpedia.org/resource/Northwest_Region_(Cameroon)	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Bamenda
+Northwest_Region_(Cameroon)	Bamenda
+Kumbo	isLocatedIn	Northwest_Region_(Cameroon)
+Kumbo	isLocatedIn	Northwest_Region_(Cameroon)
+Kumbo	isLocatedIn	Northwest_Region_(Cameroon)
+Kumbo	isLocatedIn	Northwest_Region_(Cameroon)
+Northwest_Region_(Cameroon)	hasCapital	Bamenda
+Bamenda	isLocatedIn	Northwest_Region_(Cameroon)
+Northwest_Region_(Cameroon)	hasCapital	Bamenda
+Bamenda	isLocatedIn	Northwest_Region_(Cameroon)
+
+http://dbpedia.org/resource/Kingdom_of_Nepal	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kathmandu
+Kingdom_of_Nepal	Kathmandu
+Kingdom_of_Nepal	hasCapital	Kathmandu
+Kingdom_of_Nepal	hasCapital	Kathmandu
+
+http://dbpedia.org/resource/Kingdom_of_Nepal	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kathmandu
+Kingdom_of_Nepal	Kathmandu
+Dipendra_of_Nepal	diedIn	Kingdom_of_Nepal
+Dipendra_of_Nepal	diedIn	Kingdom_of_Nepal
+Dipendra_of_Nepal	diedIn	Kingdom_of_Nepal
+Dipendra_of_Nepal	diedIn	Kingdom_of_Nepal
+Kingdom_of_Nepal	hasCapital	Kathmandu
+Kingdom_of_Nepal	hasCapital	Kathmandu
+
+http://dbpedia.org/resource/Kingdom_of_Nepal	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kathmandu
+Kingdom_of_Nepal	Kathmandu
+Dipendra_of_Nepal	diedIn	Kingdom_of_Nepal
+Dipendra_of_Nepal	diedIn	Kingdom_of_Nepal
+Dipendra_of_Nepal	wasBornIn	Narayanhity_Palace
+Dipendra_of_Nepal	wasBornIn	Narayanhity_Palace
+Narayanhity_Palace	isLocatedIn	Kathmandu
+Narayanhity_Palace	isLocatedIn	Kathmandu
+
+http://dbpedia.org/resource/Kingdom_of_Nepal	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kathmandu
+Kingdom_of_Nepal	Kathmandu
+Dipendra_of_Nepal	diedIn	Kingdom_of_Nepal
+Dipendra_of_Nepal	diedIn	Kingdom_of_Nepal
+Dipendra_of_Nepal	isCitizenOf	Nepal
+Dipendra_of_Nepal	isCitizenOf	Nepal
+Kathmandu	isLocatedIn	Nepal
+Nepal	hasCapital	Kathmandu
+Kathmandu	isLocatedIn	Nepal
+Nepal	hasCapital	Kathmandu
+
+http://dbpedia.org/resource/Kingdom_of_Nepal	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kathmandu
+Kingdom_of_Nepal	Kathmandu
+Princess_Helen_Shah_of_Nepal	diedIn	Kingdom_of_Nepal
+Princess_Helen_Shah_of_Nepal	diedIn	Kingdom_of_Nepal
+Princess_Helen_Shah_of_Nepal	hasChild	Princess_Jayanti_of_Nepal
+Princess_Helen_Shah_of_Nepal	hasChild	Princess_Jayanti_of_Nepal
+Princess_Jayanti_of_Nepal	wasBornIn	Kathmandu
+Princess_Jayanti_of_Nepal	wasBornIn	Kathmandu
+
+http://dbpedia.org/resource/Kingdom_of_Nepal	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kathmandu
+Kingdom_of_Nepal	Kathmandu
+Princess_Shruti_of_Nepal	diedIn	Kingdom_of_Nepal
+Princess_Shruti_of_Nepal	diedIn	Kingdom_of_Nepal
+Princess_Shruti_of_Nepal	wasBornIn	Narayanhity_Palace
+Princess_Shruti_of_Nepal	wasBornIn	Narayanhity_Palace
+Narayanhity_Palace	isLocatedIn	Kathmandu
+Narayanhity_Palace	isLocatedIn	Kathmandu
+
+http://dbpedia.org/resource/Kingdom_of_Nepal	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kathmandu
+Kingdom_of_Nepal	Kathmandu
+Princess_Shruti_of_Nepal	diedIn	Kingdom_of_Nepal
+Princess_Shruti_of_Nepal	diedIn	Kingdom_of_Nepal
+Princess_Shruti_of_Nepal	isCitizenOf	Nepal
+Princess_Shruti_of_Nepal	isCitizenOf	Nepal
+Kathmandu	isLocatedIn	Nepal
+Nepal	hasCapital	Kathmandu
+Kathmandu	isLocatedIn	Nepal
+Nepal	hasCapital	Kathmandu
+
+http://dbpedia.org/resource/Kingdom_of_Nepal	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kathmandu
+Kingdom_of_Nepal	Kathmandu
+Princess_Shruti_of_Nepal	diedIn	Kingdom_of_Nepal
+Princess_Shruti_of_Nepal	diedIn	Kingdom_of_Nepal
+Princess_Shruti_of_Nepal	diedIn	Kingdom_of_Nepal
+Princess_Shruti_of_Nepal	diedIn	Kingdom_of_Nepal
+Kingdom_of_Nepal	hasCapital	Kathmandu
+Kingdom_of_Nepal	hasCapital	Kathmandu
+
+http://dbpedia.org/resource/Kingdom_of_Nepal	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kathmandu
+Kingdom_of_Nepal	Kathmandu
+Kingdom_of_Nepal	participatedIn	Indian_Rebellion_of_1857
+Kingdom_of_Nepal	participatedIn	Indian_Rebellion_of_1857
+Indian_Rebellion_of_1857	happenedIn	Nepal
+Indian_Rebellion_of_1857	happenedIn	Nepal
+Kathmandu	isLocatedIn	Nepal
+Nepal	hasCapital	Kathmandu
+Kathmandu	isLocatedIn	Nepal
+Nepal	hasCapital	Kathmandu
+
+http://dbpedia.org/resource/Kingdom_of_Nepal	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kathmandu
+Kingdom_of_Nepal	Kathmandu
+Kingdom_of_Nepal	participatedIn	Indian_Rebellion_of_1857
+Kingdom_of_Nepal	participatedIn	Indian_Rebellion_of_1857
+Kingdom_of_Nepal	participatedIn	Indian_Rebellion_of_1857
+Kingdom_of_Nepal	participatedIn	Indian_Rebellion_of_1857
+Kingdom_of_Nepal	hasCapital	Kathmandu
+Kingdom_of_Nepal	hasCapital	Kathmandu
+
+http://dbpedia.org/resource/Slovakia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Bratislava
+Slovakia	Bratislava
+Bratislava_Region	isLocatedIn	Slovakia
+Bratislava_Region	isLocatedIn	Slovakia
+Bratislava_Region	hasCapital	Bratislava
+Bratislava	isLocatedIn	Bratislava_Region
+Bratislava_Region	hasCapital	Bratislava
+Bratislava	isLocatedIn	Bratislava_Region
+
+http://dbpedia.org/resource/Slovakia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Bratislava
+Slovakia	Bratislava
+František_Mikloško	isCitizenOf	Slovakia
+František_Mikloško	isCitizenOf	Slovakia
+František_Mikloško	isAffiliatedTo	Christian_Democratic_Movement
+František_Mikloško	isAffiliatedTo	Christian_Democratic_Movement
+Christian_Democratic_Movement	isLocatedIn	Bratislava
+Christian_Democratic_Movement	isLocatedIn	Bratislava
+
+http://dbpedia.org/resource/Slovakia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Bratislava
+Slovakia	Bratislava
+František_Mikloško	isCitizenOf	Slovakia
+František_Mikloško	isCitizenOf	Slovakia
+František_Mikloško	graduatedFrom	Comenius_University
+František_Mikloško	graduatedFrom	Comenius_University
+Comenius_University	isLocatedIn	Bratislava
+Comenius_University	isLocatedIn	Bratislava
+
+http://dbpedia.org/resource/Slovakia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Bratislava
+Slovakia	Bratislava
+Matthias_Bel	isCitizenOf	Slovakia
+Matthias_Bel	isCitizenOf	Slovakia
+Matthias_Bel	diedIn	Bratislava
+Matthias_Bel	diedIn	Bratislava
+
+http://dbpedia.org/resource/Santo_Domingo_Province	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Santo_Domingo_Este
+Santo_Domingo_Province	Santo_Domingo_Este
+Santo_Domingo_Este	isLocatedIn	Santo_Domingo_Province
+Santo_Domingo_Province	isLocatedIn	Santo_Domingo_Este
+Santo_Domingo_Este	isLocatedIn	Santo_Domingo_Province
+Santo_Domingo_Province	isLocatedIn	Santo_Domingo_Este
+
+http://dbpedia.org/resource/Santo_Domingo_Province	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Santo_Domingo_Este
+Santo_Domingo_Province	Santo_Domingo_Este
+Milagros_Germán	wasBornIn	Santo_Domingo_Province
+Milagros_Germán	wasBornIn	Santo_Domingo_Province
+Milagros_Germán	wasBornIn	Santo_Domingo_Province
+Milagros_Germán	wasBornIn	Santo_Domingo_Province
+Santo_Domingo_Este	isLocatedIn	Santo_Domingo_Province
+Santo_Domingo_Province	isLocatedIn	Santo_Domingo_Este
+Santo_Domingo_Este	isLocatedIn	Santo_Domingo_Province
+Santo_Domingo_Province	isLocatedIn	Santo_Domingo_Este
+
+http://dbpedia.org/resource/Santo_Domingo_Province	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Santo_Domingo_Este
+Santo_Domingo_Province	Santo_Domingo_Este
+La_Isabela_International_Airport	isLocatedIn	Santo_Domingo_Province
+La_Isabela_International_Airport	isLocatedIn	Santo_Domingo_Province
+La_Isabela_International_Airport	isLocatedIn	Santo_Domingo_Province
+La_Isabela_International_Airport	isLocatedIn	Santo_Domingo_Province
+Santo_Domingo_Este	isLocatedIn	Santo_Domingo_Province
+Santo_Domingo_Province	isLocatedIn	Santo_Domingo_Este
+Santo_Domingo_Este	isLocatedIn	Santo_Domingo_Province
+Santo_Domingo_Province	isLocatedIn	Santo_Domingo_Este
+
+http://dbpedia.org/resource/Santo_Domingo_Province	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Santo_Domingo_Este
+Santo_Domingo_Province	Santo_Domingo_Este
+Estadio_Parque_del_Este	isLocatedIn	Santo_Domingo_Province
+Estadio_Parque_del_Este	isLocatedIn	Santo_Domingo_Province
+Estadio_Parque_del_Este	isLocatedIn	Santo_Domingo_Este
+Estadio_Parque_del_Este	isLocatedIn	Santo_Domingo_Este
+
+http://dbpedia.org/resource/Santo_Domingo_Province	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Santo_Domingo_Este
+Santo_Domingo_Province	Santo_Domingo_Este
+Estadio_Parque_del_Este	isLocatedIn	Santo_Domingo_Province
+Estadio_Parque_del_Este	isLocatedIn	Santo_Domingo_Province
+Estadio_Parque_del_Este	isLocatedIn	Santo_Domingo_Province
+Estadio_Parque_del_Este	isLocatedIn	Santo_Domingo_Province
+Santo_Domingo_Este	isLocatedIn	Santo_Domingo_Province
+Santo_Domingo_Province	isLocatedIn	Santo_Domingo_Este
+Santo_Domingo_Este	isLocatedIn	Santo_Domingo_Province
+Santo_Domingo_Province	isLocatedIn	Santo_Domingo_Este
+
+http://dbpedia.org/resource/Kirghiz_Soviet_Socialist_Republic	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Bishkek
+Kirghiz_Soviet_Socialist_Republic	Bishkek
+Zamirbek_Zhumagulov	wasBornIn	Kirghiz_Soviet_Socialist_Republic
+Zamirbek_Zhumagulov	wasBornIn	Kirghiz_Soviet_Socialist_Republic
+Zamirbek_Zhumagulov	isAffiliatedTo	FC_RUOR-Guardia_Bishkek
+Zamirbek_Zhumagulov	playsFor	FC_RUOR-Guardia_Bishkek
+Zamirbek_Zhumagulov	isAffiliatedTo	FC_RUOR-Guardia_Bishkek
+Zamirbek_Zhumagulov	playsFor	FC_RUOR-Guardia_Bishkek
+FC_RUOR-Guardia_Bishkek	isLocatedIn	Bishkek
+FC_RUOR-Guardia_Bishkek	isLocatedIn	Bishkek
+
+http://dbpedia.org/resource/Kirghiz_Soviet_Socialist_Republic	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Bishkek
+Kirghiz_Soviet_Socialist_Republic	Bishkek
+Alisher_Saipov	wasBornIn	Kirghiz_Soviet_Socialist_Republic
+Alisher_Saipov	wasBornIn	Kirghiz_Soviet_Socialist_Republic
+Alisher_Saipov	wasBornIn	Kirghiz_Soviet_Socialist_Republic
+Alisher_Saipov	wasBornIn	Kirghiz_Soviet_Socialist_Republic
+Kirghiz_Soviet_Socialist_Republic	hasCapital	Bishkek
+Kirghiz_Soviet_Socialist_Republic	hasCapital	Bishkek
+
+http://dbpedia.org/resource/Kirghiz_Soviet_Socialist_Republic	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Bishkek
+Kirghiz_Soviet_Socialist_Republic	Bishkek
+Kirghiz_Soviet_Socialist_Republic	hasCapital	Bishkek
+Kirghiz_Soviet_Socialist_Republic	hasCapital	Bishkek
+
+http://dbpedia.org/resource/Kirghiz_Soviet_Socialist_Republic	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Bishkek
+Kirghiz_Soviet_Socialist_Republic	Bishkek
+Sergey_Kutsov	wasBornIn	Kirghiz_Soviet_Socialist_Republic
+Sergey_Kutsov	wasBornIn	Kirghiz_Soviet_Socialist_Republic
+Sergey_Kutsov	wasBornIn	Kirghiz_Soviet_Socialist_Republic
+Sergey_Kutsov	wasBornIn	Kirghiz_Soviet_Socialist_Republic
+Kirghiz_Soviet_Socialist_Republic	hasCapital	Bishkek
+Kirghiz_Soviet_Socialist_Republic	hasCapital	Bishkek
+
+http://dbpedia.org/resource/Crown_of_Castile	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Toledo,_Spain
+Crown_of_Castile	Toledo,_Spain
+Crown_of_Castile	hasCapital	Toledo,_Spain
+Crown_of_Castile	hasCapital	Toledo,_Spain
+
+http://dbpedia.org/resource/Crown_of_Castile	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Toledo,_Spain
+Crown_of_Castile	Toledo,_Spain
+Crown_of_Castile	isLocatedIn	Iberian_Peninsula
+Crown_of_Castile	isLocatedIn	Iberian_Peninsula
+Crown_of_Castile	isLocatedIn	Iberian_Peninsula
+Crown_of_Castile	isLocatedIn	Iberian_Peninsula
+Crown_of_Castile	hasCapital	Toledo,_Spain
+Crown_of_Castile	hasCapital	Toledo,_Spain
+
+http://dbpedia.org/resource/Crown_of_Castile	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Toledo,_Spain
+Crown_of_Castile	Toledo,_Spain
+Crown_of_Castile	participatedIn	Castilian_Civil_War
+Castilian_Civil_War	happenedIn	Crown_of_Castile
+Crown_of_Castile	participatedIn	Castilian_Civil_War
+Castilian_Civil_War	happenedIn	Crown_of_Castile
+Crown_of_Castile	participatedIn	Castilian_Civil_War
+Castilian_Civil_War	happenedIn	Crown_of_Castile
+Crown_of_Castile	participatedIn	Castilian_Civil_War
+Castilian_Civil_War	happenedIn	Crown_of_Castile
+Crown_of_Castile	hasCapital	Toledo,_Spain
+Crown_of_Castile	hasCapital	Toledo,_Spain
+
+http://dbpedia.org/resource/Crown_of_Castile	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Toledo,_Spain
+Crown_of_Castile	Toledo,_Spain
+Crown_of_Castile	participatedIn	War_of_the_Two_Peters
+Crown_of_Castile	participatedIn	War_of_the_Two_Peters
+Crown_of_Castile	participatedIn	War_of_the_Two_Peters
+Crown_of_Castile	participatedIn	War_of_the_Two_Peters
+Crown_of_Castile	hasCapital	Toledo,_Spain
+Crown_of_Castile	hasCapital	Toledo,_Spain
+
+http://dbpedia.org/resource/Crown_of_Castile	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Toledo,_Spain
+Crown_of_Castile	Toledo,_Spain
+Crown_of_Castile	participatedIn	Battle_of_Barcelona_(1359)
+Crown_of_Castile	participatedIn	Battle_of_Barcelona_(1359)
+Crown_of_Castile	participatedIn	Battle_of_Barcelona_(1359)
+Crown_of_Castile	participatedIn	Battle_of_Barcelona_(1359)
+Crown_of_Castile	hasCapital	Toledo,_Spain
+Crown_of_Castile	hasCapital	Toledo,_Spain
+
+http://dbpedia.org/resource/Crown_of_Castile	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Toledo,_Spain
+Crown_of_Castile	Toledo,_Spain
+Crown_of_Castile	participatedIn	Battle_of_Nájera
+Crown_of_Castile	participatedIn	Battle_of_Nájera
+Crown_of_Castile	participatedIn	Battle_of_Nájera
+Crown_of_Castile	participatedIn	Battle_of_Nájera
+Crown_of_Castile	hasCapital	Toledo,_Spain
+Crown_of_Castile	hasCapital	Toledo,_Spain
+
+http://dbpedia.org/resource/Crown_of_Castile	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Toledo,_Spain
+Crown_of_Castile	Toledo,_Spain
+Crown_of_Castile	participatedIn	Dutch–Portuguese_War
+Crown_of_Castile	participatedIn	Dutch–Portuguese_War
+Crown_of_Castile	participatedIn	Dutch–Portuguese_War
+Crown_of_Castile	participatedIn	Dutch–Portuguese_War
+Crown_of_Castile	hasCapital	Toledo,_Spain
+Crown_of_Castile	hasCapital	Toledo,_Spain
+
+http://dbpedia.org/resource/Crown_of_Castile	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Toledo,_Spain
+Crown_of_Castile	Toledo,_Spain
+Crown_of_Castile	participatedIn	Battle_of_Montiel
+Battle_of_Montiel	happenedIn	Crown_of_Castile
+Crown_of_Castile	participatedIn	Battle_of_Montiel
+Battle_of_Montiel	happenedIn	Crown_of_Castile
+Crown_of_Castile	participatedIn	Battle_of_Montiel
+Battle_of_Montiel	happenedIn	Crown_of_Castile
+Crown_of_Castile	participatedIn	Battle_of_Montiel
+Battle_of_Montiel	happenedIn	Crown_of_Castile
+Crown_of_Castile	hasCapital	Toledo,_Spain
+Crown_of_Castile	hasCapital	Toledo,_Spain
+
+http://dbpedia.org/resource/Crown_of_Castile	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Toledo,_Spain
+Crown_of_Castile	Toledo,_Spain
+Crown_of_Castile	participatedIn	War_of_the_Spanish_Succession
+Crown_of_Castile	participatedIn	War_of_the_Spanish_Succession
+Crown_of_Castile	participatedIn	War_of_the_Spanish_Succession
+Crown_of_Castile	participatedIn	War_of_the_Spanish_Succession
+Crown_of_Castile	hasCapital	Toledo,_Spain
+Crown_of_Castile	hasCapital	Toledo,_Spain
+
+http://dbpedia.org/resource/Kingdom_of_Italy	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Rome
+Kingdom_of_Italy	Rome
+Luciano_Serra,_Pilot	isLocatedIn	Kingdom_of_Italy
+Luciano_Serra,_Pilot	isLocatedIn	Kingdom_of_Italy
+Goffredo_Alessandrini	directed	Luciano_Serra,_Pilot
+Goffredo_Alessandrini	directed	Luciano_Serra,_Pilot
+Goffredo_Alessandrini	diedIn	Rome
+Goffredo_Alessandrini	diedIn	Rome
+
+http://dbpedia.org/resource/South_African_Republic	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Pretoria
+South_African_Republic	Pretoria
+South_African_Republic	isLocatedIn	South_Africa
+South_African_Republic	isLocatedIn	South_Africa
+Leontine_Sagan	isCitizenOf	South_Africa
+Leontine_Sagan	isCitizenOf	South_Africa
+Leontine_Sagan	diedIn	Pretoria
+Leontine_Sagan	diedIn	Pretoria
+
+http://dbpedia.org/resource/South_African_Republic	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Pretoria
+South_African_Republic	Pretoria
+South_African_Republic	isLocatedIn	South_Africa
+South_African_Republic	isLocatedIn	South_Africa
+Albert_Hertzog	isCitizenOf	South_Africa
+Albert_Hertzog	isPoliticianOf	South_Africa
+Albert_Hertzog	isCitizenOf	South_Africa
+Albert_Hertzog	isPoliticianOf	South_Africa
+Albert_Hertzog	diedIn	Pretoria
+Albert_Hertzog	livesIn	Pretoria
+Albert_Hertzog	diedIn	Pretoria
+Albert_Hertzog	livesIn	Pretoria
+
+http://dbpedia.org/resource/Kingdom_of_Hawaii	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Lahaina,_Hawaii
+Kingdom_of_Hawaii	Lahaina,_Hawaii
+Charles_Coffin_Harris	isCitizenOf	Kingdom_of_Hawaii
+Charles_Coffin_Harris	isCitizenOf	Kingdom_of_Hawaii
+Charles_Coffin_Harris	isCitizenOf	Kingdom_of_Hawaii
+Charles_Coffin_Harris	isCitizenOf	Kingdom_of_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+
+http://dbpedia.org/resource/Kingdom_of_Hawaii	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Lahaina,_Hawaii
+Kingdom_of_Hawaii	Lahaina,_Hawaii
+William_Ansel_Kinney	isCitizenOf	Kingdom_of_Hawaii
+William_Ansel_Kinney	isCitizenOf	Kingdom_of_Hawaii
+William_Ansel_Kinney	isCitizenOf	Kingdom_of_Hawaii
+William_Ansel_Kinney	isCitizenOf	Kingdom_of_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+
+http://dbpedia.org/resource/Kingdom_of_Hawaii	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Lahaina,_Hawaii
+Kingdom_of_Hawaii	Lahaina,_Hawaii
+Samuel_Gardner_Wilder	isCitizenOf	Kingdom_of_Hawaii
+Samuel_Gardner_Wilder	isCitizenOf	Kingdom_of_Hawaii
+Samuel_Gardner_Wilder	isCitizenOf	Kingdom_of_Hawaii
+Samuel_Gardner_Wilder	isCitizenOf	Kingdom_of_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+
+http://dbpedia.org/resource/Kingdom_of_Hawaii	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Lahaina,_Hawaii
+Kingdom_of_Hawaii	Lahaina,_Hawaii
+George_Norton_Wilcox	isCitizenOf	Kingdom_of_Hawaii
+George_Norton_Wilcox	isCitizenOf	Kingdom_of_Hawaii
+George_Norton_Wilcox	isCitizenOf	Kingdom_of_Hawaii
+George_Norton_Wilcox	isCitizenOf	Kingdom_of_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+
+http://dbpedia.org/resource/Kingdom_of_Hawaii	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Lahaina,_Hawaii
+Kingdom_of_Hawaii	Lahaina,_Hawaii
+William_Hyde_Rice	isCitizenOf	Kingdom_of_Hawaii
+William_Hyde_Rice	isCitizenOf	Kingdom_of_Hawaii
+William_Hyde_Rice	isCitizenOf	Kingdom_of_Hawaii
+William_Hyde_Rice	isCitizenOf	Kingdom_of_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+
+http://dbpedia.org/resource/Kingdom_of_Hawaii	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Lahaina,_Hawaii
+Kingdom_of_Hawaii	Lahaina,_Hawaii
+Curtis_P._Iaukea	isCitizenOf	Kingdom_of_Hawaii
+Curtis_P._Iaukea	isCitizenOf	Kingdom_of_Hawaii
+Curtis_P._Iaukea	isCitizenOf	Kingdom_of_Hawaii
+Curtis_P._Iaukea	isCitizenOf	Kingdom_of_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+
+http://dbpedia.org/resource/Kingdom_of_Hawaii	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Lahaina,_Hawaii
+Kingdom_of_Hawaii	Lahaina,_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+
+http://dbpedia.org/resource/Kingdom_of_Hawaii	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Lahaina,_Hawaii
+Kingdom_of_Hawaii	Lahaina,_Hawaii
+Namahana_Piia	diedIn	Kingdom_of_Hawaii
+Namahana_Piia	diedIn	Kingdom_of_Hawaii
+Namahana_Piia	diedIn	Kingdom_of_Hawaii
+Namahana_Piia	diedIn	Kingdom_of_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+
+http://dbpedia.org/resource/Kingdom_of_Hawaii	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Lahaina,_Hawaii
+Kingdom_of_Hawaii	Lahaina,_Hawaii
+Abigail_Kuaihelani_Campbell	isCitizenOf	Kingdom_of_Hawaii
+Abigail_Kuaihelani_Campbell	isCitizenOf	Kingdom_of_Hawaii
+Abigail_Kuaihelani_Campbell	isCitizenOf	Kingdom_of_Hawaii
+Abigail_Kuaihelani_Campbell	isCitizenOf	Kingdom_of_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+
+http://dbpedia.org/resource/Kingdom_of_Hawaii	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Lahaina,_Hawaii
+Kingdom_of_Hawaii	Lahaina,_Hawaii
+Sanford_B._Dole	isCitizenOf	Kingdom_of_Hawaii
+Sanford_B._Dole	isCitizenOf	Kingdom_of_Hawaii
+Sanford_B._Dole	isCitizenOf	Kingdom_of_Hawaii
+Sanford_B._Dole	isCitizenOf	Kingdom_of_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+
+http://dbpedia.org/resource/Kingdom_of_Hawaii	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Lahaina,_Hawaii
+Kingdom_of_Hawaii	Lahaina,_Hawaii
+Lorrin_A._Thurston	isCitizenOf	Kingdom_of_Hawaii
+Lorrin_A._Thurston	isCitizenOf	Kingdom_of_Hawaii
+Lorrin_A._Thurston	isCitizenOf	Kingdom_of_Hawaii
+Lorrin_A._Thurston	isCitizenOf	Kingdom_of_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+
+http://dbpedia.org/resource/Kingdom_of_Hawaii	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Lahaina,_Hawaii
+Kingdom_of_Hawaii	Lahaina,_Hawaii
+John_H._Wilson_(Hawaii)	isCitizenOf	Kingdom_of_Hawaii
+John_H._Wilson_(Hawaii)	isCitizenOf	Kingdom_of_Hawaii
+John_H._Wilson_(Hawaii)	isCitizenOf	Kingdom_of_Hawaii
+John_H._Wilson_(Hawaii)	isCitizenOf	Kingdom_of_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+Kingdom_of_Hawaii	hasCapital	Lahaina,_Hawaii
+
+http://dbpedia.org/resource/Dakota_Territory	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Yankton,_South_Dakota
+Dakota_Territory	Yankton,_South_Dakota
+Andrew_Jackson_Faulk	isPoliticianOf	Dakota_Territory
+Andrew_Jackson_Faulk	isPoliticianOf	Dakota_Territory
+Andrew_Jackson_Faulk	diedIn	Yankton,_South_Dakota
+Andrew_Jackson_Faulk	diedIn	Yankton,_South_Dakota
+
+http://dbpedia.org/resource/Autonomous_Republic_of_Crimea	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Simferopol
+Autonomous_Republic_of_Crimea	Simferopol
+Simferopol	isLocatedIn	Autonomous_Republic_of_Crimea
+Autonomous_Republic_of_Crimea	hasCapital	Simferopol
+Autonomous_Republic_of_Crimea	isLocatedIn	Simferopol
+Simferopol	isLocatedIn	Autonomous_Republic_of_Crimea
+Autonomous_Republic_of_Crimea	hasCapital	Simferopol
+Autonomous_Republic_of_Crimea	isLocatedIn	Simferopol
+
+http://dbpedia.org/resource/Autonomous_Republic_of_Crimea	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Simferopol
+Autonomous_Republic_of_Crimea	Simferopol
+FC_Tytan_Armyansk	isLocatedIn	Autonomous_Republic_of_Crimea
+FC_Tytan_Armyansk	isLocatedIn	Autonomous_Republic_of_Crimea
+FC_Tytan_Armyansk	isLocatedIn	Autonomous_Republic_of_Crimea
+FC_Tytan_Armyansk	isLocatedIn	Autonomous_Republic_of_Crimea
+Simferopol	isLocatedIn	Autonomous_Republic_of_Crimea
+Autonomous_Republic_of_Crimea	hasCapital	Simferopol
+Autonomous_Republic_of_Crimea	isLocatedIn	Simferopol
+Simferopol	isLocatedIn	Autonomous_Republic_of_Crimea
+Autonomous_Republic_of_Crimea	hasCapital	Simferopol
+Autonomous_Republic_of_Crimea	isLocatedIn	Simferopol
+
+http://dbpedia.org/resource/Fiji	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Suva
+Fiji	Suva
+University_of_the_South_Pacific	isLocatedIn	Fiji
+University_of_the_South_Pacific	isLocatedIn	Fiji
+University_of_the_South_Pacific	isLocatedIn	Suva
+University_of_the_South_Pacific	isLocatedIn	Suva
+
+http://dbpedia.org/resource/Turčianske_Teplice_District	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Turčianske_Teplice
+Turčianske_Teplice_District	Turčianske_Teplice
+Turčianske_Teplice	isLocatedIn	Turčianske_Teplice_District
+Turčianske_Teplice_District	isLocatedIn	Turčianske_Teplice
+Turčianske_Teplice_District	hasCapital	Turčianske_Teplice
+Turčianske_Teplice	isLocatedIn	Turčianske_Teplice_District
+Turčianske_Teplice_District	isLocatedIn	Turčianske_Teplice
+Turčianske_Teplice_District	hasCapital	Turčianske_Teplice
+
+http://dbpedia.org/resource/Turčianske_Teplice_District	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Turčianske_Teplice
+Turčianske_Teplice_District	Turčianske_Teplice
+Rakša	isLocatedIn	Turčianske_Teplice_District
+Rakša	isLocatedIn	Turčianske_Teplice_District
+Rakša	isLocatedIn	Turčianske_Teplice
+Rakša	isLocatedIn	Turčianske_Teplice
+
+http://dbpedia.org/resource/Turčianske_Teplice_District	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Turčianske_Teplice
+Turčianske_Teplice_District	Turčianske_Teplice
+Rakša	isLocatedIn	Turčianske_Teplice_District
+Rakša	isLocatedIn	Turčianske_Teplice_District
+Rakša	isLocatedIn	Turčianske_Teplice_District
+Rakša	isLocatedIn	Turčianske_Teplice_District
+Turčianske_Teplice	isLocatedIn	Turčianske_Teplice_District
+Turčianske_Teplice_District	isLocatedIn	Turčianske_Teplice
+Turčianske_Teplice_District	hasCapital	Turčianske_Teplice
+Turčianske_Teplice	isLocatedIn	Turčianske_Teplice_District
+Turčianske_Teplice_District	isLocatedIn	Turčianske_Teplice
+Turčianske_Teplice_District	hasCapital	Turčianske_Teplice
+
+http://dbpedia.org/resource/Turčianske_Teplice_District	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Turčianske_Teplice
+Turčianske_Teplice_District	Turčianske_Teplice
+Rakša	isLocatedIn	Turčianske_Teplice_District
+Rakša	isLocatedIn	Turčianske_Teplice_District
+Rakša	isLocatedIn	Žilina_Region
+Rakša	isLocatedIn	Žilina_Region
+Turčianske_Teplice	isLocatedIn	Žilina_Region
+Turčianske_Teplice	isLocatedIn	Žilina_Region
+
+http://dbpedia.org/resource/Turčianske_Teplice_District	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Turčianske_Teplice
+Turčianske_Teplice_District	Turčianske_Teplice
+Mošovce	isLocatedIn	Turčianske_Teplice_District
+Mošovce	isLocatedIn	Turčianske_Teplice_District
+Mošovce	isLocatedIn	Turčianske_Teplice
+Mošovce	isLocatedIn	Turčianske_Teplice
+
+http://dbpedia.org/resource/Turčianske_Teplice_District	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Turčianske_Teplice
+Turčianske_Teplice_District	Turčianske_Teplice
+Mošovce	isLocatedIn	Turčianske_Teplice_District
+Mošovce	isLocatedIn	Turčianske_Teplice_District
+Mošovce	isLocatedIn	Žilina_Region
+Mošovce	isLocatedIn	Žilina_Region
+Turčianske_Teplice	isLocatedIn	Žilina_Region
+Turčianske_Teplice	isLocatedIn	Žilina_Region
+
+http://dbpedia.org/resource/Turčianske_Teplice_District	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Turčianske_Teplice
+Turčianske_Teplice_District	Turčianske_Teplice
+Mošovce	isLocatedIn	Turčianske_Teplice_District
+Mošovce	isLocatedIn	Turčianske_Teplice_District
+Mošovce	isLocatedIn	Turčianske_Teplice_District
+Mošovce	isLocatedIn	Turčianske_Teplice_District
+Turčianske_Teplice	isLocatedIn	Turčianske_Teplice_District
+Turčianske_Teplice_District	isLocatedIn	Turčianske_Teplice
+Turčianske_Teplice_District	hasCapital	Turčianske_Teplice
+Turčianske_Teplice	isLocatedIn	Turčianske_Teplice_District
+Turčianske_Teplice_District	isLocatedIn	Turčianske_Teplice
+Turčianske_Teplice_District	hasCapital	Turčianske_Teplice
+
+http://dbpedia.org/resource/Turčianske_Teplice_District	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Turčianske_Teplice
+Turčianske_Teplice_District	Turčianske_Teplice
+Turčianske_Teplice_District	isLocatedIn	Žilina_Region
+Turčianske_Teplice_District	isLocatedIn	Žilina_Region
+Turčianske_Teplice	isLocatedIn	Žilina_Region
+Turčianske_Teplice	isLocatedIn	Žilina_Region
+
+http://dbpedia.org/resource/Turčianske_Teplice_District	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Turčianske_Teplice
+Turčianske_Teplice_District	Turčianske_Teplice
+Turčianske_Teplice_District	isLocatedIn	Žilina_Region
+Turčianske_Teplice_District	isLocatedIn	Žilina_Region
+Mošovce	isLocatedIn	Žilina_Region
+Mošovce	isLocatedIn	Žilina_Region
+Mošovce	isLocatedIn	Turčianske_Teplice
+Mošovce	isLocatedIn	Turčianske_Teplice
+
+http://dbpedia.org/resource/Turčianske_Teplice_District	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Turčianske_Teplice
+Turčianske_Teplice_District	Turčianske_Teplice
+Turčianske_Teplice_District	isLocatedIn	Žilina_Region
+Turčianske_Teplice_District	isLocatedIn	Žilina_Region
+Abramová	isLocatedIn	Žilina_Region
+Abramová	isLocatedIn	Žilina_Region
+Abramová	isLocatedIn	Turčianske_Teplice
+Abramová	isLocatedIn	Turčianske_Teplice
+
+http://dbpedia.org/resource/Turčianske_Teplice_District	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Turčianske_Teplice
+Turčianske_Teplice_District	Turčianske_Teplice
+Turčianske_Teplice_District	isLocatedIn	Žilina_Region
+Turčianske_Teplice_District	isLocatedIn	Žilina_Region
+Rakša	isLocatedIn	Žilina_Region
+Rakša	isLocatedIn	Žilina_Region
+Rakša	isLocatedIn	Turčianske_Teplice
+Rakša	isLocatedIn	Turčianske_Teplice
+
+http://dbpedia.org/resource/Turčianske_Teplice_District	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Turčianske_Teplice
+Turčianske_Teplice_District	Turčianske_Teplice
+Turčianske_Teplice_District	isLocatedIn	Žilina_Region
+Turčianske_Teplice_District	isLocatedIn	Žilina_Region
+Turčianske_Teplice_District	isLocatedIn	Žilina_Region
+Turčianske_Teplice_District	isLocatedIn	Žilina_Region
+Turčianske_Teplice	isLocatedIn	Turčianske_Teplice_District
+Turčianske_Teplice_District	isLocatedIn	Turčianske_Teplice
+Turčianske_Teplice_District	hasCapital	Turčianske_Teplice
+Turčianske_Teplice	isLocatedIn	Turčianske_Teplice_District
+Turčianske_Teplice_District	isLocatedIn	Turčianske_Teplice
+Turčianske_Teplice_District	hasCapital	Turčianske_Teplice
+
+http://dbpedia.org/resource/Chiba_Prefecture	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Chiba,_Chiba
+Chiba_Prefecture	Chiba,_Chiba
+Chiba_Prefecture	hasCapital	Chiba,_Chiba
+Chiba_Prefecture	isLocatedIn	Chiba,_Chiba
+Chiba,_Chiba	isLocatedIn	Chiba_Prefecture
+Chiba_Prefecture	hasCapital	Chiba,_Chiba
+Chiba_Prefecture	isLocatedIn	Chiba,_Chiba
+Chiba,_Chiba	isLocatedIn	Chiba_Prefecture
+
+http://dbpedia.org/resource/Korean_Empire	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Seoul
+Korean_Empire	Seoul
+Korean_Empire	hasCapital	Seoul
+Korean_Empire	hasCapital	Seoul
+
+http://dbpedia.org/resource/Korean_Empire	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Seoul
+Korean_Empire	Seoul
+Na_Hye-sok	isCitizenOf	Korean_Empire
+Na_Hye-sok	isCitizenOf	Korean_Empire
+Na_Hye-sok	isCitizenOf	Korean_Empire
+Na_Hye-sok	isCitizenOf	Korean_Empire
+Korean_Empire	hasCapital	Seoul
+Korean_Empire	hasCapital	Seoul
+
+http://dbpedia.org/resource/Korean_Empire	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Seoul
+Korean_Empire	Seoul
+Na_Hye-sok	isCitizenOf	Korean_Empire
+Na_Hye-sok	isCitizenOf	Korean_Empire
+Na_Hye-sok	diedIn	Seoul
+Na_Hye-sok	diedIn	Seoul
+
+http://dbpedia.org/resource/Korean_Empire	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Seoul
+Korean_Empire	Seoul
+Korean_Empire	isLocatedIn	East_Asia
+Korean_Empire	isLocatedIn	East_Asia
+Korean_Empire	isLocatedIn	East_Asia
+Korean_Empire	isLocatedIn	East_Asia
+Korean_Empire	hasCapital	Seoul
+Korean_Empire	hasCapital	Seoul
+
+http://dbpedia.org/resource/Korean_Empire	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Seoul
+Korean_Empire	Seoul
+Korean_Empire	isLocatedIn	East_Asia
+Korean_Empire	isLocatedIn	East_Asia
+East_Asia	isLocatedIn	Seoul
+East_Asia	isLocatedIn	Seoul
+
+http://dbpedia.org/resource/Crimean_Oblast	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Simferopol
+Crimean_Oblast	Simferopol
+Crimean_Oblast	hasCapital	Simferopol
+Crimean_Oblast	hasCapital	Simferopol
+
+http://dbpedia.org/resource/Crimean_Oblast	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Simferopol
+Crimean_Oblast	Simferopol
+Serhiy_Kovalets	wasBornIn	Crimean_Oblast
+Serhiy_Kovalets	wasBornIn	Crimean_Oblast
+Serhiy_Kovalets	wasBornIn	Crimean_Oblast
+Serhiy_Kovalets	wasBornIn	Crimean_Oblast
+Crimean_Oblast	hasCapital	Simferopol
+Crimean_Oblast	hasCapital	Simferopol
+
+http://dbpedia.org/resource/Zanzibar	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Zanzibar_City
+Zanzibar	Zanzibar_City
+Idris_Abdul_Wakil	isPoliticianOf	Zanzibar
+Idris_Abdul_Wakil	isPoliticianOf	Zanzibar
+Idris_Abdul_Wakil	diedIn	Zanzibar_City
+Idris_Abdul_Wakil	diedIn	Zanzibar_City
+
+http://dbpedia.org/resource/Zanzibar	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Zanzibar_City
+Zanzibar	Zanzibar_City
+Idris_Abdul_Wakil	isPoliticianOf	Zanzibar
+Idris_Abdul_Wakil	isPoliticianOf	Zanzibar
+Idris_Abdul_Wakil	wasBornIn	Sultanate_of_Zanzibar
+Idris_Abdul_Wakil	wasBornIn	Sultanate_of_Zanzibar
+Sultanate_of_Zanzibar	hasCapital	Zanzibar_City
+Sultanate_of_Zanzibar	hasCapital	Zanzibar_City
+
+http://dbpedia.org/resource/Zanzibar	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Zanzibar_City
+Zanzibar	Zanzibar_City
+Seif_Ali_Iddi	isLeaderOf	Zanzibar
+Seif_Ali_Iddi	isLeaderOf	Zanzibar
+Seif_Ali_Iddi	wasBornIn	Sultanate_of_Zanzibar
+Seif_Ali_Iddi	wasBornIn	Sultanate_of_Zanzibar
+Sultanate_of_Zanzibar	hasCapital	Zanzibar_City
+Sultanate_of_Zanzibar	hasCapital	Zanzibar_City
+
+http://dbpedia.org/resource/Phoenicia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Tyre,_Lebanon
+Phoenicia	Tyre,_Lebanon
+Siege_of_Tyre_(332_BC)	isLocatedIn	Phoenicia
+Siege_of_Tyre_(332_BC)	happenedIn	Phoenicia
+Siege_of_Tyre_(332_BC)	isLocatedIn	Phoenicia
+Siege_of_Tyre_(332_BC)	happenedIn	Phoenicia
+Siege_of_Tyre_(332_BC)	isLocatedIn	Tyre,_Lebanon
+Siege_of_Tyre_(332_BC)	happenedIn	Tyre,_Lebanon
+Tyre,_Lebanon	participatedIn	Siege_of_Tyre_(332_BC)
+Siege_of_Tyre_(332_BC)	isLocatedIn	Tyre,_Lebanon
+Siege_of_Tyre_(332_BC)	happenedIn	Tyre,_Lebanon
+Tyre,_Lebanon	participatedIn	Siege_of_Tyre_(332_BC)
+
+http://dbpedia.org/resource/Belize	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Belmopan
+Belize	Belmopan
+Deon_McCaulay	isCitizenOf	Belize
+Deon_McCaulay	isCitizenOf	Belize
+Deon_McCaulay	isAffiliatedTo	Belmopan_Bandits
+Deon_McCaulay	playsFor	Belmopan_Bandits
+Deon_McCaulay	isAffiliatedTo	Belmopan_Bandits
+Deon_McCaulay	playsFor	Belmopan_Bandits
+Belmopan_Bandits	isLocatedIn	Belmopan
+Belmopan_Bandits	isLocatedIn	Belmopan
+
+http://dbpedia.org/resource/New_Jersey	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Trenton,_New_Jersey
+New_Jersey	Trenton,_New_Jersey
+Notre_Dame_High_School_(New_Jersey)	isLocatedIn	New_Jersey
+Notre_Dame_High_School_(New_Jersey)	isLocatedIn	New_Jersey
+Notre_Dame_High_School_(New_Jersey)	isLocatedIn	Mercer_County,_New_Jersey
+Notre_Dame_High_School_(New_Jersey)	isLocatedIn	Mercer_County,_New_Jersey
+Mercer_County,_New_Jersey	isLocatedIn	Trenton,_New_Jersey
+Trenton,_New_Jersey	isLocatedIn	Mercer_County,_New_Jersey
+Mercer_County,_New_Jersey	isLocatedIn	Trenton,_New_Jersey
+Trenton,_New_Jersey	isLocatedIn	Mercer_County,_New_Jersey
+
+http://dbpedia.org/resource/New_Jersey	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Trenton,_New_Jersey
+New_Jersey	Trenton,_New_Jersey
+Lawrenceville,_New_Jersey	isLocatedIn	New_Jersey
+Lawrenceville,_New_Jersey	isLocatedIn	New_Jersey
+Lawrenceville,_New_Jersey	isLocatedIn	Mercer_County,_New_Jersey
+Lawrenceville,_New_Jersey	isLocatedIn	Mercer_County,_New_Jersey
+Mercer_County,_New_Jersey	isLocatedIn	Trenton,_New_Jersey
+Trenton,_New_Jersey	isLocatedIn	Mercer_County,_New_Jersey
+Mercer_County,_New_Jersey	isLocatedIn	Trenton,_New_Jersey
+Trenton,_New_Jersey	isLocatedIn	Mercer_County,_New_Jersey
+
+http://dbpedia.org/resource/New_Jersey	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Trenton,_New_Jersey
+New_Jersey	Trenton,_New_Jersey
+Plainsboro_Township,_New_Jersey	isLocatedIn	New_Jersey
+Plainsboro_Township,_New_Jersey	isLocatedIn	New_Jersey
+Peter_A._Rona	diedIn	Plainsboro_Township,_New_Jersey
+Peter_A._Rona	diedIn	Plainsboro_Township,_New_Jersey
+Peter_A._Rona	wasBornIn	Trenton,_New_Jersey
+Peter_A._Rona	wasBornIn	Trenton,_New_Jersey
+
+http://dbpedia.org/resource/New_Jersey	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Trenton,_New_Jersey
+New_Jersey	Trenton,_New_Jersey
+Ewing_Township,_New_Jersey	isLocatedIn	New_Jersey
+Ewing_Township,_New_Jersey	isLocatedIn	New_Jersey
+Ewing_Township,_New_Jersey	isLocatedIn	Mercer_County,_New_Jersey
+Ewing_Township,_New_Jersey	isLocatedIn	Mercer_County,_New_Jersey
+Mercer_County,_New_Jersey	isLocatedIn	Trenton,_New_Jersey
+Trenton,_New_Jersey	isLocatedIn	Mercer_County,_New_Jersey
+Mercer_County,_New_Jersey	isLocatedIn	Trenton,_New_Jersey
+Trenton,_New_Jersey	isLocatedIn	Mercer_County,_New_Jersey
+
+http://dbpedia.org/resource/Kingdom_of_Hawaii	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Hilo,_Hawaii
+Kingdom_of_Hawaii	Hilo,_Hawaii
+George_Norton_Wilcox	isCitizenOf	Kingdom_of_Hawaii
+George_Norton_Wilcox	isCitizenOf	Kingdom_of_Hawaii
+George_Norton_Wilcox	wasBornIn	Hilo,_Hawaii
+George_Norton_Wilcox	wasBornIn	Hilo,_Hawaii
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Christine_Hakim	isCitizenOf	Indonesia
+Christine_Hakim	isCitizenOf	Indonesia
+Christine_Hakim	livesIn	Jakarta
+Christine_Hakim	livesIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Haidar_Bagir	isCitizenOf	Indonesia
+Haidar_Bagir	isCitizenOf	Indonesia
+Haidar_Bagir	graduatedFrom	University_of_Indonesia
+Haidar_Bagir	graduatedFrom	University_of_Indonesia
+University_of_Indonesia	isLocatedIn	Jakarta
+University_of_Indonesia	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Haidar_Bagir	isCitizenOf	Indonesia
+Haidar_Bagir	isCitizenOf	Indonesia
+Haidar_Bagir	livesIn	Jakarta
+Haidar_Bagir	livesIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Susi_Air	isLocatedIn	Indonesia
+Susi_Air	isLocatedIn	Indonesia
+Susi_Air	isLocatedIn	East_Jakarta
+Susi_Air	isLocatedIn	East_Jakarta
+East_Jakarta	isLocatedIn	Jakarta
+East_Jakarta	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Antv	isLocatedIn	Indonesia
+Antv	isLocatedIn	Indonesia
+Bakrie_Group	owns	Antv
+Bakrie_Group	owns	Antv
+Bakrie_Group	isLocatedIn	Jakarta
+Bakrie_Group	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Antv	isLocatedIn	Indonesia
+Antv	isLocatedIn	Indonesia
+Antv	isLocatedIn	South_Jakarta
+Antv	isLocatedIn	South_Jakarta
+South_Jakarta	isLocatedIn	Jakarta
+South_Jakarta	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Salman_Aristo	isCitizenOf	Indonesia
+Salman_Aristo	isCitizenOf	Indonesia
+Salman_Aristo	wasBornIn	Jakarta
+Salman_Aristo	wasBornIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Roy_Marten	isCitizenOf	Indonesia
+Roy_Marten	isCitizenOf	Indonesia
+Roy_Marten	livesIn	Jakarta
+Roy_Marten	livesIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Media_Nusantara_Citra	isLocatedIn	Indonesia
+Media_Nusantara_Citra	isLocatedIn	Indonesia
+Media_Nusantara_Citra	isLocatedIn	Jakarta
+Media_Nusantara_Citra	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Media_Nusantara_Citra	isLocatedIn	Indonesia
+Media_Nusantara_Citra	isLocatedIn	Indonesia
+Media_Nusantara_Citra	owns	SinemArt
+Media_Nusantara_Citra	owns	SinemArt
+SinemArt	isLocatedIn	Jakarta
+SinemArt	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Romana_Tedjakusuma	isCitizenOf	Indonesia
+Romana_Tedjakusuma	isCitizenOf	Indonesia
+Romana_Tedjakusuma	livesIn	Jakarta
+Romana_Tedjakusuma	livesIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Suharto	isCitizenOf	Indonesia
+Suharto	isPoliticianOf	Indonesia
+Suharto	isCitizenOf	Indonesia
+Suharto	isPoliticianOf	Indonesia
+Suharto	isMarriedTo	Siti_Hartinah
+Siti_Hartinah	isMarriedTo	Suharto
+Suharto	isMarriedTo	Siti_Hartinah
+Siti_Hartinah	isMarriedTo	Suharto
+Siti_Hartinah	diedIn	Jakarta
+Siti_Hartinah	diedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Suharto	isCitizenOf	Indonesia
+Suharto	isPoliticianOf	Indonesia
+Suharto	isCitizenOf	Indonesia
+Suharto	isPoliticianOf	Indonesia
+Suharto	isAffiliatedTo	Golkar
+Suharto	isAffiliatedTo	Golkar
+Golkar	isLocatedIn	Jakarta
+Golkar	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Suharto	isCitizenOf	Indonesia
+Suharto	isPoliticianOf	Indonesia
+Suharto	isCitizenOf	Indonesia
+Suharto	isPoliticianOf	Indonesia
+Suharto	diedIn	Jakarta
+Suharto	diedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+South_Jakarta	isLocatedIn	Indonesia
+South_Jakarta	isLocatedIn	Indonesia
+South_Jakarta	isLocatedIn	Jakarta
+South_Jakarta	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+South_Jakarta	isLocatedIn	Indonesia
+South_Jakarta	isLocatedIn	Indonesia
+Senayan_City	isLocatedIn	South_Jakarta
+Senayan_City	isLocatedIn	South_Jakarta
+Senayan_City	isLocatedIn	Jakarta
+Senayan_City	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Aceh	isLocatedIn	Indonesia
+Aceh	isLocatedIn	Indonesia
+Greater_Sunda_Islands	isLocatedIn	Aceh
+Greater_Sunda_Islands	isLocatedIn	Aceh
+Greater_Sunda_Islands	isLocatedIn	Jakarta
+Greater_Sunda_Islands	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Medan	isLocatedIn	Indonesia
+Medan	isLocatedIn	Indonesia
+Chairil_Anwar	wasBornIn	Medan
+Chairil_Anwar	wasBornIn	Medan
+Chairil_Anwar	diedIn	Jakarta
+Chairil_Anwar	diedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Medan	isLocatedIn	Indonesia
+Medan	isLocatedIn	Indonesia
+Panin_Sekuritas	isLocatedIn	Medan
+Panin_Sekuritas	isLocatedIn	Medan
+Panin_Sekuritas	isLocatedIn	Jakarta
+Panin_Sekuritas	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Trans7	isLocatedIn	Indonesia
+Trans7	isLocatedIn	Indonesia
+Kompas_Gramedia_Group	owns	Trans7
+Kompas_Gramedia_Group	owns	Trans7
+Kompas_Gramedia_Group	isLocatedIn	Jakarta
+Kompas_Gramedia_Group	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Trans7	isLocatedIn	Indonesia
+Trans7	isLocatedIn	Indonesia
+Trans7	isLocatedIn	Jakarta
+Trans7	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Trans7	isLocatedIn	Indonesia
+Trans7	isLocatedIn	Indonesia
+Trans_Corp	owns	Trans7
+Trans_Corp	owns	Trans7
+Trans_Corp	isLocatedIn	Jakarta
+Trans_Corp	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Rajawali_(sinetron)	isLocatedIn	Indonesia
+Rajawali_(sinetron)	isLocatedIn	Indonesia
+SinemArt	created	Rajawali_(sinetron)
+SinemArt	created	Rajawali_(sinetron)
+SinemArt	isLocatedIn	Jakarta
+SinemArt	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Rajawali_(sinetron)	isLocatedIn	Indonesia
+Rajawali_(sinetron)	isLocatedIn	Indonesia
+Rajawali_(sinetron)	isLocatedIn	Jakarta
+Rajawali_(sinetron)	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Rosihan_Anwar	isCitizenOf	Indonesia
+Rosihan_Anwar	isCitizenOf	Indonesia
+Rosihan_Anwar	diedIn	Jakarta
+Rosihan_Anwar	diedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Nyoman_Rudana	isCitizenOf	Indonesia
+Nyoman_Rudana	isCitizenOf	Indonesia
+Nyoman_Rudana	livesIn	Jakarta
+Nyoman_Rudana	livesIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Putri_yang_Ditukar	isLocatedIn	Indonesia
+Putri_yang_Ditukar	isLocatedIn	Indonesia
+SinemArt	created	Putri_yang_Ditukar
+SinemArt	created	Putri_yang_Ditukar
+SinemArt	isLocatedIn	Jakarta
+SinemArt	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Putri_yang_Ditukar	isLocatedIn	Indonesia
+Putri_yang_Ditukar	isLocatedIn	Indonesia
+Putri_yang_Ditukar	isLocatedIn	Jakarta
+Putri_yang_Ditukar	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+T._B._Simatupang	isCitizenOf	Indonesia
+T._B._Simatupang	isCitizenOf	Indonesia
+T._B._Simatupang	diedIn	Jakarta
+T._B._Simatupang	diedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Merpati_Nusantara_Airlines	isLocatedIn	Indonesia
+Merpati_Nusantara_Airlines	isLocatedIn	Indonesia
+Merpati_Nusantara_Airlines	isLocatedIn	Jakarta
+Merpati_Nusantara_Airlines	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Merpati_Nusantara_Airlines	isLocatedIn	Indonesia
+Merpati_Nusantara_Airlines	isLocatedIn	Indonesia
+Merpati_Nusantara_Airlines	isLocatedIn	Central_Jakarta
+Merpati_Nusantara_Airlines	isLocatedIn	Central_Jakarta
+Central_Jakarta	isLocatedIn	Jakarta
+Central_Jakarta	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Indonesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Jakarta
+Indonesia	Jakarta
+Bunga_Citra_Lestari	isCitizenOf	Indonesia
+Bunga_Citra_Lestari	isCitizenOf	Indonesia
+Bunga_Citra_Lestari	wasBornIn	Jakarta
+Bunga_Citra_Lestari	wasBornIn	Jakarta
+
+http://dbpedia.org/resource/Nakhichevan_Autonomous_Soviet_Socialist_Republic	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Nakhchivan_(city)
+Nakhichevan_Autonomous_Soviet_Socialist_Republic	Nakhchivan_(city)
+Nakhichevan_Autonomous_Soviet_Socialist_Republic	hasCapital	Nakhchivan_(city)
+Nakhichevan_Autonomous_Soviet_Socialist_Republic	hasCapital	Nakhchivan_(city)
+
+http://dbpedia.org/resource/Nakhichevan_Autonomous_Soviet_Socialist_Republic	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Nakhchivan_(city)
+Nakhichevan_Autonomous_Soviet_Socialist_Republic	Nakhchivan_(city)
+Vagif_Aliyev	wasBornIn	Nakhichevan_Autonomous_Soviet_Socialist_Republic
+Vagif_Aliyev	wasBornIn	Nakhichevan_Autonomous_Soviet_Socialist_Republic
+Vagif_Aliyev	wasBornIn	Nakhichevan_Autonomous_Soviet_Socialist_Republic
+Vagif_Aliyev	wasBornIn	Nakhichevan_Autonomous_Soviet_Socialist_Republic
+Nakhichevan_Autonomous_Soviet_Socialist_Republic	hasCapital	Nakhchivan_(city)
+Nakhichevan_Autonomous_Soviet_Socialist_Republic	hasCapital	Nakhchivan_(city)
+
+http://dbpedia.org/resource/Nakhichevan_Autonomous_Soviet_Socialist_Republic	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Nakhchivan_(city)
+Nakhichevan_Autonomous_Soviet_Socialist_Republic	Nakhchivan_(city)
+Vagif_Aliyev	wasBornIn	Nakhichevan_Autonomous_Soviet_Socialist_Republic
+Vagif_Aliyev	wasBornIn	Nakhichevan_Autonomous_Soviet_Socialist_Republic
+Vagif_Aliyev	isAffiliatedTo	New_Azerbaijan_Party
+Vagif_Aliyev	isAffiliatedTo	New_Azerbaijan_Party
+New_Azerbaijan_Party	isLocatedIn	Nakhchivan_(city)
+New_Azerbaijan_Party	isLocatedIn	Nakhchivan_(city)
+
+http://dbpedia.org/resource/Nakhichevan_Autonomous_Soviet_Socialist_Republic	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Nakhchivan_(city)
+Nakhichevan_Autonomous_Soviet_Socialist_Republic	Nakhchivan_(city)
+Abulfaz_Elchibey	wasBornIn	Nakhichevan_Autonomous_Soviet_Socialist_Republic
+Abulfaz_Elchibey	wasBornIn	Nakhichevan_Autonomous_Soviet_Socialist_Republic
+Abulfaz_Elchibey	wasBornIn	Nakhichevan_Autonomous_Soviet_Socialist_Republic
+Abulfaz_Elchibey	wasBornIn	Nakhichevan_Autonomous_Soviet_Socialist_Republic
+Nakhichevan_Autonomous_Soviet_Socialist_Republic	hasCapital	Nakhchivan_(city)
+Nakhichevan_Autonomous_Soviet_Socialist_Republic	hasCapital	Nakhchivan_(city)
+
+http://dbpedia.org/resource/Faroe_Islands	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Tórshavn
+Faroe_Islands	Tórshavn
+Jakob_Jakobsen	isCitizenOf	Faroe_Islands
+Jakob_Jakobsen	isCitizenOf	Faroe_Islands
+Jakob_Jakobsen	wasBornIn	Tórshavn
+Jakob_Jakobsen	wasBornIn	Tórshavn
+
+http://dbpedia.org/resource/Faroe_Islands	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Tórshavn
+Faroe_Islands	Tórshavn
+Sirið_Stenberg	isCitizenOf	Faroe_Islands
+Sirið_Stenberg	isPoliticianOf	Faroe_Islands
+Sirið_Stenberg	isCitizenOf	Faroe_Islands
+Sirið_Stenberg	isPoliticianOf	Faroe_Islands
+Sirið_Stenberg	isAffiliatedTo	Republic_(Faroe_Islands)
+Sirið_Stenberg	isAffiliatedTo	Republic_(Faroe_Islands)
+Republic_(Faroe_Islands)	isLocatedIn	Tórshavn
+Republic_(Faroe_Islands)	isLocatedIn	Tórshavn
+
+http://dbpedia.org/resource/Faroe_Islands	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Tórshavn
+Faroe_Islands	Tórshavn
+Bárður_Hansen	isCitizenOf	Faroe_Islands
+Bárður_Hansen	isCitizenOf	Faroe_Islands
+Bárður_Hansen	wasBornIn	Tórshavn
+Bárður_Hansen	wasBornIn	Tórshavn
+
+http://dbpedia.org/resource/Faroe_Islands	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Tórshavn
+Faroe_Islands	Tórshavn
+Tvøroyri	isLocatedIn	Faroe_Islands
+Tvøroyri	isLocatedIn	Faroe_Islands
+Atli_Dam	wasBornIn	Tvøroyri
+Atli_Dam	wasBornIn	Tvøroyri
+Atli_Dam	diedIn	Tórshavn
+Atli_Dam	diedIn	Tórshavn
+
+http://dbpedia.org/resource/Fukuoka_Prefecture	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Fukuoka
+Fukuoka_Prefecture	Fukuoka
+Fukuoka	isLocatedIn	Fukuoka_Prefecture
+Fukuoka_Prefecture	isLocatedIn	Fukuoka
+Fukuoka_Prefecture	hasCapital	Fukuoka
+Fukuoka	isLocatedIn	Fukuoka_Prefecture
+Fukuoka_Prefecture	isLocatedIn	Fukuoka
+Fukuoka_Prefecture	hasCapital	Fukuoka
+
+http://dbpedia.org/resource/Fukuoka_Prefecture	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Fukuoka
+Fukuoka_Prefecture	Fukuoka
+Riki_Takasaki	wasBornIn	Fukuoka_Prefecture
+Riki_Takasaki	wasBornIn	Fukuoka_Prefecture
+Riki_Takasaki	wasBornIn	Fukuoka_Prefecture
+Riki_Takasaki	wasBornIn	Fukuoka_Prefecture
+Fukuoka	isLocatedIn	Fukuoka_Prefecture
+Fukuoka_Prefecture	isLocatedIn	Fukuoka
+Fukuoka_Prefecture	hasCapital	Fukuoka
+Fukuoka	isLocatedIn	Fukuoka_Prefecture
+Fukuoka_Prefecture	isLocatedIn	Fukuoka
+Fukuoka_Prefecture	hasCapital	Fukuoka
+
+http://dbpedia.org/resource/Fukuoka_Prefecture	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Fukuoka
+Fukuoka_Prefecture	Fukuoka
+Higashi-ku,_Fukuoka	isLocatedIn	Fukuoka_Prefecture
+Higashi-ku,_Fukuoka	isLocatedIn	Fukuoka_Prefecture
+Higashi-ku,_Fukuoka	isLocatedIn	Fukuoka
+Higashi-ku,_Fukuoka	isLocatedIn	Fukuoka
+
+http://dbpedia.org/resource/Fukuoka_Prefecture	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Fukuoka
+Fukuoka_Prefecture	Fukuoka
+Higashi-ku,_Fukuoka	isLocatedIn	Fukuoka_Prefecture
+Higashi-ku,_Fukuoka	isLocatedIn	Fukuoka_Prefecture
+Higashi-ku,_Fukuoka	isLocatedIn	Kyushu
+Higashi-ku,_Fukuoka	isLocatedIn	Kyushu
+Fukuoka	isLocatedIn	Kyushu
+Fukuoka	isLocatedIn	Kyushu
+
+http://dbpedia.org/resource/Fukuoka_Prefecture	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Fukuoka
+Fukuoka_Prefecture	Fukuoka
+Higashi-ku,_Fukuoka	isLocatedIn	Fukuoka_Prefecture
+Higashi-ku,_Fukuoka	isLocatedIn	Fukuoka_Prefecture
+Higashi-ku,_Fukuoka	isLocatedIn	Fukuoka_Prefecture
+Higashi-ku,_Fukuoka	isLocatedIn	Fukuoka_Prefecture
+Fukuoka	isLocatedIn	Fukuoka_Prefecture
+Fukuoka_Prefecture	isLocatedIn	Fukuoka
+Fukuoka_Prefecture	hasCapital	Fukuoka
+Fukuoka	isLocatedIn	Fukuoka_Prefecture
+Fukuoka_Prefecture	isLocatedIn	Fukuoka
+Fukuoka_Prefecture	hasCapital	Fukuoka
+
+http://dbpedia.org/resource/Fukuoka_Prefecture	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Fukuoka
+Fukuoka_Prefecture	Fukuoka
+Fukuoka_Prefecture	isLocatedIn	Kyushu
+Fukuoka_Prefecture	isLocatedIn	Kyushu
+Fukuoka	isLocatedIn	Kyushu
+Fukuoka	isLocatedIn	Kyushu
+
+http://dbpedia.org/resource/Fukuoka_Prefecture	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Fukuoka
+Fukuoka_Prefecture	Fukuoka
+Fukuoka_Prefecture	isLocatedIn	Kyushu
+Fukuoka_Prefecture	isLocatedIn	Kyushu
+Higashi-ku,_Fukuoka	isLocatedIn	Kyushu
+Higashi-ku,_Fukuoka	isLocatedIn	Kyushu
+Higashi-ku,_Fukuoka	isLocatedIn	Fukuoka
+Higashi-ku,_Fukuoka	isLocatedIn	Fukuoka
+
+http://dbpedia.org/resource/Fukuoka_Prefecture	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Fukuoka
+Fukuoka_Prefecture	Fukuoka
+Fukuoka_Prefecture	isLocatedIn	Kyushu
+Fukuoka_Prefecture	isLocatedIn	Kyushu
+Fukuoka_Prefecture	isLocatedIn	Kyushu
+Fukuoka_Prefecture	isLocatedIn	Kyushu
+Fukuoka	isLocatedIn	Fukuoka_Prefecture
+Fukuoka_Prefecture	isLocatedIn	Fukuoka
+Fukuoka_Prefecture	hasCapital	Fukuoka
+Fukuoka	isLocatedIn	Fukuoka_Prefecture
+Fukuoka_Prefecture	isLocatedIn	Fukuoka
+Fukuoka_Prefecture	hasCapital	Fukuoka
+
+http://dbpedia.org/resource/Fukuoka_Prefecture	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Fukuoka
+Fukuoka_Prefecture	Fukuoka
+Yoshinori_Sembiki	wasBornIn	Fukuoka_Prefecture
+Yoshinori_Sembiki	wasBornIn	Fukuoka_Prefecture
+Yoshinori_Sembiki	wasBornIn	Fukuoka_Prefecture
+Yoshinori_Sembiki	wasBornIn	Fukuoka_Prefecture
+Fukuoka	isLocatedIn	Fukuoka_Prefecture
+Fukuoka_Prefecture	isLocatedIn	Fukuoka
+Fukuoka_Prefecture	hasCapital	Fukuoka
+Fukuoka	isLocatedIn	Fukuoka_Prefecture
+Fukuoka_Prefecture	isLocatedIn	Fukuoka
+Fukuoka_Prefecture	hasCapital	Fukuoka
+
+http://dbpedia.org/resource/Yamanashi_Prefecture	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kōfu
+Yamanashi_Prefecture	Kōfu
+Kōfu	isLocatedIn	Yamanashi_Prefecture
+Yamanashi_Prefecture	hasCapital	Kōfu
+Yamanashi_Prefecture	isLocatedIn	Kōfu
+Kōfu	isLocatedIn	Yamanashi_Prefecture
+Yamanashi_Prefecture	hasCapital	Kōfu
+Yamanashi_Prefecture	isLocatedIn	Kōfu
+
+http://dbpedia.org/resource/Kingdom_of_Chiang_Mai	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Chiang_Mai
+Kingdom_of_Chiang_Mai	Chiang_Mai
+Kaew_Nawarat	wasBornIn	Kingdom_of_Chiang_Mai
+Kaew_Nawarat	wasBornIn	Kingdom_of_Chiang_Mai
+Kaew_Nawarat	hasChild	Chao_Ratchabut_(Wongtawan_Na_Chiang_Mai)
+Kaew_Nawarat	hasChild	Chao_Ratchabut_(Wongtawan_Na_Chiang_Mai)
+Chao_Ratchabut_(Wongtawan_Na_Chiang_Mai)	diedIn	Chiang_Mai
+Chao_Ratchabut_(Wongtawan_Na_Chiang_Mai)	wasBornIn	Chiang_Mai
+Chao_Ratchabut_(Wongtawan_Na_Chiang_Mai)	diedIn	Chiang_Mai
+Chao_Ratchabut_(Wongtawan_Na_Chiang_Mai)	wasBornIn	Chiang_Mai
+
+http://dbpedia.org/resource/Kingdom_of_Chiang_Mai	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Chiang_Mai
+Kingdom_of_Chiang_Mai	Chiang_Mai
+Kaew_Nawarat	wasBornIn	Kingdom_of_Chiang_Mai
+Kaew_Nawarat	wasBornIn	Kingdom_of_Chiang_Mai
+Inthawichayanon	hasChild	Kaew_Nawarat
+Inthawichayanon	hasChild	Kaew_Nawarat
+Inthawichayanon	diedIn	Chiang_Mai
+Inthawichayanon	diedIn	Chiang_Mai
+
+http://dbpedia.org/resource/Kingdom_of_Chiang_Mai	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Chiang_Mai
+Kingdom_of_Chiang_Mai	Chiang_Mai
+Kaew_Nawarat	wasBornIn	Kingdom_of_Chiang_Mai
+Kaew_Nawarat	wasBornIn	Kingdom_of_Chiang_Mai
+Kaew_Nawarat	wasBornIn	Kingdom_of_Chiang_Mai
+Kaew_Nawarat	wasBornIn	Kingdom_of_Chiang_Mai
+Kingdom_of_Chiang_Mai	hasCapital	Chiang_Mai
+Kingdom_of_Chiang_Mai	hasCapital	Chiang_Mai
+
+http://dbpedia.org/resource/Kingdom_of_Chiang_Mai	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Chiang_Mai
+Kingdom_of_Chiang_Mai	Chiang_Mai
+Kaew_Nawarat	wasBornIn	Kingdom_of_Chiang_Mai
+Kaew_Nawarat	wasBornIn	Kingdom_of_Chiang_Mai
+Kaew_Nawarat	diedIn	Chiang_Mai
+Kaew_Nawarat	diedIn	Chiang_Mai
+
+http://dbpedia.org/resource/Kingdom_of_Chiang_Mai	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Chiang_Mai
+Kingdom_of_Chiang_Mai	Chiang_Mai
+Kaew_Nawarat	wasBornIn	Kingdom_of_Chiang_Mai
+Kaew_Nawarat	wasBornIn	Kingdom_of_Chiang_Mai
+Kaew_Nawarat	isCitizenOf	Thailand
+Kaew_Nawarat	isCitizenOf	Thailand
+Chiang_Mai	isLocatedIn	Thailand
+Chiang_Mai	isLocatedIn	Thailand
+
+http://dbpedia.org/resource/Kingdom_of_Chiang_Mai	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Chiang_Mai
+Kingdom_of_Chiang_Mai	Chiang_Mai
+Kingdom_of_Chiang_Mai	isLocatedIn	Thailand
+Kingdom_of_Chiang_Mai	isLocatedIn	Thailand
+Chiang_Mai	isLocatedIn	Thailand
+Chiang_Mai	isLocatedIn	Thailand
+
+http://dbpedia.org/resource/Kingdom_of_Chiang_Mai	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Chiang_Mai
+Kingdom_of_Chiang_Mai	Chiang_Mai
+Inthawichayanon	wasBornIn	Kingdom_of_Chiang_Mai
+Inthawichayanon	wasBornIn	Kingdom_of_Chiang_Mai
+Inthawichayanon	isCitizenOf	Thailand
+Inthawichayanon	isCitizenOf	Thailand
+Chiang_Mai	isLocatedIn	Thailand
+Chiang_Mai	isLocatedIn	Thailand
+
+http://dbpedia.org/resource/Kingdom_of_Chiang_Mai	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Chiang_Mai
+Kingdom_of_Chiang_Mai	Chiang_Mai
+Inthawichayanon	wasBornIn	Kingdom_of_Chiang_Mai
+Inthawichayanon	wasBornIn	Kingdom_of_Chiang_Mai
+Inthawichayanon	hasChild	Kaew_Nawarat
+Inthawichayanon	hasChild	Kaew_Nawarat
+Kaew_Nawarat	diedIn	Chiang_Mai
+Kaew_Nawarat	diedIn	Chiang_Mai
+
+http://dbpedia.org/resource/Kingdom_of_Chiang_Mai	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Chiang_Mai
+Kingdom_of_Chiang_Mai	Chiang_Mai
+Inthawichayanon	wasBornIn	Kingdom_of_Chiang_Mai
+Inthawichayanon	wasBornIn	Kingdom_of_Chiang_Mai
+Inthawichayanon	diedIn	Chiang_Mai
+Inthawichayanon	diedIn	Chiang_Mai
+
+http://dbpedia.org/resource/Kingdom_of_Chiang_Mai	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Chiang_Mai
+Kingdom_of_Chiang_Mai	Chiang_Mai
+Inthawichayanon	wasBornIn	Kingdom_of_Chiang_Mai
+Inthawichayanon	wasBornIn	Kingdom_of_Chiang_Mai
+Inthawichayanon	wasBornIn	Kingdom_of_Chiang_Mai
+Inthawichayanon	wasBornIn	Kingdom_of_Chiang_Mai
+Kingdom_of_Chiang_Mai	hasCapital	Chiang_Mai
+Kingdom_of_Chiang_Mai	hasCapital	Chiang_Mai
+
+http://dbpedia.org/resource/Kingdom_of_Chiang_Mai	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Chiang_Mai
+Kingdom_of_Chiang_Mai	Chiang_Mai
+Dara_Rasmi	wasBornIn	Kingdom_of_Chiang_Mai
+Dara_Rasmi	wasBornIn	Kingdom_of_Chiang_Mai
+Dara_Rasmi	isCitizenOf	Thailand
+Dara_Rasmi	isCitizenOf	Thailand
+Chiang_Mai	isLocatedIn	Thailand
+Chiang_Mai	isLocatedIn	Thailand
+
+http://dbpedia.org/resource/Kingdom_of_Chiang_Mai	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Chiang_Mai
+Kingdom_of_Chiang_Mai	Chiang_Mai
+Kingdom_of_Chiang_Mai	hasCapital	Chiang_Mai
+Kingdom_of_Chiang_Mai	hasCapital	Chiang_Mai
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+David_L._Cohen	livesIn	Pennsylvania
+David_L._Cohen	livesIn	Pennsylvania
+David_L._Cohen	livesIn	Pennsylvania
+David_L._Cohen	livesIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Tonoloway_Ridge	isLocatedIn	Pennsylvania
+Tonoloway_Ridge	isLocatedIn	Pennsylvania
+Tonoloway_Ridge	isLocatedIn	Pennsylvania
+Tonoloway_Ridge	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+McKean_County,_Pennsylvania	isLocatedIn	Pennsylvania
+McKean_County,_Pennsylvania	isLocatedIn	Pennsylvania
+McKean_County,_Pennsylvania	isLocatedIn	Pennsylvania
+McKean_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Schuylkill_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Schuylkill_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Schuylkill_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Schuylkill_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+McKeesport,_Pennsylvania	isLocatedIn	Pennsylvania
+McKeesport,_Pennsylvania	isLocatedIn	Pennsylvania
+McKeesport,_Pennsylvania	isLocatedIn	Pennsylvania
+McKeesport,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Swarthmore_College	isLocatedIn	Pennsylvania
+Swarthmore_College	isLocatedIn	Pennsylvania
+Swarthmore_College	isLocatedIn	Pennsylvania
+Swarthmore_College	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Monongahela,_Pennsylvania	isLocatedIn	Pennsylvania
+Monongahela,_Pennsylvania	isLocatedIn	Pennsylvania
+Monongahela,_Pennsylvania	isLocatedIn	Pennsylvania
+Monongahela,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Erie,_Pennsylvania	isLocatedIn	Pennsylvania
+Erie,_Pennsylvania	isLocatedIn	Pennsylvania
+Erie,_Pennsylvania	isLocatedIn	Pennsylvania
+Erie,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Spectrum_(arena)	isLocatedIn	Pennsylvania
+Spectrum_(arena)	isLocatedIn	Pennsylvania
+Spectrum_(arena)	isLocatedIn	Pennsylvania
+Spectrum_(arena)	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Mead_Township,_Warren_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Mead_Township,_Warren_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Mead_Township,_Warren_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Mead_Township,_Warren_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Allegheny_River	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Bob_Anspach	livesIn	Pennsylvania
+Bob_Anspach	livesIn	Pennsylvania
+Bob_Anspach	wasBornIn	Harrisburg,_Pennsylvania
+Bob_Anspach	wasBornIn	Harrisburg,_Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Bob_Anspach	livesIn	Pennsylvania
+Bob_Anspach	livesIn	Pennsylvania
+Bob_Anspach	livesIn	Pennsylvania
+Bob_Anspach	livesIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Interstate_95	isLocatedIn	Pennsylvania
+Interstate_95	isLocatedIn	Pennsylvania
+Interstate_95	isLocatedIn	Pennsylvania
+Interstate_95	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Moon_Township,_Allegheny_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Moon_Township,_Allegheny_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Moon_Township,_Allegheny_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Moon_Township,_Allegheny_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+WACP	isLocatedIn	Pennsylvania
+WACP	isLocatedIn	Pennsylvania
+WACP	isLocatedIn	Pennsylvania
+WACP	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Fulton_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Fulton_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Fulton_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Fulton_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Berks_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Berks_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Berks_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Berks_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Ambridge,_Pennsylvania	isLocatedIn	Pennsylvania
+Ambridge,_Pennsylvania	isLocatedIn	Pennsylvania
+Ambridge,_Pennsylvania	isLocatedIn	Pennsylvania
+Ambridge,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Bethlehem,_Pennsylvania	isLocatedIn	Pennsylvania
+Bethlehem,_Pennsylvania	isLocatedIn	Pennsylvania
+Bethlehem,_Pennsylvania	isLocatedIn	Pennsylvania
+Bethlehem,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Cranberry_Township,_Butler_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Cranberry_Township,_Butler_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Cranberry_Township,_Butler_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Cranberry_Township,_Butler_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+University_of_Pennsylvania_Law_School	isLocatedIn	Pennsylvania
+University_of_Pennsylvania_Law_School	isLocatedIn	Pennsylvania
+University_of_Pennsylvania_Law_School	isLocatedIn	Pennsylvania
+University_of_Pennsylvania_Law_School	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Richard_Helms	wasBornIn	Pennsylvania
+Richard_Helms	wasBornIn	Pennsylvania
+Richard_Helms	wasBornIn	Pennsylvania
+Richard_Helms	wasBornIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Joseph_Gallian	wasBornIn	Pennsylvania
+Joseph_Gallian	wasBornIn	Pennsylvania
+Joseph_Gallian	wasBornIn	Pennsylvania
+Joseph_Gallian	wasBornIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Seven_Springs,_Pennsylvania	isLocatedIn	Pennsylvania
+Seven_Springs,_Pennsylvania	isLocatedIn	Pennsylvania
+Seven_Springs,_Pennsylvania	isLocatedIn	Pennsylvania
+Seven_Springs,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Robert_Jubelirer	isPoliticianOf	Pennsylvania
+Robert_Jubelirer	isPoliticianOf	Pennsylvania
+Robert_Jubelirer	isPoliticianOf	Pennsylvania
+Robert_Jubelirer	isPoliticianOf	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Del_Vaughn	livesIn	Pennsylvania
+Del_Vaughn	livesIn	Pennsylvania
+Del_Vaughn	diedIn	Harrisburg,_Pennsylvania
+Del_Vaughn	diedIn	Harrisburg,_Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Del_Vaughn	livesIn	Pennsylvania
+Del_Vaughn	livesIn	Pennsylvania
+Del_Vaughn	livesIn	Pennsylvania
+Del_Vaughn	livesIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Pennsylvania
+Butler,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+M._Ilyas_Kamboh	livesIn	Pennsylvania
+M._Ilyas_Kamboh	livesIn	Pennsylvania
+M._Ilyas_Kamboh	livesIn	Pennsylvania
+M._Ilyas_Kamboh	livesIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Shadyside_(Pittsburgh)	isLocatedIn	Pennsylvania
+Shadyside_(Pittsburgh)	isLocatedIn	Pennsylvania
+Shadyside_(Pittsburgh)	isLocatedIn	Pennsylvania
+Shadyside_(Pittsburgh)	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Aaron_T._Beck	livesIn	Pennsylvania
+Aaron_T._Beck	livesIn	Pennsylvania
+Aaron_T._Beck	livesIn	Pennsylvania
+Aaron_T._Beck	livesIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Westmoreland_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Westmoreland_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Westmoreland_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Westmoreland_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Pat_Toomey	isPoliticianOf	Pennsylvania
+Pat_Toomey	isPoliticianOf	Pennsylvania
+Pat_Toomey	isPoliticianOf	Pennsylvania
+Pat_Toomey	isPoliticianOf	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Hempfield_Township,_Westmoreland_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Hempfield_Township,_Westmoreland_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Hempfield_Township,_Westmoreland_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Hempfield_Township,_Westmoreland_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Turkeyfoot_Valley_Area_Junior/Senior_High_School	isLocatedIn	Pennsylvania
+Turkeyfoot_Valley_Area_Junior/Senior_High_School	isLocatedIn	Pennsylvania
+Turkeyfoot_Valley_Area_Junior/Senior_High_School	isLocatedIn	Pennsylvania
+Turkeyfoot_Valley_Area_Junior/Senior_High_School	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Latrobe,_Pennsylvania	isLocatedIn	Pennsylvania
+Latrobe,_Pennsylvania	isLocatedIn	Pennsylvania
+Latrobe,_Pennsylvania	isLocatedIn	Pennsylvania
+Latrobe,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Saint_Joseph's_University	isLocatedIn	Pennsylvania
+Saint_Joseph's_University	isLocatedIn	Pennsylvania
+Saint_Joseph's_University	isLocatedIn	Pennsylvania
+Saint_Joseph's_University	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Trinity_High_School_(Camp_Hill,_Pennsylvania)	isLocatedIn	Pennsylvania
+Trinity_High_School_(Camp_Hill,_Pennsylvania)	isLocatedIn	Pennsylvania
+Trinity_High_School_(Camp_Hill,_Pennsylvania)	isLocatedIn	Pennsylvania
+Trinity_High_School_(Camp_Hill,_Pennsylvania)	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Spring_Township,_Centre_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Spring_Township,_Centre_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Spring_Township,_Centre_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Spring_Township,_Centre_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Philadelphia_Cricket_Club	isLocatedIn	Pennsylvania
+Philadelphia_Cricket_Club	isLocatedIn	Pennsylvania
+Philadelphia_Cricket_Club	isLocatedIn	Pennsylvania
+Philadelphia_Cricket_Club	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Squirrel_Hill_(Pittsburgh)	isLocatedIn	Pennsylvania
+Squirrel_Hill_(Pittsburgh)	isLocatedIn	Pennsylvania
+Squirrel_Hill_(Pittsburgh)	isLocatedIn	Pennsylvania
+Squirrel_Hill_(Pittsburgh)	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Fox_Chapel,_Pennsylvania	isLocatedIn	Pennsylvania
+Fox_Chapel,_Pennsylvania	isLocatedIn	Pennsylvania
+Fox_Chapel,_Pennsylvania	isLocatedIn	Pennsylvania
+Fox_Chapel,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+The_Vanguard_Group	isLocatedIn	Pennsylvania
+The_Vanguard_Group	isLocatedIn	Pennsylvania
+The_Vanguard_Group	isLocatedIn	Pennsylvania
+The_Vanguard_Group	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Shamokin,_Pennsylvania	isLocatedIn	Pennsylvania
+Shamokin,_Pennsylvania	isLocatedIn	Pennsylvania
+Shamokin,_Pennsylvania	isLocatedIn	Pennsylvania
+Shamokin,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+University_of_Pennsylvania	isLocatedIn	Pennsylvania
+University_of_Pennsylvania	isLocatedIn	Pennsylvania
+University_of_Pennsylvania	isLocatedIn	Pennsylvania
+University_of_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Carrick_(Pittsburgh)	isLocatedIn	Pennsylvania
+Carrick_(Pittsburgh)	isLocatedIn	Pennsylvania
+Carrick_(Pittsburgh)	isLocatedIn	Pennsylvania
+Carrick_(Pittsburgh)	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Frank_Polaski	livesIn	Pennsylvania
+Frank_Polaski	livesIn	Pennsylvania
+Frank_Polaski	livesIn	Pennsylvania
+Frank_Polaski	livesIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Berlin_Township,_Wayne_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Berlin_Township,_Wayne_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Berlin_Township,_Wayne_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Berlin_Township,_Wayne_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Sharon_Needles	livesIn	Pennsylvania
+Sharon_Needles	livesIn	Pennsylvania
+Sharon_Needles	livesIn	Pennsylvania
+Sharon_Needles	livesIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+State_Correctional_Institution_–_Forest	isLocatedIn	Pennsylvania
+State_Correctional_Institution_–_Forest	isLocatedIn	Pennsylvania
+State_Correctional_Institution_–_Forest	isLocatedIn	Pennsylvania
+State_Correctional_Institution_–_Forest	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Battle_of_Gettysburg	happenedIn	Pennsylvania
+Battle_of_Gettysburg	happenedIn	Pennsylvania
+Battle_of_Gettysburg	happenedIn	Pennsylvania
+Battle_of_Gettysburg	happenedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Slickville,_Pennsylvania	isLocatedIn	Pennsylvania
+Slickville,_Pennsylvania	isLocatedIn	Pennsylvania
+Slickville,_Pennsylvania	isLocatedIn	Pennsylvania
+Slickville,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+U.S._Route_6	isLocatedIn	Pennsylvania
+U.S._Route_6	isLocatedIn	Pennsylvania
+U.S._Route_6	isLocatedIn	Pennsylvania
+U.S._Route_6	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Montrose,_Pennsylvania	isLocatedIn	Pennsylvania
+Montrose,_Pennsylvania	isLocatedIn	Pennsylvania
+Montrose,_Pennsylvania	isLocatedIn	Pennsylvania
+Montrose,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Gettysburg_College	isLocatedIn	Pennsylvania
+Gettysburg_College	isLocatedIn	Pennsylvania
+Gettysburg_College	isLocatedIn	Pennsylvania
+Gettysburg_College	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Delaware_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Delaware_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Delaware_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Delaware_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Sinking_Spring,_Pennsylvania	isLocatedIn	Pennsylvania
+Sinking_Spring,_Pennsylvania	isLocatedIn	Pennsylvania
+Sinking_Spring,_Pennsylvania	isLocatedIn	Pennsylvania
+Sinking_Spring,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Armstrong_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Armstrong_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Armstrong_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Armstrong_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Wharton_School_of_the_University_of_Pennsylvania	isLocatedIn	Pennsylvania
+Wharton_School_of_the_University_of_Pennsylvania	isLocatedIn	Pennsylvania
+Wharton_School_of_the_University_of_Pennsylvania	isLocatedIn	Pennsylvania
+Wharton_School_of_the_University_of_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+WDCV-FM	isLocatedIn	Pennsylvania
+WDCV-FM	isLocatedIn	Pennsylvania
+WDCV-FM	isLocatedIn	Pennsylvania
+WDCV-FM	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Andrew_Sears	livesIn	Pennsylvania
+Andrew_Sears	livesIn	Pennsylvania
+Andrew_Sears	livesIn	Pennsylvania
+Andrew_Sears	livesIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Pittston,_Pennsylvania	isLocatedIn	Pennsylvania
+Pittston,_Pennsylvania	isLocatedIn	Pennsylvania
+Pittston,_Pennsylvania	isLocatedIn	Pennsylvania
+Pittston,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Schlusser,_Pennsylvania	isLocatedIn	Pennsylvania
+Schlusser,_Pennsylvania	isLocatedIn	Pennsylvania
+Schlusser,_Pennsylvania	isLocatedIn	Pennsylvania
+Schlusser,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Damascus_Township,_Wayne_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Damascus_Township,_Wayne_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Damascus_Township,_Wayne_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Damascus_Township,_Wayne_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Canton,_Pennsylvania	isLocatedIn	Pennsylvania
+Canton,_Pennsylvania	isLocatedIn	Pennsylvania
+Canton,_Pennsylvania	isLocatedIn	Pennsylvania
+Canton,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Louis_Payne	wasBornIn	Pennsylvania
+Louis_Payne	wasBornIn	Pennsylvania
+Louis_Payne	wasBornIn	Pennsylvania
+Louis_Payne	wasBornIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Tinicum_Township,_Delaware_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Tinicum_Township,_Delaware_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Tinicum_Township,_Delaware_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Tinicum_Township,_Delaware_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+King's_College_(Pennsylvania)	isLocatedIn	Pennsylvania
+King's_College_(Pennsylvania)	isLocatedIn	Pennsylvania
+King's_College_(Pennsylvania)	isLocatedIn	Pennsylvania
+King's_College_(Pennsylvania)	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Kermit_Roosevelt_III	livesIn	Pennsylvania
+Kermit_Roosevelt_III	livesIn	Pennsylvania
+Kermit_Roosevelt_III	livesIn	Pennsylvania
+Kermit_Roosevelt_III	livesIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Misericordia_University	isLocatedIn	Pennsylvania
+Misericordia_University	isLocatedIn	Pennsylvania
+Misericordia_University	isLocatedIn	Pennsylvania
+Misericordia_University	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Cambria_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Cambria_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Cambria_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Cambria_County,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Pennsylvania	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Harrisburg,_Pennsylvania
+Pennsylvania	Harrisburg,_Pennsylvania
+Fern_Rock,_Philadelphia	isLocatedIn	Pennsylvania
+Fern_Rock,_Philadelphia	isLocatedIn	Pennsylvania
+Fern_Rock,_Philadelphia	isLocatedIn	Pennsylvania
+Fern_Rock,_Philadelphia	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+Pennsylvania	hasCapital	Harrisburg,_Pennsylvania
+Harrisburg,_Pennsylvania	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/Arizona_Territory	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Tucson,_Arizona
+Arizona_Territory	Tucson,_Arizona
+John_N._Irwin	isPoliticianOf	Arizona_Territory
+John_N._Irwin	isPoliticianOf	Arizona_Territory
+John_N._Irwin	isPoliticianOf	Arizona_Territory
+John_N._Irwin	isPoliticianOf	Arizona_Territory
+Arizona_Territory	hasCapital	Tucson,_Arizona
+Arizona_Territory	hasCapital	Tucson,_Arizona
+
+http://dbpedia.org/resource/Arizona_Territory	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Tucson,_Arizona
+Arizona_Territory	Tucson,_Arizona
+Arizona_Territory	hasCapital	Prescott,_Arizona
+Arizona_Territory	hasCapital	Prescott,_Arizona
+Arizona_Territory	hasCapital	Prescott,_Arizona
+Arizona_Territory	hasCapital	Prescott,_Arizona
+Arizona_Territory	hasCapital	Tucson,_Arizona
+Arizona_Territory	hasCapital	Tucson,_Arizona
+
+http://dbpedia.org/resource/Arizona_Territory	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Tucson,_Arizona
+Arizona_Territory	Tucson,_Arizona
+Arizona_Territory	hasCapital	Phoenix,_Arizona
+Arizona_Territory	hasCapital	Phoenix,_Arizona
+Christian_T._Elvey	wasBornIn	Phoenix,_Arizona
+Christian_T._Elvey	wasBornIn	Phoenix,_Arizona
+Christian_T._Elvey	diedIn	Tucson,_Arizona
+Christian_T._Elvey	diedIn	Tucson,_Arizona
+
+http://dbpedia.org/resource/Arizona_Territory	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Tucson,_Arizona
+Arizona_Territory	Tucson,_Arizona
+Arizona_Territory	hasCapital	Tucson,_Arizona
+Arizona_Territory	hasCapital	Tucson,_Arizona
+
+http://dbpedia.org/resource/Malaysia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kuala_Lumpur
+Malaysia	Kuala_Lumpur
+Multimedia_University	isLocatedIn	Malaysia
+Multimedia_University	isLocatedIn	Malaysia
+Multimedia_University	isLocatedIn	Selangor
+Multimedia_University	isLocatedIn	Selangor
+Kuala_Lumpur	isLocatedIn	Selangor
+Kuala_Lumpur	isLocatedIn	Selangor
+
+http://dbpedia.org/resource/Malaysia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kuala_Lumpur
+Malaysia	Kuala_Lumpur
+Sivarasa_Rasiah	isCitizenOf	Malaysia
+Sivarasa_Rasiah	isCitizenOf	Malaysia
+Sivarasa_Rasiah	graduatedFrom	University_of_Malaya
+Sivarasa_Rasiah	graduatedFrom	University_of_Malaya
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+University_of_Malaya	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/Malaysia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kuala_Lumpur
+Malaysia	Kuala_Lumpur
+Sivarasa_Rasiah	isCitizenOf	Malaysia
+Sivarasa_Rasiah	isCitizenOf	Malaysia
+Sivarasa_Rasiah	wasBornIn	Selangor
+Sivarasa_Rasiah	wasBornIn	Selangor
+Kuala_Lumpur	isLocatedIn	Selangor
+Kuala_Lumpur	isLocatedIn	Selangor
+
+http://dbpedia.org/resource/Malaysia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kuala_Lumpur
+Malaysia	Kuala_Lumpur
+Rahah_Noah	isCitizenOf	Malaysia
+Rahah_Noah	isPoliticianOf	Malaysia
+Rahah_Noah	isCitizenOf	Malaysia
+Rahah_Noah	isPoliticianOf	Malaysia
+Rahah_Noah	hasChild	Nazir_Razak
+Rahah_Noah	hasChild	Nazir_Razak
+Nazir_Razak	wasBornIn	Kuala_Lumpur
+Nazir_Razak	wasBornIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/Malaysia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kuala_Lumpur
+Malaysia	Kuala_Lumpur
+Koay_Teng_Hai	isCitizenOf	Malaysia
+Koay_Teng_Hai	isCitizenOf	Malaysia
+Koay_Teng_Hai	isAffiliatedTo	Pakatan_Rakyat
+Koay_Teng_Hai	isAffiliatedTo	Pakatan_Rakyat
+Pakatan_Rakyat	isLocatedIn	Kuala_Lumpur
+Pakatan_Rakyat	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/Malaysia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kuala_Lumpur
+Malaysia	Kuala_Lumpur
+Saifuddin_Nasution_Ismail	isCitizenOf	Malaysia
+Saifuddin_Nasution_Ismail	isCitizenOf	Malaysia
+Saifuddin_Nasution_Ismail	isAffiliatedTo	Pakatan_Rakyat
+Saifuddin_Nasution_Ismail	isAffiliatedTo	Pakatan_Rakyat
+Pakatan_Rakyat	isLocatedIn	Kuala_Lumpur
+Pakatan_Rakyat	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/Malaysia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kuala_Lumpur
+Malaysia	Kuala_Lumpur
+Weeratunge_Edward_Perera	isCitizenOf	Malaysia
+Weeratunge_Edward_Perera	isCitizenOf	Malaysia
+Weeratunge_Edward_Perera	diedIn	Kuala_Lumpur
+Weeratunge_Edward_Perera	diedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/Malaysia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kuala_Lumpur
+Malaysia	Kuala_Lumpur
+Azrinaz_Mazhar_Hakim	isCitizenOf	Malaysia
+Azrinaz_Mazhar_Hakim	isCitizenOf	Malaysia
+Azrinaz_Mazhar_Hakim	wasBornIn	Kuala_Lumpur
+Azrinaz_Mazhar_Hakim	wasBornIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/Malaysia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kuala_Lumpur
+Malaysia	Kuala_Lumpur
+Salamfone	isLocatedIn	Malaysia
+Salamfone	isLocatedIn	Malaysia
+Salamfone	isLocatedIn	Kuala_Lumpur
+Salamfone	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/Malaysia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kuala_Lumpur
+Malaysia	Kuala_Lumpur
+Salamfone	isLocatedIn	Malaysia
+Salamfone	isLocatedIn	Malaysia
+Salamfone	isLocatedIn	Bangsar
+Salamfone	isLocatedIn	Bangsar
+Bangsar	isLocatedIn	Kuala_Lumpur
+Bangsar	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/Malaysia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kuala_Lumpur
+Malaysia	Kuala_Lumpur
+Ngeh_Koo_Ham	isCitizenOf	Malaysia
+Ngeh_Koo_Ham	isCitizenOf	Malaysia
+Ngeh_Koo_Ham	isAffiliatedTo	Pakatan_Harapan
+Ngeh_Koo_Ham	isAffiliatedTo	Pakatan_Harapan
+Pakatan_Harapan	isLocatedIn	Kuala_Lumpur
+Pakatan_Harapan	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/Malaysia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kuala_Lumpur
+Malaysia	Kuala_Lumpur
+Gobind_Singh_Deo	isCitizenOf	Malaysia
+Gobind_Singh_Deo	isCitizenOf	Malaysia
+Karpal_Singh	hasChild	Gobind_Singh_Deo
+Karpal_Singh	hasChild	Gobind_Singh_Deo
+Karpal_Singh	livesIn	Kuala_Lumpur
+Karpal_Singh	livesIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/Malaysia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kuala_Lumpur
+Malaysia	Kuala_Lumpur
+Gobind_Singh_Deo	isCitizenOf	Malaysia
+Gobind_Singh_Deo	isCitizenOf	Malaysia
+Gobind_Singh_Deo	isAffiliatedTo	Pakatan_Rakyat
+Gobind_Singh_Deo	isAffiliatedTo	Pakatan_Rakyat
+Pakatan_Rakyat	isLocatedIn	Kuala_Lumpur
+Pakatan_Rakyat	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/Malaysia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kuala_Lumpur
+Malaysia	Kuala_Lumpur
+Charles_Santiago	isCitizenOf	Malaysia
+Charles_Santiago	isCitizenOf	Malaysia
+Charles_Santiago	isAffiliatedTo	Pakatan_Rakyat
+Charles_Santiago	isAffiliatedTo	Pakatan_Rakyat
+Pakatan_Rakyat	isLocatedIn	Kuala_Lumpur
+Pakatan_Rakyat	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/Malaysia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kuala_Lumpur
+Malaysia	Kuala_Lumpur
+Charles_Santiago	isCitizenOf	Malaysia
+Charles_Santiago	isCitizenOf	Malaysia
+Charles_Santiago	wasBornIn	Selangor
+Charles_Santiago	wasBornIn	Selangor
+Kuala_Lumpur	isLocatedIn	Selangor
+Kuala_Lumpur	isLocatedIn	Selangor
+
+http://dbpedia.org/resource/Malaysia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kuala_Lumpur
+Malaysia	Kuala_Lumpur
+MASkargo	isLocatedIn	Malaysia
+MASkargo	isLocatedIn	Malaysia
+MASkargo	isLocatedIn	Kuala_Lumpur
+MASkargo	isLocatedIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/Malaysia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kuala_Lumpur
+Malaysia	Kuala_Lumpur
+MASkargo	isLocatedIn	Malaysia
+MASkargo	isLocatedIn	Malaysia
+MASkargo	isLocatedIn	Selangor
+MASkargo	isLocatedIn	Selangor
+Kuala_Lumpur	isLocatedIn	Selangor
+Kuala_Lumpur	isLocatedIn	Selangor
+
+http://dbpedia.org/resource/Malaysia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kuala_Lumpur
+Malaysia	Kuala_Lumpur
+Ko_Chung_Sen	isCitizenOf	Malaysia
+Ko_Chung_Sen	isCitizenOf	Malaysia
+Ko_Chung_Sen	wasBornIn	Kuala_Lumpur
+Ko_Chung_Sen	wasBornIn	Kuala_Lumpur
+
+http://dbpedia.org/resource/British_Guiana	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Georgetown,_Guyana
+British_Guiana	Georgetown,_Guyana
+Graeme_Thomson	isPoliticianOf	British_Guiana
+Graeme_Thomson	isPoliticianOf	British_Guiana
+Graeme_Thomson	isPoliticianOf	British_Guiana
+Graeme_Thomson	isPoliticianOf	British_Guiana
+British_Guiana	hasCapital	Georgetown,_Guyana
+British_Guiana	hasCapital	Georgetown,_Guyana
+
+http://dbpedia.org/resource/British_Guiana	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Georgetown,_Guyana
+British_Guiana	Georgetown,_Guyana
+Walter_Egerton	isPoliticianOf	British_Guiana
+Walter_Egerton	isPoliticianOf	British_Guiana
+Walter_Egerton	isPoliticianOf	British_Guiana
+Walter_Egerton	isPoliticianOf	British_Guiana
+British_Guiana	hasCapital	Georgetown,_Guyana
+British_Guiana	hasCapital	Georgetown,_Guyana
+
+http://dbpedia.org/resource/British_Guiana	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Georgetown,_Guyana
+British_Guiana	Georgetown,_Guyana
+British_Guiana	hasCapital	Georgetown,_Guyana
+British_Guiana	hasCapital	Georgetown,_Guyana
+
+http://dbpedia.org/resource/British_Guiana	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Georgetown,_Guyana
+British_Guiana	Georgetown,_Guyana
+Jenico_Preston,_14th_Viscount_Gormanston	isPoliticianOf	British_Guiana
+Jenico_Preston,_14th_Viscount_Gormanston	isPoliticianOf	British_Guiana
+Jenico_Preston,_14th_Viscount_Gormanston	isPoliticianOf	British_Guiana
+Jenico_Preston,_14th_Viscount_Gormanston	isPoliticianOf	British_Guiana
+British_Guiana	hasCapital	Georgetown,_Guyana
+British_Guiana	hasCapital	Georgetown,_Guyana
+
+http://dbpedia.org/resource/British_Guiana	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Georgetown,_Guyana
+British_Guiana	Georgetown,_Guyana
+Francis_Hincks	isPoliticianOf	British_Guiana
+Francis_Hincks	isPoliticianOf	British_Guiana
+Francis_Hincks	isPoliticianOf	British_Guiana
+Francis_Hincks	isPoliticianOf	British_Guiana
+British_Guiana	hasCapital	Georgetown,_Guyana
+British_Guiana	hasCapital	Georgetown,_Guyana
+
+http://dbpedia.org/resource/British_Guiana	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Georgetown,_Guyana
+British_Guiana	Georgetown,_Guyana
+James_Robert_Longden	isPoliticianOf	British_Guiana
+James_Robert_Longden	isPoliticianOf	British_Guiana
+James_Robert_Longden	isPoliticianOf	British_Guiana
+James_Robert_Longden	isPoliticianOf	British_Guiana
+British_Guiana	hasCapital	Georgetown,_Guyana
+British_Guiana	hasCapital	Georgetown,_Guyana
+
+http://dbpedia.org/resource/British_Guiana	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Georgetown,_Guyana
+British_Guiana	Georgetown,_Guyana
+Ptolemy_Reid	wasBornIn	British_Guiana
+Ptolemy_Reid	wasBornIn	British_Guiana
+Ptolemy_Reid	wasBornIn	British_Guiana
+Ptolemy_Reid	wasBornIn	British_Guiana
+British_Guiana	hasCapital	Georgetown,_Guyana
+British_Guiana	hasCapital	Georgetown,_Guyana
+
+http://dbpedia.org/resource/Kingdom_of_Croatia_(925–1102)	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Solin
+Kingdom_of_Croatia_(925–1102)	Solin
+Kingdom_of_Croatia_(925–1102)	participatedIn	Hungarian_invasions_of_Europe
+Kingdom_of_Croatia_(925–1102)	participatedIn	Hungarian_invasions_of_Europe
+Kingdom_of_Croatia_(925–1102)	participatedIn	Hungarian_invasions_of_Europe
+Kingdom_of_Croatia_(925–1102)	participatedIn	Hungarian_invasions_of_Europe
+Kingdom_of_Croatia_(925–1102)	hasCapital	Solin
+Kingdom_of_Croatia_(925–1102)	hasCapital	Solin
+
+http://dbpedia.org/resource/Kingdom_of_Croatia_(925–1102)	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Solin
+Kingdom_of_Croatia_(925–1102)	Solin
+Kingdom_of_Croatia_(925–1102)	participatedIn	Hungarian_invasions_of_Europe
+Kingdom_of_Croatia_(925–1102)	participatedIn	Hungarian_invasions_of_Europe
+Duchy_of_Croatia	participatedIn	Hungarian_invasions_of_Europe
+Duchy_of_Croatia	participatedIn	Hungarian_invasions_of_Europe
+Duchy_of_Croatia	hasCapital	Solin
+Duchy_of_Croatia	hasCapital	Solin
+
+http://dbpedia.org/resource/Kingdom_of_Croatia_(925–1102)	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Solin
+Kingdom_of_Croatia_(925–1102)	Solin
+Kingdom_of_Croatia_(925–1102)	hasCapital	Knin
+Kingdom_of_Croatia_(925–1102)	hasCapital	Knin
+Kingdom_of_Croatia_(925–1102)	hasCapital	Knin
+Kingdom_of_Croatia_(925–1102)	hasCapital	Knin
+Kingdom_of_Croatia_(925–1102)	hasCapital	Solin
+Kingdom_of_Croatia_(925–1102)	hasCapital	Solin
+
+http://dbpedia.org/resource/Kingdom_of_Croatia_(925–1102)	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Solin
+Kingdom_of_Croatia_(925–1102)	Solin
+Kingdom_of_Croatia_(925–1102)	hasCapital	Knin
+Kingdom_of_Croatia_(925–1102)	hasCapital	Knin
+Duchy_of_Croatia	hasCapital	Knin
+Duchy_of_Croatia	hasCapital	Knin
+Duchy_of_Croatia	hasCapital	Solin
+Duchy_of_Croatia	hasCapital	Solin
+
+http://dbpedia.org/resource/Kingdom_of_Croatia_(925–1102)	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Solin
+Kingdom_of_Croatia_(925–1102)	Solin
+Kingdom_of_Croatia_(925–1102)	hasCapital	Solin
+Kingdom_of_Croatia_(925–1102)	hasCapital	Solin
+
+http://dbpedia.org/resource/Kingdom_of_Croatia_(925–1102)	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Solin
+Kingdom_of_Croatia_(925–1102)	Solin
+Kingdom_of_Croatia_(925–1102)	hasCapital	Biograd_na_Moru
+Kingdom_of_Croatia_(925–1102)	hasCapital	Biograd_na_Moru
+Kingdom_of_Croatia_(925–1102)	hasCapital	Biograd_na_Moru
+Kingdom_of_Croatia_(925–1102)	hasCapital	Biograd_na_Moru
+Kingdom_of_Croatia_(925–1102)	hasCapital	Solin
+Kingdom_of_Croatia_(925–1102)	hasCapital	Solin
+
+http://dbpedia.org/resource/Kingdom_of_Croatia_(925–1102)	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Solin
+Kingdom_of_Croatia_(925–1102)	Solin
+Kingdom_of_Croatia_(925–1102)	hasCapital	Nin,_Croatia
+Kingdom_of_Croatia_(925–1102)	hasCapital	Nin,_Croatia
+Kingdom_of_Croatia_(925–1102)	hasCapital	Nin,_Croatia
+Kingdom_of_Croatia_(925–1102)	hasCapital	Nin,_Croatia
+Kingdom_of_Croatia_(925–1102)	hasCapital	Solin
+Kingdom_of_Croatia_(925–1102)	hasCapital	Solin
+
+http://dbpedia.org/resource/Kingdom_of_Croatia_(925–1102)	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Solin
+Kingdom_of_Croatia_(925–1102)	Solin
+Kingdom_of_Croatia_(925–1102)	hasCapital	Nin,_Croatia
+Kingdom_of_Croatia_(925–1102)	hasCapital	Nin,_Croatia
+Duchy_of_Croatia	hasCapital	Nin,_Croatia
+Duchy_of_Croatia	hasCapital	Nin,_Croatia
+Duchy_of_Croatia	hasCapital	Solin
+Duchy_of_Croatia	hasCapital	Solin
+
+http://dbpedia.org/resource/Kingdom_of_Croatia_(925–1102)	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Solin
+Kingdom_of_Croatia_(925–1102)	Solin
+Helen_of_Zadar	diedIn	Kingdom_of_Croatia_(925–1102)
+Helen_of_Zadar	diedIn	Kingdom_of_Croatia_(925–1102)
+Helen_of_Zadar	diedIn	Kingdom_of_Croatia_(925–1102)
+Helen_of_Zadar	diedIn	Kingdom_of_Croatia_(925–1102)
+Kingdom_of_Croatia_(925–1102)	hasCapital	Solin
+Kingdom_of_Croatia_(925–1102)	hasCapital	Solin
+
+http://dbpedia.org/resource/Kingdom_of_Croatia_(925–1102)	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Solin
+Kingdom_of_Croatia_(925–1102)	Solin
+Kingdom_of_Croatia_(925–1102)	participatedIn	Byzantine_conquest_of_Bulgaria
+Kingdom_of_Croatia_(925–1102)	participatedIn	Byzantine_conquest_of_Bulgaria
+Kingdom_of_Croatia_(925–1102)	participatedIn	Byzantine_conquest_of_Bulgaria
+Kingdom_of_Croatia_(925–1102)	participatedIn	Byzantine_conquest_of_Bulgaria
+Kingdom_of_Croatia_(925–1102)	hasCapital	Solin
+Kingdom_of_Croatia_(925–1102)	hasCapital	Solin
+
+http://dbpedia.org/resource/Hyōgo_Prefecture	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kobe
+Hyōgo_Prefecture	Kobe
+Hyōgo_Prefecture	isLocatedIn	Kobe
+Hyōgo_Prefecture	hasCapital	Kobe
+Kobe	isLocatedIn	Hyōgo_Prefecture
+Hyōgo_Prefecture	isLocatedIn	Kobe
+Hyōgo_Prefecture	hasCapital	Kobe
+Kobe	isLocatedIn	Hyōgo_Prefecture
+
+http://dbpedia.org/resource/Hyōgo_Prefecture	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kobe
+Hyōgo_Prefecture	Kobe
+Yuichi_Yoda	wasBornIn	Hyōgo_Prefecture
+Yuichi_Yoda	wasBornIn	Hyōgo_Prefecture
+Yuichi_Yoda	wasBornIn	Hyōgo_Prefecture
+Yuichi_Yoda	wasBornIn	Hyōgo_Prefecture
+Hyōgo_Prefecture	isLocatedIn	Kobe
+Hyōgo_Prefecture	hasCapital	Kobe
+Kobe	isLocatedIn	Hyōgo_Prefecture
+Hyōgo_Prefecture	isLocatedIn	Kobe
+Hyōgo_Prefecture	hasCapital	Kobe
+Kobe	isLocatedIn	Hyōgo_Prefecture
+
+http://dbpedia.org/resource/Hyōgo_Prefecture	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kobe
+Hyōgo_Prefecture	Kobe
+Takashi_Kiyama	wasBornIn	Hyōgo_Prefecture
+Takashi_Kiyama	wasBornIn	Hyōgo_Prefecture
+Takashi_Kiyama	wasBornIn	Hyōgo_Prefecture
+Takashi_Kiyama	wasBornIn	Hyōgo_Prefecture
+Hyōgo_Prefecture	isLocatedIn	Kobe
+Hyōgo_Prefecture	hasCapital	Kobe
+Kobe	isLocatedIn	Hyōgo_Prefecture
+Hyōgo_Prefecture	isLocatedIn	Kobe
+Hyōgo_Prefecture	hasCapital	Kobe
+Kobe	isLocatedIn	Hyōgo_Prefecture
+
+http://dbpedia.org/resource/Hyōgo_Prefecture	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kobe
+Hyōgo_Prefecture	Kobe
+Ryo_Adachi	wasBornIn	Hyōgo_Prefecture
+Ryo_Adachi	wasBornIn	Hyōgo_Prefecture
+Ryo_Adachi	wasBornIn	Hyōgo_Prefecture
+Ryo_Adachi	wasBornIn	Hyōgo_Prefecture
+Hyōgo_Prefecture	isLocatedIn	Kobe
+Hyōgo_Prefecture	hasCapital	Kobe
+Kobe	isLocatedIn	Hyōgo_Prefecture
+Hyōgo_Prefecture	isLocatedIn	Kobe
+Hyōgo_Prefecture	hasCapital	Kobe
+Kobe	isLocatedIn	Hyōgo_Prefecture
+
+http://dbpedia.org/resource/Hyōgo_Prefecture	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Kobe
+Hyōgo_Prefecture	Kobe
+Hiroki_Higuchi	wasBornIn	Hyōgo_Prefecture
+Hiroki_Higuchi	wasBornIn	Hyōgo_Prefecture
+Hiroki_Higuchi	wasBornIn	Hyōgo_Prefecture
+Hiroki_Higuchi	wasBornIn	Hyōgo_Prefecture
+Hyōgo_Prefecture	isLocatedIn	Kobe
+Hyōgo_Prefecture	hasCapital	Kobe
+Kobe	isLocatedIn	Hyōgo_Prefecture
+Hyōgo_Prefecture	isLocatedIn	Kobe
+Hyōgo_Prefecture	hasCapital	Kobe
+Kobe	isLocatedIn	Hyōgo_Prefecture
+
+http://dbpedia.org/resource/Tokushima_Prefecture	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Tokushima,_Tokushima
+Tokushima_Prefecture	Tokushima,_Tokushima
+Tokushima_Prefecture	isLocatedIn	Tokushima,_Tokushima
+Tokushima_Prefecture	hasCapital	Tokushima,_Tokushima
+Tokushima,_Tokushima	isLocatedIn	Tokushima_Prefecture
+Tokushima_Prefecture	isLocatedIn	Tokushima,_Tokushima
+Tokushima_Prefecture	hasCapital	Tokushima,_Tokushima
+Tokushima,_Tokushima	isLocatedIn	Tokushima_Prefecture
+
+http://dbpedia.org/resource/Tokushima_Prefecture	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Tokushima,_Tokushima
+Tokushima_Prefecture	Tokushima,_Tokushima
+Tokonami_Takejirō	isPoliticianOf	Tokushima_Prefecture
+Tokonami_Takejirō	isPoliticianOf	Tokushima_Prefecture
+Tokonami_Takejirō	isPoliticianOf	Tokushima_Prefecture
+Tokonami_Takejirō	isPoliticianOf	Tokushima_Prefecture
+Tokushima_Prefecture	isLocatedIn	Tokushima,_Tokushima
+Tokushima_Prefecture	hasCapital	Tokushima,_Tokushima
+Tokushima,_Tokushima	isLocatedIn	Tokushima_Prefecture
+Tokushima_Prefecture	isLocatedIn	Tokushima,_Tokushima
+Tokushima_Prefecture	hasCapital	Tokushima,_Tokushima
+Tokushima,_Tokushima	isLocatedIn	Tokushima_Prefecture
+
+http://dbpedia.org/resource/Tokushima_Prefecture	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Tokushima,_Tokushima
+Tokushima_Prefecture	Tokushima,_Tokushima
+Masaya_Nishitani	wasBornIn	Tokushima_Prefecture
+Masaya_Nishitani	wasBornIn	Tokushima_Prefecture
+Masaya_Nishitani	wasBornIn	Tokushima_Prefecture
+Masaya_Nishitani	wasBornIn	Tokushima_Prefecture
+Tokushima_Prefecture	isLocatedIn	Tokushima,_Tokushima
+Tokushima_Prefecture	hasCapital	Tokushima,_Tokushima
+Tokushima,_Tokushima	isLocatedIn	Tokushima_Prefecture
+Tokushima_Prefecture	isLocatedIn	Tokushima,_Tokushima
+Tokushima_Prefecture	hasCapital	Tokushima,_Tokushima
+Tokushima,_Tokushima	isLocatedIn	Tokushima_Prefecture
+
+http://dbpedia.org/resource/Tokushima_Prefecture	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Tokushima,_Tokushima
+Tokushima_Prefecture	Tokushima,_Tokushima
+Wenceslau_de_Moraes	diedIn	Tokushima_Prefecture
+Wenceslau_de_Moraes	diedIn	Tokushima_Prefecture
+Wenceslau_de_Moraes	diedIn	Tokushima_Prefecture
+Wenceslau_de_Moraes	diedIn	Tokushima_Prefecture
+Tokushima_Prefecture	isLocatedIn	Tokushima,_Tokushima
+Tokushima_Prefecture	hasCapital	Tokushima,_Tokushima
+Tokushima,_Tokushima	isLocatedIn	Tokushima_Prefecture
+Tokushima_Prefecture	isLocatedIn	Tokushima,_Tokushima
+Tokushima_Prefecture	hasCapital	Tokushima,_Tokushima
+Tokushima,_Tokushima	isLocatedIn	Tokushima_Prefecture
+
+http://dbpedia.org/resource/Kingdom_of_Castile	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Toledo,_Spain
+Kingdom_of_Castile	Toledo,_Spain
+Battle_of_Nájera	happenedIn	Kingdom_of_Castile
+Battle_of_Nájera	happenedIn	Kingdom_of_Castile
+Crown_of_Castile	participatedIn	Battle_of_Nájera
+Crown_of_Castile	participatedIn	Battle_of_Nájera
+Crown_of_Castile	hasCapital	Toledo,_Spain
+Crown_of_Castile	hasCapital	Toledo,_Spain
+
+http://dbpedia.org/resource/Kingdom_of_Castile	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Toledo,_Spain
+Kingdom_of_Castile	Toledo,_Spain
+War_of_the_Spanish_Succession	happenedIn	Kingdom_of_Castile
+War_of_the_Spanish_Succession	happenedIn	Kingdom_of_Castile
+Crown_of_Castile	participatedIn	War_of_the_Spanish_Succession
+Crown_of_Castile	participatedIn	War_of_the_Spanish_Succession
+Crown_of_Castile	hasCapital	Toledo,_Spain
+Crown_of_Castile	hasCapital	Toledo,_Spain
+
+http://dbpedia.org/resource/Kingdom_of_Castile	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Toledo,_Spain
+Kingdom_of_Castile	Toledo,_Spain
+Battle_of_Toro	happenedIn	Kingdom_of_Castile
+Battle_of_Toro	happenedIn	Kingdom_of_Castile
+Battle_of_Toro	happenedIn	Crown_of_Castile
+Battle_of_Toro	happenedIn	Crown_of_Castile
+Crown_of_Castile	hasCapital	Toledo,_Spain
+Crown_of_Castile	hasCapital	Toledo,_Spain
+
+http://dbpedia.org/resource/Lordship_of_Ireland	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Dublin
+Lordship_of_Ireland	Dublin
+Lordship_of_Ireland	participatedIn	Battle_of_Áth_an_Chip
+Lordship_of_Ireland	participatedIn	Battle_of_Áth_an_Chip
+Lordship_of_Ireland	participatedIn	Battle_of_Áth_an_Chip
+Lordship_of_Ireland	participatedIn	Battle_of_Áth_an_Chip
+Lordship_of_Ireland	hasCapital	Dublin
+Lordship_of_Ireland	hasCapital	Dublin
+
+http://dbpedia.org/resource/Lordship_of_Ireland	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Dublin
+Lordship_of_Ireland	Dublin
+Lordship_of_Ireland	participatedIn	Battle_of_Ros-Mhic-Thriúin
+Lordship_of_Ireland	participatedIn	Battle_of_Ros-Mhic-Thriúin
+Lordship_of_Ireland	participatedIn	Battle_of_Ros-Mhic-Thriúin
+Lordship_of_Ireland	participatedIn	Battle_of_Ros-Mhic-Thriúin
+Lordship_of_Ireland	hasCapital	Dublin
+Lordship_of_Ireland	hasCapital	Dublin
+
+http://dbpedia.org/resource/Lordship_of_Ireland	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Dublin
+Lordship_of_Ireland	Dublin
+Lordship_of_Ireland	isLocatedIn	Ireland
+Lordship_of_Ireland	isLocatedIn	Ireland
+Mark_Keane	livesIn	Ireland
+Mark_Keane	livesIn	Ireland
+Mark_Keane	wasBornIn	Dublin
+Mark_Keane	wasBornIn	Dublin
+
+http://dbpedia.org/resource/Lordship_of_Ireland	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Dublin
+Lordship_of_Ireland	Dublin
+Lordship_of_Ireland	isLocatedIn	Ireland
+Lordship_of_Ireland	isLocatedIn	Ireland
+Sky_plc	isLocatedIn	Ireland
+Sky_plc	isLocatedIn	Ireland
+Sky_plc	isLocatedIn	Dublin
+Sky_plc	isLocatedIn	Dublin
+
+http://dbpedia.org/resource/Lordship_of_Ireland	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Dublin
+Lordship_of_Ireland	Dublin
+Lordship_of_Ireland	participatedIn	First_Battle_of_Athenry
+Lordship_of_Ireland	participatedIn	First_Battle_of_Athenry
+Lordship_of_Ireland	participatedIn	First_Battle_of_Athenry
+Lordship_of_Ireland	participatedIn	First_Battle_of_Athenry
+Lordship_of_Ireland	hasCapital	Dublin
+Lordship_of_Ireland	hasCapital	Dublin
+
+http://dbpedia.org/resource/Lordship_of_Ireland	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Dublin
+Lordship_of_Ireland	Dublin
+Lordship_of_Ireland	hasCapital	Dublin
+Lordship_of_Ireland	hasCapital	Dublin
+
+http://dbpedia.org/resource/Lordship_of_Ireland	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Dublin
+Lordship_of_Ireland	Dublin
+Lordship_of_Ireland	isLocatedIn	British_Isles
+Lordship_of_Ireland	isLocatedIn	British_Isles
+Lordship_of_Ireland	isLocatedIn	British_Isles
+Lordship_of_Ireland	isLocatedIn	British_Isles
+Lordship_of_Ireland	hasCapital	Dublin
+Lordship_of_Ireland	hasCapital	Dublin
+
+http://dbpedia.org/resource/Lordship_of_Ireland	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Dublin
+Lordship_of_Ireland	Dublin
+Lordship_of_Ireland	participatedIn	Battle_of_Crécy
+Lordship_of_Ireland	participatedIn	Battle_of_Crécy
+Lordship_of_Ireland	participatedIn	Battle_of_Crécy
+Lordship_of_Ireland	participatedIn	Battle_of_Crécy
+Lordship_of_Ireland	hasCapital	Dublin
+Lordship_of_Ireland	hasCapital	Dublin
+
+http://dbpedia.org/resource/Kamerun	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Douala
+Kamerun	Douala
+Kamerun	participatedIn	Kamerun_Campaign
+Kamerun_Campaign	happenedIn	Kamerun
+Kamerun	participatedIn	Kamerun_Campaign
+Kamerun_Campaign	happenedIn	Kamerun
+Kamerun	participatedIn	Kamerun_Campaign
+Kamerun_Campaign	happenedIn	Kamerun
+Kamerun	participatedIn	Kamerun_Campaign
+Kamerun_Campaign	happenedIn	Kamerun
+Kamerun	hasCapital	Douala
+Kamerun	hasCapital	Douala
+
+http://dbpedia.org/resource/Kamerun	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Douala
+Kamerun	Douala
+Battle_of_Kusseri	happenedIn	Kamerun
+Kamerun	participatedIn	Battle_of_Kusseri
+Battle_of_Kusseri	happenedIn	Kamerun
+Kamerun	participatedIn	Battle_of_Kusseri
+Battle_of_Kusseri	happenedIn	Kamerun
+Kamerun	participatedIn	Battle_of_Kusseri
+Battle_of_Kusseri	happenedIn	Kamerun
+Kamerun	participatedIn	Battle_of_Kusseri
+Kamerun	hasCapital	Douala
+Kamerun	hasCapital	Douala
+
+http://dbpedia.org/resource/Kamerun	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Douala
+Kamerun	Douala
+Kamerun	hasCapital	Douala
+Kamerun	hasCapital	Douala
+
+http://dbpedia.org/resource/Northern_Rhodesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Lusaka
+Northern_Rhodesia	Lusaka
+Greg_Aplin	wasBornIn	Northern_Rhodesia
+Greg_Aplin	wasBornIn	Northern_Rhodesia
+Greg_Aplin	wasBornIn	Northern_Rhodesia
+Greg_Aplin	wasBornIn	Northern_Rhodesia
+Northern_Rhodesia	hasCapital	Lusaka
+Northern_Rhodesia	hasCapital	Lusaka
+
+http://dbpedia.org/resource/Northern_Rhodesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Lusaka
+Northern_Rhodesia	Lusaka
+Northern_Rhodesia	participatedIn	Burma_Campaign_1944
+Northern_Rhodesia	participatedIn	Burma_Campaign_1944
+Northern_Rhodesia	participatedIn	Burma_Campaign_1944
+Northern_Rhodesia	participatedIn	Burma_Campaign_1944
+Northern_Rhodesia	hasCapital	Lusaka
+Northern_Rhodesia	hasCapital	Lusaka
+
+http://dbpedia.org/resource/Northern_Rhodesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Lusaka
+Northern_Rhodesia	Lusaka
+Northern_Rhodesia	hasCapital	Lusaka
+Northern_Rhodesia	hasCapital	Lusaka
+
+http://dbpedia.org/resource/Northern_Rhodesia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Lusaka
+Northern_Rhodesia	Lusaka
+Jones_Chilengi	wasBornIn	Northern_Rhodesia
+Jones_Chilengi	wasBornIn	Northern_Rhodesia
+Jones_Chilengi	wasBornIn	Northern_Rhodesia
+Jones_Chilengi	wasBornIn	Northern_Rhodesia
+Northern_Rhodesia	hasCapital	Lusaka
+Northern_Rhodesia	hasCapital	Lusaka
+
+http://dbpedia.org/resource/Spanish_East_Indies	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Cebu
+Spanish_East_Indies	Cebu
+Battle_of_Tres_de_Abril	happenedIn	Spanish_East_Indies
+Battle_of_Tres_de_Abril	happenedIn	Spanish_East_Indies
+Battle_of_Tres_de_Abril	happenedIn	Cebu_City
+Battle_of_Tres_de_Abril	happenedIn	Cebu_City
+Cebu	hasCapital	Cebu_City
+Cebu_City	isLocatedIn	Cebu
+Cebu	hasCapital	Cebu_City
+Cebu_City	isLocatedIn	Cebu
+
+http://dbpedia.org/resource/Spanish_East_Indies	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Cebu
+Spanish_East_Indies	Cebu
+Battle_of_Tres_de_Abril	happenedIn	Spanish_East_Indies
+Battle_of_Tres_de_Abril	happenedIn	Spanish_East_Indies
+Battle_of_Tres_de_Abril	happenedIn	Cebu
+Battle_of_Tres_de_Abril	happenedIn	Cebu
+
+http://dbpedia.org/resource/Spanish_East_Indies	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Cebu
+Spanish_East_Indies	Cebu
+Spanish_East_Indies	hasCapital	Cebu_City
+Spanish_East_Indies	hasCapital	Cebu_City
+Hilario_Davide_III	wasBornIn	Cebu_City
+Hilario_Davide_III	livesIn	Cebu_City
+Hilario_Davide_III	wasBornIn	Cebu_City
+Hilario_Davide_III	livesIn	Cebu_City
+Hilario_Davide_III	isPoliticianOf	Cebu
+Hilario_Davide_III	isLeaderOf	Cebu
+Hilario_Davide_III	isPoliticianOf	Cebu
+Hilario_Davide_III	isLeaderOf	Cebu
+
+http://dbpedia.org/resource/Spanish_East_Indies	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Cebu
+Spanish_East_Indies	Cebu
+Spanish_East_Indies	hasCapital	Cebu_City
+Spanish_East_Indies	hasCapital	Cebu_City
+University_of_San_Carlos	isLocatedIn	Cebu_City
+University_of_San_Carlos	isLocatedIn	Cebu_City
+University_of_San_Carlos	isLocatedIn	Cebu
+University_of_San_Carlos	isLocatedIn	Cebu
+
+http://dbpedia.org/resource/Spanish_East_Indies	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Cebu
+Spanish_East_Indies	Cebu
+Spanish_East_Indies	hasCapital	Cebu_City
+Spanish_East_Indies	hasCapital	Cebu_City
+Cebu	hasCapital	Cebu_City
+Cebu_City	isLocatedIn	Cebu
+Cebu	hasCapital	Cebu_City
+Cebu_City	isLocatedIn	Cebu
+
+http://dbpedia.org/resource/Spanish_East_Indies	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Cebu
+Spanish_East_Indies	Cebu
+Spanish_East_Indies	hasCapital	Cebu_City
+Spanish_East_Indies	hasCapital	Cebu_City
+University_of_Cebu	isLocatedIn	Cebu_City
+University_of_Cebu	isLocatedIn	Cebu_City
+University_of_Cebu	isLocatedIn	Cebu
+University_of_Cebu	isLocatedIn	Cebu
+
+http://dbpedia.org/resource/Spanish_East_Indies	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Cebu
+Spanish_East_Indies	Cebu
+Spanish_East_Indies	hasCapital	Cebu_City
+Spanish_East_Indies	hasCapital	Cebu_City
+Gwendolyn_Garcia	wasBornIn	Cebu_City
+Gwendolyn_Garcia	wasBornIn	Cebu_City
+Gwendolyn_Garcia	isPoliticianOf	Cebu
+Gwendolyn_Garcia	isPoliticianOf	Cebu
+
+http://dbpedia.org/resource/Mutawakkilite_Kingdom_of_Yemen	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Taiz
+Mutawakkilite_Kingdom_of_Yemen	Taiz
+1948_Arab–Israeli_War	happenedIn	Mutawakkilite_Kingdom_of_Yemen
+Mutawakkilite_Kingdom_of_Yemen	participatedIn	1948_Arab–Israeli_War
+1948_Arab–Israeli_War	happenedIn	Mutawakkilite_Kingdom_of_Yemen
+Mutawakkilite_Kingdom_of_Yemen	participatedIn	1948_Arab–Israeli_War
+1948_Arab–Israeli_War	happenedIn	Mutawakkilite_Kingdom_of_Yemen
+Mutawakkilite_Kingdom_of_Yemen	participatedIn	1948_Arab–Israeli_War
+1948_Arab–Israeli_War	happenedIn	Mutawakkilite_Kingdom_of_Yemen
+Mutawakkilite_Kingdom_of_Yemen	participatedIn	1948_Arab–Israeli_War
+Mutawakkilite_Kingdom_of_Yemen	hasCapital	Taiz
+Mutawakkilite_Kingdom_of_Yemen	hasCapital	Taiz
+
+http://dbpedia.org/resource/Mutawakkilite_Kingdom_of_Yemen	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Taiz
+Mutawakkilite_Kingdom_of_Yemen	Taiz
+North_Yemen_Civil_War	happenedIn	Mutawakkilite_Kingdom_of_Yemen
+Mutawakkilite_Kingdom_of_Yemen	participatedIn	North_Yemen_Civil_War
+North_Yemen_Civil_War	happenedIn	Mutawakkilite_Kingdom_of_Yemen
+Mutawakkilite_Kingdom_of_Yemen	participatedIn	North_Yemen_Civil_War
+North_Yemen_Civil_War	happenedIn	Mutawakkilite_Kingdom_of_Yemen
+Mutawakkilite_Kingdom_of_Yemen	participatedIn	North_Yemen_Civil_War
+North_Yemen_Civil_War	happenedIn	Mutawakkilite_Kingdom_of_Yemen
+Mutawakkilite_Kingdom_of_Yemen	participatedIn	North_Yemen_Civil_War
+Mutawakkilite_Kingdom_of_Yemen	hasCapital	Taiz
+Mutawakkilite_Kingdom_of_Yemen	hasCapital	Taiz
+
+http://dbpedia.org/resource/Mutawakkilite_Kingdom_of_Yemen	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Taiz
+Mutawakkilite_Kingdom_of_Yemen	Taiz
+Mutawakkilite_Kingdom_of_Yemen	hasCapital	Taiz
+Mutawakkilite_Kingdom_of_Yemen	hasCapital	Taiz
+
+http://dbpedia.org/resource/South_Carolina	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Columbia,_South_Carolina
+South_Carolina	Columbia,_South_Carolina
+Wade_Hampton_III	isPoliticianOf	South_Carolina
+Wade_Hampton_III	isPoliticianOf	South_Carolina
+Wade_Hampton_III	diedIn	Columbia,_South_Carolina
+Wade_Hampton_III	diedIn	Columbia,_South_Carolina
+
+http://dbpedia.org/resource/South_Carolina	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Columbia,_South_Carolina
+South_Carolina	Columbia,_South_Carolina
+Interstate_77	isLocatedIn	South_Carolina
+Interstate_77	isLocatedIn	South_Carolina
+Interstate_77	isLocatedIn	Columbia,_South_Carolina
+Interstate_77	isLocatedIn	Columbia,_South_Carolina
+
+http://dbpedia.org/resource/Centre_Region_(Cameroon)	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Yaoundé
+Centre_Region_(Cameroon)	Yaoundé
+Centre_Region_(Cameroon)	hasCapital	Yaoundé
+Yaoundé	isLocatedIn	Centre_Region_(Cameroon)
+Centre_Region_(Cameroon)	hasCapital	Yaoundé
+Yaoundé	isLocatedIn	Centre_Region_(Cameroon)
+
+http://dbpedia.org/resource/Tunisia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Tunis
+Tunisia	Tunis
+Habiba_Zehi_Ben_Romdhane	isCitizenOf	Tunisia
+Habiba_Zehi_Ben_Romdhane	isPoliticianOf	Tunisia
+Habiba_Zehi_Ben_Romdhane	isCitizenOf	Tunisia
+Habiba_Zehi_Ben_Romdhane	isPoliticianOf	Tunisia
+Habiba_Zehi_Ben_Romdhane	graduatedFrom	Tunis_University
+Habiba_Zehi_Ben_Romdhane	graduatedFrom	Tunis_University
+Tunis_University	isLocatedIn	Tunis
+Tunis_University	isLocatedIn	Tunis
+
+http://dbpedia.org/resource/Tunisia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Tunis
+Tunisia	Tunis
+Sana_Hassainia	isCitizenOf	Tunisia
+Sana_Hassainia	isCitizenOf	Tunisia
+Sana_Hassainia	wasBornIn	Tunis
+Sana_Hassainia	wasBornIn	Tunis
+
+http://dbpedia.org/resource/Tunisia	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/Tunis
+Tunisia	Tunis
+Sana_Hassainia	isCitizenOf	Tunisia
+Sana_Hassainia	isCitizenOf	Tunisia
+Sana_Hassainia	graduatedFrom	Tunis_University
+Sana_Hassainia	graduatedFrom	Tunis_University
+Tunis_University	isLocatedIn	Tunis
+Tunis_University	isLocatedIn	Tunis
+

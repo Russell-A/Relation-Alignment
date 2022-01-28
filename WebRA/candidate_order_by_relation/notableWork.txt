@@ -1,0 +1,63 @@
+http://dbpedia.org/resource/Michael_Hirst_(writer)	http://dbpedia.org/ontology/notableWork	http://dbpedia.org/resource/Vikings_(TV_series)
+Michael_Hirst_(writer)	Vikings_(TV_series)
+Michael_Hirst_(writer)	created	Fools_of_Fortune
+Michael_Hirst_(writer)	created	Fools_of_Fortune
+Michael_Hirst_(writer)	created	Fools_of_Fortune
+Michael_Hirst_(writer)	created	Fools_of_Fortune
+Michael_Hirst_(writer)	created	Vikings_(TV_series)
+Michael_Hirst_(writer)	created	Vikings_(TV_series)
+
+http://dbpedia.org/resource/Michael_Hirst_(writer)	http://dbpedia.org/ontology/notableWork	http://dbpedia.org/resource/Vikings_(TV_series)
+Michael_Hirst_(writer)	Vikings_(TV_series)
+Michael_Hirst_(writer)	created	Vikings_(TV_series)
+Michael_Hirst_(writer)	created	Vikings_(TV_series)
+
+http://dbpedia.org/resource/Brian_O'Nolan	http://dbpedia.org/ontology/notableWork	http://dbpedia.org/resource/Brian_O'Nolan
+Brian_O'Nolan	Brian_O'Nolan
+Brian_O'Nolan	influences	Keith_Donohue_(novelist)
+Brian_O'Nolan	influences	Keith_Donohue_(novelist)
+Brian_O'Nolan	influences	Keith_Donohue_(novelist)
+Brian_O'Nolan	influences	Keith_Donohue_(novelist)
+
+http://dbpedia.org/resource/Brian_O'Nolan	http://dbpedia.org/ontology/notableWork	http://dbpedia.org/resource/Brian_O'Nolan
+Brian_O'Nolan	Brian_O'Nolan
+James_Branch_Cabell	influences	Brian_O'Nolan
+James_Branch_Cabell	influences	Brian_O'Nolan
+James_Branch_Cabell	influences	Brian_O'Nolan
+James_Branch_Cabell	influences	Brian_O'Nolan
+
+http://dbpedia.org/resource/Brian_O'Nolan	http://dbpedia.org/ontology/notableWork	http://dbpedia.org/resource/Brian_O'Nolan
+Brian_O'Nolan	Brian_O'Nolan
+Brian_O'Nolan	influences	Dylan_Moran
+Brian_O'Nolan	influences	Dylan_Moran
+Brian_O'Nolan	influences	Dylan_Moran
+Brian_O'Nolan	influences	Dylan_Moran
+
+http://dbpedia.org/resource/Brian_O'Nolan	http://dbpedia.org/ontology/notableWork	http://dbpedia.org/resource/Brian_O'Nolan
+Brian_O'Nolan	Brian_O'Nolan
+Franz_Kafka	influences	Brian_O'Nolan
+Franz_Kafka	influences	Brian_O'Nolan
+Franz_Kafka	influences	Brian_O'Nolan
+Franz_Kafka	influences	Brian_O'Nolan
+
+http://dbpedia.org/resource/Brian_O'Nolan	http://dbpedia.org/ontology/notableWork	http://dbpedia.org/resource/Brian_O'Nolan
+Brian_O'Nolan	Brian_O'Nolan
+Brian_O'Nolan	influences	Spike_Milligan
+Brian_O'Nolan	influences	Spike_Milligan
+Brian_O'Nolan	influences	Spike_Milligan
+Brian_O'Nolan	influences	Spike_Milligan
+
+http://dbpedia.org/resource/Brian_O'Nolan	http://dbpedia.org/ontology/notableWork	http://dbpedia.org/resource/Brian_O'Nolan
+Brian_O'Nolan	Brian_O'Nolan
+Brian_O'Nolan	influences	Anthony_Burgess
+Brian_O'Nolan	influences	Anthony_Burgess
+Brian_O'Nolan	influences	Anthony_Burgess
+Brian_O'Nolan	influences	Anthony_Burgess
+
+http://dbpedia.org/resource/Brian_O'Nolan	http://dbpedia.org/ontology/notableWork	http://dbpedia.org/resource/Brian_O'Nolan
+Brian_O'Nolan	Brian_O'Nolan
+Brian_O'Nolan	wasBornIn	Strabane
+Brian_O'Nolan	wasBornIn	Strabane
+Brian_O'Nolan	wasBornIn	Strabane
+Brian_O'Nolan	wasBornIn	Strabane
+

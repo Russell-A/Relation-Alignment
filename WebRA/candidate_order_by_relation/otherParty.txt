@@ -1,0 +1,1193 @@
+http://dbpedia.org/resource/Anuruddha_Ratwatte	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/United_National_Party
+Anuruddha_Ratwatte	United_National_Party
+Anuruddha_Ratwatte	isAffiliatedTo	Sri_Lanka_Freedom_Party
+Anuruddha_Ratwatte	isAffiliatedTo	Sri_Lanka_Freedom_Party
+M._Mahroof	isAffiliatedTo	Sri_Lanka_Freedom_Party
+M._Mahroof	isAffiliatedTo	Sri_Lanka_Freedom_Party
+M._Mahroof	isAffiliatedTo	United_National_Party
+M._Mahroof	isAffiliatedTo	United_National_Party
+
+http://dbpedia.org/resource/Anuruddha_Ratwatte	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/United_National_Party
+Anuruddha_Ratwatte	United_National_Party
+Harris_Leuke_Ratwatte	hasChild	Anuruddha_Ratwatte
+Harris_Leuke_Ratwatte	hasChild	Anuruddha_Ratwatte
+Harris_Leuke_Ratwatte	isAffiliatedTo	United_National_Party
+Harris_Leuke_Ratwatte	isAffiliatedTo	United_National_Party
+
+http://dbpedia.org/resource/Fabrizio_Cicchitto	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Fabrizio_Cicchitto	Forza_Italia
+Fabrizio_Cicchitto	livesIn	Rome
+Fabrizio_Cicchitto	wasBornIn	Rome
+Fabrizio_Cicchitto	livesIn	Rome
+Fabrizio_Cicchitto	wasBornIn	Rome
+Giuseppe_Cossiga	livesIn	Rome
+Giuseppe_Cossiga	livesIn	Rome
+Giuseppe_Cossiga	isAffiliatedTo	Forza_Italia
+Giuseppe_Cossiga	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Fabrizio_Cicchitto	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Fabrizio_Cicchitto	Forza_Italia
+Fabrizio_Cicchitto	isAffiliatedTo	New_Centre-Right
+Fabrizio_Cicchitto	isAffiliatedTo	New_Centre-Right
+Gabriele_Albertini	isAffiliatedTo	New_Centre-Right
+Gabriele_Albertini	isAffiliatedTo	New_Centre-Right
+Gabriele_Albertini	isAffiliatedTo	Forza_Italia
+Gabriele_Albertini	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Héctor_Timerman	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Front_for_Victory
+Héctor_Timerman	Front_for_Victory
+Héctor_Timerman	wasBornIn	Buenos_Aires
+Héctor_Timerman	wasBornIn	Buenos_Aires
+Alberto_Sileoni	wasBornIn	Buenos_Aires
+Alberto_Sileoni	wasBornIn	Buenos_Aires
+Alberto_Sileoni	isAffiliatedTo	Front_for_Victory
+Alberto_Sileoni	isAffiliatedTo	Front_for_Victory
+
+http://dbpedia.org/resource/Héctor_Timerman	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Front_for_Victory
+Héctor_Timerman	Front_for_Victory
+Héctor_Timerman	isAffiliatedTo	Justicialist_Party
+Héctor_Timerman	isAffiliatedTo	Justicialist_Party
+Miguel_Ángel_Pichetto	isAffiliatedTo	Justicialist_Party
+Miguel_Ángel_Pichetto	isLeaderOf	Justicialist_Party
+Miguel_Ángel_Pichetto	isAffiliatedTo	Justicialist_Party
+Miguel_Ángel_Pichetto	isLeaderOf	Justicialist_Party
+Miguel_Ángel_Pichetto	isAffiliatedTo	Front_for_Victory
+Miguel_Ángel_Pichetto	isAffiliatedTo	Front_for_Victory
+
+http://dbpedia.org/resource/Héctor_Timerman	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Front_for_Victory
+Héctor_Timerman	Front_for_Victory
+Héctor_Timerman	isAffiliatedTo	Justicialist_Party
+Héctor_Timerman	isAffiliatedTo	Justicialist_Party
+Julián_Domínguez	isAffiliatedTo	Justicialist_Party
+Julián_Domínguez	isAffiliatedTo	Justicialist_Party
+Julián_Domínguez	isAffiliatedTo	Front_for_Victory
+Julián_Domínguez	isAffiliatedTo	Front_for_Victory
+
+http://dbpedia.org/resource/Héctor_Timerman	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Front_for_Victory
+Héctor_Timerman	Front_for_Victory
+Héctor_Timerman	isAffiliatedTo	Justicialist_Party
+Héctor_Timerman	isAffiliatedTo	Justicialist_Party
+Beatriz_Rojkés_de_Alperovich	isAffiliatedTo	Justicialist_Party
+Beatriz_Rojkés_de_Alperovich	isAffiliatedTo	Justicialist_Party
+Beatriz_Rojkés_de_Alperovich	isAffiliatedTo	Front_for_Victory
+Beatriz_Rojkés_de_Alperovich	isAffiliatedTo	Front_for_Victory
+
+http://dbpedia.org/resource/Héctor_Timerman	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Front_for_Victory
+Héctor_Timerman	Front_for_Victory
+Héctor_Timerman	isAffiliatedTo	Justicialist_Party
+Héctor_Timerman	isAffiliatedTo	Justicialist_Party
+Daniel_Filmus	isAffiliatedTo	Justicialist_Party
+Daniel_Filmus	isAffiliatedTo	Justicialist_Party
+Daniel_Filmus	isAffiliatedTo	Front_for_Victory
+Daniel_Filmus	isAffiliatedTo	Front_for_Victory
+
+http://dbpedia.org/resource/Héctor_Timerman	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Front_for_Victory
+Héctor_Timerman	Front_for_Victory
+Héctor_Timerman	isAffiliatedTo	Justicialist_Party
+Héctor_Timerman	isAffiliatedTo	Justicialist_Party
+Francisco_Pérez_(governor)	isAffiliatedTo	Justicialist_Party
+Francisco_Pérez_(governor)	isAffiliatedTo	Justicialist_Party
+Francisco_Pérez_(governor)	isAffiliatedTo	Front_for_Victory
+Francisco_Pérez_(governor)	isAffiliatedTo	Front_for_Victory
+
+http://dbpedia.org/resource/Héctor_Timerman	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Front_for_Victory
+Héctor_Timerman	Front_for_Victory
+Héctor_Timerman	isAffiliatedTo	Justicialist_Party
+Héctor_Timerman	isAffiliatedTo	Justicialist_Party
+Rosana_Bertone	isAffiliatedTo	Justicialist_Party
+Rosana_Bertone	isAffiliatedTo	Justicialist_Party
+Rosana_Bertone	isAffiliatedTo	Front_for_Victory
+Rosana_Bertone	isAffiliatedTo	Front_for_Victory
+
+http://dbpedia.org/resource/Héctor_Timerman	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Front_for_Victory
+Héctor_Timerman	Front_for_Victory
+Héctor_Timerman	isAffiliatedTo	Justicialist_Party
+Héctor_Timerman	isAffiliatedTo	Justicialist_Party
+Eric_Calcagno	isAffiliatedTo	Justicialist_Party
+Eric_Calcagno	isAffiliatedTo	Justicialist_Party
+Eric_Calcagno	isAffiliatedTo	Front_for_Victory
+Eric_Calcagno	isAffiliatedTo	Front_for_Victory
+
+http://dbpedia.org/resource/Héctor_Timerman	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Front_for_Victory
+Héctor_Timerman	Front_for_Victory
+Héctor_Timerman	isAffiliatedTo	Justicialist_Party
+Héctor_Timerman	isAffiliatedTo	Justicialist_Party
+Carlos_Soria	isAffiliatedTo	Justicialist_Party
+Carlos_Soria	isAffiliatedTo	Justicialist_Party
+Carlos_Soria	isAffiliatedTo	Front_for_Victory
+Carlos_Soria	isAffiliatedTo	Front_for_Victory
+
+http://dbpedia.org/resource/Dobroslav_Paraga	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Croatian_Party_of_Rights
+Dobroslav_Paraga	Croatian_Party_of_Rights
+Dobroslav_Paraga	created	Croatian_Party_of_Rights
+Dobroslav_Paraga	created	Croatian_Party_of_Rights
+
+http://dbpedia.org/resource/Nessa_Childers	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Labour_Party_(Ireland)
+Nessa_Childers	Labour_Party_(Ireland)
+Nessa_Childers	graduatedFrom	University_College_Dublin
+Nessa_Childers	graduatedFrom	University_College_Dublin
+Alan_Kelly_(politician)	graduatedFrom	University_College_Dublin
+Alan_Kelly_(politician)	graduatedFrom	University_College_Dublin
+Alan_Kelly_(politician)	isAffiliatedTo	Labour_Party_(Ireland)
+Alan_Kelly_(politician)	isAffiliatedTo	Labour_Party_(Ireland)
+
+http://dbpedia.org/resource/Michael_D._Higgins	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Labour_Party_(Ireland)
+Michael_D._Higgins	Labour_Party_(Ireland)
+Michael_D._Higgins	graduatedFrom	NUI_Galway
+Michael_D._Higgins	graduatedFrom	NUI_Galway
+Pat_Rabbitte	graduatedFrom	NUI_Galway
+Pat_Rabbitte	graduatedFrom	NUI_Galway
+Pat_Rabbitte	isAffiliatedTo	Labour_Party_(Ireland)
+Pat_Rabbitte	isAffiliatedTo	Labour_Party_(Ireland)
+
+http://dbpedia.org/resource/Michael_D._Higgins	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Labour_Party_(Ireland)
+Michael_D._Higgins	Labour_Party_(Ireland)
+Michael_D._Higgins	graduatedFrom	NUI_Galway
+Michael_D._Higgins	graduatedFrom	NUI_Galway
+Eamon_Gilmore	graduatedFrom	NUI_Galway
+Eamon_Gilmore	graduatedFrom	NUI_Galway
+Eamon_Gilmore	isAffiliatedTo	Labour_Party_(Ireland)
+Eamon_Gilmore	isAffiliatedTo	Labour_Party_(Ireland)
+
+http://dbpedia.org/resource/Michael_D._Higgins	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Labour_Party_(Ireland)
+Michael_D._Higgins	Labour_Party_(Ireland)
+Michael_D._Higgins	graduatedFrom	NUI_Galway
+Michael_D._Higgins	graduatedFrom	NUI_Galway
+Máire_Whelan	graduatedFrom	NUI_Galway
+Máire_Whelan	graduatedFrom	NUI_Galway
+Máire_Whelan	isAffiliatedTo	Labour_Party_(Ireland)
+Máire_Whelan	isAffiliatedTo	Labour_Party_(Ireland)
+
+http://dbpedia.org/resource/Michael_D._Higgins	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Labour_Party_(Ireland)
+Michael_D._Higgins	Labour_Party_(Ireland)
+Michael_D._Higgins	graduatedFrom	NUI_Galway
+Michael_D._Higgins	graduatedFrom	NUI_Galway
+Derek_Nolan	graduatedFrom	NUI_Galway
+Derek_Nolan	graduatedFrom	NUI_Galway
+Derek_Nolan	isAffiliatedTo	Labour_Party_(Ireland)
+Derek_Nolan	isAffiliatedTo	Labour_Party_(Ireland)
+
+http://dbpedia.org/resource/Michael_D._Higgins	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Labour_Party_(Ireland)
+Michael_D._Higgins	Labour_Party_(Ireland)
+Michael_D._Higgins	graduatedFrom	NUI_Galway
+Michael_D._Higgins	graduatedFrom	NUI_Galway
+Mary_Upton	graduatedFrom	NUI_Galway
+Mary_Upton	graduatedFrom	NUI_Galway
+Mary_Upton	isAffiliatedTo	Labour_Party_(Ireland)
+Mary_Upton	isAffiliatedTo	Labour_Party_(Ireland)
+
+http://dbpedia.org/resource/Michael_D._Higgins	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Labour_Party_(Ireland)
+Michael_D._Higgins	Labour_Party_(Ireland)
+Michael_D._Higgins	graduatedFrom	NUI_Galway
+Michael_D._Higgins	graduatedFrom	NUI_Galway
+Maureen_O'Carroll	graduatedFrom	NUI_Galway
+Maureen_O'Carroll	graduatedFrom	NUI_Galway
+Maureen_O'Carroll	isAffiliatedTo	Labour_Party_(Ireland)
+Maureen_O'Carroll	isAffiliatedTo	Labour_Party_(Ireland)
+
+http://dbpedia.org/resource/Maurizio_Gasparri	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Maurizio_Gasparri	The_People_of_Freedom
+Maurizio_Gasparri	livesIn	Rome
+Maurizio_Gasparri	wasBornIn	Rome
+Maurizio_Gasparri	livesIn	Rome
+Maurizio_Gasparri	wasBornIn	Rome
+Giuseppe_Cossiga	livesIn	Rome
+Giuseppe_Cossiga	livesIn	Rome
+Giuseppe_Cossiga	isAffiliatedTo	The_People_of_Freedom
+Giuseppe_Cossiga	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Ricardo_López_Murphy	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Radical_Civic_Union
+Ricardo_López_Murphy	Radical_Civic_Union
+Ricardo_López_Murphy	isAffiliatedTo	Republican_Proposal
+Ricardo_López_Murphy	isAffiliatedTo	Republican_Proposal
+Ricardo_López_Murphy	isAffiliatedTo	Republican_Proposal
+Ricardo_López_Murphy	isAffiliatedTo	Republican_Proposal
+Ricardo_López_Murphy	isAffiliatedTo	Radical_Civic_Union
+Ricardo_López_Murphy	isAffiliatedTo	Radical_Civic_Union
+
+http://dbpedia.org/resource/Ricardo_López_Murphy	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Radical_Civic_Union
+Ricardo_López_Murphy	Radical_Civic_Union
+Ricardo_López_Murphy	isAffiliatedTo	Radical_Civic_Union
+Ricardo_López_Murphy	isAffiliatedTo	Radical_Civic_Union
+
+http://dbpedia.org/resource/Ricardo_López_Murphy	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Radical_Civic_Union
+Ricardo_López_Murphy	Radical_Civic_Union
+Ricardo_López_Murphy	wasBornIn	Adrogué
+Ricardo_López_Murphy	wasBornIn	Adrogué
+Ricardo_López_Murphy	wasBornIn	Adrogué
+Ricardo_López_Murphy	wasBornIn	Adrogué
+Ricardo_López_Murphy	isAffiliatedTo	Radical_Civic_Union
+Ricardo_López_Murphy	isAffiliatedTo	Radical_Civic_Union
+
+http://dbpedia.org/resource/Ricardo_López_Murphy	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Radical_Civic_Union
+Ricardo_López_Murphy	Radical_Civic_Union
+Ricardo_López_Murphy	graduatedFrom	National_University_of_La_Plata
+Ricardo_López_Murphy	graduatedFrom	National_University_of_La_Plata
+Arturo_Frondizi	graduatedFrom	National_University_of_La_Plata
+Arturo_Frondizi	graduatedFrom	National_University_of_La_Plata
+Arturo_Frondizi	isAffiliatedTo	Radical_Civic_Union
+Arturo_Frondizi	isAffiliatedTo	Radical_Civic_Union
+
+http://dbpedia.org/resource/Ricardo_López_Murphy	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Radical_Civic_Union
+Ricardo_López_Murphy	Radical_Civic_Union
+Ricardo_López_Murphy	graduatedFrom	National_University_of_La_Plata
+Ricardo_López_Murphy	graduatedFrom	National_University_of_La_Plata
+Ricardo_López_Murphy	graduatedFrom	National_University_of_La_Plata
+Ricardo_López_Murphy	graduatedFrom	National_University_of_La_Plata
+Ricardo_López_Murphy	isAffiliatedTo	Radical_Civic_Union
+Ricardo_López_Murphy	isAffiliatedTo	Radical_Civic_Union
+
+http://dbpedia.org/resource/Sarath_Munasinghe	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Sri_Lanka_Freedom_Party
+Sarath_Munasinghe	Sri_Lanka_Freedom_Party
+Sarath_Munasinghe	isAffiliatedTo	United_National_Party
+Sarath_Munasinghe	isAffiliatedTo	United_National_Party
+M._Mahroof	isAffiliatedTo	United_National_Party
+M._Mahroof	isAffiliatedTo	United_National_Party
+M._Mahroof	isAffiliatedTo	Sri_Lanka_Freedom_Party
+M._Mahroof	isAffiliatedTo	Sri_Lanka_Freedom_Party
+
+http://dbpedia.org/resource/Sarath_Munasinghe	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Sri_Lanka_Freedom_Party
+Sarath_Munasinghe	Sri_Lanka_Freedom_Party
+Sarath_Munasinghe	isCitizenOf	Sri_Lanka
+Sarath_Munasinghe	isCitizenOf	Sri_Lanka
+Sanjeewa_Hulangamuwa	isCitizenOf	Sri_Lanka
+Sanjeewa_Hulangamuwa	isCitizenOf	Sri_Lanka
+Sanjeewa_Hulangamuwa	isAffiliatedTo	Sri_Lanka_Freedom_Party
+Sanjeewa_Hulangamuwa	isAffiliatedTo	Sri_Lanka_Freedom_Party
+
+http://dbpedia.org/resource/Fred_Li	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Meeting_Point
+Fred_Li	Meeting_Point
+Fred_Li	isAffiliatedTo	Democratic_Party_(Hong_Kong)
+Fred_Li	isAffiliatedTo	Democratic_Party_(Hong_Kong)
+Yeung_Sum	isAffiliatedTo	Democratic_Party_(Hong_Kong)
+Yeung_Sum	isAffiliatedTo	Democratic_Party_(Hong_Kong)
+Yeung_Sum	isAffiliatedTo	Meeting_Point
+Yeung_Sum	isAffiliatedTo	Meeting_Point
+
+http://dbpedia.org/resource/Fabrizio_Cicchitto	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Fabrizio_Cicchitto	The_People_of_Freedom
+Fabrizio_Cicchitto	livesIn	Rome
+Fabrizio_Cicchitto	wasBornIn	Rome
+Fabrizio_Cicchitto	livesIn	Rome
+Fabrizio_Cicchitto	wasBornIn	Rome
+Giuseppe_Cossiga	livesIn	Rome
+Giuseppe_Cossiga	livesIn	Rome
+Giuseppe_Cossiga	isAffiliatedTo	The_People_of_Freedom
+Giuseppe_Cossiga	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Fabrizio_Cicchitto	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Fabrizio_Cicchitto	The_People_of_Freedom
+Fabrizio_Cicchitto	isAffiliatedTo	New_Centre-Right
+Fabrizio_Cicchitto	isAffiliatedTo	New_Centre-Right
+Angelino_Alfano	isAffiliatedTo	New_Centre-Right
+Angelino_Alfano	isLeaderOf	New_Centre-Right
+Angelino_Alfano	isAffiliatedTo	New_Centre-Right
+Angelino_Alfano	isLeaderOf	New_Centre-Right
+Angelino_Alfano	isAffiliatedTo	The_People_of_Freedom
+Angelino_Alfano	isLeaderOf	The_People_of_Freedom
+Angelino_Alfano	isAffiliatedTo	The_People_of_Freedom
+Angelino_Alfano	isLeaderOf	The_People_of_Freedom
+
+http://dbpedia.org/resource/Fabrizio_Cicchitto	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Fabrizio_Cicchitto	The_People_of_Freedom
+Fabrizio_Cicchitto	isAffiliatedTo	New_Centre-Right
+Fabrizio_Cicchitto	isAffiliatedTo	New_Centre-Right
+Gabriele_Albertini	isAffiliatedTo	New_Centre-Right
+Gabriele_Albertini	isAffiliatedTo	New_Centre-Right
+Gabriele_Albertini	isAffiliatedTo	The_People_of_Freedom
+Gabriele_Albertini	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Yuriy_Yekhanurov	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Our_Ukraine_(political_party)
+Yuriy_Yekhanurov	Our_Ukraine_(political_party)
+Yuriy_Yekhanurov	isAffiliatedTo	Our_Ukraine–People's_Self-Defense_Bloc
+Yuriy_Yekhanurov	isAffiliatedTo	Our_Ukraine–People's_Self-Defense_Bloc
+Yuriy_Yekhanurov	isAffiliatedTo	Our_Ukraine–People's_Self-Defense_Bloc
+Yuriy_Yekhanurov	isAffiliatedTo	Our_Ukraine–People's_Self-Defense_Bloc
+Yuriy_Yekhanurov	isAffiliatedTo	Our_Ukraine_(political_party)
+Yuriy_Yekhanurov	isAffiliatedTo	Our_Ukraine_(political_party)
+
+http://dbpedia.org/resource/Yuriy_Yekhanurov	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Our_Ukraine_(political_party)
+Yuriy_Yekhanurov	Our_Ukraine_(political_party)
+Yuriy_Yekhanurov	isAffiliatedTo	Our_Ukraine_(political_party)
+Yuriy_Yekhanurov	isAffiliatedTo	Our_Ukraine_(political_party)
+
+http://dbpedia.org/resource/Minou_Tavárez_Mirabal	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Dominican_Liberation_Party
+Minou_Tavárez_Mirabal	Dominican_Liberation_Party
+Minou_Tavárez_Mirabal	isCitizenOf	Dominica
+Minou_Tavárez_Mirabal	isCitizenOf	Dominica
+Juan_Bosch	isCitizenOf	Dominica
+Juan_Bosch	isCitizenOf	Dominica
+Juan_Bosch	isAffiliatedTo	Dominican_Liberation_Party
+Juan_Bosch	isLeaderOf	Dominican_Liberation_Party
+Juan_Bosch	isAffiliatedTo	Dominican_Liberation_Party
+Juan_Bosch	isLeaderOf	Dominican_Liberation_Party
+
+http://dbpedia.org/resource/Minou_Tavárez_Mirabal	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Dominican_Liberation_Party
+Minou_Tavárez_Mirabal	Dominican_Liberation_Party
+Minou_Tavárez_Mirabal	isCitizenOf	Dominica
+Minou_Tavárez_Mirabal	isCitizenOf	Dominica
+Juan_Orlando_Mercedes	isCitizenOf	Dominica
+Juan_Orlando_Mercedes	isCitizenOf	Dominica
+Juan_Orlando_Mercedes	isAffiliatedTo	Dominican_Liberation_Party
+Juan_Orlando_Mercedes	isAffiliatedTo	Dominican_Liberation_Party
+
+http://dbpedia.org/resource/Minou_Tavárez_Mirabal	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Dominican_Liberation_Party
+Minou_Tavárez_Mirabal	Dominican_Liberation_Party
+Minou_Tavárez_Mirabal	isCitizenOf	Dominica
+Minou_Tavárez_Mirabal	isCitizenOf	Dominica
+José_del_Castillo_Saviñón	isCitizenOf	Dominica
+José_del_Castillo_Saviñón	isCitizenOf	Dominica
+José_del_Castillo_Saviñón	isAffiliatedTo	Dominican_Liberation_Party
+José_del_Castillo_Saviñón	isAffiliatedTo	Dominican_Liberation_Party
+
+http://dbpedia.org/resource/Minou_Tavárez_Mirabal	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Dominican_Liberation_Party
+Minou_Tavárez_Mirabal	Dominican_Liberation_Party
+Minou_Tavárez_Mirabal	isCitizenOf	Dominica
+Minou_Tavárez_Mirabal	isCitizenOf	Dominica
+Charlie_Mariotti	isCitizenOf	Dominica
+Charlie_Mariotti	isCitizenOf	Dominica
+Charlie_Mariotti	isAffiliatedTo	Dominican_Liberation_Party
+Charlie_Mariotti	isAffiliatedTo	Dominican_Liberation_Party
+
+http://dbpedia.org/resource/Minou_Tavárez_Mirabal	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Dominican_Liberation_Party
+Minou_Tavárez_Mirabal	Dominican_Liberation_Party
+Minou_Tavárez_Mirabal	livesIn	Santo_Domingo
+Minou_Tavárez_Mirabal	livesIn	Santo_Domingo
+Tommy_Galán	livesIn	Santo_Domingo
+Tommy_Galán	livesIn	Santo_Domingo
+Tommy_Galán	isAffiliatedTo	Dominican_Liberation_Party
+Tommy_Galán	isAffiliatedTo	Dominican_Liberation_Party
+
+http://dbpedia.org/resource/Minou_Tavárez_Mirabal	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Dominican_Liberation_Party
+Minou_Tavárez_Mirabal	Dominican_Liberation_Party
+Minou_Tavárez_Mirabal	livesIn	Santo_Domingo
+Minou_Tavárez_Mirabal	livesIn	Santo_Domingo
+Dominican_Liberation_Party	isLocatedIn	Santo_Domingo
+Dominican_Liberation_Party	isLocatedIn	Santo_Domingo
+
+http://dbpedia.org/resource/Lee_Teng-hui	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Kuomintang
+Lee_Teng-hui	Kuomintang
+Tseng_Wen-hui	isMarriedTo	Lee_Teng-hui
+Lee_Teng-hui	isMarriedTo	Tseng_Wen-hui
+Tseng_Wen-hui	isMarriedTo	Lee_Teng-hui
+Lee_Teng-hui	isMarriedTo	Tseng_Wen-hui
+Tseng_Wen-hui	isMarriedTo	Lee_Teng-hui
+Lee_Teng-hui	isMarriedTo	Tseng_Wen-hui
+Tseng_Wen-hui	isMarriedTo	Lee_Teng-hui
+Lee_Teng-hui	isMarriedTo	Tseng_Wen-hui
+Lee_Teng-hui	isAffiliatedTo	Kuomintang
+Lee_Teng-hui	isAffiliatedTo	Kuomintang
+
+http://dbpedia.org/resource/Lee_Teng-hui	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Kuomintang
+Lee_Teng-hui	Kuomintang
+Lee_Teng-hui	graduatedFrom	Iowa_State_University
+Lee_Teng-hui	graduatedFrom	Iowa_State_University
+Lee_Teng-hui	graduatedFrom	Iowa_State_University
+Lee_Teng-hui	graduatedFrom	Iowa_State_University
+Lee_Teng-hui	isAffiliatedTo	Kuomintang
+Lee_Teng-hui	isAffiliatedTo	Kuomintang
+
+http://dbpedia.org/resource/Lee_Teng-hui	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Kuomintang
+Lee_Teng-hui	Kuomintang
+Lee_Teng-hui	isLeaderOf	Taiwan_Solidarity_Union
+Lee_Teng-hui	isLeaderOf	Taiwan_Solidarity_Union
+Clara_Chou	isAffiliatedTo	Taiwan_Solidarity_Union
+Clara_Chou	isAffiliatedTo	Taiwan_Solidarity_Union
+Clara_Chou	isAffiliatedTo	Kuomintang
+Clara_Chou	isAffiliatedTo	Kuomintang
+
+http://dbpedia.org/resource/Lee_Teng-hui	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Kuomintang
+Lee_Teng-hui	Kuomintang
+Lee_Teng-hui	isLeaderOf	Taiwan_Solidarity_Union
+Lee_Teng-hui	isLeaderOf	Taiwan_Solidarity_Union
+Taiwan_Solidarity_Union	isLocatedIn	Taipei
+Taiwan_Solidarity_Union	isLocatedIn	Taipei
+Kuomintang	isLocatedIn	Taipei
+Kuomintang	isLocatedIn	Taipei
+
+http://dbpedia.org/resource/Lee_Teng-hui	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Kuomintang
+Lee_Teng-hui	Kuomintang
+Lee_Teng-hui	isLeaderOf	Taiwan_Solidarity_Union
+Lee_Teng-hui	isLeaderOf	Taiwan_Solidarity_Union
+Lee_Teng-hui	isLeaderOf	Taiwan_Solidarity_Union
+Lee_Teng-hui	isLeaderOf	Taiwan_Solidarity_Union
+Lee_Teng-hui	isAffiliatedTo	Kuomintang
+Lee_Teng-hui	isAffiliatedTo	Kuomintang
+
+http://dbpedia.org/resource/Lee_Teng-hui	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Kuomintang
+Lee_Teng-hui	Kuomintang
+Lee_Teng-hui	isAffiliatedTo	Kuomintang
+Lee_Teng-hui	isAffiliatedTo	Kuomintang
+
+http://dbpedia.org/resource/Adolfo_Suárez	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Union_of_the_Democratic_Centre_(Spain)
+Adolfo_Suárez	Union_of_the_Democratic_Centre_(Spain)
+Adolfo_Suárez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+Adolfo_Suárez	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+
+http://dbpedia.org/resource/Adolfo_Suárez	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Union_of_the_Democratic_Centre_(Spain)
+Adolfo_Suárez	Union_of_the_Democratic_Centre_(Spain)
+Adolfo_Suárez	diedIn	Madrid
+Adolfo_Suárez	diedIn	Madrid
+José_Ignacio_Wert	wasBornIn	Madrid
+José_Ignacio_Wert	wasBornIn	Madrid
+José_Ignacio_Wert	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+José_Ignacio_Wert	isAffiliatedTo	Union_of_the_Democratic_Centre_(Spain)
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Renato_Schifani	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Silvio_Berlusconi	isAffiliatedTo	Forza_Italia
+Silvio_Berlusconi	isLeaderOf	Forza_Italia
+Silvio_Berlusconi	isAffiliatedTo	Forza_Italia
+Silvio_Berlusconi	isLeaderOf	Forza_Italia
+Silvio_Berlusconi	isLeaderOf	The_People_of_Freedom
+Silvio_Berlusconi	isAffiliatedTo	The_People_of_Freedom
+Silvio_Berlusconi	isLeaderOf	The_People_of_Freedom
+Silvio_Berlusconi	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Renato_Schifani	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Raffaele_Fitto	isAffiliatedTo	Forza_Italia
+Raffaele_Fitto	isAffiliatedTo	Forza_Italia
+Raffaele_Fitto	isAffiliatedTo	The_People_of_Freedom
+Raffaele_Fitto	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Renato_Schifani	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Renato_Schifani	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Pietro_Lunardi	isAffiliatedTo	Forza_Italia
+Pietro_Lunardi	isAffiliatedTo	Forza_Italia
+Pietro_Lunardi	isAffiliatedTo	The_People_of_Freedom
+Pietro_Lunardi	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Renato_Schifani	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Antonio_Tajani	isAffiliatedTo	Forza_Italia
+Antonio_Tajani	isAffiliatedTo	Forza_Italia
+Antonio_Tajani	isAffiliatedTo	The_People_of_Freedom
+Antonio_Tajani	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Renato_Schifani	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Antonio_Martino	isAffiliatedTo	Forza_Italia
+Antonio_Martino	isAffiliatedTo	Forza_Italia
+Antonio_Martino	isAffiliatedTo	The_People_of_Freedom
+Antonio_Martino	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Renato_Schifani	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Giuseppe_Cossiga	isAffiliatedTo	Forza_Italia
+Giuseppe_Cossiga	isAffiliatedTo	Forza_Italia
+Giuseppe_Cossiga	isAffiliatedTo	The_People_of_Freedom
+Giuseppe_Cossiga	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Renato_Schifani	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Gaetano_Quagliariello	isAffiliatedTo	Forza_Italia
+Gaetano_Quagliariello	isAffiliatedTo	Forza_Italia
+Gaetano_Quagliariello	isAffiliatedTo	The_People_of_Freedom
+Gaetano_Quagliariello	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Renato_Schifani	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Lara_Comi	isAffiliatedTo	Forza_Italia
+Lara_Comi	isAffiliatedTo	Forza_Italia
+Lara_Comi	isAffiliatedTo	The_People_of_Freedom
+Lara_Comi	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Renato_Schifani	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Renato_Schifani	The_People_of_Freedom
+Renato_Schifani	wasBornIn	Palermo
+Renato_Schifani	wasBornIn	Palermo
+Renato_Schifani	wasBornIn	Palermo
+Renato_Schifani	wasBornIn	Palermo
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Renato_Schifani	The_People_of_Freedom
+Renato_Schifani	wasBornIn	Palermo
+Renato_Schifani	wasBornIn	Palermo
+Marcello_Dell'Utri	wasBornIn	Palermo
+Marcello_Dell'Utri	wasBornIn	Palermo
+Marcello_Dell'Utri	isAffiliatedTo	The_People_of_Freedom
+Marcello_Dell'Utri	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Renato_Schifani	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Ugo_Cappellacci	isAffiliatedTo	Forza_Italia_(2013)
+Ugo_Cappellacci	isAffiliatedTo	Forza_Italia_(2013)
+Ugo_Cappellacci	isAffiliatedTo	The_People_of_Freedom
+Ugo_Cappellacci	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Renato_Schifani	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Mara_Carfagna	isAffiliatedTo	Forza_Italia_(2013)
+Mara_Carfagna	isAffiliatedTo	Forza_Italia_(2013)
+Mara_Carfagna	isAffiliatedTo	The_People_of_Freedom
+Mara_Carfagna	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Renato_Schifani	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Sandro_Bondi	isAffiliatedTo	Forza_Italia_(2013)
+Sandro_Bondi	isAffiliatedTo	Forza_Italia_(2013)
+Sandro_Bondi	isLeaderOf	The_People_of_Freedom
+Sandro_Bondi	isAffiliatedTo	The_People_of_Freedom
+Sandro_Bondi	isLeaderOf	The_People_of_Freedom
+Sandro_Bondi	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Renato_Schifani	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Antonio_Martino	isAffiliatedTo	Forza_Italia_(2013)
+Antonio_Martino	isAffiliatedTo	Forza_Italia_(2013)
+Antonio_Martino	isAffiliatedTo	The_People_of_Freedom
+Antonio_Martino	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Renato_Schifani	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Mario_Mauro	isAffiliatedTo	Forza_Italia_(2013)
+Mario_Mauro	isAffiliatedTo	Forza_Italia_(2013)
+Mario_Mauro	isAffiliatedTo	The_People_of_Freedom
+Mario_Mauro	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Renato_Schifani	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Nunzia_De_Girolamo	isAffiliatedTo	Forza_Italia_(2013)
+Nunzia_De_Girolamo	isAffiliatedTo	Forza_Italia_(2013)
+Nunzia_De_Girolamo	isAffiliatedTo	The_People_of_Freedom
+Nunzia_De_Girolamo	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Renato_Schifani	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Renato_Schifani	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Altero_Matteoli	isAffiliatedTo	Forza_Italia_(2013)
+Altero_Matteoli	isAffiliatedTo	Forza_Italia_(2013)
+Altero_Matteoli	isAffiliatedTo	The_People_of_Freedom
+Altero_Matteoli	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Renato_Schifani	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Francesco_Nitto_Palma	isAffiliatedTo	Forza_Italia_(2013)
+Francesco_Nitto_Palma	isAffiliatedTo	Forza_Italia_(2013)
+Francesco_Nitto_Palma	isAffiliatedTo	The_People_of_Freedom
+Francesco_Nitto_Palma	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Hussein_Onn	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/United_Malays_National_Organisation
+Hussein_Onn	United_Malays_National_Organisation
+Hussein_Onn	isCitizenOf	Malaysia
+Hussein_Onn	isPoliticianOf	Malaysia
+Hussein_Onn	isCitizenOf	Malaysia
+Hussein_Onn	isPoliticianOf	Malaysia
+Mustapha_Harun	isCitizenOf	Malaysia
+Mustapha_Harun	isCitizenOf	Malaysia
+Mustapha_Harun	isAffiliatedTo	United_Malays_National_Organisation
+Mustapha_Harun	isAffiliatedTo	United_Malays_National_Organisation
+
+http://dbpedia.org/resource/Hussein_Onn	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/United_Malays_National_Organisation
+Hussein_Onn	United_Malays_National_Organisation
+Hussein_Onn	isCitizenOf	Malaysia
+Hussein_Onn	isPoliticianOf	Malaysia
+Hussein_Onn	isCitizenOf	Malaysia
+Hussein_Onn	isPoliticianOf	Malaysia
+Md_Isa_Sabu	isCitizenOf	Malaysia
+Md_Isa_Sabu	isCitizenOf	Malaysia
+Md_Isa_Sabu	isAffiliatedTo	United_Malays_National_Organisation
+Md_Isa_Sabu	isAffiliatedTo	United_Malays_National_Organisation
+
+http://dbpedia.org/resource/Hussein_Onn	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/United_Malays_National_Organisation
+Hussein_Onn	United_Malays_National_Organisation
+Hussein_Onn	isCitizenOf	Malaysia
+Hussein_Onn	isPoliticianOf	Malaysia
+Hussein_Onn	isCitizenOf	Malaysia
+Hussein_Onn	isPoliticianOf	Malaysia
+Hishammuddin_Hussein	isCitizenOf	Malaysia
+Hishammuddin_Hussein	isPoliticianOf	Malaysia
+Hishammuddin_Hussein	isCitizenOf	Malaysia
+Hishammuddin_Hussein	isPoliticianOf	Malaysia
+Hishammuddin_Hussein	isAffiliatedTo	United_Malays_National_Organisation
+Hishammuddin_Hussein	isLeaderOf	United_Malays_National_Organisation
+Hishammuddin_Hussein	isAffiliatedTo	United_Malays_National_Organisation
+Hishammuddin_Hussein	isLeaderOf	United_Malays_National_Organisation
+
+http://dbpedia.org/resource/Hussein_Onn	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/United_Malays_National_Organisation
+Hussein_Onn	United_Malays_National_Organisation
+Hussein_Onn	isCitizenOf	Malaysia
+Hussein_Onn	isPoliticianOf	Malaysia
+Hussein_Onn	isCitizenOf	Malaysia
+Hussein_Onn	isPoliticianOf	Malaysia
+Zaid_Ibrahim	isPoliticianOf	Malaysia
+Zaid_Ibrahim	isCitizenOf	Malaysia
+Zaid_Ibrahim	isPoliticianOf	Malaysia
+Zaid_Ibrahim	isCitizenOf	Malaysia
+Zaid_Ibrahim	isAffiliatedTo	United_Malays_National_Organisation
+Zaid_Ibrahim	isAffiliatedTo	United_Malays_National_Organisation
+
+http://dbpedia.org/resource/Hussein_Onn	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/United_Malays_National_Organisation
+Hussein_Onn	United_Malays_National_Organisation
+Hussein_Onn	hasChild	Hishammuddin_Hussein
+Hussein_Onn	hasChild	Hishammuddin_Hussein
+Hishammuddin_Hussein	isAffiliatedTo	United_Malays_National_Organisation
+Hishammuddin_Hussein	isLeaderOf	United_Malays_National_Organisation
+Hishammuddin_Hussein	isAffiliatedTo	United_Malays_National_Organisation
+Hishammuddin_Hussein	isLeaderOf	United_Malays_National_Organisation
+
+http://dbpedia.org/resource/James_To	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/United_Democrats_of_Hong_Kong
+James_To	United_Democrats_of_Hong_Kong
+James_To	graduatedFrom	University_of_Hong_Kong
+James_To	graduatedFrom	University_of_Hong_Kong
+Albert_Ho	graduatedFrom	University_of_Hong_Kong
+Albert_Ho	graduatedFrom	University_of_Hong_Kong
+Albert_Ho	isAffiliatedTo	United_Democrats_of_Hong_Kong
+Albert_Ho	isLeaderOf	United_Democrats_of_Hong_Kong
+Albert_Ho	isAffiliatedTo	United_Democrats_of_Hong_Kong
+Albert_Ho	isLeaderOf	United_Democrats_of_Hong_Kong
+
+http://dbpedia.org/resource/James_To	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/United_Democrats_of_Hong_Kong
+James_To	United_Democrats_of_Hong_Kong
+James_To	graduatedFrom	University_of_Hong_Kong
+James_To	graduatedFrom	University_of_Hong_Kong
+Huang_Chen-ya	graduatedFrom	University_of_Hong_Kong
+Huang_Chen-ya	graduatedFrom	University_of_Hong_Kong
+Huang_Chen-ya	isAffiliatedTo	United_Democrats_of_Hong_Kong
+Huang_Chen-ya	isAffiliatedTo	United_Democrats_of_Hong_Kong
+
+http://dbpedia.org/resource/James_To	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/United_Democrats_of_Hong_Kong
+James_To	United_Democrats_of_Hong_Kong
+James_To	graduatedFrom	University_of_Hong_Kong
+James_To	graduatedFrom	University_of_Hong_Kong
+James_To	graduatedFrom	University_of_Hong_Kong
+James_To	graduatedFrom	University_of_Hong_Kong
+James_To	isAffiliatedTo	United_Democrats_of_Hong_Kong
+James_To	isAffiliatedTo	United_Democrats_of_Hong_Kong
+
+http://dbpedia.org/resource/James_To	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/United_Democrats_of_Hong_Kong
+James_To	United_Democrats_of_Hong_Kong
+James_To	graduatedFrom	University_of_Hong_Kong
+James_To	graduatedFrom	University_of_Hong_Kong
+Yeung_Sum	graduatedFrom	University_of_Hong_Kong
+Yeung_Sum	graduatedFrom	University_of_Hong_Kong
+Yeung_Sum	isAffiliatedTo	United_Democrats_of_Hong_Kong
+Yeung_Sum	isLeaderOf	United_Democrats_of_Hong_Kong
+Yeung_Sum	isAffiliatedTo	United_Democrats_of_Hong_Kong
+Yeung_Sum	isLeaderOf	United_Democrats_of_Hong_Kong
+
+http://dbpedia.org/resource/James_To	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/United_Democrats_of_Hong_Kong
+James_To	United_Democrats_of_Hong_Kong
+James_To	graduatedFrom	University_of_Hong_Kong
+James_To	graduatedFrom	University_of_Hong_Kong
+Man_Sai-cheong	graduatedFrom	University_of_Hong_Kong
+Man_Sai-cheong	graduatedFrom	University_of_Hong_Kong
+Man_Sai-cheong	isAffiliatedTo	United_Democrats_of_Hong_Kong
+Man_Sai-cheong	isAffiliatedTo	United_Democrats_of_Hong_Kong
+
+http://dbpedia.org/resource/James_To	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/United_Democrats_of_Hong_Kong
+James_To	United_Democrats_of_Hong_Kong
+James_To	isAffiliatedTo	United_Democrats_of_Hong_Kong
+James_To	isAffiliatedTo	United_Democrats_of_Hong_Kong
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Claudio_Scajola	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Ugo_Cappellacci	isAffiliatedTo	Forza_Italia_(2013)
+Ugo_Cappellacci	isAffiliatedTo	Forza_Italia_(2013)
+Ugo_Cappellacci	isAffiliatedTo	The_People_of_Freedom
+Ugo_Cappellacci	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Claudio_Scajola	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Mara_Carfagna	isAffiliatedTo	Forza_Italia_(2013)
+Mara_Carfagna	isAffiliatedTo	Forza_Italia_(2013)
+Mara_Carfagna	isAffiliatedTo	The_People_of_Freedom
+Mara_Carfagna	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Claudio_Scajola	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Sandro_Bondi	isAffiliatedTo	Forza_Italia_(2013)
+Sandro_Bondi	isAffiliatedTo	Forza_Italia_(2013)
+Sandro_Bondi	isLeaderOf	The_People_of_Freedom
+Sandro_Bondi	isAffiliatedTo	The_People_of_Freedom
+Sandro_Bondi	isLeaderOf	The_People_of_Freedom
+Sandro_Bondi	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Claudio_Scajola	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Antonio_Martino	isAffiliatedTo	Forza_Italia_(2013)
+Antonio_Martino	isAffiliatedTo	Forza_Italia_(2013)
+Antonio_Martino	isAffiliatedTo	The_People_of_Freedom
+Antonio_Martino	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Claudio_Scajola	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Mario_Mauro	isAffiliatedTo	Forza_Italia_(2013)
+Mario_Mauro	isAffiliatedTo	Forza_Italia_(2013)
+Mario_Mauro	isAffiliatedTo	The_People_of_Freedom
+Mario_Mauro	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Claudio_Scajola	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Nunzia_De_Girolamo	isAffiliatedTo	Forza_Italia_(2013)
+Nunzia_De_Girolamo	isAffiliatedTo	Forza_Italia_(2013)
+Nunzia_De_Girolamo	isAffiliatedTo	The_People_of_Freedom
+Nunzia_De_Girolamo	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Claudio_Scajola	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Claudio_Scajola	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Altero_Matteoli	isAffiliatedTo	Forza_Italia_(2013)
+Altero_Matteoli	isAffiliatedTo	Forza_Italia_(2013)
+Altero_Matteoli	isAffiliatedTo	The_People_of_Freedom
+Altero_Matteoli	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Claudio_Scajola	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Francesco_Nitto_Palma	isAffiliatedTo	Forza_Italia_(2013)
+Francesco_Nitto_Palma	isAffiliatedTo	Forza_Italia_(2013)
+Francesco_Nitto_Palma	isAffiliatedTo	The_People_of_Freedom
+Francesco_Nitto_Palma	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Claudio_Scajola	The_People_of_Freedom
+Claudio_Scajola	graduatedFrom	University_of_Genoa
+Claudio_Scajola	graduatedFrom	University_of_Genoa
+Claudio_Scajola	graduatedFrom	University_of_Genoa
+Claudio_Scajola	graduatedFrom	University_of_Genoa
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Claudio_Scajola	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Silvio_Berlusconi	isAffiliatedTo	Forza_Italia
+Silvio_Berlusconi	isLeaderOf	Forza_Italia
+Silvio_Berlusconi	isAffiliatedTo	Forza_Italia
+Silvio_Berlusconi	isLeaderOf	Forza_Italia
+Silvio_Berlusconi	isLeaderOf	The_People_of_Freedom
+Silvio_Berlusconi	isAffiliatedTo	The_People_of_Freedom
+Silvio_Berlusconi	isLeaderOf	The_People_of_Freedom
+Silvio_Berlusconi	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Claudio_Scajola	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Raffaele_Fitto	isAffiliatedTo	Forza_Italia
+Raffaele_Fitto	isAffiliatedTo	Forza_Italia
+Raffaele_Fitto	isAffiliatedTo	The_People_of_Freedom
+Raffaele_Fitto	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Claudio_Scajola	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Claudio_Scajola	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Pietro_Lunardi	isAffiliatedTo	Forza_Italia
+Pietro_Lunardi	isAffiliatedTo	Forza_Italia
+Pietro_Lunardi	isAffiliatedTo	The_People_of_Freedom
+Pietro_Lunardi	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Claudio_Scajola	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Antonio_Tajani	isAffiliatedTo	Forza_Italia
+Antonio_Tajani	isAffiliatedTo	Forza_Italia
+Antonio_Tajani	isAffiliatedTo	The_People_of_Freedom
+Antonio_Tajani	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Claudio_Scajola	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Antonio_Martino	isAffiliatedTo	Forza_Italia
+Antonio_Martino	isAffiliatedTo	Forza_Italia
+Antonio_Martino	isAffiliatedTo	The_People_of_Freedom
+Antonio_Martino	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Claudio_Scajola	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Giuseppe_Cossiga	isAffiliatedTo	Forza_Italia
+Giuseppe_Cossiga	isAffiliatedTo	Forza_Italia
+Giuseppe_Cossiga	isAffiliatedTo	The_People_of_Freedom
+Giuseppe_Cossiga	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Claudio_Scajola	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Gaetano_Quagliariello	isAffiliatedTo	Forza_Italia
+Gaetano_Quagliariello	isAffiliatedTo	Forza_Italia
+Gaetano_Quagliariello	isAffiliatedTo	The_People_of_Freedom
+Gaetano_Quagliariello	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Claudio_Scajola	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Lara_Comi	isAffiliatedTo	Forza_Italia
+Lara_Comi	isAffiliatedTo	Forza_Italia
+Lara_Comi	isAffiliatedTo	The_People_of_Freedom
+Lara_Comi	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/The_People_of_Freedom
+Claudio_Scajola	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+
+http://dbpedia.org/resource/Bernard_Aluwihare	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Sri_Lanka_Freedom_Party
+Bernard_Aluwihare	Sri_Lanka_Freedom_Party
+Bernard_Aluwihare	isPoliticianOf	Sri_Lanka
+Bernard_Aluwihare	isCitizenOf	Sri_Lanka
+Bernard_Aluwihare	isPoliticianOf	Sri_Lanka
+Bernard_Aluwihare	isCitizenOf	Sri_Lanka
+Sanjeewa_Hulangamuwa	isCitizenOf	Sri_Lanka
+Sanjeewa_Hulangamuwa	isCitizenOf	Sri_Lanka
+Sanjeewa_Hulangamuwa	isAffiliatedTo	Sri_Lanka_Freedom_Party
+Sanjeewa_Hulangamuwa	isAffiliatedTo	Sri_Lanka_Freedom_Party
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Claudio_Scajola	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Mara_Carfagna	isAffiliatedTo	Forza_Italia_(2013)
+Mara_Carfagna	isAffiliatedTo	Forza_Italia_(2013)
+Mara_Carfagna	isAffiliatedTo	Forza_Italia
+Mara_Carfagna	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Claudio_Scajola	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Antonio_Martino	isAffiliatedTo	Forza_Italia_(2013)
+Antonio_Martino	isAffiliatedTo	Forza_Italia_(2013)
+Antonio_Martino	isAffiliatedTo	Forza_Italia
+Antonio_Martino	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Claudio_Scajola	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Mario_Mauro	isAffiliatedTo	Forza_Italia_(2013)
+Mario_Mauro	isAffiliatedTo	Forza_Italia_(2013)
+Mario_Mauro	isAffiliatedTo	Forza_Italia
+Mario_Mauro	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Claudio_Scajola	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Nunzia_De_Girolamo	isAffiliatedTo	Forza_Italia_(2013)
+Nunzia_De_Girolamo	isAffiliatedTo	Forza_Italia_(2013)
+Nunzia_De_Girolamo	isAffiliatedTo	Forza_Italia
+Nunzia_De_Girolamo	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Claudio_Scajola	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Claudio_Scajola	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Claudio_Scajola	Forza_Italia
+Claudio_Scajola	graduatedFrom	University_of_Genoa
+Claudio_Scajola	graduatedFrom	University_of_Genoa
+Claudio_Scajola	graduatedFrom	University_of_Genoa
+Claudio_Scajola	graduatedFrom	University_of_Genoa
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Claudio_Scajola	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Claudio_Scajola	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Pietro_Lunardi	isAffiliatedTo	The_People_of_Freedom
+Pietro_Lunardi	isAffiliatedTo	The_People_of_Freedom
+Pietro_Lunardi	isAffiliatedTo	Forza_Italia
+Pietro_Lunardi	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Claudio_Scajola	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Antonio_Martino	isAffiliatedTo	The_People_of_Freedom
+Antonio_Martino	isAffiliatedTo	The_People_of_Freedom
+Antonio_Martino	isAffiliatedTo	Forza_Italia
+Antonio_Martino	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Claudio_Scajola	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Claudio_Scajola	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Silvio_Berlusconi	isLeaderOf	The_People_of_Freedom
+Silvio_Berlusconi	isAffiliatedTo	The_People_of_Freedom
+Silvio_Berlusconi	isLeaderOf	The_People_of_Freedom
+Silvio_Berlusconi	isAffiliatedTo	The_People_of_Freedom
+Silvio_Berlusconi	isAffiliatedTo	Forza_Italia
+Silvio_Berlusconi	isLeaderOf	Forza_Italia
+Silvio_Berlusconi	isAffiliatedTo	Forza_Italia
+Silvio_Berlusconi	isLeaderOf	Forza_Italia
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Claudio_Scajola	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Letizia_Moratti	isAffiliatedTo	The_People_of_Freedom
+Letizia_Moratti	isAffiliatedTo	The_People_of_Freedom
+Letizia_Moratti	isAffiliatedTo	Forza_Italia
+Letizia_Moratti	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Claudio_Scajola	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Nunzia_De_Girolamo	isAffiliatedTo	The_People_of_Freedom
+Nunzia_De_Girolamo	isAffiliatedTo	The_People_of_Freedom
+Nunzia_De_Girolamo	isAffiliatedTo	Forza_Italia
+Nunzia_De_Girolamo	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Claudio_Scajola	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Claudio_Scajola	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Renato_Schifani	Forza_Italia
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Renato_Schifani	Forza_Italia
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+Pietro_Lunardi	isAffiliatedTo	The_People_of_Freedom
+Pietro_Lunardi	isAffiliatedTo	The_People_of_Freedom
+Pietro_Lunardi	isAffiliatedTo	Forza_Italia
+Pietro_Lunardi	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Renato_Schifani	Forza_Italia
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+Antonio_Martino	isAffiliatedTo	The_People_of_Freedom
+Antonio_Martino	isAffiliatedTo	The_People_of_Freedom
+Antonio_Martino	isAffiliatedTo	Forza_Italia
+Antonio_Martino	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Renato_Schifani	Forza_Italia
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Renato_Schifani	Forza_Italia
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+Silvio_Berlusconi	isLeaderOf	The_People_of_Freedom
+Silvio_Berlusconi	isAffiliatedTo	The_People_of_Freedom
+Silvio_Berlusconi	isLeaderOf	The_People_of_Freedom
+Silvio_Berlusconi	isAffiliatedTo	The_People_of_Freedom
+Silvio_Berlusconi	isAffiliatedTo	Forza_Italia
+Silvio_Berlusconi	isLeaderOf	Forza_Italia
+Silvio_Berlusconi	isAffiliatedTo	Forza_Italia
+Silvio_Berlusconi	isLeaderOf	Forza_Italia
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Renato_Schifani	Forza_Italia
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+Letizia_Moratti	isAffiliatedTo	The_People_of_Freedom
+Letizia_Moratti	isAffiliatedTo	The_People_of_Freedom
+Letizia_Moratti	isAffiliatedTo	Forza_Italia
+Letizia_Moratti	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Renato_Schifani	Forza_Italia
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+Nunzia_De_Girolamo	isAffiliatedTo	The_People_of_Freedom
+Nunzia_De_Girolamo	isAffiliatedTo	The_People_of_Freedom
+Nunzia_De_Girolamo	isAffiliatedTo	Forza_Italia
+Nunzia_De_Girolamo	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Renato_Schifani	Forza_Italia
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+Renato_Schifani	isAffiliatedTo	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	The_People_of_Freedom
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+Claudio_Scajola	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Renato_Schifani	Forza_Italia
+Renato_Schifani	wasBornIn	Palermo
+Renato_Schifani	wasBornIn	Palermo
+Renato_Schifani	wasBornIn	Palermo
+Renato_Schifani	wasBornIn	Palermo
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Renato_Schifani	Forza_Italia
+Renato_Schifani	wasBornIn	Palermo
+Renato_Schifani	wasBornIn	Palermo
+Marcello_Dell'Utri	wasBornIn	Palermo
+Marcello_Dell'Utri	wasBornIn	Palermo
+Marcello_Dell'Utri	isAffiliatedTo	Forza_Italia
+Marcello_Dell'Utri	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Renato_Schifani	Forza_Italia
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Mara_Carfagna	isAffiliatedTo	Forza_Italia_(2013)
+Mara_Carfagna	isAffiliatedTo	Forza_Italia_(2013)
+Mara_Carfagna	isAffiliatedTo	Forza_Italia
+Mara_Carfagna	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Renato_Schifani	Forza_Italia
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Antonio_Martino	isAffiliatedTo	Forza_Italia_(2013)
+Antonio_Martino	isAffiliatedTo	Forza_Italia_(2013)
+Antonio_Martino	isAffiliatedTo	Forza_Italia
+Antonio_Martino	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Renato_Schifani	Forza_Italia
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Mario_Mauro	isAffiliatedTo	Forza_Italia_(2013)
+Mario_Mauro	isAffiliatedTo	Forza_Italia_(2013)
+Mario_Mauro	isAffiliatedTo	Forza_Italia
+Mario_Mauro	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Renato_Schifani	Forza_Italia
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Nunzia_De_Girolamo	isAffiliatedTo	Forza_Italia_(2013)
+Nunzia_De_Girolamo	isAffiliatedTo	Forza_Italia_(2013)
+Nunzia_De_Girolamo	isAffiliatedTo	Forza_Italia
+Nunzia_De_Girolamo	isAffiliatedTo	Forza_Italia
+
+http://dbpedia.org/resource/Renato_Schifani	http://dbpedia.org/ontology/otherParty	http://dbpedia.org/resource/Forza_Italia
+Renato_Schifani	Forza_Italia
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia_(2013)
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+Renato_Schifani	isAffiliatedTo	Forza_Italia
+

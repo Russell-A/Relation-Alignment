@@ -1,0 +1,21 @@
+http://dbpedia.org/resource/House_of_Hardcore	http://dbpedia.org/ontology/promotion	http://dbpedia.org/resource/House_of_Hardcore
+House_of_Hardcore	House_of_Hardcore
+House_of_Hardcore	isLocatedIn	Metuchen,_New_Jersey
+House_of_Hardcore	isLocatedIn	Metuchen,_New_Jersey
+House_of_Hardcore	isLocatedIn	Metuchen,_New_Jersey
+House_of_Hardcore	isLocatedIn	Metuchen,_New_Jersey
+
+http://dbpedia.org/resource/House_of_Hardcore	http://dbpedia.org/ontology/promotion	http://dbpedia.org/resource/House_of_Hardcore
+House_of_Hardcore	House_of_Hardcore
+House_of_Hardcore	isLocatedIn	Pasadena,_Texas
+House_of_Hardcore	isLocatedIn	Pasadena,_Texas
+House_of_Hardcore	isLocatedIn	Pasadena,_Texas
+House_of_Hardcore	isLocatedIn	Pasadena,_Texas
+
+http://dbpedia.org/resource/House_of_Hardcore	http://dbpedia.org/ontology/promotion	http://dbpedia.org/resource/House_of_Hardcore
+House_of_Hardcore	House_of_Hardcore
+House_of_Hardcore	isLocatedIn	Poughkeepsie,_New_York
+House_of_Hardcore	isLocatedIn	Poughkeepsie,_New_York
+House_of_Hardcore	isLocatedIn	Poughkeepsie,_New_York
+House_of_Hardcore	isLocatedIn	Poughkeepsie,_New_York
+

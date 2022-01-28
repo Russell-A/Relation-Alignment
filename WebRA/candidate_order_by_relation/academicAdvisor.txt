@@ -1,0 +1,309 @@
+http://dbpedia.org/resource/Gustav_Heinrich_Johann_Apollon_Tammann	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Carl_Schmidt_(chemist)
+Gustav_Heinrich_Johann_Apollon_Tammann	Carl_Schmidt_(chemist)
+Gustav_Heinrich_Johann_Apollon_Tammann	hasAcademicAdvisor	Carl_Schmidt_(chemist)
+Gustav_Heinrich_Johann_Apollon_Tammann	hasAcademicAdvisor	Carl_Schmidt_(chemist)
+
+http://dbpedia.org/resource/Gustav_Heinrich_Johann_Apollon_Tammann	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Carl_Schmidt_(chemist)
+Gustav_Heinrich_Johann_Apollon_Tammann	Carl_Schmidt_(chemist)
+Iris_Runge	hasAcademicAdvisor	Gustav_Heinrich_Johann_Apollon_Tammann
+Iris_Runge	hasAcademicAdvisor	Gustav_Heinrich_Johann_Apollon_Tammann
+Iris_Runge	hasAcademicAdvisor	Gustav_Heinrich_Johann_Apollon_Tammann
+Iris_Runge	hasAcademicAdvisor	Gustav_Heinrich_Johann_Apollon_Tammann
+Gustav_Heinrich_Johann_Apollon_Tammann	hasAcademicAdvisor	Carl_Schmidt_(chemist)
+Gustav_Heinrich_Johann_Apollon_Tammann	hasAcademicAdvisor	Carl_Schmidt_(chemist)
+
+http://dbpedia.org/resource/George_Vernadsky	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Heinrich_Rickert
+George_Vernadsky	Heinrich_Rickert
+Heinrich_Rickert	influences	George_Vernadsky
+Heinrich_Rickert	influences	George_Vernadsky
+
+http://dbpedia.org/resource/George_Vernadsky	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Heinrich_Rickert
+George_Vernadsky	Heinrich_Rickert
+George_Vernadsky	diedIn	New_Haven,_Connecticut
+George_Vernadsky	diedIn	New_Haven,_Connecticut
+George_Vernadsky	diedIn	New_Haven,_Connecticut
+George_Vernadsky	diedIn	New_Haven,_Connecticut
+Heinrich_Rickert	influences	George_Vernadsky
+Heinrich_Rickert	influences	George_Vernadsky
+
+http://dbpedia.org/resource/Robert_Bacher	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Samuel_Goudsmit
+Robert_Bacher	Samuel_Goudsmit
+Boyce_McDaniel	hasAcademicAdvisor	Robert_Bacher
+Boyce_McDaniel	hasAcademicAdvisor	Robert_Bacher
+Boyce_McDaniel	hasAcademicAdvisor	Robert_Bacher
+Boyce_McDaniel	hasAcademicAdvisor	Robert_Bacher
+Robert_Bacher	hasAcademicAdvisor	Samuel_Goudsmit
+Robert_Bacher	hasAcademicAdvisor	Samuel_Goudsmit
+
+http://dbpedia.org/resource/Robert_Bacher	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Samuel_Goudsmit
+Robert_Bacher	Samuel_Goudsmit
+Robert_Bacher	hasAcademicAdvisor	Samuel_Goudsmit
+Robert_Bacher	hasAcademicAdvisor	Samuel_Goudsmit
+
+http://dbpedia.org/resource/Robert_Bacher	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Samuel_Goudsmit
+Robert_Bacher	Samuel_Goudsmit
+Robert_Bacher	graduatedFrom	University_of_Michigan
+Robert_Bacher	graduatedFrom	University_of_Michigan
+Robert_Bacher	graduatedFrom	University_of_Michigan
+Robert_Bacher	graduatedFrom	University_of_Michigan
+Robert_Bacher	hasAcademicAdvisor	Samuel_Goudsmit
+Robert_Bacher	hasAcademicAdvisor	Samuel_Goudsmit
+
+http://dbpedia.org/resource/Robert_Bacher	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Samuel_Goudsmit
+Robert_Bacher	Samuel_Goudsmit
+Robert_Bacher	graduatedFrom	University_of_Michigan
+Robert_Bacher	graduatedFrom	University_of_Michigan
+Samuel_Goudsmit	worksAt	University_of_Michigan
+Samuel_Goudsmit	worksAt	University_of_Michigan
+
+http://dbpedia.org/resource/John_D._Boice,_Jr.	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Shields_Warren
+John_D._Boice,_Jr.	Shields_Warren
+John_D._Boice,_Jr.	graduatedFrom	University_of_Texas_at_El_Paso
+John_D._Boice,_Jr.	graduatedFrom	University_of_Texas_at_El_Paso
+John_D._Boice,_Jr.	graduatedFrom	University_of_Texas_at_El_Paso
+John_D._Boice,_Jr.	graduatedFrom	University_of_Texas_at_El_Paso
+Shields_Warren	influences	John_D._Boice,_Jr.
+Shields_Warren	influences	John_D._Boice,_Jr.
+
+http://dbpedia.org/resource/John_D._Boice,_Jr.	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Shields_Warren
+John_D._Boice,_Jr.	Shields_Warren
+Shields_Warren	influences	John_D._Boice,_Jr.
+Shields_Warren	influences	John_D._Boice,_Jr.
+
+http://dbpedia.org/resource/John_D._Boice,_Jr.	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Shields_Warren
+John_D._Boice,_Jr.	Shields_Warren
+John_D._Boice,_Jr.	worksAt	Vanderbilt_University
+John_D._Boice,_Jr.	worksAt	Vanderbilt_University
+John_D._Boice,_Jr.	worksAt	Vanderbilt_University
+John_D._Boice,_Jr.	worksAt	Vanderbilt_University
+Shields_Warren	influences	John_D._Boice,_Jr.
+Shields_Warren	influences	John_D._Boice,_Jr.
+
+http://dbpedia.org/resource/Hironari_Miyazawa	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Masao_Kotani
+Hironari_Miyazawa	Masao_Kotani
+Hironari_Miyazawa	graduatedFrom	University_of_Tokyo
+Hironari_Miyazawa	worksAt	University_of_Tokyo
+Hironari_Miyazawa	graduatedFrom	University_of_Tokyo
+Hironari_Miyazawa	worksAt	University_of_Tokyo
+Masao_Kotani	worksAt	University_of_Tokyo
+Masao_Kotani	graduatedFrom	University_of_Tokyo
+Masao_Kotani	worksAt	University_of_Tokyo
+Masao_Kotani	graduatedFrom	University_of_Tokyo
+
+http://dbpedia.org/resource/Hironari_Miyazawa	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Masao_Kotani
+Hironari_Miyazawa	Masao_Kotani
+Hironari_Miyazawa	hasAcademicAdvisor	Takahiko_Yamanouchi
+Hironari_Miyazawa	hasAcademicAdvisor	Takahiko_Yamanouchi
+Takahiko_Yamanouchi	worksAt	University_of_Tokyo
+Takahiko_Yamanouchi	graduatedFrom	University_of_Tokyo
+Takahiko_Yamanouchi	worksAt	University_of_Tokyo
+Takahiko_Yamanouchi	graduatedFrom	University_of_Tokyo
+Masao_Kotani	worksAt	University_of_Tokyo
+Masao_Kotani	graduatedFrom	University_of_Tokyo
+Masao_Kotani	worksAt	University_of_Tokyo
+Masao_Kotani	graduatedFrom	University_of_Tokyo
+
+http://dbpedia.org/resource/Otto_Hahn	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Adolf_von_Baeyer
+Otto_Hahn	Adolf_von_Baeyer
+Adolf_von_Baeyer	influences	Otto_Hahn
+Adolf_von_Baeyer	influences	Otto_Hahn
+
+http://dbpedia.org/resource/Otto_Hahn	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Adolf_von_Baeyer
+Otto_Hahn	Adolf_von_Baeyer
+Otto_Hahn	influences	Glenn_T._Seaborg
+Otto_Hahn	influences	Glenn_T._Seaborg
+Otto_Hahn	influences	Glenn_T._Seaborg
+Otto_Hahn	influences	Glenn_T._Seaborg
+Adolf_von_Baeyer	influences	Otto_Hahn
+Adolf_von_Baeyer	influences	Otto_Hahn
+
+http://dbpedia.org/resource/Otto_Hahn	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Adolf_von_Baeyer
+Otto_Hahn	Adolf_von_Baeyer
+William_Ramsay	influences	Otto_Hahn
+William_Ramsay	influences	Otto_Hahn
+William_Ramsay	influences	Otto_Hahn
+William_Ramsay	influences	Otto_Hahn
+Adolf_von_Baeyer	influences	Otto_Hahn
+Adolf_von_Baeyer	influences	Otto_Hahn
+
+http://dbpedia.org/resource/Otto_Hahn	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Adolf_von_Baeyer
+Otto_Hahn	Adolf_von_Baeyer
+Otto_Hahn	influences	Nikolay_Semyonov
+Otto_Hahn	influences	Nikolay_Semyonov
+Otto_Hahn	influences	Nikolay_Semyonov
+Otto_Hahn	influences	Nikolay_Semyonov
+Adolf_von_Baeyer	influences	Otto_Hahn
+Adolf_von_Baeyer	influences	Otto_Hahn
+
+http://dbpedia.org/resource/Otto_Hahn	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Adolf_von_Baeyer
+Otto_Hahn	Adolf_von_Baeyer
+Otto_Hahn	worksAt	Max_Planck_Society
+Otto_Hahn	worksAt	Max_Planck_Society
+Otto_Hahn	worksAt	Max_Planck_Society
+Otto_Hahn	worksAt	Max_Planck_Society
+Adolf_von_Baeyer	influences	Otto_Hahn
+Adolf_von_Baeyer	influences	Otto_Hahn
+
+http://dbpedia.org/resource/Otto_Hahn	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Adolf_von_Baeyer
+Otto_Hahn	Adolf_von_Baeyer
+Otto_Hahn	hasAcademicAdvisor	Theodor_Zincke
+Otto_Hahn	hasAcademicAdvisor	Theodor_Zincke
+Otto_Hahn	hasAcademicAdvisor	Theodor_Zincke
+Otto_Hahn	hasAcademicAdvisor	Theodor_Zincke
+Adolf_von_Baeyer	influences	Otto_Hahn
+Adolf_von_Baeyer	influences	Otto_Hahn
+
+http://dbpedia.org/resource/Otto_Hahn	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Adolf_von_Baeyer
+Otto_Hahn	Adolf_von_Baeyer
+Otto_Hahn	hasAcademicAdvisor	Theodor_Zincke
+Otto_Hahn	hasAcademicAdvisor	Theodor_Zincke
+Theodor_Zincke	hasAcademicAdvisor	August_Kekulé
+Theodor_Zincke	hasAcademicAdvisor	August_Kekulé
+Adolf_von_Baeyer	hasAcademicAdvisor	August_Kekulé
+Adolf_von_Baeyer	hasAcademicAdvisor	August_Kekulé
+
+http://dbpedia.org/resource/Otto_Hahn	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Adolf_von_Baeyer
+Otto_Hahn	Adolf_von_Baeyer
+Otto_Hahn	influences	Joseph_W._Kennedy
+Otto_Hahn	influences	Joseph_W._Kennedy
+Otto_Hahn	influences	Joseph_W._Kennedy
+Otto_Hahn	influences	Joseph_W._Kennedy
+Adolf_von_Baeyer	influences	Otto_Hahn
+Adolf_von_Baeyer	influences	Otto_Hahn
+
+http://dbpedia.org/resource/Otto_Hahn	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Adolf_von_Baeyer
+Otto_Hahn	Adolf_von_Baeyer
+Lise_Meitner	influences	Otto_Hahn
+Lise_Meitner	influences	Otto_Hahn
+Lise_Meitner	influences	Otto_Hahn
+Lise_Meitner	influences	Otto_Hahn
+Adolf_von_Baeyer	influences	Otto_Hahn
+Adolf_von_Baeyer	influences	Otto_Hahn
+
+http://dbpedia.org/resource/Otto_Hahn	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Adolf_von_Baeyer
+Otto_Hahn	Adolf_von_Baeyer
+Aristid_von_Grosse	hasAcademicAdvisor	Otto_Hahn
+Aristid_von_Grosse	hasAcademicAdvisor	Otto_Hahn
+Aristid_von_Grosse	hasAcademicAdvisor	Otto_Hahn
+Aristid_von_Grosse	hasAcademicAdvisor	Otto_Hahn
+Adolf_von_Baeyer	influences	Otto_Hahn
+Adolf_von_Baeyer	influences	Otto_Hahn
+
+http://dbpedia.org/resource/Otto_Hahn	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Adolf_von_Baeyer
+Otto_Hahn	Adolf_von_Baeyer
+Otto_Hahn	influences	Edwin_McMillan
+Otto_Hahn	influences	Edwin_McMillan
+Otto_Hahn	influences	Edwin_McMillan
+Otto_Hahn	influences	Edwin_McMillan
+Adolf_von_Baeyer	influences	Otto_Hahn
+Adolf_von_Baeyer	influences	Otto_Hahn
+
+http://dbpedia.org/resource/Otto_Hahn	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Adolf_von_Baeyer
+Otto_Hahn	Adolf_von_Baeyer
+Otto_Hahn	influences	Philip_Abelson
+Otto_Hahn	influences	Philip_Abelson
+Otto_Hahn	influences	Philip_Abelson
+Otto_Hahn	influences	Philip_Abelson
+Adolf_von_Baeyer	influences	Otto_Hahn
+Adolf_von_Baeyer	influences	Otto_Hahn
+
+http://dbpedia.org/resource/Otto_Hahn	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Ludwig_Maximilian_University_of_Munich
+Otto_Hahn	Ludwig_Maximilian_University_of_Munich
+Adolf_von_Baeyer	influences	Otto_Hahn
+Adolf_von_Baeyer	influences	Otto_Hahn
+Max_Rubner	hasAcademicAdvisor	Adolf_von_Baeyer
+Max_Rubner	hasAcademicAdvisor	Adolf_von_Baeyer
+Max_Rubner	graduatedFrom	Ludwig_Maximilian_University_of_Munich
+Max_Rubner	graduatedFrom	Ludwig_Maximilian_University_of_Munich
+
+http://dbpedia.org/resource/Otto_Hahn	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Ludwig_Maximilian_University_of_Munich
+Otto_Hahn	Ludwig_Maximilian_University_of_Munich
+Otto_Hahn	worksAt	Max_Planck_Society
+Otto_Hahn	worksAt	Max_Planck_Society
+Max_von_Laue	worksAt	Max_Planck_Society
+Max_von_Laue	worksAt	Max_Planck_Society
+Max_von_Laue	graduatedFrom	Ludwig_Maximilian_University_of_Munich
+Max_von_Laue	graduatedFrom	Ludwig_Maximilian_University_of_Munich
+
+http://dbpedia.org/resource/Henry_DeWolf_Smyth	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Karl_Taylor_Compton
+Henry_DeWolf_Smyth	Karl_Taylor_Compton
+Henry_DeWolf_Smyth	worksAt	Princeton_University
+Henry_DeWolf_Smyth	worksAt	Princeton_University
+Philip_M._Morse	graduatedFrom	Princeton_University
+Philip_M._Morse	graduatedFrom	Princeton_University
+Philip_M._Morse	hasAcademicAdvisor	Karl_Taylor_Compton
+Philip_M._Morse	hasAcademicAdvisor	Karl_Taylor_Compton
+
+http://dbpedia.org/resource/Hironari_Miyazawa	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Gregor_Wentzel
+Hironari_Miyazawa	Gregor_Wentzel
+Hironari_Miyazawa	worksAt	University_of_Chicago
+Hironari_Miyazawa	worksAt	University_of_Chicago
+Gregor_Wentzel	graduatedFrom	University_of_Chicago
+Gregor_Wentzel	graduatedFrom	University_of_Chicago
+
+http://dbpedia.org/resource/Charles_L._Kane	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Patrick_A._Lee
+Charles_L._Kane	Patrick_A._Lee
+Charles_L._Kane	hasAcademicAdvisor	Patrick_A._Lee
+Charles_L._Kane	hasAcademicAdvisor	Patrick_A._Lee
+
+http://dbpedia.org/resource/Charles_L._Kane	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Patrick_A._Lee
+Charles_L._Kane	Patrick_A._Lee
+Charles_L._Kane	livesIn	Philadelphia
+Charles_L._Kane	livesIn	Philadelphia
+Charles_L._Kane	livesIn	Philadelphia
+Charles_L._Kane	livesIn	Philadelphia
+Charles_L._Kane	hasAcademicAdvisor	Patrick_A._Lee
+Charles_L._Kane	hasAcademicAdvisor	Patrick_A._Lee
+
+http://dbpedia.org/resource/Charles_L._Kane	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Patrick_A._Lee
+Charles_L._Kane	Patrick_A._Lee
+Charles_L._Kane	graduatedFrom	University_of_Chicago
+Charles_L._Kane	graduatedFrom	University_of_Chicago
+Charles_L._Kane	graduatedFrom	University_of_Chicago
+Charles_L._Kane	graduatedFrom	University_of_Chicago
+Charles_L._Kane	hasAcademicAdvisor	Patrick_A._Lee
+Charles_L._Kane	hasAcademicAdvisor	Patrick_A._Lee
+
+http://dbpedia.org/resource/Ugo_Fano	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Enrico_Fermi
+Ugo_Fano	Enrico_Fermi
+Emilio_Segrè	influences	Ugo_Fano
+Emilio_Segrè	influences	Ugo_Fano
+Emilio_Segrè	worksAt	Sapienza_University_of_Rome
+Emilio_Segrè	graduatedFrom	Sapienza_University_of_Rome
+Emilio_Segrè	worksAt	Sapienza_University_of_Rome
+Emilio_Segrè	graduatedFrom	Sapienza_University_of_Rome
+Enrico_Fermi	worksAt	Sapienza_University_of_Rome
+Enrico_Fermi	worksAt	Sapienza_University_of_Rome
+
+http://dbpedia.org/resource/Ugo_Fano	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Enrico_Fermi
+Ugo_Fano	Enrico_Fermi
+Emilio_Segrè	influences	Ugo_Fano
+Emilio_Segrè	influences	Ugo_Fano
+Emilio_Segrè	hasAcademicAdvisor	Enrico_Fermi
+Emilio_Segrè	hasAcademicAdvisor	Enrico_Fermi
+
+http://dbpedia.org/resource/Ugo_Fano	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Enrico_Fermi
+Ugo_Fano	Enrico_Fermi
+Ugo_Fano	worksAt	Sapienza_University_of_Rome
+Ugo_Fano	worksAt	Sapienza_University_of_Rome
+Emilio_Segrè	worksAt	Sapienza_University_of_Rome
+Emilio_Segrè	graduatedFrom	Sapienza_University_of_Rome
+Emilio_Segrè	worksAt	Sapienza_University_of_Rome
+Emilio_Segrè	graduatedFrom	Sapienza_University_of_Rome
+Emilio_Segrè	hasAcademicAdvisor	Enrico_Fermi
+Emilio_Segrè	hasAcademicAdvisor	Enrico_Fermi
+
+http://dbpedia.org/resource/Ugo_Fano	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Enrico_Fermi
+Ugo_Fano	Enrico_Fermi
+Ugo_Fano	worksAt	Sapienza_University_of_Rome
+Ugo_Fano	worksAt	Sapienza_University_of_Rome
+Enrico_Fermi	worksAt	Sapienza_University_of_Rome
+Enrico_Fermi	worksAt	Sapienza_University_of_Rome
+
+http://dbpedia.org/resource/Ugo_Fano	http://dbpedia.org/ontology/academicAdvisor	http://dbpedia.org/resource/Enrico_Fermi
+Ugo_Fano	Enrico_Fermi
+Ugo_Fano	diedIn	Chicago
+Ugo_Fano	diedIn	Chicago
+Enrico_Fermi	diedIn	Chicago
+Enrico_Fermi	diedIn	Chicago
+

@@ -1,0 +1,217 @@
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/Barak_Netanya_B.C.
+Zvi_Sherf	Barak_Netanya_B.C.
+Zvi_Sherf	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Danny_Franco	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Danny_Franco	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Danny_Franco	isAffiliatedTo	Barak_Netanya_B.C.
+Danny_Franco	isAffiliatedTo	Barak_Netanya_B.C.
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/Hapoel_Jerusalem_B.C.
+Zvi_Sherf	Hapoel_Jerusalem_B.C.
+Zvi_Sherf	isAffiliatedTo	P.A.O.K._BC
+Zvi_Sherf	isAffiliatedTo	P.A.O.K._BC
+Tre_Simmons	isAffiliatedTo	P.A.O.K._BC
+Tre_Simmons	isAffiliatedTo	P.A.O.K._BC
+Tre_Simmons	isAffiliatedTo	Hapoel_Jerusalem_B.C.
+Tre_Simmons	isAffiliatedTo	Hapoel_Jerusalem_B.C.
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/Hapoel_Jerusalem_B.C.
+Zvi_Sherf	Hapoel_Jerusalem_B.C.
+Zvi_Sherf	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Danny_Franco	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Danny_Franco	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Danny_Franco	isAffiliatedTo	Hapoel_Jerusalem_B.C.
+Danny_Franco	isAffiliatedTo	Hapoel_Jerusalem_B.C.
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/Hapoel_Jerusalem_B.C.
+Zvi_Sherf	Hapoel_Jerusalem_B.C.
+Zvi_Sherf	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Tre_Simmons	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Tre_Simmons	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Tre_Simmons	isAffiliatedTo	Hapoel_Jerusalem_B.C.
+Tre_Simmons	isAffiliatedTo	Hapoel_Jerusalem_B.C.
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/Hapoel_Jerusalem_B.C.
+Zvi_Sherf	Hapoel_Jerusalem_B.C.
+Zvi_Sherf	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Derrick_Hamilton_(basketball)	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Derrick_Hamilton_(basketball)	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Derrick_Hamilton_(basketball)	isAffiliatedTo	Hapoel_Jerusalem_B.C.
+Derrick_Hamilton_(basketball)	isAffiliatedTo	Hapoel_Jerusalem_B.C.
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/Hapoel_Jerusalem_B.C.
+Zvi_Sherf	Hapoel_Jerusalem_B.C.
+Zvi_Sherf	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Meir_Tapiro	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Meir_Tapiro	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Meir_Tapiro	isAffiliatedTo	Hapoel_Jerusalem_B.C.
+Meir_Tapiro	isAffiliatedTo	Hapoel_Jerusalem_B.C.
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/Hapoel_Jerusalem_B.C.
+Zvi_Sherf	Hapoel_Jerusalem_B.C.
+Zvi_Sherf	isAffiliatedTo	Aris_B.C.
+Zvi_Sherf	isAffiliatedTo	Aris_B.C.
+John_Thomas_(basketball)	isAffiliatedTo	Aris_B.C.
+John_Thomas_(basketball)	isAffiliatedTo	Aris_B.C.
+John_Thomas_(basketball)	isAffiliatedTo	Hapoel_Jerusalem_B.C.
+John_Thomas_(basketball)	isAffiliatedTo	Hapoel_Jerusalem_B.C.
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/Hapoel_Jerusalem_B.C.
+Zvi_Sherf	Hapoel_Jerusalem_B.C.
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Yuval_Naimy	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Yuval_Naimy	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Yuval_Naimy	isAffiliatedTo	Hapoel_Jerusalem_B.C.
+Yuval_Naimy	isAffiliatedTo	Hapoel_Jerusalem_B.C.
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/Hapoel_Jerusalem_B.C.
+Zvi_Sherf	Hapoel_Jerusalem_B.C.
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Yotam_Halperin	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Yotam_Halperin	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Yotam_Halperin	isAffiliatedTo	Hapoel_Jerusalem_B.C.
+Yotam_Halperin	isAffiliatedTo	Hapoel_Jerusalem_B.C.
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/Hapoel_Jerusalem_B.C.
+Zvi_Sherf	Hapoel_Jerusalem_B.C.
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Tre_Simmons	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Tre_Simmons	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Tre_Simmons	isAffiliatedTo	Hapoel_Jerusalem_B.C.
+Tre_Simmons	isAffiliatedTo	Hapoel_Jerusalem_B.C.
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	P.A.O.K._BC
+Zvi_Sherf	isAffiliatedTo	P.A.O.K._BC
+Tre_Simmons	isAffiliatedTo	P.A.O.K._BC
+Tre_Simmons	isAffiliatedTo	P.A.O.K._BC
+Tre_Simmons	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Tre_Simmons	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	P.A.O.K._BC
+Zvi_Sherf	isAffiliatedTo	P.A.O.K._BC
+Zvi_Sherf	isAffiliatedTo	P.A.O.K._BC
+Zvi_Sherf	isAffiliatedTo	P.A.O.K._BC
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Tre_Simmons	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Tre_Simmons	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Tre_Simmons	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Tre_Simmons	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Aris_B.C.
+Zvi_Sherf	isAffiliatedTo	Aris_B.C.
+Zvi_Sherf	isAffiliatedTo	Aris_B.C.
+Zvi_Sherf	isAffiliatedTo	Aris_B.C.
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/P.A.O.K._BC
+Zvi_Sherf	P.A.O.K._BC
+Zvi_Sherf	isAffiliatedTo	P.A.O.K._BC
+Zvi_Sherf	isAffiliatedTo	P.A.O.K._BC
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/P.A.O.K._BC
+Zvi_Sherf	P.A.O.K._BC
+Zvi_Sherf	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	P.A.O.K._BC
+Zvi_Sherf	isAffiliatedTo	P.A.O.K._BC
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/P.A.O.K._BC
+Zvi_Sherf	P.A.O.K._BC
+Zvi_Sherf	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Tre_Simmons	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Tre_Simmons	isAffiliatedTo	Hapoel_Tel_Aviv_B.C.
+Tre_Simmons	isAffiliatedTo	P.A.O.K._BC
+Tre_Simmons	isAffiliatedTo	P.A.O.K._BC
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/P.A.O.K._BC
+Zvi_Sherf	P.A.O.K._BC
+Zvi_Sherf	isAffiliatedTo	Aris_B.C.
+Zvi_Sherf	isAffiliatedTo	Aris_B.C.
+Slobodan_Subotić	isAffiliatedTo	Aris_B.C.
+Slobodan_Subotić	isAffiliatedTo	Aris_B.C.
+Slobodan_Subotić	isAffiliatedTo	P.A.O.K._BC
+Slobodan_Subotić	isAffiliatedTo	P.A.O.K._BC
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/P.A.O.K._BC
+Zvi_Sherf	P.A.O.K._BC
+Zvi_Sherf	isAffiliatedTo	Aris_B.C.
+Zvi_Sherf	isAffiliatedTo	Aris_B.C.
+Giorgos_Sigalas	isAffiliatedTo	Aris_B.C.
+Giorgos_Sigalas	isAffiliatedTo	Aris_B.C.
+Giorgos_Sigalas	isAffiliatedTo	P.A.O.K._BC
+Giorgos_Sigalas	isAffiliatedTo	P.A.O.K._BC
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/P.A.O.K._BC
+Zvi_Sherf	P.A.O.K._BC
+Zvi_Sherf	isAffiliatedTo	Aris_B.C.
+Zvi_Sherf	isAffiliatedTo	Aris_B.C.
+Zvi_Sherf	isAffiliatedTo	Aris_B.C.
+Zvi_Sherf	isAffiliatedTo	Aris_B.C.
+Zvi_Sherf	isAffiliatedTo	P.A.O.K._BC
+Zvi_Sherf	isAffiliatedTo	P.A.O.K._BC
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/P.A.O.K._BC
+Zvi_Sherf	P.A.O.K._BC
+Zvi_Sherf	isAffiliatedTo	Aris_B.C.
+Zvi_Sherf	isAffiliatedTo	Aris_B.C.
+Vassilis_Xanthopoulos	isAffiliatedTo	Aris_B.C.
+Vassilis_Xanthopoulos	isAffiliatedTo	Aris_B.C.
+Vassilis_Xanthopoulos	isAffiliatedTo	P.A.O.K._BC
+Vassilis_Xanthopoulos	isAffiliatedTo	P.A.O.K._BC
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/P.A.O.K._BC
+Zvi_Sherf	P.A.O.K._BC
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Tre_Simmons	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Tre_Simmons	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Tre_Simmons	isAffiliatedTo	P.A.O.K._BC
+Tre_Simmons	isAffiliatedTo	P.A.O.K._BC
+
+http://dbpedia.org/resource/Zvi_Sherf	http://dbpedia.org/ontology/coachedTeam	http://dbpedia.org/resource/P.A.O.K._BC
+Zvi_Sherf	P.A.O.K._BC
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	Maccabi_Tel_Aviv_B.C.
+Zvi_Sherf	isAffiliatedTo	P.A.O.K._BC
+Zvi_Sherf	isAffiliatedTo	P.A.O.K._BC
+

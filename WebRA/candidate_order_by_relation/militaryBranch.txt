@@ -1,0 +1,104 @@
+http://dbpedia.org/resource/Fahd_Jassem_al-Freij	http://dbpedia.org/ontology/militaryBranch	http://dbpedia.org/resource/Syrian_Army
+Fahd_Jassem_al-Freij	Syrian_Army
+Fahd_Jassem_al-Freij	isLeaderOf	Syrian_Army
+Fahd_Jassem_al-Freij	isLeaderOf	Syrian_Army
+
+http://dbpedia.org/resource/H._R._McMaster	http://dbpedia.org/ontology/militaryBranch	http://dbpedia.org/resource/United_States_Army
+H._R._McMaster	United_States_Army
+H._R._McMaster	isCitizenOf	Iraq
+H._R._McMaster	isCitizenOf	Iraq
+Mark_A._Milley	isCitizenOf	Iraq
+Mark_A._Milley	isCitizenOf	Iraq
+Mark_A._Milley	isLeaderOf	United_States_Army
+Mark_A._Milley	isLeaderOf	United_States_Army
+
+http://dbpedia.org/resource/James_U._Downs	http://dbpedia.org/ontology/militaryBranch	http://dbpedia.org/resource/United_States_Army
+James_U._Downs	United_States_Army
+James_U._Downs	livesIn	North_Carolina
+James_U._Downs	livesIn	North_Carolina
+Camp_Mackall	isLocatedIn	North_Carolina
+Camp_Mackall	isLocatedIn	North_Carolina
+United_States_Army	owns	Camp_Mackall
+United_States_Army	owns	Camp_Mackall
+
+http://dbpedia.org/resource/Babagana_Monguno	http://dbpedia.org/ontology/militaryBranch	http://dbpedia.org/resource/Nigerian_Army
+Babagana_Monguno	Nigerian_Army
+Babagana_Monguno	graduatedFrom	Nigerian_Defence_Academy
+Babagana_Monguno	graduatedFrom	Nigerian_Defence_Academy
+Tukur_Yusuf_Buratai	graduatedFrom	Nigerian_Defence_Academy
+Tukur_Yusuf_Buratai	graduatedFrom	Nigerian_Defence_Academy
+Tukur_Yusuf_Buratai	isLeaderOf	Nigerian_Army
+Tukur_Yusuf_Buratai	isLeaderOf	Nigerian_Army
+
+http://dbpedia.org/resource/Oladipo_Diya	http://dbpedia.org/ontology/militaryBranch	http://dbpedia.org/resource/Nigerian_Army
+Oladipo_Diya	Nigerian_Army
+Oladipo_Diya	graduatedFrom	Nigerian_Defence_Academy
+Oladipo_Diya	graduatedFrom	Nigerian_Defence_Academy
+Tukur_Yusuf_Buratai	graduatedFrom	Nigerian_Defence_Academy
+Tukur_Yusuf_Buratai	graduatedFrom	Nigerian_Defence_Academy
+Tukur_Yusuf_Buratai	isLeaderOf	Nigerian_Army
+Tukur_Yusuf_Buratai	isLeaderOf	Nigerian_Army
+
+http://dbpedia.org/resource/Francis_H._Case	http://dbpedia.org/ontology/militaryBranch	http://dbpedia.org/resource/United_States_Army
+Francis_H._Case	United_States_Army
+Francis_H._Case	diedIn	Bethesda,_Maryland
+Francis_H._Case	diedIn	Bethesda,_Maryland
+Henry_Feffer	diedIn	Bethesda,_Maryland
+Henry_Feffer	diedIn	Bethesda,_Maryland
+Henry_Feffer	worksAt	United_States_Army
+Henry_Feffer	worksAt	United_States_Army
+
+http://dbpedia.org/resource/Abayomi_Olonisakin	http://dbpedia.org/ontology/militaryBranch	http://dbpedia.org/resource/Nigerian_Army
+Abayomi_Olonisakin	Nigerian_Army
+Abayomi_Olonisakin	graduatedFrom	Nigerian_Defence_Academy
+Abayomi_Olonisakin	graduatedFrom	Nigerian_Defence_Academy
+Tukur_Yusuf_Buratai	graduatedFrom	Nigerian_Defence_Academy
+Tukur_Yusuf_Buratai	graduatedFrom	Nigerian_Defence_Academy
+Tukur_Yusuf_Buratai	isLeaderOf	Nigerian_Army
+Tukur_Yusuf_Buratai	isLeaderOf	Nigerian_Army
+
+http://dbpedia.org/resource/Zach_McIlwain	http://dbpedia.org/ontology/militaryBranch	http://dbpedia.org/resource/United_States_Army
+Zach_McIlwain	United_States_Army
+Zach_McIlwain	isCitizenOf	Iraq
+Zach_McIlwain	isCitizenOf	Iraq
+Mark_A._Milley	isCitizenOf	Iraq
+Mark_A._Milley	isCitizenOf	Iraq
+Mark_A._Milley	isLeaderOf	United_States_Army
+Mark_A._Milley	isLeaderOf	United_States_Army
+
+http://dbpedia.org/resource/Abdullah_Hussein_Jebara	http://dbpedia.org/ontology/militaryBranch	http://dbpedia.org/resource/Iraqi_Army
+Abdullah_Hussein_Jebara	Iraqi_Army
+Abdullah_Hussein_Jebara	isAffiliatedTo	Coalition_for_Iraqi_National_Unity
+Abdullah_Hussein_Jebara	isAffiliatedTo	Coalition_for_Iraqi_National_Unity
+Coalition_for_Iraqi_National_Unity	isLocatedIn	Baghdad
+Coalition_for_Iraqi_National_Unity	isLocatedIn	Baghdad
+Iraqi_Army	isLocatedIn	Baghdad
+Iraqi_Army	isLocatedIn	Baghdad
+
+http://dbpedia.org/resource/Bruce_Laingen	http://dbpedia.org/ontology/militaryBranch	http://dbpedia.org/resource/United_States_Navy
+Bruce_Laingen	United_States_Navy
+Bruce_Laingen	graduatedFrom	National_War_College
+Bruce_Laingen	graduatedFrom	National_War_College
+James_Mattis	graduatedFrom	National_War_College
+James_Mattis	graduatedFrom	National_War_College
+James_Mattis	isLeaderOf	United_States_Navy
+James_Mattis	isLeaderOf	United_States_Navy
+
+http://dbpedia.org/resource/Hugh_B._Hester	http://dbpedia.org/ontology/militaryBranch	http://dbpedia.org/resource/United_States_Army
+Hugh_B._Hester	United_States_Army
+Hugh_B._Hester	wasBornIn	North_Carolina
+Hugh_B._Hester	wasBornIn	North_Carolina
+Camp_Mackall	isLocatedIn	North_Carolina
+Camp_Mackall	isLocatedIn	North_Carolina
+United_States_Army	owns	Camp_Mackall
+United_States_Army	owns	Camp_Mackall
+
+http://dbpedia.org/resource/Jake_Allex	http://dbpedia.org/ontology/militaryBranch	http://dbpedia.org/resource/United_States_Army
+Jake_Allex	United_States_Army
+Jake_Allex	diedIn	Chicago
+Jake_Allex	diedIn	Chicago
+Fort_Dearborn	isLocatedIn	Chicago
+Fort_Dearborn	isLocatedIn	Chicago
+United_States_Army	created	Fort_Dearborn
+United_States_Army	created	Fort_Dearborn
+

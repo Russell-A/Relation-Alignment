@@ -1,0 +1,1868 @@
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+TV_Doma	Slovakia
+Central_European_Media_Enterprises	owns	TV_Doma
+Central_European_Media_Enterprises	owns	TV_Doma
+Central_European_Media_Enterprises	owns	TV_Doma
+Central_European_Media_Enterprises	owns	TV_Doma
+TV_Doma	isLocatedIn	Slovakia
+TV_Doma	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+TV_Doma	Slovakia
+Central_European_Media_Enterprises	owns	TV_Doma
+Central_European_Media_Enterprises	owns	TV_Doma
+Central_European_Media_Enterprises	owns	TV_Fooor
+Central_European_Media_Enterprises	owns	TV_Fooor
+TV_Fooor	isLocatedIn	Slovakia
+TV_Fooor	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+TV_Doma	Slovakia
+Central_European_Media_Enterprises	owns	TV_Doma
+Central_European_Media_Enterprises	owns	TV_Doma
+Central_European_Media_Enterprises	owns	Markíza
+Central_European_Media_Enterprises	owns	Markíza
+Markíza	isLocatedIn	Slovakia
+Markíza	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+TV_Doma	Slovakia
+Central_European_Media_Enterprises	owns	TV_Doma
+Central_European_Media_Enterprises	owns	TV_Doma
+Central_European_Media_Enterprises	owns	Dajto
+Central_European_Media_Enterprises	owns	Dajto
+Dajto	isLocatedIn	Slovakia
+Dajto	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+TV_Doma	Slovakia
+TV_Doma	isLocatedIn	Záhorská_Bystrica
+TV_Doma	isLocatedIn	Záhorská_Bystrica
+Dajto	isLocatedIn	Záhorská_Bystrica
+Dajto	isLocatedIn	Záhorská_Bystrica
+Dajto	isLocatedIn	Slovakia
+Dajto	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+TV_Doma	Slovakia
+TV_Doma	isLocatedIn	Záhorská_Bystrica
+TV_Doma	isLocatedIn	Záhorská_Bystrica
+Záhorská_Bystrica	isLocatedIn	Bratislava_Region
+Záhorská_Bystrica	isLocatedIn	Bratislava_Region
+Bratislava_Region	isLocatedIn	Slovakia
+Bratislava_Region	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+TV_Doma	Slovakia
+TV_Doma	isLocatedIn	Záhorská_Bystrica
+TV_Doma	isLocatedIn	Záhorská_Bystrica
+TV_Doma	isLocatedIn	Záhorská_Bystrica
+TV_Doma	isLocatedIn	Záhorská_Bystrica
+TV_Doma	isLocatedIn	Slovakia
+TV_Doma	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+TV_Doma	Slovakia
+TV_Doma	isLocatedIn	Záhorská_Bystrica
+TV_Doma	isLocatedIn	Záhorská_Bystrica
+TV_Fooor	isLocatedIn	Záhorská_Bystrica
+TV_Fooor	isLocatedIn	Záhorská_Bystrica
+TV_Fooor	isLocatedIn	Slovakia
+TV_Fooor	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+TV_Doma	Slovakia
+TV_Doma	isLocatedIn	Záhorská_Bystrica
+TV_Doma	isLocatedIn	Záhorská_Bystrica
+Markíza	isLocatedIn	Záhorská_Bystrica
+Markíza	isLocatedIn	Záhorská_Bystrica
+Markíza	isLocatedIn	Slovakia
+Markíza	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+TV_Doma	Slovakia
+TV_Doma	isLocatedIn	Bratislava
+TV_Doma	isLocatedIn	Bratislava
+Igor_Kluvánek	diedIn	Bratislava
+Igor_Kluvánek	diedIn	Bratislava
+Igor_Kluvánek	isCitizenOf	Slovakia
+Igor_Kluvánek	livesIn	Slovakia
+Igor_Kluvánek	isCitizenOf	Slovakia
+Igor_Kluvánek	livesIn	Slovakia
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+TV_Doma	Slovakia
+TV_Doma	isLocatedIn	Bratislava
+TV_Doma	isLocatedIn	Bratislava
+Ivan_Šimko	wasBornIn	Bratislava
+Ivan_Šimko	wasBornIn	Bratislava
+Ivan_Šimko	isCitizenOf	Slovakia
+Ivan_Šimko	isPoliticianOf	Slovakia
+Ivan_Šimko	isCitizenOf	Slovakia
+Ivan_Šimko	isPoliticianOf	Slovakia
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+TV_Doma	Slovakia
+TV_Doma	isLocatedIn	Bratislava
+TV_Doma	isLocatedIn	Bratislava
+Stanislav_Gron	wasBornIn	Bratislava
+Stanislav_Gron	wasBornIn	Bratislava
+Stanislav_Gron	isCitizenOf	Slovakia
+Stanislav_Gron	isCitizenOf	Slovakia
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+TV_Doma	Slovakia
+TV_Doma	isLocatedIn	Bratislava
+TV_Doma	isLocatedIn	Bratislava
+Miroslav_Lažo	wasBornIn	Bratislava
+Miroslav_Lažo	wasBornIn	Bratislava
+Miroslav_Lažo	isCitizenOf	Slovakia
+Miroslav_Lažo	isCitizenOf	Slovakia
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+TV_Doma	Slovakia
+TV_Doma	isLocatedIn	Bratislava
+TV_Doma	isLocatedIn	Bratislava
+Peter_Šťastný	wasBornIn	Bratislava
+Peter_Šťastný	wasBornIn	Bratislava
+Peter_Šťastný	isCitizenOf	Slovakia
+Peter_Šťastný	isCitizenOf	Slovakia
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+TV_Doma	Slovakia
+TV_Doma	isLocatedIn	Bratislava
+TV_Doma	isLocatedIn	Bratislava
+Tamara_Heribanová	wasBornIn	Bratislava
+Tamara_Heribanová	wasBornIn	Bratislava
+Tamara_Heribanová	isCitizenOf	Slovakia
+Tamara_Heribanová	isCitizenOf	Slovakia
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+TV_Doma	Slovakia
+TV_Doma	isLocatedIn	Bratislava
+TV_Doma	isLocatedIn	Bratislava
+Kamil_Čapkovič	livesIn	Bratislava
+Kamil_Čapkovič	livesIn	Bratislava
+Kamil_Čapkovič	isCitizenOf	Slovakia
+Kamil_Čapkovič	livesIn	Slovakia
+Kamil_Čapkovič	isCitizenOf	Slovakia
+Kamil_Čapkovič	livesIn	Slovakia
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+TV_Doma	Slovakia
+TV_Doma	isLocatedIn	Bratislava
+TV_Doma	isLocatedIn	Bratislava
+Apsley_Business_School_-_London	isLocatedIn	Bratislava
+Apsley_Business_School_-_London	isLocatedIn	Bratislava
+Apsley_Business_School_-_London	isLocatedIn	Slovakia
+Apsley_Business_School_-_London	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+TV_Doma	Slovakia
+TV_Doma	isLocatedIn	Bratislava
+TV_Doma	isLocatedIn	Bratislava
+Michal_Kováč	diedIn	Bratislava
+Michal_Kováč	diedIn	Bratislava
+Michal_Kováč	isPoliticianOf	Slovakia
+Michal_Kováč	isCitizenOf	Slovakia
+Michal_Kováč	isPoliticianOf	Slovakia
+Michal_Kováč	isCitizenOf	Slovakia
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+TV_Doma	Slovakia
+TV_Doma	isLocatedIn	Bratislava
+TV_Doma	isLocatedIn	Bratislava
+Bohumil_Golián	diedIn	Bratislava
+Bohumil_Golián	diedIn	Bratislava
+Bohumil_Golián	isCitizenOf	Slovakia
+Bohumil_Golián	isCitizenOf	Slovakia
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+TV_Doma	Slovakia
+TV_Doma	isLocatedIn	Bratislava
+TV_Doma	isLocatedIn	Bratislava
+Jaroslav_Halák	wasBornIn	Bratislava
+Jaroslav_Halák	wasBornIn	Bratislava
+Jaroslav_Halák	isCitizenOf	Slovakia
+Jaroslav_Halák	isCitizenOf	Slovakia
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+TV_Doma	Slovakia
+TV_Doma	isLocatedIn	Bratislava
+TV_Doma	isLocatedIn	Bratislava
+Ľubomír_Meszároš	wasBornIn	Bratislava
+Ľubomír_Meszároš	wasBornIn	Bratislava
+Ľubomír_Meszároš	isCitizenOf	Slovakia
+Ľubomír_Meszároš	isCitizenOf	Slovakia
+
+http://dbpedia.org/resource/TV_Doma	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+TV_Doma	Slovakia
+TV_Doma	isLocatedIn	Slovakia
+TV_Doma	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Conchita_Cintrón	diedIn	Lisbon
+Conchita_Cintrón	diedIn	Lisbon
+Conchita_Cintrón	isCitizenOf	Portugal
+Conchita_Cintrón	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Artur_Ivens_Ferraz	wasBornIn	Lisbon
+Artur_Ivens_Ferraz	diedIn	Lisbon
+Artur_Ivens_Ferraz	wasBornIn	Lisbon
+Artur_Ivens_Ferraz	diedIn	Lisbon
+Artur_Ivens_Ferraz	isPoliticianOf	Portugal
+Artur_Ivens_Ferraz	isCitizenOf	Portugal
+Artur_Ivens_Ferraz	isPoliticianOf	Portugal
+Artur_Ivens_Ferraz	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Miguel_Monteiro	wasBornIn	Lisbon
+Miguel_Monteiro	wasBornIn	Lisbon
+Miguel_Monteiro	isCitizenOf	Portugal
+Miguel_Monteiro	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Fininho_(Portuguese_footballer)	wasBornIn	Lisbon
+Fininho_(Portuguese_footballer)	wasBornIn	Lisbon
+Fininho_(Portuguese_footballer)	isCitizenOf	Portugal
+Fininho_(Portuguese_footballer)	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Jaime_Montestrela	wasBornIn	Lisbon
+Jaime_Montestrela	wasBornIn	Lisbon
+Jaime_Montestrela	isCitizenOf	Portugal
+Jaime_Montestrela	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Anselmo_José_Braamcamp	diedIn	Lisbon
+Anselmo_José_Braamcamp	wasBornIn	Lisbon
+Anselmo_José_Braamcamp	diedIn	Lisbon
+Anselmo_José_Braamcamp	wasBornIn	Lisbon
+Anselmo_José_Braamcamp	isPoliticianOf	Portugal
+Anselmo_José_Braamcamp	isCitizenOf	Portugal
+Anselmo_José_Braamcamp	isPoliticianOf	Portugal
+Anselmo_José_Braamcamp	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Beatrice_of_Castile_(1293–1359)	diedIn	Lisbon
+Beatrice_of_Castile_(1293–1359)	diedIn	Lisbon
+Beatrice_of_Castile_(1293–1359)	isCitizenOf	Portugal
+Beatrice_of_Castile_(1293–1359)	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Pedro_I_of_Brazil	diedIn	Lisbon
+Pedro_I_of_Brazil	diedIn	Lisbon
+Pedro_I_of_Brazil	isCitizenOf	Portugal
+Pedro_I_of_Brazil	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Afonso_IV_of_Portugal	wasBornIn	Lisbon
+Afonso_IV_of_Portugal	diedIn	Lisbon
+Afonso_IV_of_Portugal	wasBornIn	Lisbon
+Afonso_IV_of_Portugal	diedIn	Lisbon
+Afonso_IV_of_Portugal	isCitizenOf	Portugal
+Afonso_IV_of_Portugal	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Vasco_da_Gama_Fernandes	diedIn	Lisbon
+Vasco_da_Gama_Fernandes	diedIn	Lisbon
+Vasco_da_Gama_Fernandes	isCitizenOf	Portugal
+Vasco_da_Gama_Fernandes	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Álvaro_de_Campos	diedIn	Lisbon
+Álvaro_de_Campos	diedIn	Lisbon
+Álvaro_de_Campos	isCitizenOf	Portugal
+Álvaro_de_Campos	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Bruno_Simão	wasBornIn	Lisbon
+Bruno_Simão	wasBornIn	Lisbon
+Bruno_Simão	isCitizenOf	Portugal
+Bruno_Simão	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+Mário_Soares	diedIn	Lisbon
+Mário_Soares	wasBornIn	Lisbon
+Mário_Soares	isCitizenOf	Portugal
+Mário_Soares	isPoliticianOf	Portugal
+Mário_Soares	isCitizenOf	Portugal
+Mário_Soares	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Luís_of_Portugal,_Duke_of_Beja	diedIn	Lisbon
+Luís_of_Portugal,_Duke_of_Beja	diedIn	Lisbon
+Luís_of_Portugal,_Duke_of_Beja	isCitizenOf	Portugal
+Luís_of_Portugal,_Duke_of_Beja	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+José_Bernardino_de_Portugal_e_Castro	diedIn	Lisbon
+José_Bernardino_de_Portugal_e_Castro	diedIn	Lisbon
+José_Bernardino_de_Portugal_e_Castro	isPoliticianOf	Portugal
+José_Bernardino_de_Portugal_e_Castro	isCitizenOf	Portugal
+José_Bernardino_de_Portugal_e_Castro	isPoliticianOf	Portugal
+José_Bernardino_de_Portugal_e_Castro	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Said_Baaghil	livesIn	Lisbon
+Said_Baaghil	livesIn	Lisbon
+Said_Baaghil	livesIn	Portugal
+Said_Baaghil	livesIn	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+José_Couceiro	wasBornIn	Lisbon
+José_Couceiro	wasBornIn	Lisbon
+José_Couceiro	isCitizenOf	Portugal
+José_Couceiro	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Pina_Manique	wasBornIn	Lisbon
+Pina_Manique	diedIn	Lisbon
+Pina_Manique	wasBornIn	Lisbon
+Pina_Manique	diedIn	Lisbon
+Pina_Manique	isCitizenOf	Portugal
+Pina_Manique	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Henry,_King_of_Portugal	wasBornIn	Lisbon
+Henry,_King_of_Portugal	wasBornIn	Lisbon
+Henry,_King_of_Portugal	isCitizenOf	Portugal
+Henry,_King_of_Portugal	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+First_Portuguese_Republic	hasCapital	Lisbon
+First_Portuguese_Republic	hasCapital	Lisbon
+First_Portuguese_Republic	isLocatedIn	Portugal
+First_Portuguese_Republic	isLocatedIn	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Infanta_Maria_Doroteia_of_Portugal	diedIn	Lisbon
+Infanta_Maria_Doroteia_of_Portugal	wasBornIn	Lisbon
+Infanta_Maria_Doroteia_of_Portugal	diedIn	Lisbon
+Infanta_Maria_Doroteia_of_Portugal	wasBornIn	Lisbon
+Infanta_Maria_Doroteia_of_Portugal	isCitizenOf	Portugal
+Infanta_Maria_Doroteia_of_Portugal	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Alfredo_Abrantes	wasBornIn	Lisbon
+Alfredo_Abrantes	wasBornIn	Lisbon
+Alfredo_Abrantes	isCitizenOf	Portugal
+Alfredo_Abrantes	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Universidade_Nova_de_Lisboa	isLocatedIn	Lisbon
+Universidade_Nova_de_Lisboa	isLocatedIn	Lisbon
+Universidade_Nova_de_Lisboa	isLocatedIn	Portugal
+Universidade_Nova_de_Lisboa	isLocatedIn	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Soledad_Miranda	diedIn	Lisbon
+Soledad_Miranda	diedIn	Lisbon
+Soledad_Miranda	isCitizenOf	Portugal
+Soledad_Miranda	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+António_de_Sousa_Franco	wasBornIn	Lisbon
+António_de_Sousa_Franco	wasBornIn	Lisbon
+António_de_Sousa_Franco	isCitizenOf	Portugal
+António_de_Sousa_Franco	isPoliticianOf	Portugal
+António_de_Sousa_Franco	isCitizenOf	Portugal
+António_de_Sousa_Franco	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+João_Crisóstomo_de_Abreu_e_Sousa	wasBornIn	Lisbon
+João_Crisóstomo_de_Abreu_e_Sousa	diedIn	Lisbon
+João_Crisóstomo_de_Abreu_e_Sousa	wasBornIn	Lisbon
+João_Crisóstomo_de_Abreu_e_Sousa	diedIn	Lisbon
+João_Crisóstomo_de_Abreu_e_Sousa	isPoliticianOf	Portugal
+João_Crisóstomo_de_Abreu_e_Sousa	isCitizenOf	Portugal
+João_Crisóstomo_de_Abreu_e_Sousa	isPoliticianOf	Portugal
+João_Crisóstomo_de_Abreu_e_Sousa	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Infanta_Maria_Ana_Francisca_of_Portugal	wasBornIn	Lisbon
+Infanta_Maria_Ana_Francisca_of_Portugal	wasBornIn	Lisbon
+Infanta_Maria_Ana_Francisca_of_Portugal	isCitizenOf	Portugal
+Infanta_Maria_Ana_Francisca_of_Portugal	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Bruno_Nogueira	wasBornIn	Lisbon
+Bruno_Nogueira	wasBornIn	Lisbon
+Bruno_Nogueira	isCitizenOf	Portugal
+Bruno_Nogueira	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Mile_Mrkšić	diedIn	Lisbon
+Mile_Mrkšić	diedIn	Lisbon
+Mile_Mrkšić	isCitizenOf	Portugal
+Mile_Mrkšić	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Teresa_Patrício_de_Gouveia	wasBornIn	Lisbon
+Teresa_Patrício_de_Gouveia	wasBornIn	Lisbon
+Teresa_Patrício_de_Gouveia	isPoliticianOf	Portugal
+Teresa_Patrício_de_Gouveia	isCitizenOf	Portugal
+Teresa_Patrício_de_Gouveia	isPoliticianOf	Portugal
+Teresa_Patrício_de_Gouveia	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Nuno_Manuel_Soares_Gomes	wasBornIn	Lisbon
+Nuno_Manuel_Soares_Gomes	wasBornIn	Lisbon
+Nuno_Manuel_Soares_Gomes	isCitizenOf	Portugal
+Nuno_Manuel_Soares_Gomes	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+António_de_Spínola	diedIn	Lisbon
+António_de_Spínola	diedIn	Lisbon
+António_de_Spínola	isCitizenOf	Portugal
+António_de_Spínola	isPoliticianOf	Portugal
+António_de_Spínola	isCitizenOf	Portugal
+António_de_Spínola	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Antão_de_Almada,_12th_Count_of_Avranches	diedIn	Lisbon
+Antão_de_Almada,_12th_Count_of_Avranches	diedIn	Lisbon
+Antão_de_Almada,_12th_Count_of_Avranches	isCitizenOf	Portugal
+Antão_de_Almada,_12th_Count_of_Avranches	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Vítor_Constâncio	wasBornIn	Lisbon
+Vítor_Constâncio	wasBornIn	Lisbon
+Vítor_Constâncio	isCitizenOf	Portugal
+Vítor_Constâncio	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Vasco_de_Almeida_e_Costa	wasBornIn	Lisbon
+Vasco_de_Almeida_e_Costa	diedIn	Lisbon
+Vasco_de_Almeida_e_Costa	wasBornIn	Lisbon
+Vasco_de_Almeida_e_Costa	diedIn	Lisbon
+Vasco_de_Almeida_e_Costa	isCitizenOf	Portugal
+Vasco_de_Almeida_e_Costa	isPoliticianOf	Portugal
+Vasco_de_Almeida_e_Costa	isCitizenOf	Portugal
+Vasco_de_Almeida_e_Costa	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Teófilo_Braga	diedIn	Lisbon
+Teófilo_Braga	diedIn	Lisbon
+Teófilo_Braga	isCitizenOf	Portugal
+Teófilo_Braga	isPoliticianOf	Portugal
+Teófilo_Braga	isCitizenOf	Portugal
+Teófilo_Braga	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+José_of_Braganza,_Archbishop_of_Braga	wasBornIn	Lisbon
+José_of_Braganza,_Archbishop_of_Braga	wasBornIn	Lisbon
+José_of_Braganza,_Archbishop_of_Braga	isCitizenOf	Portugal
+José_of_Braganza,_Archbishop_of_Braga	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Lisbon	isLocatedIn	Lisboa_Region
+Lisbon	isLocatedIn	Lisboa_Region
+Lisboa_Region	isLocatedIn	Portugal
+Lisboa_Region	isLocatedIn	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Salvador_de_Sá	diedIn	Lisbon
+Salvador_de_Sá	diedIn	Lisbon
+Salvador_de_Sá	isCitizenOf	Portugal
+Salvador_de_Sá	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Pedro_Mota_Soares	wasBornIn	Lisbon
+Pedro_Mota_Soares	wasBornIn	Lisbon
+Pedro_Mota_Soares	isCitizenOf	Portugal
+Pedro_Mota_Soares	isPoliticianOf	Portugal
+Pedro_Mota_Soares	isCitizenOf	Portugal
+Pedro_Mota_Soares	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Joaquim_Pedro_de_Oliveira_Martins	wasBornIn	Lisbon
+Joaquim_Pedro_de_Oliveira_Martins	diedIn	Lisbon
+Joaquim_Pedro_de_Oliveira_Martins	wasBornIn	Lisbon
+Joaquim_Pedro_de_Oliveira_Martins	diedIn	Lisbon
+Joaquim_Pedro_de_Oliveira_Martins	isPoliticianOf	Portugal
+Joaquim_Pedro_de_Oliveira_Martins	isCitizenOf	Portugal
+Joaquim_Pedro_de_Oliveira_Martins	isPoliticianOf	Portugal
+Joaquim_Pedro_de_Oliveira_Martins	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+José_Travassos_Valdez,_1st_Count_of_Bonfim	diedIn	Lisbon
+José_Travassos_Valdez,_1st_Count_of_Bonfim	diedIn	Lisbon
+José_Travassos_Valdez,_1st_Count_of_Bonfim	isCitizenOf	Portugal
+José_Travassos_Valdez,_1st_Count_of_Bonfim	isPoliticianOf	Portugal
+José_Travassos_Valdez,_1st_Count_of_Bonfim	isCitizenOf	Portugal
+José_Travassos_Valdez,_1st_Count_of_Bonfim	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Sidónio_Pais	diedIn	Lisbon
+Sidónio_Pais	diedIn	Lisbon
+Sidónio_Pais	isCitizenOf	Portugal
+Sidónio_Pais	isPoliticianOf	Portugal
+Sidónio_Pais	isCitizenOf	Portugal
+Sidónio_Pais	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Luís_Boa_Morte	wasBornIn	Lisbon
+Luís_Boa_Morte	wasBornIn	Lisbon
+Luís_Boa_Morte	isCitizenOf	Portugal
+Luís_Boa_Morte	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Pedro_Jorge_Ramos_Moreira	wasBornIn	Lisbon
+Pedro_Jorge_Ramos_Moreira	wasBornIn	Lisbon
+Pedro_Jorge_Ramos_Moreira	isCitizenOf	Portugal
+Pedro_Jorge_Ramos_Moreira	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+António_Morato	wasBornIn	Lisbon
+António_Morato	wasBornIn	Lisbon
+António_Morato	isCitizenOf	Portugal
+António_Morato	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Liberato_Pinto	diedIn	Lisbon
+Liberato_Pinto	wasBornIn	Lisbon
+Liberato_Pinto	diedIn	Lisbon
+Liberato_Pinto	wasBornIn	Lisbon
+Liberato_Pinto	isPoliticianOf	Portugal
+Liberato_Pinto	isCitizenOf	Portugal
+Liberato_Pinto	isPoliticianOf	Portugal
+Liberato_Pinto	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Lisbon	isLocatedIn	Portugal
+Portugal	hasCapital	Lisbon
+Lisbon	isLocatedIn	Portugal
+Portugal	hasCapital	Lisbon
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Global_Media_Group	isLocatedIn	Lisbon
+Global_Media_Group	isLocatedIn	Lisbon
+Global_Media_Group	isLocatedIn	Portugal
+Global_Media_Group	isLocatedIn	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Maria_of_Portugal,_Duchess_of_Viseu	wasBornIn	Lisbon
+Maria_of_Portugal,_Duchess_of_Viseu	diedIn	Lisbon
+Maria_of_Portugal,_Duchess_of_Viseu	wasBornIn	Lisbon
+Maria_of_Portugal,_Duchess_of_Viseu	diedIn	Lisbon
+Maria_of_Portugal,_Duchess_of_Viseu	isCitizenOf	Portugal
+Maria_of_Portugal,_Duchess_of_Viseu	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+José_Sebastião_e_Silva	diedIn	Lisbon
+José_Sebastião_e_Silva	diedIn	Lisbon
+José_Sebastião_e_Silva	isCitizenOf	Portugal
+José_Sebastião_e_Silva	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Cafú_(footballer,_born_1977)	wasBornIn	Lisbon
+Cafú_(footballer,_born_1977)	wasBornIn	Lisbon
+Cafú_(footballer,_born_1977)	isCitizenOf	Portugal
+Cafú_(footballer,_born_1977)	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+António_Vitorino	wasBornIn	Lisbon
+António_Vitorino	wasBornIn	Lisbon
+António_Vitorino	isCitizenOf	Portugal
+António_Vitorino	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Luís_Marques_Guedes	wasBornIn	Lisbon
+Luís_Marques_Guedes	wasBornIn	Lisbon
+Luís_Marques_Guedes	isCitizenOf	Portugal
+Luís_Marques_Guedes	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Camilo_Castelo_Branco	wasBornIn	Lisbon
+Camilo_Castelo_Branco	wasBornIn	Lisbon
+Camilo_Castelo_Branco	isCitizenOf	Portugal
+Camilo_Castelo_Branco	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Jorge_Sampaio	wasBornIn	Lisbon
+Jorge_Sampaio	wasBornIn	Lisbon
+Jorge_Sampaio	isCitizenOf	Portugal
+Jorge_Sampaio	isPoliticianOf	Portugal
+Jorge_Sampaio	isCitizenOf	Portugal
+Jorge_Sampaio	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Manuel_de_Arriaga	diedIn	Lisbon
+Manuel_de_Arriaga	diedIn	Lisbon
+Manuel_de_Arriaga	isPoliticianOf	Portugal
+Manuel_de_Arriaga	isCitizenOf	Portugal
+Manuel_de_Arriaga	isPoliticianOf	Portugal
+Manuel_de_Arriaga	isCitizenOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Fontes_Pereira_de_Melo	diedIn	Lisbon
+Fontes_Pereira_de_Melo	wasBornIn	Lisbon
+Fontes_Pereira_de_Melo	diedIn	Lisbon
+Fontes_Pereira_de_Melo	wasBornIn	Lisbon
+Fontes_Pereira_de_Melo	isCitizenOf	Portugal
+Fontes_Pereira_de_Melo	isPoliticianOf	Portugal
+Fontes_Pereira_de_Melo	isCitizenOf	Portugal
+Fontes_Pereira_de_Melo	isPoliticianOf	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Lisbon
+SPORT.TV3	isLocatedIn	Lisbon
+Siege_of_Lisbon_(1384)	happenedIn	Lisbon
+Siege_of_Lisbon_(1384)	happenedIn	Lisbon
+Siege_of_Lisbon_(1384)	happenedIn	Portugal
+Siege_of_Lisbon_(1384)	happenedIn	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+SPORT.TV3	isLocatedIn	Portugal
+SPORT.TV3	isLocatedIn	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+Global_Media_Group	owns	SPORT.TV3
+Global_Media_Group	owns	SPORT.TV3
+Global_Media_Group	owns	SPORT.TV3
+Global_Media_Group	owns	SPORT.TV3
+SPORT.TV3	isLocatedIn	Portugal
+SPORT.TV3	isLocatedIn	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+Global_Media_Group	owns	SPORT.TV3
+Global_Media_Group	owns	SPORT.TV3
+Global_Media_Group	isLocatedIn	Portugal
+Global_Media_Group	isLocatedIn	Portugal
+
+http://dbpedia.org/resource/SPORT.TV3	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Portugal
+SPORT.TV3	Portugal
+Global_Media_Group	owns	SPORT.TV3
+Global_Media_Group	owns	SPORT.TV3
+Global_Media_Group	isLocatedIn	Lisbon
+Global_Media_Group	isLocatedIn	Lisbon
+Lisbon	isLocatedIn	Portugal
+Portugal	hasCapital	Lisbon
+Lisbon	isLocatedIn	Portugal
+Portugal	hasCapital	Lisbon
+
+http://dbpedia.org/resource/WJRH	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Lehigh_Valley
+WJRH	Lehigh_Valley
+WJRH	isLocatedIn	Pennsylvania
+WJRH	isLocatedIn	Pennsylvania
+Bethlehem,_Pennsylvania	isLocatedIn	Pennsylvania
+Bethlehem,_Pennsylvania	isLocatedIn	Pennsylvania
+Lehigh_Valley	isLocatedIn	Bethlehem,_Pennsylvania
+Lehigh_Valley	isLocatedIn	Bethlehem,_Pennsylvania
+
+http://dbpedia.org/resource/City_FM_89	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Faisalabad
+City_FM_89	Faisalabad
+City_FM_89	isLocatedIn	Faisalabad
+City_FM_89	isLocatedIn	Faisalabad
+
+http://dbpedia.org/resource/City_FM_89	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Faisalabad
+City_FM_89	Faisalabad
+City_FM_89	isLocatedIn	Islamabad
+City_FM_89	isLocatedIn	Islamabad
+Froebel's_International_School	isLocatedIn	Islamabad
+Froebel's_International_School	isLocatedIn	Islamabad
+Froebel's_International_School	isLocatedIn	Faisalabad
+Froebel's_International_School	isLocatedIn	Faisalabad
+
+http://dbpedia.org/resource/Adithya_TV	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Malaysia
+Adithya_TV	Malaysia
+Adithya_TV	isLocatedIn	Malaysia
+Adithya_TV	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/Adithya_TV	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Malaysia
+Adithya_TV	Malaysia
+Sun_Group	owns	Adithya_TV
+Sun_Group	owns	Adithya_TV
+Sun_Group	owns	Adithya_TV
+Sun_Group	owns	Adithya_TV
+Adithya_TV	isLocatedIn	Malaysia
+Adithya_TV	isLocatedIn	Malaysia
+
+http://dbpedia.org/resource/WMYB_(FM)	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Florence,_South_Carolina
+WMYB_(FM)	Florence,_South_Carolina
+WMYB_(FM)	isLocatedIn	Myrtle_Beach,_South_Carolina
+WMYB_(FM)	isLocatedIn	Myrtle_Beach,_South_Carolina
+WPDE-TV	isLocatedIn	Myrtle_Beach,_South_Carolina
+WPDE-TV	isLocatedIn	Myrtle_Beach,_South_Carolina
+WPDE-TV	isLocatedIn	Florence,_South_Carolina
+WPDE-TV	isLocatedIn	Florence,_South_Carolina
+
+http://dbpedia.org/resource/Caracol_Televisión	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Colombia
+Caracol_Televisión	Colombia
+Julio_Mario_Santo_Domingo	owns	Caracol_Televisión
+Julio_Mario_Santo_Domingo	owns	Caracol_Televisión
+Julio_Mario_Santo_Domingo	isCitizenOf	Colombia
+Julio_Mario_Santo_Domingo	isCitizenOf	Colombia
+
+http://dbpedia.org/resource/Caracol_Televisión	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Colombia
+Caracol_Televisión	Colombia
+Julio_Mario_Santo_Domingo	owns	Caracol_Televisión
+Julio_Mario_Santo_Domingo	owns	Caracol_Televisión
+Julio_Mario_Santo_Domingo	owns	Caracol_Televisión
+Julio_Mario_Santo_Domingo	owns	Caracol_Televisión
+Caracol_Televisión	isLocatedIn	Colombia
+Caracol_Televisión	isLocatedIn	Colombia
+
+http://dbpedia.org/resource/Caracol_Televisión	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Colombia
+Caracol_Televisión	Colombia
+Julio_Mario_Santo_Domingo	owns	Caracol_Televisión
+Julio_Mario_Santo_Domingo	owns	Caracol_Televisión
+Julio_Mario_Santo_Domingo	hasChild	Alejandro_Santo_Domingo
+Julio_Mario_Santo_Domingo	hasChild	Alejandro_Santo_Domingo
+Alejandro_Santo_Domingo	isCitizenOf	Colombia
+Alejandro_Santo_Domingo	isCitizenOf	Colombia
+
+http://dbpedia.org/resource/Caracol_Televisión	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Colombia
+Caracol_Televisión	Colombia
+Caracol_Televisión	isLocatedIn	Bogotá
+Caracol_Televisión	isLocatedIn	Bogotá
+Andrés_González_Díaz	wasBornIn	Bogotá
+Andrés_González_Díaz	wasBornIn	Bogotá
+Andrés_González_Díaz	isCitizenOf	Colombia
+Andrés_González_Díaz	isCitizenOf	Colombia
+
+http://dbpedia.org/resource/Caracol_Televisión	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Colombia
+Caracol_Televisión	Colombia
+Caracol_Televisión	isLocatedIn	Bogotá
+Caracol_Televisión	isLocatedIn	Bogotá
+Álvaro_Gómez_Hurtado	diedIn	Bogotá
+Álvaro_Gómez_Hurtado	wasBornIn	Bogotá
+Álvaro_Gómez_Hurtado	diedIn	Bogotá
+Álvaro_Gómez_Hurtado	wasBornIn	Bogotá
+Álvaro_Gómez_Hurtado	isCitizenOf	Colombia
+Álvaro_Gómez_Hurtado	isPoliticianOf	Colombia
+Álvaro_Gómez_Hurtado	isCitizenOf	Colombia
+Álvaro_Gómez_Hurtado	isPoliticianOf	Colombia
+
+http://dbpedia.org/resource/Caracol_Televisión	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Colombia
+Caracol_Televisión	Colombia
+Caracol_Televisión	isLocatedIn	Bogotá
+Caracol_Televisión	isLocatedIn	Bogotá
+Manuel_Ancízar	diedIn	Bogotá
+Manuel_Ancízar	wasBornIn	Bogotá
+Manuel_Ancízar	diedIn	Bogotá
+Manuel_Ancízar	wasBornIn	Bogotá
+Manuel_Ancízar	isCitizenOf	Colombia
+Manuel_Ancízar	isCitizenOf	Colombia
+
+http://dbpedia.org/resource/Caracol_Televisión	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Colombia
+Caracol_Televisión	Colombia
+Caracol_Televisión	isLocatedIn	Colombia
+Caracol_Televisión	isLocatedIn	Colombia
+
+http://dbpedia.org/resource/WNAM	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Appleton,_Wisconsin
+WNAM	Appleton,_Wisconsin
+WNAM	isLocatedIn	Wisconsin
+WNAM	isLocatedIn	Wisconsin
+Grand_Chute,_Wisconsin	isLocatedIn	Wisconsin
+Grand_Chute,_Wisconsin	isLocatedIn	Wisconsin
+Appleton,_Wisconsin	isLocatedIn	Grand_Chute,_Wisconsin
+Appleton,_Wisconsin	isLocatedIn	Grand_Chute,_Wisconsin
+
+http://dbpedia.org/resource/WNAM	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Appleton,_Wisconsin
+WNAM	Appleton,_Wisconsin
+WNAM	isLocatedIn	Menasha,_Wisconsin
+WNAM	isLocatedIn	Menasha,_Wisconsin
+Menasha,_Wisconsin	isLocatedIn	Calumet_County,_Wisconsin
+Menasha,_Wisconsin	isLocatedIn	Calumet_County,_Wisconsin
+Appleton,_Wisconsin	isLocatedIn	Calumet_County,_Wisconsin
+Appleton,_Wisconsin	isLocatedIn	Calumet_County,_Wisconsin
+
+http://dbpedia.org/resource/WNAM	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Appleton,_Wisconsin
+WNAM	Appleton,_Wisconsin
+WNAM	isLocatedIn	Menasha,_Wisconsin
+WNAM	isLocatedIn	Menasha,_Wisconsin
+Appleton,_Wisconsin	isLocatedIn	Menasha,_Wisconsin
+Appleton,_Wisconsin	isLocatedIn	Menasha,_Wisconsin
+
+http://dbpedia.org/resource/Fox_Sports_Southwest	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Texas
+Fox_Sports_Southwest	Texas
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Southwest
+Fox_Entertainment_Group	owns	Fox_Sports_Networks
+Fox_Entertainment_Group	owns	Fox_Sports_Networks
+Fox_Sports_Networks	isLocatedIn	Texas
+Fox_Sports_Networks	isLocatedIn	Texas
+
+http://dbpedia.org/resource/Fox_Sports_Southwest	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Texas
+Fox_Sports_Southwest	Texas
+Fox_Sports_Southwest	isLocatedIn	Dallas
+Fox_Sports_Southwest	isLocatedIn	Dallas
+Victory_Tower	isLocatedIn	Dallas
+Victory_Tower	isLocatedIn	Dallas
+Victory_Tower	isLocatedIn	Texas
+Victory_Tower	isLocatedIn	Texas
+
+http://dbpedia.org/resource/Fox_Sports_Southwest	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Texas
+Fox_Sports_Southwest	Texas
+Fox_Sports_Southwest	isLocatedIn	Dallas
+Fox_Sports_Southwest	isLocatedIn	Dallas
+Linda_Harper-Brown	wasBornIn	Dallas
+Linda_Harper-Brown	wasBornIn	Dallas
+Linda_Harper-Brown	livesIn	Texas
+Linda_Harper-Brown	livesIn	Texas
+
+http://dbpedia.org/resource/Fox_Sports_Southwest	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Texas
+Fox_Sports_Southwest	Texas
+Fox_Sports_Southwest	isLocatedIn	Dallas
+Fox_Sports_Southwest	isLocatedIn	Dallas
+KTXA	isLocatedIn	Dallas
+KTXA	isLocatedIn	Dallas
+KTXA	isLocatedIn	Texas
+KTXA	isLocatedIn	Texas
+
+http://dbpedia.org/resource/Fox_Sports_Southwest	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Texas
+Fox_Sports_Southwest	Texas
+Fox_Sports_Southwest	isLocatedIn	Dallas
+Fox_Sports_Southwest	isLocatedIn	Dallas
+KDTX-TV	isLocatedIn	Dallas
+KDTX-TV	isLocatedIn	Dallas
+KDTX-TV	isLocatedIn	Texas
+KDTX-TV	isLocatedIn	Texas
+
+http://dbpedia.org/resource/Fox_Sports_Southwest	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Texas
+Fox_Sports_Southwest	Texas
+Fox_Sports_Southwest	isLocatedIn	Dallas
+Fox_Sports_Southwest	isLocatedIn	Dallas
+Ameristar_Jet_Charter	isLocatedIn	Dallas
+Ameristar_Jet_Charter	isLocatedIn	Dallas
+Ameristar_Jet_Charter	isLocatedIn	Texas
+Ameristar_Jet_Charter	isLocatedIn	Texas
+
+http://dbpedia.org/resource/Fox_Sports_Southwest	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Texas
+Fox_Sports_Southwest	Texas
+Fox_Sports_Southwest	isLocatedIn	Dallas
+Fox_Sports_Southwest	isLocatedIn	Dallas
+Ed_Foreman	livesIn	Dallas
+Ed_Foreman	livesIn	Dallas
+Ed_Foreman	livesIn	Texas
+Ed_Foreman	livesIn	Texas
+
+http://dbpedia.org/resource/Fox_Sports_Southwest	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Texas
+Fox_Sports_Southwest	Texas
+21st_Century_Fox	owns	Fox_Sports_Southwest
+21st_Century_Fox	owns	Fox_Sports_Southwest
+21st_Century_Fox	owns	Fox_Sports_Networks
+21st_Century_Fox	owns	Fox_Sports_Networks
+Fox_Sports_Networks	isLocatedIn	Texas
+Fox_Sports_Networks	isLocatedIn	Texas
+
+http://dbpedia.org/resource/City_FM_89	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Islamabad
+City_FM_89	Islamabad
+City_FM_89	isLocatedIn	Lahore
+City_FM_89	isLocatedIn	Lahore
+Ansar_Pervaiz	wasBornIn	Lahore
+Ansar_Pervaiz	wasBornIn	Lahore
+Ansar_Pervaiz	livesIn	Islamabad
+Ansar_Pervaiz	livesIn	Islamabad
+
+http://dbpedia.org/resource/City_FM_89	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Islamabad
+City_FM_89	Islamabad
+City_FM_89	isLocatedIn	Lahore
+City_FM_89	isLocatedIn	Lahore
+Aslam_Azhar	wasBornIn	Lahore
+Aslam_Azhar	wasBornIn	Lahore
+Aslam_Azhar	diedIn	Islamabad
+Aslam_Azhar	diedIn	Islamabad
+
+http://dbpedia.org/resource/City_FM_89	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Islamabad
+City_FM_89	Islamabad
+City_FM_89	isLocatedIn	Lahore
+City_FM_89	isLocatedIn	Lahore
+Pakistan_International_Airlines	isLocatedIn	Lahore
+Pakistan_International_Airlines	isLocatedIn	Lahore
+Pakistan_International_Airlines	isLocatedIn	Islamabad
+Pakistan_International_Airlines	isLocatedIn	Islamabad
+
+http://dbpedia.org/resource/City_FM_89	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Islamabad
+City_FM_89	Islamabad
+City_FM_89	isLocatedIn	Pakistan
+City_FM_89	isLocatedIn	Pakistan
+Chaudry_Mohammad_Aslam	isCitizenOf	Pakistan
+Chaudry_Mohammad_Aslam	isCitizenOf	Pakistan
+Chaudry_Mohammad_Aslam	diedIn	Islamabad
+Chaudry_Mohammad_Aslam	diedIn	Islamabad
+
+http://dbpedia.org/resource/City_FM_89	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Islamabad
+City_FM_89	Islamabad
+City_FM_89	isLocatedIn	Pakistan
+City_FM_89	isLocatedIn	Pakistan
+Uzair_Jaswal	isCitizenOf	Pakistan
+Uzair_Jaswal	isCitizenOf	Pakistan
+Uzair_Jaswal	livesIn	Islamabad
+Uzair_Jaswal	livesIn	Islamabad
+
+http://dbpedia.org/resource/City_FM_89	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Islamabad
+City_FM_89	Islamabad
+City_FM_89	isLocatedIn	Islamabad
+City_FM_89	isLocatedIn	Islamabad
+
+http://dbpedia.org/resource/Hitradio_Namibia	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Lüderitz
+Hitradio_Namibia	Lüderitz
+Hitradio_Namibia	isLocatedIn	Windhoek
+Hitradio_Namibia	isLocatedIn	Windhoek
+Anton_Lubowski	diedIn	Windhoek
+Anton_Lubowski	diedIn	Windhoek
+Anton_Lubowski	wasBornIn	Lüderitz
+Anton_Lubowski	wasBornIn	Lüderitz
+
+http://dbpedia.org/resource/Hitradio_Namibia	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Lüderitz
+Hitradio_Namibia	Lüderitz
+Hitradio_Namibia	isLocatedIn	Tsumeb
+Hitradio_Namibia	isLocatedIn	Tsumeb
+Hitradio_Namibia	isLocatedIn	Tsumeb
+Hitradio_Namibia	isLocatedIn	Tsumeb
+Hitradio_Namibia	isLocatedIn	Lüderitz
+Hitradio_Namibia	isLocatedIn	Lüderitz
+
+http://dbpedia.org/resource/Hitradio_Namibia	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Lüderitz
+Hitradio_Namibia	Lüderitz
+Hitradio_Namibia	isLocatedIn	Lüderitz
+Hitradio_Namibia	isLocatedIn	Lüderitz
+
+http://dbpedia.org/resource/Hitradio_Namibia	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Lüderitz
+Hitradio_Namibia	Lüderitz
+Hitradio_Namibia	isLocatedIn	Otjiwarongo
+Hitradio_Namibia	isLocatedIn	Otjiwarongo
+Hitradio_Namibia	isLocatedIn	Otjiwarongo
+Hitradio_Namibia	isLocatedIn	Otjiwarongo
+Hitradio_Namibia	isLocatedIn	Lüderitz
+Hitradio_Namibia	isLocatedIn	Lüderitz
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Illinois
+Comcast_SportsNet_Chicago	Illinois
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Oprah_Winfrey_Network_(U.S._TV_channel)	isLocatedIn	Chicago
+Oprah_Winfrey_Network_(U.S._TV_channel)	isLocatedIn	Chicago
+Oprah_Winfrey_Network_(U.S._TV_channel)	isLocatedIn	Illinois
+Oprah_Winfrey_Network_(U.S._TV_channel)	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Illinois
+Comcast_SportsNet_Chicago	Illinois
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+EyeOpener_(U.S._TV_program)	isLocatedIn	Chicago
+EyeOpener_(U.S._TV_program)	isLocatedIn	Chicago
+EyeOpener_(U.S._TV_program)	isLocatedIn	Illinois
+EyeOpener_(U.S._TV_program)	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Illinois
+Comcast_SportsNet_Chicago	Illinois
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Empire_(2015_TV_series)	isLocatedIn	Chicago
+Empire_(2015_TV_series)	isLocatedIn	Chicago
+Empire_(2015_TV_series)	isLocatedIn	Illinois
+Empire_(2015_TV_series)	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Illinois
+Comcast_SportsNet_Chicago	Illinois
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+311_South_Wacker_Drive	isLocatedIn	Chicago
+311_South_Wacker_Drive	isLocatedIn	Chicago
+311_South_Wacker_Drive	isLocatedIn	Illinois
+311_South_Wacker_Drive	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Illinois
+Comcast_SportsNet_Chicago	Illinois
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+WCPX-TV	isLocatedIn	Chicago
+WCPX-TV	isLocatedIn	Chicago
+WCPX-TV	isLocatedIn	Illinois
+WCPX-TV	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Illinois
+Comcast_SportsNet_Chicago	Illinois
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+John_Bachtell	livesIn	Chicago
+John_Bachtell	livesIn	Chicago
+John_Bachtell	livesIn	Illinois
+John_Bachtell	livesIn	Illinois
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Illinois
+Comcast_SportsNet_Chicago	Illinois
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+WrestleMania_2	isLocatedIn	Chicago
+WrestleMania_2	isLocatedIn	Chicago
+WrestleMania_2	happenedIn	Illinois
+WrestleMania_2	isLocatedIn	Illinois
+WrestleMania_2	happenedIn	Illinois
+WrestleMania_2	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Illinois
+Comcast_SportsNet_Chicago	Illinois
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+WCIU-TV	isLocatedIn	Chicago
+WCIU-TV	isLocatedIn	Chicago
+WCIU-TV	isLocatedIn	Illinois
+WCIU-TV	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Illinois
+Comcast_SportsNet_Chicago	Illinois
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Chicago_Theological_Seminary	isLocatedIn	Chicago
+Chicago_Theological_Seminary	isLocatedIn	Chicago
+Chicago_Theological_Seminary	isLocatedIn	Illinois
+Chicago_Theological_Seminary	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Illinois
+Comcast_SportsNet_Chicago	Illinois
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+International_Harvester	isLocatedIn	Chicago
+International_Harvester	isLocatedIn	Chicago
+International_Harvester	isLocatedIn	Illinois
+International_Harvester	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Illinois
+Comcast_SportsNet_Chicago	Illinois
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Fort_Dearborn	isLocatedIn	Chicago
+Fort_Dearborn	isLocatedIn	Chicago
+Fort_Dearborn	isLocatedIn	Illinois
+Fort_Dearborn	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Illinois
+Comcast_SportsNet_Chicago	Illinois
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Big_Ten_Network	isLocatedIn	Chicago
+Big_Ten_Network	isLocatedIn	Chicago
+Big_Ten_Network	isLocatedIn	Illinois
+Big_Ten_Network	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Illinois
+Comcast_SportsNet_Chicago	Illinois
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Checker_Records	isLocatedIn	Chicago
+Checker_Records	isLocatedIn	Chicago
+Checker_Records	isLocatedIn	Illinois
+Checker_Records	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Illinois
+Comcast_SportsNet_Chicago	Illinois
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Rush_University	isLocatedIn	Chicago
+Rush_University	isLocatedIn	Chicago
+Rush_University	isLocatedIn	Illinois
+Rush_University	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Illinois
+Comcast_SportsNet_Chicago	Illinois
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Tribune_Tower	isLocatedIn	Chicago
+Tribune_Tower	isLocatedIn	Chicago
+Tribune_Tower	isLocatedIn	Illinois
+Tribune_Tower	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Illinois
+Comcast_SportsNet_Chicago	Illinois
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Beatrice_Foods	isLocatedIn	Chicago
+Beatrice_Foods	isLocatedIn	Chicago
+Beatrice_Foods	isLocatedIn	Illinois
+Beatrice_Foods	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Illinois
+Comcast_SportsNet_Chicago	Illinois
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Brunswick_Corporation	isLocatedIn	Chicago
+Brunswick_Corporation	isLocatedIn	Chicago
+Brunswick_Corporation	isLocatedIn	Illinois
+Brunswick_Corporation	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Illinois
+Comcast_SportsNet_Chicago	Illinois
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Columbia_College_Chicago	isLocatedIn	Chicago
+Columbia_College_Chicago	isLocatedIn	Chicago
+Columbia_College_Chicago	isLocatedIn	Illinois
+Columbia_College_Chicago	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Illinois
+Comcast_SportsNet_Chicago	Illinois
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Movies!	isLocatedIn	Chicago
+Movies!	isLocatedIn	Chicago
+Movies!	isLocatedIn	Illinois
+Movies!	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Illinois
+Comcast_SportsNet_Chicago	Illinois
+Jerry_Reinsdorf	owns	Comcast_SportsNet_Chicago
+Jerry_Reinsdorf	owns	Comcast_SportsNet_Chicago
+Jerry_Reinsdorf	owns	Chicago_Bulls
+Jerry_Reinsdorf	owns	Chicago_Bulls
+Chicago_Bulls	isLocatedIn	Illinois
+Chicago_Bulls	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Illinois
+Comcast_SportsNet_Chicago	Illinois
+Jerry_Reinsdorf	owns	Comcast_SportsNet_Chicago
+Jerry_Reinsdorf	owns	Comcast_SportsNet_Chicago
+Jerry_Reinsdorf	owns	Chicago_White_Sox
+Jerry_Reinsdorf	owns	Chicago_White_Sox
+Chicago_White_Sox	isLocatedIn	Illinois
+Chicago_White_Sox	isLocatedIn	Illinois
+
+http://dbpedia.org/resource/Fox_Sports_Southwest	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/New_Mexico
+Fox_Sports_Southwest	New_Mexico
+Fox_Sports_Southwest	isLocatedIn	Dallas
+Fox_Sports_Southwest	isLocatedIn	Dallas
+Ed_Foreman	livesIn	Dallas
+Ed_Foreman	livesIn	Dallas
+Ed_Foreman	livesIn	New_Mexico
+Ed_Foreman	livesIn	New_Mexico
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+SinemArt	created	Putri_yang_Ditukar
+SinemArt	created	Putri_yang_Ditukar
+SinemArt	created	Putri_yang_Ditukar
+SinemArt	created	Putri_yang_Ditukar
+SinemArt	isLocatedIn	Jakarta
+SinemArt	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+SinemArt	created	Putri_yang_Ditukar
+SinemArt	created	Putri_yang_Ditukar
+Putri_yang_Ditukar	isLocatedIn	Jakarta
+Putri_yang_Ditukar	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+SinemArt	isLocatedIn	Indonesia
+SinemArt	isLocatedIn	Indonesia
+Christine_Hakim	isCitizenOf	Indonesia
+Christine_Hakim	isCitizenOf	Indonesia
+Christine_Hakim	livesIn	Jakarta
+Christine_Hakim	livesIn	Jakarta
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+SinemArt	isLocatedIn	Indonesia
+SinemArt	isLocatedIn	Indonesia
+Haidar_Bagir	isCitizenOf	Indonesia
+Haidar_Bagir	isCitizenOf	Indonesia
+Haidar_Bagir	livesIn	Jakarta
+Haidar_Bagir	livesIn	Jakarta
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+SinemArt	isLocatedIn	Indonesia
+SinemArt	isLocatedIn	Indonesia
+Salman_Aristo	isCitizenOf	Indonesia
+Salman_Aristo	isCitizenOf	Indonesia
+Salman_Aristo	wasBornIn	Jakarta
+Salman_Aristo	wasBornIn	Jakarta
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+SinemArt	isLocatedIn	Indonesia
+SinemArt	isLocatedIn	Indonesia
+Roy_Marten	isCitizenOf	Indonesia
+Roy_Marten	isCitizenOf	Indonesia
+Roy_Marten	livesIn	Jakarta
+Roy_Marten	livesIn	Jakarta
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+SinemArt	isLocatedIn	Indonesia
+SinemArt	isLocatedIn	Indonesia
+Media_Nusantara_Citra	isLocatedIn	Indonesia
+Media_Nusantara_Citra	isLocatedIn	Indonesia
+Media_Nusantara_Citra	isLocatedIn	Jakarta
+Media_Nusantara_Citra	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+SinemArt	isLocatedIn	Indonesia
+SinemArt	isLocatedIn	Indonesia
+Romana_Tedjakusuma	isCitizenOf	Indonesia
+Romana_Tedjakusuma	isCitizenOf	Indonesia
+Romana_Tedjakusuma	livesIn	Jakarta
+Romana_Tedjakusuma	livesIn	Jakarta
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+SinemArt	isLocatedIn	Indonesia
+SinemArt	isLocatedIn	Indonesia
+Suharto	isCitizenOf	Indonesia
+Suharto	isPoliticianOf	Indonesia
+Suharto	isCitizenOf	Indonesia
+Suharto	isPoliticianOf	Indonesia
+Suharto	diedIn	Jakarta
+Suharto	diedIn	Jakarta
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+SinemArt	isLocatedIn	Indonesia
+SinemArt	isLocatedIn	Indonesia
+South_Jakarta	isLocatedIn	Indonesia
+South_Jakarta	isLocatedIn	Indonesia
+South_Jakarta	isLocatedIn	Jakarta
+South_Jakarta	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+SinemArt	isLocatedIn	Indonesia
+SinemArt	isLocatedIn	Indonesia
+Trans7	isLocatedIn	Indonesia
+Trans7	isLocatedIn	Indonesia
+Trans7	isLocatedIn	Jakarta
+Trans7	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+SinemArt	isLocatedIn	Indonesia
+SinemArt	isLocatedIn	Indonesia
+Rajawali_(sinetron)	isLocatedIn	Indonesia
+Rajawali_(sinetron)	isLocatedIn	Indonesia
+Rajawali_(sinetron)	isLocatedIn	Jakarta
+Rajawali_(sinetron)	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+SinemArt	isLocatedIn	Indonesia
+SinemArt	isLocatedIn	Indonesia
+Rosihan_Anwar	isCitizenOf	Indonesia
+Rosihan_Anwar	isCitizenOf	Indonesia
+Rosihan_Anwar	diedIn	Jakarta
+Rosihan_Anwar	diedIn	Jakarta
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+SinemArt	isLocatedIn	Indonesia
+SinemArt	isLocatedIn	Indonesia
+Nyoman_Rudana	isCitizenOf	Indonesia
+Nyoman_Rudana	isCitizenOf	Indonesia
+Nyoman_Rudana	livesIn	Jakarta
+Nyoman_Rudana	livesIn	Jakarta
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+SinemArt	isLocatedIn	Indonesia
+SinemArt	isLocatedIn	Indonesia
+Putri_yang_Ditukar	isLocatedIn	Indonesia
+Putri_yang_Ditukar	isLocatedIn	Indonesia
+Putri_yang_Ditukar	isLocatedIn	Jakarta
+Putri_yang_Ditukar	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+SinemArt	isLocatedIn	Indonesia
+SinemArt	isLocatedIn	Indonesia
+T._B._Simatupang	isCitizenOf	Indonesia
+T._B._Simatupang	isCitizenOf	Indonesia
+T._B._Simatupang	diedIn	Jakarta
+T._B._Simatupang	diedIn	Jakarta
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+SinemArt	isLocatedIn	Indonesia
+SinemArt	isLocatedIn	Indonesia
+Merpati_Nusantara_Airlines	isLocatedIn	Indonesia
+Merpati_Nusantara_Airlines	isLocatedIn	Indonesia
+Merpati_Nusantara_Airlines	isLocatedIn	Jakarta
+Merpati_Nusantara_Airlines	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+SinemArt	isLocatedIn	Indonesia
+SinemArt	isLocatedIn	Indonesia
+Bunga_Citra_Lestari	isCitizenOf	Indonesia
+Bunga_Citra_Lestari	isCitizenOf	Indonesia
+Bunga_Citra_Lestari	wasBornIn	Jakarta
+Bunga_Citra_Lestari	wasBornIn	Jakarta
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+Media_Nusantara_Citra	owns	SinemArt
+Media_Nusantara_Citra	owns	SinemArt
+Media_Nusantara_Citra	isLocatedIn	Jakarta
+Media_Nusantara_Citra	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+Media_Nusantara_Citra	owns	SinemArt
+Media_Nusantara_Citra	owns	SinemArt
+Media_Nusantara_Citra	owns	SinemArt
+Media_Nusantara_Citra	owns	SinemArt
+SinemArt	isLocatedIn	Jakarta
+SinemArt	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+SinemArt	isLocatedIn	Jakarta
+SinemArt	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+SinemArt	created	Rajawali_(sinetron)
+SinemArt	created	Rajawali_(sinetron)
+SinemArt	created	Rajawali_(sinetron)
+SinemArt	created	Rajawali_(sinetron)
+SinemArt	isLocatedIn	Jakarta
+SinemArt	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Jakarta
+SinemArt	Jakarta
+SinemArt	created	Rajawali_(sinetron)
+SinemArt	created	Rajawali_(sinetron)
+Rajawali_(sinetron)	isLocatedIn	Jakarta
+Rajawali_(sinetron)	isLocatedIn	Jakarta
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+Dajto	Slovakia
+Dajto	isLocatedIn	Záhorská_Bystrica
+Dajto	isLocatedIn	Záhorská_Bystrica
+Dajto	isLocatedIn	Záhorská_Bystrica
+Dajto	isLocatedIn	Záhorská_Bystrica
+Dajto	isLocatedIn	Slovakia
+Dajto	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+Dajto	Slovakia
+Dajto	isLocatedIn	Záhorská_Bystrica
+Dajto	isLocatedIn	Záhorská_Bystrica
+Záhorská_Bystrica	isLocatedIn	Bratislava_Region
+Záhorská_Bystrica	isLocatedIn	Bratislava_Region
+Bratislava_Region	isLocatedIn	Slovakia
+Bratislava_Region	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+Dajto	Slovakia
+Dajto	isLocatedIn	Záhorská_Bystrica
+Dajto	isLocatedIn	Záhorská_Bystrica
+TV_Doma	isLocatedIn	Záhorská_Bystrica
+TV_Doma	isLocatedIn	Záhorská_Bystrica
+TV_Doma	isLocatedIn	Slovakia
+TV_Doma	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+Dajto	Slovakia
+Dajto	isLocatedIn	Záhorská_Bystrica
+Dajto	isLocatedIn	Záhorská_Bystrica
+TV_Fooor	isLocatedIn	Záhorská_Bystrica
+TV_Fooor	isLocatedIn	Záhorská_Bystrica
+TV_Fooor	isLocatedIn	Slovakia
+TV_Fooor	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+Dajto	Slovakia
+Dajto	isLocatedIn	Záhorská_Bystrica
+Dajto	isLocatedIn	Záhorská_Bystrica
+Markíza	isLocatedIn	Záhorská_Bystrica
+Markíza	isLocatedIn	Záhorská_Bystrica
+Markíza	isLocatedIn	Slovakia
+Markíza	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+Dajto	Slovakia
+Dajto	isLocatedIn	Slovakia
+Dajto	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+Dajto	Slovakia
+Dajto	isLocatedIn	Bratislava
+Dajto	isLocatedIn	Bratislava
+Igor_Kluvánek	diedIn	Bratislava
+Igor_Kluvánek	diedIn	Bratislava
+Igor_Kluvánek	isCitizenOf	Slovakia
+Igor_Kluvánek	livesIn	Slovakia
+Igor_Kluvánek	isCitizenOf	Slovakia
+Igor_Kluvánek	livesIn	Slovakia
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+Dajto	Slovakia
+Dajto	isLocatedIn	Bratislava
+Dajto	isLocatedIn	Bratislava
+Ivan_Šimko	wasBornIn	Bratislava
+Ivan_Šimko	wasBornIn	Bratislava
+Ivan_Šimko	isCitizenOf	Slovakia
+Ivan_Šimko	isPoliticianOf	Slovakia
+Ivan_Šimko	isCitizenOf	Slovakia
+Ivan_Šimko	isPoliticianOf	Slovakia
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+Dajto	Slovakia
+Dajto	isLocatedIn	Bratislava
+Dajto	isLocatedIn	Bratislava
+Stanislav_Gron	wasBornIn	Bratislava
+Stanislav_Gron	wasBornIn	Bratislava
+Stanislav_Gron	isCitizenOf	Slovakia
+Stanislav_Gron	isCitizenOf	Slovakia
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+Dajto	Slovakia
+Dajto	isLocatedIn	Bratislava
+Dajto	isLocatedIn	Bratislava
+Miroslav_Lažo	wasBornIn	Bratislava
+Miroslav_Lažo	wasBornIn	Bratislava
+Miroslav_Lažo	isCitizenOf	Slovakia
+Miroslav_Lažo	isCitizenOf	Slovakia
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+Dajto	Slovakia
+Dajto	isLocatedIn	Bratislava
+Dajto	isLocatedIn	Bratislava
+Peter_Šťastný	wasBornIn	Bratislava
+Peter_Šťastný	wasBornIn	Bratislava
+Peter_Šťastný	isCitizenOf	Slovakia
+Peter_Šťastný	isCitizenOf	Slovakia
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+Dajto	Slovakia
+Dajto	isLocatedIn	Bratislava
+Dajto	isLocatedIn	Bratislava
+Tamara_Heribanová	wasBornIn	Bratislava
+Tamara_Heribanová	wasBornIn	Bratislava
+Tamara_Heribanová	isCitizenOf	Slovakia
+Tamara_Heribanová	isCitizenOf	Slovakia
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+Dajto	Slovakia
+Dajto	isLocatedIn	Bratislava
+Dajto	isLocatedIn	Bratislava
+Kamil_Čapkovič	livesIn	Bratislava
+Kamil_Čapkovič	livesIn	Bratislava
+Kamil_Čapkovič	isCitizenOf	Slovakia
+Kamil_Čapkovič	livesIn	Slovakia
+Kamil_Čapkovič	isCitizenOf	Slovakia
+Kamil_Čapkovič	livesIn	Slovakia
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+Dajto	Slovakia
+Dajto	isLocatedIn	Bratislava
+Dajto	isLocatedIn	Bratislava
+Apsley_Business_School_-_London	isLocatedIn	Bratislava
+Apsley_Business_School_-_London	isLocatedIn	Bratislava
+Apsley_Business_School_-_London	isLocatedIn	Slovakia
+Apsley_Business_School_-_London	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+Dajto	Slovakia
+Dajto	isLocatedIn	Bratislava
+Dajto	isLocatedIn	Bratislava
+Michal_Kováč	diedIn	Bratislava
+Michal_Kováč	diedIn	Bratislava
+Michal_Kováč	isPoliticianOf	Slovakia
+Michal_Kováč	isCitizenOf	Slovakia
+Michal_Kováč	isPoliticianOf	Slovakia
+Michal_Kováč	isCitizenOf	Slovakia
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+Dajto	Slovakia
+Dajto	isLocatedIn	Bratislava
+Dajto	isLocatedIn	Bratislava
+Bohumil_Golián	diedIn	Bratislava
+Bohumil_Golián	diedIn	Bratislava
+Bohumil_Golián	isCitizenOf	Slovakia
+Bohumil_Golián	isCitizenOf	Slovakia
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+Dajto	Slovakia
+Dajto	isLocatedIn	Bratislava
+Dajto	isLocatedIn	Bratislava
+Jaroslav_Halák	wasBornIn	Bratislava
+Jaroslav_Halák	wasBornIn	Bratislava
+Jaroslav_Halák	isCitizenOf	Slovakia
+Jaroslav_Halák	isCitizenOf	Slovakia
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+Dajto	Slovakia
+Dajto	isLocatedIn	Bratislava
+Dajto	isLocatedIn	Bratislava
+Ľubomír_Meszároš	wasBornIn	Bratislava
+Ľubomír_Meszároš	wasBornIn	Bratislava
+Ľubomír_Meszároš	isCitizenOf	Slovakia
+Ľubomír_Meszároš	isCitizenOf	Slovakia
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+Dajto	Slovakia
+Central_European_Media_Enterprises	owns	Dajto
+Central_European_Media_Enterprises	owns	Dajto
+Central_European_Media_Enterprises	owns	TV_Doma
+Central_European_Media_Enterprises	owns	TV_Doma
+TV_Doma	isLocatedIn	Slovakia
+TV_Doma	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+Dajto	Slovakia
+Central_European_Media_Enterprises	owns	Dajto
+Central_European_Media_Enterprises	owns	Dajto
+Central_European_Media_Enterprises	owns	TV_Fooor
+Central_European_Media_Enterprises	owns	TV_Fooor
+TV_Fooor	isLocatedIn	Slovakia
+TV_Fooor	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+Dajto	Slovakia
+Central_European_Media_Enterprises	owns	Dajto
+Central_European_Media_Enterprises	owns	Dajto
+Central_European_Media_Enterprises	owns	Markíza
+Central_European_Media_Enterprises	owns	Markíza
+Markíza	isLocatedIn	Slovakia
+Markíza	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/Dajto	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Slovakia
+Dajto	Slovakia
+Central_European_Media_Enterprises	owns	Dajto
+Central_European_Media_Enterprises	owns	Dajto
+Central_European_Media_Enterprises	owns	Dajto
+Central_European_Media_Enterprises	owns	Dajto
+Dajto	isLocatedIn	Slovakia
+Dajto	isLocatedIn	Slovakia
+
+http://dbpedia.org/resource/Comcast_SportsNet_Chicago	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Indiana
+Comcast_SportsNet_Chicago	Indiana
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+Comcast_SportsNet_Chicago	isLocatedIn	Chicago
+William_C._Goudy	diedIn	Chicago
+William_C._Goudy	diedIn	Chicago
+William_C._Goudy	wasBornIn	Indiana
+William_C._Goudy	wasBornIn	Indiana
+
+http://dbpedia.org/resource/National_Weather_Service_Paducah,_Kentucky	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Sikeston,_Missouri
+National_Weather_Service_Paducah,_Kentucky	Sikeston,_Missouri
+National_Weather_Service_Paducah,_Kentucky	isLocatedIn	Cape_Girardeau,_Missouri
+National_Weather_Service_Paducah,_Kentucky	isLocatedIn	Cape_Girardeau,_Missouri
+Cape_Girardeau,_Missouri	isLocatedIn	Missouri
+Cape_Girardeau,_Missouri	isLocatedIn	Missouri
+Sikeston,_Missouri	isLocatedIn	Missouri
+Sikeston,_Missouri	isLocatedIn	Missouri
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Indonesia
+SinemArt	Indonesia
+SinemArt	created	Putri_yang_Ditukar
+SinemArt	created	Putri_yang_Ditukar
+SinemArt	created	Putri_yang_Ditukar
+SinemArt	created	Putri_yang_Ditukar
+SinemArt	isLocatedIn	Indonesia
+SinemArt	isLocatedIn	Indonesia
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Indonesia
+SinemArt	Indonesia
+SinemArt	created	Putri_yang_Ditukar
+SinemArt	created	Putri_yang_Ditukar
+Putri_yang_Ditukar	isLocatedIn	Indonesia
+Putri_yang_Ditukar	isLocatedIn	Indonesia
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Indonesia
+SinemArt	Indonesia
+SinemArt	isLocatedIn	Indonesia
+SinemArt	isLocatedIn	Indonesia
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Indonesia
+SinemArt	Indonesia
+Media_Nusantara_Citra	owns	SinemArt
+Media_Nusantara_Citra	owns	SinemArt
+Media_Nusantara_Citra	owns	SinemArt
+Media_Nusantara_Citra	owns	SinemArt
+SinemArt	isLocatedIn	Indonesia
+SinemArt	isLocatedIn	Indonesia
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Indonesia
+SinemArt	Indonesia
+Media_Nusantara_Citra	owns	SinemArt
+Media_Nusantara_Citra	owns	SinemArt
+Media_Nusantara_Citra	owns	MNCTV
+Media_Nusantara_Citra	owns	MNCTV
+MNCTV	isLocatedIn	Indonesia
+MNCTV	isLocatedIn	Indonesia
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Indonesia
+SinemArt	Indonesia
+Media_Nusantara_Citra	owns	SinemArt
+Media_Nusantara_Citra	owns	SinemArt
+Hary_Tanoesoedibjo	created	Media_Nusantara_Citra
+Hary_Tanoesoedibjo	created	Media_Nusantara_Citra
+Hary_Tanoesoedibjo	isCitizenOf	Indonesia
+Hary_Tanoesoedibjo	isCitizenOf	Indonesia
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Indonesia
+SinemArt	Indonesia
+Media_Nusantara_Citra	owns	SinemArt
+Media_Nusantara_Citra	owns	SinemArt
+Media_Nusantara_Citra	isLocatedIn	Indonesia
+Media_Nusantara_Citra	isLocatedIn	Indonesia
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Indonesia
+SinemArt	Indonesia
+SinemArt	isLocatedIn	Jakarta
+SinemArt	isLocatedIn	Jakarta
+Pramoedya_Ananta_Toer	diedIn	Jakarta
+Pramoedya_Ananta_Toer	diedIn	Jakarta
+Pramoedya_Ananta_Toer	isCitizenOf	Indonesia
+Pramoedya_Ananta_Toer	isCitizenOf	Indonesia
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Indonesia
+SinemArt	Indonesia
+SinemArt	isLocatedIn	Jakarta
+SinemArt	isLocatedIn	Jakarta
+Widjojo_Nitisastro	diedIn	Jakarta
+Widjojo_Nitisastro	livesIn	Jakarta
+Widjojo_Nitisastro	diedIn	Jakarta
+Widjojo_Nitisastro	livesIn	Jakarta
+Widjojo_Nitisastro	isCitizenOf	Indonesia
+Widjojo_Nitisastro	isPoliticianOf	Indonesia
+Widjojo_Nitisastro	livesIn	Indonesia
+Widjojo_Nitisastro	isCitizenOf	Indonesia
+Widjojo_Nitisastro	isPoliticianOf	Indonesia
+Widjojo_Nitisastro	livesIn	Indonesia
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Indonesia
+SinemArt	Indonesia
+SinemArt	isLocatedIn	Jakarta
+SinemArt	isLocatedIn	Jakarta
+Lion_Air	isLocatedIn	Jakarta
+Lion_Air	isLocatedIn	Jakarta
+Lion_Air	isLocatedIn	Indonesia
+Lion_Air	isLocatedIn	Indonesia
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Indonesia
+SinemArt	Indonesia
+SinemArt	isLocatedIn	Jakarta
+SinemArt	isLocatedIn	Jakarta
+Armida_Alisjahbana	wasBornIn	Jakarta
+Armida_Alisjahbana	wasBornIn	Jakarta
+Armida_Alisjahbana	isCitizenOf	Indonesia
+Armida_Alisjahbana	isPoliticianOf	Indonesia
+Armida_Alisjahbana	isCitizenOf	Indonesia
+Armida_Alisjahbana	isPoliticianOf	Indonesia
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Indonesia
+SinemArt	Indonesia
+SinemArt	created	Rajawali_(sinetron)
+SinemArt	created	Rajawali_(sinetron)
+SinemArt	created	Rajawali_(sinetron)
+SinemArt	created	Rajawali_(sinetron)
+SinemArt	isLocatedIn	Indonesia
+SinemArt	isLocatedIn	Indonesia
+
+http://dbpedia.org/resource/SinemArt	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Indonesia
+SinemArt	Indonesia
+SinemArt	created	Rajawali_(sinetron)
+SinemArt	created	Rajawali_(sinetron)
+Rajawali_(sinetron)	isLocatedIn	Indonesia
+Rajawali_(sinetron)	isLocatedIn	Indonesia
+
+http://dbpedia.org/resource/WHMJ	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Pennsylvania
+WHMJ	Pennsylvania
+WHMJ	isLocatedIn	Pennsylvania
+WHMJ	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/WHMJ	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Pennsylvania
+WHMJ	Pennsylvania
+WHMJ	isLocatedIn	Cambridge_Springs,_Pennsylvania
+WHMJ	isLocatedIn	Cambridge_Springs,_Pennsylvania
+WHMJ	isLocatedIn	Cambridge_Springs,_Pennsylvania
+WHMJ	isLocatedIn	Cambridge_Springs,_Pennsylvania
+WHMJ	isLocatedIn	Pennsylvania
+WHMJ	isLocatedIn	Pennsylvania
+
+http://dbpedia.org/resource/WHMJ	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Pennsylvania
+WHMJ	Pennsylvania
+WHMJ	isLocatedIn	Cambridge_Springs,_Pennsylvania
+WHMJ	isLocatedIn	Cambridge_Springs,_Pennsylvania
+Cambridge_Springs,_Pennsylvania	isLocatedIn	Pennsylvania
+Cambridge_Springs,_Pennsylvania	isLocatedIn	Pennsylvania
+

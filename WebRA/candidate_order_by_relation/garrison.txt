@@ -1,0 +1,263 @@
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Damascus
+Syrian_Army	Damascus
+Syrian_Army	participatedIn	Hundred_Days'_War
+Syrian_Army	participatedIn	Hundred_Days'_War
+Syrian_Army	participatedIn	Hundred_Days'_War
+Syrian_Army	participatedIn	Hundred_Days'_War
+Syrian_Army	isLocatedIn	Damascus
+Syrian_Army	isLocatedIn	Damascus
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Damascus
+Syrian_Army	Damascus
+Syrian_Army	participatedIn	Battle_of_Taftanaz
+Syrian_Army	participatedIn	Battle_of_Taftanaz
+Syrian_Army	participatedIn	Battle_of_Taftanaz
+Syrian_Army	participatedIn	Battle_of_Taftanaz
+Syrian_Army	isLocatedIn	Damascus
+Syrian_Army	isLocatedIn	Damascus
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Damascus
+Syrian_Army	Damascus
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+Bashar_al-Assad	isLeaderOf	Syrian_Armed_Forces
+Bashar_al-Assad	isLeaderOf	Syrian_Armed_Forces
+Syrian_Armed_Forces	isLocatedIn	Damascus
+Syrian_Armed_Forces	isLocatedIn	Damascus
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Damascus
+Syrian_Army	Damascus
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+Bashar_al-Assad	isLeaderOf	Syrian_Army
+Bashar_al-Assad	wasBornIn	Damascus
+Bashar_al-Assad	wasBornIn	Damascus
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Damascus
+Syrian_Army	Damascus
+Syrian_Army	isLocatedIn	Damascus
+Syrian_Army	isLocatedIn	Damascus
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Damascus
+Syrian_Army	Damascus
+Fahd_Jassem_al-Freij	isLeaderOf	Syrian_Army
+Fahd_Jassem_al-Freij	isLeaderOf	Syrian_Army
+Fahd_Jassem_al-Freij	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Fahd_Jassem_al-Freij	isAffiliatedTo	Arab_Socialist_Ba'ath_Party_–_Syria_Region
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Damascus
+Arab_Socialist_Ba'ath_Party_–_Syria_Region	isLocatedIn	Damascus
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Damascus
+Syrian_Army	Damascus
+Fahd_Jassem_al-Freij	isLeaderOf	Syrian_Army
+Fahd_Jassem_al-Freij	isLeaderOf	Syrian_Army
+Fahd_Jassem_al-Freij	isLeaderOf	Syrian_Army
+Fahd_Jassem_al-Freij	isLeaderOf	Syrian_Army
+Syrian_Army	isLocatedIn	Damascus
+Syrian_Army	isLocatedIn	Damascus
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Damascus
+Syrian_Army	Damascus
+Syrian_Army	participatedIn	Battle_of_Rastan_(2011)
+Syrian_Army	participatedIn	Battle_of_Rastan_(2011)
+Syrian_Army	participatedIn	Battle_of_Rastan_(2011)
+Syrian_Army	participatedIn	Battle_of_Rastan_(2011)
+Syrian_Army	isLocatedIn	Damascus
+Syrian_Army	isLocatedIn	Damascus
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Damascus
+Syrian_Army	Damascus
+Syrian_Army	participatedIn	Mountain_War_(Lebanon)
+Syrian_Army	participatedIn	Mountain_War_(Lebanon)
+Syrian_Social_Nationalist_Party	participatedIn	Mountain_War_(Lebanon)
+Syrian_Social_Nationalist_Party	participatedIn	Mountain_War_(Lebanon)
+Syrian_Social_Nationalist_Party	isLocatedIn	Damascus
+Syrian_Social_Nationalist_Party	isLocatedIn	Damascus
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Damascus
+Syrian_Army	Damascus
+Syrian_Army	participatedIn	Mountain_War_(Lebanon)
+Syrian_Army	participatedIn	Mountain_War_(Lebanon)
+Syrian_Army	participatedIn	Mountain_War_(Lebanon)
+Syrian_Army	participatedIn	Mountain_War_(Lebanon)
+Syrian_Army	isLocatedIn	Damascus
+Syrian_Army	isLocatedIn	Damascus
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Damascus
+Syrian_Army	Damascus
+Syrian_Army	participatedIn	Battle_of_Douma
+Syrian_Army	participatedIn	Battle_of_Douma
+Syrian_Army	participatedIn	Battle_of_Douma
+Syrian_Army	participatedIn	Battle_of_Douma
+Syrian_Army	isLocatedIn	Damascus
+Syrian_Army	isLocatedIn	Damascus
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Damascus
+Syrian_Army	Damascus
+Syrian_Army	participatedIn	War_of_the_Camps
+Syrian_Army	participatedIn	War_of_the_Camps
+Syrian_Army	participatedIn	War_of_the_Camps
+Syrian_Army	participatedIn	War_of_the_Camps
+Syrian_Army	isLocatedIn	Damascus
+Syrian_Army	isLocatedIn	Damascus
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Damascus
+Syrian_Army	Damascus
+Syrian_Army	participatedIn	2016_Khanasir_offensive
+Syrian_Army	participatedIn	2016_Khanasir_offensive
+National_Defence_Forces_(Syria)	participatedIn	2016_Khanasir_offensive
+National_Defence_Forces_(Syria)	participatedIn	2016_Khanasir_offensive
+National_Defence_Forces_(Syria)	isLocatedIn	Damascus
+National_Defence_Forces_(Syria)	isLocatedIn	Damascus
+
+http://dbpedia.org/resource/Syrian_Army	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Damascus
+Syrian_Army	Damascus
+Syrian_Army	participatedIn	2016_Khanasir_offensive
+Syrian_Army	participatedIn	2016_Khanasir_offensive
+Syrian_Army	participatedIn	2016_Khanasir_offensive
+Syrian_Army	participatedIn	2016_Khanasir_offensive
+Syrian_Army	isLocatedIn	Damascus
+Syrian_Army	isLocatedIn	Damascus
+
+http://dbpedia.org/resource/Free_Libyan_Air_Force	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Benghazi
+Free_Libyan_Air_Force	Benghazi
+Free_Libyan_Air_Force	participatedIn	Second_Battle_of_Benghazi
+Free_Libyan_Air_Force	participatedIn	Second_Battle_of_Benghazi
+Second_Battle_of_Benghazi	happenedIn	Benghazi
+Second_Battle_of_Benghazi	isLocatedIn	Benghazi
+Second_Battle_of_Benghazi	happenedIn	Benghazi
+Second_Battle_of_Benghazi	isLocatedIn	Benghazi
+
+http://dbpedia.org/resource/Free_Libyan_Air_Force	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Benghazi
+Free_Libyan_Air_Force	Benghazi
+Free_Libyan_Air_Force	isLocatedIn	Libya
+Free_Libyan_Air_Force	isLocatedIn	Libya
+Akram_Ayyad	isCitizenOf	Libya
+Akram_Ayyad	isCitizenOf	Libya
+Akram_Ayyad	wasBornIn	Benghazi
+Akram_Ayyad	wasBornIn	Benghazi
+
+http://dbpedia.org/resource/Free_Libyan_Air_Force	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Benghazi
+Free_Libyan_Air_Force	Benghazi
+Free_Libyan_Air_Force	isLocatedIn	Libya
+Free_Libyan_Air_Force	isLocatedIn	Libya
+Second_Battle_of_Benghazi	isLocatedIn	Libya
+Second_Battle_of_Benghazi	happenedIn	Libya
+Second_Battle_of_Benghazi	isLocatedIn	Libya
+Second_Battle_of_Benghazi	happenedIn	Libya
+Second_Battle_of_Benghazi	happenedIn	Benghazi
+Second_Battle_of_Benghazi	isLocatedIn	Benghazi
+Second_Battle_of_Benghazi	happenedIn	Benghazi
+Second_Battle_of_Benghazi	isLocatedIn	Benghazi
+
+http://dbpedia.org/resource/Free_Libyan_Air_Force	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Benghazi
+Free_Libyan_Air_Force	Benghazi
+Free_Libyan_Air_Force	isLocatedIn	Libya
+Free_Libyan_Air_Force	isLocatedIn	Libya
+First_Battle_of_Benghazi	isLocatedIn	Libya
+First_Battle_of_Benghazi	happenedIn	Libya
+First_Battle_of_Benghazi	isLocatedIn	Libya
+First_Battle_of_Benghazi	happenedIn	Libya
+First_Battle_of_Benghazi	isLocatedIn	Benghazi
+First_Battle_of_Benghazi	happenedIn	Benghazi
+First_Battle_of_Benghazi	isLocatedIn	Benghazi
+First_Battle_of_Benghazi	happenedIn	Benghazi
+
+http://dbpedia.org/resource/Pakistan_Navy	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Islamabad
+Pakistan_Navy	Islamabad
+Pakistan_Navy	isLocatedIn	Pakistan
+Pakistan_Navy	isLocatedIn	Pakistan
+Chaudry_Mohammad_Aslam	isCitizenOf	Pakistan
+Chaudry_Mohammad_Aslam	isCitizenOf	Pakistan
+Chaudry_Mohammad_Aslam	diedIn	Islamabad
+Chaudry_Mohammad_Aslam	diedIn	Islamabad
+
+http://dbpedia.org/resource/Pakistan_Navy	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Islamabad
+Pakistan_Navy	Islamabad
+Pakistan_Navy	isLocatedIn	Pakistan
+Pakistan_Navy	isLocatedIn	Pakistan
+Uzair_Jaswal	isCitizenOf	Pakistan
+Uzair_Jaswal	isCitizenOf	Pakistan
+Uzair_Jaswal	livesIn	Islamabad
+Uzair_Jaswal	livesIn	Islamabad
+
+http://dbpedia.org/resource/Hellenic_Force_in_Cyprus	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Nicosia
+Hellenic_Force_in_Cyprus	Nicosia
+Hellenic_Force_in_Cyprus	isLocatedIn	Nicosia
+Hellenic_Force_in_Cyprus	isLocatedIn	Nicosia
+
+http://dbpedia.org/resource/Hellenic_Force_in_Cyprus	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Nicosia
+Hellenic_Force_in_Cyprus	Nicosia
+Hellenic_Force_in_Cyprus	isLocatedIn	Cyprus
+Hellenic_Force_in_Cyprus	isLocatedIn	Cyprus
+James_I_of_Cyprus	isCitizenOf	Cyprus
+James_I_of_Cyprus	isCitizenOf	Cyprus
+James_I_of_Cyprus	diedIn	Nicosia
+James_I_of_Cyprus	diedIn	Nicosia
+
+http://dbpedia.org/resource/Hellenic_Force_in_Cyprus	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Nicosia
+Hellenic_Force_in_Cyprus	Nicosia
+Hellenic_Force_in_Cyprus	participatedIn	Turkish_invasion_of_Cyprus
+Hellenic_Force_in_Cyprus	participatedIn	Turkish_invasion_of_Cyprus
+Hellenic_Force_in_Cyprus	participatedIn	Turkish_invasion_of_Cyprus
+Hellenic_Force_in_Cyprus	participatedIn	Turkish_invasion_of_Cyprus
+Hellenic_Force_in_Cyprus	isLocatedIn	Nicosia
+Hellenic_Force_in_Cyprus	isLocatedIn	Nicosia
+
+http://dbpedia.org/resource/Frontier_Corps	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Khyber_Pakhtunkhwa
+Frontier_Corps	Khyber_Pakhtunkhwa
+Frontier_Corps	isLocatedIn	Pakistan
+Frontier_Corps	isLocatedIn	Pakistan
+Jamrud	isLocatedIn	Pakistan
+Jamrud	isLocatedIn	Pakistan
+Jamrud	isLocatedIn	Khyber_Pakhtunkhwa
+Jamrud	isLocatedIn	Khyber_Pakhtunkhwa
+
+http://dbpedia.org/resource/Frontier_Corps	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Khyber_Pakhtunkhwa
+Frontier_Corps	Khyber_Pakhtunkhwa
+Frontier_Corps	isLocatedIn	Pakistan
+Frontier_Corps	isLocatedIn	Pakistan
+Khyber_Pakhtunkhwa_Department_of_Agriculture	isLocatedIn	Pakistan
+Khyber_Pakhtunkhwa_Department_of_Agriculture	isLocatedIn	Pakistan
+Khyber_Pakhtunkhwa_Department_of_Agriculture	isLocatedIn	Khyber_Pakhtunkhwa
+Khyber_Pakhtunkhwa_Department_of_Agriculture	isLocatedIn	Khyber_Pakhtunkhwa
+
+http://dbpedia.org/resource/Frontier_Corps	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Khyber_Pakhtunkhwa
+Frontier_Corps	Khyber_Pakhtunkhwa
+Frontier_Corps	isLocatedIn	Pakistan
+Frontier_Corps	isLocatedIn	Pakistan
+Peshawar	isLocatedIn	Pakistan
+Peshawar	isLocatedIn	Pakistan
+Khyber_Pakhtunkhwa	isLocatedIn	Peshawar
+Peshawar	isLocatedIn	Khyber_Pakhtunkhwa
+Khyber_Pakhtunkhwa	hasCapital	Peshawar
+Khyber_Pakhtunkhwa	isLocatedIn	Peshawar
+Peshawar	isLocatedIn	Khyber_Pakhtunkhwa
+Khyber_Pakhtunkhwa	hasCapital	Peshawar
+
+http://dbpedia.org/resource/Frontier_Corps	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Khyber_Pakhtunkhwa
+Frontier_Corps	Khyber_Pakhtunkhwa
+Frontier_Corps	isLocatedIn	Pakistan
+Frontier_Corps	isLocatedIn	Pakistan
+Cadet_College_Razmak	isLocatedIn	Pakistan
+Cadet_College_Razmak	isLocatedIn	Pakistan
+Cadet_College_Razmak	isLocatedIn	Khyber_Pakhtunkhwa
+Cadet_College_Razmak	isLocatedIn	Khyber_Pakhtunkhwa
+
+http://dbpedia.org/resource/Frontier_Corps	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Khyber_Pakhtunkhwa
+Frontier_Corps	Khyber_Pakhtunkhwa
+Frontier_Corps	isLocatedIn	Pakistan
+Frontier_Corps	isLocatedIn	Pakistan
+Baghdada	isLocatedIn	Pakistan
+Baghdada	isLocatedIn	Pakistan
+Baghdada	isLocatedIn	Khyber_Pakhtunkhwa
+Baghdada	isLocatedIn	Khyber_Pakhtunkhwa
+
+http://dbpedia.org/resource/Frontier_Corps	http://dbpedia.org/ontology/garrison	http://dbpedia.org/resource/Khyber_Pakhtunkhwa
+Frontier_Corps	Khyber_Pakhtunkhwa
+Frontier_Corps	isLocatedIn	Pakistan
+Frontier_Corps	isLocatedIn	Pakistan
+Swabi_District	isLocatedIn	Pakistan
+Swabi_District	isLocatedIn	Pakistan
+Swabi_District	isLocatedIn	Khyber_Pakhtunkhwa
+Swabi_District	isLocatedIn	Khyber_Pakhtunkhwa
+
