@@ -19,3 +19,6 @@ The experiment for entity alignment is in the folder 'experiment for entity alig
 
 The experiment for evaluating the generation of path-relation patterns is in folder 'FCGA'
 
+### WebRa
+
+The project of WebRA is in folder 'WebRa'

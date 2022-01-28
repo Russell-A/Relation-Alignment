@@ -10,7 +10,7 @@ To run the program, there need some extra packages. Due to the limitation of fil
 
 4. graphvisual, which is the front of our system. You can find the index html page in ./graphvisual/dist
 
-   link: https://pan.baidu.com/s/1Sjz-tGLtbLkbZvCgS3g0zA password: 49a0
+   Link: https://pan.baidu.com/s/1vcVCsLc_5TmaVZ6Ki5Wmgw password: m4nr
 
 
 
